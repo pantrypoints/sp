@@ -9,30 +9,31 @@ tags: ['Cynics']
 ---
 
 
-<sup>1-2</sup> Antisthenes was:
+<sup>1</sup> Antisthenes was:
 - an Athenian
 - the son of Antisthenes
 - a pupil of Gorgias the rhetorician
  <!-- And he was said not to be a legitimate Athenian; in reference to which he said to some one who was reproaching him with the circumstance, “The mother of the Gods too is a Phrygian;” for he was thought to have had a Thracian mother. On which account, as he had borne himself bravely in the battle of Tanagra, he gave occasion to Socrates to say that the son of two Athenians could not have been so brave. And he himself, when disparaging the Athenians who gave themselves great airs as having been born out of the earth itself, said that they were not more noble as far as that went than snails and locusts. -->
 
 
-II. Hermippus says, that he had originally intended in his address at the assembly, on account of the Isthmian games, to attack and also to praise the Athenians, and Thebans, and Lacedæmonians; but that he afterwards abandoned the design, when he saw that there were a great many spectators come from those cities.
+<sup>2</sup> Hermippus says, that he had originally intended in his address at the assembly, on account of the Isthmian games, to attack and also to praise the Athenians, and Thebans, and Lacedæmonians; but that he afterwards abandoned the design, when he saw that there were a great many spectators come from those cities.
 
 Afterwards, he attached himself to Socrates, and made such progress in philosophy while with him, that he advised all his own pupils to become his fellow pupils in the school of Socrates. 
 
 He lived in the Piræus. So he went up 40 furlongs to the city every day, in order to hear Socrates, from whom he learnt the art of enduring, and of being indifferent to external circumstances, and so became the original founder of the Cynic school.
 
 
-III.  He used to argue that labour was a good thing, by adducing the examples of the great Hercules, and of Cyrus, one of which he derived from the Greeks and the other from the barbarians.
+
+<sup>3</sup>  He used to argue that labour was a good thing, by adducing the examples of the great Hercules, and of Cyrus, one of which he derived from the Greeks and the other from the barbarians.
 
 
-IV. He was the first person to define discourse, saying:
+<sup>4</sup> He was the first person to define discourse, saying:
 
 “Discourse is that which shows what anything is or was.”
 
 He used continually to say, “I would rather go mad than feel pleasure.” 
 
-“One ought to attach one’s self to such women as will thank one for it.”
+“One should attach one’s self to such women as will thank one for it.”
 
 He said once to a youth from Pontus, who was on the point of coming to him to be his pupil, and was asking him what things he wanted, “You want a new book, and a new pen, and a new tablet;”—meaning a new mind. And to a person who asked him from what country he had better marry a wife, he said, “If you marry a handsome woman, she will be common if an ugly woman, she will be a punishment to you.” 
 
@@ -68,22 +69,34 @@ He it was who appears to have been the cause of Anytus’s banishment, and of Me
 
 Whenever he saw a woman beautifully adorned, he would go off to her house, and desire her husband to bring forth his horse and his arms; and then if he had such things, he would give him leave to indulge in luxury, for that he had the means of defending himself; but if he had them not, then he would bid him strip his wife of her ornaments.
 
-V. And the doctrines he adopted were these. He used to insist that virtue was a thing which might be taught; also, that the nobly born and virtuously disposed, were the same people; for that virtue was of itself sufficient for happiness, and was in need of nothing, except the strength of Socrates. He also looked upon virtue as a species of work, not wanting many arguments, or much instruction; and he taught that the wise man was sufficient for himself; for that everything that belonged to any one else belonged to him. He considered obscurity of fame a good thing, and equally good with labour. And he used to say that the wise man would regulate[221] his conduct as a citizen, not according to the established laws of the state, but according to the law of virtue. And that he would marry for the sake of having children, selecting the most beautiful woman for his wife. And that he would love her; for that the wise man alone knew what objects deserved love.
 
-Diocles also attributes the following apophthegms to him. To the wise man, nothing is strange and nothing remote. The virtuous man is worthy to be loved. Good men are friends. It is right to make the brave and just one’s allies. Virtue is a weapon of which a man cannot be deprived. It is better to fight with a few good men against all the wicked, than with many wicked men against a few good men. One should attend to one’s enemies, for they are the first persons to detect one’s errors. One should consider a just man as of more value than a relation. Virtue is the same in a man as in a woman. What is good is honourable, and what is bad is disgraceful. Think everything that is wicked, foreign. Prudence is the safest fortification; for it can neither fall to pieces nor be betrayed. One must prepare one’s self a fortress in one’s own impregnable thoughts.
+<sup>5</sup> The doctrines he adopted were these. He used to insist that virtue was a thing which might be taught; also, that the nobly born and virtuously disposed, were the same people.
 
-VI. He used to lecture in the Gymnasium called Cynosarges, not far from the gates.
+For that virtue was of itself sufficient for happiness, and was in need of nothing, except the strength of Socrates. He also looked upon virtue as a species of work, not wanting many arguments, or much instruction; and he taught that the wise man was sufficient for himself; for that everything that belonged to any one else belonged to him. He considered obscurity of fame a good thing, and equally good with labour. 
+
+He used to say that the wise man would regulate[221] his conduct as a citizen, not according to the established laws of the state, but according to the law of virtue. And that he would marry for the sake of having children, selecting the most beautiful woman for his wife. And that he would love her; for that the wise man alone knew what objects deserved love.
+
+Diocles also attributes the following apophthegms to him. To the wise man, nothing is strange and nothing remote. The virtuous man is worthy to be loved. Good men are friends. 
+
+It is right to make the brave and just one’s allies. Virtue is a weapon of which a man cannot be deprived. It is better to fight with a few good men against all the wicked, than with many wicked men against a few good men. One should attend to one’s enemies, for they are the first persons to detect one’s errors. One should consider a just man as of more value than a relation. 
+
+Virtue is the same in a man as in a woman. What is good is honourable, and what is bad is disgraceful. Think everything that is wicked, foreign. Prudence is the safest fortification; for it can neither fall to pieces nor be betrayed. One must prepare one’s self a fortress in one’s own impregnable thoughts.
+
+
+<sup>6</sup>  He used to lecture in the Gymnasium called Cynosarges, not far from the gates.
 
 Some people say this is where the sect got the name of Cynics. He himself was called Haplocyon (downright dog).
 
-VII. He was the first person to set the fashion of doubling his cloak, as Diocles says, and he wore no other garment.
+
+<sup>7</sup>  He was the first person to set the fashion of doubling his cloak, as Diocles says, and he wore no other garment.
 
 He used to carry a stick and a wallet. 
 
 But Neanthes says that he was the first person who wore a cloak without folding it. But Sosicrates, in the third book of his Successions, says that Diodorus, of Aspendos, let his beard grow, and used to carry a stick and a wallet.
 
 
-VIII. He is the only one of all the pupils of Socrates, whom Theopompus praises and speaks of as clever, and able to persuade whomsoever he pleased by the sweetness of his conversation.
+
+<sup>8</sup> He is the only one of all the pupils of Socrates, whom Theopompus praises and speaks of as clever, and able to persuade whomsoever he pleased by the sweetness of his conversation.
 
 This is plain, both from his own writings, and from the Banquet of Xenophon. He appears to have been the founder of the more manly Stoic school; on which account Athenæus, the epigrammatist, speaks thus of them:—
 
@@ -99,7 +112,8 @@ One of the Muses ’tis who has convinc’d them.
 He was the original cause of the apathy of Diogenes, and the temperance of Crates, and the patience of Zeno, having himself, as it were, laid the foundations of the city which they afterwards built. And Xenophon says, that in his conversation and society, he was the most delightful of men, and in every respect the most temperate.
 
 
-IX. There are 10 volumes of his writings extant.
+
+<sup>9</sup> There are 10 volumes of his writings extant.
 
 Volume 1 is that in which there is the essay on Style, or on Figures of Speech; the Ajax, or speech of Ajax; the Defence, of Orestes or the treatise on Lawyers; the Isographe, or the Lysias and Isocrates; the reply to the work of Isocrates, entitled the Absence of Witnesses. 
 
@@ -124,13 +138,13 @@ Volume 10 is occupied by the Heracles, or Medas; the Hercules, or an Essay on Pr
 These then are the names of his works. And Timon, rebuking him because of their great number, called him a universal chatterer.
 
 
-X. He died of some disease. 
+<sup>10</sup> He died of some disease. 
 
 While he was ill, Diogenes came to visit him:
 
 {{< r a="Diogenes" >}}
 Have you no need of a friend?
-{{< /r b>}}
+{{< /r >}}
 
 Once too he came to see Antisthenes with a sword in his hand.
 

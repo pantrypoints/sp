@@ -79,9 +79,7 @@ Traditionally:
 However, Kant corrupts the word a priori by defining it as **perceptions that are confined to the mind** and a posteriori as outside the mind. 
 
 {{< q a="Kant" c="Introduction, Critique of Pure Reason" >}}
-Our empirical knowledge is a compound of that which we receive through impressions, and that which the mind supplies from itself.. 
-
-Knowledge altogether independent of experience and sensuous impressions is called a priori, in contradistinction to empirical knowledge, which has its sources a posteriori, that is, in experience.
+Our empirical knowledge is a compound of that which we receive through impressions, and that which the mind supplies from itself.. Knowledge altogether independent of experience and sensuous impressions is called a priori, in contradistinction to empirical knowledge, which has its sources a posteriori, that is, in experience.
 {{< /q >}}
 
 
