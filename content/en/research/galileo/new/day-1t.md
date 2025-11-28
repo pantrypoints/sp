@@ -109,5 +109,3 @@ Allow me, if you please, Salviati, to say just a few words. Now tell me, Simplic
 {{< r a="Simplicio" >}}
 This can neither be doubted nor gainsaid.
 {{< /r >}}
-
-

@@ -120,4 +120,3 @@ But if we imagine the body, by some extreme and final analysis, resolved into it
 
 Thus one can easily imagine a small ball of gold expanded into a very large space without the introduction of a finite number of empty spaces, always provided the gold is made up of an infinite number of indivisible parts. 
 {{< /l >}}
-

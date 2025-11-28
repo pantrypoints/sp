@@ -29,7 +29,9 @@ If we consider descent along arcs instead of their chords then, provided these d
 
 But these times are greater for the chord than for the arc, an effect which is all the more remarkable because at first glance one would think just the opposite to be true. For since the terminal points of the two motions are the same and since the straight line included between these two points is the shortest distance between them, it would seem reasonable that motion along this line should be executed in the shortest time; but this is not the case, for the shortest time—and therefore the most rapid motion—is that employed along the arc of which this straight line is the chord.
 
-As to the times of vibration of bodies suspended by threads of different lengths, they bear to each other the same proportion as the square roots of the lengths of the thread; or one might say the lengths are to each other as the squares of the times; so that if one wishes to make the vibration-time of one pendulum twice that of another, he must make its suspension four times as long. In like manner, if one pendulum has a suspension nine times as long as another, this second pendulum will execute three vibrations during each one of the first; from which it follows that the lengths of the suspending cords bear to each other the [inverse] ratio of the squares of the number of vibrations performed in the same time.
+As to the times of vibration of bodies suspended by threads of different lengths, they bear to each other the same proportion as the square roots of the lengths of the thread; or one might say the lengths are to each other as the squares of the times; so that if one wishes to make the vibration-time of one pendulum twice that of another, he must make its suspension four times as long. 
+
+In like manner, if one pendulum has a suspension nine times as long as another, this second pendulum will execute three vibrations during each one of the first; from which it follows that the lengths of the suspending cords bear to each other the [inverse] ratio of the squares of the number of vibrations performed in the same time.
 {{< /l >}}
 
 

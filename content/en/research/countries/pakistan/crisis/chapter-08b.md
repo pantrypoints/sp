@@ -1,8 +1,8 @@
 ---
 title: Jamiat Ulema-e-Hind
 description: "Jamiat Ulema-e-Hind"
-weight: 50
-heading: Chapter 8
+weight: 51
+heading: Chapter 8b
 c: darkgreen
 author: Zahid Hussain
 ---

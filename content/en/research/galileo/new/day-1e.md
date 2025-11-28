@@ -112,6 +112,3 @@ But even if this demanded an infinite number would you still think it impossible
 {{< r a="Sagredo" >}}
 Not if the mass [mole] of metal were infinite; otherwise.
 {{< /r >}}
-
-
-

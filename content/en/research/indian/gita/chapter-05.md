@@ -1,6 +1,6 @@
 ---
-title: "Karmasanyasayog: Renouncing The Fruit of Works"
-heading: "Chapter 5 "
+title: "Karmasanyasayog</sup> Renouncing The Fruit of Works"
+heading: "Chapter 5"
 weight: 10
 contributors: ['Vyasa']
 description: "The region of high rest which Sankhyans reach Yogins attain"
@@ -11,118 +11,61 @@ icon: "Krishna"
 
 
 {{< r a="Arjuna" >}}
-Yet, Krishna! at the one time thou dost laud
-Surcease of works, and, at another time,
-Service through work. Of these twain plainly tell
-Which is the better way?
+O Kṛṣṇa, first of all You ask me to renounce work. But you also recommend work with devotion. Which of the two is more beneficial?
 {{< /r >}}
 
-
 {{< l a="Krishna" >}}
-To cease from works
+The renunciation of work and work in devotion are both good for liberation. But, of the two, work in devotional service is better than renunciation of work.
 
-Is well, and to do works in holiness
-Is well; and both conduct to bliss supreme;
-But of these twain the better way is his
-Who working piously refraineth not.
-That is the true Renouncer, firm and fixed,
-Who--seeking nought, rejecting nought--dwells proof
-Against the "opposites."[FN#8] O valiant Prince!
-In doing, such breaks lightly from all deed:
-'Tis the new scholar talks as they were two,
-This Sankhya and this Yoga: wise men know
-Who husbands one plucks golden fruit of both!
-The region of high rest which Sankhyans reach
-Yogins attain. Who sees these twain as one
-Sees with clear eyes! Yet such abstraction, Chief!
-Is hard to win without much holiness.
-Whoso is fixed in holiness, self-ruled,
-Pure-hearted, lord of senses and of self,
-Lost in the common life of all which lives--
-A "Yogayukt"--he is a Saint who wends
-Straightway to Brahm. Such an one is not touched
-By taint of deeds. "Nought of myself I do!"
-Thus will he think-who holds the truth of truths--
-In seeing, hearing, touching, smelling; when
-He eats, or goes, or breathes; slumbers or talks,
-Holds fast or loosens, opes his eyes or shuts;
-Always assured "This is the sense-world plays
-With senses."He that acts in thought of Brahm,
-Detaching end from act, with act content,
-The world of sense can no more stain his soul
-Than waters mar th' enamelled lotus-leaf.
-With life, with heart, with mind,-nay, with the help
-Of all five senses--letting selfhood go--
-Yogins toil ever towards their souls' release.
-Such votaries, renouncing fruit of deeds,
-Gain endless peace: the unvowed, the passion-bound,
-Seeking a fruit from works, are fastened down.
-The embodied sage, withdrawn within his soul,
-At every act sits godlike in "the town
-Which hath nine gateways,"[FN#9] neither doing aught
-Nor causing any deed. This world's Lord makes
-Neither the work, nor passion for the work,
-Nor lust for fruit of work; the man's own self
-Pushes to these! The Master of this World
-Takes on himself the good or evil deeds
-Of no man--dwelling beyond! Mankind errs here
-By folly, darkening knowledge. But, for whom
-That darkness of the soul is chased by light,
-Splendid and clear shines manifest the Truth
-As if a Sun of Wisdom sprang to shed
-Its beams of dawn. Him meditating still,
-Him seeking, with Him blended, stayed on Him,
-The souls illuminated take that road
-Which hath no turning back--their sins flung off
-By strength of faith. [Who will may have this Light;
-Who hath it sees.] To him who wisely sees,
-The Brahman with his scrolls and sanctities,
-The cow, the elephant, the unclean dog,
-The Outcast gorging dog's meat, are all one.
-The world is overcome--aye! even here!
-By such as fix their faith on Unity.
-The sinless Brahma dwells in Unity,
-And they in Brahma. Be not over-glad
-Attaining joy, and be not over-sad
-Encountering grief, but, stayed on Brahma, still
-Constant let each abide! The sage whose soul
-Holds off from outer contacts, in himself
-Finds bliss; to Brahma joined by piety,
-His spirit tastes eternal peace. The joys
-Springing from sense-life are but quickening wombs
-Which breed sure griefs: those joys begin and end!
-The wise mind takes no pleasure, Kunti's Son!
-In such as those! But if a man shall learn,
-Even while he lives and bears his body's chain,
-To master lust and anger, he is blest!
-He is the Yukta; he hath happiness,
-Contentment, light, within: his life is merged
-In Brahma's life; he doth Nirvana touch!
-Thus go the Rishis unto rest, who dwell
-With sins effaced, with doubts at end, with hearts
-Governed and calm. Glad in all good they live,
-Nigh to the peace of God; and all those live
-Who pass their days exempt from greed and wrath,
-Subduing self and senses, knowing the Soul!
-The Saint who shuts outside his placid soul
-All touch of sense, letting no contact through;
-Whose quiet eyes gaze straight from fixed brows,
-Whose outward breath and inward breath are drawn
-Equal and slow through nostrils still and close;
-That one-with organs, heart, and mind constrained,
-Bent on deliverance, having put away
-Passion, and fear, and rage;--hath, even now,
-Obtained deliverance, ever and ever freed.
+One who neither hates nor desires the fruits of his activities is known to be always renounced. Such a person, free from all dualities, easily overcomes material bondage and is completely liberated.
 
-He knows Me Who am He that heeds
+<sup>4</sup> Only the ignorant speak of devotional service [karma-yoga] as being different from the analytical study of the material world [Sāṅkhya]. Those who are actually learned say that he who applies himself well to one of these paths achieves the results of both.
 
-The sacrifice and worship, God revealed;
+<sup>5</sup> One who knows that the position reached by means of analytical study can also be attained by devotional service, and who therefore sees analytical study and devotional service to be on the same level, sees things as they are.
 
-He who heeds not, being Lord of Worlds,
-Lover of all that lives, God unrevealed,
-Wherein who will shall find surety and shield!
+<sup>6</sup> Merely renouncing all activities yet not engaging in the devotional service of the Lord cannot make one happy. But a thoughtful person engaged in devotional service can achieve the Supreme without delay.
+
+<sup>7</sup> One who works in devotion, who is a pure soul, and who controls his mind and senses is dear to everyone, and everyone is dear to him. Though always working, such a man is never entangled.
+
+<sup>8-9</sup> A person in the divine consciousness, although engaged in seeing, hearing, touching, smelling, eating, moving about, sleeping and breathing, always knows within himself that he actually does nothing at all. Because while speaking, evacuating, receiving, or opening or closing his eyes, he always knows that only the material senses are engaged with their objects and that he is aloof from them.
+
+<sup>10</sup> One who performs his duty without attachment, surrendering the results unto the Supreme Lord, is unaffected by sinful action, as the lotus leaf is untouched by water.
+
+<sup>11</sup> The yogīs, abandoning attachment, act with body, mind, intelligence and even with the senses, only for the purpose of purification.
+
+<sup>12</sup> The steadily devoted soul attains unadulterated peace because he offers the result of all activities to Me; whereas a person who is not in union with the Divine, who is greedy for the fruits of his labor, becomes entangled.
+
+<sup>13</sup> When the embodied living being controls his nature and mentally renounces all actions, he resides happily in the city of nine gates [the material body], neither working nor causing work to be done.
+
+<sup>14</sup> The embodied spirit, master of the city of his body, does not create activities, nor does he induce people to act, nor does he create the fruits of action. All this is enacted by the modes of material nature.
+
+<sup>15</sup> Nor does the Supreme Lord assume anyone’s sinful or pious activities. Embodied beings, however, are bewildered because of the ignorance which covers their real knowledge.
+
+<sup>16</sup> When, however, one is enlightened with the knowledge by which nescience is destroyed, then his knowledge reveals everything, as the sun lights up everything in the daytime.
+
+<sup>17</sup> When one’s intelligence, mind, faith and refuge are all fixed in the Supreme, then one becomes fully cleansed of misgivings through complete knowledge and thus proceeds straight on the path of liberation.
+
+<sup>18</sup> The humble sages, by virtue of true knowledge, see with equal vision a learned and gentle brāhmaṇa, a cow, an elephant, a dog and a dog-eater [outcaste].
+
+<sup>19</sup> Those whose minds are established in sameness and equanimity have already conquered the conditions of birth and death. They are flawless like Brahman, and thus they are already situated in Brahman.
+
+<sup>20</sup> A person who neither rejoices upon achieving something pleasant nor laments upon obtaining something unpleasant, who is self-intelligent, who is unbewildered, and who knows the science of God is already situated in transcendence.
+
+<sup>21</sup> Such a liberated person is not attracted to material sense pleasure but is always in trance, enjoying the pleasure within. In this way the self-realized person enjoys unlimited happiness, for he concentrates on the Supreme.
+
+<sup>22</sup> An intelligent person does not take part in the sources of misery, which are due to contact with the material senses. O son of Kuntī, such pleasures have a beginning and an end, and so the wise man does not delight in them.
+
+<sup>23</sup> Before giving up this present body, if one is able to tolerate the urges of the material senses and check the force of desire and anger, he is well situated and is happy in this world.
+
+<sup>24</sup> One whose happiness is within, who is active and rejoices within, and whose aim is inward is actually the perfect mystic. He is liberated in the Supreme, and ultimately he attains the Supreme.
+
+<sup>25</sup> Those who are beyond the dualities that arise from doubts, whose minds are engaged within, who are always busy working for the welfare of all living beings and who are free from all sins achieve liberation in the Supreme.
+
+<sup>26</sup> Those who are free from anger and all material desires, who are self-realized, self-disciplined and constantly endeavoring for perfection, are assured of liberation in the Supreme in the very near future.
+
+<sup>27-28</sup> Shutting out all external sense objects, keeping the eyes and vision concentrated between the two eyebrows, suspending the inward and outward breaths within the nostrils, and thus controlling the mind, senses and intelligence, the transcendentalist aiming at liberation becomes free from desire, fear and anger. One who is always in this state is certainly liberated.
+
+<sup>29</sup> A person in full consciousness of Me, knowing Me to be the ultimate beneficiary of all sacrifices and austerities, the Supreme Lord of all planets and demigods, and the benefactor and well-wisher of all living entities, attains peace from the pangs of material miseries.
 {{< /l >}}
-
-
 
 

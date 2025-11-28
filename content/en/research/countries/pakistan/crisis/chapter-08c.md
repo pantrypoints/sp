@@ -1,3 +1,12 @@
+---
+title: Hellfire Missiles
+description: "Drone Strikes"
+weight: 52
+heading: Chapter 8c
+c: darkgreen
+author: Zahid Hussain
+---
+
 
 
 

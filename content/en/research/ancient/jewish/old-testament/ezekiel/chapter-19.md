@@ -21,11 +21,9 @@ A lioness: she lay down among lions, she nourished her whelps among young lions.
 <sup>6</sup> He went up and down among the lions, he became a young lion, and learned to catch the prey, [and]
 devoured men. 
 
-<sup>7</sup> And he knew their desolate palaces, and he laid waste their cities; and the land was desolate, and
-the fulness thereof, by the noise of his roaring. 
+<sup>7</sup> He knew their desolate palaces, and he laid waste their cities; and the land was desolate, and the fulness thereof, by the noise of his roaring. 
 
-8} Then the nations set against him on every side from the provinces, and spread their net over him: he was taken in
-their pit. 
+<sup>8</sup> Then the nations set against him on every side from the provinces, and spread their net over him: he was taken in their pit. 
 
 <sup>9</sup> They put him in ward in chains, and brought him to the king of Babylon: they brought him into holds, that his voice should no more be heard upon the mountains of Israel.
 
@@ -38,4 +36,3 @@ their pit.
 <sup>13</sup> She is planted in the wilderness, in a dry and thirsty ground. 14} And fire is gone out of a rod of her branches, [which] hath devoured her fruit, so that she hath no strong rod [to be] a sceptre to rule. 
 
 This is a lamentation, and shall be for a lamentation.
-

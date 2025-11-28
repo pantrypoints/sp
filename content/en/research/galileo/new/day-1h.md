@@ -101,5 +101,3 @@ Or if I had replied to him that the points in one line were equal in number to t
 
 So much for the first difficulty. 
 {{< /l >}}
-
-

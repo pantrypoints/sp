@@ -33,10 +33,14 @@ But when you try to separate them, the plates exhibit such a repugnance to separ
 The upper one will carry the lower one with it and keep it lifted indefinitely, even when the latter is big and heavy. 
 
 This experiment shows the aversion of nature for empty space, even during the brief moment required for the outside air to rush in and fill up the region between the 2 plates.
+{{< /l >}}
+
 
 {{< i s="/photos/physics/gauge.jpg" a="Gauge Blocks" >}}
 
 
+
+{{< l a="Salviati" >}}
 If 2 plates are not thoroughly polished, their contact is imperfect. If you separate them slowly, the only resistance offered is that of weight.
 
 But if you pull them apart suddenly, the lower plate rises but quickly falls back.

@@ -2,7 +2,7 @@
 title: Retooling Institutions
 description: "Beyond the 'Crisis State'"
 weight: 56
-heading: Chapter 8
+heading: Chapter 9b
 c: darkgreen
 author: Dr Ishrat Husain
 ---

@@ -1,9 +1,9 @@
 ---
-title: AN ECONOMIC CRISIS STATE?
+title: An Economic Crisis State?
 weight: 58
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-heading: Chapter 8
+heading: Chapter 10
 c: darkgreen
 author: Dr Meekal Ahmed
 ---
@@ -22,6 +22,7 @@ The consequences of this secular decline in economic governance are:
 - crippling power outages
 - growing unemployment
 - deepening poverty and a deteriorating debt profile.
+
 
 
 ### The Early Years
@@ -82,16 +83,13 @@ Some of the industries that had been set-up behind high protective tariff barrie
 
 Factor price distortions, including an over-valued exchange rate had led to the choice of highly capital-intensive techniques of production, generating little employment per unit of capital and output. One study by an East Pakistan economist of repute calculated that factor intensity in Pakistan as measured by the capital-labour ratio was higher than in an advanced country like Japan. 
 
-There had been economic growth to be sure; but it had been distorted in terms of factor proportions and allocative inefficiencies. Most importantly, it had exacted a high price in terms of inter-personal and, more ominously, inter-wing disparities in income and 186wealth. In West Pakistan the revelation of concentration of income and wealth provided the springboard for the rise of Mr Z.A. Bhutto's People's Party and its socialist agenda. In East Pakistan Mujibur Rahman used the finding of concentration of wealth in a few hands, mostly belonging to families in the West, to argue that East Pakistan had been exploited and robbed of its resources and wealth through policy-induced distortions in the inter-wing terms-of-trade.
+There had been economic growth to be sure; but it had been distorted in terms of factor proportions and allocative inefficiencies. Most importantly, it had exacted a high price in terms of inter-personal and, more ominously, inter-wing disparities in income and 186wealth. 
 
-Yahya Khan took over without much economic dislocation. There
-were a few tough words about the concentration of wealth but the
-government did not do much except set up a toothless Monopoly Control
-Authority with an ostensible mandate to look at and punish anti-
-competitive behaviour. It never did amount to much. The 1971 war placed
-pressure on government spending and imports and the dismemberment of
-the country gave pragmatic argument for the nationalisation of the
-financial sector.
+In West Pakistan the revelation of concentration of income and wealth provided the springboard for the rise of Mr Z.A. Bhutto's People's Party and its socialist agenda. In East Pakistan Mujibur Rahman used the finding of concentration of wealth in a few hands, mostly belonging to families in the West, to argue that East Pakistan had been exploited and robbed of its resources and wealth through policy-induced distortions in the inter-wing terms-of-trade.
+
+Yahya Khan took over without much economic dislocation. There were a few tough words about the concentration of wealth but the government did not do much except set up a toothless Monopoly Control Authority with an ostensible mandate to look at and punish anti- competitive behaviour. 
+
+It never did amount to much. The 1971 war placed pressure on government spending and imports and the dismemberment of the country gave pragmatic argument for the nationalisation of the financial sector.
 
 Bhutto had little patience with economic matters. His nationalisation program was a shock to the system and a grievous blow to private sector confidence that would take years to rebuild. New private sector investment came to a virtual halt.
 

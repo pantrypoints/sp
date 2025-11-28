@@ -11,7 +11,7 @@ date: 1967-11-19
 ---
 
 
-### Gandhari
+<!-- ### Gandhari -->
 
 Gandhari was an Afghan lady.
 
@@ -27,7 +27,10 @@ Neither were the people of Kandahara very familiar with the social structure of 
 
 Before marriage, when Gandhari learned that her would-be husband was blind, she covered her eyes with a cloth.
 
-“If my husband is unable to see the world, then why should I?” 
+{{< r a="Gandhari" >}}
+If my husband is unable to see the world, then why should I?
+{{< /r >}}
+
 
 Thinking thus she kept her eyes covered throughout her life. What a tremendous moral force she had!
 
@@ -138,4 +141,4 @@ But if someone is a moralist, a noble man, you must bow to him. This will enrich
 
 <!-- [end of section that was printed separately as part of “The Righteous Gandhari”] -->
 
-<!-- 19 November 1967, Ranchi -->
+19 November 1967, Ranchi
