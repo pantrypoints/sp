@@ -4,6 +4,8 @@ title: "Mathematicians Deceived"
 weight: 17
 description: ""
 c: "steelblue"
+author: "George Berkeley"
+icon: "George Berkeley"
 ---
 
 
