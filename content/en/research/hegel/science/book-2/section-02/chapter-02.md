@@ -10,9 +10,7 @@ c: "steelblue"
 
 
 
-{{< s v="1187" >}}
-
-The absolute is the unity of inner and outer as initial, implicit unity. 
+{{< s v="1187" >}} The absolute is the unity of inner and outer as initial, implicit unity. 
 
 The exposition appeared as external reflection which, on its side, has the immediate before it as something already given, but is at the same time the movement and relation of this to the absolute, and as such movement leads it back into the absolute and determines it as a mere 'way and manner'.
 
@@ -23,11 +21,15 @@ Through this reflection, too, not only is that initial in-itself posited as esse
 This reflection, as sublating itself in its determinations and in general as the self-returning movement, is first truly absolute identity and at the same time is the determining of the absolute or its modality. The mode is therefore the externality of the absolute, but equally only as the reflection of the absolute into itself; or it is the absolute's own manifestation, so that this manifestation is its reflection-into-self and therefore its being-in-and-for-itself.
 
 
-{{< s v="1188" >}}
+{{< s v="1188" >}} The absolute as such manifestation, the absolute which is nothing else and has no content save that of being self-manifestation, is absolute form. Actuality is to be taken as this reflected absoluteness. 
 
-The absolute as such manifestation, the absolute which is nothing else and has no content save that of being self-manifestation, is absolute form. Actuality is to be taken as this reflected absoluteness. Being is not yet actual: it is the first immediacy; its reflection is therefore a becoming and transition into an other; or its immediacy is not being-in-and-for-itself. Actuality also stands higher than Existence. True, Existence is the immediacy that has proceeded from ground and conditions, or from essence and its reflection. It is therefore in itself what actuality is, real reflection, but it is not yet the posited unity of reflection and immediacy. Existence therefore passes over into appearance in that it develops the reflection which it contains.
+Being is not yet actual: it is the first immediacy; its reflection is therefore a becoming and transition into an other; or its immediacy is not being-in-and-for-itself. Actuality also stands higher than Existence. 
 
-It is the ground that has fallen to the ground; its determination is the restoration of the ground; thus it becomes essential relation and its final reflection is the positing of its immediacy as reflection-into-self, and conversely; now this unity in which Existence or immediacy, and the in-itself, the ground or the reflected are simply moments, is actuality. The actual is therefore manifestation; it is not drawn into the sphere of alteration by its externality, nor is it the reflecting of itself in an other, but it manifests itself; that is, in its externality it is itself and is itself in that alone, namely only as a self-distinguishing and self-determining movement.
+True, Existence is the immediacy that has proceeded from ground and conditions, or from essence and its reflection. It is therefore in itself what actuality is, real reflection, but it is not yet the posited unity of reflection and immediacy. Existence therefore passes over into appearance in that it develops the reflection which it contains.
+
+It is the ground that has fallen to the ground; its determination is the restoration of the ground; thus it becomes essential relation and its final reflection is the positing of its immediacy as reflection-into-self, and conversely.
+
+Now this unity in which Existence or immediacy, and the in-itself, the ground or the reflected are simply moments, is actuality. The actual is therefore manifestation; it is not drawn into the sphere of alteration by its externality, nor is it the reflecting of itself in an other, but it manifests itself; that is, in its externality it is itself and is itself in that alone, namely only as a self-distinguishing and self-determining movement.
 
 
 {{< s v="1189" >}}

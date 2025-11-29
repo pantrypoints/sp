@@ -85,17 +85,13 @@ The relation contained in something concrete, in a synthetic unity, is necessary
 
  For such presupposes an internal process of mediation and transition of which the concrete, now become simple, would be the result. But the beginning ought not itself to be already a first and an other; for anything which is in its own self a first and an other implies that an advance has already been made. Consequently, that which constitutes the beginning, the beginning itself, is to be taken as something unanalysable, taken in its simple, unfilled immediacy, and therefore as being, as the completely empty being.
 
-§ 115
 
-If impatience with the consideration of the abstract beginning should provoke anyone to say that the beginning should be made not with the beginning, but straightway with the subject matter itself, well then, this subject matter is nothing else but the said empty being; for what this subject matter is, that will be explicated only in the development of the science and cannot be presupposed by it as known beforehand.
+<sup>115</sup> If impatience with the consideration of the abstract beginning should provoke anyone to say that the beginning should be made not with the beginning, but straightway with the subject matter itself, well then, this subject matter is nothing else but the said empty being; for what this subject matter is, that will be explicated only in the development of the science and cannot be presupposed by it as known beforehand.
 
-§ 116
 
-Whatever other form the beginning takes in the attempt to begin with something other than empty being, it will suffer from the defects already specified. Let those who are still dissatisfied with this beginning tackle the problem of avoiding these defects by beginning in some other way.
+<sup>116</sup> Whatever other form the beginning takes in the attempt to begin with something other than empty being, it will suffer from the defects already specified. Let those who are still dissatisfied with this beginning tackle the problem of avoiding these defects by beginning in some other way.
 
-§ 117
-
-But we cannot leave entirely unmentioned an original beginning of philosophy which has recently become famous, the beginning with the ego. It came partly from the reflection that from the first truth the entire sequel must be derived, and partly from the requirement that the first truth must be something with which we are acquainted, and still more, something of which we are immediately certain. This beginning is, in general, not a contingent idea which can be differently constituted in different subjects. For the ego, this immediate consciousness of self, at first appears to be itself both an immediacy and also something much more familiar to us than any other idea; anything else known belongs to the ego, it is true, but is still a content distinguished from it and therefore contingent; the ego, on the contrary, is the simple certainty of its own self.
+<sup>117</sup> But we cannot leave entirely unmentioned an original beginning of philosophy which has recently become famous, the beginning with the ego. It came partly from the reflection that from the first truth the entire sequel must be derived, and partly from the requirement that the first truth must be something with which we are acquainted, and still more, something of which we are immediately certain. This beginning is, in general, not a contingent idea which can be differently constituted in different subjects. For the ego, this immediate consciousness of self, at first appears to be itself both an immediacy and also something much more familiar to us than any other idea; anything else known belongs to the ego, it is true, but is still a content distinguished from it and therefore contingent; the ego, on the contrary, is the simple certainty of its own self.
 
 § 118
 

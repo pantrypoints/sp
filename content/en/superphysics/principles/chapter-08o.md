@@ -13,7 +13,9 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 aliases:
   /ani
+  /superphysics/solutions/isaiah
 ---
+
 
 
 The previous section explained that Socratic Dialects relies on Data Science to find patters in data so that the signature-waves can be determined.

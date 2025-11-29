@@ -19,9 +19,7 @@ A The Thing and its Properties
 
 ## Remark: The Thing-in-itself of Transcendental Idealism
 
-{{< s v='1060' >}}
-
-Mention has already been made above of the thing-in-itself in connection with the moment of determinate being, of being-in-self.
+{{< s v='1060' >}} I have already mentioned about the thing-in-itself in connection with the moment of determinate being, of being-in-self.
 
 The thing-in-itself is nothing else but the empty abstraction from all determinateness, of which admittedly we can know nothing, for the very reason that it is supposed to be the abstraction from every determination. 
 
@@ -143,9 +141,12 @@ Remark: Immediate Identity of Inner and Outer
 
 The movement of essence is in general the becoming of the Notion. In the relation of inner and outer, the essential moment of this emerges namely, that its determinations are posited as being in negative unity in such a manner that each immediately is not only it other but also the totality of the whole. But in the Notion as such this totality is the universal-a substrate which is not yet present in the relation of inner and outer. In the negative identity of inner and outer which is the immediate conversion of one of these determinations into the other, there is also lacking that substrate which above was called the fact.
 
-§ 1153
 
-It is very important to notice that the unmediated identity of form is posited here without the movement of the fact itself, a movement pregnant with content. It occurs in the fact as this is in its beginning. Thus pure being is immediately nothing. In general, everything real is, in its beginning, such a merely immediate identity; for in its beginning it has not yet opposed and developed its moments; on the one hand it has not yet inwardised itself out of externality. and on the other hand, it has not yet externalised and brought forth itself, out of inwardness by its activity. It is therefore only the inner as determinateness against the outer, and only the outer as determinateness against the inner. Hence it is partly only an immediate being; partly, in so far as it is equally the negativity which is to be the activity of the development, it is as such essentially only as yet an inner.
+<sup>1153</sup> It is very important to notice that the unmediated identity of form is posited here without the movement of the fact itself, a movement pregnant with content. 
+
+It occurs in the fact as this is in its beginning. Thus pure being is immediately nothing. 
+
+In general, everything real is, in its beginning, such a merely immediate identity; for in its beginning it has not yet opposed and developed its moments; on the one hand it has not yet inwardised itself out of externality. and on the other hand, it has not yet externalised and brought forth itself, out of inwardness by its activity. It is therefore only the inner as determinateness against the outer, and only the outer as determinateness against the inner. Hence it is partly only an immediate being; partly, in so far as it is equally the negativity which is to be the activity of the development, it is as such essentially only as yet an inner.
 
 This makes itself apparent in all natural, scientific and spiritual development generally and it is essential to recognise that because something is at first, only inner or also is in its Notion, the first stage is for that very reason only its immediate, passive existence. ®
 
@@ -167,11 +168,10 @@ Or, in our thinking, our first thinking, God is only pure being, or even essence
 
 <!-- Transition to Actuality -->
 
-### Section Three: Actuality
+## Section 3: Actuality
 
-§ 1158
 
-Actuality is the unity of essence and Existence; in it, formless essence and unstable Appearance, or mere subsistence devoid of all determination and unstable manifoldness, have their truth.
+<sup>1158</sup> Actuality is the unity of essence and Existence; in it, formless essence and unstable Appearance, or mere subsistence devoid of all determination and unstable manifoldness, have their truth.
 
 Existence is the immediacy which has proceeded from ground, but form is not as yet posited in it.
 
@@ -180,19 +180,18 @@ In determining and forming itself it is Appearance; and when this subsistence wh
 But the essential relation exhibits their form relation, the consummation of which is the relation of inner and outer in which the content of both is only one identical substrate and equally only one identity of form. By virtue of the fact that this identity is now also identity of form, the form determination of their difference is sublated, and it is posited that they are one absolute totality.
 
 
-§ 1159
+<sup>1159</sup> This unity of inner and outer is absolute actuality. But this actuality is, in the first instance, the absolute as such — in so far as it is posited as a unity in which form has sublated itself and made itself into the empty or outer difference of an outer and inner.
 
-This unity of inner and outer is absolute actuality. But this actuality is, in the first instance, the absolute as such — in so far as it is posited as a unity in which form has sublated itself and made itself into the empty or outer difference of an outer and inner.
+Reflection is external in its relation to this absolute, which, it merely contemplates rather than is the absolute's own movement. 
 
-Reflection is external in its relation to this absolute, which, it merely contemplates rather than is the absolute's own movement. But since it is essentially this movement, it is so as the negative return of the absolute into itself.
+But since it is essentially this movement, it is so as the negative return of the absolute into itself.
 
-§ 1160
+<sup>1160</sup> 2. We have actuality proper.
 
-Secondly, we have actuality proper. Actuality, possibility and necessity constitute the formal moments of the absolute, or its reflection.
+Actuality, possibility and necessity constitute the formal moments of the absolute, or its reflection.
 
-§ 1161
 
-Thirdly, the unity of the absolute and its reflection is the absolute relation, or rather the absolute as relation to itself — substance.
+<sup>1161</sup> 3. The unity of the absolute and its reflection is the absolute relation, or rather the absolute as relation to itself — substance.
 
 <!-- Chapter 1 The Absolute
 A The Exposition of the Absolute
