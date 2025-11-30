@@ -1,11 +1,13 @@
 ---
 heading: Day 1
-title: "Two Systems"
+title: "Aristotele and Ptolemy versus Copernicus"
 # date: 2025-05-15
 weight: 4
 description: ""
-a: "Galileo"
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 
@@ -26,17 +28,13 @@ This is invariant and eternal
 
 2. Elemental
 
-This is temporary and destructible.
-
-Aristotle explains this in his book De Caelo.
+This is temporary and destructible. Aristotle explains this in his book De Caelo.
 
 Simplicio is the defender of Aristotelian doctrines.
 
 The first step in the Peripatetic arguments is Aristotle's proof of the completeness and perfection of the world.
 
-He tells us that the world is not a mere line, nor a bare surface, but a body having length, width, and depth. 
-
-This makes the Whole perfect.
+He tells us that the world is not a mere line, nor a bare surface, but a body having length, width, and depth. This makes the Whole perfect.
 
 <!-- To be sure, I much wish that Aristotle had proved to me by rigorous deductions that simple length constitutes the dimension which we call a line, which by the addition of breadth becomes a surface; that by further adding altitude or depth to this there results a body, and that after these three dimensions there is no passing farther, so that by these three alone, completeness, or, so to speak, wholeness is concluded. -->
 {{< /l >}}

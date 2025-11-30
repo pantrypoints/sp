@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 12"
-title: "USE OF PREPOSITIONS"
+title: "Use Of Prepositions"
 weight: 22
 writer:
   name: PR Sarkar

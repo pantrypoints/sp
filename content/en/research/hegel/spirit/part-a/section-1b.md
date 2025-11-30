@@ -12,8 +12,9 @@ weight: 6
 
 The fundamental difference is that in our perceptions (sense-experience), pure being immediately breaks up into the 2 “thises”:
 
-1. The 'I'
-2. The object of the 'I'
+1. The 'I' [this is aham in Hinduism, the consciousness is mahat]
+2. The object of the 'I' [this is the citta]
+
 
 <!-- When we reflect(2) on this distinction, neither of them is merely immediate, in sense-certainty. But at the same time, they are mediated.
 
@@ -27,26 +28,35 @@ This, again, exists in that certainty through an other, as the 'I'. -->
 This is the distinction between:
 - essential truth and particular example
 - essence and instance
-- immediacy and mediation. 
+- immediacy and mediation
 
-We find this in our perception (sense-certainty) itself. It has to be taken up in the form in which it exists there, not as we have just determined it. 
+We find this in our perception (sense-certainty) itself.
+
+It has to be taken up in the form in which it exists there, not as we have just determined it. 
 - One of them is put forward in it as existing in simple immediacy, as the essential reality, the object. 
 - The other, however, is put forward as the non-essential, as mediated, something which is not per se in the certainty. 
 
-But there, through something else, ego, a state of knowledge which only knows the object because the object is, and which can as well be as not be.
+But there is also the ego, a state of knowledge which only knows the object because the object exists. 
 
-The object, however, is the real truth, is the essential reality. It is, quite indifferent to whether it is known or not. It remains and stands even though it is not known, while the knowledge does not exist if the object is not there.
+<!-- is, and which can as well be as not be. -->
 
+The object, however, is the real truth, the essential reality.
 
-{{< s v="94" >}} Thus, we have to consider whether the object exists in perception (sense-certainty) itself.
+It [the citta] is indifferent to whether it is known or not. It remains and stands even though it is not known, while the knowledge does not exist if the object is not there.
+
+ 
+{{< s v="94" >}} Thus, we have to consider whether the object exists in perception (sense-certainty) [citta] itself.
 
  <!-- as such an essential reality as that certainty gives it out to be; whether its meaning and notion, which is to be essential reality, corresponds to the way it is present in that certainty.  -->
 
-To do this, we do not need to reflect about it and ponder what it might be in truth. Instead, we deal with it merely as the perception  <!-- sense-certainty  --> contains it.
+To do this, we deal with the object merely as the perception.
+
+<!-- do not need to reflect about it and ponder what it might be in truth. Instead, we  -->
+
+<!-- sense-certainty  --> contains it.
 
 
-
-{{< s v="95" >}} What is the This or perception? 
+{{< s v="95" >}} What is the This or perception? [citta]
 
 <!-- the Sense-certainty -->
 
@@ -54,9 +64,10 @@ It exists in a two-fold form* as:
 - the Now
 - the Here
 
-{{< n n="From starting with the aethereal consciousness, Hegel's reasoning goes to the spacetime 'here' and 'now'." >}}
+{{< n n="From starting with the aethereal consciousness or mahat, Hegel's reasoning goes to the spacetime 'here' and 'now' which is a property of mahat." >}}
 
-Its dialectic will take a form as intelligible as the This-perception itself.
+
+Its dialectic will take a form as intelligible as the This-perception itself [aham].
 
 What is the Now?
 - The Now is night-time, for example. 

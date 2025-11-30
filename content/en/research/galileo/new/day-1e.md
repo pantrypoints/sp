@@ -5,6 +5,9 @@ title: "The Cause of Solidity"
 weight: 12
 description: ""
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 

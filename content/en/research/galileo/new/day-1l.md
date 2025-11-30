@@ -5,6 +5,9 @@ title: "What is Unity?"
 weight: 26
 description: ""
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 

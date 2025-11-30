@@ -32,20 +32,22 @@ It was a week-day. Generally devotees came to the Master in large numbers on Sun
 
 A boy named Vishnu, living in Ariadaha, had recently committed suicide by cutting his throat with a razor. The talk turned to him.
 
-MASTER: "I felt very badly when I heard of the boy's passing away. He was a pupil in a school and he used to come here. He would often say to me that he couldn't enjoy worldly life. He had lived with some relatives in the western provinces and at that time used to meditate in solitude, in the meadows, hills, and forests. He told me he had
+{{< l a="Ramakrishna" >}}
+I felt very badly when I heard of the boy's passing away. He was a pupil in a school and he used to come here. He would often say to me that he couldn't enjoy worldly life. He had lived with some relatives in the western provinces and at that time used to meditate in solitude, in the meadows, hills, and forests. He told me he had
 visions of many divine forms.
 
 "Perhaps this was his last birth. He must have finished most of his duties in his previous birth. The little that had been left undone was perhaps finished in this one. 
 
 "One must admit the existence of tendencies inherited from previous births. There is a story about a man who practised the sava-sadhana.l He worshipped the Divine Mother in a deep forest. First he saw many terrible visions. Finally a tiger attacked and killed him.
 
-Another man, happening to pass and seeing the approach of the tiger, had climbed a tree. Afterwards he got down and found all the arrangements for worship at hand. He performed some purifying ceremonies and seated himself on the corpse. No sooner had
-he done a little japa than the Divine Mother appeared before him and said: 'My child, I am very much pleased with you. Accept a boon from Me.' 
+Another man, happening to pass and seeing the approach of the tiger, had climbed a tree. Afterwards he got down and found all the arrangements for worship at hand. He performed some purifying ceremonies and seated himself on the corpse. No sooner had he done a little japa than the Divine Mother appeared before him and said: 'My child, I am very much pleased with you. Accept a boon from Me.' 
 
 He bowed low at the Lotus Feet of the Goddess and said: 'May I ask You one question, Mother? I am speechless
 with amazement at Your action. The other man worked so hard to get the ingredients for Your worship and tried to propitiate You for such a long time, but You didn't condescend to show him Your favour.
 
 I, who don't know anything of worship, who have done nothing, who have neither devotion nor knowledge nor love, and who haven't practised any austerities, am receiving so much of Your grace.' The Divine Mother said with a laugh: 'My child, you don't remember your previous births. For many births you tried to propitiate Me through austerities. As a result of those austerities all these things have come to hand, and you have been blessed with My Vision. Now ask Me your boon.'
+{{< /l >}}
+
 
 ## Suicide after the vision of God
 

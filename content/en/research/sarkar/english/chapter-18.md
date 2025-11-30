@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 18"
-title: "SOME CONDENSED WORDS"
+title: "Some Condensed Words"
 weight: 32
 writer:
   name: PR Sarkar
@@ -11,32 +11,35 @@ icon: "PR Sarkar"
 ---
 
 
-unitary/unitarian	concerning one
-collective/cumulative	concerning more than one/concerning a collection
-singular	concerning a single entity
-plural	concerning more than one entity
-Papal	concerning the holy Pope
-microcosmic	concerning something little
-macrocosmic	concerning something great
-matrimonial	concerning marriage
-bridal	concerning bride
-human	concerning people in general (humanly – adv.)
-ecclesiastical	concerning church or heavenly affairs
-inimical	concerning enemy
-amiable	concerning friend (ami [in French] means "friend", and mon ami means "my friend")
-amicable	concerning peace
-tranquil	concerning calmness
-aquarian	concerning reservior or water-pot
-aquarium	concerning the place of reservoir or water-pot
-rotarian	concerning movement in a round way
-herbal/herborial	concerning herbs (herbarium – noun)
-fiscal	concerning royal money
-piscal	concerning fish
-zoological, zodiac, veterinary	concerning animals
-terranian	concerning earth (as soil)
-global	concerning earth (as a planet)
-pecuniary, monetary, mercenary	concerning money
-economic, economical	concerning condition of money
+Word | Meaning
+--- | ---
+unitary/unitarian |	concerning one
+collective/cumulative |	concerning more than one/concerning a collection
+singular | concerning a single entity
+plural | concerning more than one entity
+Papal	| concerning the holy Pope
+microcosmic	| concerning something little
+macrocosmic	| concerning something great
+matrimonial	| concerning marriage
+bridal | concerning bride
+human	| concerning people in general (humanly – adv.)
+ecclesiastical |	concerning church or heavenly affairs
+inimical | concerning enemy
+amiable	| concerning friend (ami [in French] means "friend", and mon ami means "my friend")
+amicable | concerning peace
+tranquil | concerning calmness
+aquarian | concerning reservior or water-pot
+aquarium | concerning the place of reservoir or water-pot
+rotarian | concerning movement in a round way
+herbal/herborial |	concerning herbs (herbarium – noun)
+fiscal |	concerning royal money
+piscal |	concerning fish
+zoological, zodiac, veterinary |	concerning animals
+terranian	| concerning earth (as soil)
+global | concerning earth (as a planet)
+pecuniary, monetary, mercenary |	concerning money
+economic, economical |	concerning condition of money
+
 guardian	one who guards at different strata of life
 universal	concerning the universe
 Cosmological/Cosmic	concerning everything
@@ -130,14 +133,15 @@ insurmountable	that cannot be jumped over
 inexplicable	that cannot be explained
 inaudible	that cannot be heard
 unintelligible	that cannot be understood
-infallible (অপৌরুষেয়)	that cannot be scolded or condemned
-illegible	that cannot be read
+infallible (অপৌরুষেয়) |	that cannot be scolded or condemned
+illegible	| that cannot be read
 impenetrable/unpenetrable	that cannot be crossed through
 irrelevant	that does not come within the course, out of context
 super-science/super-consciouisness	that which is beyond the periphery of knowledge of consciousness
 supreme	whose status is above all strata
 [for] old acquaintance's sake	for the sake of old friendship
-surrounded	rounded up on all sides
+
+surrounded | rounded up on all sides
 known countenance	known person or known face
 namesake (in Bengali and other eastern Indian languages মিতা; in Urdu, হম্নামা)	something having the same name
 [ambi]dextrous (সবাসাচী)	working with both hands with equal efficiency ([ambi]dexterity – noun)
@@ -288,7 +292,9 @@ parity/equity	same[ness] in number
 pork	meat of big
 beef	meat of cow
 mutton	meat of sheep
+
 N.B.: Flesh is a general term, but where the question of eating is concerned, we are not to use the word flesh, we are to use the word meat.
+
 omnipotent	all-powerful
 omnibus	moving everywhere
 homogenous	[of a] collection of similar entities (homogeneity – noun)
@@ -308,9 +314,11 @@ feudal chief/local chieftain3	a king under a big king
 democracy4	where a government is elected by people through restricted or general franchise
 republic	where the head of a state is elected by people directly or indirectly
 subsidiary	where one works in subordinated cooperation with others
+
 N.B.: Cooperation is of two kinds: coordinated cooperation and subordinated cooperation. A king and another king have an amiable relationship: it is coordinated cooperation. A king and an emperor maintain a relationship: the king maintains subordinated cooperation. His is a subsidiary alliance.
 moral (pronunc. মোরেল)	concerning morality (নৈতিকতা – e.g., "It is his moral defeat – নৈতিক পরাজয়)."
 morale (pronunc. মর্-য়াল)	mental strength (মানসিক শক্তি – e.g.: "He lost his morale and was defeated – সে মানসিক শক্তি হারিয়েছিল ও পরাজিত হয়েছিল." "A breakdown in morale has taken place – মনোবল ভেঙ্গে গেছে.")
+
 (1) Many of the entries here represent instances where a certain relationship of one word to other words has been expressed in a condensed way through the use of a suffix. For example, concerning bride, expressing a certain relationship of bride to other words, has been condensed into bridal. –Eds.
 
 (2) Feudalism may exist both in a republic and a kingdom.

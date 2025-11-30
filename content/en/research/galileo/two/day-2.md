@@ -1,10 +1,13 @@
 ---
 heading: Day 2
-title: "Two Systems"
-weight: 4
+title: "Aristotle's Theory"
+weight: 44
 description: ""
-a: "Galileo"
+
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 
@@ -13,21 +16,34 @@ Yesterday took us into so many and such great digressions twisting away from the
 {{< /l >}}
 
 
-SAGR. I am not surprised that you should find yourself in some confusion, for your mind is as much filled and encumbered with what remains to be said as with what has been said. But I am simply a listener and have in my mind only the things I have heard, so perhaps I can put your discourse back on its path by briefly outlining these for you.
+{{< r a="Sagredo" >}}
+You are confused because your mind is still filled and encumbered with what remains to be said as with what has been said.
+
+But I am simply a listener and have in my mind only the things I have heard, so perhaps I can put your discourse back on its path by briefly outlining these for you.
 
 As I recall it, yesterday's discourse may be summarized as a preliminary examination of the two following opinions as to which is the more probable and reasonable. The first holds the substance of the heavenly bodies to be ingenerable, incorruptible, inalterable, invariant, and in a word free from all mutations except those of situation, and accordingly to be a quintessence (note: Literally, a fifth essence, distinct from the four elements of earth, water, air, and fire which were to be found within the lunar sphere.) most different from our generable, corruptible, alterable bodies.
 
 The other opinion, removing this disparity from the world's parts, considers the earth to enjoy the same perfection as other integral bodies of the universe; in short, to be a movable and a moving body no less than the moon, Jupiter, Venus, or any other planet. Later many detailed parallels were drawn between the earth and the moon. More comparisons were made with the moon than with other planets, perhaps from our having more and better sensible evidence about the former by reason of its lesser distance. 
 
 Having finally concluded this second opinion to have more likelihood than the other, it seems to me that our next step should be to examine whether the earth must be considered immovable, as most people have believed up to the present, or mobile, as many ancient philosophers believed and as others of more recent times consider it; and, if movable, what its motion may be.
+{{< /r >}}
+
 
 
 {{< l a="Salviati" >}}
-Now I know and recognize the signposts along our road. But before starting in again and going ahead, I ought to tell you that I question this last thing you have said, about our having concluded in favor of the opinion that the earth is endowed with the same properties as the heavenly bodies. For I did not conclude this, just as I am not deciding upon any other controversial proposition. My intention was only to adduce those arguments and replies, as much on one side as on the other-those questions and solutions which others have thought of up to the present time (together with a few which have occurred to me after long thought) -and then to leave the decision to the judgment of others.
+We have concluded that the earth is endowed with the same properties as the heavenly bodies. 
+
+<!-- For I did not conclude this, just as I am not deciding upon any other controversial proposition.  -->
+
+My intention was only to adduce those arguments and replies, as much on one side as on the other-those questions and solutions which others have thought of up to the present time (together with a few which have occurred to me after long thought) -and then to leave the decision to the judgment of others.
 {{< /l >}}
 
 
-SAGR. I allowed myself to be carried away by my own sentiments, and believing that what I felt in my heart ought to be felt by others too, I made that conclusion universal which should have been kept particular. This really was an error on my part, especially as I do not know the views of Simplicio, here present.
+{{< r a="Sagredo" >}}
+I believe that what I felt in my heart should be felt by others too.
+
+I made that conclusion universal which should have been kept particular. This really was an error on my part, especially as I do not know the views of Simplicio, here present.
+{{< /r >}}
 
 
 {{< r a="Simplicio" >}}
@@ -35,7 +51,10 @@ I confess that all last night I was meditating on yesterday's material, and trul
 {{< /r >}}
 
 
-SAGR. I merely smile, but believe me, I am hardly able to keep from laughing, because I am reminded of a situation that I witnessed not many years ago together with some friends of mine, whom I could name to you for that matter.
+{{< r a="Sagredo" >}}
+I am hardly able to keep from laughing, because I am reminded of a situation that I witnessed not many years ago together with some friends of mine, whom I could name to you for that matter.
+{{< /r >}}
+
 
 
 {{< l a="Salviati" >}}
@@ -43,12 +62,13 @@ Perhaps you had better tell us about it so that Simplicio will not go on thinkin
 {{< /l >}}
 
 
-SAGR. I'll be glad to. One day I was at the home of a very famous doctor in Venice, where many persons came on account of their studies, and others occasionally came out of curiosity to see some anatomical dissection performed by a man who was truly no less learned than he was a careful and expert anatomist. It happened on this day that he was investigating the source and origin of the nerves, about which there exists a notorious controversy between the Galenist and Peripatetic doctors. 
+{{< r a="Sagredo" >}}
+I'll be glad to. One day I was at the home of a very famous doctor in Venice, where many persons came on account of their studies, and others occasionally came out of curiosity to see some anatomical dissection performed by a man who was truly no less learned than he was a careful and expert anatomist. It happened on this day that he was investigating the source and origin of the nerves, about which there exists a notorious controversy between the Galenist and Peripatetic doctors. 
 
 The anatomist showed that the great trunk of nerves, leaving the brain and passing through the nape, extended on down the spine and then branched out through the whole body, and that only a single strand as fine as a thread arrived at the heart. Turning to a gentleman whom he knew to be a Peripatetic philosopher, and on whose account he had been exhibiting and demonstrating everything with unusual care, he asked this man whether he was at last satisfied and convinced that the nerves originated in the brain and not in the heart. 
 
 The philosopher, after considering for awhile, answered: "You have made me see this matter so plainly and palpably that if Aristotle's text were not contrary to it, stating clearly that the nerves originate in the heart, I should be forced to admit it to be true."
-
+{{< /r >}}
 
 
 
@@ -58,8 +78,9 @@ Sir, I want you to know that this dispute as to the source of the nerves is by n
 
 
 
-SAGR. Doubtless it never will be, in the minds of such opponents. But what you say does not in the least diminish the absurdity of this Peripatetic's reply; who, as a counter to sensible experience, adduced no experiment or argument of Aristotle's, but just the authority of his bare ipse dixit.
-
+{{< r a="Sagredo" >}}
+Doubtless it never will be, in the minds of such opponents. But what you say does not in the least diminish the absurdity of this Peripatetic's reply; who, as a counter to sensible experience, adduced no experiment or argument of Aristotle's, but just the authority of his bare ipse dixit.
+{{< /r >}}
 
 
 {{< r a="Simplicio" >}}
@@ -69,10 +90,11 @@ Therefore one must have a grasp of the whole grand scheme, and be able to combin
 {{< /r >}}
 
 
-SAGR. My dear Simplicio, since having things scattered all over the place does not disgust you, and since you believe by the collection and combination of the various pieces you can draw the juice out of them, then what you and the other brave philosophers will do with Aristotle's texts, I shall do with the verses of Virgil and Ovid, making centos of them and explaining by means of these all the affairs of men and the secrets of nature. But why do I speak of Virgil, or any other poet" I have a little book, much briefer than Aristotle or Ovid, in which is contained the whole of science, and with very little study one may form from it the most complete ideas. 
+{{< r a="Sagredo" >}}
+Simplicio, since having things scattered all over the place does not disgust you, and since you believe by the collection and combination of the various pieces you can draw the juice out of them, then what you and the other brave philosophers will do with Aristotle's texts, I shall do with the verses of Virgil and Ovid, making centos of them and explaining by means of these all the affairs of men and the secrets of nature. But why do I speak of Virgil, or any other poet" I have a little book, much briefer than Aristotle or Ovid, in which is contained the whole of science, and with very little study one may form from it the most complete ideas. 
 
 It is the alphabet, and no doubt anyone who can properly Join and order this or that vowel and these or those consonants with one another can dig out of it the truest answers to every question, and draw from it instruction in all the arts and sciences. Just so does a painter, from the various simple colors placed separately upon his palette, by gathering a little of this with a bit of that and a trifle of the other, depict men, plants, buildings, birds, fishes, and in a word represent every visible object, without any eyes or feathers or scales or leaves or stones being on his palette. Indeed, it is necessary that none of the things imitated nor parts of them should actually be among the colors, if you want to be able to represent everything; if there were feathers, for instance, these would not do to depict anything but birds or feather dusters.
-
+{{< /r >}}
 
 
 {{< l a="Salviati" >}}
@@ -90,10 +112,11 @@ Why do you leave out the prophecies of the astrologers, which are so clearly see
 {{< /l >}}
 
 
-SAGR. It is in this way that the alchemists, led on by their madness, find that the greatest geniuses of the world never really wrote about anything except how to make gold; but in order to tell this without revealing it to the vulgar, this fellow in one manner and that one in another have whimsically concealed it under various disguises. 
+{{< r a="Sagredo" >}}
+This is how alchemists by their madness find that the greatest geniuses of the world never really wrote about anything except how to make gold; but in order to tell this without revealing it to the vulgar, this fellow in one manner and that one in another have whimsically concealed it under various disguises. 
 
 And a very amusing thing it is to hear their comments upon the ancient poets, revealing the important mysteries hidden behind their stories--what the loves of the moon mean, and her descent to the earth for Endymion; her displeasure with Acteon; the significance of Jupiter's turning himself into a rain of gold, or into a fiery flame; what great secrets of the art there are in Mercury the interpreter, in Pluto's kidnapings, and in golden boughs.
-
+{{< /r >}}
 
 
 {{< r a="Simplicio" >}}
@@ -113,8 +136,11 @@ Why, if Aristotle had been such a man as they imagine, he would have been a man 
 {{< /l >}}
 
 
+{{< r a="Sagredo" >}}
+Such people remind me of that sculptor who, having transformed a huge block of marble into the image of a Hercules or a thundering Jove, I forget which, and having with consummate art made it so lifelike and fierce that it moved everyone with terror who beheld it, he himself began to be afraid, though all its vivacity and power were the work of his own hands.
 
-SAGR. Such people remind me of that sculptor who, having transformed a huge block of marble into the image of a Hercules or a thundering Jove, I forget which, and having with consummate art made it so lifelike and fierce that it moved everyone with terror who beheld it, he himself began to be afraid, though all its vivacity and power were the work of his own hands; and his terror was such that he no longer dared affront it with his mallet and chisel.
+His terror was such that he no longer dared affront it with his mallet and chisel.
+{{< /r >}}
 
 
 {{< l a="Salviati" >}}
@@ -122,6 +148,7 @@ I often wonder how it can be that these strict supporters of Aristotle's every w
 {{< /l >}}
 
 
-SAGR. Or truly, if it seemed to them that they staked too much of their own reputation and of Aristotle's in confessing that they did not know this or that conclusion discovered by someone else, would it not be a lesser evil for them to seek it among his texts by the collection of various of these according to the practice recommended by Simplicio? For if all things that can be known are in these texts, then it must follow that they can be discovered there.
-
+{{< r a="Sagredo" >}}
+Or truly, if it seemed to them that they staked too much of their own reputation and of Aristotle's in confessing that they did not know this or that conclusion discovered by someone else, would it not be a lesser evil for them to seek it among his texts by the collection of various of these according to the practice recommended by Simplicio? For if all things that can be known are in these texts, then it must follow that they can be discovered there.
+{{< /r >}}
 

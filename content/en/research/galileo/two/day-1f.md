@@ -1,24 +1,31 @@
 ---
-heading: Day 1
-title: "Two Systems"
+heading: Day 1f
+title: "Trust the Senses over Theory"
 # date: 2025-05-15
-weight: 4
+weight: 16
 description: ""
-a: "Galileo"
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 
 
 {{< l a="Salviati" >}}
-To tell the truth, I have not made such long and careful observations that I can qualify as an authority on the facts of this matter; but certainly I wish to do so, and then to see whether I can once more succeed in reconciling what experience presents to us with what Aristotle teaches.
+I have not made such long and careful observations that I can qualify as an authority. But certainly I wish to do so.
 
-For obviously two truths cannot contradict one another.
+<!-- , and then to see whether I can once more succeed in reconciling what experience presents to us with what Aristotle teaches. -->
 
-Whenever you wish to reconcile what your senses show you with the soundest
-teachings of Aristotle, you will have no trouble at all. Does not Aristotle say that because of the great distance, celestial matters cannot be treated very definitely?
+<!-- For obviously two truths cannot contradict one another. -->
 
-Does he not also declare that what sensible experience shows ought to be preferred over any argument, even one that seems to be extremely well founded? And does he not say this positively and without a bit of hesitation?
+Whenever you wish to reconcile what your senses show you with the soundest teachings of Aristotle, you will have no trouble at all. 
+
+Aristotle says that:
+- because of the great distance, celestial matters cannot be treated very definitely.
+- what sensible experience shows should be preferred over any argument
+
+<!-- , even one that seems to be extremely well founded? And does he not say this positively and without a bit of hesitation? -->
 
 Then of the two propositions, both of them Aristotelian doctrines, the second -- which says it is necessary to prefer the senses over arguments -- is a more solid and definite doctrine than the other, which holds the heavens to be inalterable. 
 
@@ -74,22 +81,16 @@ reply in the case of the new stars.
 
 
 {{< l a="Salviati" >}}
-In the counter argument of the Anti-Tycho there are some things that ought to be criticized. First of all, if the
-two new stars, which that author can do no less than place in the highest regions of heaven,
-and which existed a long time and finally vanished, caused him no anxiety about insisting
-upon the inalterability of heaven simply because they were not unquestionably parts of heaven
-or mutations in the ancient stars, then to what purpose does he make all this fuss and bother
-about getting the comets away from the celestial regions at all costs? Would it not have been
-enough for him to say that they are not unquestionably parts of heaven and not mutations in
-the ancient stars, and hence that they do not prejudice in any way either the heavens or the
-doctrines of Aristotle?
+In the counter argument of the Anti-Tycho there are some things that ought to be criticized. First of all, if the two new stars, which that author can do no less than place in the highest regions of heaven, and which existed a long time and finally vanished, caused him no anxiety about insisting upon the inalterability of heaven simply because they were not unquestionably parts of heaven or mutations in the ancient stars, then to what purpose does he make all this fuss and bother about getting the comets away from the celestial regions at all costs? Would it not have been enough for him to say that they are not unquestionably parts of heaven and not mutations in the ancient stars, and hence that they do not prejudice in any way either the heavens or the doctrines of Aristotle?
 
 In the second place I am not satisfied about his state of mind when he admits that any
 alterations which might be made in the stars would be destructive of the celestial prerogatives
 of incorruptibility, etc., since the stars are celestial things, as is obvious and as everybody
 admits, and when on the other hand he is not the least perturbed if the same alterations take
 place elsewhere in the expanse of heaven outside the stars themselves. Does he perhaps mean
-to imply that heaven is not a celestial thing? I should think that the stars were called celestial
+to imply that heaven is not a celestial thing? 
+
+I should think that the stars were called celestial
 things because of their being in the heavens, or because of their being made of heavenly
 material, and that therefore the heavens would be even more celestial than they; I could not
 say similarly that anything was more terrestrial than earth itself, or more igneous than fire.
@@ -106,10 +107,14 @@ remains that can dissuade us from believing that others take place on the other 
 {{< /l >}}
 
 
-SAGR. I cannot without great astonishment -- I might say without great insult to my
+
+{{< r a="Sagredo" >}}
+I cannot without great astonishment -- I might say without great insult to my
 intelligence -- hear it attributed as a prime perfection and nobility of the natural and integral
 bodies of the universe that they are invariant, immutable, inalterable, etc., while on the other
-hand it is called a great imperfection to be alterable, generable, mutable, etc. For my part I
+hand it is called a great imperfection to be alterable, generable, mutable, etc. 
+
+For my part I
 consider the earth very noble and admirable precisely because of the diverse alterations,
 changes, generations, etc. that occur in it incessantly. If, not being subject to any changes, it
 were a vast desert of sand or a mountain of jasper, or if at the time of the flood the waters
@@ -133,8 +138,9 @@ believe, by their great desire to go on living, and by the terror they have of d
 reflect that if men were immortal, they themselves would never have come into the world.
 Such men really deserve to encounter a Medusa's head which would transmute them into
 statues of jasper or of diamond, and thus make them more perfect than they are.
+{{< /r >}}
+
+
 SALV. Maybe such a metamorphosis would not be entirely to their disadvantage, for I think it
 would be better for them not to argue than to argue on the wrong side.
-
-
 

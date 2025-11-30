@@ -5,6 +5,9 @@ date: 2025-09-25
 weight: 58
 description: ""
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 13"
-title: "SOME RULES OF PRONUNCIATION"
+title: "Some Rules Of Pronunciation"
 weight: 24
 writer:
   name: PR Sarkar
@@ -13,7 +13,7 @@ icon: "PR Sarkar"
 
 The following is a list of words which are spelt in one way but pronounced in a different way.
 
-WORDS |	CORRECT PRONUNCIATION 1
+Words | Correct Pronunciation 1
 --- | ---
 housewife [in the sense of a case for needles, thread] | huzif
 Dalhousie | daluzi
@@ -48,11 +48,14 @@ Is: Is is pronounced "iz"[, not "ij"] (ইজ়), not (ইজ), for example, "H
 
 Pronunciation of d [as d and as j] in English: The English language follows two main schools of intonation: Anglo-Saxon and Norman. According to Anglo-Saxon intonation, English d [in the middle of a word] is pronounced "j". According to Norman intonation, English d is pronounced "d", as in dog. Both these schools of pronunciation are equally correct. For instance:
 
-NORMAN	ANGLO-SAXON
-education	ejucation
+NORMAN | ANGLO-SAXON
+--- | ---
+education |	ejucation
 immediate	immejiate
 budget	budjet
 guardian	garjian
+
+
 Pronunciation of g as "g" or "j", and c as "s" or "k", in English: Sometimes if g is followed by e, i or y, it is pronounced "j" (general, gist). Elsewhere it is pronounced "g" (as in get, give). The word jail has two recognized spellings: jail and gaol. In the latter case it is an exception to the rule because even though g is not followed by e, i, or y (it is followed by a), even then it is pronounced "j".
 
 In the case of c, if it is followed by e, i, or y, it is pronounced like "s", but elsewhere it is pronounced like "k".
@@ -82,6 +85,7 @@ When ch in Latin-derived words is not followed by a consonant, it is pronounced 
 Non-English words incorrectly pronounced in English:
 
 WORD	CORRECT PRONUNCIATION
+
 enclave	আঁক্লাব
 en masse	আঁ মাস্
 en route	আঁ রূত্
@@ -103,6 +107,7 @@ philology	ফিলোলোজি (not ফাইলোলোজি)
 Edinburgh	এডিনবরা
 charge-d'affaires	সার্জ-দ্যাফেয়ার
 restaurant	রেস্তরাঁ
+
 (1) The author has here used the English alphabet to represent the correct pronunciations. In the last section of this chapter, added for the second edition, the author uses the Indo-Aryan, or "Sanskrit", alphabet (see p. ix) to represent the correct pronunciations. –Eds.
 
 (2) The word parley is used for "speaking". Hence parliament means "a place for speaking".

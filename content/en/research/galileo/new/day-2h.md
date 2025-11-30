@@ -5,6 +5,9 @@ date: 2025-09-25
 weight: 66
 description: "You Venetians display constant activity in your famous arsenal. It is a great way to learn about mechanics."
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 

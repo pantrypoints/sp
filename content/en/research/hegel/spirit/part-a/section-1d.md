@@ -27,7 +27,7 @@ How is that immediate constituted?
 
 <!-- , which is shown to us. -->
 
-<!-- Φ 106.  -->
+<sup>106</sup>
 
 The Now is pointed out as this Now.
 - But this Now already ceased to be when it is pointed out. 
@@ -37,9 +37,7 @@ The new Now is different from the Now a moment ago.
 
  <!-- as it is shown to us is one that has been, and that is its truth; it does not have , of something that is. No doubt this is true, that it has been; but what has been is in point of fact not genuinely real, it is not, and the point in question concerned what is, concerned being. -->
 
-<!-- Φ 107.  -->
-
-In thus pointing out the Now, we see a process:
+<sup>107</sup> In thus pointing out the Now, we see a process:
 
 1. I point out the Now, and it is asserted to be the truth. 
 
@@ -71,14 +69,11 @@ A Now of that sort, again – an hour – is similarly many minutes; and this No
 
 And the pointing, out is the way of getting to know, of experiencing, that Now is a universal.
 
-<!-- Φ 108.  -->
 
-The Here pointed out, which I keep hold of, is likewise a this Here which, in fact, is not this Here, but a Before and Behind, an Above and Below, a Right and Left. 
+<sup>108</sup>> The Here pointed out, which I keep hold of, is likewise a this Here which, in fact, is not this Here, but a Before and Behind, an Above and Below, a Right and Left. 
 
 The Above is itself likewise this manifold otherness – above, below, etc. 
 
 The Here, which was to be pointed out, disappears in other Heres, and these disappear similarly. What is pointed out, held fast, and is permanents a negative This, which only is so when the Heres are taken as they should be, but therein cancel one another; it is a simple complex of many Heres. 
 
 The Here that is “meant” would be the point. But it is not: rather, when it is pointed out as being, as having existence, that very act of pointing out proves to be not immediate knowledge, but a process, a movement from the Here “meant” through a plurality of Heres to the universal Here, which is a simple plurality of Heres, just as day is a simple plurality of Nows.
-
-

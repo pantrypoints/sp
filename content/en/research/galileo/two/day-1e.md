@@ -1,11 +1,13 @@
 ---
 heading: Day 1e
-title: "Two Systems"
+title: "The Anti-Tycho"
 # date: 2025-05-15
-weight: 4
+weight: 14
 description: ""
-a: "Galileo"
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 
@@ -15,14 +17,11 @@ What you refer to is the method he uses in writing his doctrine, but I do not be
 
 Afterward he sought means to make them demonstrable. That is what is done for the most part in the demonstrative sciences; this comes about because when the conclusion is true, one may by making use of analytical methods hit upon some proposition which is already demonstrated, or arrive at some axiomatic principle; but if the conclusion is false, one can go on forever without ever finding any known truth -- if indeed one does not encounter some impossibility or manifest absurdity.
 
-And you may be sure that Pythagoras, long before he
-discovered the proof for which he sacrificed a hecatomb, was sure that the square on the side
-opposite the right angle in a right triangle was equal to the squares on the other two sides. The
-certainty of a conclusion assists not a little in the discovery of its proof -- meaning always in
-the demonstrative sciences. 
+Pythagoras, long before he discovered the proof for which he sacrificed a hecatomb, was sure that the square on the side opposite the right angle in a right triangle was equal to the squares on the other two sides. 
 
-But however Aristotle may have proceeded, whether the reason a
-priori came before the sense perception a posteriori or the other way round, it is enough that
+The certainty of a conclusion assists not a little in the discovery of its proof -- meaning always in the demonstrative sciences. 
+
+But however Aristotle may have proceeded, whether the reason a priori came before the sense perception a posteriori or the other way round, it is enough that
 Aristotle, as he said many times, preferred sensible experience to any argument. Besides, the
 strength of the arguments a priori has already been examined.
 
@@ -33,7 +32,8 @@ And on the face of the sun itself, with the aid of the telescope, they have seen
 
 
 {{< r a="Simplicio" >}}
-I do not know what would have been done or said by Aristotle, who was the master of all science, but I know to some extent what his followers do and say, and what they ought to do and say in order not to remain without a guide, a leader, and a chief in philosophy. 
+Aristotle was the master of all science.
+ <!-- His followers do and say, and what they ought to do and say in order not to remain without a guide, a leader, and a chief in philosophy.  -->
 
 As to the comets, have not these modem astronomers who wanted to make them celestial been vanquished by the Anti-Tycho? 
 
@@ -44,7 +44,9 @@ A thing so fundamental to the innovators having been destroyed, what more remain
 
 
 {{< l a="Salviati" >}}
-Calm yourself, Simplicio. What does this modem author of yours say about the new stars of 1572 and 1604, and of the solar spots? As far as the comets are concerned I, for my part, care little whether they are generated below or above the moon, nor have I ever set much store by Tycho's verbosity.
+What do you say about the new stars of 1572 and 1604, and of the solar spots?
+
+As far as the comets, I care little whether they are generated below or above the moon, nor have I ever set much store by Tycho's verbosity.
 
 Neither do I feel any reluctance to believe that their matter is elemental, and that they may rise as they please without encountering any obstacle from the impenetrability of the Peripatetic heavens, which I hold to be far more tenuous, yielding, and subtle than our air. 
 
@@ -53,15 +55,15 @@ And as to the calculation of parallaxes, in the first place I doubt whether come
 
 
 {{< r a="Simplicio" >}}
-With regard to the new stars, the Anti-Tycho thoroughly disposes of them in a few words, saying that such recent new stars are not positively known to be heavenly bodies, and that if its adversaries wish to prove any alterations and generations in the latter, they must show us mutations made in stars which have already been described for a long time and which are celestial objects beyond doubt. And this can never possibly be done. As to that material which some say is generated and dissolved on the face of the sun, no mention is made of it at all, from which I should gather that the author takes it for a fable, or for an illusion of the telescope, (note: The telescope was an object of suspicion in many circles.) or at best for some phenomenon produced by the air; in a word, for anything but celestial matter.
+With regard to the new stars, the Anti-Tycho thoroughly disposes of them in a few words, saying that such recent new stars are not positively known to be heavenly bodies, and that if its adversaries wish to prove any alterations and generations in the latter, they must show us mutations made in stars which have already been described for a long time and which are celestial objects beyond doubt. And this can never possibly be done. 
+
+As to that material which some say is generated and dissolved on the face of the sun, no mention is made of it at all, from which I should gather that the author takes it for a fable, or for an illusion of the telescope, (note: The telescope was an object of suspicion in many circles.) or at best for some phenomenon produced by the air; in a word, for anything but celestial matter.
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-But you, Simplicio, what have you thought of to reply to the opposition of these
-importunate spots which have come to disturb the heavens, and worse still, the Peripatetic
-philosophy? It must be that you, as its intrepid defender, have found a reply and a solution
-which you should not deprive us of.
+But you, Simplicio, what have you thought of to reply to the opposition of these importunate spots which have come to disturb the heavens, and worse still, the Peripatetic
+philosophy? It must be that you, as its intrepid defender, have found a reply and a solution which you should not deprive us of.
 {{< /l >}}
 
 
@@ -157,5 +159,3 @@ same spots returning is merely what is written in the said Letters; namely, that
 are occasionally of such long duration that they do not disappear in a single revolution around
 the sun, which takes place in less than a month.
 {{< /l >}}
-
-

@@ -5,6 +5,9 @@ title: "Polygons"
 weight: 14
 description: "On what depends the resistance to breaking, other than that of void?"
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 

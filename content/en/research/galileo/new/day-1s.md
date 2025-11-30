@@ -5,6 +5,9 @@ title: "How to determine the specific gravity of air"
 weight: 40
 description: ""
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 

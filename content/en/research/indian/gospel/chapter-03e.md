@@ -18,12 +18,12 @@ From the hints I have given, O mind, guess what that Being is!
 
 
 {{< l a="Ramakrishna" >}}
-"Ramprasad asks the mind only to guess the nature of God. He wishes it to understand that what is called Brahman in the Vedas is addressed by Him as the Mother. He who is attributeless also has attributes. He who is Brahman is also Śakti. When thought of as inactive, He is called Brahman, and when thought of as the Creator, Preserver, and
+Ramprasad asks the mind only to guess the nature of God. He wishes it to understand that what is called Brahman in the Vedas is addressed by Him as the Mother. He who is attributeless also has attributes. He who is Brahman is also Śakti. When thought of as inactive, He is called Brahman, and when thought of as the Creator, Preserver, and
 Destroyer, He is called the Primordial Energy, Kāli. 
 
-"Brahman and Śakti are identical, like fire and its power to bum. When we talk of fire we automatically mean also its power to burn. Again, the fire's power to burn implies the fire itself. If you accept the one you must accept the other.
+Brahman and Śakti are identical, like fire and its power to bum. When we talk of fire we automatically mean also its power to burn. Again, the fire's power to burn implies the fire itself. If you accept the one you must accept the other.
 
-"Brahman alone is addressed as the Mother. This is because a mother is an object of great love. 
+Brahman alone is addressed as the Mother. This is because a mother is an object of great love. 
 {{< /l >}}
 
 

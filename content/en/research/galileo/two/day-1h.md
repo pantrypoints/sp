@@ -1,16 +1,20 @@
 ---
 heading: Day 1h
-title: "Two Systems"
+title: "The Moon"
 # date: 2025-05-15
-weight: 44
+weight: 34
 description: ""
-a: "Galileo"
+
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 
-SALV. What you are now asking me is the first of the differences that I think exist between the
-moon and the earth, which we had better hurry along with, as we are staying too long on the
+
+{{< l a="Salviati" >}}
+What you are now asking me is the first of the differences that I think exist between the moon and the earth, which we had better hurry along with, as we are staying too long on the
 moon. I say then that if there were in nature only one way for two surfaces to be illuminated
 by the sun so that one appears lighter than the other, and that this were by having one made of
 land and the other of water, it would be necessary to say that the moon's surface was partly
@@ -69,12 +73,16 @@ in any part of it, as around the earth, they would hide some of the things on th
 see with the telescope. Briefly, the scene would alter in some respect; an effect which I have
 never seen during long and diligent observations, having always discovered a very pure and
 uniform serenity.
+{{< /l >}}
 
 
+{{< r a="Sagredo" >}}
+To this it might be replied that either there might be great dews or that it rains there during its nights; that is, when the sun does not light it up.
+{{< /r >}}
 
-SAGR. To this it might be replied that either there might be great dews or that it rains there
-during its nights; that is, when the sun does not light it up.
-SALV. If from other appearances we had any signs that there were species similar to ours
+
+{{< l a="Salviati" >}}
+If from other appearances we had any signs that there were species similar to ours
 there, and only the occurrence of rains was lacking, we should be able to find this or some
 other condition to take their place, as happens in Egypt by the inundations of the Nile. But
 finding no event whatever like ours, of the many that would be required to produce similar
@@ -83,13 +91,17 @@ observation but because of mere possibility. Besides, if I were asked what my ba
 and natural reason told me regarding the production there of things similar to or different from
 ours, I should always reply, "Very different and entirely unimaginable by us"; for this seems to
 me to fit with the richness of nature and the omnipotence of the Creator and Ruler.
-SAGR. It always seems to me extreme rashness on the part of some when they want to make
-human abilities the measure of what nature can do. On the contrary, there is not a single effect
+{{< /l >}}
+
+
+{{< r a="Sagredo" >}}
+It always seems to me extreme rashness on the part of some when they want to make human abilities the measure of what nature can do. On the contrary, there is not a single effect
 in nature, even the least that exists, such that the most ingenious theorists can arrive at a
 complete understanding of it. This vain presumption of understanding everything can have no
 other basis than never understanding anything. For anyone who had experienced just once the
 perfect understanding of one single thing, and had truly tasted how knowledge is
 accomplished, would recognize that of the infinity of other truths he understands nothing.
+{{< /r >}}
 
 
 {{< l a="Salviati" >}}
@@ -112,8 +124,11 @@ Neither of your alternatives follows, since both pronouncements can be true. The
 {{< /l >}}
 
 
-SAGR. I think I understand this point quite well. Among men there exists the power to act, Simplicio, but it is not equally shared by all; and no doubt the power of an emperor is greater than that of a private person, but both are nil in comparison to Divine omnipotence. Among men there are some who understand agriculture better than others; but what has knowing how to plant a grapevine in a ditch got to do with knowing how to make it take root, draw nourishment, take from this some part good for building leaves, some other for forming tendrils, this for the bunches, that for the grapes, the other for the skins, all this being the work of most wise Nature? This is one single particular example of the innumerable works of Nature, and in this alone may be recognized an infinite wisdom; hence one may conclude that Divine wisdom is infinitely infinite.
+{{< r a="Sagredo" >}}
+I understand this point well.
 
+Among men there exists the power to act, Simplicio, but it is not equally shared by all; and no doubt the power of an emperor is greater than that of a private person, but both are nil in comparison to Divine omnipotence. Among men there are some who understand agriculture better than others; but what has knowing how to plant a grapevine in a ditch got to do with knowing how to make it take root, draw nourishment, take from this some part good for building leaves, some other for forming tendrils, this for the bunches, that for the grapes, the other for the skins, all this being the work of most wise Nature? This is one single particular example of the innumerable works of Nature, and in this alone may be recognized an infinite wisdom; hence one may conclude that Divine wisdom is infinitely infinite.
+{{< /r >}}
 
 
 {{< l a="Salviati" >}}
@@ -123,9 +138,9 @@ What shall we say of the senses, of spiritual power, and finally of the understa
 {{< /l >}}
 
 
-SAGR. And what difference do you think there was between the dove of Archytas and a
-natural dove?
-
+{{< r a="Sagredo" >}}
+What difference do you think there was between the dove of Archytas and a natural dove?
+{{< /r >}}
 
 
 {{< r a="Simplicio" >}}
@@ -148,16 +163,20 @@ These advances, which our intellect makes laboriously and step by step, run thro
 {{< /l >}}
 
 
-SAGR. I myself have many times considered in the same vein what you are now saying, and how great may be the acuteness of the human mind. And when I run over the many and marvelous inventions men have discovered in the arts as in letters, and then reflect upon my own knowledge, I count myself little better than miserable. I am so far from being able to promise myself, not indeed the finding out of anything new, but even the learning of what has already been discovered, that I feel stupid and confused, and am goaded by despair.
+{{< r a="Sagredo" >}}
+I myself have many times considered in the same vein what you are now saying, and how great may be the acuteness of the human mind. And when I run over the many and marvelous inventions men have discovered in the arts as in letters, and then reflect upon my own knowledge, I count myself little better than miserable. I am so far from being able to promise myself, not indeed the finding out of anything new, but even the learning of what has already been discovered, that I feel stupid and confused, and am goaded by despair.
 
 
-If I look at some excellent statue, I say within my heart: "When will you be able to remove the excess from a block of marble and reveal so lovely a figure hidden therein? When will you know how to mix different colors and spread them over a canvas or a wall and represent all visible objects by their means, like a Michelangelo, a Raphael, or a Titian?" Looking at what men have found out about arranging the musical intervals and forming precepts and rules in order to control them for the wonderful delight of the ear, when shall T be able to cease my amazement? What shall I say of so many and such diverse instruments? With what admiration the reading of excellent poets fills anyone who attentively studies the invention and interpretation of concepts And what shall I say of architecture? What of the art of navigation?
+If I look at some excellent statue, I say within my heart: "When will you be able to remove the excess from a block of marble and reveal so lovely a figure hidden therein? When will you know how to mix different colors and spread them over a canvas or a wall and represent all visible objects by their means, like a Michelangelo, a Raphael, or a Titian?" 
 
+Looking at what men have found out about arranging the musical intervals and forming precepts and rules in order to control them for the wonderful delight of the ear, when shall T be able to cease my amazement? What shall I say of so many and such diverse instruments? With what admiration the reading of excellent poets fills anyone who attentively studies the invention and interpretation of concepts And what shall I say of architecture? What of the art of navigation?
 
-But surpassing all stupendous inventions, what sublimity of mind was his who dreamed of finding means to communicate his deepest thoughts to any other person, though distant by mighty intervals of place and time! Of talking with those who are in India; of speaking to those who are not yet born and will not he born for a thousand or ten thousand years; and with what facility, by the different arrangements of twenty characters upon a page!
+But surpassing all stupendous inventions, what sublimity of mind was his who dreamed of finding means to communicate his deepest thoughts to any other person, though distant by mighty intervals of place and time!
 
-Let this be the seal of all the admirable inventions of mankind and the close of our discussions
+Of talking with those who are in India; of speaking to those who are not yet born and will not he born for a thousand or ten thousand years; and with what facility, by the different arrangements of twenty characters upon a page!
+
+<!-- Let this be the seal of all the admirable inventions of mankind and the close of our discussions
 for this day. The honest hours now being past, I think that Salviati might like to enjoy our cool
 ones in a gondola; and tomorrow I shall expect you both so that we may continue the
-discussions now begun.
-
+discussions now begun. -->
+{{< /r >}}

@@ -1,10 +1,12 @@
 ---
 heading: Day 1b
-title: "Two Systems"
-weight: 4
+title: "Aristotle's Motions"
+weight: 6
 description: ""
-a: "Galileo"
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 
@@ -146,16 +148,41 @@ He takes this difference from the diversity of local motions as his original pri
 He leaves the sensible world and goes into the ideal world.
 
 He begins architectonically to consider that, nature being the principle of motion, it is appropriate that natural bodies should be endowed with local motion. 
+{{< /l >}}
 
-He then declares local motions to be of three kinds: namely, circular, straight, and mixed straight-and-circular. 
 
-The first two he calls simple, because of all lines only the circular and the straight are simple. 
+{{< l a="Salviati" >}}
+He then declares local motions to be of 3 kinds:
 
-Hereupon, restricting himself somewhat, he newly defines among the simple motions one, the circular, to be that which is made around the center; and the other, the straight, to be upward and downward -- upward, that which goes from the center; and downward, whatever goes toward the center. 
+1. Circular
+2. Straight
+3. Mixed straight-and-circular
 
-From this he infers it to be necessary and proper that all simple motions are confined to these three kinds; namely, toward the center, away from the center, and around the center. 
+The first two he calls simple because of all lines only the circular and the straight are simple. 
 
-This answers, he says, with a certain beautiful harmony to what has been said previously about the body; it is perfect in three things, and its motion is likewise.
+He then restricts himself somewhat by newly defining among the simple motions:
 
-These motions being established, he goes on to say that some natural bodies being simple, and others composites of those (and he calls those bodies simple which have a natural principle of motion, such as fire and earth), it is proper that simple motions should be those of simple bodies, and that mixed motions should belong to compound bodies; in such a way, moreover, that compounds take the motion of that part which predominates in their composition. 
+1. Circular
+
+This goes around the center.
+
+2. Straight
+
+This goes up and down:
+- upward goes from the center
+- downward goes towards the center
+
+From this he infers that all simple motions are confined to these 3 kinds:
+
+1. Towards the center
+2. Away from the center
+3. Around the center
+
+He says that this answers with a beautiful harmony about the body. It is perfect in three things, and its motion is likewise.
+
+These motions being established, he goes on to say that some natural bodies being simple, and others composites of those. 
+
+He calls simple bodies has having a natural principle of motion, such as fire and earth.
+
+Simple motions are of simple bodies. Mixed motions should belong to compound bodies. Compounds take the motion of that part which predominates in their composition. 
 {{< /l >}}

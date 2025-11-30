@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 16"
-title: "SOME LATIN ADJECTIVES1"
+title: "Some Latin Adjectives1"
 weight: 30
 writer:
   name: PR Sarkar
@@ -89,7 +89,7 @@ eye (in the sense of inference)	visible
 N.B.: The English adjective of Wales is Welsh; the adjective of lathi is lethal, which is Indian English; and the adjective of white is wheat, which is old English.
  	 
 
-ADJECTIVE |	LATIN ADJECTIVE
+Adjective | Latin Adjective
 --- | ---
 all-round | radical
 all-knowing	| omniscient
@@ -108,6 +108,7 @@ meat-eating	carnivorous
 fish-eating	piscivorous
 long-lasting	chronic
 date-wise	chronological
+
 (1) Many of the entries here represent instances where the adjective form of a classical word has entered the English language, but the noun form has not entered the English language or has not remained in it. For example, the Latinate adjective mundane remains in the English language, but the noun mundus either has not entered the language or does not remain.
 
 (2) -itis is an old adjectival suffix. –Eds.
@@ -119,7 +120,7 @@ date-wise	chronological
 (5) In ancient times some towns took special steps to check the [spread] of disease coming from sheep. That is why even nowadays we use the term quarantine period for post-disease care.
 
 
-## CHAPTER 17: DIMINUTIVES
+## Chapter 17: Diminutives
 
 In order to create diminutives in English, suffixes such as the following (-let, -kin, -et, -ock, -ling, -ule, etc.) are used.
 

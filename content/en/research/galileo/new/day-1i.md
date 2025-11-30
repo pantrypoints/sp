@@ -5,6 +5,9 @@ title: "Equivalence Principle"
 weight: 20
 description: ""
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 

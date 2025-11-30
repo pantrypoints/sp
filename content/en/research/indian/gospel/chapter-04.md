@@ -30,7 +30,10 @@ him to a bee, which also buzzes a little even while sipping honey from a flower.
 
 The Master was highly pleased with the ostad's music. He said to the musician, "There is a special manifestation of God's power in a man who has any outstanding gift, such as proficiency in music."
 
-MUSICIAN: "Sir, what is the way to realize God?"
+{{< r a="Musician" >}}
+Sir, what is the way to realize God?
+{{< /r >}}
+
 
 {{< l a="Ramakrishna" >}}
 Bhakti is the one essential thing. To be sure, God exists in all beings. Who, then, is a devotee? He whose mind dwells on God. But this is not possible as long as one has egotism and vanity. The water of God's grace cannot collect on the high mound of egotism. It runs down. I am a mere machine.
@@ -72,7 +75,9 @@ A little spiritual discipline is necessary in order to know what lies within.
 {{< /l >}}
 
 
-M: "Is it necessary to practise discipline all through life?"
+{{< r a="M" >}}
+Is it necessary to practise discipline all through life?
+{{< /r >}}
 
 
 {{< l a="Ramakrishna" >}}
@@ -82,7 +87,6 @@ relaxes after steering through them.
 As soon as the boat passes the curves and the helmsman feels a favourable wind, he sits comfortably and just touches the rudder.
 Next he prepares to unfurl the sail and gets ready for a smoke. Likewise, the aspirant
 enjoys peace and calm after passing the waves and storms of 'woman and gold'.
-{{< /l >}}
 
 "Woman and gold" is the obstruction to yoga.
 
@@ -93,8 +97,12 @@ After fulfilling their desire, they again direct their minds to God and thus rec
 former state of mind, fit for the practise of yoga.
 
 "Have you ever seen the spring trap for fish, called the 'satka-kal'?"
-M: "No, sir, I haven't seen it."
+{{< /l >}}
 
+
+{{< r a="M" >}}
+No, sir, I haven't seen it
+{{< /r >}}
 
 {{< l a="Ramakrishna" >}}
 They use it in our part of the country. One end of a bamboo pole is fastened in the ground, and the other is bent over with a catch. From this end a line with a hook hangs over the water, with bait tied to the hook. When the fish swallows the bait,

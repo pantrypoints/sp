@@ -30,23 +30,29 @@ Perform your duties in an unselfish spirit. The work that Vidyasagar is engaged 
 Yes, sir. But may I know if one can realize God while performing one's duties? Can 'Rama' and 'desire' coexist? The other day I read in a Hindi couplet: 'Where Rama is, there desire cannot be; where desire is, there Rama cannot be.'
 {{< /r >}}
 
+{{< l a="Ramakrishna" >}}
+All, without exception, perform work. Even to chant the name and glories of God is work, as is the meditation of the non-dualist on 'I am He'. Breathing is also an activity. There is no way of renouncing work altogether. So do your work, but surrender the result to God.
+{{< /l >}}
 
-MASTER: "All, without exception, perform work. Even to chant the name and glories of God is work, as is the meditation of the non-dualist on 'I am He'. Breathing is also an activity. There is no way of renouncing work altogether. So do your work, but surrender the result to God." 
 
 {{< r a="M" >}}
 Sir, may I make an effort to earn more money?
 {{< /r >}}
 
 
-MASTER: "It is permissible to do so to maintain a religious family. You may try to increase your income, but in an honest way. The goal of life is not the earning of money, but the service of God. Money is not harmful if it is devoted to the service of God."
+{{< l a="Ramakrishna" >}}
+It is permissible to do so to maintain a religious family. You may try to increase your income, but in an honest way. The goal of life is not the earning of money, but the service of God. Money is not harmful if it is devoted to the service of God.
+{{< /l >}}
 
-
+\
 {{< r a="M" >}}
 How long should a man feel obliged to do his duty toward his wife and children?
 {{< /r >}}
 
+{{< l a="Ramakrishna" >}}
+As long as they feel pinched for food and clothing. But one need not take the responsibility of a son when he is able to support himself. When the young fledgling learns to pick its own food, its mother pecks it if it comes to her for food.
+{{< /l >}}
 
-MASTER: "As long as they feel pinched for food and clothing. But one need not take the responsibility of a son when he is able to support himself. When the young fledgling learns to pick its own food, its mother pecks it if it comes to her for food." 
 
 {{< r a="M" >}}
 How long must one do one's duty?
@@ -147,15 +153,15 @@ But this grace descends upon him only after he has prayed to God with intense ye
 (thinking) But why should God make us run about?
 {{< /r >}}
 
-Immediately Sri Ramakrishna said: 
-
+{{< l a="Ramakrishna" >}}
 It is His will that we should run about a little. Then it is great fun. God has created the world in play, as it were. This is called Mahamaya, the Great Illusion. Therefore one must take refuge in the Divine Mother, the Cosmic Power Itself.
 
-It is She who has bound us with the shackles of illusion. The realization of God is possible only when those shackles are severed." 
+It is She who has bound us with the shackles of illusion. The realization of God is possible only when those shackles are severed.
+{{< /l >}}
+
 
 
 ## Worship of the Divine Mother
-
 
 One must propitiate the Divine Mother, the Primal Energy, in order to obtain God's grace. God Himself is Mahamaya, who deludes the world with Her illusion and conjures up the magic of creation, preservation, and destruction. 
 
@@ -163,13 +169,13 @@ She has spread this veil of ignorance before our eyes. We can go into the inner 
 
 Śakti alone is the root of the universe. That Primal Energy has two aspects: vidyā and avidyā. Avidyā deludes. Avidyā conjures up 'woman and gold', which casts the spell. 
 
-
 Vidyā begets devotion, kindness, wisdom, and love, which lead one to God. This avidyā must be propitiated, and that is the purpose of the rites of Śakti worship. 
 
 "The devotee assumes various attitudes toward Śakti in order to propitiate Her: the attitude of a handmaid, a 'hero', or a child. A hero's attitude is to please Her even as a man pleases a woman through intercourse.
+
 "The worship of Śakti is extremely difficult. It is no joke. 
 
-I passed two years as the handmaid and companion of the Divine Mother. But my natural attitude has always been that of a child toward its mother. I regard the breasts of any woman as those of my own mother.
+I passed 2 years as the handmaid and companion of the Divine Mother. But my natural attitude has always been that of a child toward its mother. I regard the breasts of any woman as those of my own mother.
 
 
 ## Master's attitude toward women

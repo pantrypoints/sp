@@ -106,7 +106,7 @@ That is not desirable. It is a very difficult path and often causes the aspirant
 The sannyasis belonging to the sect of Nanak entered the room and greeted the Master, saying, "Namo Narayanaya." Sri Ramakrishna asked them to sit down.
 
 
-## All is possible with God
+## All is Possible with God
 
 {{< l a="Ramakrishna" >}}
 Nothing is impossible for God. Nobody can describe His nature in words. Everything is possible for Him. 
@@ -130,3 +130,5 @@ Is that anything to wonder at? Everything is possible for God.
 {{< r a="Other Yogi" >}}
 What? Making elephants pass through the eye of a needle - is that ever possible? You have never been to the Lord's dwelling-place.
 {{< /r >}}
+
+

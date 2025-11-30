@@ -143,6 +143,3 @@ Likewise, I-version-1 does not compare its Here with the Here of I-version-2.
 <!-- I am directly conscious, I intuit and nothing more, I am pure intuition. I am-seeing, looking.  -->
 
 <!-- For myself I stand by the fact, the Now is day-time, or, again, by the fact the Here is tree, and, again, do not compare Here and Now themselves with one another; I take my stand on  -->
-
-
-

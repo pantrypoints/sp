@@ -11,10 +11,8 @@ weight: 12
 
 <!-- ## 3.  -->
 
-<!-- Φ 109.  -->
 
-
-Thus, the dialectic process involved in perception (sense-certainty) is merely the history of its process – of its experience.
+<sup>109</sup> Thus, the dialectic process involved in perception (sense-certainty) is merely the history of its process – of its experience.
 - Perception itself is nothing else than this history. 
 <!-- ; and sense-certainty -->
 
@@ -77,7 +75,7 @@ All of nature proclaims, as animals do, these open secrets.
 <!-- Those who put forward such assertions really themselves say, if we bear in mind what we remarked before, the direct opposite of what they mean: a fact which is perhaps best able to bring them to reflect on the nature of the certainty of sense-experience.  -->
 
 
-Those philosophers who insist on the reality of objects of sense speak of the “existence” of external objects.
+<sup>110</sup>> Those philosophers who insist on the reality of objects of sense speak of the “existence” of external objects.
 - They say that this is the existence which has absolute certainty and truth.
 
 <!-- , which can be more precisely characterized as actual, absolutely particular, wholly personal, individual things, each of them not like anything or anyone else; .  -->

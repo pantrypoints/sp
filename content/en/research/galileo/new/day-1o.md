@@ -5,6 +5,9 @@ title: "What Causes Contraction and Expansion?"
 weight: 32
 description: ""
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 

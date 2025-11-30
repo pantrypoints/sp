@@ -35,13 +35,16 @@ Demi-official letters and/or official letters written in a personal capacity sho
 
 
 
-## CHAPTER 24: PRÉCIS-WRITING
+## Chapter 24: Précis-Writing
 
 A précis is the shortened form of an idea. Generally précis are of two types: para-précis and letter-précis.
 
 Para-précis: A para-précis is the condensed substantial form of many paragraphs and cantos. The entire Rámáyańa, with seven cantos, may be written like this in a single paragraph:
 
-Raja Dasharatha was the king of Ayodhya in North India. He had three queens – Kaushalya, Kaikeyi and Sumitra – and four sons – Rama, Bharata, Lakshmana and Shatrughna. Dasharatha, being goaded by the evil advice of the second queen Kaikeyi, sent Rama into exile in the forest for fourteen years. Rama's devoted wife, Sita, and his affectionate brother, Lakshmana, accompanied him. One day during the short absence of Rama and Lakshmana, Ravana, the King of Lanka, kidnapped Sita from their cottage in the forest. After a long fight between Rama and Ravana, Ravana was defeated and killed by Rama. Rama came back to Ayodhya with Sita and Lakshmana. Dasharatha had died during the absence of Rama. Thus, just after Rama's return to Ayodhya, he was coronated.
+Raja Dasharatha was the king of Ayodhya in North India. He had three queens – Kaushalya, Kaikeyi and Sumitra – and four sons – Rama, Bharata, Lakshmana and Shatrughna. Dasharatha, being goaded by the evil advice of the second queen Kaikeyi, sent Rama into exile in the forest for fourteen years. Rama's devoted wife, Sita, and his affectionate brother, Lakshmana, accompanied him. 
+
+
+One day during the short absence of Rama and Lakshmana, Ravana, the King of Lanka, kidnapped Sita from their cottage in the forest. After a long fight between Rama and Ravana, Ravana was defeated and killed by Rama. Rama came back to Ayodhya with Sita and Lakshmana. Dasharatha had died during the absence of Rama. Thus, just after Rama's return to Ayodhya, he was coronated.
 
 Letter-précis: A letter-précis is the gist form of a long correspondence. For instance, in letter No. 1, Praviira wrote to Suviira that he would be going to Calcutta and not Lucknow during the summer vacation. In letter No.2, Suviira requested [that Praviira, instead of] going to Lucknow, come to Digha, where the sea beach is of a super-excellent standard. In response to Suviira's letter, Praviira wrote in letter No. 3 that he wanted to visit Bakkhali. Finally, Suviira wrote in letter No. 4 that yes, he [Praviira] might come to Bakkhali, and said that he (Suviira) would also remain present there. The letter-précis should be as follows:
 

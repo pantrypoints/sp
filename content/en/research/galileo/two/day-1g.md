@@ -1,17 +1,20 @@
 ---
 heading: Day 1g
-title: "Two Systems"
+title: "Creation and Change"
 # date: 2025-05-15
-weight: 4
+weight: 24
 description: ""
-a: "Galileo"
+
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 
+
 {{< r a="Simplicio" >}}
-Whatever that the earth is more perfect the way it is, being
-alterable, changeable, etc., than it would be if it were a mass of stone or even a solid diamond,
+Whatever that the earth is more perfect the way it is, being alterable, changeable, etc., than it would be if it were a mass of stone or even a solid diamond,
 and extremely hard and invariant. But to the extent that these conditions bring nobility to the
 earth, they would render less perfect the celestial bodies, in which they would be superfluous.
 For the celestial bodies -- that is, the sun, the moon, and the other stars, Which are ordained to
@@ -20,12 +23,14 @@ to achieve their end.
 {{< /r >}}
 
 
-SAGR. Has nature, then, produced and directed all these enormous, perfect, and most noble
-celestial bodies, invariant, eternal, and divine. for no other purpose than to serve the
+
+{{< r a="Sagredo" >}}
+Has nature, then, produced and directed all these enormous, perfect, and most noble celestial bodies, invariant, eternal, and divine. for no other purpose than to serve the
 changeable, transitory, and mortal earth? To serve that which you call the dregs of the
 universe, the sink of all uncleanness? Now to what purpose would the celestial bodies be made
-eternal, etc. in order to serve something transitory, etc.? Take away this purpose of serving the
-earth, and the innumerable host of celestial bodies is left useless and superfluous, since they
+eternal, etc. in order to serve something transitory, etc.? 
+
+Take away this purpose of serving the earth, and the innumerable host of celestial bodies is left useless and superfluous, since they
 have not and cannot have any reciprocal activities among themselves, all of them being
 inalterable, immutable, and invariant. For instance, if the moon is invariant, how would you
 have the sun or any other star act upon it? The action would doubtless have no more effect
@@ -34,6 +39,7 @@ seems to me that at such times as the celestial bodies are contributing to the g
 alterations on the earth, they too must be alterable. Otherwise I do not see how the influence of
 the moon or sun in causing generations on the earth would differ from placing a marble statue
 beside a woman and expecting children from such a union.
+{{< /r >}}
 
 
 
@@ -46,13 +52,15 @@ is necessary that celestial bodies be eternal.
 {{< /r >}}
 
 
-SAGR. This is all very well, but if there is nothing prejudicial to the immortality of the entire
-terrestrial globe in the corruptibility of its superficial pans, and if this generability,
+{{< r a="Sagredo" >}}
+But if there is nothing prejudicial to the immortality of the entire terrestrial globe in the corruptibility of its superficial pans, and if this generability,
 corruptibility, alterability, etc. give to it a great ornament and perfection, then why can you not
 and should you not likewise admit alterations, generations, etc. in the external parts of the
 celestial globes, adding these as an ornament without diminishing their perfection or depriving
 them of actions; even increasing those by making them operative not only upon the earth but
 reciprocally among themselves, and the earth also upon them?
+{{< /r >}}
+
 
 
 {{< r a="Simplicio" >}}
@@ -60,7 +68,9 @@ This cannot be, because the generations, mutations, etc. which would occur, say,
 {{< /r >}}
 
 
-SAGR. And why should they be vain and useless?
+{{< r a="Sagredo" >}}
+Why should they be vain and useless?
+{{< /r >}}
 
 
 {{< r a="Simplicio" >}}
@@ -77,7 +87,8 @@ who enjoy their fruits; an idea which if not mythical is impious.
 
 
 
-SAGR. I do not know nor do I suppose that herbs or plants or animals similar to ours are
+{{< r a="Sagredo" >}}
+I do not know nor do I suppose that herbs or plants or animals similar to ours are
 propagated on the moon, or that rains and winds and thunderstorms occur there as on the earth;
 much less that it is inhabited by men. Yet I still do not see that it necessarily follows that since
 things similar to ours are not generated there, no alterations at all take place, or that there
@@ -100,7 +111,7 @@ from but completely beyond all our imaginings, lacking any resemblance to ours a
 being entirely unthinkable. For that which we imagine must be either something already seen
 or a composite of things and parts of things seen at different times; such are sphinxes, sirens,
 chimeras, centaurs, etc.
-
+{{< /r >}}
 
 
 {{< l a="Salviati" >}}
@@ -113,31 +124,30 @@ encomiums in His praise. I mean, in a word, doing what is so frequently decreed 
 Scriptures; namely, a perpetual occupation of all creatures in praising God.
 {{< /l >}}
 
-
-SAGR. These are among the things which, speaking very generally, could be there. But I
-should like to hear you mention those which you believe cannot be there, as it must be possible
+{{< r a="Sagredo" >}}
+These are among the things which, speaking very generally, could be there. But I should like to hear you mention those which you believe cannot be there, as it must be possible
 for you to name them more specifically.
+{{< /r >}}
+
 
 {{< l a="Salviati" >}}
-SALV. I warn you, Sagredo, that this will be the third time we have thus strayed imperceptibly,
-step by step, from our principal topic, and we shall get to the point of our argument but slowly
+I warn you, Sagredo, that this will be the third time we have thus strayed imperceptibly, step by step, from our principal topic, and we shall get to the point of our argument but slowly
 if we make digressions. Therefore it will perhaps be good if we defer this matter, along with
 others we have agreed to put off until a special session.
 {{< /l >}}
 
 
-SAGR. Please, now that we are on the moon, let us go on with things that pertain to it, so that
-we shall not have to make another trip over so long a road....
+{{< r a="Sagredo" >}}
+Please, now that we are on the moon, let us go on with things that pertain to it, so that we shall not have to make another trip over so long a road....
 [Salviati, using data from telescopic observations, describes the features of the moon and its
 resemblance to earth: it is spherical, mountainous, and has areas of contrasting brightness.
+
 Simplico argues that the moon is a perfectly smooth sphere made of celestial matter. The three
 engage in an extended argument about the nature of the moon.]
-
+{{< /r >}}
 
 {{< r a="Simplicio" >}}
 Therefore, in your opinion, the earth would make an appearance similar to that which
 we see in the moon, of at most two parts. But do you believe then that those great spots which
 are seen on the face of the moon are seas, and the brighter balance land, or some such thing?
 {{< /r >}}
-
-

@@ -1,65 +1,71 @@
 ---
 heading: Day 1d
-title: "Two Systems"
+title: "The Earth is the Same as the Celestial Bodies"
 # date: 2025-05-15
-weight: 4
-description: ""
-a: "Galileo"
+weight: 11
+description:
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 
 
 {{< r a="Simplicio" >}}
-For a beginning, then, here are two powerful demonstrations proving the earth to be very different from celestial bodies. First, bodies that are generable corruptible, alterable, etc., are quite different from those that are ingenerable, incorruptible, inalterable, etc. The earth is generable, corruptible, alterable, etc., while celestial bodies are ingenerable, incorruptible, inalterable, etc. Therefore the earth is very different from the celestial bodies.
+I give 2 powerful demonstrations proving the earth to be very different from celestial bodies.
+
+1. Bodies that are generable corruptible, alterable, etc. are different from those that are ingenerable, incorruptible, inalterable, etc.
+
+The earth is generable, corruptible, alterable, etc., while celestial bodies are ingenerable, incorruptible, inalterable, etc. 
+
+Therefore, the earth is very different from the celestial bodies.
 {{< /r >}}
 
 
-SAGR. With your first argument, you bring back to the table what has been standing there all
-day and has just now been carried away.
+{{< r a="Sagredo" >}}
+With your first argument, you bring back to the table what has been standing there all day and has just now been carried away.
+{{< /r >}}
 
 
 {{< r a="Simplicio" >}}
-Softly, sir; hear the rest, and you will see how different it is from that. Formerly the minor premise was proved a priori, and now I wish to prove it a posteriori. See for yourself whether this is the same thing. 
+<!-- Softly, sir; hear the rest, and you will see how different it is from that.  -->
 
-I shall prove the minor, because the major is obvious. Sensible experience shows that on earth there are continual generations, corruptions, alter- ations, etc., the like of which neither our senses nor the traditions or memories of our ancestors have ever detected in heaven; hence heaven is inalterable, etc., and the earth alterable, etc., and therefore different from the heavens.
+Formerly the minor premise was proved a priori, and now I wish to prove it a posteriori. 
+<!-- See for yourself whether this is the same thing.  -->
 
-The second argument I take from a principal and essential property, which is this: whatever
-body is naturally dark and devoid of light is different from luminous and resplendent bodies;
-the earth is dark and without light, and celestial bodies are splendid and full of light; therefore,
-etc. Answer these, so that too great a pile does not accumulate, and then I will add others.
+I shall prove the minor, because the major is obvious. 
+
+Experience shows that on earth there are continual generations, corruptions, alterations, etc., the like of which neither our senses nor the traditions or memories of our ancestors have ever detected in heaven. Hence heaven is inalterable, etc., and the earth alterable, etc., and therefore different from the heavens.
+
+The second argument I take from a principal and essential property, which is this: whatever body is naturally dark and devoid of light is different from luminous and resplendent bodies; the earth is dark and without light, and celestial bodies are splendid and full of light; therefore, etc. 
+
+Answer these, so that too great a pile does not accumulate, and then I will add others.
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-As to the first, for whose force you appeal to experience, I wish you would tell me
-precisely what these alterations are that you see on the earth and not in the heavens, and on
+As to the first, for whose force you appeal to experience, I wish you would tell me precisely what these alterations are that you see on the earth and not in the heavens, and on
 account of which you call the earth alterable and the heavens not.
 {{< /l >}}
 
 
 {{< r a="Simplicio" >}}
-On earth I continually see herbs, plants, animals generating and decaying; winds, rains,
-tempests, storms arising; in a word, the appearance of the earth undergoing perpetual change.
-None of these changes are to be discerned in celestial bodies, whose positions and
-configurations correspond exactly with everything men remember, without the generation of
-anything new there or the corruption of anything old.
+On earth I continually see herbs, plants, animals generating and decaying; winds, rains, tempests, storms arising; in a word, the appearance of the earth undergoing perpetual change.
+
+None of these changes are to be discerned in celestial bodies, whose positions and configurations correspond exactly with everything men remember, without the generation of
+anything new there or the corruption of anything old. 
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-But if you have to content yourself with these visible, or rather these seen experiences,
-you must consider China and America celestial bodies, since you surely have never seen in
-them these alterations which you see in Italy. Therefore, in your sense, they must be
-inalterable.
+But if you have to content yourself with these visible, or rather these seen experiences, you must consider China and America celestial bodies, since you surely have never seen in
+them these alterations which you see in Italy. Therefore, in your sense, they must be inalterable.
 {{< /l >}}
 
 
-
 {{< r a="Simplicio" >}}
-Even if I have never seen such alterations in those places with my own senses, there are
-reliable accounts of them; besides which, cum eadem sit ratio totius et partium, those counties
-being a pan of the earth like ours, they must be alterable like this.
+Even if I have never seen such alterations in those places with my own senses, there are reliable accounts of them; besides which, cum eadem sit ratio totius et partium, those counties being a pan of the earth like ours, they must be alterable like this.
 {{< /r >}}
 
 

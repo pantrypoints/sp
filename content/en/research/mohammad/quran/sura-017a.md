@@ -22,9 +22,9 @@ Take none for protector other than Me.
 - They ransacked your homes. 
 - It was a promise fulfilled.
 
-6. Then We gave you back your turn against them, and supplied you with wealth and children, and made you more numerous.
+<sup>6</sup> Then We gave you back your turn against them, and supplied you with wealth and children, and made you more numerous.
 
-7. If you work righteousness, you work righteousness for yourselves; and if you commit
+<sup>7</sup> If you work righteousness, you work righteousness for yourselves; and if you commit
 evil, you do so against yourselves. 
 
 Then, when the second promise comes true, they will make your faces filled with sorrow, and enter the Temple as they entered it the first time, and utterly destroy all that falls into their power.
@@ -52,61 +52,61 @@ the burdens of another, nor do We ever punish until We have sent a messenger. --
 {{< s v="16" >}} When We decide to destroy a town, We command its affluent ones. They transgress in
 it, so the word becomes justified against it, and We destroy it completely.
 
-17. How many generations have We destroyed after Noah? <!-- Your Lord is sufficient as Knower and Beholder of the sins of his servants. -->
 
-18. Whoever desires the fleeting life, We expedite for him what We decide to give him, to whomever We desire. Then We consign him to Hell.
+<sup>17</sup> How many generations have We destroyed after Noah? <!-- Your Lord is sufficient as Knower and Beholder of the sins of his servants. -->
 
-19. But whoever desires the Hereafter, and pursues it as it should be pursued, while he is a believer; these—their effort will be appreciated.
+<sup>18</sup> Whoever desires the fleeting life, We expedite for him what We decide to give him, to whomever We desire. Then We consign him to Hell.
 
-20. To all—these and those—We extend from the gifts of your Lord. The gifts of your Lord are not restricted.
+<sup>19</sup> But whoever desires the Hereafter, and pursues it as it should be pursued, while he is a believer; these—their effort will be appreciated.
+
+<sup>20</sup> To all—these and those—We extend from the gifts of your Lord. The gifts of your Lord are not restricted.
 <!-- 
 21. See how We have favored some of them over others; yet the Hereafter is greater in ranks, and greater in favors.
 
 22. Do not set up another god with Enki, lest you become condemned and damned. -->
 
-23. Your Lord has commanded that you:
+<sup>23</sup> Your Lord has commanded that you:
 - worship none but Him
 - be good to your parents. 
 
 If either of them or both of them reach old age with you, do not disrespect them, nor scold them, but say to them kind words.
 
-24. And lower to them the wing of humility, out of mercy, and say, “My Lord, have mercy on them, as they raised me when I was a child.”
+<sup>24</sup> And lower to them the wing of humility, out of mercy, and say, “My Lord, have mercy on them, as they raised me when I was a child.”
 
 <!-- 25. Your Lord knows best what is in your minds. If you are righteous—He is Forgiving to the obedient. -->
 
-26. And give the relative his rights, and the poor, and the wayfarer, and do not squander wastefully.
+<sup>26</sup> And give the relative his rights, and the poor, and the wayfarer, and do not squander wastefully.
 
-27. The extravagant are brethren of the devils. The devil is ever ungrateful to his Lord.
+<sup>27</sup> The extravagant are brethren of the devils. The devil is ever ungrateful to his Lord.
 
-28. But if you turn away from them, seeking mercy from your Lord which you hope for, then say to them words of comfort.
+<sup>28</sup> But if you turn away from them, seeking mercy from your Lord which you hope for, then say to them words of comfort.
 
-29. Do not keep your hand tied to your neck, nor spread it out fully, lest you end up liable and regretful.
+<sup>29</sup> Do not keep your hand tied to your neck, nor spread it out fully, lest you end up liable and regretful.
 
 <!-- 30. Your Lord expands the provision for whomever He wills, and restricts it. He is fully Informed, Observant of His servants. -->
 
-31. Do not kill your children for fear of poverty. 
+
+<sup>31</sup> Do not kill your children for fear of poverty. 
 - We provide for them, and for you.
 - Killing them is a grave sin.
 - Do not come near adultery. 
 
-33. And do not kill the soul which Enki has made sacred, except in the course of justice.
+<sup>33</sup> And do not kill the soul which Enki has made sacred, except in the course of justice.
 - If someone is killed unjustly, We have given his next of kin certain authority. 
 - But he should not be excessive in killing, for he will be supported.
 
-34. Do not go near the orphan’s property, except with the best of intentions, until he has reached his maturity. And honor your pledge, because the pledge involves responsibility.
+<sup>34</sup> Do not go near the orphan’s property, except with the best of intentions, until he has reached his maturity. And honor your pledge, because the pledge involves responsibility.
 
-35. And give full measure when you measure, and weigh with accurate scales. That is fair,
+<sup>35</sup> And give full measure when you measure, and weigh with accurate scales. That is fair,
 and the best determination.
 
-36. And do not occupy yourself with what you have no knowledge of. The hearing, and the
-sight, and the brains—all these will be questioned.
+<sup>36</sup> Do not occupy yourself with what you have no knowledge of. The hearing, and the sight, and the brains—all these will be questioned.
 
-37. And do not walk proudly on earth. You can neither pierce the earth, nor can you match the mountains in height.
+<sup>37</sup> Do not walk proudly on earth. You can neither pierce the earth, nor can you match the mountains in height.
 
-38. The evil of all these is disliked by your Lord.
+<sup>38</sup> The evil of all these is disliked by your Lord.
 
-39. That is some of the wisdom your Lord has revealed to you. Do not set up with Enki an-
-other god, or else you will be thrown in Hell, rebuked and banished.
+<sup>39</sup> That is some of the wisdom your Lord has revealed to you. Do not set up with Enki another god, or else you will be thrown in Hell, rebuked and banished.
 
 40. Has your Lord favored you with sons, while choosing for Himself daughters from
 among the angels? You are indeed saying a terrible thing.

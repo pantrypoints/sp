@@ -5,6 +5,9 @@ title: "Pendulums"
 weight: 44
 description: ""
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 

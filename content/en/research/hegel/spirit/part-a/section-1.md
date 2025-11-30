@@ -67,13 +67,17 @@ Instead, this sensing 'I' merely says that the thing or the fact exists.
 
 
 Existence is the essential point for sense-knowledge. 
-- The truth in sense-knowledge is the simple immediacy of the existence of something. 
+- **The truth in sense-knowledge is the simple immediacy of the existence of something.** 
 
 <!-- In the same way, the certainty qua relation, the certainty “of” something, is an immediate pure relation.  -->
 
 In the same way, the certainty “of” something is an immediate pure relation. 
 
-Consciousness is I* – nothing more, a pure this. 
+Consciousness is I – nothing more, a pure this.*
+
+{{< n n="Here, Hegel correctly equates consciousness with the Hindu mahat" >}}
+
+
 
 <!-- n n="Here Kant confuses consciousness for identity and the ego -->
 
@@ -86,8 +90,6 @@ The individual consciousness knows a pure this, or knows what is individual.
 <!-- , and is given out by it as its truth. -->
 
 A concrete actual certainty of sense is not merely this pure immediacy.
-- It is but an example, an instance, of that immediacy.
+- It is but an instance of that immediacy.
 
 <!-- Amongst the innumerable distinctions that here come to light, we find in all cases  -->
-
-

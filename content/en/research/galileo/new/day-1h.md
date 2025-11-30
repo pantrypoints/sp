@@ -5,6 +5,9 @@ title: "Infinity and Indivisibility"
 weight: 18
 description: ""
 c: "darkgoldenrod"
+writer:
+  name: Galileo
+  url: https://en.wikipedia.org/wiki/Galileo_Galilei
 ---
 
 
