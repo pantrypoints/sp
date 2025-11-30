@@ -5,7 +5,7 @@ weight: 10
 contributors: ['Vyasa']
 description: "The region of high rest which Sankhyans reach Yogins attain"
 c: "indigo"
-icon: "Krishna"
+icon: "Vyasa"
 ---
 
 

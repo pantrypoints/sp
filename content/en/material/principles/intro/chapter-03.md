@@ -15,6 +15,14 @@ aliases:
 ---
 
 
+Ww use 4 Rules of Motion from the 4 Properties of Waves. 
+
+1. No Void (Commonality)
+2. Straight or Circle  (Density)
+3. Collisions (Balance)
+4. State-Change (Spread)
+
+
 ## Motion Versus Movement
 
 "Motion" comes from the Latin noun motionem which means "a moving".

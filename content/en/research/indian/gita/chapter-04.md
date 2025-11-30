@@ -5,7 +5,7 @@ weight: 8
 contributors: ['Vyasa']
 description: "This deathless Yoga, this deep union, I taught Vivaswata,[FN#6] the Lord of Light"
 c: "indigo"
-icon: "Krishna"
+icon: "Vyasa"
 ---
 
 

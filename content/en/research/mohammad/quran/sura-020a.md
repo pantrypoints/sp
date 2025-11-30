@@ -83,22 +83,22 @@ are always watching over us.” -->
 {{< l a="Enki" >}}
 Your request is granted. 
 
-37. We had favored you previously when We inspired your mother to cast you into the river. The river will wash him to shore, where an enemy of Mine and an enemy of his will pick him up so that you may be reared before My eye.
+<sup>37</sup> We had favored you previously when We inspired your mother to cast you into the river. The river will wash him to shore, where an enemy of Mine and an enemy of his will pick him up so that you may be reared before My eye.
 
-40. Your sister walked along and said, ‘Shall I tell you about someone who will take care of him?' 
+<sup>40</sup> Your sister walked along and said, ‘Shall I tell you about someone who will take care of him?' 
 
 So We returned you to your mother, that she may not be sad. 
 
 You killed someone, but We saved you from stress. We tested you thoroughly. You stayed years among the people of Median. Then you came back, as ordained.
 
-43. Go to Pharaoh. He has tyrannized But speak to him nicely. Perhaps he will remember, or have some fear.”
+<sup>43</sup> Go to Pharaoh. He has tyrannized But speak to him nicely. Perhaps he will remember, or have some fear.”
 
 Do not fear, I am with you
 
 Tell Pharaoh `We are the messengers of your Lord; so let the Children of Israel go with us, and do not torment them.
 We bring you a sign from your Lord, and peace be upon him who follows guidance.
 
-48. It was revealed to us that the punishment falls upon him who disbelieves and turns away.'
+<sup>48</sup> It was revealed to us that the punishment falls upon him who disbelieves and turns away.'
 {{< /l >}}
 
 

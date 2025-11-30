@@ -40,8 +40,7 @@ wrath and his refuge is Hell—the miserable destination?
 
 This is even if before that they were in evident error.
 
-<sup>165</sup> When a calamity* befell you, even after you had inflicted twice as much, you said,
-“How is this?” 
+<sup>165</sup> When a calamity* befell you, even after you had inflicted twice as much, you said, “How is this?” 
 
 {{< n n="*This is the comet that destroyed Atlantis" >}}
 

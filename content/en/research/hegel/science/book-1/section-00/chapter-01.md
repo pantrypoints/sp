@@ -140,3 +140,4 @@ These are not fit to be examples of immediate knowledge [sensory thoughts].
 Immediate consciousness is also the first and that which is immediate in the science itself, and therefore the presupposition. 
 
 But in logic, the presupposition is that which has proved itself to be the result of that phenomenological consideration — the Idea as pure knowledge.
+

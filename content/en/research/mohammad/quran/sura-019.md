@@ -62,7 +62,7 @@ disobedient tyrant.
 - We sent to her Our spirit which appeared to her as an immaculate human.
 
 {{< l a="Mary" >}}
-18. I take refuge from you should you be righteous.”
+<sup>18</sup> I take refuge from you should you be righteous.”
 {{< /l >}}
 
 {{< r a="Man" >}}
@@ -70,30 +70,30 @@ I am only the messenger of your Lord, to give you the gift of a pure son.”
 {{< /r >}}
 
 {{< l a="Mary" >}}
-20. How can I have a son, when no man has touched me, and I was never unchaste?
+<sup>20</sup> How can I have a son, when no man has touched me, and I was never unchaste?
 {{< /l >}}
 
 {{< r a="Man" >}}
-21. Your Lord said `It is easy for Me, and We will make him a sign for humanity, and a mercy from Us. It is a matter already decided.'
+<sup>21</sup> Your Lord said `It is easy for Me, and We will make him a sign for humanity, and a mercy from Us. It is a matter already decided.'
 {{< /r >}}
 
 
-22. So she carried him, and secluded herself with him in a remote place.
+<sup>22</sup> So she carried him, and secluded herself with him in a remote place.
 
-23. The labor-pains came upon her, by the trunk of a palm-tree.
+<sup>23</sup> The labor-pains came upon her, by the trunk of a palm-tree.
 
 {{< l a="Mary" >}}
 I wish I had died before this, and been completely forgotten.
 {{< /l >}}
 
 {{< r a="Jesus" >}}
-24-26. [from inside her]: “Do not worry. Your Lord has placed a stream beneath you. Shake the trunk of the palm-tree towards you, and it will drop ripe dates by you. So eat, and drink, and be consoled.
+<sup>24-26</sup> [from inside her]: “Do not worry. Your Lord has placed a stream beneath you. Shake the trunk of the palm-tree towards you, and it will drop ripe dates by you. So eat, and drink, and be consoled.
 
 If you see any human, say, ‘I have vowed a fast so I will not speak to any human today.'
 {{< /r >}}
 
 
-27. Then she came to her people, carrying the baby Jesus.
+<sup>27</sup> Then she came to her people, carrying the baby Jesus.
 
 
 {{< r a="People" >}}
@@ -101,21 +101,22 @@ O Mary, sister of Aaron, you have done something terrible. Your father was not a
 {{< /r >}}
 
 
-29. Mary pointed to baby Jesus.
+<sup>29</sup> Mary pointed to baby Jesus.
 
 {{< r a="People" >}}
 How can we speak to a baby?
 {{< /r >}}
 
 {{< l a="Jesus" >}}
-30-32. I am the servant of Enki. He has:
+<sup>30-32</sup> I am the servant of Enki. He has:
 - given me the Scripture, and made me a prophet.
 - made me blessed wherever I may be
 - enjoined on me prayer and charity, so long as I live.
 
 Be kind to my mother. Enki did not make me a disobedient rebel.
 
-33. So Peace is upon me the day I was born, the day I die, and the Day I get resurrected alive.
+
+<sup>33</sup> So Peace is upon me the day I was born, the day I die, and the Day I get resurrected alive.
 {{< /l >}}
 
 <!-- 34. That is Jesus son of Mary—the Word of truth about which they doubt. -->
@@ -123,19 +124,19 @@ Be kind to my mother. Enki did not make me a disobedient rebel.
 
 ### Enki has no sons
 
-35. It is not for Enki to have a son because to have anything done, He says “Be” and it becomes.
+<sup>35</sup> It is not for Enki to have a son because to have anything done, He says “Be” and it becomes.
 
 
 {{< l a="Jesus" >}}
 Enki is my Lord and your Lord, so worship Him. That is a straight path.
 {{< /l >}}
 
-37. But the various factions differed among themselves. <!-- So woe to those who disbelieve
+<sup>37</sup> But the various factions differed among themselves. <!-- So woe to those who disbelieve
 from the scene of a tremendous Day.  -->
-- 38. Listen to them and watch for them the Day they come to Us. <!-- But the wrongdoers today
+- <sup>38</sup> Listen to them and watch for them the Day they come to Us. <!-- But the wrongdoers today
 are completely lost. -->
-- 39. And warn them of the Day of Regret, when the matter will be concluded. Yet they are
+- <sup>39</sup> Warn them of the Day of Regret, when the matter will be concluded. Yet they are
 heedless, and they do not believe.
 
-40. It is We who will inherit the earth and everyone on it, and to Us they will be returned.
+<sup>40</sup> It is We who will inherit the earth and everyone on it, and to Us they will be returned.
 

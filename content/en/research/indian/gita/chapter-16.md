@@ -1,96 +1,113 @@
 ---
-title: "The Divine and Non-Divine"
+title: "The Divine and Non-Divine Natures"
 heading: "Chapter 16"
 weight: 32
 contributors: ['Vyasa']
 description: ""
 c: "indigo"
-icon: "Krishna"
+icon: "Vyasa"
 ---
 
 
-Fearlessness, singleness of soul, the will always to strive for wisdom
 
-opened hand and governed appetites; and piety, And love of lonely study; humbleness,
-Uprightness, heed to injure nought which lives, truthfulness, slowness unto wrath, a mind
-That lightly letteth go what others prize; 
+<sup>1-3</sup> The transcendental qualities belong to godly men endowed with divine nature:
 
-equanimity, and charity which spieth no man's faults; and tenderness
-Towards all that suffer; a contented heart,
-Fluttered by no desires; a bearing mild,
-Modest, and grave, with manhood nobly mixed,
-With patience, fortitude, and purity;
-An unrevengeful spirit, never given
-To rate itself too high;--such be the signs,
-O Indian Prince! of him whose feet are set
-On that fair path which leads to heavenly birth!
-Deceitfulness, and arrogance, and pride,
-Quickness to anger, harsh and evil speech,
-And ignorance, to its own darkness blind,--
-These be the signs, My Prince! of him whose birth
-Is fated for the regions of the vile.[FN#32]
-The Heavenly Birth brings to deliverance,
-So should'st thou know! The birth with Asuras
-Brings into bondage. Be thou joyous, Prince!
-Whose lot is set apart for heavenly Birth.
-Two stamps there are marked on all living men,
-Divine and Undivine; I spake to thee
-By what marks thou shouldst know the Heavenly Man,
-Hear from me now of the Unheavenly!
-They comprehend not, the Unheavenly,
-How Souls go forth from Me; nor how they come
-Back unto Me: nor is there Truth in these,
-Nor purity, nor rule of Life. "This world
-Hath not a Law, nor Order, nor a Lord,"
-So say they: "nor hath risen up by Cause
-Following on Cause, in perfect purposing,
-But is none other than a House of Lust."
-And, this thing thinking, all those ruined ones--
-Of little wit, dark-minded--give themselves
-To evil deeds, the curses of their kind.
-Surrendered to desires insatiable,
-Full of deceitfulness, folly, and pride,
-In blindness cleaving to their errors, caught
-Into the sinful course, they trust this lie
-As it were true--this lie which leads to death--
-Finding in Pleasure all the good which is,
-And crying "Here it finisheth!"
-Ensnared In nooses of a hundred idle hopes,
-Slaves to their passion and their wrath, they buy
-Wealth with base deeds, to glut hot appetites;
-"Thus much, to-day," they say, "we gained! thereby
-Such and such wish of heart shall have its fill;
-And this is ours! and th' other shall be ours!
-To-day we slew a foe, and we will slay
-Our other enemy to-morrow! Look!
-Are we not lords? Make we not goodly cheer?
-Is not our fortune famous, brave, and great?
-Rich are we, proudly born! What other men
-Live like to us? Kill, then, for sacrifice!
-Cast largesse, and be merry!" So they speak
-Darkened by ignorance; and so they fall--
-Tossed to and fro with projects, tricked, and bound
-In net of black delusion, lost in lusts--
-Down to foul Naraka. Conceited, fond,
-Stubborn and proud, dead-drunken with the wine
-Of wealth, and reckless, all their offerings
-Have but a show of reverence, being not made
-In piety of ancient faith. Thus vowed
-To self-hood, force, insolence, feasting, wrath,
-These My blasphemers, in the forms they wear
-And in the forms they breed, my foemen are,
-Hateful and hating; cruel, evil, vile,
-Lowest and least of men, whom I cast down
-Again, and yet again, at end of lives,
-Into some devilish womb, whence--birth by birth--
-The devilish wombs re-spawn them, all beguiled;
-And, till they find and worship Me, sweet Prince!
-Tread they that Nether Road.
-The Doors of Hell
-Are threefold, whereby men to ruin pass,--
-The door of Lust, the door of Wrath, the door
-Of Avarice. Let a man shun those three!
-He who shall turn aside from entering
-All those three gates of Narak, wendeth straight
-To find his peace, and comes to Swarga's gate.
-<!-- .[FN#33] -->
+- Fearlessness
+- purification of one’s existence
+- cultivation of spiritual knowledge
+- charity
+- self-control
+- performance of sacrifice
+- study of the Vedas
+- austerity
+- simplicity
+- nonviolence
+- truthfulness
+- freedom from anger
+- renunciation
+- tranquillity
+- aversion to faultfinding
+- compassion for all living entities
+- freedom from covetousness
+- gentleness
+- modesty
+- steady determination
+- vigor
+- forgiveness
+- fortitude
+- cleanliness
+- freedom from envy and from the passion for honor
+
+
+
+<sup>4</sup> The following qualities belong to those of non-divine nature:
+
+- pride
+- arrogance
+- conceit
+- anger
+- harshness
+- ignorance
+
+
+<sup>5</sup> The transcendental qualities are conducive to liberation, whereas the demoniac qualities make for bondage. 
+
+Do not worry, O son of Pāṇḍu, for you are born with the divine qualities.
+
+<sup>6</sup> O son of Pṛthā, in this world there are 2 kinds of created beings.
+
+1. Divine
+2. Non-Divine
+
+
+<sup>7</sup> The non-divine do not know:
+- what is to be done
+- what is not to be done
+
+Neither cleanliness nor proper behavior nor truth is found in them.
+
+<sup>8</sup> They say that this world is unreal, with no foundation, no God in control.
+
+They say it is produced of sex desire and has no cause other than lust.
+
+<sup>9</sup> They are lost to themselves and have no intelligence. And so they engage in unbeneficial, horrible works meant to destroy the world.
+
+<sup>10</sup> Taking shelter of insatiable lust and absorbed in the conceit of pride and false prestige, the demoniac, thus illusioned, are always sworn to unclean work, attracted by the impermanent.
+
+<sup>11-12</sup> They believe that to gratify the senses is the prime necessity of human civilization.
+
+Thus until the end of life their anxiety is immeasurable. Bound by a network of hundreds of thousands of desires and absorbed in lust and anger, they secure money by illegal means for sense gratification.
+
+<sup>13-15</sup> The demonic person thinks “So much wealth do I have today, and I will gain more according to my schemes. So much is mine now, and it will increase in the future, more and more.
+
+He is my enemy. I have killed him.
+
+My other enemies will also be killed. 
+
+I am the lord of everything. I am the enjoyer. I am perfect, powerful and happy. I am the richest man, surrounded by aristocratic relatives. There is none so powerful and happy as I am. 
+
+I shall perform sacrifices, I shall give some charity, and thus I shall rejoice.” In this way, such persons are deluded by ignorance.
+
+<sup>16</sup> Thus perplexed by various anxieties and bound by a network of illusions, they become too strongly attached to sense enjoyment and fall down into hell.
+
+<sup>17</sup> Self-complacent and always impudent, deluded by wealth and false prestige, they sometimes proudly perform sacrifices in name only, without following any rules or regulations.
+
+<sup>18</sup> Bewildered by false ego, strength, pride, lust and anger, the demons become envious of the Supreme Personality of Godhead, who is situated in their own bodies and in the bodies of others, and blaspheme against the real religion.
+
+<sup>19</sup> Those who are envious and mischievous, who are the lowest among men, I perpetually cast into the ocean of material existence, into various demoniac species of life.
+
+<sup>20</sup> Attaining repeated birth amongst the species of demoniac life, O son of Kuntī, such persons can never approach Me. Gradually they sink down to the most abominable type of existence.
+
+<sup>21</sup> There are three gates leading to this hell are:
+
+1. Lust [2nd chakra]
+2. Anger [1st chakra]
+3. Greed [3rd chakra]
+
+Every sane man should give these up, for they lead to the degradation of the soul.
+
+<sup>22</sup> The man who has escaped these three gates of hell, O son of Kuntī, performs acts conducive to self-realization and thus gradually attains the supreme destination.
+
+<sup>23</sup> He who discards scriptural injunctions and acts according to his own whims attains neither perfection, nor happiness, nor the supreme destination.
+
+<sup>24</sup> One should therefore understand what is duty and what is not duty by the regulations of the scriptures. Knowing such rules and regulations, one should act so that he may gradually be elevated.

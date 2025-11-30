@@ -5,7 +5,7 @@ weight: 4
 contributors: ['Vyasa']
 description: ""
 c: "indigo"
-icon: "Krishna"
+icon: "Vyasa"
 ---
 
 
