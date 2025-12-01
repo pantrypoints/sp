@@ -52,3 +52,4 @@ The spectacle of Virginia's death, whom her father immolated to chastity and lib
 No people were so easily moved with publ ic spectacles as the Romans. That of the impurpled body of Lucretia put an  end to the regal government. The debtor, who appeared in the forum covered  with wounds, caused an alteration in the republic. The decemvirs owed their expulsion to the tragedy of Virginia. 
 
 To condemn Manlius, it was necessary to keep the people from seeing the Capitol. Caesar's bloody ga rment flung Rome again into slavery.
+

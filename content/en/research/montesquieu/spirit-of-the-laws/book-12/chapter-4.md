@@ -39,7 +39,7 @@ In things that prejudice the tranquility or security of the state, secret action
 
 The mischief arises from a notion, which some people have entertained, of revenging the cause of the Deity. But we  must honour the Deity, and leave him to avenge his own cause. And, indeed,  were we to be directed by such a notion, where would be the end of punishme nts? If human laws are to avenge the cause of an infinite Being, they will  be directed by his infinity, and not by the weakness, ignorance, and capric e, of man.
 
-An historian of Provence relates a fact, which furnis hes us with an excellent description of the consequences that may arise, in weak capacities, from the notion of avenging the DeityE28099s cause. A  Jew was accused of having blasphemed against the virgin Mary; and, upon con viction, was condemned to be flead alive. A strange spectacle was then exhi bited= gentlemen masked, with knives in their hands, mounted the scaffold,  and drove away the executioner, in order to be the avengers themselves of t he honour of the blessed virgin. I do not here choose to anticipa te the reflections of the reader.
+An historian of Provence relates a fact, which furnis hes us with an excellent description of the consequences that may arise, in weak capacities, from the notion of avenging the Deity's cause. A  Jew was accused of having blasphemed against the virgin Mary; and, upon con viction, was condemned to be flead alive. A strange spectacle was then exhi bited= gentlemen masked, with knives in their hands, mounted the scaffold,  and drove away the executioner, in order to be the avengers themselves of t he honour of the blessed virgin. I do not here choose to anticipa te the reflections of the reader.
 
 
 ### Moral crimes 
@@ -56,7 +56,13 @@ The crimes of the third class are those  which disturb the public tranquility. T
 
 I confine those crimes that injure the p ublic tranquility to things which imply a bare offence against the police;  for, as to those which, by disturbing the public peace, attack at the same  time the security of the subject, they ought to be ranked in the fourth cla ss.
 
-The punishments inflicted upon the latte r crimes are such as are properly distinguished by that name. They are a ki nd of retaliation, by which the society refules security to a member who ha s actually or intentionally deprived another of his security. These punishm ents are derived from the nature of the thing, founded on reason, and drawn from the very source of good and evil. A man deserves death when he has vi olated the security of the subject so far as to deprive, or attempt to depr ive, another man of his life. This punishment of death is the remedy, as it were, of a sick society. When there is a breach of security with regard to property, there may be some reasons for inflicting a capital punishment= b ut it would be much better, and perhaps more natural, that crimes committed against the security of property should be punished with the loss of pro perty; and this ought indeed to be the case if mens fortunes were common or equal. But, as those who have no property of their own are generally the r eadiest to attack that of others, it has been found necessary, instead of a pecuniary, to substitute a corporal, punishment.
+The punishments inflicted upon the latter crimes are such as are properly distinguished by that name.
+
+They are a ki nd of retaliation, by which the society refules security to a member who ha s actually or intentionally deprived another of his security. 
+
+These punishm ents are derived from the nature of the thing, founded on reason, and drawn from the very source of good and evil. A man deserves death when he has vi olated the security of the subject so far as to deprive, or attempt to depr ive, another man of his life. This punishment of death is the remedy, as it were, of a sick society. 
+
+When there is a breach of security with regard to property, there may be some reasons for inflicting a capital punishment= b ut it would be much better, and perhaps more natural, that crimes committed against the security of property should be punished with the loss of pro perty; and this ought indeed to be the case if mens fortunes were common or equal. But, as those who have no property of their own are generally the r eadiest to attack that of others, it has been found necessary, instead of a pecuniary, to substitute a corporal, punishment.
 
 All that I have here advanced is founded in nature, and extremely favourable to the liberty of the subject.
 
@@ -76,6 +82,4 @@ The emperor Theodor us Lascaris attributed his illness to witchcraft. Those who 
 
 Under the reign of  Philip the Long the Jews were expelled from France, being accused of having poisoned the springs with their lepers. So absurd an accusation should make us doubt of all those that are founded on public hatred.
 
-I have not here asserted that heresy oug ht not to be punished; I said only that we ought to be extremely circumspec t in punishing it.
-
-
+I have not here asserted that heresy oug ht not to be punished; I said only that we ought to be extremely circumspect in punishing it.

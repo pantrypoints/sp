@@ -17,9 +17,9 @@ The laws that establish political liberty, as it relates to the constitution, an
 ## Chapter 2: Different Meanings of Liberty
 
 Liberty is the word that has the most meanings and has made the most impressions on the human mind. Some have taken it as:
-- a facility of deposing a person on whom they had conferred a tyrannical authority= 
+- a facility of deposing a person on whom they had conferred a tyrannical authority: 
 - others, for the power of choosing a superior whom they are obliged to obey;
-- others, for the right of bearing arms, and of being thereby ena bled to use violence= 
+- others, for the right of bearing arms, and of being thereby ena bled to use violence: 
 - others, in fine, for the privilege of being governed  by a native of their own country, or by their own laws.
 
 One nation thought for a long time that liberty was in the privilege of wearing a long beard.
@@ -41,23 +41,30 @@ We must have continually present to our  minds the difference between independen
 
 
 
-## Chapter 4= The same Subject continued.
+## Chapter 4: The same Subject continued.
 
-DEMOCRATIC and aristocratic states are n ot in their own nature free. Political liberty is to be found only in moder ate governments; and even in these it is not always found. It is there only when there is no abuse of power= but constant experience shews us that eve ry man invested with power is apt to abuse it, and to carry his authority a s far as it will go. Is it not strange, though true, to say, that virtue it self has need of limits?
+DEMOCRATIC and aristocratic states are not in their own nature free.
 
-To prevent this abuse, it is necessary,  from the very nature of things, power should be a check to power. A governm ent may be so constituted, as no man shall be compelled to do things to whi ch the law does not oblige him, nor forced to abstain from things which the law permits.
+Political liberty is to be found only in moderate governments. Even in these it is not always found.
+
+It is there only when there is no abuse of power: but constant experience shews us that eve ry man invested with power is apt to abuse it, and to carry his authority as far as it will go.
+
+Is it not strange, though true, to say, that virtue it self has need of limits?
+
+To prevent this abuse, power should be a check to power.
+
+A government may be so constituted, as no man shall be compelled to do things to whi ch the law does not oblige him, nor forced to abstain from things which the law permits.
 
 
 
-## Chapter 5= The End or View of different Go vernments.
+## Chapter 5: The End or View of different Go vernments.
 
 THOUGH all governments have the same gen eral end, which is that of preservation, yet each has another particular object. 
 
 Increase of dominion was the object of Rome; war, that of Sparta; religion, that of the Jewish laws; commerce, that of Marseilles; public tranquillity, that of the laws of China*; navigation, that of the laws of Rhodes; natural liberty, that of the policy of the savages; 
 
-in general, the pleasures of the prince, tha t of despotic states; that of monarchies, the prince's and the kingdom's glory= the independence of individuals Edition= current; Page= [198] is the end aimed at  by the laws of Poland; from thence results the oppression of the whole.
+in general, the pleasures of the prince, tha t of despotic states; that of monarchies, the prince's and the kingdom's glory: the independence of individuals is the end aimed at by the laws of Poland; from thence results the oppression of the whole.
 
-
-One nation there is also in the world, t hat has, for the direct end of its constitution, political liberty. We shal l presently examine the principles on which this liberty is founded= if the y are sound, liberty will appear in its highest perfection.
+One nation there is also in the world, that has, for the direct end of its constitution, political liberty. We shal l presently examine the principles on which this liberty is founded: if the y are sound, liberty will appear in its highest perfection.
 
 To discover political liberty in a constitution, no great labour is requisite. If we are capable of seeing it where it exists, it is soon found, and we need not go far in search of it.

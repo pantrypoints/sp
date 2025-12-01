@@ -18,7 +18,7 @@ It is also unnatural for a democratic republic to conquer towns which cannot ent
 
 It is necessary that the conquered people s hould be capable of enjoying the privileges of sovereignty, as was settled  in the very beginning among the Romans. The conquest ought to be limited to the number of citizens fixt for the democracy.
 
-If a democratic republic subdues a nation in order to govern them as subjects, it exposes its own liberty, becaus e it intrusts too great a power to those who are appointed to the command o f the conquered provinces.
+If a democratic republic subdues a nation in order to govern them as subjects, it exposes its own liberty, becaus e it intrusts too great a power to those who are appointed to the command of the conquered provinces.
 
 How dangerous would have been the situat ion of the republic of Carthage had Hannibal made himself master of Rome! W hat would not he have done in his own country had he been victorious, he who caused so many revolutions in it after his defeat?
 

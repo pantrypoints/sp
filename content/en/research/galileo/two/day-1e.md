@@ -69,58 +69,49 @@ A thing so fundamental to the innovators having been destroyed, what more remain
 
 
 {{< l a="Salviati" >}}
-What do you say about the new stars of 1572 and 1604, and of the solar spots?
+What do you say about the new stars of 1572 and 1604, and of the sunspots?
 
-As far as the comets, I care little whether they are generated below or above the moon, nor have I ever set much store by Tycho's verbosity.
+I care little whether comets are generated below or beyond the moon. Nor have I ever set much store by Tycho's verbosity.
 
-Neither do I feel any reluctance to believe that their matter is elemental, and that they may rise as they please without encountering any obstacle from the impenetrability of the Peripatetic heavens, which I hold to be far more tenuous, yielding, and subtle than our air. 
+I believe that the matter of comets is elemental.
+- They may rise as they please without encountering any obstacle from the impenetrability of the Peripatetic heavens, which I hold to be far more tenuous, yielding, and subtle than our air.
 
-And as to the calculation of parallaxes, in the first place I doubt whether comets are subject to parallax; besides, the inconstancy of the observations upon which they have been computed renders me equally suspicious of both his opinions and his adversary's -- the more so because it seems to me that the Anti-Tycho sometimes trims to its author's taste those observations which do not suit his purposes, or else declares them to be erroneous.
+I doubt whether comets are subject to parallax.
+
+Besides, the inconstancy of the observations upon which they have been computed renders me equally suspicious of both his opinions and his adversary's.
+
+I think that the Anti-Tycho sometimes trims to its author's taste those observations which do not suit his purposes, or else declares them to be erroneous.
 {{< /l >}}
 
 
 {{< r a="Simplicio" >}}
-With regard to the new stars, the Anti-Tycho thoroughly disposes of them in a few words, saying that such recent new stars are not positively known to be heavenly bodies, and that if its adversaries wish to prove any alterations and generations in the latter, they must show us mutations made in stars which have already been described for a long time and which are celestial objects beyond doubt. And this can never possibly be done. 
+The Anti-Tycho explains that the new stars are not heavenly bodies.
 
-As to that material which some say is generated and dissolved on the face of the sun, no mention is made of it at all, from which I should gather that the author takes it for a fable, or for an illusion of the telescope, (note: The telescope was an object of suspicion in many circles.) or at best for some phenomenon produced by the air; in a word, for anything but celestial matter.
-{{< /r >}}
+and that if its adversaries wish to prove any alterations and generations in the latter, they must show us mutations made in stars which have already been described for a long time and which are celestial objects beyond doubt. And this can never possibly be done. 
 
+He does not mention sunspots at all. I think he sees them as an illusion of the telescope or some phenomenon produced by the air.
+ <!-- in a word, for anything but celestial matter. -->
 
-{{< l a="Salviati" >}}
+<!-- l a="Salviati" >}}
 But you, Simplicio, what have you thought of to reply to the opposition of these importunate spots which have come to disturb the heavens, and worse still, the Peripatetic
 philosophy? It must be that you, as its intrepid defender, have found a reply and a solution which you should not deprive us of.
-{{< /l >}}
+/l >}} -->
 
+Some say that they are stars which, like Venus and Mercury, which go around the sun in orbits. We see them as sunspots when they pass over the sun. They often collect together, and then again to separate.
 
-{{< r a="Simplicio" >}}
-I have heard different opinions on this matter. Some say, "They are stars which, like
-Venus and Mercury, go about the sun in their proper orbits, and in passing under it present
-themselves to us as dark; and because there are many of them, they frequently happen to
-collect together, and then again to separate." 
+Others believe them to be figments of the air or illusions of the lenses.
 
-Others believe them to be figments of the air; still
-others, illusions of the lenses; and still others, other things. But I am most inclined to believe --
-yes, I think it certain -- that they are a collection of various different opaque objects, coming
-together almost accidentally; and therefore we often see that in one spot there can be counted
-ten or more such tiny bodies of irregular shape that look like snowflakes, or tufts of wool, or
-flying moths. 
+I think that they are a collection of opaque objects, coming together accidentally.
 
-They change places with each other, now separating and now congregating, but
-mostly right under the sun, about which, as their center, they move. But it is not therefore
-necessary to say that they are generated or decay. 
+We often see that in one spot there can be counted 10 or more such tiny bodies of irregular shape that look like snowflakes, or tufts of wool, or flying moths. 
 
-Rather, they are sometimes hidden behind
-the body of the sun; at other times, though far from it, they cannot be seen because of their
-proximity to its immeasurable light. 
+They change places with each other, now separating and now congregating, but mostly right under the sun, about which, as their center, they move. But it is not therefore necessary to say that they are generated or decay. 
 
-For in the suns eccentric sphere there is established a sort
-of onion composed of various folds, one within another, each being studded with certain little
-spots, and moving; and although their movements seem at first to be inconstant and irregular.
-nonetheless it is said to be ultimately observed that after a certain time the same spots are sure
-to return. This seems to me to be the most appropriate expedient that has so far been found to
-account for such phenomena, and at the same time to maintain the incorruptibility and
-ingenerability of the heavens. And if this is not enough, there are more brilliant intellects who
-will find better answers.
+Rather, they are sometimes hidden behind the body of the sun; at other times, though far from it, they cannot be seen because of their proximity to its immeasurable light. 
+
+For in the suns eccentric sphere there is established a sort of onion composed of various folds, one within another, each being studded with certain little spots, and moving; and although their movements seem at first to be inconstant and irregular.
+
+nonetheless it is said to be ultimately observed that after a certain time the same spots are sure to return. This seems to me to be the most appropriate expedient that has so far been found to account for such phenomena, and at the same time to maintain the incorruptibility and ingenerability of the heavens. And if this is not enough, there are more  brilliant intellects who will find better answers.
 {{< /r >}}
 
 
@@ -130,8 +121,7 @@ true nor false exists, one might trust in subtlety of mind and readiness of tong
 greater experience of the writers, and expect him who excelled in those things to make his
 reasoning most plausible, and one might judge it to be the best. 
 
-But in the natural sciences,
-whose conclusions are true and necessary and have nothing to do with human will, one must
+But in the natural sciences, whose conclusions are true and necessary and have nothing to do with human will, one must
 take care not to place oneself in the defense of error; for here a thousand Demostheneses and a
 thousand Aristotles would be left in the lurch by every mediocre wit who happened to hit upon
 the truth for himself Therefore, Simplicio, give up this idea and this hope of yours that there

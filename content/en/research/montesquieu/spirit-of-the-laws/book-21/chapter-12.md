@@ -17,12 +17,16 @@ From the earliest times, the Greeks sent colonies to Propontis and to the Euxine
 
 The power of those kings increased as soon as they subdued those cities.
 
-Mithridates found himself able to hire troops on every side, to repair his frequent losses= to have a multitude of workmen, ships, and military machines; to procure himself allies; to bribe those of the Romans, and even the Romans themselves; to keep the barbarians of Asia and Europe in his pay; to continue the war for many years, and of course to discipline his troops= he found himself able to train them to arms, to instruct them in the military art of the Romans, and to form considerable bodies out of their deserters; in a word, he found himself able to sustain great losses, and to be frequently defeated, without being ruined; neither would he have been ruined, if the voluptuous and barbarous king had not destroyed, in his prosperous days, what had been done by the great prince in times of adversity.
+Mithridates found himself able to hire troops on every side, to repair his frequent losses: to have a multitude of workmen, ships, and military machines; to procure himself allies; to bribe those of the Romans, and even the Romans themselves; to keep the barbarians of Asia and Europe in his pay; to continue the war for many years, and of course to discipline his troops: 
+
+He found himself able to train them to arms, to instruct them in the military art of the Romans, and to form considerable bodies out of their deserters; in a word, he found himself able to sustain great losses, and to be frequently defeated, without being ruined; neither would he have been ruined, if the voluptuous and barbarous king had not destroyed, in his prosperous days, what had been done by the great prince in times of adversity.
 
 Thus it is that when the Romans were arrived at their highest pitch of grandeur, and seemed to have nothing to apprehend but from the ambition of their own subjects, Mithridates once more ventured to contest the mighty point, which the overthrows of Philip, of Antiochus, and of Perseus, had already decided.
 
 Never was there a more destructive war:
-the two contending parties being possessed of great power, and receiving alternate advantages, the inhabitants of Greece and of Asia fell a sacrifice in the quarrel, either as foes, or as friends of Mithridates.
+
+The 2 contending parties being possessed of great power, and receiving alternate advantages, the inhabitants of Greece and of Asia fell a sacrifice in the quarrel, either as foes, or as friends of Mithridates.
+
 Delos was involved in the general fatality; and commerce failed on every side; which was a necessary consequence, the people themselves being destroyed.
 
 The Romans, in pursuance of a system of which I have spoken elsewhere,> § acting as destroyers, that they might not appear as conquerors, demolished Carthage and Corinth; a practice by which they would have ruined themselves, had they not subdued   the world.
@@ -31,7 +35,7 @@ When the kings of Pontus became masters of the Greek colonies on the Euxine sea,
 
 
 
-## Chapter 13= The Genius of the Romans as to Maritime Affairs
+## Chapter 13: The Genius of the Romans as to Maritime Affairs
 
 THE Romans laid no stress on any thing but their land forces, who were disciplined to stand firm, to fight on one spot, and there bravely to die.
 
@@ -41,11 +45,11 @@ They destined, therefore, to the sea only those citizens who were not> † consi
 
 At this time we have neither the same esteem for land-forces, nor the same contempt for those of the sea.
 
-In the former,> ‡ art is decreased; in the> § latter, it is augmented= now things are generally esteemed in proportion to the degree of ability requisite to discharge them.
+In the former,> ‡ art is decreased; in the> § latter, it is augmented: now things are generally esteemed in proportion to the degree of ability requisite to discharge them.
 
 
 
-## Chapter 14= The Genius of the Romans with Respect to Commerce
+## Chapter 14: The Genius of the Romans with Respect to Commerce
 
 
 THE Romans were never distinguished by a jealousy for trade.

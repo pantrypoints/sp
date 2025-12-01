@@ -12,11 +12,18 @@ icon: "Juan"
 ---
 
 
-Material Superphysics is based on the Aether.
+Material Superphysics is based on the Aether, from Descartes' Physics (or Empedocles, or Vedic philosophy of India).
 
-This is opposite of Physics which is based on Matter. 
+This is opposite of Physics which is based on Matter, from Newton's Physics (or Democritus, or Carvaka philosophy of India. 
 
-This leads to different and opposing models for the unvierse.
+This leads to different and opposing models for the universe.
+
+The aether is the substance of ideas, feelings, and the soul and abstract mind that has those ideas and feelings. 
+
+This means that the universe is an idea of the Supreme Mind. 
+- Ideas have a spin, as proven by the word "spin doctor"
+- Galaxies, Quasars, pulsars, stars, planets, etc are therefore big and small ideas of the Supreme
+
 
 _ | Physics | Material Superphysics 
 --- | --- | ---
@@ -54,7 +61,7 @@ The Fallacy of the Big Bang was later seen through:
 
 ## The Solution: A Sponge Universe
 
-In 1644, Descartes published his expansion theory with an analogy of a sponge: -->
+In 1644, Descartes published his expansion theory with an analogy of a sponge:
 
 {{< q a="Rene Descartes" c="Principia Philosophia, Part 2, Article " >}}
 A sponge full of water is different from a dry sponge because the wet sponge has wider pores. This makes its body more diffused over a larger physical space. But this does not mean that each sponge-particle has greater metaphysical space when wet than when dry. 
@@ -99,7 +106,7 @@ This aetherspace facilitates both large-scale phenomena as well as quantum effec
 {{< i s="/photos/physics/bao.jpg" a="BAOs" >}}
 
 
-## Heat Particles to Solve the Hubble Tension
+## Heat Particles Solve the Hubble Tension
 
 <!-- The CMB as local heat of cluster/s -->
 

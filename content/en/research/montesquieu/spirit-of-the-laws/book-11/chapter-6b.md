@@ -12,7 +12,7 @@ icon: "Montesquieu"
 
 Were the executive power not to have a right of restraining the encroachments of the legislative body, the latter would become despotic. It might arrogate to itself what authority it pleased, it would soon destroy all the other powers.
 
-But it is not proper, on the other hand, that the legislative power should have a right to stay the executive. For, as the execution has its natural limits, it is useless to confine it= besi des, the executive power is generally employed in momentary operations. The power, therefore, of the Roman tribunes was faulty, as it put a stop not o nly to the legislation, Editi on= current; Page= [207] but likewise to the executive part of government; which was attended with infinite mischiefs.
+But it is not proper, on the other hand, that the legislative power should have a right to stay the executive. For, as the execution has its natural limits, it is useless to confine it besides, the executive power is generally employed in momentary operations. The power, therefore, of the Roman tribunes was faulty, as it put a stop not o nly to the legislation, but likewise to the executive part of government; which was attended with infinite mischiefs.
 
 But, if the legislative power, in a free state, has no right to stay the executive, it has a right, and ought to ha ve the means, of examining in what manner its laws have been executed; an a dvantage which this government has over that of Crete and Sparta, where the Cosmi and the Ephori gave no account of their administration.
 
@@ -20,13 +20,25 @@ But, whatever may be the issue of that e xamination, the legislative body ought 
 
 In this case, the state would be no long er a monarchy, but a kind of republic, though not a free government. But, a s the person, intrusted with the executive power, cannot abuse it without b ad counsellors, and such as hate the laws as ministers, though the laws pro tect them, as subjects these men may be examined and punished= an advantage which this government has over that of Gnidus, where the law allowed of no such thing as calling the Amymones* to a n account, even after their administrationE280A0; and therefore the people could never obtain  any satisfaction for the injuries done them.
 
-Though, in general, the judiciary power  ought not to be united with any part of the legislative, yet Edition= current; Page= [208] this is lia ble to three exceptions, founded on the particular interest of the party ac cused.
+Though, in general, the judiciary power  ought not to be united with any part of the legislative, yet this is liable to 3 exceptions, founded on the particular interest of the party ac cused.
 
-The great are always obnoxious to popular envy; and, were they to be judged by the people, they might be in danger  from their judges, and would moreover be deprived of the privilege, which t he meanest subject is possessed of in a free state, of being tried by his p eers. The nobility, for this reason, ought not to be cited before the ordin ary courts of judicature, but before that part of the legislature which is  composed of their own body.
+The great are always obnoxious to popular envy. Were they to be judged by the people, they might be in danger from their judges. 
 
-It is possible that the law, which is cl ear-sighted in one sense, and blind in another, might, in some cases, be to o severe. But, as we have already observed, the national judges are no more than the mouth that pronounces the words of the law, mere passive beings,  incapable of moderating either its force or rigour. That part, therefore, o f the legislative body, which we have just now observed to be a necessary t ribunal on another occasion, is also a necessary tribunal in this= it belon gs to its supreme authority to moderate the law in favour of the law itself , by mitigating the sentence.
+They would moreover be deprived of the privilege, which t he meanest subject is possessed of in a free state, of being tried by his p eers. 
 
-It might also happen, that a subject, in trusted with the administration of public affairs, may infringe the rights  of the people, and be guilty of crimes which the ordinary magistrates eithe r could not, or would not, punish. But, in general, the legislative power c annot try causes; and much less can it try this particular case, where it r epresents the party aggrieved, which is the people. It can only, therefore, impeach. But before what court shall it bring its impeachment? Must it go  and demean itself before the ordinary tribunals, which are its inferiors, a nd, being composed moreover of men who are chosen from the people as well a s itself, will naturally Edit ion= current; Page= [209] be swayed by the authority of so powerful an a ccuser? No= in order to preserve the dignity of the people and the security of the subject, the legislative part which represents the people must brin g in its charge before the legislative part which represents the nobility,  who have neither the same interests nor the same passions.
+This is why the nobility should not be cited before the ordinary courts of judicature, but before that part of the legislature which is  composed of their own body.
+
+The law might be clear-sighted in one sense, and blind in another.
+
+In some cases, it might be too severe.
+
+But the national judges are no more than the mouth that pronounces the words of the law, mere passive beings,  incapable of moderating either its force or rigour. 
+
+That part, therefore, of the legislative body which is a necessary tribunal on another occasion, is also a necessary tribunal in this: it belongs to its supreme authority to moderate the law in favour of the law itself , by mitigating the sentence.
+
+It might also happen, that a subject, in trusted with the administration of public affairs, may infringe the rights  of the people, and be guilty of crimes which the ordinary magistrates either could not, or would not, punish. But, in general, the legislative power c annot try causes; and much less can it try this particular case, where it r epresents the party aggrieved, which is the people. 
+
+It can only, therefore, impeach. But before what court shall it bring its impeachment? Must it go  and demean itself before the ordinary tribunals, which are its inferiors, a nd, being composed moreover of men who are chosen from the people as well a s itself, will naturally be swayed by the authority of so powerful an a ccuser? No= in order to preserve the dignity of the people and the security of the subject, the legislative part which represents the people must brin g in its charge before the legislative part which represents the nobility,  who have neither the same interests nor the same passions.
 
 Here is an advantage which this governme nt has over most of the ancient republics where this abuse prevailed, that  the people were at the same time both judge and accuser.
 
@@ -41,7 +53,7 @@ Here, then, is the fundamental constitution of the government we are treating of
 
 The legislative body being compos ed of two parts, they check one another by the mutual privilege of rejectin g. They are both restrained by the executive power, as the executive is by the legislative.
 
-These three powers should naturally form a state of repose or inaction= but, as there is a necessity for Edition= current; movement in the course of human affairs, they are forced to move, but still in conc ert.
+These 3 powers should naturally form a state of inaction. But, as there is a necessity for movement in the course of human affairs, they are forced to move, but still in concert.
 
 As the executive power has no other part in the legislative than the privilege of rejecting, it can have no share i n the public debates. It is not even necessary that it should propose; beca use, as it may always disapprove of the resolutions that shall be taken, it may likewise reject the decisions on those proposals which were made again st its will.
 
@@ -49,7 +61,7 @@ In some ancient commonwealths, where public debates were carried on by the peopl
 
 Were the executive power to determine th e raising of public money otherwise than by giving its confent, liberty wou ld be at an end; because it would become legislative in the most important point of legislation.
 
-If the legislative power were to settle the subsidies, not from year to year, but for ever, it would run the risk of losing its liberty, because the executive power would be no longer depend ent; and, when once it was possessed of such a perpetual right, it would be a matter of indifference whether it held it of itself or of another. The s ame may be said if it should come to a resolution of intrusting, not an ann ual, but a perpetual, command of the fleets and armies to the executive pow er.
+If the legislative power were to settle the subsidies, not from year to year, but for ever, it would run the risk of losing its liberty, because the executive power would be no longer dependent; and, when once it was possessed of such a perpetual right, it would be a matter of indifference whether it held it of itself or of another. The s ame may be said if it should come to a resolution of intrusting, not an ann ual, but a perpetual, command of the fleets and armies to the executive pow er.
 
 To prevent the executive power from oppressing, its armies should:
 - consist of the people

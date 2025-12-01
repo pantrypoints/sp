@@ -26,11 +26,11 @@ The lack of so wise an institution as this has caused the ruin of almost all the
 
 
 
-## Chapter 16= Conquests made by a despotic Prince
+## Chapter 16: Conquests made by a despotic Prince
 
 WHEN a conquest happens to be vastly large, it supposes a despotic power. And then the army dispersed in the provinces is not sufficient.
 
-There should be always a body of faithful troops nea r the prince, ready to fall instantly upon any part of the empire that may  chance to waver. This military corps ought to awe the rest, and to strike t error into those, who, through necessity, have been intrusted with any auth ority in the empire. 
+There should be always a body of faithful troops near the prince, ready to fall instantly upon any part of the empire that may  chance to waver. This military corps ought to awe the rest, and to strike t error into those, who, through necessity, have been intrusted with any authority in the empire. 
 
 The emperor of China has always many Mongols near his person, ready upon all occasions. 
 
@@ -48,9 +48,9 @@ Extremely generous, then, were the Romans, who made such a number of kings, in o
 
 A proceeding of that kind is absolutely necessary. 
 
-If the conqueror intends to preserve the country which he has subdued, neither the governors he sen ds will be able to contain the subjects within duty, nor he himself the gov ernors. 
+If the conqueror intends to preserve the country which he has subdued, neither the governors he sen ds will be able to contain the subjects within duty, nor he himself the governors. 
 
 
 He will be obliged to strip his ancient patrimony of troops in orde r to secure his new dominions. The miseries of each nation will be common t o both; civil broils will spread themselves from one to the other. 
 
-On the contrary, if the conqueror restores the legitimate prince to the throne, he  will of course have an ally; by the junction of whose forces his own power will be augmented. We have a recent instance of this in Shah Nadir, who conquered the Mogul, seized his treasures, and lef t him in possession of Indostan.
+On the contrary, if the conqueror restores the legitimate prince to the throne, he will of course have an ally; by the junction of whose forces his own power will be augmented. We have a recent instance of this in Shah Nadir, who conquered the Mogul, seized his treasures, and left him in possession of India.

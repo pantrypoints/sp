@@ -74,8 +74,18 @@ To this it was owing that the patricians, who were a necessary part of the const
 
 After Servius Tullus had reduced the pat ricians, it was natural that Rome should fall from the regal hands into tho se of the people. But the people had no occasion to be afraid of relapsing  under a regal power by reducing the patricians.
 
-A state may alter two different ways; ei ther by the amendment, or by the corruption, of the constitution. If it has preserved its principles, and the constitution changes, this is owing to i ts amendment; if, upon changing the constitution, its principles are lost,  this is because it has been corrupted.
+A state may alter two different ways; ei ther by the amendment, or by the corruption, of the constitution. If it has preserved its principles, and the constitution changes, this is owing to its amendment.
 
-The government of Rome, after the expuls ion of the kings, should naturally have been a democracy. The people had al ready the legislative power in their hands; it was their unanimous consent  that had expelled the Tarquins; and, if they had not continued steady to th ose principles, the Tarquins might easily have been restored. To pretend th at their design in expelling them was to render themselves slaves to a few  families, is quite absurd. The situation, therefore, of things required t hat Rome should have formed a democracy, and yet this did not happen. There was a necessity that the power of the principal families should be tempere d, and that the laws should have a bias to democracy.
+If, upon changing the constitution, its principles are lost,  this is because it has been corrupted.
 
-The prosperity of states is frequently g reater, in the insensible transition from one constitution to another, than in either of those constitutions. Then it is that all the springs of gover nment are upon the stretch; that the citizens assert their claims; that fri endships or enmities are formed amongst the jarring parties; and that there is a noble emulation between those who defend the ancient, and those who a re strenuous in promoting the new, constitution.
+The government of Rome, after the expuls ion of the kings, should naturally have been a democracy.
+
+The people had already the legislative power in their hands; it was their unanimous consent  that had expelled the Tarquins; and, if they had not continued steady to th ose principles, the Tarquins might easily have been restored. 
+
+To pretend th at their design in expelling them was to render themselves slaves to a few  families, is quite absurd. The situation, therefore, of things required t hat Rome should have formed a democracy, and yet this did not happen.
+
+There was a necessity that the power of the principal families should be tempere d, and that the laws should have a bias to democracy.
+
+The prosperity of states is frequently g reater, in the insensible transition from one constitution to another, than in either of those constitutions. 
+
+Then it is that all the springs of gover nment are upon the stretch; that the citizens assert their claims; that friendships or enmities are formed amongst the jarring parties; and that there is a noble emulation between those who defend the ancient, and those who a re strenuous in promoting the new, constitution.

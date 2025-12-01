@@ -33,7 +33,7 @@ Therefore, the right of war is derived from necessity and strict justice.
 
 If those who direct the conscience or councils of princes do not abide by this maxim, the consequence is dreadful.  When they proceed on arbitrary principles of glory, convenience, and utility, torrents of blood must overspread the earth.
 
-But, above all, let them not plead such  an idle pretext as the glory of the prince= his glory is nothing but pride; it is a passion, and not a legitimate right.
+But, above all, let them not plead such  an idle pretext as the glory of the prince: his glory is nothing but pride; it is a passion, and not a legitimate right.
 
 It is true the fame of his power might increase the strength of his government; but it might be equally increased b y the reputation of his justice.
 
@@ -45,9 +45,9 @@ FROM the right of war comes that of conquest. <!-- ; which is the consequence of
 
 The right the conqueror has over a conquered people is directed by four sorts of laws:
 
-1. The law of nature= this makes everything tend to the preservation of the species
+1. The law of nature: this makes everything tend to the preservation of the species
 
-2. The law of natural reason= this teaches us to do to others what we would have done to ourselves
+2. The law of natural reason: this teaches us to do to others what we would have done to ourselves
 
 3. The law that forms political societies, whose duration nature has not limited
 
@@ -61,7 +61,6 @@ The inhabitants of a conquered country are treated by the conqueror in one of th
 - This is conformable to the law  of nations now followed.
 
 2. He gives them new po litical and civil government
-- 
 
 3. He destroys and disperses the society
 
@@ -70,9 +69,9 @@ The inhabitants of a conquered country are treated by the conqueror in one of th
 
 The authors of our public law, guided by ancient histories, without confining themselves to cases of strict necessity, have fallen into very great errors. 
 
-They have adopted tyrannical and ar bitrary principles, by supposing the conquerors to be invested with I know  not what right to kill= from thence they have drawn consequences as terri ble as the very principle, and established maxims which the conquerors them selves, when possessed of the least grain of sense, never presumed to follow. It is a plain case, that, when the conquest is completed, the conqueror  has no longer a right to kill, because he has no longer the plea of natural defence and self-preservation.
+They have adopted tyrannical and ar bitrary principles, by supposing the conquerors to be invested with I know  not what right to kill: from thence they have drawn consequences as terri ble as the very principle, and established maxims which the conquerors them selves, when possessed of the least grain of sense, never presumed to follow. It is a plain case, that, when the conquest is completed, the conqueror  has no longer a right to kill, because he has no longer the plea of natural defence and self-preservation.
 
-What has led them into this mistake is,  that they imagined the conqueror had a right to destroy the state; from whe nce they inferred, that he had a right to destroy the men that compose it=  a wrong consequence from a false principle. 
+What has led them into this mistake is,  that they imagined the conqueror had a right to destroy the state; from whe nce they inferred, that he had a right to destroy the men that compose it:  a wrong consequence from a false principle. 
 
 For, from the destruction of th e state, it does not at all follow, that the people, who compose it, ought  to be also destroyed. The state is the association of men, and not the men  themselves; the citizen may perish, and the man remain.
 

@@ -98,15 +98,17 @@ But is not this confo unding the ideas of things? Is not the very horror of high
 
 PAULINUS having written to the emperor Alexander, that he was preparing to prosecute, for high-treason, a  judge who had decided contrary to his edict, the emperor answered, that under his reign there was no such thing as indirect high-treason*.
 
-Faustinian wrote to the same emperor, th at, as he had sworn by the princes life never to pardon his slave, he found himself thereby obliged to perpetuate his wrath, lest he should incur the guilt of la majestas; upon whic h the emperor made answer, E2809CYour fears are groundless, and you are a stranger to my principles.
+Faustinian wrote to the same emperor, that, as he had sworn by the princes life never to pardon his slave, he found himself thereby obliged to perpetuate his wrath, lest he should incur the guilt of la majestas; upon whic h the emperor made answer, Your fears are groundless, and you are a stranger to my principles.
 
 It was determined, by a senatus-consultu m, that whoso ever melted down any of the emperors statues, which happened to be rejected, should not be deemed guilty of high-treason. The emperors, Sever us and Antoninus, wrote to Pontius, that those who sold unconsecrated statues of the empero r should not be charged with high-treason. 
 
 The same princes wrote to Julius Cassianus, that, if a person, in flinging a stone, should by chance strike one of the emperor's statues, he should not be liable to a prosecu tion for high-treason. 
 
-The Julian law requires this sort of limitations; for, in virtu e of this law, the crime of high-treason was charged, not only upon those who melted down the emperors statues, but likewise on those who c ommitted any such like action*, which made it an arbitrary crime. When a number of crimes of lC3A6sa majestas had been established, they were  obliged to distinguish the several sorts. 
+The Julian law requires this sort of limitations; for, in virtu e of this law, the crime of high-treason was charged, not only upon those who melted down the emperors statues, but likewise on those who c ommitted any such like action*, which made it an arbitrary crime. 
 
-Hence Ulpian, the civilian, after saying that the accusation of lC3A6sa majestas did not die with the criminal, adds, that this does not relate toE280A0 all the treasonable acts established by the Julian law, but only to that which implies an atte mpt against the empire or against the emperorE28099s life.
+When a number of crimes of majestas had been established, they were  obliged to distinguish the several sorts. 
+
+Hence Ulpian, the civilian, after saying that the accusation of majestas did not die with the criminal, adds, that this does not relate toE280A0 all the treasonable acts established by the Julian law, but only to that which implies an atte mpt against the empire or against the emperor's life.
 
 
 
@@ -117,5 +119,4 @@ A law was passed in England, under Henry 8th, by which punished with high-treaso
 This law was extremely vague. The terror of despotic power is so great, that it recoils upon those who exercise it. 
 
 In this king's last illness the physicians would not venture to say he was in danger; and surely they acted very right.
-
 

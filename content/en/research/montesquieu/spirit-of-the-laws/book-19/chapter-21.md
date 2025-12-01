@@ -45,7 +45,9 @@ But when the manners of Rome were changed, her legislators altered their conduct
 
 The Roman law gave the liberty of making presents before marriage; after the marriage they were not allowed. This was founded on the manners of the Romans, who were led to marriage only by frugality, simplicity, and modesty; but might suffer themselves to be seduced by domestic cares, by complacency, and the constant tenor of conjugal felicity.
 
-A law of the Visigoths32 forbade the man giving more to the woman he was to marry than the tenth part of his substance, and his giving her anything during the first year of their marriage. This also took its rise from the manners of the country. The legislators were willing to put a stop to that Spanish ostentation which only led them to display an excessive liberality in acts of magnificence.
+A law of the Visigoths forbade the man giving more to the woman he was to marry than the tenth part of his substance, and his giving her anything during the first year of their marriage. 
+
+This also took its rise from the manners of the country. The legislators were willing to put a stop to that Spanish ostentation which only led them to display an excessive liberality in acts of magnificence.
 
 The Romans by their laws put a stop to some of the inconveniences which arose from the most durable empire in the world — that of virtue; the Spaniards, by theirs, would prevent the bad effects of a tyranny the most frail and transitory — that of beauty.
 

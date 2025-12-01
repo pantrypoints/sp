@@ -24,14 +24,15 @@ IN every government there are 3 sorts of power:
   - punish criminals
   - judge the disputes between individuals. 
 
+
 {{< n n="The legislative is the worker class, the executive is warrior class, the judiciary is the intellectual class. We propose a fourth power which is the resource power representing the merchant class. This mirrors the despotism of the workers, the monarchy of the warriors, and the republic of the intellectuals. " >}}
 
 
 The political liberty of the subject is a tranquillity of mind arising from the opinion each person has of his safety. In order to have this liberty, it is requisite the government be so con stituted as one man need not be afraid of another.
 
-When the legislative and executive powers are united in the same person, or in the same body of magistrates, there can be no liberty; because apprehensions may arise, lest the same monarch o r senate should enact tyrannical laws, to execute them in a tyrannical mann er.
+When the legislative and executive powers are united in the same person, or in the same body of magistrates, there can be no liberty; because apprehensions may arise, lest the same monarch or senate should enact tyrannical laws, to execute them in a tyrannical manner.
 
-Again, there is no liberty if the judici ary power be not separated from the legislative and executive. Were it join ed with the legislative, the life and liberty of the subject would be expos ed to arbitrary controul; for the judge would be then the legislator. Were  it joined to the executive power, the judge might behave with violence and  oppression.
+Again, there is no liberty if the judici ary power be not separated from the legislative and executive. Were it join ed with the legislative, the life and liberty of the subject would be expos ed to arbitrary controul; for the judge would be then the legislator. Were it joined to the executive power, the judge might behave with violence and  oppression.
 
 There would be an end of every thing, we re the same man, or the same body, whether of the nobles or of the people,  to exercise those three powers, that of enacting laws, that of executing th e public resolutions, and of trying the causes of individuals.
 
@@ -88,7 +89,9 @@ One great fault there was in most of the ancient republics, that the people had 
 
 Neither should the representative body be chosen for the executive part of government, for which it is not so fit ; but for the enacting of laws, or to see whether the laws in being are dul y executed; a thing suited to their abilities, and which none indeed but th emselves can properly perform.
 
-In such a state, there are always person s distinguished by their birth, riches, or honours= but, were they to be co nfounded with the common people, and to have only the weight of a single vo te, like the rest, the common liberty would be their slavery, and they woul d have no interest in supporting it, as most of the popular resolutions wou ld be against them. The share they have, therefore, in the legislature should be proportioned to their other advantages in the state; which happen s only when they form a body that has a right to check the licentiousness o f the people, as the people have a right to oppose any encroachment of thei rs.
+In such a state, there are always person s distinguished by their birth, riches, or honours= but, were they to be co nfounded with the common people, and to have only the weight of a single vote, like the rest, the common liberty would be their slavery, and they woul d have no interest in supporting it, as most of the popular resolutions wou ld be against them. 
+
+The share they have, therefore, in the legislature should be proportioned to their other advantages in the state; which happen s only when they form a body that has a right to check the licentiousness o f the people, as the people have a right to oppose any encroachment of theirs.
 
 The legislative power is, therefore, com mitted to the body of the nobles, and to that which represents the people;  each having their assemblies and deliberations apart, each their separate v iews and interests.
 
@@ -117,4 +120,3 @@ When different legislative bodies succeed one another, the people, who have a ba
 The legislative body should not meet of itself. For a body is supposed to have no will but when it is met= and besi des, were it not to meet unanimously, it would be impossible to determine w hich was really the legislative body, the part assembled, or the other. 
 
 If it had a right to prorogue itself, it might happen never to be prorogu ed; which would be extremely dangerous, in case it should ever attempt to e ncroach on the executive power. Besides, there are seasons (some more prope r than others) for assembling the legislative body= it is fit, therefore, t hat the executive power should regulate the time of meeting, as well as the duration, of those assemblies, according to the circumstances and exigence s of a state, known to itself.
-

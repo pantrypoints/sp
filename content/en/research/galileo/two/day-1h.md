@@ -14,42 +14,13 @@ writer:
 
 
 {{< l a="Salviati" >}}
-What you are now asking me is the first of the differences that I think exist between the moon and the earth, which we had better hurry along with, as we are staying too long on the
-moon. I say then that if there were in nature only one way for two surfaces to be illuminated
-by the sun so that one appears lighter than the other, and that this were by having one made of
-land and the other of water, it would be necessary to say that the moon's surface was partly
-terrene and partly aqueous. But because there are more ways known to us that could produce
-the same effect, and perhaps others that we do not know of, I shall not make bold to affirm one
-rather than another to exist on the moon.
+What you are now asking me is the first of the differences that I think exist between the moon and the earth, which we had better hurry along with, as we are staying too long on the moon. I say then that if there were in nature only one way for two surfaces to be illuminated by the sun so that one appears lighter than the other, and that this were by having one made of land and the other of water, it would be necessary to say that the moon's surface was partly terrene and partly aqueous. But because there are more ways known to us that could produce the same effect, and perhaps others that we do not know of, I shall not make bold to affirm one rather than another to exist on the moon.
 
-We have already seen that a bleached silver plate changes from white to dark by the touch of
-the burnisher; the watery part of the earth looks darker than the dry; on the ridges of mountains
-the wooded parts look much gloomier than the open and barren places because the plants cast
-a great deal of shadow while the clearings are lighted by the sun. Such a mixture of shadows is
-so effective that in sculptured velvet the color of the cut silk looks much darker than that of the
-uncut, because of shadows cast between one thread and another; and plain velvet is likewise
-much darker than taffeta made of the same silk. So if on the moon there were things
-resembling dense forests, their aspect would probably be like that of the spots we see; a like
-difference would be created if they were seas; and, finally, there is nothing to prevent these
-spots being really of a darker color than the rest, for it is in that way that snow makes
-mountains appear brighter.
+We have already seen that a bleached silver plate changes from white to dark by the touch of the burnisher; the watery part of the earth looks darker than the dry; on the ridges of mountains the wooded parts look much gloomier than the open and barren places because the plants cast a great deal of shadow while the clearings are lighted by the sun. Such a mixture of shadows is so effective that in sculptured velvet the color of the cut silk looks much darker than that of the uncut, because of shadows cast between one thread and another; and plain velvet is likewise much darker than taffeta made of the same silk. So if on the moon there were things resembling dense forests, their aspect would probably be like that of the spots we see; a like difference would be created if they were seas; and, finally, there is nothing to prevent these spots being really of a darker color than the rest, for it is in that way that snow makes mountains appear brighter.
 
-What is clearly seen in the moon is that the darker parts are all plains, with few rocks and
-ridges in them, though there are some. The brighter remainder is all fill of rocks, mountains,
-round ridges, and other shapes, and in particular there are great ranges of mountains around
-the spots. That the spots are flat surfaces we are certain, from observing that the boundary
-which separates the light and dark parts makes an even cut in traversing the spots, whereas in
-the bright parts it looks broken and jagged. But I do not know whether this evenness of surface
-is enough by itself to cause the apparent darkness, and I rather think not.
+What is clearly seen in the moon is that the darker parts are all plains, with few rocks and ridges in them, though there are some. The brighter remainder is all fill of rocks, mountains, round ridges, and other shapes, and in particular there are great ranges of mountains around the spots. That the spots are flat surfaces we are certain, from observing that the boundary which separates the light and dark parts makes an even cut in traversing the spots, whereas in the bright parts it looks broken and jagged. But I do not know whether this evenness of surface is enough by itself to cause the apparent darkness, and I rather think not.
 
-Quite apart from this, I consider the moon very different from the earth. Though I fancy to
-myself that its regions are not idle and dead, still I do not assert that life and motion exist
-there, and much less that plants, animals, or other things similar to ours are generated there.
-Even if they were, they would be extremely diverse, and far beyond all our imaginings. I am
-inclined to believe this because in the first place I think that the material of the lunar globe is
-not land and water, and this alone is enough to prevent generations and alterations similar to
-ours. But even supposing land and water on the moon, there are in any case two reasons that
-plants and animals similar to ours would not be produced there.
+Quite apart from this, I consider the moon very different from the earth. Though I fancy to myself that its regions are not idle and dead, still I do not assert that life and motion exist there, and much less that plants, animals, or other things similar to ours are generated there. Even if they were, they would be extremely diverse, and far beyond all our imaginings. I am inclined to believe this because in the first place I think that the material of the lunar globe is not land and water, and this alone is enough to prevent generations and alterations similar to ours. But even supposing land and water on the moon, there are in any case two reasons that plants and animals similar to ours would not be produced there.
 
 The first is that the varying aspects of the sun are so necessary for our various species that
 these could not exist at all without them. Now the behavior of the sun toward the earth is much
@@ -82,33 +53,19 @@ To this it might be replied that either there might be great dews or that it rai
 
 
 {{< l a="Salviati" >}}
-If from other appearances we had any signs that there were species similar to ours
-there, and only the occurrence of rains was lacking, we should be able to find this or some
-other condition to take their place, as happens in Egypt by the inundations of the Nile. But
-finding no event whatever like ours, of the many that would be required to produce similar
-effects, there is no point in troubling to introduce one only, and even that one not from sure
-observation but because of mere possibility. Besides, if I were asked what my basic knowledge
-and natural reason told me regarding the production there of things similar to or different from
-ours, I should always reply, "Very different and entirely unimaginable by us"; for this seems to
-me to fit with the richness of nature and the omnipotence of the Creator and Ruler.
+If from other appearances we had any signs that there were species similar to ours there, and only the occurrence of rains was lacking, we should be able to find this or some other condition to take their place, as happens in Egypt by the inundations of the Nile. 
+
+But finding no event whatever like ours, of the many that would be required to produce similar effects, there is no point in troubling to introduce one only, and even that one not from sure observation but because of mere possibility. Besides, if I were asked what my basic knowledge and natural reason told me regarding the production there of things similar to or different from ours, I should always reply, "Very different and entirely unimaginable by us"; for this seems to me to fit with the richness of nature and the omnipotence of the Creator and Ruler.
 {{< /l >}}
 
 
 {{< r a="Sagredo" >}}
-It always seems to me extreme rashness on the part of some when they want to make human abilities the measure of what nature can do. On the contrary, there is not a single effect
-in nature, even the least that exists, such that the most ingenious theorists can arrive at a
-complete understanding of it. This vain presumption of understanding everything can have no
-other basis than never understanding anything. For anyone who had experienced just once the
-perfect understanding of one single thing, and had truly tasted how knowledge is
-accomplished, would recognize that of the infinity of other truths he understands nothing.
+It always seems to me extreme rashness on the part of some when they want to make human abilities the measure of what nature can do. On the contrary, there is not a single effect in nature, even the least that exists, such that the most ingenious theorists can arrive at a complete understanding of it. This vain presumption of understanding everything can have no other basis than never understanding anything. For anyone who had experienced just once the perfect understanding of one single thing, and had truly tasted how knowledge is accomplished, would recognize that of the infinity of other truths he understands nothing.
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-Your argument is quite conclusive; in confirmation of it we have the evidence of those
-who do understand or have understood some thing; the more such men have known, the more
-they have recognized and freely confessed their little knowledge. And the wisest of the
-Greeks, so adjudged by the oracle, said openly that he recognized that he knew nothing.
+Your argument is conclusive. in confirmation of it we have the evidence of those who do understand or have understood some thing; the more such men have known, the more they have recognized and freely confessed their little knowledge. And the wisest of the Greeks, so adjudged by the oracle, said openly that he recognized that he knew nothing.
 {{< /l >}}
 
 
