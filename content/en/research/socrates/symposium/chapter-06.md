@@ -17,9 +17,12 @@ Aristophanes was beginning to say something in answer to the allusion which Socr
 
 Agathon told the attendants to go and see who were the intruders. 
 
-Agathon: If they are friends of ours, invite them in. But if not, say that the drinking is over.
+{{< r a="Agathon" >}}
+If they are friends of ours, invite them in. But if not, say that the drinking is over.
 
 A little while afterwards they heard the voice of Alcibiades resounding in the court. He was very drunk and kept roaring and shouting.
+{{< /r >}}
+
 
 Alcibiades: Where is Agathon? Lead me to Agathon
 
@@ -87,13 +90,18 @@ I am going to speak the truth, if you will permit me.
 
 I not only permit, but exhort you to speak the truth.
 
-Alcibiades: Then I will begin at once. If I say anything which is not true, you may interrupt me if you will, and say 'that is a lie,' though my intention is to speak the truth. 
+{{< r a="Alcibiades" >}}
+Then I will begin at once. If I say anything which is not true, you may interrupt me if you will, and say 'that is a lie,' though my intention is to speak the truth. 
 
 But you must not wonder if I speak any how as things come into my mind; for the fluent and orderly enumeration of all your singularities is not a task which is easy to a man in my condition.
 
 And now, my boys, I shall praise Socrates in a figure which will appear to him to be a caricature, and yet I speak, not to make fun of him, but only for the truth's sake.
 
-I say, that he is exactly like the busts of Silenus, which are set up in the statuaries' shops, holding pipes and flutes in their mouths; and they are made to open in the middle, and have images of gods inside them. I say also that he is like Marsyas the satyr. You yourself will not deny, Socrates, that your face is like that of a satyr. Aye, and there is a resemblance in other points too. For example, you are a bully, as I can prove by witnesses, if you will not confess. 
+I say, that he is exactly like the busts of Silenus, which are set up in the statuaries' shops, holding pipes and flutes in their mouths; and they are made to open in the middle, and have images of gods inside them. I say also that he is like Marsyas the satyr. You yourself will not deny, Socrates, that your face is like that of a satyr. 
+{{< /r >}}
+
+
+Aye, and there is a resemblance in other points too. For example, you are a bully, as I can prove by witnesses, if you will not confess. 
 
 And are you not a flute-player? That you are, and a performer far more wonderful than Marsyas. He indeed with instruments used to charm the souls of men by the power of his breath, and the players of his music do so still: for the melodies of Olympus (compare Arist. Pol.) are derived from Marsyas who taught them, and these, whether they are played by a great master or by a miserable flute-girl, have a power which no others have; they alone possess the soul and reveal the wants of those who have need of gods and mysteries, because they are divine. But you produce the same effect with your words only, and do not require the flute: that is the difference between you and him. When we hear any other speaker, even a very good one, he produces absolutely no effect upon us, or not much, whereas the mere fragments of you and your words, even at second-hand, and however imperfectly repeated, amaze and possess the souls of every man, woman, and child who comes within hearing of them. And if I were not afraid that you would think me hopelessly drunk, I would have sworn as well as spoken to the influence which they have always had and still have over me. For my heart leaps within me more than that of any Corybantian reveller, and my eyes rain tears when I hear them. And I observe that many others are affected in the same manner. 
 
@@ -154,19 +162,25 @@ When Alcibiades had finished, there was a laugh at his outspokenness for he seem
 
 Socrates: You are sober, Alcibiades. Or you would never have gone so far about to hide the purpose of your satyr's praises, for all this long story is only an ingenious circumlocution, of which the point comes in by the way at the end; you want to get up a quarrel between me and Agathon, and your notion is that I ought to love you and nobody else, and that you and you only ought to love Agathon. But the plot of this Satyric or Silenic drama has been detected, and you must not allow him, Agathon, to set us at variance.
 
+
 Agathon: I believe you are right. I think that his intention in placing himself between you and me was only to divide us; but he shall gain nothing by that move; for I will go and lie on the couch next to you.
 
 
 Yes, yes, replied Socrates, by all means come here and lie on the couch below me.
 
-Alcibiades: Alas, how I am fooled by this man. He is determined to get the better of me at every turn. I do beseech you, allow Agathon to lie between us.
+{{< r a="Alcibiades" >}}
+Alas, how I am fooled by this man. He is determined to get the better of me at every turn. I do beseech you, allow Agathon to lie between us.
+{{< /r >}}
+
 
 Socrates: Certainly not, as you praised me, and I in turn ought to praise my neighbour on the right, he will be out of order in praising me again when he ought rather to be praised by me, and I must entreat you to consent to this, and not be jealous, for I have a great desire to praise the youth.
 
 
 Hurrah! cried Agathon, I will rise instantly, that I may be praised by Socrates.
 
-Alcibiades: The usual way where Socrates is, no one else has any chance with the fair; and now how readily has he invented a specious reason for attracting Agathon to himself.
+{{< r a="Alcibiades" >}}
+The usual way where Socrates is, no one else has any chance with the fair; and now how readily has he invented a specious reason for attracting Agathon to himself.
+{{< /r >}}
 
 
 Agathon arose in order that he might take his place on the couch by Socrates, when suddenly a band of revellers entered, and spoiled the order of the banquet. 

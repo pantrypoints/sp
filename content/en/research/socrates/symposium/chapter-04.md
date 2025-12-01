@@ -11,7 +11,8 @@ icon: "Socrates"
 ---
 
 
-Socrates: I heard a tale of love from Diotima of Mantineia (Alcibiades), a woman wise in this and in many other kinds of knowledge.
+{{< l a="Socrates" >}}
+I heard a tale of love from Diotima of Mantineia (Alcibiades), a woman wise in this and in many other kinds of knowledge.
 
 In the days of old,the Athenians offered sacrifice before the coming of the plague and delayed the disease ten years. 
 
@@ -19,9 +20,9 @@ She was my instructress in the art of love.
 
 <!-- I shall repeat to you what she said to me, beginning with the admissions made by Agathon, which are nearly if not quite the same which I made to the wise woman when she questioned me: I think that this will be the easiest way, and I shall take both parts myself as well as I can (compare Gorgias). -->
 
----
+Diotima, is love then evil and foul?
+{{< /l >}}
 
-Socrates: What do you mean, Diotima, is love then evil and foul?
 
 Diotima: Hush, what is not fair is foul. What is not wise is ignorant. There is a mean between wisdom and ignorance.
 
@@ -34,15 +35,14 @@ Do not then insist that what is not fair is of necessity foul, or what is not go
 
 Well, Love is surely admitted by all to be a great god.' 'By those who know or by those who do not know?' 'By all.' 'And how, Socrates,' she said with a smile, 'can Love be acknowledged to be a great god by those who say that he is not a god at all?' 
 
-Socrates:  Who are they? 
 
-Diotima: You and I are two of them. 
+{{< l a="Socrates" >}}
+Who are they? 
+{{< /l >}}
 
-Socrates: How can that be? 
 
-Diotima: It is quite intelligible. You yourself would acknowledge that the gods are happy and fair—of course you would—would you dare to say that any god was not?' 
+Diotima: You and I are two of them. It is quite intelligible. You yourself would acknowledge that the gods are happy and fair—of course you would—would you dare to say that any god was not?' 
 
 'Certainly not,' I replied. 'And you mean by the happy, those who are the possessors of things good or fair?' 'Yes.' 'And you admitted that Love, because he was in want, desires those good and fair things of which he is in want?' 'Yes, I did.' 'But how can he be a god who has no portion in what is either good or fair?' 
 
 'Impossible.' 'Then you see that you also deny the divinity of Love.'
-

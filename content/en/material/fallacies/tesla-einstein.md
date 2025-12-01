@@ -81,7 +81,7 @@ This arbitariness allows instant anything since the aether is above spacetime. T
 
 ## The Religion of Physics
 
-Tesla is very correct in bashing Einstein who used the garb of mathematics to perpetuate his scam.
+Tesla is very correct in bashing Einstein who used the garb of mathematics to perpetuate the Relativity scam that has hindered the discovery of anti gravity for over 100 years.
 
 This strengthens our assertion that Physics has become a religion that uses the elitist language of mathematics to worship the limitation and safety created by matter. This is similar to how:
 
@@ -123,14 +123,16 @@ Our generation has a huge advantage over Einstein and Tesla because we not only 
 
 The real problem of today is the high cost of making experiments and of the many preoccupations of modern life.
 
-This is because experiments with the aether take a long time (since the aether is just above spacetime). But the quick modern life forces people to get instant results as time has become more precious due to the increased opportunity cost of having many possible things to do. 
+This is because experiments with the aether take a long time (since the aether is just above spacetime). But the quick modern life forces people to get instant results, since time has become more precious due to the increased opportunity cost of having many possible things to do. 
 
-If there are no results after a day or two, then it's a waste of time. 
+If there are no results after a day or two, then modern humans think it's a waste of time. 
 
 But this social pressure from time, as opportunity cost, is really a result of the economic system enshrining money which is static in Nature.
 
 This is why our first focus is developing and pushing for a moneyless system to say to the pressure of opportunity cost: "back off!"
 
+The ancients did not use money so pervasively as we do now. This is why the Biblical Jews were able to waste 7 days blowing trumpets around Jericho to increase the gravity of the walls so they would collapse by the 7th day. 
+- If they were modern humans, they would probably quit by the 3rd day after seeing no results!
 
 <!-- is merely a test of equipment. 
 

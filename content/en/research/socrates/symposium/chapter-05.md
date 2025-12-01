@@ -11,9 +11,14 @@ icon: "Socrates"
 ---
 
 
-Socrates: What then is Love? Is he mortal?
 
-Diotima: No. He is neither mortal nor immortal, but in a mean between the two.'
+{{< l a="Socrates" >}}
+What then is Love? Is he mortal?
+{{< /l >}}
+
+
+{{< r a="Diotima" >}}
+No. He is neither mortal nor immortal, but in a mean between the two.'
 
 He is a great spirit (daimon), and like all spirits he is intermediate between the divine and the mortal.
 
@@ -22,10 +27,16 @@ His power is to interpret between gods and men, conveying and taking across to t
 He is the mediator who spans the chasm which divides them, and therefore in him all is bound together, and through him the arts of the prophet and the priest, their sacrifices and mysteries and charms, and all prophecy and incantation, find their way. 
 
 For God mingles not with man; but through Love all the intercourse and converse of God with man, whether awake or asleep, is carried on. The wisdom which understands this is spiritual; all other wisdom, such as that of arts and handicrafts, is mean and vulgar. Now these spirits or intermediate powers are many and diverse, and one of them is Love.
+{{< /r >}}
 
-Socrates: Who was his father and mother?
 
-Diotima: The tale is that on the birthday of Aphrodite, there was a feast of the gods. The god Poros or Plenty, who is the son of Metis or Discretion, was one of the guests. 
+{{< l a="Socrates" >}}
+Who was his father and mother?
+{{< /l >}}
+
+
+{{< r a="Diotima" >}}
+The tale is that on the birthday of Aphrodite, there was a feast of the gods. The god Poros or Plenty, who is the son of Metis or Discretion, was one of the guests. 
 
 When the feast was over, Penia or Poverty, as the manner is on such occasions, came about the doors to beg. 
 
@@ -52,49 +63,65 @@ But that which is always flowing in is always flowing out, and so he is never in
 The truth is that no god is a philosopher or seeker after wisdom, for he is wise already; nor does any man who is wise seek after wisdom. 
 
 Neither do the ignorant seek after wisdom. For herein is the evil of ignorance, that he who is neither good nor wise is nevertheless satisfied with himself: he has no desire for that of which he feels no want.
+{{< r >}}
 
-Socrates: But who then, Diotima are the lovers of wisdom, if they are neither the wise nor the foolish?
 
-Diotima: A child may answer that question. The lovers of wisdom are those who are in a mean between the two. 
+Socrates: But who then, are the lovers of wisdom, if they are neither the wise nor the foolish?
+
+{{< r a="Diotima" >}}
+A child may answer that question. The lovers of wisdom are those who are in a mean between the two. 
 
 Love is one of them. For wisdom is a most beautiful thing, and Love is of the beautiful; and therefore Love is also a philosopher or lover of wisdom, and being a lover of wisdom is in a mean between the wise and the ignorant.
 
 And of this too his birth is the cause; for his father is wealthy and wise, and his mother poor and foolish. Such, my dear Socrates, is the nature of the spirit Love. 
 
 The error in your conception of him was very natural, and as I imagine from what you say, has arisen out of a confusion of love and the beloved, which made you think that love was all beautiful. For the beloved is the truly beautiful, and delicate, and perfect, and blessed; but the principle of love is of another nature, and is such as I have described.'
+{{< /r >}}
 
 
 Socrates: What is the use of Love to men?
 
-Diotima: You acknowledge that love is of the beautiful. But beautiful in what? 
+{{< r a="Diotima" >}}
+You acknowledge that love is of the beautiful. But beautiful in what? 
 
 When a man loves the beautiful, what does he desire?
+{{< /r >}}
+
 
 Socrates: That the beautiful may be his
 
-Diotima: But what is given by the possession of beauty?
+{{< r a="Diotima" >}}
+But what is given by the possession of beauty?
 
-Socrates: I do not know.
-
-Diotima: Let me replace "beautiful" with the word "good". 
+Let me replace "beautiful" with the word "good". 
 
 If he who loves loves the good, what is it then that he loves?
+{{< /r >}}
+
 
 Socrates: The possession of the good
 
-Diotima: What does he gain who possesses the good?
+{{< r a="Diotima" >}}
+What does he gain who possesses the good?
+{{< /r >}}
+
 
 Socrates: Happiness. This is easier to answer. 
 
-Diotima: Yes, the happy are made happy by the acquisition of good things. Nor is there any need to ask why a man desires happiness; the answer is already final.
+
+{{< r a="Diotima" >}}
+Yes, the happy are made happy by the acquisition of good things. Nor is there any need to ask why a man desires happiness; the answer is already final.
 
 This wish and this desire is common to all? All men always desire their own good.
 
 Then why are not all men, Socrates, said to love, but only some of them? whereas you say that all men are always loving the same things.' 
+{{< /r >}}
+
 
 Socrates: I myself wonder why this is.
 
-Diotima: The reason is that one part of love is separated off and receives the name of the whole, but the other parts have other names.
+{{< r a="Diotima" >}}
+The reason is that one part of love is separated off and receives the name of the whole, but the other parts have other names.
 
 For example, there is poetry which is complex and manifold. 
 
@@ -106,21 +133,34 @@ For you may say generally that all desire of good and happiness is only the grea
 
 You hear people say that lovers are seeking for their other half. 
 
-But I say that they are seeking neither for the half of themselves, nor for the whole, unless the half or the whole be also a good. And they will cut off their own hands and feet and cast them away, if they are evil; for they love not what is their own, unless perchance there be some one who calls what belongs to him the good, and what belongs to another the evil. 
+But I say that they are seeking neither for the half of themselves, nor for the whole, unless the half or the whole be also a good.
 
-For there is nothing which men love but the good. Is there anything?' 'Certainly, I should say, that there is nothing.' 'Then,' she said, 'the simple truth is, that men love the good.' 'Yes,' I said. 'To which must be added that they love the possession of the good?' 
+They will cut off their own hands and feet and cast them away, if they are evil; for they love not what is their own, unless perchance there be some one who calls what belongs to him the good, and what belongs to another the evil. 
 
-Yes, that must be added.
+For there is nothing which men love but the good. The simple truth is, that men love the good.
+{{< /r >}}
 
-And not only the possession, but the everlasting possession of the good?' 'That must be added too.' 'Then love,' she said, 'may be described generally as the love of the everlasting possession of the good?' 'That is most true.'
 
-Then if this be the nature of love, can you tell me further,' she said, 'what is the manner of the pursuit? what are they doing who show all this eagerness and heat which is called love? 
+Yes, to which must be added that they love the possession of the good.
 
-What is the object which they have in view? Answer me.' 'Nay, Diotima,' I replied, 'if I had known, I should not have wondered at your wisdom, neither should I have come to learn from you about this very matter.' 'Well,' she said, 'I will teach you:
+The possession and the everlasting possession of the good must be added too.
 
-The object which they have in view is birth in beauty, whether of body or soul.' 'I do not understand you,' I said; 'the oracle requires an explanation.' 
 
-Diotima: I mean that all men are bringing to the birth in their bodies and in their souls. 
+{{< r a="Diotima" >}}
+Then love may be described generally as the love of the everlasting possession of the good
+
+Then if this be the nature of love, what is the manner of the pursuit? what are they doing who show all this eagerness and heat which is called love? 
+
+What is the object which they have in view?
+{{< /r >}}
+
+
+Nay, Diotima. If I had known, I should not have wondered at your wisdom, neither should I have come to learn from you about this very matter.' 
+
+{{< r a="Diotima" >}}
+Well, I will teach you: The object which they have in view is birth in beauty, whether of body or soul.
+
+I mean that all men are bringing to the birth in their bodies and in their souls. 
 
 There is a certain age at which human nature is desirous of procreation—procreation which must be in beauty and not in deformity; and this procreation is the union of man and woman, and is a divine thing; for conception and generation are an immortal principle in the mortal creature, and in the inharmonious they can never be. 
 
@@ -128,11 +168,11 @@ But the deformed is always inharmonious with the divine, and the beautiful harmo
 
 Beauty, then, is the destiny or goddess of parturition who presides at birth, and therefore, when approaching beauty, the conceiving power is propitious, and diffusive, and benign, and begets and bears fruit: at the sight of ugliness she frowns and contracts and has a sense of pain, and turns away, and shrivels up, and not without a pang refrains from conception.
 
-This is the reason why, when the hour of conception arrives, and the teeming nature is full, there is such a flutter and ecstasy about beauty whose approach is the alleviation of the pain of travail. For love, Socrates, is not, as you imagine, the love of the beautiful only.' 'What then?' 'The love of generation and of birth in beauty.
+This is why, when the hour of conception arrives, and the teeming nature is full, there is such a flutter and ecstasy about beauty whose approach is the alleviation of the pain of travail. For love, Socrates, is not, as you imagine, the love of the beautiful only. It is the love of generation and of birth in beauty.
 
-Diotima: But why of generation?
+But why of generation? This is because to the mortal creature, generation is a sort of eternity and immortality. If, as has been already admitted, love is of the everlasting possession of the good, all men will necessarily desire immortality together with good: Wherefore love is of immortality.'
+{{< /r >}}
 
-Because to the mortal creature, generation is a sort of eternity and immortality,' she replied; 'and if, as has been already admitted, love is of the everlasting possession of the good, all men will necessarily desire immortality together with good: Wherefore love is of immortality.'
 
 All this she taught me at various times when she spoke of love. And I remember her once saying to me, 'What is the cause, Socrates, of love, and the attendant desire? 
 
@@ -140,8 +180,11 @@ See you not how all animals, birds, as well as beasts, in their desire of procre
 
 Man may be supposed to act thus from reason; but why should animals have these passionate feelings? Can you tell me why?' Again I replied that I did not know. 
 
+{{< r a="Diotima" >}}
+Do you expect ever to become a master in the art of love, if you do not know this?' 
+{{< /r >}}
 
-Diotima: Do you expect ever to become a master in the art of love, if you do not know this?' 
+
 
 Socrates: But I have told you already, Diotima, that my ignorance is the reason why I come to you; for I am conscious that I want a teacher; tell me then the cause of this and of the other mysteries of love.' 
 

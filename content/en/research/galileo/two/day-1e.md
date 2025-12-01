@@ -116,61 +116,26 @@ nonetheless it is said to be ultimately observed that after a certain time the s
 
 
 {{< l a="Salviati" >}}
-If what we are discussing were a point of law or of the humanities, in which neither
-true nor false exists, one might trust in subtlety of mind and readiness of tongue and in the
-greater experience of the writers, and expect him who excelled in those things to make his
-reasoning most plausible, and one might judge it to be the best. 
+If what we are discussing were a point of law or of the humanities, in which neither true nor false exists, one might trust in subtlety of mind and readiness of tongue and in the
+greater experience of the writers, and expect him who excelled in those things to make his reasoning most plausible, and one might judge it to be the best. 
 
-But in the natural sciences, whose conclusions are true and necessary and have nothing to do with human will, one must
-take care not to place oneself in the defense of error; for here a thousand Demostheneses and a
-thousand Aristotles would be left in the lurch by every mediocre wit who happened to hit upon
-the truth for himself Therefore, Simplicio, give up this idea and this hope of yours that there
-may be men so much more leaned, erudite, and well-read than the rest of us as to he able to
-make that which is false become true in defiance of nature. 
+But in the natural sciences, whose conclusions are true and necessary and have nothing to do with human will, one must take care not to place oneself in the defense of error; for here a thousand Demostheneses and a thousand Aristotles would be left in the lurch by every mediocre wit who happened to hit upon the truth for himself Therefore, Simplicio, give up this idea and this hope of yours that there may be men so much more leaned, erudite, and well-read than the rest of us as to he able to make that which is false become true in defiance of nature.
 
-And since among all opinions that
-have thus far been produced regarding the essence of sunspots, this one you have just
-explained appears to you to be the correct one, it follows that all the rest are false. Now to free
-you also from that one -- which is an utterly delusive chimera -- I shall, disregarding the many
-improbabilities in it, convey to you but two observed facts against it.
+And since among all opinions that have thus far been produced regarding the essence of sunspots, this one you have just explained appears to you to be the correct one, it follows that all the rest are false. Now to free you also from that one -- which is an utterly delusive chimera -- I shall, disregarding the many improbabilities in it, convey to you but two observed facts against it.
 
-One is that many of these spots are seen to originate in the middle of the solar disc, and
-likewise many dissolve and vanish far from the edge of the sun, a necessary argument that they
-must be generated and dissolved. 
+One is that many of these spots are seen to originate in the middle of the solar disc, and likewise many dissolve and vanish far from the edge of the sun, a necessary argument that they must be generated and dissolved. 
 
-For without generation and corruption, they could appear
-there only by way of local motion, and they all ought to enter and leave by the very edge.
-The other observation, for those not in the rankest ignorance of perspective, is that from the
-changes of shape observed in the spots, and from their apparent changes in velocity, one must
-infer that the spots are in contact with the sun's body, and that, touching its surface, they are
-moved either with it or upon it and in no sense revolve in circles distant from it. Their motion
-proves this by appearing to be very slow around the edge of the solar disc, and quite fast
-toward its center; the shapes of the spots prove the same by appearing very narrow around the
-sun's edge in comparison with how they look in the vicinity of the center. 
+For without generation and corruption, they could appear there only by way of local motion, and they all ought to enter and leave by the very edge.
 
-For around the center they are seen in their majesty and as they really are; but around the edge, because of the
-curvature of the spherical surface, they show themselves foreshortened. These diminutions of
-both motion and shape, for anyone who knows how to observe them and calculate diligently,
-correspond exactly to what ought to appear if the spots are contiguous to the sun, and
-hopelessly contradict their moving in distant circles, or even at small intervals from the solar
-body. 
+The other observation, for those not in the rankest ignorance of perspective, is that from the changes of shape observed in the spots, and from their apparent changes in velocity, one must infer that the spots are in contact with the sun's body, and that, touching its surface, they are moved either with it or upon it and in no sense revolve in circles distant from it. Their motion proves this by appearing to be very slow around the edge of the solar disc, and quite fast toward its center; the shapes of the spots prove the same by appearing very narrow around the sun's edge in comparison with how they look in the vicinity of the center.
 
-This has been abundantly demonstrated by our mutual friend in his Letters to Mark
-Welser on the Solar Spots. It may be inferred from the same changes of shape that none of
-these are stars or other spherical bodies, because of all shapes only the sphere is never seen
-foreshortened, nor can it appear to be anything but perfectly round. So if any of the individual
-spots were a round body, as all stars are deemed to be, it would present the same roundness in
-the middle of the sun's disc as at the extreme edge, whereas they so much foreshorten and look
-so thin near that extremity, and &e on the other hand so broad and long toward the center, as to
-make it certain that these are flakes of little thickness or depth with respect. to their length and
-breadth.
+For around the center they are seen in their majesty and as they really are; but around the edge, because of the curvature of the spherical surface, they show themselves foreshortened. These diminutions of both motion and shape, for anyone who knows how to observe them and calculate diligently, correspond exactly to what ought to appear if the spots are contiguous to the sun, and hopelessly contradict their moving in distant circles, or even at small intervals from the solar body.
 
-Then as to its being observed ultimately that the same spots are sure to return after a certain
-period, do not believe that, Simplicio; those who said that were trying to deceive you. That this
-is so, you may see from their having said nothing to you about those that are generated or
-dissolved on the face of the sun far from the edge; nor told you a word about those which
-foreshorten, this being a necessary proof of their contiguity to the sun. The truth about the
-same spots returning is merely what is written in the said Letters; namely, that some of them
-are occasionally of such long duration that they do not disappear in a single revolution around
-the sun, which takes place in less than a month.
+This has been abundantly demonstrated by our mutual friend in his Letters to Mark Welser on the Solar Spots. It may be inferred from the same changes of shape that none of these are stars or other spherical bodies, because of all shapes only the sphere is never seen foreshortened, nor can it appear to be anything but perfectly round. So if any of the individual spots were a round body, as all stars are deemed to be, it would present the same roundness in the middle of the sun's disc as at the extreme edge, whereas they so much foreshorten and look so thin near that extremity, and &e on the other hand so broad and long toward the center, as to make it certain that these are flakes of little thickness or depth with respect. to their length and breadth.
+
+Then as to its being observed ultimately that the same spots are sure to return after a certain period, do not believe that, Simplicio; those who said that were trying to deceive you.
+
+That this is so, you may see from their having said nothing to you about those that are generated or dissolved on the face of the sun far from the edge; nor told you a word about those which foreshorten, this being a necessary proof of their contiguity to the sun. 
+
+The truth about the same spots returning is merely what is written in the said Letters; namely, that some of them are occasionally of such long duration that they do not disappear in a single revolution around the sun, which takes place in less than a month.
 {{< /l >}}
