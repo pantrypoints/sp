@@ -13,21 +13,46 @@ writer:
 
 
 {{< l a="Salviati" >}}
-What you refer to is the method he uses in writing his doctrine, but I do not believe it to be that with which he investigated it. Rather, I think it certain that he first obtained it by means of the senses, experiments, and observations, to assure himself as much as possible of his conclusions.
+What you refer to is the method he uses in writing his doctrine.
 
-Afterward he sought means to make them demonstrable. That is what is done for the most part in the demonstrative sciences; this comes about because when the conclusion is true, one may by making use of analytical methods hit upon some proposition which is already demonstrated, or arrive at some axiomatic principle; but if the conclusion is false, one can go on forever without ever finding any known truth -- if indeed one does not encounter some impossibility or manifest absurdity.
+But I do not believe it to be that with which he investigated it.
 
-Pythagoras, long before he discovered the proof for which he sacrificed a hecatomb, was sure that the square on the side opposite the right angle in a right triangle was equal to the squares on the other two sides. 
+Rather, I think he first obtained it through the senses, experiments, and observations. 
+- This is to assure himself as much as possible of his conclusions.
+
+Afterwards, he sought means to make them demonstrable.
+
+<!-- That is what is done for the most part in the demonstrative sciences;  -->
+
+This comes about because when the conclusion is true, one may by making use of analytical methods hit on some proposition which is already demonstrated, or arrive at some axiomatic principle.
+
+But if the conclusion is false, one can go on forever without ever finding any known truth -- if indeed one does not encounter some impossibility or manifest absurdity.
+
+Pythagoras was sure that the square on the side opposite the right angle in a right triangle was equal to the squares on the other two sides. 
+- This was long before he discovered the proof for which he sacrificed a hecatomb,
 
 The certainty of a conclusion assists not a little in the discovery of its proof -- meaning always in the demonstrative sciences. 
 
-But however Aristotle may have proceeded, whether the reason a priori came before the sense perception a posteriori or the other way round, it is enough that
-Aristotle, as he said many times, preferred sensible experience to any argument. Besides, the
-strength of the arguments a priori has already been examined.
+<!-- But however Aristotle may have proceeded, whether the reason a priori came before the sense perception a posteriori or the other way round, it is enough that
+Aristotle, as he said many times, -->
 
-Now, getting back to the subject, I say that things which are being and have been discovered in the heavens in our own time are such that they can give entire satisfaction to all philosophers, because just such events as we have been calling generations and corruptions have been seen and are being seen in particular bodies and in the whole expanse of heaven. Excellent astronomers have observed many comets generated and dissipated in places above the lunar orbit, besides the two new stars of 1572 and 1604, which were indisputably beyond all the planets.
+Aristotle preferred sensible experience to any argument. 
 
-And on the face of the sun itself, with the aid of the telescope, they have seen produced and dissolved dense and dark matter, appearing much like the clouds upon the earth: and many of these are so vast as to exceed not only the Mediterranean Sea, but all of Africa, with Asia thrown in. Now, if Aristotle had seen these things, what do you think he would have said and done, Simplicio?
+<!-- Besides, the
+strength of the arguments a priori has already been examined. -->
+
+<!-- Things which have been discovered in the heavens in our own time are such that they can give entire satisfaction to all philosophers, because just such events as we have been calling generations and corruptions have been seen and are being seen in particular bodies and in the whole expanse of heaven. -->
+
+Excellent astronomers have observed many comets beyond the lunar orbit, besides the two new stars of 1572 and 1604, which were beyond all the planets.
+
+They would have seen dark matter [sunspots] produced and dissolved on the sun's surface with the aid of the telescope.
+- These appear dense much like the clouds on the earth.
+
+Many of these are so vast as to exceed:
+- the Mediterranean Sea
+- all of Africa with Asia thrown in
+
+If Aristotle had seen these things, what do you think he would have said and done, Simplicio?
 {{< /l >}}
 
 

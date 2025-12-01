@@ -93,15 +93,19 @@ This means that the distant galaxies that JWST observes are close to their curre
 
 {{< i s="/graphics/physics/sponge.jpg" a="CMB" >}}
 
-The findings of the JWST matches findings of the CMB in the sense that the closer area of the universe, as opposed to the red shift which is the distant areas.
-- This is because heat particles are more limited than light particles (photons)
+The findings of the JWST matches findings of the CMB in the sense that:
+- the nearer areas of the universe have a slower expansion speed. This is evidenced by heat particles from the Planck satellite.
+- the farther areas of the universe have a faster expansion. This is evidenced by red shifted light particles from the James Webb Space satellite.
+
+This is because heat particles are more limited than light particles (photons).
 - The "anisotropies" are the galaxy clusters beyond the milky way
-- The blackbody spectrum of the CMB is from the dark energy (evidenced by lensing) in the nearby universe that operates between clusters
+- The blackbody spectrum of the CMB is from the dark energy (evidenced by lensing) in the NEARBY universe that operates between clusters
 - The CMB does not match the cosmic web because of the difference between light and heat particles. 
 
 The CMB, as a blackbody spectrum, proves that dark energy is the aetherspace which is the same in essence as the gluon field which Bob Lazar calls Gravity A waves. 
 
-This means that research should be put on the gluon field. The problem is that physicists smash atoms instead of probing or interrogating them because of the wrong belief that gravity comes **FROM** matter instead of **THROUGH** it.
+**All of this means that research should be put on the gluon field.**
 
+The problem is that physicists smash atoms instead of probing or interrogating them because of the wrong belief that gravity comes **FROM** matter instead of **THROUGH** it.
 
 

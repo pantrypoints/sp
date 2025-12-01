@@ -27,9 +27,7 @@ How is that immediate constituted?
 
 <!-- , which is shown to us. -->
 
-<sup>106</sup>
-
-The Now is pointed out as this Now.
+<sup>106</sup> The Now is pointed out as this Now.
 - But this Now already ceased to be when it is pointed out. 
 
 The new Now is different from the Now a moment ago. 
