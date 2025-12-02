@@ -10,19 +10,37 @@ weight: 14
 
 There was on that spot in old times a great and noble city called Cambaluc, which is as much as to say in our tongue “The city of the Emperor.”
 
-But the Great Kaan was informed by his Astrologers that this city would prove rebellious, and raise great disorders against his imperial authority. 
+But the Great Kaan was informed by his Astrologers that this city would:
+- be rebellious, and
+- raise great disorders against his imperial authority
 
-So he caused the present city to be built close beside the old one, with only a river between them.{2} And he caused the people of the old city to be removed to the new town that he had founded; and this is called Taidu. [However, he allowed a portion of the people which he did not suspect to remain in the old city, because the new one could not hold the whole of them, big as it is.]
+So he caused:
+- the present city to be built close beside the old one, with only a river between them.
+- the people of the old city to be removed to the new town that he had founded
+
+This is called Taidu. [However, he allowed a portion of the people which he did not suspect to remain in the old city, because the new one could not hold the whole of them, big as it is.]
 
 The city was 24 miles square. 
 
-Each side of it hath a length of 6 miles, and it is four-square. And it is all walled round with walls of earth which have a thickness of full ten paces at bottom, and a height of more than 10 paces;{3} but they are not so thick at top, for they diminish in thickness as they rise, so that at top they are only about 3 paces thick. And they are provided throughout with loop-holed battlements, which are all whitewashed.
+Each side of it hath a length of 6 miles, and it is four-square.
+
+It is all walled round with walls of earth which have a thickness of full 10 paces at bottom, and a height of more than 10 paces.
+
+But they are not so thick at top, for they diminish in thickness as they rise, so that at top they are only about 3 paces thick. 
+
+They are provided throughout with loop-holed battlements, which are all whitewashed.
 
 There are 12 gates, and over each gate there is a great and handsome palace, so that there are on each side of the square three gates and five palaces; for (I ought to mention) there is at each angle also a great and handsome palace. In those palaces are vast halls in which are kept the arms of the city garrison.{4}
 
-The streets are so straight and wide that you can 375see right along them from end to end and from one gate to the other. And up and down the city there are beautiful palaces, and many great and fine hostelries, and fine houses in great numbers. [All the plots of ground on which the houses of the city are built are four-square, and laid out with straight lines; all the plots being occupied by great and spacious palaces, with courts and gardens of proportionate size. All these plots were assigned to different heads of families. 
+The streets are so straight and wide that you can see right along them from end to end and from one gate to the other.
 
-Each square plot is encompassed by handsome streets for traffic; and thus the whole city is arranged in squares just like a chess-board, and disposed in a manner so perfect and masterly that it is impossible to give a description that should do it justice.]{5}
+Up and down the city there are beautiful palaces, and many great and fine hostelries, and many fine houses.
+
+[All the plots of ground on which the houses of the city are built are four-square, and laid out with straight lines; all the plots being occupied by great and spacious palaces, with courts and gardens of proportionate size. All these plots were assigned to different heads of families. 
+
+Each square plot is encompassed by handsome streets for traffic.
+
+Thus, the whole city is arranged in squares just like a chess-board, and disposed in a manner so perfect and masterly that it is impossible to give a description that should do it justice.
 
 In the middle of the city there is a great clock—a bell—which is struck at night.
 
@@ -32,7 +50,7 @@ Those who go about on such errands are bound to carry lanterns with them. Moreov
 
 
 
-## CHAPTER 12. How the Great Kaan Maintains a Guard of Twelve Thousand Horse, which are called Keshican.
+## Chapter 12. How the Great Kaan Maintains a Guard of 12,000 Horse, which are called Keshican.
 
 The Great Kaan, to maintain his state, has a guard of 12,000 horsemen, who are styled Keshican, which is as much as to say “Knights devoted to their Lord.” 
 
@@ -42,11 +60,11 @@ These 12,000 men have 4 captains, each of whom is in command of 3000.
 
 Each body of 3000 takes a turn of three days and nights to guard the palace, where they also take their meals. 
 
-After the expiration of three days and nights they are relieved by another 3000, who mount guard for the same space of time, and then another body takes its turn, so that there are always 3000 on guard. Thus it goes until the whole 12,000, who are styled (as I said) Keshican, have been on duty; and then the tour begins again, and so runs on from year’s end to year’s end.{1}
+After the expiration of three days and nights they are relieved by another 3000, who mount guard for the same space of time, and then another body takes its turn, so that there are always 3000 on guard. Thus it goes until the whole 12,000, who are styled (as I said) Keshican, have been on duty; and then the tour begins again, and so runs on from year’s end to year’s end.
 
 
 
-## CHAPTER 13. The Fashion of the Great Kaan’s Table at his High Feasts.
+## Chapter 13. The Fashion of the Great Kaan’s Table at his High Feasts.
 
 When the Great Kaan sits at table on any great court occasion, it is in this fashion. His table is elevated a good deal above the others, and he sits at the north end of the hall, looking towards the south, with his chief wife beside him on the left. On his right sit his sons and his nephews, and other kinsmen of the Blood Imperial, but lower, so that their heads are on a level with the Emperor’s feet. And then the other Barons sit at other tables lower still. 
 
@@ -75,7 +93,7 @@ In every case where a Baron or Knight dines at those tables, their wives also di
 When all have dined and the tables have been removed, then come in a great number of players and jugglers, adepts at all sorts of wonderful feats,{6} and perform before the Emperor and the rest of the company, creating great 384diversion and mirth, so that everybody is full of laughter and enjoyment. And when the performance is over, the company breaks up and every one goes to his quarters.
 
 
-## CHAPTER 14. Concerning the Great Feast held by the Grand Kaan every Year on his Birthday.
+## Chapter 14. Concerning the Great Feast held by the Grand Kaan every Year on his Birthday.
 
 The Tartars keep high festival yearly on their birthdays. 
 
@@ -83,12 +101,16 @@ The Great Kaan was born on the 28th day of the September moon, so on that day is
 
 On his birthday, the Great Kaan dresses in the best of his robes, all wrought with beaten gold;{2} and full 12,000 Barons and Knights on that day come forth dressed in robes of the same colour, and precisely like those of the Great Kaan, except that they are not so costly; but still they are all of the same colour as his, and are also of silk and gold. Every man so clothed has also a girdle of gold; and this as well as the dress is given him by the Sovereign. And I will aver that there are some of these suits decked with so many pearls and precious stones that a single suit shall be worth full 10,000 golden bezants.
 
-And of such raiment there are several sets. For you must know that the Great Kaan, thirteen times in the year, presents to his Barons and Knights such suits of raiment as I am speaking of.{3} And on each occasion they wear the same colour that he does, a different colour being assigned to each festival. Hence you may see what a huge business it is, and that there is no prince in the world but he alone who could keep up such customs as these.
+And of such raiment there are several sets. The Great Kaan, 13 times in the year, presents to his Barons and Knights such suits of raiment as I am speaking of.
 
-On his birthday also, all the Tartars in the world, and all the countries and governments that owe allegiance to the Kaan, offer him great presents according to their several ability, and as prescription or orders have fixed the amount. And many other persons also come with great presents to the Kaan, in order to beg for some employment from him. And the Great Kaan has chosen twelve Barons on whom is laid the charge of assigning to each of these supplicants a suitable answer.
+On each occasion they wear the same colour that he does, a different colour being assigned to each festival. Hence you may see what a huge business it is, and that there is no prince in the world but he alone who could keep up such customs as these.
+
+On his birthday also, all the Tartars in the world, and all the countries and governments that owe allegiance to the Kaan, offer him great presents according to their several ability, and as prescription or orders have fixed the amount.
+
+Many other persons also come with great presents to the Kaan, in order to beg for some employment from him. And the Great Kaan has chosen twelve Barons on whom is laid the charge of assigning to each of these supplicants a suitable answer.
 
 On this day likewise all the Idolaters, all the 388Saracens, and all the Christians and other descriptions of people make great and solemn devotions, with much chaunting and lighting of lamps and burning of incense, each to the God whom he doth worship, praying that He would save the Emperor, and grant him long life and health and happiness.
 
-And thus, as I have related, is celebrated the joyous feast of the Kaan’s birthday.{4}
+And thus, as I have related, is celebrated the joyous feast of the Kaan’s birthday.
 
 Now I will tell you of another festival which the Kaan holds at the New Year, and which is called the White Feast.

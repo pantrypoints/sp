@@ -41,7 +41,7 @@ But the sages of the Idolaters, and especially the Bacsis mentioned before, told
 And since then he has taken to do for the poor so much as you have heard.{1}]
 
 
-## CHAPTER 33. The Astrologers in the City of Cambaluc.
+## Chapter 33. The Astrologers in the City of Cambaluc.
 
 The city of Cambaluc, with Christians, Saracens, and Cathayans, has some 5,000 astrologers and soothsayers.
 
@@ -51,7 +51,7 @@ They are in the constant exercise of their art in this city.
 
 They have a kind of astrolabe on which are inscribed the planetary signs, the hours and critical points of the whole year.
 
-Every year these Christian, Saracen, and Cathayan astrologers, each sect apart, investigate by means of this astrolabe the course and character of the whole year, according to the indications of each of its Moons.
+Every year these Christian, Saracen, and Cathayan astrologers, each sect apart, investigate through this astrolabe the course and character of the whole year, according to the indications of each of its Moons.
 
 This is to discover by the natural course and disposition of the planets, and the other circumstances of the heavens, what shall be the nature of the weather, and what peculiarities shall be produced by each Moon of the year.
 
@@ -65,7 +65,7 @@ These are sold for a groat to all who want to know what is coming.
 
 The astrologers who have the most exact predictions are held to be the greatest adepts in their art, and get the greater fame.
 
-And if any one having some great matter in hand, or proposing to make a long journey for traffic or other business, desires to know what will be the upshot, he goes to one of these astrologers and says:
+If any one having some great matter in hand, or proposing to make a long journey for traffic or other business, desires to know what will be the upshot, he goes to one of these astrologers and says:
 
 “Turn up your books and see what is the present aspect of the heavens, for I am going away on such and such a business.” 
 
@@ -90,7 +90,7 @@ When the 12 yearly symbols have been gone through, then they come back to the fi
 
 
 
-## CHAPTER 34. The Religion of the Cathayans
+## Chapter 34. The Religion of the Cathayans
 
 <!-- ;{1} their views as to the Soul; and their Customs. -->
 

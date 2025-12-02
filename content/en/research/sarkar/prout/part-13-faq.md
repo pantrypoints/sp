@@ -91,15 +91,20 @@ It cannot be an ideal system for the multi-lateral development of human beings, 
   - mental
   - spiritual
 - the 5 sub-strata
-  - economic [material]
+  - economic
+  - social 
+  - political
+  - cultural 
+  - psycho-spiritual 
+
+<!--   - economic [material]
   - social [radioactive]
   - political [radiant]
   - cultural [spatial]
-  - psycho-spiritual [aethereal]
+  - psycho-spiritual [aethereal] -->
 
 Integrated development and accelerated movement towards the Supreme Desideratum can only be achieved when the socioeconomic system is based on Neohumanism.
 {{< /l >}}
-
 
 
 {{< r a="Asker" >}}
@@ -156,13 +161,24 @@ Per capita income shows the mean and not the variation of income distribution.
 
 The reliability of per capita income is further reduced if inflation is also considered
 
-On the other hand, purchasing capacity is the real index of how a person’s economic needs can be met by their income. 
+On the other hand, **purchasing capacity is the real index of how a person’s economic needs can be met by their income.** 
+{{< /l >}}
 
-All PROUT’s plans and programmes in the socio-economic sphere should be aimed at increasing the purchasing capacity of the people.
+
+{{< n n="Supereconomics measures purchasing capacity through the grain index and the Net Domestic Product" >}}
+
+
+{{< l a="PR Sarkar" >}}
+**All PROUT’s plans and programmes in the socio-economic sphere should be aimed at increasing the purchasing capacity of the people.**
 - PROUT stresses increasing purchasing capacity and not per capita income. 
 
-Per capita income is not a proper indication of the increase in the standard of living because while people may have very high incomes, they may not be able to purchase the necessities of life. 
+Per capita income is not a proper indication of the increase in the standard of living because while people may have very high incomes, they may not be able to purchase the necessities of life.*
+{{< /l >}}
 
+{{< n n="This exposes the Sarkar is talking about nominal money income. An example is being paid with billions of scam cryptocoin that is actually worthless. So a high nominal income does not equate to real purchasing power" >}}
+
+
+{{< l a="PR Sarkar" >}}
 On the other hand if the per capita income is low but people have great purchasing capacity they are much better off. 
 
 So purchasing capacity and not per capita income is the true measure of economic prosperity. 
@@ -182,5 +198,3 @@ Agrico-industries:
 
 Agro-industries comprise those post-harvesting industries which depend on agricultural production.
 {{< /l >}}
-
-
