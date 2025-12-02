@@ -1,10 +1,26 @@
-Cooke tells us that Selkirk had conceived “irreconcilable aversion to an officer on board the Cinque Ports, who, he was informed, was on board the Duke, but not being a principal in command, he was prevailed upon to waive that circumstance and accompany Captain Dampier, for whom he had a friendship.” 
+---
+heading: "Chapter 6c"
+title: "Captain Cooke"
+writer:
+  name: William Dampier
+  url: https://en.wikipedia.org/wiki/William_Dampier
+description: "The Buccaneers—Navigation in the Seventeenth Century—Features of the Vocational Life of the Early Mariner"
+c: "darkslategray"
+date: 2022-11-30
+---
 
-Whoever the person may have been, the Scotchman's dislike of him was bitter, and it was to Dampier's persuasions that Rogers owed the services of a man who proved of the utmost use to him whilst lying at the island by enabling him to supply the ships with fresh provisions and by facilitating the business of taking in wood and water.
 
-Rogers styled Selkirk the governor of the island, a half-humorous and half-pathetic fancy (when one thinks of the desperate loneliness of the unhappy man), which Defoe afterwards adopted when making Robinson Crusoe speak of his possessions and territories, his castles and his dependents.
 
-The vessels arrived, as we have seen, on February 1st, and by the 3rd a smith's forge had been conveyed ashore, the coopers were hard at work, and there were tents, or “pavilions,” erected for the commanders and the sick. 
+{{< l a="Cooke">}}
+Selkirk had conceived irreconcilable aversion to an officer on board the Cinque Ports who was on board the Duke> But as that officer was not a principal in command, he was prevailed on to waive that circumstance and accompany his friend Captain Dampier.
+{{< /l >}}
+
+
+Selkirk dislike of him was bitter. It was to Dampier's persuasions that Rogers owed the services of a man who proved of the utmost use to him whilst lying at the island by enabling him to supply the ships with fresh provisions and by facilitating the business of taking in wood and water.
+
+Rogers styled Selkirk as the governor of the island, a half-humorous and half-pathetic fancy (when one thinks of the desperate loneliness of the unhappy man), which Defoe afterwards adopted when making Robinson Crusoe speak of his possessions and territories, his castles and his dependents.
+
+The vessels arrived on February 1. By February 3, a smith's forge had been conveyed ashore, the coopers were hard at work, and there were tents, or “pavilions,” erected for the commanders and the sick. 
 
 But it was their business not to lose time, for they had long before—that is to say, when they were at the Canaries—heard that five large French ships were coming to search for them in the South Sea; so that very quickly, all the sick men happily recovering rapidly with the exception of two who died, they had refitted their ships, taken in wood and water, and boiled down and stowed away about eighty gallons of sea-lions' oil to use for the lamps, that they might save the candles. 
 
@@ -250,10 +266,40 @@ What follows now is little more than a journal of the voyage, rendered for the m
 
 They were in great distress whilst they were in these seas. The men mutinously resented the wise reduction in the quantity of the food served out to them; and to save serious disturbance Rogers was forced to return to the old scale. They sighted land, but did not know what it was, nor could Dampier help them. Having searched for Borou, an island of the Indian Archipelago, they resolved to steer to Batavia, touching at Bouton for provisions. Accordingly they stood away to the south-west before a strong [Pg 179]gale of wind at east. But their progress was obstructed by some small islands, into one of which they must have run in the dead of night had the weather not cleared suddenly and discovered it to them. It was not until Tuesday, June 17th, 1710, that they arrived at Batavia. At sight of the town the crews were so rejoiced that they could do nothing but hug and shake one another by the hand, and bless their stars and question if there was such a paradise in all the world; “And this,” says Rogers, “because they had Arrack for Eight Pence a Gallon, and Sugar at a Penny a Pound.”
 
-The ships were in a deplorable condition, particularly the Marquis, which was so rotten with worms and wear that it became necessary to hire another craft to carry her lading. They sailed from Batavia on October 14th, and proceeded direct to the Cape of Good Hope, where they arrived without misadventure and without any incident occurring in the passage that is worth repeating. Shortly after they had entered Table Bay twelve sail of Dutch ships came in, which, with the English vessels then at anchor, made altogether twenty-three ships riding in the spacious and beautiful haven. The picture is about one hundred and seventy years old, and it is difficult to realise that the ocean traffic of those dim times to the Indies by way of the Cape should have been considerable enough to crowd the spacious surface of the waters on whose margin stand the ivory-white structures of Cape Town. Retrospect is often corrective. We have a right to compliment ourselves upon what we have done and are doing; but it does not seem to me that our marine achievements can be compared as illustrations of human skill and determination with the examples of the adventurous genius of an age [Pg 180]when the greater portion of the antipodean world lay in darkness; when navigation was little better than guesswork; when the art of shipbuilding was crude, rude, and primitive; when there was nothing but the heavens to consult for weather; when the tyranny of the winds was only to be dominated by a kind of perseverance that must be ranked among the lost qualities of human nature. Despite these conditions the early mariner crowded the oceans with fabrics laden with the produce of the known continents, and rolled stubbornly to his hundred ports, often in suffering and often in distress indeed; yet on the whole freer, in his valiant ignorance, from disaster than is the sailor of the current hour. There is no longer need for ships to halt and bait at Table Bay. The propeller thrashes them to their destination with the punctuality of the railway-train; or they are wafted by pyramids of canvas—the graceful and elegant result of centuries of experiment—on a journey to New Zealand or Japan, which they complete in less time than the old seafarer took to find his way from the English Channel to Madeira. But the very existence of the facilities of the engine-room, of the nimbleness of the clipper-moulded keel, of the capacity of the towering and exquisitely-calculated heights of cloths to snatch a desired power of propulsion from the teeth of the antagonistic gale, is, I take it, an admission of our own weakness when we contrast the ocean-machinery with which science has dowered us with the contrivances with which the early seamen triumphed over the forces of Nature and created new worlds as heritages for a self-complacent posterity. Those twenty-three ships at anchor in Table Bay, surveyed by the eyes of Dampier [Pg 181]and his toil-worn comrades, make but a little part of a great marine pageant; yet it is a detail to constrain the gaze. Fancy reconstructs them; they cease to be visionary; they float before us as substantial fabrics, brave with pennons and the glitter of brass guns and the gay raiment of their time. They illustrate the most strenuous of all the periods of the world's maritime life; for the infancy of navigation was over, and it had already put on the proportions of a youthful giant, the impulse of whose unripened vitality was urging it to extraordinary efforts.
+The ships were in a deplorable condition, particularly the Marquis.
+
+It was so rotten with worms and wear that it became necessary to hire another craft to carry her lading.
+
+They sailed from Batavia on October 14 and went direct to the Cape of Good Hope, where they arrived without misadventure.
+
+Shortly after they had entered Table Bay twelve sail of Dutch ships came in, which, with the English vessels then at anchor, made altogether twenty-three ships riding in the spacious and beautiful haven.
+
+The picture is about 170 years old.
+
+It is difficult to realise that the ocean traffic of those dim times to the Indies by way of the Cape should have been considerable enough to crowd the spacious surface of the waters on whose margin stand the ivory-white structures of Cape Town. Retrospect is often corrective. We have a right to compliment ourselves upon what we have done and are doing; but it does not seem to me that our marine achievements can be compared as illustrations of human skill and determination with the examples of the adventurous genius of an age when the greater portion of the antipodean world lay in darkness; when navigation was little better than guesswork; when the art of shipbuilding was crude, rude, and primitive; when there was nothing but the heavens to consult for weather; when the tyranny of the winds was only to be dominated by a kind of perseverance that must be ranked among the lost qualities of human nature.
+
+Despite these conditions the early mariner crowded the oceans with fabrics laden with the produce of the known continents, and rolled stubbornly to his hundred ports, often in suffering and often in distress indeed; yet on the whole freer, in his valiant ignorance, from disaster than is the sailor of the current hour. There is no longer need for ships to halt and bait at Table Bay.
+
+The propeller thrashes them to their destination with the punctuality of the railway-train; or they are wafted by pyramids of canvas—the graceful and elegant result of centuries of experiment—on a journey to New Zealand or Japan, which they complete in less time than the old seafarer took to find his way from the English Channel to Madeira. 
+
+But the very existence of the facilities of the engine-room, of the nimbleness of the clipper-moulded keel, of the capacity of the towering and exquisitely-calculated heights of cloths to snatch a desired power of propulsion from the teeth of the antagonistic gale, is, I take it, an admission of our own weakness when we contrast the ocean-machinery with which science has dowered us with the contrivances with which the early seamen triumphed over the forces of Nature and created new worlds as heritages for a self-complacent posterity. 
+
+Those 23 ships at anchor in Table Bay, surveyed by the eyes of Dampier [Pg 181]and his toil-worn comrades, make but a little part of a great marine pageant; yet it is a detail to constrain the gaze.
+
+Fancy reconstructs them; they cease to be visionary; they float before us as substantial fabrics, brave with pennons and the glitter of brass guns and the gay raiment of their time.
+
+They illustrate the most strenuous of all the periods of the world's maritime life; for the infancy of navigation was over, and it had already put on the proportions of a youthful giant, the impulse of whose unripened vitality was urging it to extraordinary efforts.
 
 Before the ships under Rogers sailed, six more vessels entered the bay, along with several English Indiamen and a large Portuguese carrack from Brazil; and when the hour of departure came the homeward-bound (in all, English and Dutch, numbering twenty-five) rolled stately under swelling canvas out of Table Bay,—a spectacle that, remote as it is, and visible only to the gaze of fancy, cannot but stir the imagination when one thinks of the floating castles, with their swelling sails and their brilliant streamers, as the van of the ever-growing procession that was in time to whiten the remotest seas, and crowd the harbours of countries of which some were then without the impress of a European foot.
 
-The ships progressed merrily. They touched at St. Helena, and seven days later at Ascension, and after a passage of three months from the Cape of Good Hope dropped anchor in the Texel. Rogers and his brother commanders had now to act with much circumspection; they were informed by letters from their owners that the English East India Company, jealous of their success, had appointed a secret committee to inspect their charter [Pg 182]as to privileges; they were also enjoined to exercise the utmost caution in respect of the Dutch East India Company, and strict orders were issued that no officer or sailor should on any pretence whatever be suffered to take any goods on shore, or purchase the least trifle from any stranger who visited the ships. They remained in Holland until September 30th, 1711, then sailed from the Texel under convoy of four of Her Britannic Majesty's ships, and on October 14th the Duke and Dutchess arrived off Erith, at which place the Batchelor had come to an anchor some short time before. Thus ended one of the most memorable of all the voyages ever undertaken by the English buccaneers. The cargo and treasure obtained by this expedition were valued at between three and four hundred thousand pounds, and Cooke tells us that, after allowing for all deductions, such as cost of convoy, agency, lawsuits, and thefts, the net profits amounted to one hundred and seventy thousand pounds.
+The ships progressed merrily. They touched at St. Helena, and seven days later at Ascension, and after a passage of three months from the Cape of Good Hope dropped anchor in the Texel.
+
+Rogers and his brother commanders had now to act with much circumspection; they were informed by letters from their owners that the English East India Company, jealous of their success, had appointed a secret committee to inspect their charter [Pg 182]as to privileges; they were also enjoined to exercise the utmost caution in respect of the Dutch East India Company, and strict orders were issued that no officer or sailor should on any pretence whatever be suffered to take any goods on shore, or purchase the least trifle from any stranger who visited the ships. 
+
+They remained in Holland until September 30th, 1711, then sailed from the Texel under convoy of four of Her Britannic Majesty's ships, and on October 14th the Duke and Dutchess arrived off Erith, at which place the Batchelor had come to an anchor some short time before. Thus ended one of the most memorable of all the voyages ever undertaken by the English buccaneers.
+
+The cargo and treasure obtained by this expedition were valued at 400,000 pounds.
+
+Cooke tells us that, after allowing for all deductions, such as cost of convoy, agency, lawsuits, and thefts, the net profits amounted to 170,000 pounds.
 
 

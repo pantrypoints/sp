@@ -7,16 +7,20 @@ weight: 20
 ---
 
 
-|| 27 || || SUDH ||  RAAG GAUREE GWAARAYREE, FIRST MEHL, CHAU-PADAS & DU-PADAS:
+SUDH ||  RAAG GAUREE GWAARAYREE, FIRST MEHL, CHAU-PADAS & DU-PADAS:
 
 The Fear of God is overpowering, and so very heavy, while the intellect is lightweight,
 as is the speech one speaks. So place the Fear of God upon your head, and bear that
 weight; by the Grace of the Merciful Lord, contemplate the Guru. || 1 || Without the
 Fear of God, no one crosses over the world-ocean. This Fear of God adorns the Love of
-the Lord. || 1 || Pause || The fire of fear within the body is burnt away by the Fear
+the Lord.
+
+The fire of fear within the body is burnt away by the Fear
 of God. Through this Fear of God, we are adorned with the Word of the Shabad.
 Without the Fear of God, all that is fashioned is false. Useless is the mold, and useless
-are the hammer-strokes on the mold. || 2 || The desire for the worldly drama arises
+are the hammer-strokes on the mold. 
+
+|| 2 || The desire for the worldly drama arises
 in the intellect, but even with thousands of clever mental tricks, the heat of the Fear of
 God does not come into play. O Nanak, the speech of the self-willed manmukh is just
 wind. His words are worthless and empty, like the wind. || 3 || 1 || GAUREE, FIRST
@@ -36,8 +40,9 @@ creatures, wealth and property belong to Him. O Nanak, it is so difficult to des
 contemplate Him. || 4 || 2 || GAUREE, FIRST MEHL: Let wisdom be your mother,
 and contentment your father. Let Truth be your brother — these are your best relatives.
 || 1 || He has been described, but He cannot be described at all. 
-ÓÓÓÓÓÓÓÓÓÓÓ 152 ÓÓÓÓÓÓÓÓÓ
-Your All-pervading creative nature cannot be estimated. || 1 || Pause || Modesty,
+
+
+Your All-pervading creative nature cannot be estimated. || 1  Modesty,
 humility and intuitive understanding are my mother-in-law and father-in-law; I have
 made good deeds my spouse. || 2 || Union with the Holy is my wedding date, and
 separation from the world is my marriage. Says Nanak, Truth is the child born of this
@@ -45,7 +50,7 @@ Union. || 3 || 3 || GAUREE, FIRST MEHL: The union of air, water and fire — the
 body is the play-thing of the fickle and unsteady intellect. It has nine doors, and then
 there is the Tenth Gate. Reflect upon this and understand it, O wise one. || 1 || The
 Lord is the One who speaks, teaches and listens. One who contemplates his own self is
-truly wise. || 1 || Pause || The body is dust; the wind speaks through it.
+truly wise. || 1  The body is dust; the wind speaks through it.
 Understand, O wise one, who has died. Awareness, conflict and ego have died, but the
 One who sees does not die. || 2 || For the sake of it, you journey to sacred shrines
 and holy rivers; but this priceless jewel is within your own heart. The Pandits, the
@@ -58,7 +63,7 @@ sacrifice to the one who listens and hears, who understands and believes in the 
 When the Lord Himself leads us astray, there is no other place of rest for us to find.
 You impart understanding, and You unite us in Your Union. || 1 || I obtain the Naam,
 which shall go along with me in the end. Without the Name, all are held in the grip of
-Death. || 1 || Pause || My farming and my trading are by the Support of the Name.
+Death. || 1  My farming and my trading are by the Support of the Name.
 The seeds of sin and virtue are bound together. Sexual desire and anger are the
 wounds of the soul. The evil-minded ones forget the Naam, and then depart. || 2 ||
 True are the Teachings of the True Guru. The body and mind are cooled and soothed,
@@ -73,7 +78,7 @@ can we know where we came from? Where did we originate, and where will we go and
 merge? How are we bound, and how do we obtain liberation? How do we merge with
 intuitive ease into the Eternal, Imperishable Lord? || 1 || With the Naam in the heart
 and the Ambrosial Naam on our lips, through the Name of the Lord, we rise above
-desire, like the Lord. || 1 || Pause || With intuitive ease we come, and with intuitive
+desire, like the Lord. || 1  With intuitive ease we come, and with intuitive
 ease we depart. From the mind we originate, and into the mind we are absorbed. As
 Gurmukh, we are liberated, and are not bound. Contemplating the Word of the Shabad,
 we are emancipated through the Name of the Lord. || 2 || At night, lots of birds settle
@@ -93,7 +98,9 @@ sexual desire, anger and Maya. The conscious mind is awake only to falsehood,
 corruption and attachment. It gathers in the assets of sin and greed. So swim across
 the river of life, O my mind, with the Sacred Naam, the Name of the Lord. || 1 ||
 Waaho! Waaho! — Great! Great is my True Lord! I seek Your All-powerful Support. I am
-a sinner — You alone are pure. || 1 || Pause || Fire and water join together, and the
+a sinner — You alone are pure.
+
+|| 1  Fire and water join together, and the
 breath roars in its fury! The tongue and the sex organs each seek to taste. The eyes
 which look upon corruption do not know the Love and the Fear of God. Conquering selfconceit, one obtains the Name. || 2 || One who dies in the Word of the Shabad, shall
 never again have to die. Without such a death, how can one attain perfection? The
@@ -106,7 +113,7 @@ MEHL: The inverted heart-lotus has been turned upright, through reflective medit
 on God. From the Sky of the Tenth Gate, the Ambrosial Nectar trickles down. The Lord
 Himself is pervading the three worlds. || 1 || O my mind, do not give in to doubt.
 When the mind surrenders to the Name, it drinks in the essence of Ambrosial Nectar.
-|| 1 || Pause || So win the game of life; let your mind surrender and accept death.
+|| 1  So win the game of life; let your mind surrender and accept death.
 When the self dies, the individual mind comes to know the Supreme Mind. As the inner
 vision is awakened, one comes to know one‟s own home, deep within the self. || 2 ||
 The Naam, the Name of the Lord, is austerity, chastity and cleansing baths at sacred
@@ -118,7 +125,7 @@ for me. O Nanak, through the Guru‟s Teachings, I am intuitively absorbed in th
 die. Remaining alive in this death brings joy deep within. Overcoming egotistical pride,
 the Tenth Gate is found. || 1 || Death is pre-ordained — no one who comes can
 remain here. So chant and meditate on the Lord, and remain in the Sanctuary of the
-Lord. || 1 || Pause || Meeting the True Guru, duality is dispelled. The heart-lotus
+Lord. || 1  Meeting the True Guru, duality is dispelled. The heart-lotus
 blossoms forth, and the mind is attached to the Lord God. One who remains dead while
 yet alive obtains the greatest happiness hereafter. || 2 || Meeting the True Guru, one
 becomes truthful, chaste and pure. Climbing up the steps of the Guru‟s Path, one
@@ -131,7 +138,7 @@ GAUREE, FIRST MEHL: Past actions cannot be erased. What do we know of what will
 happen hereafter? Whatever pleases Him shall come to pass. There is no other Doer
 except Him. || 1 || I do not know about karma, or how great Your gifts are. The
 karma of actions, the Dharma of righteousness, social class and status, are contained
-within Your Name. || 1 || Pause || You are So Great, O Giver, O Great Giver! The
+within Your Name. || 1  You are So Great, O Giver, O Great Giver! The
 treasure of Your devotional worship is never exhausted. One who takes pride in himself
 shall never be right. The soul and body are all at Your disposal. || 2 || You kill and
 rejuvenate. You forgive and merge us into Yourself. As it pleases You, You inspire us to
@@ -143,7 +150,7 @@ Name. Nanak abides in the Sanctuary of Your devotees. || 4 || 10 || GAUREE, FIRS
 MEHL: Those who speak the Unspoken, drink in the Nectar. Other fears are forgotten,
 and they are absorbed into the Naam, the Name of the Lord. || 1 || Why should we
 fear, when fear is dispelled by the Fear of God? Through the Shabad, the Word of the
-Perfect Guru, I recognize God. || 1 || Pause || Those whose hearts are filled with
+Perfect Guru, I recognize God. || 1  Those whose hearts are filled with
 the Lord‟s essence are blessed and acclaimed, and intuitively absorbed into the Lord. ||
 2 || Those whom the Lord puts to sleep, evening and morning — those self-willed
 manmukhs are bound and gagged by Death, here and hereafter. || 3 || Those whose
@@ -153,7 +160,7 @@ loves the three qualities is subject to birth and death. The four Vedas speak on
 visible forms. They describe and explain the three states of mind, but the fourth state,
 union with the Lord, is known only through the True Guru. || 1 || Through devotional
 worship of the Lord, and service to the Guru, one swims across. Then, one is not born
-again, and is not subject to death. || 1 || Pause || Everyone speaks of the four great
+again, and is not subject to death. || 1  Everyone speaks of the four great
 blessings; the Simritees, the Shaastras and the Pandits speak of them as well. But
 without the Guru, they do not understand their true significance. The treasure of
 liberation is obtained through devotional worship of the Lord. || 2 || Those, within
@@ -169,14 +176,14 @@ great falsehood, and you carry such a heavy burden. O body, I have seen you blow
 away like dust on the earth. || 1 || Listen — listen to my advice! Only the good deeds
 which you have done shall remain with you, O my soul. 
 
-This opportunity shall not come again! || 1 || Pause || I say to you, O my body:
+This opportunity shall not come again! || 1  I say to you, O my body:
 listen to my advice! You slander, and then praise others; you indulge in lies and gossip.
 You gaze upon the wives of others, O my soul; you steal and commit evil deeds. But
 when the swan departs, you shall remain behind, like an abandoned woman. || 2 || O
 body, you are living in a dream! What good deeds have you done? When I stole
 something by deception, then my mind was pleased. I have no honor in this world, and
 I shall find no shelter in the world hereafter. My life has been lost, wasted in vain! || 3
-|| I am totally miserable! O Baba Nanak, no one cares for me at all! || 1 || Pause ||
+|| I am totally miserable! O Baba Nanak, no one cares for me at all! || 1 
 Turkish horses, gold, silver and loads of gorgeous clothes — none of these shall go with
 you, O Nanak. They are lost and left behind, you fool! I have tasted all the sugar candy
 and sweets, but Your Name alone is Ambrosial Nectar. || 4 || Digging deep
@@ -184,13 +191,13 @@ foundations, the walls are constructed, but in the end, the buildings return to 
 dust. People gather and hoard their possessions, and give nothing to anyone else — the
 poor fools think that everything is theirs. Riches do not remain with anyone — not even
 the golden palaces of Sri Lanka. || 5 || Listen, you foolish and ignorant mind — only
-His Will prevails. || 1 || Pause || My Banker is the Great Lord and Master. I am only
+His Will prevails. || 1  My Banker is the Great Lord and Master. I am only
 His petty merchant. This soul and body all are His. He Himself kills, and brings back to
 life. || 6 || 1 || 13 || GAUREE CHAYTEE, FIRST MEHL: There are five of them, but I
 am all alone. How can I protect my hearth and home, O my mind? They are beating
 and plundering me over and over again; unto whom can I complain? || 1 || Chant the
 Name of the Supreme Lord, O my mind. Otherwise, in the world hereafter, you will
-have to face the awesome and cruel army of Death. || 1 || Pause || God has erected
+have to face the awesome and cruel army of Death. || 1  God has erected
 the temple of the body; He has placed the nine doors, and the soul-bride sits within.
 She enjoys the sweet play again and again, while the five demons are plundering her.
 || 2 || In this way, the temple is being demolished; the body is being plundered, and
@@ -202,7 +209,7 @@ she commits sins for their sake; she shall go, bound and gagged, to the City of 
 five passions be disciples under your control, O begging Yogi, and make this mind your
 walking stick. || 1 || Thus you shall find the Way of Yoga. There is only the One Word
 of the Shabad; everything else shall pass away. Let this be the fruits and roots of your
-mind‟s diet. || 1 || Pause || Some try to find the Guru by shaving their heads at the
+mind‟s diet. || 1  Some try to find the Guru by shaving their heads at the
 Ganges, but I have made the Guru my Ganges. The Saving Grace of the three worlds is
 the One Lord and Master, but those in darkness do not remember Him. || 2 ||
 Practicing hypocrisy and attaching your mind to worldly objects, your doubt shall never
@@ -211,14 +218,14 @@ depart.
 If you focus your consciousness on the Feet of the One Lord, what reason would you
 have to chase after greed? || 3 || Meditate on the Immaculate Lord, and saturate
 your mind with Him. Why, O Yogi, do you make so many false and deceptive claims? ||
-1 || Pause || The body is wild, and the mind is foolish. Practicing egotism, selfishness
+1  The body is wild, and the mind is foolish. Practicing egotism, selfishness
 and conceit, your life is passing away. Prays Nanak, when the naked body is cremated,
 then you will come to regret and repent. || 4 || 3 || 15 || GAUREE CHAYTEE, FIRST
 MEHL: O mind, there is only the One medicine, mantra and healing herb — center your
 consciousness firmly on the One Lord. Take to the Lord, the Destroyer of the sins and
 karma of past incarnations. || 1 || The One Lord and Master is pleasing to my mind.
 In Your three qualities, the world is engrossed; the Unknowable cannot be known. || 1
-|| Pause || Maya is so sweet to the body, like sugar or molasses. We all carry loads
+ Maya is so sweet to the body, like sugar or molasses. We all carry loads
 of it. In the dark of the night, nothing can be seen. The mouse of death is gnawing
 away at the rope of life, O Siblings of Destiny! || 2 || As the self-willed manmukhs
 act, they suffer in pain. The Gurmukh obtains honor and greatness. Whatever He does,
@@ -229,7 +236,7 @@ obtain some. || 4 || 4 || 16 || GAUREE CHAYTEE, FIRST MEHL: Who is our mother,
 and who is our father? Where did we come from? We are formed from the fire of the
 womb within, and the bubble of water of the sperm. For what purpose are we created?
 || 1 || O my Master, who can know Your Glorious Virtues? My own demerits cannot be
-counted. || 1 || Pause || I took the form of so many plants and trees, and so many
+counted. || 1  I took the form of so many plants and trees, and so many
 animals. Many times I entered the families of snakes and flying birds. || 2 || I broke
 into the shops of the city and well-guarded palaces; stealing from them, I snuck home
 again. I looked in front of me, and I looked behind me, but where could I hide from
@@ -242,7 +249,7 @@ knife is cutting deep. Prays Nanak, recognizing the Lord‟s Command, I am at pe
 and night. || 6 || 5 || 17 || GAUREE BAIRAAGAN, FIRST MEHL: The nights are
 wasted sleeping, and the days are wasted eating. Human life is such a precious jewel,
 but it is being lost in exchange for a mere shell. || 1 || You do not know the Name of
-the Lord. You fool — you shall regret and repent in the end! || 1 || Pause || You
+the Lord. You fool — you shall regret and repent in the end! || 1  You
 bury your temporary wealth in the ground, but how can you love that which is
 temporary? Those who have departed, after craving for temporary wealth, have
 returned home without this temporary wealth. || 2 || If people could gather it in by
@@ -255,7 +262,7 @@ Himself blesses us with greatness. || 4 || 1 || 18 || GAUREE BAIRAAGAN, FIRST
 MEHL: What if I were to become a deer, and live in the forest, picking and eating fruits
 and roots — by Guru‟s Grace, I am a sacrifice to my Master. Again and again, I am a
 sacrifice, a sacrifice. || 1 || I am the shop-keeper of the Lord. Your Name is my
-merchandise and trade. || 1 || Pause || If I were to become a cuckoo, living in a
+merchandise and trade. || 1  If I were to become a cuckoo, living in a
 mango tree, I would still contemplate the Word of the Shabad. I would still meet my
 Lord and Master, with intuitive ease; the Darshan, the Blessed Vision of His Form, is
 incomparably beautiful. || 2 || If I were to become a fish, living in the water, I would
@@ -269,7 +276,7 @@ GAUREE POORBEE DEEPKEE, FIRST MEHL:
 In that house where the Praises of the Creator are chanted — in that house, sing the
 Songs of Praise, and meditate in remembrance on the Creator Lord. || 1 || Sing the
 Songs of Praise of my Fearless Lord. I am a sacrifice to that Song of Praise which brings
-eternal peace. || 1 || Pause || Day after day, He cares for His beings; the Great
+eternal peace. || 1  Day after day, He cares for His beings; the Great
 Giver watches over all. Your gifts cannot be appraised; how can anyone compare to the
 Giver? || 2 || The day of my wedding is pre-ordained. Come — let‟s gather together
 and pour the oil over the threshold. My friends, give me your blessings, that I may
@@ -298,7 +305,7 @@ Those who obtain spiritual wisdom from the Guru are very rare. Those who obtain 
 understanding from the Guru become acceptable. Through the Guru, we intuitively
 contemplate the True One. Through the Guru, the Gate of Liberation is found. || 1 ||
 Through perfect good destiny, we come to meet the Guru. The true ones are intuitively
-absorbed in the True Lord. || 1 || Pause || Meeting the Guru, the fire of desire is
+absorbed in the True Lord. || 1  Meeting the Guru, the fire of desire is
 quenched. Through the Guru, peace and tranquility come to dwell within the mind.
 Through the Guru, we become pure, holy and true. Through the Guru, we are absorbed
 in the Word of the Shabad. || 2 || Without the Guru, everyone wanders in doubt.
@@ -311,7 +318,7 @@ One. || 4 || 2 || 22 || GAUREE GWAARAYREE, THIRD MEHL: True is that place,
 where the mind becomes pure. True is the one who abides in Truth. The True Bani of
 the Word is known throughout the four ages. The True One Himself is everything. || 1
 || Through the karma of good actions, one joins the Sat Sangat, the True
-Congregation. Sing the Glories of the Lord, sitting in that place. || 1 || Pause || Burn
+Congregation. Sing the Glories of the Lord, sitting in that place. || 1  Burn
 this tongue, which loves duality, which does not taste the sublime essence of the Lord,
 and which utters insipid words. Without understanding, the body and mind become
 tasteless and insipid. Without the Name, the miserable ones depart crying out in pain.
@@ -326,7 +333,7 @@ THIRD MEHL: Some sing on and on, but their minds do not find happiness. In egoti
 they sing, but it is wasted uselessly. Those who love the Naam, sing the song. They
 contemplate the True Bani of the Word, and the Shabad. || 1 || They sing on and on,
 if it pleases the True Guru. Their minds and bodies are embellished and adorned,
-attuned to the Naam, the Name of the Lord. || 1 || Pause || Some sing, and some
+attuned to the Naam, the Name of the Lord. || 1  Some sing, and some
 perform devotional worship. Without heart-felt love, the Naam is not obtained. True
 devotional worship consists of love for the Word of the Guru‟s Shabad. 
 
@@ -342,7 +349,7 @@ someone kills and subdues his own mind, his wandering nature is also subdued.
 Without such a death, how can one find the Lord? Only a few know the medicine to kill
 the mind. One whose mind dies in the Word of the Shabad, understands Him. || 1 ||
 He grants greatness to those whom He forgives. By Guru‟s Grace, the Lord comes to
-dwell within the mind. || 1 || Pause || The Gurmukh practices doing good deeds;
+dwell within the mind. || 1  The Gurmukh practices doing good deeds;
 thus he comes to understand this mind. The mind is like an elephant, drunk with wine.
 The Guru is the rod which controls it, and shows it the way. || 2 || The mind is
 uncontrollable; how rare are those who subdue it. Those who move the immovable
@@ -355,7 +362,7 @@ MEHL: The entire world has gone insane in egotism. In the love of duality, it wa
 deluded by doubt. The mind is distracted by great anxiety; no one recognizes one‟s own
 self. Occupied with their own affairs, their nights and days are passing away. || 1 ||
 Meditate on the Lord in your hearts, O my Siblings of Destiny. The Gurmukh‟s tongue
-savors the sublime essence of the Lord. || 1 || Pause || The Gurmukhs recognize
+savors the sublime essence of the Lord. || 1  The Gurmukhs recognize
 the Lord in their own hearts; they serve the Lord, the Life of the World. They are
 famous throughout the four ages. They subdue egotism, and realize the Word of the
 Guru‟s Shabad. God, the Architect of Destiny, showers His Mercy upon them. || 2 ||
@@ -369,7 +376,7 @@ forever; He is the treasure of glorious virtue. || 4 || 6 || 26 || GAUREE GWAARA
 THIRD MEHL: Why forget Him, unto whom the soul and the breath of life belong? Why
 forget Him, who is all-pervading? Serving Him, one is honored and accepted in the
 Court of the Lord. || 1 || I am a sacrifice to the Name of the Lord. If I were to forget
-You, at that very instant, I would die. || 1 || Pause || Those whom You Yourself
+You, at that very instant, I would die. || 1  Those whom You Yourself
 have led astray, forget You. 
 
 Thse who are in love with duality forget You. The ignorant, self-willed manmukhs are
@@ -382,7 +389,7 @@ GAUREE GWAARAYREE, THIRD MEHL: You are Indescribable; how can I describe You?
 Those who subdue their minds, through the Word of the Guru‟s Shabad, are absorbed
 in You. Your Glorious Virtues are countless; their value cannot be estimated. || 1 ||
 The Word of His Bani belongs to Him; in Him, it is diffused. Your Speech cannot be
-spoken; through the Word of the Guru‟s Shabad, it is chanted. || 1 || Pause ||
+spoken; through the Word of the Guru‟s Shabad, it is chanted. || 1 
 Where the True Guru is — there is the Sat Sangat, the True Congregation. Where the
 True Guru is — there, the Glorious Praises of the Lord are intuitively sung. Where the
 True Guru is — there egotism is burnt away, through the Word of the Shabad. || 2 ||
@@ -394,7 +401,7 @@ of the Lord. || 4 || 8 || 28 || GAUREE GWAARAYREE, THIRD MEHL: All forms and
 colors come from the One Lord. Air, water and fire are all kept together. The Lord God
 beholds the many and various colors. || 1 || The One Lord is wondrous and amazing!
 He is the One, the One and Only. How rare is that Gurmukh who meditates on the Lord.
-|| 1 || Pause || God is naturally pervading all places. Sometimes He is hidden, and
+|| 1  God is naturally pervading all places. Sometimes He is hidden, and
 sometimes He is revealed; thus God has made the world of His making. He Himself
 wakes us from sleep. || 2 || No one can estimate His value, although everyone has
 tried, over and over again, to describe Him. Those who merge in the Word of the Guru‟s
@@ -406,7 +413,7 @@ are asleep, in love and attachment to Maya. The Gurmukhs are awake, contemplatin
 spiritual wisdom and the Glory of God. Those humble beings who love the Naam, are
 awake and aware. || 1 || One who is awake to this intuitive wisdom does not fall
 asleep. How rare are those humble beings who understand this through the Perfect
-Guru. || 1 || Pause || The unsaintly blockhead shall never understand. He babbles
+Guru. || 1  The unsaintly blockhead shall never understand. He babbles
 on and on, but he is infatuated with Maya. Blind and ignorant, he shall never be
 reformed. || 2 || In this age, salvation comes only from the Lord‟s Name. How rare
 are those who contemplate the Word of the Guru‟s Shabad. They save themselves, and
@@ -418,7 +425,7 @@ Lord, no one is liberated. || 4 || 10 || 30 || GAUREE, THIRD MEHL, GWAARAYREE:
 True is the Lord King, True is His Royal Command. Those whose minds are attuned to
 the True, Carefree Lord enter the True Mansion of His Presence, and merge in the True
 Name. || 1 || Listen, O my mind: contemplate the Word of the Shabad. Chant the
-Lord‟s Name, and cross over the terrifying world-ocean. || 1 || Pause || In doubt he
+Lord‟s Name, and cross over the terrifying world-ocean. || 1  In doubt he
 comes, and in doubt he goes. This world is born out of the love of duality. The selfwilled manmukh does not remember the Lord; he continues coming and going in
 reincarnation. || 2 || Does he himself go astray, or does God lead him astray? This
 soul is enjoined to the service of someone else. It earns only terrible pain, and this life
@@ -429,7 +436,7 @@ Naam, the Name of the Lord, the nine treasures of the Name are obtained. || 4 ||
 meditate on the Lord. Serving the Guru, the mind is satisfied. Those who earn the
 Lord‟s Name are wealthy. Through the Perfect Guru, understanding is obtained. || 1 ||
 Chant the Name of the Lord, Har, Har, O my Siblings of Destiny. The Gurmukhs serve
-the Lord, and so they are accepted. || 1 || Pause || Those who recognize the self —
+the Lord, and so they are accepted. || 1  Those who recognize the self —
 their minds become pure. They become Jivan-mukta, liberated while yet alive, and they
 find the Lord. Singing the Glorious Praises of the Lord, the intellect becomes pure and
 sublime, and they are easily and intuitively absorbed in the Lord. || 2 || In the love of
@@ -443,7 +450,7 @@ MEHL: The Guru‟s service has been performed throughout the four ages. Very few
 those perfect ones who do this good deed. The wealth of the Lord‟s Name is
 inexhaustible; it shall never be exhausted. In this world, it brings a constant peace, and
 at the Lord‟s Gate, it brings honor. || 1 || O my mind, have no doubt about this.
-Those Gurmukhs who serve, drink in the Ambrosial Nectar. || 1 || Pause || Those
+Those Gurmukhs who serve, drink in the Ambrosial Nectar. || 1  Those
 who serve the True Guru are the greatest people of the world. They save themselves,
 and they redeem all their generations as well. They keep the Name of the Lord clasped
 tightly to their hearts. Attuned to the Naam, they cross over the terrifying world-ocean.
@@ -459,7 +466,7 @@ Nirvaanaa. || 4 || 13 || 33 || GAUREE GWAARAYREE, THIRD MEHL: Through great
 good fortune and high destiny, one meets the True Guru. The Naam, the Name of the
 Lord, is constantly within the heart, and one enjoys the sublime essence of the Lord. ||
 1 || O mortal, become Gurmukh, and meditate on the Name of the Lord. Be victorious
-in the game of life, and earn the profit of the Naam. || 1 || Pause || Spiritual
+in the game of life, and earn the profit of the Naam. || 1  Spiritual
 wisdom and meditation come to those unto whom the Word of the Guru‟s Shabad is
 sweet. By Guru‟s Grace, a few have tasted, and seen it. || 2 || They may perform all
 sorts of religious rituals and good actions, but without the Name, the egotistical ones
@@ -469,7 +476,7 @@ THIRD MEHL, GAUREE BAIRAAGAN: The clouds pour their rain down upon the earth,
 but isn‟t there water within the earth as well? Water is contained within the earth;
 without feet, the clouds run around and let down their rain. || 1 || O Baba, get rid of
 your doubts like this. As you act, so shall you become, and so you shall go and mingle.
-|| 1 || Pause || As woman or man, what can anyone do? The many and various
+|| 1  As woman or man, what can anyone do? The many and various
 forms are always Yours, O Lord; they shall merge again into You. || 2 || In countless
 incarnations, I went astray. Now that I have found You, I shall no longer wander. It is
 His work; those who are absorbed in the Word of the Guru‟s Shabad come to know it
@@ -494,7 +501,7 @@ a home at her in-laws. The Gurmukhs are intuitively absorbed into the Lord. The 
 pleasing to their minds. || 1 || Our Husband Lord dwells in this world, and in the
 world beyond. Tell me, how can He be found? 
 
-The Immaculate Lord Himself is unseen. He unites us with Himself. || 1 || Pause ||
+The Immaculate Lord Himself is unseen. He unites us with Himself. || 1 
 God Himself bestows wisdom; meditate on the Name of the Lord. By great good
 fortune, one meets the True Guru, who places the Ambrosial Nectar in the mouth.
 When egotism and duality are eradicated, one intuitively merges in peace. He Himself is
@@ -514,7 +521,7 @@ Shiva and Shakti — mind and matter — has been destroyed, and the darkness ha
 dispelled. The Lord‟s Name is loved by those, upon whose foreheads such pre-ordained
 destiny was written. || 1 || How can the Lord be obtained, O Saints? Seeing Him, my
 life is sustained. Without the Lord, I cannot live, even for an instant. Unite me with the
-Guru, so that I may drink in the sublime essence of the Lord. || 1 || Pause || I sing
+Guru, so that I may drink in the sublime essence of the Lord. || 1  I sing
 the Glorious Praises of the Lord, and I listen to them daily; the Lord, Har, Har, has
 emancipated me. I have obtained the Lord‟s essence from the Guru; my mind and body
 are drenched with it. Blessed, blessed is the Guru, the True Being, who has blessed me
@@ -536,7 +543,7 @@ cries out, “Gorakh, Gorakh”. But I am just a fool — I just chant the Name 
 Har, Har. || 1 || I do not know what my condition shall be, Lord. O my mind, vibrate
 and meditate on the Name of the Lord. 
 ÓÓÓÓÓÓÓÓÓÓÓ 164 ÓÓÓÓÓÓÓÓÓ
-You shall cross over the terrifying world-ocean. || 1 || Pause || The Sannyaasee
+You shall cross over the terrifying world-ocean. || 1  The Sannyaasee
 smears his body with ashes; renouncing other men‟s women, he practices celibacy. I
 am just a fool, Lord; I place my hopes in You! || 2 || The Kh‟shaatriya acts bravely,
 and is recognized as a warrior. The Shoodra and the Vaisha work and slave for others; I
@@ -548,7 +555,7 @@ speech, free of any attributes. Vibrate on it, meditate on it, and join the Saad
 the Company of the Holy. Cross over the terrifying world-ocean, listening to the
 Unspoken Speech of the Lord. || 1 || O Lord of the Universe, unite me with the Sat
 Sangat, the True Congregation. My tongue savors the sublime essence of the Lord,
-singing the Lord‟s Glorious Praises. || 1 || Pause || Those humble beings who
+singing the Lord‟s Glorious Praises. || 1  Those humble beings who
 meditate on the Name of the Lord, Har, Har — please make me the slave of their
 slaves, Lord. Serving Your slaves is the ultimate good deed. || 2 || One who chants
 the Speech of the Lord — that humble servant is pleasing to my conscious mind. Those
@@ -558,7 +565,7 @@ Saints. Those humble beings, O Nanak, are absorbed in the Naam, the Name of the
 Lord. || 4 || 2 || 40 || GAUREE GWAARAYREE, FOURTH MEHL: The mother loves to
 see her son eat. The fish loves to bathe in the water. The True Guru loves to place food
 in the mouth of His GurSikh. || 1 || If only I could meet those humble servants of the
-Lord, O my Beloved. Meeting with them, my sorrows depart. || 1 || Pause || As the
+Lord, O my Beloved. Meeting with them, my sorrows depart. || 1  As the
 cow shows her love to her strayed calf when she finds it, and as the bride shows her
 love for her husband when he returns home, so does the Lord‟s humble servant love to
 sing the Praises of the Lord. || 2 || The sparrow-hawk loves the rainwater, falling in
@@ -569,7 +576,7 @@ loves to kiss the feet of the Holy. || 4 || 3 || 41 || GAUREE GWAARAYREE, FOURTH
 MEHL: The beggar loves to receive charity from the wealthy landlord. The hungry
 person loves to eat food. The GurSikh loves to find satisfaction by meeting the Guru. ||
 1 || O Lord, grant me the Blessed Vision of Your Darshan; I place my hopes in You,
-Lord. Shower me with Your Mercy, and fulfill my longing. || 1 || Pause || The songbird loves the sun shining in her face. Meeting her Beloved, all her pains are left behind.
+Lord. Shower me with Your Mercy, and fulfill my longing. || 1  The songbird loves the sun shining in her face. Meeting her Beloved, all her pains are left behind.
 The GurSikh loves to gaze upon the Face of the Guru. || 2 || The calf loves to suck its
 mother‟s milk; its heart blossoms forth upon seeing its mother. The GurSikh loves to
 gaze upon the Face of the Guru. || 3 || All other loves and emotional attachment to
@@ -580,7 +587,7 @@ GAUREE GWAARAYREE, FOURTH MEHL: Service to the True Guru is fruitful and
 rewarding; meeting Him, I meditate on the Name of the Lord, the Lord Master. So
 many are emancipated along with those who meditate on the Lord. || 1 || O
 GurSikhs, chant the Name of the Lord, O my Siblings of Destiny. Chanting the Lord‟s
-Name, all sins are washed away. || 1 || Pause || When one meets the Guru, then
+Name, all sins are washed away. || 1  When one meets the Guru, then
 the mind becomes centered. The five passions, running wild, are brought to rest by
 meditating on the Lord. Night and day, within the body-village, the Glorious Praises of
 the Lord are sung. || 2 || Those who apply the dust of the Feet of the True Guru to
@@ -602,7 +609,7 @@ carries us across to the other side. || 4 || 6 || 44 || GAUREE BAIRAAGAN, FOURTH
 MEHL: O Master, You are my Banker. I receive only that capital which You give me. I
 would purchase the Lord‟s Name with love, if You Yourself, in Your Mercy, would sell it
 to me. || 1 || I am the merchant, the peddler of the Lord. I trade in the merchandise
-and capital of the Lord‟s Name. || 1 || Pause || I have earned the profit, the wealth
+and capital of the Lord‟s Name. || 1  I have earned the profit, the wealth
 of devotional worship of the Lord. I have become pleasing to the Mind of the Lord, the
 True Banker. I chant and meditate on the Lord, loading the merchandise of the Lord‟s
 Name. The Messenger of Death, the tax collector, does not even approach me. || 2 ||
@@ -616,7 +623,7 @@ a son, who will grow and earn and give her money to enjoy herself.
 
 In just the same way, the humble servant of the Lord loves the Lord, who extends His
 Helping Hand to us. || 1 || O my Lord, I am so foolish; save me, O my Lord God!
-Your servant‟s praise is Your Own Glorious Greatness. || 1 || Pause || Those whose
+Your servant‟s praise is Your Own Glorious Greatness. || 1  Those whose
 minds are pleased by the Praises of the Lord, Har, Har, are joyful in the palaces of their
 own homes. Their mouths savor all the sweet delicacies when they sing the Glorious
 Praises of the Lord. The Lord‟s humble servants are the saviors of their families; they
@@ -632,7 +639,7 @@ MEHL: The farmers love to work their farms; they plow and work the fields, so th
 their sons and daughters may eat. In just the same way, the Lord‟s humble servants
 chant the Name of the Lord, Har, Har, and in the end, the Lord shall save them. || 1 ||
 I am foolish — save me, O my Lord! O Lord, enjoin me to work and serve the Guru, the
-True Guru. || 1 || Pause || The traders buy horses, planning to trade them. They
+True Guru. || 1  The traders buy horses, planning to trade them. They
 hope to earn wealth; their attachment to Maya increases. In just the same way, the
 Lord‟s humble servants chant the Name of the Lord, Har, Har; chanting the Lord‟s
 Name, they find peace. || 2 || The shop-keepers collect poison, sitting in their shops,
@@ -647,7 +654,7 @@ Continuously, day and night, they are gripped by greed and deluded by doubt. The
 slaves labor in slavery, carrying the loads upon their heads. That humble being who
 serves the Guru is put to work by the Lord in His Home. || 1 || O my Lord, please
 break these bonds of Maya, and put me to work in Your Home. I continuously sing the
-Glorious Praises of the Lord; I am absorbed in the Lord‟s Name. || 1 || Pause ||
+Glorious Praises of the Lord; I am absorbed in the Lord‟s Name. || 1 
 Mortal men work for kings, all for the sake of wealth and Maya. But the king either
 imprisons them, or fines them, or else dies himself. Blessed, rewarding and fruitful is
 the service of the True Guru; through it, I chant the Name of the Lord, Har, Har, and I
@@ -666,7 +673,7 @@ to my conscious mind. I am a sacrifice to my Guru, who has re-united me with my
 Creator Lord; I was separated from Him for such a long time! || 1 || O my Lord, I am
 a sinner; I have come to Your Sanctuary, and fallen at Your Door, Lord. My intellect is
 worthless; I am filthy and polluted. Please shower me with Your Mercy sometime. || 1
-|| Pause || My demerits are so many and numerous. I have sinned so many times,
+ My demerits are so many and numerous. I have sinned so many times,
 over and over again. O Lord, they cannot be counted. You, Lord, are the Merciful
 Treasure of Virtue. When it pleases You, Lord, You forgive me. I am a sinner, saved
 only by the Company of the Guru. He has bestowed the Teachings of the Lord‟s Name,
@@ -684,7 +691,7 @@ The mind has become attached to the pleasures of houses, palaces, horses and oth
 enjoyments. The Lord God does not even enter his thoughts; how can he be saved, O
 my Lord King? || 1 || O my Lord, these are my lowly actions, O my Lord. O Lord, Har,
 Har, Treasure of Virtue, Merciful Lord: please bless me with Your Grace and forgive me
-for all my mistakes. || 1 || Pause || I have no beauty, no social status, no manners.
+for all my mistakes. || 1  I have no beauty, no social status, no manners.
 With what face am I to speak? I have no virtue at all; I have not chanted Your Name. I
 am a sinner, saved only by the Company of the Guru. This is the generous blessing of
 the True Guru. || 2 || He gave all beings souls, bodies, mouths, noses and water to
@@ -700,7 +707,7 @@ him in her vision — indoors and outdoors, she puts food in his mouth; each and
 moment, she caresses him. In just the same way, the True Guru protects His GurSikhs,
 who love their Beloved Lord. || 1 || O my Lord, we are just the ignorant children of
 our Lord God. Hail, hail, to the Guru, the Guru, the True Guru, the Divine Teacher who
-has made me wise through the Lord‟s Teachings. || 1 || Pause || The white
+has made me wise through the Lord‟s Teachings. || 1  The white
 flamingo circles through the sky, but she keeps her young ones in her mind; she has
 left them behind, but she constantly remembers them in her heart. In just the same
 way, the True Guru loves His Sikhs. The Lord cherishes His GurSikhs, and keeps them
@@ -715,7 +722,7 @@ mind, O servant Nanak, meditate forever on the Name of the Lord, who shall deliv
 you in the end. || 4 || 7 || 13 || 51 || GAUREE BAIRAAGAN, FOURTH MEHL:
 Meeting Him, the mind is filled with bliss. He is called the True Guru. Doublemindedness departs, and the supreme status of the Lord is obtained. || 1 || How can
 I meet my Beloved True Guru? Each and every moment, I humbly bow to Him. How will
-I meet my Perfect Guru? || 1 || Pause || Granting His Grace, the Lord has led me to
+I meet my Perfect Guru? || 1  Granting His Grace, the Lord has led me to
 meet my Perfect True Guru. The desire of His humble servant has been fulfilled. I have
 received the dust of the Feet of the True Guru. || 2 || Those who meet the True Guru
 implant devotional worship to the Lord, and listen to this devotional worship of the Lord.
@@ -726,7 +733,7 @@ MEHL, GAUREE POORBEE: The Merciful Lord God showered me with His Mercy; with
 mind and body and mouth, I chant the Lord‟s Name. As Gurmukh, I have been dyed in
 the deep and lasting color of the Lord‟s Love. The robe of my body is drenched with His
 Love. || 1 || I am the maid-servant of my Lord God. When my mind surrendered to
-the Lord, He made all the world my slave. || 1 || Pause || Consider this well, O
+the Lord, He made all the world my slave. || 1  Consider this well, O
 Saints, O Siblings of Destiny — search your own hearts, seek and find Him there. The
 Beauty and the Light of the Lord, Har, Har, is present in all. 
 
@@ -741,7 +748,7 @@ and Master, Master of the Universe, All-powerful Architect of Destiny. Whichever
 You turn me, O my Lord and Master, that is the way I shall go. || 1 || O Lord, my
 mind is attuned to the Lord‟s Love. Joining the Sat Sangat, the True Congregation, I
 have obtained the sublime essence of the Lord. I am absorbed in the Name of the Lord.
-|| 1 || Pause || The Lord, Har, Har, and the Name of the Lord, Har, Har, is the
+|| 1  The Lord, Har, Har, and the Name of the Lord, Har, Har, is the
 panacea, the medicine for the world. The Lord, and the Name of the Lord, Har, Har,
 bring peace and tranquility. Those who partake of the Lord‟s sublime essence, through
 the Guru‟s Teachings — their sins and sufferings are all eliminated. || 2 || Those who
@@ -756,7 +763,7 @@ True Guru has bestowed His most pure and sacred Teachings. Chanting the Name of
 the Lord, Har, Har, Har, my mind is transfixed and enraptured. || 1 || O Lord, my
 mind and body have been pierced through by the True Lord. The whole world is caught
 and held in the mouth of Death. Through the Teachings of the Guru, the True Guru, O
-Lord, I am saved. || 1 || Pause || Those who are not in love with the Lord are
+Lord, I am saved. || 1  Those who are not in love with the Lord are
 foolish and false — they are faithless cynics. They suffer the most extreme agonies of
 birth and death; they die over and over again, and they rot away in manure. || 2 ||
 You are the Merciful Cherisher of those who seek Your Sanctuary. I beg of You: please
@@ -769,7 +776,7 @@ Your Ear and listen to my prayer. Please unite me with the True Guru, my breath 
 through Him, O my Lord and Master, You are known. || 1 || O Lord, I acknowledge
 the True Guru as the Supreme Lord God. I am foolish and ignorant, and my intellect is
 impure. Through the Teachings of the Guru, the True Guru, O Lord, I come to know
-You. || 1 || Pause || 
+You. || 1  
 
 All the pleasures and enjoyments which I have seen — I have found them all to be
 bland and insipid. I have tasted the Ambrosial Nectar of the Naam, the Name of the
@@ -785,7 +792,7 @@ Master. Tell me, where could you run to get away from the Lord? The True Lord Go
 Himself grants forgiveness; we are emancipated only when the Lord Himself
 emancipates us. || 1 || O my mind, chant the Name of the Lord, Har, Har, Har —
 chant it in your mind. Quickly now, run to the Sanctuary of the True Guru, O my mind;
-following the Guru, the True Guru, you shall be saved. || 1 || Pause || O my mind,
+following the Guru, the True Guru, you shall be saved. || 1  O my mind,
 serve God, the Giver of all peace; serving Him, you shall come to dwell in your own
 home deep within. As Gurmukh, go and enter your own home; anoint yourself with the
 sandalwood oil of the Lord‟s Praises. || 2 || O my mind, the Praises of the Lord, Har,
@@ -802,7 +809,7 @@ Power, God; my soul and body are totally Yours. Be merciful to me, and show me t
 Blessed Vision of Your Darshan. There is such a great longing within my mind and
 body! || 1 || O my Lord, there is such a great longing within my mind and body to
 meet the Lord. When the Guru, the Merciful Guru, showed just a little mercy to me, my
-Lord God came and met me. || 1 || Pause || Whatever is in my conscious mind, O
+Lord God came and met me. || 1  Whatever is in my conscious mind, O
 Lord and Master — that condition of mine is known only to You, Lord. Night and day, I
 chant Your Name, and I find peace. I live by placing my hopes in You, Lord. || 2 ||
 The Guru, the True Guru, the Giver, has shown me the Way; my Lord God came and
@@ -816,7 +823,7 @@ GAUREE POORBEE, FOURTH MEHL: This mind does not hold still, even for an instant.
 Distracted by all sorts of distractions, it wanders around aimlessly in the ten directions. I
 have found the Perfect Guru, through great good fortune; He has given me the Mantra
 of the Lord‟s Name, and my mind has become quiet and tranquil. || 1 || O Lord, I am
-the slave of the True Guru. || 1 || Pause || My forehead has been branded with His
+the slave of the True Guru. || 1  My forehead has been branded with His
 brand; I owe such a great debt to the Guru. He has been so generous and kind to me;
 He has carried me across the treacherous and terrifying world-ocean. || 2 || Those
 who do not have love for the Lord within their hearts, harbor only false intentions and
@@ -828,7 +835,7 @@ FOURTH MEHL: The body-village is filled to overflowing with sexual desire and an
 which were broken into bits when I met with the Holy Saint. By pre-ordained destiny, I
 have met with the Guru. I have entered into the realm of the Lord‟s Love. || 1 ||
 Greet the Holy Saint with your palms pressed together; this is an act of great merit.
-Bow down before Him; this is a virtuous action indeed. || 1 || Pause || The wicked
+Bow down before Him; this is a virtuous action indeed. || 1  The wicked
 shaaktas, the faithless cynics, do not know the taste of the Lord‟s sublime essence. The
 thorn of egotism is embedded deep within them. The more they walk away, the deeper
 it sticks into them, and the more they suffer in pain, until finally, the Messenger of
@@ -856,7 +863,7 @@ body to the Perfect Guru. The True Guru, the Giver, has implanted the Naam, the 
 of the Lord, within me. A very blessed and fortunate destiny is recorded upon my
 forehead. || 1 || 
 ÓÓÓÓÓÓÓÓÓÓÓ 172 ÓÓÓÓÓÓÓÓÓ
-Through the Guru‟s Teachings, I am lovingly centered on the Lord. || 1 || Pause ||
+Through the Guru‟s Teachings, I am lovingly centered on the Lord. || 1 
 The All-pervading Sovereign Lord King is contained in each and every heart. Through
 the Guru, and the Word of the Guru‟s Shabad, I am lovingly centered on the Lord.
 Cutting my mind and body into pieces, I offer them to my Guru. The Guru‟s Teachings
@@ -872,7 +879,7 @@ Guru. || 5 || 10 || 24 || 62 || GAUREE POORBEE, FOURTH MEHL: I am egotistical
 and conceited, and my intellect is ignorant. Meeting the Guru, my selfishness and
 conceit have been abolished. The illness of egotism is gone, and I have found peace.
 Blessed, blessed is the Guru, the Sovereign Lord King. || 1 || I have found the Lord,
-through the Teachings of the Guru. || 1 || Pause || My heart is filled with love for
+through the Teachings of the Guru. || 1  My heart is filled with love for
 the Sovereign Lord King; the Guru has shown me the path and the way to find Him. My
 soul and body all belong to the Guru; I was separated, and He has led me into the
 Lord‟s Embrace. || 2 || Deep within myself, I would love to see the Lord; the Guru
@@ -884,7 +891,7 @@ GAUREE POORBEE, FOURTH MEHL: Through the Guru‟s Teachings, the unstruck
 music resounds; through the Guru‟s Teachings, the mind sings. By great good fortune, I
 received the Blessed Vision of the Guru‟s Darshan. Blessed, blessed is the Guru, who
 has led me to love the Lord. || 1 || The Gurmukh is lovingly centered on the Lord. ||
-1 || Pause || My Lord and Master is the Perfect True Guru. My mind works to serve
+1  My Lord and Master is the Perfect True Guru. My mind works to serve
 the Guru. I massage and wash the Feet of the Guru, who recites the Sermon of the
 Lord. || 2 || The Teachings of the Guru are in my heart; the Lord is the Source of
 nectar. My tongue sings the Glorious Praises of the Lord. My mind is immersed in, and
@@ -1008,7 +1015,7 @@ Servant Nanak has obtained the sublime essence of the Lord. || 4 || 6 || 20 || 1
 FIFTH MEHL, RAAG GAUREE GWAARAYREE, CHAU-PADAS:
 
 How can happiness be found, O my Siblings of Destiny? How can the Lord, our Help
-and Support, be found? || 1 || Pause || There is no happiness in owning one‟s own
+and Support, be found? || 1  There is no happiness in owning one‟s own
 home, in all of Maya, or in lofty mansions casting beautiful shadows. In fraud and
 greed, this human life is being wasted. || 
 ÓÓÓÓÓÓÓÓÓÓÓ 176 ÓÓÓÓÓÓÓÓÓ
@@ -1023,7 +1030,7 @@ Destiny. This is the way to find the Lord, our Help and Support. || 1 || Second 
 || GAUREE GWAARAYREE, FIFTH MEHL: Why do you doubt? What do you doubt?
 God is pervading the water, the land and the sky. The Gurmukhs are saved, while the
 self-willed manmukhs lose their honor. || 1 || One who is protected by the Merciful
-Lord — no one else can rival him. || 1 || Pause || The Infinite One is pervading
+Lord — no one else can rival him. || 1  The Infinite One is pervading
 among all. So sleep in peace, and don‟t worry. He knows everything which happens. ||
 2 || The self-willed manmukhs are dying in the thirst of duality. They wander lost
 through countless incarnations; this is their pre-ordained destiny. As they plant, so shall
@@ -1034,7 +1041,7 @@ FIFTH MEHL: In so many incarnations, you were a worm and an insect; in so many
 incarnations, you were an elephant, a fish and a deer. In so many incarnations, you
 were a bird and a snake. In so many incarnations, you were yoked as an ox and a
 horse. || 1 || Meet the Lord of the Universe — now is the time to meet Him. After so
-very long, this human body was fashioned for you. || 1 || Pause || In so many
+very long, this human body was fashioned for you. || 1  In so many
 incarnations, you were rocks and mountains; in so many incarnations, you were aborted
 in the womb; in so many incarnations, you developed branches and leaves; you
 wandered through 8.4 million incarnations. || 2 || Through the Saadh Sangat, the
@@ -1048,7 +1055,7 @@ GAUREE GWAARAYREE, FIFTH MEHL: In the field of karma, plant the seed of the
 Naam. Your works shall be brought to fruition. You shall obtain these fruits, and the
 fear of death shall be dispelled. Sing continually the Glorious Praises of the Lord, Har,
 Har. || 1 || Keep the Name of the Lord, Har, Har, enshrined in your heart, and your
-affairs shall be quickly resolved. || 1 || Pause || Be always attentive to your God;
+affairs shall be quickly resolved. || 1  Be always attentive to your God;
 thus you shall be honored in His Court. 
 ÓÓÓÓÓÓÓÓÓÓÓ 177 ÓÓÓÓÓÓÓÓÓ
 Give up all your clever tricks and devices, and hold tight to the Feet of the Saints. || 2
@@ -1061,7 +1068,7 @@ O Nanak, chant and meditate on the Naam, the Name of the Lord, Har, Har. || 4 ||
 everlasting. The Guru‟s Word cuts away the noose of Death. The Guru‟s Word is always
 with the soul. Through the Guru‟s Word, one is immersed in the Love of the Lord. || 1
 || Whatever the Guru gives, is useful to the mind. Whatever the Saint does — accept
-that as True. || 1 || Pause || The Guru‟s Word is infallible and unchanging. Through
+that as True. || 1  The Guru‟s Word is infallible and unchanging. Through
 the Guru‟s Word, doubt and prejudice are dispelled. The Guru‟s Word never goes away;
 through the Guru‟s Word, we sing the Glorious Praises of the Lord. || 2 || The Guru‟s
 Word accompanies the soul. The Guru‟s Word is the Master of the masterless. The
@@ -1073,7 +1080,7 @@ and compassionate, unto those whom the Lord Himself has blessed with His Mercy. 
 dust, and He managed to preserve you in the womb. He has given you fame and
 greatness; meditate on that God, twenty-four hours a day. || 1 || O Lord, I seek the
 dust of the feet of the Holy. Meeting the Guru, I meditate on my Lord and Master. || 1
-|| Pause || He transformed me, the fool, into a fine speaker, and He made the
+ He transformed me, the fool, into a fine speaker, and He made the
 unconscious become conscious; by His Grace, I have obtained the nine treasures. May I
 never forget that God from my mind. || 2 || He has given a home to the homeless;
 He has given honor to the dishonored. He has fulfilled all desires; remember Him in
@@ -1084,7 +1091,7 @@ Ambrosial Nectar. Says Nanak, I cannot do anything; I praise the Lord, the Prote
 fear or sorrow. Without Him, nothing at all can be done. I have renounced clever tricks,
 power and intellectual corruption. God is the Protector of His servant. || 1 || Meditate,
 O my mind, on the Lord, Raam, Raam, with love. Within your home, and beyond it, He
-is always with you. || 1 || Pause || Keep His Support in your mind. 
+is always with you. || 1  Keep His Support in your mind. 
 ÓÓÓÓÓÓÓÓÓÓÓ 178 ÓÓÓÓÓÓÓÓÓ
 Taste the ambrosial essence, the Word of the Guru‟s Shabad. Of what use are other
 efforts? Showing His Mercy, the Lord Himself protects our honor. || 2 || What is the
@@ -1097,7 +1104,7 @@ Listening to the Lord‟s sermon, my pollution has been washed away. I have beco
 totally pure, and I now walk in peace. By great good fortune, I found the Saadh Sangat,
 the Company of the Holy; I have fallen in love with the Supreme Lord God. || 1 ||
 Chanting the Name of the Lord, Har, Har, His servant has been carried across. The
-Guru has lifted me up and carried me across the ocean of fire. || 1 || Pause ||
+Guru has lifted me up and carried me across the ocean of fire. || 1 
 Singing the Kirtan of His Praises, my mind has become peaceful; the residues of the
 mistakes of countless incarnations have been washed away. I have seen all the
 treasures within my own mind; why should I now go out searching for them? || 2 ||
@@ -1109,7 +1116,7 @@ Perfect Guru has dispelled all doubts. Remembering the Lord in meditation, Nanak
 found peace. || 4 || 8 || 77 || GAUREE GWAARAYREE, FIFTH MEHL: Those who
 have died have been forgotten. Those who survive have fastened their belts. They are
 busily occupied in their affairs; they cling twice as hard to Maya. || 1 || No one thinks
-of the time of death; people grasp to hold that which shall pass away. || 1 || Pause ||
+of the time of death; people grasp to hold that which shall pass away. || 1 
 The fools — their bodies are bound down by desires. They are mired in sexual desire,
 anger and attachment; the Righteous Judge of Dharma stands over their heads.
 Believing it to be sweet, the fools eat poison. || 2 || They say, “I shall tie up my
@@ -1125,7 +1132,7 @@ more and more.
 ÓÓÓÓÓÓÓÓÓÓÓ 179 ÓÓÓÓÓÓÓÓÓ
 Serving the Lord with a pure heart, you shall be received with honor at God‟s Court. ||
 1 || O my mind, hold tight to the Support of the Lord‟s Name. The hot winds shall
-never even touch you. || 1 || Pause || Like a boat in the ocean of fear; like a lamp
+never even touch you. || 1  Like a boat in the ocean of fear; like a lamp
 which illumines the darkness; like fire which takes away the pain of cold — just so,
 chanting the Name, the mind becomes peaceful. || 2 || The thirst of your mind shall
 be quenched, and all hopes shall be fulfilled. Your consciousness shall not waver.
@@ -1138,7 +1145,7 @@ beauties, the man is not satisfied. He is so involved with his wife and sons —
 believes that they belong to him. That wealth shall pass away, and those relatives shall
 be reduced to ashes. || 1 || Without meditating and vibrating on the Lord, they are
 crying out in pain. Their bodies are cursed, and their wealth is cursed — they are
-imbued with Maya. || 1 || Pause || The servant carries the bags of money on his
+imbued with Maya. || 1  The servant carries the bags of money on his
 head, but it goes to his master‟s house, and he receives only pain. The man sits as a
 king in his dreams, but when he opens his eyes, he sees that it was all in vain. || 2 ||
 The watchman oversees the field of another, but the field belongs to his master, while
@@ -1149,7 +1156,7 @@ and He Himself restores. Nanak offers this prayer to God. || 4 || 11 || 80 || GA
 GWAARAYREE, FIFTH MEHL: I have gazed upon the many forms of Maya, in so many
 ways. With pen and paper, I have written clever things. I have seen what it is to be a
 chief, a king, and an emperor, but they do not satisfy the mind. || 1 || Show me that
-peace, O Saints, which will quench my thirst and satisfy my mind. || 1 || Pause ||
+peace, O Saints, which will quench my thirst and satisfy my mind. || 1 
 You may have horses as fast as the wind, elephants to ride on, sandalwood oil, and
 beautiful women in bed, actors in dramas, singing in theaters — but even with them,
 the mind does not find contentment. || 2 || You may have a throne at the royal court,
@@ -1178,7 +1185,7 @@ away the noose from those, unto whom the Lord has shown His Mercy. || 4 || 13 ||
 Grace, we meditate on the Naam, the Name of the Lord. By God‟s Grace, we are
 released from our bondage. By Your Grace, egotism is eradicated. || 1 || As You
 assign me, so I take to Your service. By myself, I cannot do anything at all, O Divine
-Lord. || 1 || Pause || If it pleases You, then I sing the Word of Your Bani. If it
+Lord. || 1  If it pleases You, then I sing the Word of Your Bani. If it
 pleases You, then I speak the Truth. If it pleases You, then the True Guru showers His
 Mercy upon me. All peace comes by Your Kindness, God. || 2 || Whatever pleases
 You is a pure action of karma. Whatever pleases You is the true faith of Dharma. The
@@ -1190,7 +1197,7 @@ GWAARAYREE, FIFTH MEHL: You may taste the other flavors, but your thirst shall n
 depart, even for an instant. But when you taste the sweet flavor the the Lord‟s sublime
 essence — upon tasting it, you shall be wonder-struck and amazed. || 1 || O dear
 beloved tongue, drink in the Ambrosial Nectar. Imbued with this sublime essence, you
-shall be satisfied. || 1 || Pause || O tongue, sing the Glorious Praises of the Lord.
+shall be satisfied. || 1  O tongue, sing the Glorious Praises of the Lord.
 Each and every moment, meditate on the Lord, Har, Har, Har. Do not listen to any
 other, and do not go anywhere else. By great good fortune, you shall find the Saadh
 Sangat, the Company of the Holy. || 2 || Twenty-four hours a day, O tongue, dwell
@@ -1217,7 +1224,7 @@ GWAARAYREE: Night and day, they remain in the Love of the One. They know that
 God is always with them. They make the Name of their Lord and Master their way of
 life; they are satisfied and fulfilled with the Blessed Vision of the Lord‟s Darshan. || 1 ||
 Imbued with the Love of the Lord, their minds and bodies are rejuvenated, entering the
-Sanctuary of the Perfect Guru. || 1 || Pause || The Lord‟s Lotus Feet are the Support
+Sanctuary of the Perfect Guru. || 1  The Lord‟s Lotus Feet are the Support
 of the soul. They see only the One, and obey His Order. There is only one trade, and
 one occupation. They know no other than the Formless Lord. || 2 || They are free of
 both pleasure and pain. They remain unattached, joined to the Lord‟s Way. They are
@@ -1229,7 +1236,7 @@ shower Your Mercy upon me. Bless Nanak with the dust of the feet of the Saints. 
 my Best Friend. You are my Beloved; I am in love with You. You are my honor; You are
 my decoration. Without You, I cannot survive, even for an instant. || 1 || You are my
 Intimate Beloved, You are my breath of life. You are my Lord and Master; You are my
-Leader. || 1 || Pause || As You keep me, so do I survive. Whatever You say, that is
+Leader. || 1  As You keep me, so do I survive. Whatever You say, that is
 what I do. Wherever I look, there I see You dwelling. O my Fearless Lord, with my
 tongue, I chant Your Name. || 2 || You are my nine treasures, You are my
 storehouse. I am imbued with Your Love; You are the Support of my mind. You are my
@@ -1242,7 +1249,7 @@ me; servant Nanak has taken to the Support of the Lord, Har, Har, Har. || 4 || 1
 It torments us with the expression of pleasure and pain. It torments us through
 incarnations in heaven and hell. It is seen to afflict the rich, the poor and the glorious.
 The source of this illness which torments us is greed. || 1 || Maya torments us in so
-many ways. But the Saints live under Your Protection, God. || 1 || Pause || It
+many ways. But the Saints live under Your Protection, God. || 1  It
 torments us through intoxication with intellectual pride. It torments us through the love
 of children and spouse. It torments us through elephants, horses and beautiful clothes.
 It torments us through the intoxication of wine and the beauty of youth. || 2 || It
@@ -1259,7 +1266,7 @@ GWAARAYREE, FIFTH MEHL: The eyes are asleep in corruption, gazing upon the
 beauty of another. The ears are asleep, listening to slanderous stories. The tongue is
 asleep, in its desire for sweet flavors. The mind is asleep, fascinated by Maya. || 1 ||
 Those who remain awake in this house are very rare; by doing so, they receive the
-whole thing. || 1 || Pause || All of my companions are intoxicated with their sensory
+whole thing. || 1  All of my companions are intoxicated with their sensory
 pleasures; they do not know how to guard their own home. The five thieves have
 plundered them; the thugs descend upon the unguarded village. || 2 || Our mothers
 and fathers cannot save us from them; friends and brothers cannot protect us from
@@ -1272,7 +1279,7 @@ unto whom God shows His Mercy. This investment, wealth and property shall remain
 intact. || 1 || Second Pause || 20 || 89 || GAUREE GWAARAYREE, FIFTH MEHL:
 Kings and emperors are under His Power. The whole world is under His Power.
 Everything is done by His doing; other than Him, there is nothing at all. || 1 || Offer
-your prayers to your True Guru; He will resolve your affairs. || 1 || Pause || The
+your prayers to your True Guru; He will resolve your affairs. || 1  The
 Darbaar of His Court is the most exalted of all. His Name is the Support of all His
 devotees. The Perfect Master is pervading everywhere. His Glory is manifest in each
 and every heart. || 2 || Remembering Him in meditation, the home of sorrow is
@@ -1288,7 +1295,7 @@ fire of desire is quenched. Meeting the True Guru, egotism is subdued. In the Co
 of the True Guru, the mind does not waver. The Gurmukh speaks the Ambrosial Word
 of Gurbani. || 1 || He sees the True One pervading the whole world; he is imbued
 with the True One. I have become cool and tranquil, knowing God, through the Guru.
-|| 1 || Pause || By the Grace of the Saints, one chants the Lord‟s Name. By the Grace
+|| 1  By the Grace of the Saints, one chants the Lord‟s Name. By the Grace
 of the Saints, one sings the Kirtan of the Lord‟s Praises. By the Grace of the Saints, all
 pains are erased. By the Grace of the Saints, one is released from bondage. || 2 || By
 the kind Mercy of the Saints, emotional attachment and doubt are removed. Taking a
@@ -1301,7 +1308,7 @@ GAUREE GWAARAYREE, FIFTH MEHL: In the Saadh Sangat, the Company of the Holy,
 I meditate on the Lord God. The Guru has given me the Mantra of the Naam, the Name
 of the Lord. Shedding my ego, I have become free of hate. Twenty-four hours a day, I
 worship the Guru‟s Feet. || 1 || Now, my evil sense of alienation is eliminated, since I
-have heard the Praises of the Lord with my ears. || 1 || Pause || The Savior Lord is
+have heard the Praises of the Lord with my ears. || 1  The Savior Lord is
 the treasure of intuitive peace, poise and bliss. He shall save me in the end. My pains,
 sufferings, fears and doubts have been erased. He has mercifully saved me from
 coming and going in reincarnation. || 2 || He Himself beholds, speaks and hears all. O
@@ -1314,7 +1321,7 @@ GAUREE GWAARAYREE, FIFTH MEHL: He breaks our bonds, and inspires us to chant
 the Lord‟s Name. With the mind centered in meditation on the True Lord, anguish is
 eradicated, and one comes to dwell in peace. Such is the True Guru, the Great Giver. ||
 1 || He alone is the Giver of peace, who inspires us to chant the Naam, the Name of
-the Lord. By His Grace, He leads us to merge with Him. || 1 || Pause || He unites
+the Lord. By His Grace, He leads us to merge with Him. || 1  He unites
 with Himself those unto whom He has shown His Mercy. All treasures are received from
 the Guru. Renouncing selfishness and conceit, coming and going come to an end. In
 the Saadh Sangat, the Company of the Holy, the Supreme Lord God is recognized. || 2
@@ -1329,7 +1336,7 @@ Those whose minds are filled with the Lord, swim across. Those who have the bles
 of good karma, meet with the Lord. Pain, disease and fear do not affect them at all.
 They meditate on the Ambrosial Name of the Lord within their hearts. || 1 || Meditate
 on the Supreme Lord God, the Transcendent Lord. From the Perfect Guru, this
-understanding is obtained. || 1 || Pause || The Merciful Lord is the Doer, the Cause
+understanding is obtained. || 1  The Merciful Lord is the Doer, the Cause
 of causes. He cherishes and nurtures all beings and creatures. He is Inaccessible,
 Incomprehensible, Eternal and Infinite. Meditate on Him, O my mind, through the
 Teachings of the Perfect Guru. || 2 || Serving Him, all treasures are obtained.
@@ -1341,7 +1348,7 @@ of the Lord. || 4 || 25 || 94 || GAUREE GWAARAYREE, FIFTH MEHL: Our way of life
 is in His Hands; remember Him, the Master of the masterless. When God comes to
 mind, all pains depart. All fears are dispelled through the Name of the Lord. || 1 ||
 Why do you fear any other than the Lord? Forgetting the Lord, why do you pretend to
-be at peace? || 1 || Pause || He established the many worlds and skies. The soul is
+be at peace? || 1  He established the many worlds and skies. The soul is
 illumined with His Light; no one can revoke His Blessing. Meditate, meditate in
 remembrance on God, and become fearless. || 2 || Twenty-four hours a day,
 meditate in remembrance on God‟s Name. In it are the many sacred shrines of
@@ -1354,7 +1361,7 @@ Name of the Lord. Asleep for so many incarnations, it is now awakened. I chant t
 Ambrosial Bani, the Glorious Praises of God. The Pure Teachings of the Perfect Guru
 have been revealed to me. || 1 || Meditating in remembrance on God, I have found
 total peace. Within my home, and outside as well, there is peace and poise all around.
-|| 1 || Pause || I have recognized the One who created me. Showing His Mercy, God
+|| 1  I have recognized the One who created me. Showing His Mercy, God
 has blended me with Himself. Taking me by the arm, He has made me His Own. I
 continually chant and meditate on the Sermon of the Lord, Har, Har. || 2 || Mantras,
 tantras, all-curing medicines and acts of atonement, are all in the Name of the Lord,
@@ -1382,7 +1389,7 @@ RAAG GAUREE GWAARAYREE, FIFTH MEHL, CHAU-PADAS, DU-PADAS:
 
 That which belongs to another — he claims as his own. That which he must abandon —
 to that, his mind is attracted. || 1 || Tell me, how can he meet the Lord of the World?
-That which is forbidden — with that, he is in love. || 1 || Pause || That which is
+That which is forbidden — with that, he is in love. || 1  That which is
 false — he deems as true. That which is true — his mind is not attached to that at all.
 || 2 || He takes the crooked path of the unrighteous way; leaving the straight and
 narrow path, he weaves his way backwards. || 3 || God is the Lord and Master of
@@ -1390,7 +1397,7 @@ both worlds. He, whom the Lord unites with Himself, O Nanak, is liberated. || 4 
 98 || GAUREE GWAARAYREE, FIFTH MEHL: In the Dark Age of Kali Yuga, they come
 together through destiny. As long as the Lord commands, they enjoy their pleasures. ||
 1 || By burning oneself, the Beloved Lord is not obtained. Only by the actions of
-destiny does she rise up and burn herself, as a „satee‟. || 1 || Pause || Imitating
+destiny does she rise up and burn herself, as a „satee‟. || 1  Imitating
 what she sees, with her stubborn mind-set, she goes into the fire. She does not obtain
 the Company of her Beloved Lord, and she wanders through countless incarnations. ||
 2 || With pure conduct and self-restraint, she surrenders to her Husband Lord‟s Will;
@@ -1400,7 +1407,7 @@ Nanak, she who looks upon the Transcendent Lord as her Husband, is the blessed
 GWAARAYREE, FIFTH MEHL: I am prosperous and fortunate, for I have received the
 True Name. 
 ÓÓÓÓÓÓÓÓÓÓÓ 186 ÓÓÓÓÓÓÓÓÓ
-I sing the Glorious Praises of the Lord, with natural, intuitive ease. || 1 || Pause ||
+I sing the Glorious Praises of the Lord, with natural, intuitive ease. || 1 
 When I opened it up and gazed upon the treasures of my father and grandfather, then
 my mind became very happy. || 1 || The storehouse is inexhaustible and
 immeasurable, overflowing with priceless jewels and rubies. || 2 || The Siblings of
@@ -1410,27 +1417,27 @@ forehead, becomes a partner in these treasures. || 4 || 31 || 100 || GAUREE, FIF
 MEHL: I was scared, scared to death, when I thought that He was far away. But my
 fear was removed, when I saw that He is pervading everywhere. || 1 || I am a
 sacrifice to my True Guru. He shall not abandon me; He shall surely carry me across. ||
-1 || Pause || Pain, disease and sorrow come when one forgets the Naam, the Name
+1  Pain, disease and sorrow come when one forgets the Naam, the Name
 of the Lord. Eternal bliss comes when one sings the Glorious Praises of the Lord. || 2 ||
 Do not say that anyone is good or bad. Renounce your arrogant pride, and grasp the
 Feet of the Lord. || 3 || Says Nanak, remember the GurMantra; you shall find peace
 at the True Court. || 4 || 32 || 101 || GAUREE, FIFTH MEHL: Those who have the
 Lord as their Friend and Companion — tell me, what else do they need? || 1 || Those
 who are in love with the Lord of the Universe — pain, suffering and doubt run away
-from them. || 1 || Pause || Those who have enjoyed the flavor of the Lord‟s sublime
+from them. || 1  Those who have enjoyed the flavor of the Lord‟s sublime
 essence are not attracted to any other pleasures. || 2 || Those whose speech is
 accepted in the Court of the Lord — what do they care about anything else? || 3 ||
 Those who belong to the One, unto whom all things belong — O Nanak, they find a
 lasting peace. || 4 || 33 || 102 || GAUREE, FIFTH MEHL: Those who look alike upon
 pleasure and pain — how can anxiety touch them? || 1 || The Lord‟s Holy Saints
 abide in celestial bliss. They remain obedient to the Lord, the Sovereign Lord King. || 1
-|| Pause || Those who have the Carefree Lord abiding in their minds — no cares will
+ Those who have the Carefree Lord abiding in their minds — no cares will
 ever bother them. || 2 || Those who have banished doubt from their minds are not
 afraid of death at all. || 3 || Those whose hearts are filled with the Lord‟s Name by
 the Guru — says Nanak, all treasures come to them. || 4 || 34 || 103 || GAUREE,
 FIFTH MEHL: The Lord of Unfathomable Form has His Place in the mind. By Guru‟s
 Grace, a rare few come to understand this. || 1 || The Ambrosial Pools of the celestial
-sermon — those who find them, drink them in. || 1 || Pause || The unstruck melody
+sermon — those who find them, drink them in. || 1  The unstruck melody
 of the Guru‟s Bani vibrates in that most special place. The Lord of the World is
 fascinated with this melody. || 2 || The numerous, countless places of celestial peace
 — there, the Saints dwell, in the Company of the Supreme Lord God. || 3 || There is
@@ -1439,7 +1446,7 @@ infinite joy, and no sorrow or duality. The Guru has blessed Nanak with this hom
 adore? What Yoga should I practice to control my body? || 1 || 
 ÓÓÓÓÓÓÓÓÓÓÓ 187 ÓÓÓÓÓÓÓÓÓ
 What is that virtue, by which I may sing of You? What is that speech, by which I may
-please the Supreme Lord God? || 1 || Pause || What worship service shall I perform
+please the Supreme Lord God? || 1  What worship service shall I perform
 for You? How can I cross over the terrifying world-ocean? || 2 || What is that
 penance, by which I may become a penitent? What is that Name, by which the filth of
 egotism may be washed away? || 3 || Virtue, worship, spiritual wisdom, meditation
@@ -1449,26 +1456,26 @@ God, who are approved by the Giver of peace. || 1 || Second Pause || 36 || 105 |
 GAUREE, FIFTH MEHL: The body which you are so proud of, does not belong to you.
 Power, property and wealth are not yours. || 1 || They are not yours, so why do you
 cling to them? Only the Naam, the Name of the Lord, is yours; it is received from the
-True Guru. || 1 || Pause || Children, spouse and siblings are not yours. Dear friends,
+True Guru. || 1  Children, spouse and siblings are not yours. Dear friends,
 mother and father are not yours. || 2 || Gold, silver and money are not yours. Fine
 horses and magnificent elephants are of no use to you. || 3 || Says Nanak, those
 whom the Guru forgives, meet with the Lord. Everything belongs to those who have the
 Lord as their King. || 4 || 37 || 106 || GAUREE, FIFTH MEHL: I place the Guru‟s Feet
 on my forehead, and all my pains are gone. || 1 || I am a sacrifice to my True Guru. I
-have come to understand my soul, and I enjoy supreme bliss. || 1 || Pause || I have
+have come to understand my soul, and I enjoy supreme bliss. || 1  I have
 applied the dust of the Guru‟s Feet to my face, which has removed all my arrogant
 intellect. || 2 || The Word of the Guru‟s Shabad has become sweet to my mind, and I
 behold the Supreme Lord God. || 3 || The Guru is the Giver of peace; the Guru is the
 Creator. O Nanak, the Guru is the Support of the breath of life and the soul. || 4 || 38
 || 107 || GAUREE, FIFTH MEHL: O my mind, seek the One who lacks nothing. || 1 ||
 Make the Beloved Lord your friend. Keep Him constantly in your mind; He is the
-Support of the breath of life. || 1 || Pause || O my mind, serve Him; He is the Primal
+Support of the breath of life. || 1  O my mind, serve Him; He is the Primal
 Being, the Infinite Divine Lord. || 2 || Place your hopes in the One who is the Support
 of all beings, from the very beginning of time, and throughout the ages. || 3 || His
 Love brings eternal peace; meeting the Guru, Nanak sings His Glorious Praises. || 4 ||
 39 || 108 || GAUREE, FIFTH MEHL: Whatever my Friend does, I accept. My Friend‟s
 actions are pleasing to me. || 1 || Within my conscious mind, the One Lord is my only
-Support. One who does this is my Friend. || 1 || Pause || My Friend is Carefree. By
+Support. One who does this is my Friend. || 1  My Friend is Carefree. By
 Guru‟s Grace, I give my love to Him. || 2 || My Friend is the Inner-knower, the
 Searcher of hearts. He is the All-powerful Being, the Supreme Lord and Master. || 3 || 
 ÓÓÓÓÓÓÓÓÓÓÓ 188 ÓÓÓÓÓÓÓÓÓ
@@ -1483,14 +1490,14 @@ me the Perfect, Supreme Lord God. || 4 || 41 || 110 || GAUREE, FIFTH MEHL: This
 human body is so difficult to obtain; it is only obtained by great good fortune. Those
 who do not meditate on the Naam, the Name of the Lord, are murderers of the soul. ||
 1 || Those who forget the Lord might just as well die. Without the Naam, of what use
-are their lives? || 1 || Pause || Eating, drinking, playing, laughing and showing off —
+are their lives? || 1  Eating, drinking, playing, laughing and showing off —
 what use are the ostentatious displays of the dead? || 2 || Those who do not listen to
 the Praises of the Lord of supreme bliss, are worse off than beasts, birds or creeping
 creatures. || 3 || Says Nanak, the GurMantra has been implanted within me; the
 Name alone is contained within my heart. || 4 || 42 || 111 || GAUREE, FIFTH MEHL:
 Whose mother is this? Whose father is this? They are relatives in name only — they are
 all false. || 1 || Why are you screaming and shouting, you fool? By good destiny and
-the Lord‟s Order, you have come into the world. || 1 || Pause || There is the one
+the Lord‟s Order, you have come into the world. || 1  There is the one
 dust, the one light, the one praanic wind. Why are you crying? For whom do you cry?
 || 2 || People weep and cry out, “Mine, mine!” This soul is not perishable. || 3 ||
 Says Nanak, the Guru has opened my shutters; I am liberated, and my doubts have
@@ -1503,7 +1510,7 @@ Truth: without the Lord‟s meditation, there is no salvation. || 3 || 44 || 113
 GAUREE, FIFTH MEHL: Perfect is the path; perfect is the cleansing bath. Everything is
 perfect, if the Naam is in the heart. || 1 || One‟s honor remains perfect, when the
 Perfect Lord preserves it. His servant takes to the Sanctuary of the Supreme Lord God.
-|| 1 || Pause || Perfect is the peace; perfect is the contentment. Perfect is the
+|| 1  Perfect is the peace; perfect is the contentment. Perfect is the
 penance; perfect is the Raja Yoga, the Yoga of meditation and success. || 2 || On the
 Lord‟s Path, sinners are purified. Perfect is their glory; perfect is their humanity. || 3 ||
 They dwell forever in the Presence of the Creator Lord. Says Nanak, my True Guru is
@@ -1512,7 +1519,7 @@ by the dust of the feet of the Saints.
 ÓÓÓÓÓÓÓÓÓÓÓ 189 ÓÓÓÓÓÓÓÓÓ
 By the Grace of the Saints, one is released from birth and death. || 1 || The Blessed
 Vision of the Saints is the perfect cleansing bath. By the Grace of the Saints, one comes
-to chant the Naam, the Name of the Lord. || 1 || Pause || In the Society of the
+to chant the Naam, the Name of the Lord. || 1  In the Society of the
 Saints, egotism is shed, and the One Lord is seen everywhere. || 2 || By the pleasure
 of the Saints, the five passions are overpowered, and the heart is irrigated with the
 Ambrosial Naam. || 3 || Says Nanak, one whose karma is perfect, touches the feet of
@@ -1520,14 +1527,14 @@ the Holy. || 4 || 46 || 115 || GAUREE, FIFTH MEHL: Meditating on the Glories of 
 Lord, the heart-lotus blossoms radiantly. Remembering the Lord in meditation, all fears
 are dispelled. || 1 || Perfect is that intellect, by which the Glorious Praises of the Lord
 are sung. By great good fortune, one finds the Saadh Sangat, the Company of the Holy.
-|| 1 || Pause || In the Saadh Sangat, the treasure of the Name is obtained. In the
+|| 1  In the Saadh Sangat, the treasure of the Name is obtained. In the
 Saadh Sangat, all one‟s works are brought to fruition. || 2 || Through devotion to the
 Lord, one‟s life is approved. By Guru‟s Grace, one chants the Naam, the Name of the
 Lord. || 3 || Says Nanak, that humble being is accepted, within whose heart the Lord
 God abides. || 4 || 47 || 116 || GAUREE, FIFTH MEHL: Those whose minds are
 imbued with the One Lord, forget to feel jealous of others. || 1 || They see none
 other than the Lord of the Universe. The Creator is the Doer, the Cause of causes. || 1
-|| Pause || Those who work willingly, and chant the Name of the Lord, Har, Har —
+ Those who work willingly, and chant the Name of the Lord, Har, Har —
 they do not waver, here or hereafter. || 2 || Those who possess the wealth of the
 Lord are the true bankers. The Perfect Guru has established their line of credit. || 3 ||
 The Giver of life, the Sovereign Lord King meets them. Says Nanak, they attain the
@@ -1542,7 +1549,7 @@ those who have perfect destiny — their minds are attached to the Naam. || 4 ||
 118 || GAUREE, FIFTH MEHL: By the Grace of the Saints, I meditated on the Name
 of the Lord. Since then, my restless mind has been satisfied. || 1 || I have obtained
 the home of peace, singing His Glorious Praises. My troubles have ended, and the
-demon has been destroyed. || 1 || Pause || Worship and adore the Lotus Feet of
+demon has been destroyed. || 1  Worship and adore the Lotus Feet of
 the Lord God. Meditating in remembrance on the Lord, my anxiety has come to an end.
 || 2 || I have renounced all — I am an orphan. I have come to the Sanctuary of the
 One Lord. Since then, I have found the highest celestial home. || 3 || My pains,
@@ -1552,7 +1559,7 @@ sing His Glorious Praises.
 ÓÓÓÓÓÓÓÓÓÓÓ 190 ÓÓÓÓÓÓÓÓÓ
 With my feet, I walk on the Path of my Lord and Master. || 1 || It is a good time,
 when I remember Him in meditation. Meditating on the Naam, the Name of the Lord, I
-cross over the terrifying world-ocean. || 1 || Pause || With your eyes, behold the
+cross over the terrifying world-ocean. || 1  With your eyes, behold the
 Blessed Vision of the Saints. Record the Immortal Lord God within your mind. || 2 ||
 Listen to the Kirtan of His Praises, at the Feet of the Holy. Your fears of birth and death
 shall depart. || 3 || Enshrine the Lotus Feet of your Lord and Master within your
@@ -1560,7 +1567,7 @@ heart. Thus this human life, so difficult to obtain, shall be redeemed. || 4 || 
 || GAUREE, FIFTH MEHL: Those, upon whom the Lord Himself showers His Mercy,
 chant the Naam, the Name of the Lord, with their tongues. || 1 || Forgetting the
 Lord, superstition and sorrow shall overtake you. Meditating on the Naam, doubt and
-fear shall depart. || 1 || Pause || Listening to the Kirtan of the Lord‟s Praises, and
+fear shall depart. || 1  Listening to the Kirtan of the Lord‟s Praises, and
 singing the Lord‟s Kirtan, misfortune shall not even come near you. || 2 || Working
 for the Lord, His humble servants look beautiful. The fire of Maya does not touch them.
 || 3 || Within their minds, bodies and mouths, is the Name of the Merciful Lord. Nanak
@@ -1568,7 +1575,7 @@ has renounced other entanglements. || 4 || 52 || 121 || GAUREE, FIFTH MEHL:
 Renounce your cleverness, and your cunning tricks. Seek the Support of the Perfect
 Guru. || 1 || Your pain shall depart, and in peace, you shall sing the Glorious Praises
 of the Lord. Meeting the Perfect Guru, let yourself be absorbed in the Lord‟s Love. || 1
-|| Pause || The Guru has given me the Mantra of the Name of the Lord. My worries
+ The Guru has given me the Mantra of the Name of the Lord. My worries
 are forgotten, and my anxiety is gone. || 2 || Meeting with the Merciful Guru, I am in
 ecstasy. Showering His Mercy, He has cut away the noose of the Messenger of Death.
 || 3 || Says Nanak, I have found the Perfect Guru; Maya shall no longer harass me. ||
@@ -1582,7 +1589,7 @@ Perfect Guru granted His Grace, says Nanak, I was totally, completely fulfilled.
 54 || 123 || GAUREE, FIFTH MEHL: Like beasts, they consume all sorts of tasty
 treats. With the rope of emotional attachment, they are bound and gagged like thieves.
 || 1 || Their bodies are corpses, without the Saadh Sangat, the Company of the Holy.
-They come and go in reincarnation, and are destroyed by pain. || 1 || Pause || They
+They come and go in reincarnation, and are destroyed by pain. || 1  They
 wear all sorts of beautiful robes, but they are still just scarecrows in the field,
 frightening away the birds. || 2 || All bodies are of some use, but those who do not
 meditate on the Naam, the Name of the Lord, are totally useless. || 3 || Says Nanak,
@@ -1592,7 +1599,7 @@ the Lord of the Universe. || 4 || 55 || 124 || GAUREE, FIFTH MEHL:
 The Word of the Guru‟s Shabad quiets worries and troubles. Coming and going ceases,
 and all comforts are obtained. || 1 || Fear is dispelled, meditating on the Fearless
 Lord. In the Saadh Sangat, the Company of the Holy, I chant the Glorious Praises of the
-Lord. || 1 || Pause || I have enshrined the Lotus Feet of the Lord within my heart.
+Lord. || 1  I have enshrined the Lotus Feet of the Lord within my heart.
 The Guru has carried me across the ocean of fire. || 2 || I was sinking down, and the
 Perfect Guru pulled me out. I was cut off from the Lord for countless incarnations, and
 now the Guru united me with Him again. || 3 || Says Nanak, I am a sacrifice to the
@@ -1600,14 +1607,14 @@ Guru; meeting Him, I have been saved. || 4 || 56 || 125 || GAUREE, FIFTH MEHL:
 In the Saadh Sangat, the Company of the Holy, seek His Sanctuary. Place your mind
 and body in offering before Him. || 1 || Drink in the Ambrosial Nectar of the Name, O
 my Siblings of Destiny. Meditating, meditating in remembrance on the Lord, the fire of
-desire is totally quenched. || 1 || Pause || Renounce your arrogant pride, and end
+desire is totally quenched. || 1  Renounce your arrogant pride, and end
 the cycle of birth and death. Bow in humility to the feet of the Lord‟s slave. || 2 ||
 Remember God in your mind, with each and every breath. Gather only that wealth,
 which shall go with you. || 3 || He alone obtains it, upon whose forehead such
 destiny is written. Says Nanak, fall at the Feet of that Lord. || 4 || 57 || 126 ||
 GAUREE, FIFTH MEHL: The dried branches are made green again in an instant. His
 Ambrosial Glance irrigates and revives them. || 1 || The Perfect Divine Guru has
-removed my sorrow. He blesses His servant with His service. || 1 || Pause || Anxiety
+removed my sorrow. He blesses His servant with His service. || 1  Anxiety
 is removed, and the desires of the mind are fulfilled, when the True Guru, the Treasure
 of Excellence, shows His Kindness. || 2 || Pain is driven far away, and peace comes in
 its place; there is no delay, when the Guru gives the Order. || 3 || Desires are
@@ -1615,7 +1622,7 @@ fulfilled, when one meets the True Guru; O Nanak, His humble servant is fruitful
 prosperous. || 4 || 58 || 127 || GAUREE, FIFTH MEHL: The fever has departed; God
 has showered us with peace and tranquility. A cooling peace prevails; God has granted
 this gift. || 1 || By God‟s Grace, we have become comfortable. Separated from Him
-for countless incarnations, we are now reunited with Him. || 1 || Pause ||
+for countless incarnations, we are now reunited with Him. || 1 
 Meditating, meditating in remembrance on God‟s Name, the dwelling of all disease is
 destroyed. || 2 || In intuitive peace and poise, chant the Word of the Lord‟s Bani.
 Twenty-four hours a day, O mortal, meditate on God. || 3 || Pain, suffering and the
@@ -1623,7 +1630,7 @@ Messenger of Death do not even approach that one, says Nanak, who sings the Glor
 Praises of the Lord. || 4 || 59 || 128 || GAUREE, FIFTH MEHL: Auspicious is the day,
 and auspicious is the chance, which brought me to the Supreme Lord God, the
 Unjoined, Unlimited One. || 1 || I am a sacrifice to that time, when my mind chants
-the Name of the Lord. || 1 || Pause || Blessed is that moment, and blessed is that
+the Name of the Lord. || 1  Blessed is that moment, and blessed is that
 time, when my tongue chants the Name of the Lord, Har, Haree. || 2 || Blessed is
 that forehead, which bows in humility to the Saints. Sacred are those feet, which walk
 on the Lord‟s Path. || 3 || Says Nanak, auspicious is my karma, which has led me to
@@ -1632,35 +1639,35 @@ touch the Feet of the Holy. || 4 || 60 || 129 ||
 GAUREE, FIFTH MEHL: Keep the Word of the Guru‟s Shabad in your mind. Meditating
 in remembrance on the Naam, the Name of the Lord, all anxiety is removed. || 1 ||
 Without the Lord God, there is no one else at all. He alone preserves and destroys. || 1
-|| Pause || Enshrine the Guru‟s Feet in your heart. Meditate on Him and cross over
+ Enshrine the Guru‟s Feet in your heart. Meditate on Him and cross over
 the ocean of fire. || 2 || Focus your meditation on the Guru‟s Sublime Form. Here and
 hereafter, you shall be honored. || 3 || Renouncing everything, I have come to the
 Guru‟s Sanctuary. My anxieties are over — O Nanak, I have found peace. || 4 || 61 ||
 130 || GAUREE, FIFTH MEHL: Remembering Him in meditation, all pains are gone.
 The jewel of the Naam, the Name of the Lord, comes to dwell in the mind. || 1 || O
 my mind, chant the Bani, the Hymns of the Lord of the Universe. The Holy People chant
-the Lord‟s Name with their tongues. || 1 || Pause || Without the One Lord, there is
+the Lord‟s Name with their tongues. || 1  Without the One Lord, there is
 no other at all. By His Glance of Grace, eternal peace is obtained. || 2 || Make the
 One Lord your friend, intimate and companion. Write in your mind the Word of the
 Lord, Har, Har. || 3 || The Lord Master is totally pervading everywhere. Nanak sings
 the Praises of the Inner-knower, the Searcher of hearts. || 4 || 62 || 131 || GAUREE,
 FIFTH MEHL: The whole world is engrossed in fear. Those who have the Naam, the
 Name of the Lord, as their Support, feel no fear. || 1 || Fear does not affect those
-who take to Your Sanctuary. You do whatever You please. || 1 || Pause || In
+who take to Your Sanctuary. You do whatever You please. || 1  In
 pleasure and in pain, the world is coming and going in reincarnation. Those who are
 pleasing to God, find peace. || 2 || Maya pervades the awesome ocean of fire. Those
 who have found the True Guru are calm and cool. || 3 || Please preserve me, O God,
 O Great Preserver! Says Nanak, what a helpless creature I am! || 4 || 63 || 132 ||
 GAUREE, FIFTH MEHL: By Your Grace, I chant Your Name. By Your Grace, I obtain a
 seat in Your Court. || 1 || Without You, O Supreme Lord God, there is no one. By
-Your Grace, everlasting peace is obtained. || 1 || Pause || If You abide in the mind,
+Your Grace, everlasting peace is obtained. || 1  If You abide in the mind,
 we do not suffer in sorrow. By Your Grace, doubt and fear run away. || 2 || O
 Supreme Lord God, Infinite Lord and Master, You are the Inner-knower, the Searcher of
 all hearts. || 3 || I offer this prayer to the True Guru: O Nanak, may I be blessed with
 the treasure of the True Name. || 4 || 64 || 133 || GAUREE, FIFTH MEHL: As the
 husk is empty without the grain, so is the mouth empty without the Naam, the Name of
 the Lord. || 1 || O mortal, chant continually the Name of the Lord, Har, Har. Without
-the Naam, cursed is the body, which shall be taken back by Death. || 1 || Pause ||
+the Naam, cursed is the body, which shall be taken back by Death. || 1 
 Without the Naam, no one‟s face shows good fortune. Without the Husband, where is
 the marriage? || 2 || Forgetting the Naam, and attached to other tastes, no desires
 are fulfilled. || 3 || O God, grant Your Grace, and give me this gift. 
@@ -1669,7 +1676,7 @@ Please, let Nanak chant Your Name, day and night. || 4 || 65 || 134 || GAUREE,
 FIFTH MEHL: You are All-powerful, You are my Lord and Master. Everything comes
 from You; You are the Inner-knower, the Searcher of hearts. || 1 || The Perfect
 Supreme Lord God is the Support of His humble servant. Millions are saved in Your
-Sanctuary. || 1 || Pause || As many creatures as there are — they are all Yours. By
+Sanctuary. || 1  As many creatures as there are — they are all Yours. By
 Your Grace, all sorts of comforts are obtained. || 2 || Whatever happens, is all
 according to Your Will. One who understands the Hukam of the Lord‟s Command, is
 absorbed in the True Lord. || 3 || Please grant Your Grace, God, and bestow this gift
@@ -1684,7 +1691,7 @@ remain absorbed in Him. || 3 || Grant Your Grace, God, and hear my prayer: pleas
 bless Nanak with the dust of the feet of Your slave. || 4 || 67 || 136 || GAUREE,
 FIFTH MEHL: Remembering the Lord in meditation, your misfortune shall be taken
 away, and all joy shall come to abide in your mind. || 1 || Meditate, O my mind, on
-the One Name. It alone shall be of use to your soul. || 1 || Pause || Night and day,
+the One Name. It alone shall be of use to your soul. || 1  Night and day,
 sing the Glorious Praises of the Infinite Lord, through the Pure Mantra of the Perfect
 Guru. || 2 || Give up other efforts, and place your faith in the Support of the One
 Lord. Taste the Ambrosial Essence of this, the greatest treasure. || 3 || They alone
@@ -1692,7 +1699,7 @@ cross over the treacherous world-ocean, O Nanak, upon whom the Lord casts His
 Glance of Grace. || 4 || 68 || 137 || GAUREE, FIFTH MEHL: I have enshrined the
 Lotus Feet of God within my heart. Meeting the Perfect True Guru, I am emancipated.
 || 1 || Sing the Glorious Praises of the Lord of the Universe, O my Siblings of Destiny.
-Joining the Holy Saints, meditate on the Lord‟s Name. || 1 || Pause || This human
+Joining the Holy Saints, meditate on the Lord‟s Name. || 1  This human
 body, so difficult to obtain, is redeemed when one receives the banner of the Naam
 from the True Guru. || 2 || Meditating in remembrance on the Lord, the state of
 perfection is attained. In the Saadh Sangat, the Company of the Holy, fear and doubt
@@ -1700,7 +1707,7 @@ depart. || 3 || Wherever I look, there I see the Lord pervading. Slave Nanak has
 entered the Lord‟s Sanctuary. || 4 || 69 || 138 || GAUREE, FIFTH MEHL: I am a
 sacrifice to the Blessed Vision of the Guru‟s Darshan. Chanting and meditating on the
 Name of the True Guru, I live. || 1 || O Supreme Lord God, O Perfect Divine Guru,
-show mercy to me, and commit me to Your service. || 1 || Pause || I enshrine His
+show mercy to me, and commit me to Your service. || 1  I enshrine His
 Lotus Feet within my heart. I offer my mind, body and wealth to the Guru, the Support
 of the breath of life. || 2 || My life is prosperous, fruitful and approved; I know that
 the Guru, the Supreme Lord God, is near me. || 3 || By great good fortune, I have
@@ -1710,7 +1717,7 @@ O Nanak, meeting the Guru, I have fallen in love with the Lord. || 4 || 70 || 13
 GAUREE, FIFTH MEHL: They do their evil deeds, and pretend otherwise; but in the
 Court of the Lord, they shall be bound and gagged like thieves. || 1 || Those who
 remember the Lord belong to the Lord. The One Lord is contained in the water, the
-land and the sky. || 1 || Pause || Their inner beings are filled with poison, and yet
+land and the sky. || 1  Their inner beings are filled with poison, and yet
 with their mouths, they preach words of Ambrosial Nectar. Bound and gagged in the
 City of Death, they are punished and beaten. || 2 || Hiding behind many screens,
 they commit acts of corruption, but in an instant, they are revealed to all the world. ||
@@ -1719,7 +1726,7 @@ the Naam, the Name of the Lord — O Nanak, the Lord, the Architect of Destiny, 
 merciful to them. || 4 || 71 || 140 || GAUREE, FIFTH MEHL: The Lord‟s Love shall
 never leave or depart. They alone understand, unto whom the Perfect Guru gives it. ||
 1 || One whose mind is attuned to the Lord‟s Love is true. The Love of the Beloved,
-the Architect of Destiny, is perfect. || 1 || Pause || Sitting in the Society of the
+the Architect of Destiny, is perfect. || 1  Sitting in the Society of the
 Saints, sing the Glorious Praises of the Lord. The color of His Love shall never fade
 away. || 2 || Without meditating in remembrance on the Lord, peace is not found. All
 the other loves and tastes of Maya are bland and insipid. || 3 || Those who are
@@ -1735,7 +1742,7 @@ Feet. || 3 || Says Nanak, faith comes into the mind of His servant, who continua
 drinks in the Immaculate Praises of the Lord. || 4 || 73 || 142 || GAUREE, FIFTH
 MEHL: Those who keep their minds attached to the Lord‟s Feet — pain, suffering and
 doubt run away from them. || 1 || Those who deal in the Lord‟s wealth are perfect.
-Those who are honored by the Lord are the true spiritual heroes. || 1 || Pause ||
+Those who are honored by the Lord are the true spiritual heroes. || 1 
 Those humble beings, unto whom the Lord of the Universe shows mercy, fall at the
 Guru‟s Feet. || 2 || They are blessed with peace, celestial bliss, tranquility and
 ecstasy; chanting and meditating, they live in supreme bliss. || 3 || In the Saadh
@@ -1743,7 +1750,7 @@ Sangat, I have earned the wealth of the Naam. Says Nanak, God has relieved my pa
 || 4 || 74 || 143 || GAUREE, FIFTH MEHL: Meditating in remembrance on the Lord,
 all suffering is eradicated. The Lord‟s Lotus Feet are enshrined within my mind. || 1 ||
 Chant the Lord‟s Name, hundreds of thousands of times, O my dear, and drink deeply
-of the Ambrosial Essence of God. || 1 || Pause || Peace, celestial bliss, pleasures
+of the Ambrosial Essence of God. || 1  Peace, celestial bliss, pleasures
 and the greatest ecstasy are obtained; chanting and meditating, you shall live in
 supreme bliss. || 2 || Sexual desire, anger, greed and ego are eradicated; in the
 Saadh Sangat, the Company of the Holy, all sinful mistakes are washed away. || 3 ||
@@ -1760,7 +1767,7 @@ Says Nanak, I have been unfaithful to my own nature. Please forgive me, O God, O
 Searcher of hearts. || 4 || 76 || 145 || GAUREE, FIFTH MEHL: I meditate on the
 Feet of God within my mind. This is my cleansing bath at all the sacred shrines of
 pilgrimage. || 1 || Meditate in remembrance on the Lord every day, O my Siblings of
-Destiny. Thus, the filth of millions of incarnations shall be taken away. || 1 || Pause ||
+Destiny. Thus, the filth of millions of incarnations shall be taken away. || 1 
 Enshrine the Lord‟s Sermon within your heart, and you shall obtain all the desires of
 your mind. || 2 || Redeemed is the life, death and birth of those, within whose hearts
 the Lord God abides. || 3 || Says Nanak, those humble beings are perfect, who are
@@ -1768,7 +1775,7 @@ blessed with the dust of the feet of the Holy. || 4 || 77 || 146 || GAUREE, FIFT
 MEHL: They eat and wear what they are given, but still, they deny the Lord. The
 messengers of the Righteous Judge of Dharma shall hunt them down. || 1 || They
 are unfaithful to the One, who has given them body and soul. Through millions of
-incarnations, for so many lifetimes, they wander lost. || 1 || Pause || Such is the
+incarnations, for so many lifetimes, they wander lost. || 1  Such is the
 lifestyle of the faithless cynics; everything they do is evil. || 2 || Within their minds,
 they have forgotten that Lord and Master, who created the soul, breath of life, mind
 and body. || 3 || Their wickedness and corruption have increased — they are
@@ -1778,7 +1785,7 @@ my bonds, and carry me across, with the Lord‟s Name. || 1 || Second Pause || 7
 147 || GAUREE, FIFTH MEHL: For their own advantage, they make God their friend.
 He fulfills all their desires, and blesses them with the state of liberation. || 1 ||
 Everyone should make Him such a friend. No one goes away empty-handed from Him.
-|| 1 || Pause || For their own purposes, they enshrine the Lord in the heart; all pain,
+|| 1  For their own purposes, they enshrine the Lord in the heart; all pain,
 suffering and disease are taken away. || 2 || Their tongues learn the habit of
 chanting the Lord‟s Name, and all their works are brought to perfection. || 3 || So
 many times, Nanak is a sacrifice to Him; fruitful is the Blessed Vision, the Darshan, of
@@ -1786,7 +1793,7 @@ my Lord of the Universe. || 4 || 79 || 148 || GAUREE, FIFTH MEHL: Millions of
 obstacles are removed in an instant, for those who listen to the Sermon of the Lord,
 Har, Har, in the Saadh Sangat, the Company of the Holy. || 1 || They drink in the
 sublime essence of the Lord‟s Name, the Ambrosial Elixir. Meditating on the Lord‟s Feet,
-hunger is taken away. || 1 || Pause || The treasure of all happiness, celestial peace
+hunger is taken away. || 1  The treasure of all happiness, celestial peace
 and poise, are obtained by those, whose hearts are filled with the Lord God. 
 ÓÓÓÓÓÓÓÓÓÓÓ 196 ÓÓÓÓÓÓÓÓÓ
 || 2 || All medicines and remedies, mantras and tantras are nothing more than ashes.
@@ -1804,12 +1811,12 @@ superstition. Nanak sees the Supreme Lord God pervading everywhere. || 4 || 81 |
 150 || GAUREE, FIFTH MEHL: The blind beggar is better off than the vicious king.
 Overcome by pain, the blind man invokes the Lord‟s Name. || 1 || You are the
 glorious greatness of Your slave. The intoxication of Maya leads the others to hell. || 1
-|| Pause || Gripped by disease, they invoke the Name. But those who are intoxicated
+ Gripped by disease, they invoke the Name. But those who are intoxicated
 with vice shall find no home, no place of rest. || 2 || One who is in love with the
 Lord‟s Lotus Feet, does not think of any other comforts. || 3 || Forever and ever,
 meditate on God, your Lord and Master. O Nanak, meet with the Lord, the Innerknower, the Searcher of hearts. || 4 || 82 || 151 || GAUREE, FIFTH MEHL: Twentyfour hours a day, the highway robbers are my companions. Granting His Grace, God has
 driven them away. || 1 || Everyone should dwell on the Sweet Name of such a Lord.
-God is overflowing with all power. || 1 || Pause || The world-ocean is burning hot!
+God is overflowing with all power. || 1  The world-ocean is burning hot!
 In an instant, God saves us, and carries us across. || 2 || There are so many bonds,
 they cannot be broken. Remembering the Naam, the Name of the Lord, the fruit of
 liberation is obtained. || 3 || By clever devices, nothing is accomplished. Grant Your
@@ -1825,7 +1832,7 @@ you shall be honored in the Court of the Lord. || 4 || 84 || 153 || GAUREE, FIFT
 MEHL: The Lord, our Friend, is totally pervading the water, the land and the skies.
 Doubts are dispelled by continually singing the Lord‟s Glorious Praises. || 1 || While
 rising up, and while lying down in sleep, the Lord is always with you, watching over
-you. Remembering Him in meditation, the fear of Death departs. || 1 || Pause || 
+you. Remembering Him in meditation, the fear of Death departs. || 1  
 ÓÓÓÓÓÓÓÓÓÓÓ 197 ÓÓÓÓÓÓÓÓÓ
 With God‟s Lotus Feet abiding in the heart, all suffering comes to an end. || 2 || The
 One Lord is my hope, honor, power and wealth. Within my mind is the Support of the
@@ -1843,7 +1850,7 @@ Chant of the Lord‟s Name. || 4 || 86 || 155 || GAUREE, FIFTH MEHL: Seek the
 Sanctuary of those who have come to know the Lord. Your mind and body shall become
 cool and peaceful, imbued with the Feet of the Lord. || 1 || If God, the Destroyer of
 fear, does not dwell within your mind, you shall spend countless incarnations in fear
-and dread. || 1 || Pause || Those who have the Lord‟s Name dwelling within their
+and dread. || 1  Those who have the Lord‟s Name dwelling within their
 hearts have all their desires and tasks fulfilled. || 2 || Birth, old age and death are in
 His Power, so remember that All-powerful Lord with each breath and morsel of food. ||
 3 || The One God is my Intimate, Best Friend and Companion. The Naam, the Name
@@ -1851,13 +1858,13 @@ of my Lord and Master, is Nanak‟s only Support. || 4 || 87 || 156 || GAUREE, F
 MEHL: When they are out and about, they keep Him enshrined in their hearts;
 returning home, the Lord of the Universe is still with them. || 1 || The Name of the
 Lord, Har, Har, is the Companion of His Saints. Their minds and bodies are imbued with
-the Love of the Lord. || 1 || Pause || By Guru‟s Grace, one crosses over the worldocean; the sinful mistakes of countless incarnations are all washed away. || 2 ||
+the Love of the Lord. || 1  By Guru‟s Grace, one crosses over the worldocean; the sinful mistakes of countless incarnations are all washed away. || 2 ||
 Honor and intuitive awareness are acquired through the Name of the Lord God. The
 Teachings of the Perfect Guru are immaculate and pure. || 3 || Within your heart,
 meditate on the His Lotus Feet. Nanak lives by beholding the Lord‟s Expansive Power.
 || 4 || 88 || 157 || GAUREE, FIFTH MEHL: Blessed is this place, where the Glorious
 Praises of the Lord of the Universe are sung. God Himself bestows peace and pleasure.
-|| 1 || Pause || Misfortune occurs where the Lord is not remembered in meditation.
+|| 1  Misfortune occurs where the Lord is not remembered in meditation.
 There are millions of joys where the Glorious Praises of the Lord are sung. || 1 ||
 Forgetting the Lord, all sorts of pains and diseases come. Serving God, the Messenger
 of Death will not even approach you. || 2 || Very blessed, stable and sublime is that
@@ -1866,14 +1873,14 @@ Master is with me. Nanak has met the Inner-knower, the Searcher of hearts. || 4 
 || 158 || GAUREE, FIFTH MEHL: That mortal who meditates on the Lord of the
 Universe, whether educated or uneducated, obtains the state of supreme dignity. || 1
 || In the Saadh Sangat, the Company of the Holy, meditate on the Lord of the World.
-Without the Name, wealth and property are false. || 1 || Pause || 
+Without the Name, wealth and property are false. || 1  
 ÓÓÓÓÓÓÓÓÓÓÓ 198 ÓÓÓÓÓÓÓÓÓ
 They alone are handsome, clever and wise, who surrender to the Will of God. || 2 ||
 Blessed is their coming into this world, if they recognize their Lord and Master in each
 and every heart. || 3 || Says Nanak, their good fortune is perfect, if they enshrine the
 Lord‟s Feet within their minds. || 4 || 90 || 159 || GAUREE, FIFTH MEHL: The Lord‟s
 servant does not associate with the faithless cynic. One is in the clutches of vice, while
-the other is in love with the Lord. || 1 || Pause || It would be like an imaginary rider
+the other is in love with the Lord. || 1  It would be like an imaginary rider
 on a decorated horse, or a eunuch caressing a woman. || 1 || It would be like tying
 up an ox and trying to milk it, or riding a cow to chase a tiger. || 2 || It would be like
 taking a sheep and worshipping it as the Elysian cow, the giver of all blessings; it would
@@ -1881,13 +1888,13 @@ be like going out shopping without any money. || 3 || O Nanak, consciously medit
 on the Lord‟s Name. Meditate in remembrance on the Lord Master, your Best Friend. ||
 4 || 91 || 160 || GAUREE, FIFTH MEHL: Pure and steady is that intellect, which
 drinks in the Lord‟s sublime essence. || 1 || Keep the Support of the Lord‟s Feet in
-your heart, and you shall be saved from the cycle of birth and death. || 1 || Pause ||
+your heart, and you shall be saved from the cycle of birth and death. || 1 
 Pure is that body, in which sin does not arise. In the Love of the Lord is pure glory. || 2
 || In the Saadh Sangat, the Company of the Holy, corruption is eradicated. This is the
 greatest blessing of all. || 3 || Imbued with loving devotional worship of the Sustainer
 of the Universe, Nanak asks for the dust of the feet of the Holy. || 4 || 92 || 161 ||
 GAUREE, FIFTH MEHL: Such is my love for the Lord of the Universe; through perfect
-good destiny, I have been united with Him. || 1 || Pause || As the wife is delighted
+good destiny, I have been united with Him. || 1  As the wife is delighted
 upon beholding her husband, so does the Lord‟s humble servant live by chanting the
 Naam, the Name of the Lord. || 1 || As the mother is rejuvenated upon seeing her
 son, so is the Lord‟s humble servant imbued with Him, through and through. || 2 ||
@@ -1896,7 +1903,7 @@ humble servant attached to His Lotus Feet. || 3 || May I never forget You, for e
 an instant, O Great Giver! Nanak‟s God is the Support of his breath of life. || 4 || 93 ||
 162 || GAUREE, FIFTH MEHL: Those humble beings who are accustomed to the
 Lord‟s sublime essence, are pierced through with loving devotional worship of the Lord‟s
-Lotus Feet. || 1 || Pause || All other pleasures look like ashes; without the Naam,
+Lotus Feet. || 1  All other pleasures look like ashes; without the Naam,
 the Name of the Lord, the world is fruitless. || 1 || He Himself rescues us from the
 deep dark well. Wondrous and Glorious are the Praises of the Lord of the Universe. || 2
 || In the woods and meadows, and throughout the three worlds, the Sustainer of the
@@ -1913,7 +1920,7 @@ ecstasy. Their minds and bodies are immersed in supreme ecstasy. || 3 || Slave
 Nanak is a sacrifice to those who have obtained the treasure of the Lord‟s Feet. || 4 ||
 95 || 164 || GAUREE, FIFTH MEHL: Do only that, by which no filth or pollution shall
 stick to you. Let your mind remain awake and aware, singing the Kirtan of the Lord‟s
-Praises. || 1 || Pause || Meditate in remembrance on the One Lord; do not be in
+Praises. || 1  Meditate in remembrance on the One Lord; do not be in
 love with duality. In the Society of the Saints, chant only the Name. || 1 || The karma
 of good actions, the Dharma of righteous living, religious rituals, fasts and worship —
 practice these, but do not know any other than the Supreme Lord God. || 2 || Those
@@ -1943,7 +1950,7 @@ Judge. || 3 || By their own actions, they are bound and gagged. All their wealth
 gone, along with their lives. || 4 || Nanak has taken to the Sanctuary of the Lord‟s
 Court; my Creator has preserved my honor. || 5 || 99 || 168 || GAUREE, FIFTH
 MEHL: The dust of the feet of the humble beings is so sweet to my mind. Perfect
-karma is the mortal‟s pre-ordained destiny. || 1 || Pause || 
+karma is the mortal‟s pre-ordained destiny. || 1  
 ÓÓÓÓÓÓÓÓÓÓÓ 200 ÓÓÓÓÓÓÓÓÓ
 The mind is overflowing with the greasy dirt of egotistical pride. With the dust of the
 feet of the Holy, it is scrubbed clean. || 1 || The body may be washed with loads of
@@ -1954,11 +1961,11 @@ success are all in the Lord‟s Name. With loving devotional worship, O Nanak, s
 Glorious Praises. || 4 || 100 || 169 || GAUREE, FIFTH MEHL: The Lord‟s slaves
 attain the highest status of life. Meeting them, the soul is enlightened. || 1 || Those
 who listen with their mind and ears to the Lord‟s meditative remembrance, are blessed
-with peace at the Lord‟s Gate, O mortal. || 1 || Pause || Twenty-four hours a day,
+with peace at the Lord‟s Gate, O mortal. || 1  Twenty-four hours a day,
 meditate on the Sustainer of the World. O Nanak, gazing on the Blessed Vision of His
 Darshan, I am enraptured. || 2 || 101 || 170 || GAUREE, FIFTH MEHL: Peace and
 tranquility have come; the Guru, the Lord of the Universe, has brought it. The burning
-sins have departed, O my Siblings of Destiny. || 1 || Pause || With your tongue,
+sins have departed, O my Siblings of Destiny. || 1  With your tongue,
 continually chant the Lord‟s Name. Disease shall depart, and you shall be saved. || 1 ||
 Contemplate the Glorious Virtues of the Unfathomable Supreme Lord God. In the Saadh
 Sangat, the Company of the Holy, you shall be emancipated. || 2 || Sing the Glories
@@ -1966,7 +1973,7 @@ of God each and every day; your afflictions shall be dispelled, and you shall be
 my humble friend. || 3 || In thought, word and deed, I meditate on my God. Slave
 Nanak has come to Your Sanctuary. || 4 || 102 || 171 || GAUREE, FIFTH MEHL: The
 Divine Guru has opened his eyes. Doubt has been dispelled; my service has been
-successful. || 1 || Pause || The Giver of joy has saved him from smallpox. The
+successful. || 1  The Giver of joy has saved him from smallpox. The
 Supreme Lord God has granted His Grace. || 1 || O Nanak, he alone lives, who chants
 the Naam, the Name of the Lord. In the Saadh Sangat, the Company of the Holy, drink
 deeply of the Lord‟s Ambrosial Nectar. || 2 || 103 || 172 || GAUREE, FIFTH MEHL:
@@ -1977,7 +1984,7 @@ find peace? With your tongue, chant the Praises of the Name of the Lord. || 1 ||
 173 || GAUREE, FIFTH MEHL: You are my Advisor; You are always with me. You
 preserve, protect and care for me. || 1 || Such is the Lord, our Help and Support in
 this world and the next. He protects the honor of His slave, O my Sibling of Destiny. ||
-1 || Pause || He alone exists hereafter; this place is in His Power. Twenty-four hours
+1  He alone exists hereafter; this place is in His Power. Twenty-four hours
 a day, O my mind, chant and meditate on the Lord. || 2 || His honor is
 acknowledged, and he bears the True Insignia; the Lord Himself issues His Royal
 Command. || 3 || He Himself is the Giver; He Himself is the Cherisher. Continually,
@@ -1986,19 +1993,19 @@ GAUREE, FIFTH MEHL: When the Perfect True Guru becomes merciful, the Lord of the
 World abides in the heart forever. || 1 || 
 ÓÓÓÓÓÓÓÓÓÓÓ 201 ÓÓÓÓÓÓÓÓÓ
 Meditating on the Lord, I have found eternal peace. The Sovereign Lord, the Perfect
-King, has shown His Mercy to me. || 1 || Pause || Says Nanak, one whose destiny is
+King, has shown His Mercy to me. || 1  Says Nanak, one whose destiny is
 perfect, meditates on the Name of the Lord, Har, Har, the Everlasting Husband. || 2 ||
 106 || GAUREE, FIFTH MEHL: He opens his loin-cloth, and spreads it out beneath
 him. Like a donkey, he gulps down all that comes his way. || 1 || Without good
 deeds, liberation is not obtained. The wealth of liberation is only obtained by meditating
-on the Naam, the Name of the Lord. || 1 || Pause || He performs worship
+on the Naam, the Name of the Lord. || 1  He performs worship
 ceremonies, applies the ceremonial tilak mark to his forehead, and takes his ritual
 cleansing baths; he pulls out his knife, and demands donations. || 2 || With his
 mouth, he recites the Vedas in sweet musical measures, and yet he does not hesitate to
 take the lives of others. || 3 || Says Nanak, when God showers His Mercy, even his
 heart becomes pure, and he contemplates God. || 4 || 107 || GAUREE, FIFTH MEHL:
 Remain steady in the home of your own self, O beloved servant of the Lord. The True
-Guru shall resolve all your affairs. || 1 || Pause || The Transcendent Lord has struck
+Guru shall resolve all your affairs. || 1  The Transcendent Lord has struck
 down the wicked and the evil. The Creator has preserved the honor of His servant. || 1
 || The kings and emperors are all under his power; he drinks deeply of the most
 sublime essence of the Ambrosial Naam. || 2 || Meditate fearlessly on the Lord God.
@@ -2009,7 +2016,7 @@ who is attuned to the Lord, shall not be burned in the fire. One who is attuned 
 Lord, shall not be enticed by Maya. One who is attuned to the Lord, shall not be
 drowned in water. One who is attuned to the Lord, is prosperous and fruitful. || 1 ||
 All fear is eradicated by Your Name. Joining the Sangat, the Holy Congregation, sing the
-Glorious Praises of the Lord, Har, Har. || 1 || Pause || One who is attuned to the
+Glorious Praises of the Lord, Har, Har. || 1  One who is attuned to the
 Lord, is free of all anxieties. One who is attuned to the Lord, is blessed with the Mantra
 of the Holy. One who is attuned to the Lord, is not haunted by the fear of death. One
 who is attuned to the Lord, sees all his hopes fulfilled. || 2 || One who is attuned to
@@ -2023,7 +2030,7 @@ sincere efforts, the mind is made peaceful and calm. Walking on the Lord‟s Way
 pains are taken away. Chanting the Naam, the Name of the Lord, the mind becomes
 blissful. Singing the Glorious Praises of the Lord, supreme bliss is obtained. || 1 ||
 There is joy all around, and peace has come to my home. Joining the Saadh Sangat, the
-Company of the Holy, misfortune disappears. || 1 || Pause || My eyes are purified,
+Company of the Holy, misfortune disappears. || 1  My eyes are purified,
 beholding the Blessed Vision of His Darshan. Blessed is the forehead which touches His
 Lotus Feet. Working for the Lord of the Universe, the body becomes fruitful. 
 ÓÓÓÓÓÓÓÓÓÓÓ 202 ÓÓÓÓÓÓÓÓÓ
@@ -2037,7 +2044,7 @@ peace. || 4 || 110 || GAUREE, FIFTH MEHL: The merits of taking millions of
 ceremonial cleansing baths, the giving of hundreds of thousands, billions and trillions in
 charity — these are obtained by those whose minds are filled with the Name of the
 Lord. || 1 || Those who sing the Glories of the Lord of the World are totally pure.
-Their sins are erased, in the Sanctuary of the Kind and Holy Saints. || 1 || Pause ||
+Their sins are erased, in the Sanctuary of the Kind and Holy Saints. || 1 
 The merits of performing all sorts of austere acts of penance and self-discipline, earning
 huge profits and seeing one‟s desires fulfilled — these are obtained by chanting the
 Name of the Lord, Har, Har, with the tongue. || 2 || The merits of reciting the
@@ -2049,7 +2056,7 @@ and contemplating the Naam within our hearts, O Nanak, God has showered His Merc
 upon us. || 4 || 111 || GAUREE, FIFTH MEHL: Meditating, meditating, meditating in
 remembrance, I have found peace. I have enshrined the Lotus Feet of the Guru within
 my heart. || 1 || The Guru, the Lord of the Universe, the Supreme Lord God, is
-perfect. Worshipping Him, my mind has found a lasting peace. || Pause || Night and
+perfect. Worshipping Him, my mind has found a lasting peace.  Night and
 day, I meditate on the Guru, and the Name of the Guru. Thus all my works are brought
 to perfection. || 2 || Beholding the Blessed Vision of His Darshan, my mind has
 become cool and tranquil, and the sinful mistakes of countless incarnations have been
@@ -2057,7 +2064,7 @@ washed away. || 3 || Says Nanak, where is fear now, O Siblings of Destiny? The G
 Himself has preserved the honor of His servant. || 4 || 112|| GAUREE, FIFTH MEHL:
 The Lord Himself is the Help and Support of His servants. He always cherishes them,
 like their father and mother. || 1 || In God‟s Sanctuary, everyone is saved. That
-Perfect True Lord is the Doer, the Cause of causes. || Pause || My mind now dwells
+Perfect True Lord is the Doer, the Cause of causes.  My mind now dwells
 in the Creator Lord. My fears have been dispelled, and my soul has found the most
 sublime peace. || 2 || The Lord has granted His Grace, and saved His humble
 servant. The sinful mistakes of so many incarnations have been washed away. || 3 ||
@@ -2066,20 +2073,20 @@ The Greatness of God cannot be described. Servant Nanak is forever in His Sanctu
 RAAG GAUREE CHAYTEE, FIFTH MEHL, DU-PADAS:
 
 The power of the Lord is universal and perfect, O Siblings of Destiny. So no pain can
-ever afflict me. || 1 || Pause || Whatever the Lord‟s slave wishes, O mother, the
+ever afflict me. || 1  Whatever the Lord‟s slave wishes, O mother, the
 Creator Himself causes that to be done. || 1 || God causes the slanderers to lose their
 honor. 
 ÓÓÓÓÓÓÓÓÓÓÓ 203 ÓÓÓÓÓÓÓÓÓ
 Nanak sings the Glorious Praises of the Fearless Lord. || 2 || 114 || GAUREE, FIFTH
 MEHL: O Brave and Powerful God, Ocean of Peace, I fell into the pit — please, take
-my hand. || 1 || Pause || My ears do not hear, and my eyes are not beautiful. I am
+my hand. || 1  My ears do not hear, and my eyes are not beautiful. I am
 in such pain; I am a poor cripple, crying at Your Door. || 1 || O Master of the poor
 and helpless, O Embodiment of Compassion, You are my Friend and Intimate, my
 Father and Mother. Nanak holds tight to the Lord‟s Lotus Feet in his heart; thus the
 Saints cross over the terrifying world-ocean. || 2 || 2 || 115 ||
 RAAG GAUREE BAIRAAGAN, FIFTH MEHL:
 
-O Dear Lord God, my Best Friend, please, abide with me. || 1 || Pause || Without
+O Dear Lord God, my Best Friend, please, abide with me. || 1  Without
 You, I cannot live, even for an instant, and my life in this world is cursed. O Breath of
 Life of the soul, O Giver of peace, each and every instant I am a sacrifice to You. || 1
 || Please, God, give me the Support of Your Hand; lift me up and pull me out of this
@@ -2096,7 +2103,7 @@ Holy, Nanak meditates on the Lord, and swims across the poisonous world-ocean. |
 GAUREE BAIRAAGAN, CHHANTS OF REHOAY, FIFTH MEHL:
 
 Is there anyone who will sing of the Beloved Lord? Surely, this will bring all pleasures
-and comforts. || Pause || The renunciate goes out into the woods, searching for
+and comforts.  The renunciate goes out into the woods, searching for
 Him. But those who embrace love for the One Lord are very rare. Those who find the
 Lord are very fortunate and blessed. || 1 || The Gods like Brahma and Sanak yearn
 for Him; the Yogis, celibates and Siddhas yearn for the Lord. One who is so blessed,
@@ -2108,7 +2115,7 @@ the Support of Your Name. || 4 || 1 || 117 ||
 ÓÓÓÓÓÓÓÓÓÓÓ 204 ÓÓÓÓÓÓÓÓÓ
 RAAG GAUREE POORBEE, FIFTH MEHL:
 
-By what virtues can I meet the Lord of life, O my mother? || 1 || Pause || I have no
+By what virtues can I meet the Lord of life, O my mother? || 1  I have no
 beauty, understanding or strength; I am a stranger, from far away. || 1 || I am not
 wealthy or youthful. I am an orphan — please, unite me with Yourself. || 2 ||
 Searching and searching, I have become a renunciate, free of desire. I wander around,
@@ -2116,7 +2123,7 @@ searching for the Blessed Vision of God‟s Darshan. || 3 || God is Compassionat
 Merciful to the meek; O Nanak, in the Saadh Sangat, the Company of the Holy, the fire
 of desire has been quenched. || 4 || 1 || 118 || GAUREE, FIFTH MEHL: The loving
 desire to meet my Beloved has arisen within my mind. I touch His Feet, and offer my
-prayer to Him. If only I had the great good fortune to meet the Saint. || 1 || Pause ||
+prayer to Him. If only I had the great good fortune to meet the Saint. || 1 
 I surrender my mind to Him; I place my wealth before Him. I totally renounce my
 selfish ways. One who teaches me the Sermon of the Lord God — night and day, I shall
 follow Him. || 1 || When the seed of the karma of past actions sprouted, I met the
@@ -2132,7 +2139,7 @@ the Guru of the World, the Lord of the Universe. So let yourself dwell at His Lo
 meek — please, listen to my prayer. Take my hand, O Lord and Master of Nanak; my
 body and soul all belong to You. || 2 || 3 || 120 || GAUREE, FIFTH MEHL: My mind
 yearns to behold the Lord in meditation. I think of Him, I hope and thirst for Him, day
-and night; is there any Saint who may bring Him near me? || 1 || Pause || I serve
+and night; is there any Saint who may bring Him near me? || 1  I serve
 the slaves of His slaves; in so many ways, I beg of Him. Setting them upon the scale, I
 have weighed all comforts and pleasures; without the Lord‟s Blessed Vision, they are all
 totally inadequate. || 1 || By the Grace of the Saints, I sing the Praises of the Ocean
@@ -2144,7 +2151,7 @@ RAAG GAUREE POORBEE, FIFTH MEHL:
 How may I meet my Master, the King, the Lord of the Universe? Is there any Saint, who
 can bestow such celestial peace, and show me the Way to Him? 
 ÓÓÓÓÓÓÓÓÓÓÓ 205 ÓÓÓÓÓÓÓÓÓ
-|| 1 || Pause || The Unseen Lord is deep within the self; He cannot be seen; the
+|| 1  The Unseen Lord is deep within the self; He cannot be seen; the
 curtain of egotism intervenes. In emotional attachment to Maya, all the world is asleep.
 Tell me, how can this doubt be dispelled? || 1 || The one lives together with the other
 in the same house, but they do not talk to one another, O Siblings of Destiny. Without
@@ -2157,7 +2164,7 @@ Nanak, there is no difference between them, O Siblings of Destiny. || 4 || This 
 my Sovereign Lord King, the Lord of the Universe, is met; celestial bliss is attained in an
 instant, and doubt is dispelled. Meeting Him, my light merges in the Light. || 1 ||
 Second Pause || 1 || 122 || GAUREE, FIFTH MEHL: I am intimate with Him; granting
-His Grace, my Kind Beloved has told me of the True Guru. || 1 || Pause || Wherever
+His Grace, my Kind Beloved has told me of the True Guru. || 1  Wherever
 I look, there You are; I am totally convinced of this. Unto whom should I pray? The
 Lord Himself hears all. || 1 || My anxiety is over. The Guru has cut away my bonds,
 and I have found eternal peace. Whatever shall be, shall be in the end; so where can
@@ -2168,7 +2175,7 @@ Where else should we go? || 3 || The same gold is fashioned into various article
 just so, the Lord has made the many patterns of the creation. Says Nanak, the Guru has
 dispelled my doubt; in this way, my essence merges into God‟s essence. || 4 || 2 ||
 123 || GAUREE, FIFTH MEHL: This life is diminishing, day and night. Meeting with
-the Guru, your affairs shall be resolved. || 1 || Pause || Listen, my friends, I beg of
+the Guru, your affairs shall be resolved. || 1  Listen, my friends, I beg of
 you: now is the time to serve the Saints! In this world, earn the profit of the Lord‟s
 Name, and hereafter, you shall dwell in peace. || 1 || This world is engrossed in
 corruption and cynicism. Only those who know God are saved. Those who are
@@ -2179,7 +2186,7 @@ your own inner being, you shall obtain the Mansion of the Lord‟s Presence with
 ease. You shall not be consigned again to the wheel of reincarnation. || 3 || O Innerknower, Searcher of hearts, Primal Being, Architect of Destiny: please fulfill this
 yearning of my mind. Nanak, Your slave, begs for this happiness: let me be the dust of
 the feet of the Saints. || 4 || 3 || 124 || GAUREE, FIFTH MEHL: Save me, O My
-Father God. I am worthless and without virtue; all virtues are Yours. || 1 || Pause ||
+Father God. I am worthless and without virtue; all virtues are Yours. || 1 
 The five vicious thieves are assaulting my poor being; save me, O Savior Lord! 
 ÓÓÓÓÓÓÓÓÓÓÓ 206 ÓÓÓÓÓÓÓÓÓ
 They are tormenting and torturing me. I have come, seeking Your Sanctuary. || 1 ||
@@ -2191,7 +2198,7 @@ Fearless Lord, and now I practice the Word of the Guru‟s Shabad. || 3 || I hav
 conquered those terrible evil-doers, and my speech is now sweet and sublime. Says
 Nanak, the Divine Light has dawned within my mind; I have obtained the state of
 Nirvaanaa. || 4 || 4 || 125 || GAUREE, FIFTH MEHL: He is the Eternal King. The
-Fearless Lord abides with you. So where does this fear come from? || 1 || Pause ||
+Fearless Lord abides with you. So where does this fear come from? || 1 
 In one person, You are arrogant and proud, and in another, You are meek and humble.
 In one person, You are all by Yourself, and in another, You are poor. || 1 || In one
 person, you are a Pandit, a religious scholar and a preacher, and in another, You are
@@ -2204,7 +2211,7 @@ can this poor being do? || 4 || The One who created the thing, understands it; H
 fashioned all of this. Says Nanak, the Lord and Master is Infinite; He alone understands
 the value of His Creation. || 5 || 5 || 126 || GAUREE, FIFTH MEHL: Give them up —
 give up the pleasures of corruption; you are entangled in them, you crazy fool, like an
-animal grazing in the green fields. || 1 || Pause || That which you believe to be of
+animal grazing in the green fields. || 1  That which you believe to be of
 use to you, shall not go even an inch with you. Naked you came, and naked you shall
 depart. You shall go round and round the cycle of birth and death, and you shall be
 food for Death. || 1 || Watching, watching the transitory dramas of the world, you are
@@ -2216,7 +2223,7 @@ one little bit. || 3 || The Guru has shown me that this is the way of the world;
 abandoned the dwelling of pride, and entered Your Sanctuary. The Saint has shown me
 the Path of God; slave Nanak has implanted devotional worship and the Praise of the
 Lord. || 4 || 6 || 127 || GAUREE, FIFTH MEHL: Except for You, who is mine? O my
-Beloved, You are the Support of the breath of life. || 1 || Pause || You alone know
+Beloved, You are the Support of the breath of life. || 1  You alone know
 the condition of my inner being. You are my Beautiful Friend. 
 ÓÓÓÓÓÓÓÓÓÓÓ 207 ÓÓÓÓÓÓÓÓÓ
 I receive all comforts from You, O my Unfathomable and Immeasurable Lord and
@@ -2228,7 +2235,7 @@ been abolished, beholding Your Blessed Vision in the Saadh Sangat, the Company o
 the Holy. || 3 || I wash the Guru‟s Feet and serve Him; I am a sacrifice to Him,
 100,000 times. By His Grace, servant Nanak has crossed over this terrifying worldocean; I am united with my Beloved. || 4 || 7 || 128 || GAUREE, FIFTH MEHL: Who
 can please You, except You Yourself? Gazing upon Your Beauteous Form, all are
-entranced. || 1 || Pause || In the heavenly paradise, in the nether regions of the
+entranced. || 1  In the heavenly paradise, in the nether regions of the
 underworld, on the planet earth and throughout the galaxies, the One Lord is pervading
 everywhere. Everyone calls upon You with their palms pressed together, saying, “Shiva,
 Shiva”. O Merciful Lord and Master, everyone cries out for Your Help. || 1 || Your
@@ -2236,7 +2243,7 @@ Name, O Lord and Master, is the Purifier of sinners, the Giver of peace, immacul
 cooling and soothing. O Nanak, spiritual wisdom, meditation and glorious greatness
 come from dialogue and discourse with Your Saints. || 2 || 8 || 129 || GAUREE,
 FIFTH MEHL: Meet with me, O my Dear Beloved. O God, whatever You do — that
-alone happens. || 1 || Pause || Wandering around through countless incarnations, I
+alone happens. || 1  Wandering around through countless incarnations, I
 endured pain and suffering in so many lives, over and over again. By Your Grace, I
 obtained this human body; grant me the Blessed Vision of Your Darshan, O Sovereign
 Lord King. || 1 || That which pleases His Will has come to pass; no one else can do
@@ -2260,7 +2267,7 @@ forever new and immaculate. Nanak has earned this wealth of the Lord. || 4 || 10
 131 || 
 ÓÓÓÓÓÓÓÓÓÓÓ 208 ÓÓÓÓÓÓÓÓÓ
 GAUREE, FIFTH MEHL: I came to the Guru, to learn the Way of Yoga. The True Guru
-has revealed it to me through the Word of the Shabad. || 1 || Pause || He is
+has revealed it to me through the Word of the Shabad. || 1  He is
 contained in the nine continents of the world, and within this body; each and every
 moment, I humbly bow to Him. I have made the Guru‟s Teachings my ear-rings, and I
 have enshrined the One Formless Lord within my being. || 1 || I have brought the
@@ -2276,7 +2283,7 @@ met, who cuts away the bonds of Maya. Nanak serves and adores this wondrous
 person, and kisses his feet. || 5 || 11 || 132 || GAUREE, FIFTH MEHL: The Naam,
 the Name of the Lord, is an incomparably beautiful treasure. Listen, everyone, and
 meditate on it, O friends. Those, unto whom the Guru has given the Lord‟s medicine —
-their minds become pure and immaculate. || 1 || Pause || Darkness is dispelled
+their minds become pure and immaculate. || 1  Darkness is dispelled
 from within that body, in which the Divine Light of the Guru‟s Shabad shines. The noose
 of doubt is cut away from those who place their faith in the Saadh Sangat, the
 Company of the Holy. || 1 || The treacherous and terrifying world-ocean is crossed
@@ -2286,7 +2293,7 @@ minds and bodies are satisfied and satiated. O Nanak, the Dear Lord gives it onl
 those who surrender to the Lord‟s Command. || 3 || 12 || 133 || GAUREE, FIFTH
 MEHL: Please be kind and compassionate, O Lord of my life; I am helpless, and I seek
 Your Sanctuary, God. Please, give me Your Hand, and lift me up, out of the deep dark
-pit. I have no clever tricks at all. || 1 || Pause || You are the Doer, the Cause of
+pit. I have no clever tricks at all. || 1  You are the Doer, the Cause of
 causes — You are everything. You are All-powerful; there is no other than You. You
 alone know Your condition and extent. They alone become Your servants, upon whose
 foreheads such good destiny is recorded. || 1 || You are imbued with Your servant,
@@ -2302,7 +2309,7 @@ the breath of life.
 Please show mercy to Nanak, O God, that he may remain in the Society of the Saints.
 || 4 || 13 || 134 || GAUREE, FIFTH MEHL: O Saint, You are attuned to the Lord.
 Please stand my me, Architect of Destiny; please take me to my destination, Great
-Giver. || 1 || Pause || You alone know Your mystery; You are the Perfect Architect
+Giver. || 1  You alone know Your mystery; You are the Perfect Architect
 of Destiny. I am a helpless orphan — please keep me under Your Protection and save
 me. || 1 || Your Feet are the boat to carry us across the world-ocean; You alone
 know Your ways. Those whom You keep protected, by Your Kindness, cross over to the
@@ -2312,7 +2319,7 @@ Lord. || 3 || I am without virtue — please bless me with virtue, so that my mi
 might chant the Name of the Lord. By the Grace of the Saints, Nanak has met the Lord;
 his mind and body are soothed and satisfied. || 4 || 14 || 135 || GAUREE, FIFTH
 MEHL: I am intuitively absorbed in the Divine Lord. The Divine True Guru has become
-Merciful to me. || 1 || Pause || Cutting away the halter, He has made me His slave,
+Merciful to me. || 1  Cutting away the halter, He has made me His slave,
 and now I work for the Saints. I have become a worshipper of the One Name; the Guru
 has shown me this amazing wonder. || 1 || The Divine Light has dawned, and
 everything is illuminated; the Guru has revealed this spiritual wisdom to my mind.
@@ -2325,7 +2332,7 @@ Sovereign King. Says Nanak, our Lord and Master is inaccessible and unfathomable
 Lord‟s devotees take His Name as their Support. || 4 || 15 || 136 || GAUREE, FIFTH
 MEHL: He is the Supreme Lord God, the Perfect Transcendent Lord; O my mind, hold
 tight to the Support of the One who established the solar systems and galaxies. Chant
-the Name of that Lord. || 1 || Pause || Renounce the intellectual cleverness of your
+the Name of that Lord. || 1  Renounce the intellectual cleverness of your
 mind, O humble servants of the Lord; understanding the Hukam of His Command,
 peace is found. Whatever God does, accept that with pleasure; in comfort and in
 suffering, meditate on Him. || 1 || The Creator emancipates millions of sinners in an
@@ -2339,7 +2346,7 @@ His Sanctuary; no one returns from Him empty-handed. || 4 || 16 || 137 ||
 RAAG GAUREE POORBEE, FIFTH MEHL:
 
 Never forget the Lord, Har, Har, from your mind. Here and hereafter, He is the Giver of
-all peace. He is the Cherisher of all hearts. || 1 || Pause || He removes the most
+all peace. He is the Cherisher of all hearts. || 1  He removes the most
 terrible pains in an instant, if the tongue repeats His Name. In the Lord‟s Sanctuary
 there is soothing coolness, peace and tranquility. He has extinguished the burning fire.
 || 1 || He saves us from the hellish pit of the womb, and carries us across the
@@ -2353,7 +2360,7 @@ RAAG GAUREE CHAYTEE, FIFTH MEHL:
 
 There is no peace without devotional worship of the Lord. Be victorious, and win the
 priceless jewel of this human life, by meditating on Him in the Saadh Sangat, the
-Company of the Holy, even for an instant. || 1 || Pause || Many have renounced
+Company of the Holy, even for an instant. || 1  Many have renounced
 and left their children, wealth, spouses, joyful games and pleasures. || 1 || Horses,
 elephants and the pleasures of power — leaving these behind, the fool must depart
 naked. || 2 || The body, scented with musk and sandalwood — that body shall come
@@ -2367,7 +2374,7 @@ out far and wide. Only the virtuous are saved, chanting and meditating on the Lo
 2 || Intoxicated with Maya, the people are asleep. Meeting the Guru, doubt and fear
 are dispelled. || 3 || Says Nanak, meditate on the One Lord; behold Him in each and
 every heart. || 4 || 2 || 140 || GAUREE, FIFTH MEHL: You alone are my Chief
-Advisor. I serve You with the Support of the Guru. || 1 || Pause || By various
+Advisor. I serve You with the Support of the Guru. || 1  By various
 devices, I could not find You. Taking hold of me, the Guru has made me Your slave. ||
 1 || I have conquered the five tyrants. By Guru‟s Grace, I have vanquished the army
 of evil. || 2 || I have received the One Name as His bounty and blessing. Now, I dwell
@@ -2376,21 +2383,21 @@ in peace, poise and bliss. || 3 ||
 The slaves of God are good. O Nanak, their faces are radiant. || 4 || 3 || 141 ||
 GAUREE, FIFTH MEHL: Hey, soul: your only Support is the Naam, the Name of the
 Lord. Whatever else you do or make happen, the fear of death still hangs over you. ||
-1 || Pause || He is not obtained by any other efforts. By great good fortune,
+1  He is not obtained by any other efforts. By great good fortune,
 meditate on the Lord. || 1 || You may know hundreds of thousands of clever tricks,
 but not even one will be of any use at all hereafter. || 2 || Good deeds done in the
 pride of ego are swept away, like the house of sand by water. || 3 || When God the
 Merciful shows His Mercy, Nanak receives the Naam in the Saadh Sangat, the Company
 of the Holy. || 4 || 4 || 142 || GAUREE, FIFTH MEHL: I am a sacrifice, dedicated
 hundreds of thousands of times, to my Lord and Master. His Name, and His Name
-alone, is the Support of the breath of life. || 1 || Pause || You alone are the Doer,
+alone, is the Support of the breath of life. || 1  You alone are the Doer,
 the Cause of causes. You are the Support of all beings and creatures. || 1 || O God,
 You are my power, authority and youth. You are absolute, without attributes, and also
 related, with the most sublime attributes. || 2 || Here and hereafter, You are my
 Savior and Protector. By Guru‟s Grace, some understand You. || 3 || God is Allknowing, the Inner-knower, the Searcher of hearts. You are Nanak‟s strength and
 support. || 4 || 5 || 143 || GAUREE, FIFTH MEHL: Worship and adore the Lord, Har,
 Har, Har. In the Society of the Saints, He dwells in the mind; doubt, emotional
-attachment and fear are vanquished. || 1 || Pause || The Vedas, the Puraanas and
+attachment and fear are vanquished. || 1  The Vedas, the Puraanas and
 the Simritees are heard to proclaim that the Lord‟s servant dwells as the highest of all.
 || 1 || All places are filled with fear — know this well. Only the Lord‟s servants are free
 of fear. || 2 || People wander through 8.4 million incarnations. God‟s people are not
@@ -2398,14 +2405,14 @@ subject to birth and death. || 3 || Nanak has taken to the Sanctuary of the Lord
 Saints; he has given up power, wisdom, cleverness and egotism. || 4 || 6 || 144 ||
 GAUREE, FIFTH MEHL: O my mind, sing the Glorious Praises of the Lord‟s Name.
 Serve the Lord continually and continuously; with each and every breath, meditate on
-the Lord. || 1 || Pause || In the Society of the Saints, the Lord dwells in the mind,
+the Lord. || 1  In the Society of the Saints, the Lord dwells in the mind,
 and pain, suffering, darkness and doubt depart. || 1 || That humble being, who
 meditates on the Lord, by the Grace of the Saints, is not afflicted with pain. || 2 ||
 Those unto whom the Guru gives the Mantra of the Lord‟s Name, are saved from the
 fire of Maya. || 3 || Be kind to Nanak, O God; let the Lord‟s Name dwell within my
 mind and body. || 4 || 7 || 145 || GAUREE, FIFTH MEHL: With your tongue, chant
 the Name of the One Lord. In this world, it shall bring you peace, comfort and great
-joy; hereafter, it shall go with your soul, and shall be of use to you. || 1 || Pause ||
+joy; hereafter, it shall go with your soul, and shall be of use to you. || 1 
 The disease of your ego shall be eradicated. By Guru‟s Grace, practice Raja Yoga, the
 Yoga of meditation and success. || 1 || Those who taste the sublime essence of the
 Lord have their thirst quenched. || 2 || Those who have found the Lord, the Treasure
@@ -2415,27 +2422,27 @@ given the Lord‟s Name, Har, Har — O Nanak, their fears are removed. || 4 || 
 ÓÓÓÓÓÓÓÓÓÓÓ 212 ÓÓÓÓÓÓÓÓÓ
 GAUREE, FIFTH MEHL: One who forgets the Lord‟s Name, suffers in pain. Those who
 join the Saadh Sangat, the Company of the Holy, and dwell upon the Lord, find the
-Ocean of virtue. || 1 || Pause || Those Gurmukhs whose hearts are filled with
+Ocean of virtue. || 1  Those Gurmukhs whose hearts are filled with
 wisdom, hold the nine treasures, and the miraculous spiritual powers of the Siddhas in
 the palms of their hands. || 1 || Those who know the Lord God as their Master, do
 not lack anything. || 2 || Those who realize the Creator Lord, enjoy all peace and
 pleasure. || 3 || Those whose inner homes are filled with the Lord‟s wealth — says
 Nanak, in their company, pain departs. || 4 || 9 || 147 || GAUREE, FIFTH MEHL:
 Your pride is so great, but what about your origins? You cannot remain, no matter how
-much you try to hold on. || 1 || Pause || That which is forbidden by the Vedas and
+much you try to hold on. || 1  That which is forbidden by the Vedas and
 the Saints — with that, you are in love. Like the gambler losing the game of chance,
 you are held in the power of sensory desires. || 1 || The One who is All-powerful to
 empty out and fill up — you have no love for His Lotus Feet. O Nanak, I have been
 saved, in the Saadh Sangat, the Company of the Holy. I have been blessed by the
 Treasure of Mercy. || 2 || 10 || 148 || GAUREE, FIFTH MEHL: I am the slave of my
-Lord and Master. I eat whatever God gives me. || 1 || Pause || Such is my Lord and
+Lord and Master. I eat whatever God gives me. || 1  Such is my Lord and
 Master. In an instant, He creates and embellishes. || 1 || I do that work which
 pleases my Lord and Master. I sing the songs of God‟s glory, and His wondrous play. ||
 2 || I seek the Sanctuary of the Lord‟s Prime Minister; beholding Him, my mind is
 comforted and consoled. || 3 || The One Lord is my support, the One is my steady
 anchor. Servant Nanak is engaged in the Lord‟s work. || 4 || 11 || 149 || GAUREE,
 FIFTH MEHL: Is there anyone, who can shatter his ego, and turn his mind away from
-this sweet Maya? || 1 || Pause || Humanity is in spiritual ignorance; people see
+this sweet Maya? || 1  Humanity is in spiritual ignorance; people see
 things that do not exist. The night is dark and gloomy; how will the morning dawn? ||
 1 || Wandering, wandering all around, I have grown weary; trying all sorts of things, I
 have been searching. Says Nanak, He has shown mercy to me; I have found the
@@ -2447,7 +2454,7 @@ comprehension. Hearing His Praises, millions of sins are erased. || 2 || O God,
 Treasure of Mercy, please bless Nanak with Your kindness, that he may repeat the
 Name of the Lord, Har, Har. || 3 || 13 || 151 || GAUREE POORBEE, FIFTH MEHL: O
 my mind, in the Sanctuary of God, peace is found. That day, when the Giver of life and
-peace is forgotten — that day passes uselessly. || 1 || Pause || You have come as a
+peace is forgotten — that day passes uselessly. || 1  You have come as a
 guest for one short night, and yet you hope to live for many ages. Households,
 mansions and wealth — whatever is seen, is like the shade of a tree. || 1 || My body,
 wealth, and all my gardens and property shall all pass away. You have forgotten your
@@ -2461,7 +2468,7 @@ in the Name of the Lord. The Guru has liberated me from bondage; servant Nanak s
 the Glorious Praises of the Lord. || 4 || 14 || 152 || GAUREE, FIFTH MEHL: O my
 mind, dwell always upon the Guru, Guru, Guru. The Guru has made the jewel of this
 human life prosperous and fruitful. I am a sacrifice to the Blessed Vision of His Darshan.
-|| 1 || Pause || As many breaths and morsels as you take, O my mind — so many
+|| 1  As many breaths and morsels as you take, O my mind — so many
 times, sing His Glorious Praises. When the True Guru becomes merciful, then this
 wisdom and understanding is obtained. || 1 || O my mind, taking the Naam, you shall
 be released from the bondage of death, and the peace of all peace will be found.
@@ -2474,7 +2481,7 @@ peace of the Kirtan of the Lord‟s Praises. All his sorrows have been dispelled
 || 153 ||
 RAAG GAUREE, FIFTH MEHL:
 
-The thirst of only a few is quenched. || 1 || Pause || People may accumulate
+The thirst of only a few is quenched. || 1  People may accumulate
 hundreds of thousands, millions, tens of millions, and yet the mind is not restrained.
 They only yearn for more and more. || 1 || They may have all sorts of beautiful
 women, but still, they commit adultery in the homes of others. They do not distinguish
@@ -2484,13 +2491,13 @@ engrossed in poison and corruption. || 3 || Those, unto whom the Lord shows His
 Mercy, remain dead while yet alive. In the Saadh Sangat, the Company of the Holy,
 they cross over the ocean of Maya. O Nanak, those humble beings are honored in the
 Court of the Lord. || 4 || 1 || 154 || GAUREE, FIFTH MEHL: The Lord is the essence
-of all. || 1 || Pause || Some practice Yoga, some indulge in pleasures; some live in
+of all. || 1  Some practice Yoga, some indulge in pleasures; some live in
 spiritual wisdom, some live in meditation. Some are bearers of the staff. || 1 || Some
 chant in meditation, some practice deep, austere meditation; some worship Him in
 adoration, some practice daily rituals. Some live the life of a wanderer. || 2 || Some
 live by the shore, some live on the water; some study the Vedas. Nanak loves to
 worship the Lord. || 3 || 2 || 155 || GAUREE, FIFTH MEHL: To sing the Kirtan of the
-Lord‟s Praises is my treasure. || 1 || Pause || You are my delight, You are my praise.
+Lord‟s Praises is my treasure. || 1  You are my delight, You are my praise.
 You are my beauty, You are my love. O God, You are my hope and support. || 1 ||
 You are my pride, You are my wealth. You are my honor, You are my breath of life. The
 Guru has repaired that which was broken. || 2 || You are in the household, and You
@@ -2498,7 +2505,7 @@ are in the forest.
 ÓÓÓÓÓÓÓÓÓÓÓ 214 ÓÓÓÓÓÓÓÓÓ
 You are in the village, and You are in the wilderness. Nanak: You are near, so very
 near! || 3 || 3 || 156 || GAUREE, FIFTH MEHL: I am intoxicated, intoxicated with the
-Love of the Lord. || 1 || Pause || I drink it in — I am drunk with it. The Guru has
+Love of the Lord. || 1  I drink it in — I am drunk with it. The Guru has
 given it to me in charity. My mind is drenched with it. || 1 || It is my furnace, it is the
 cooling plaster. It is my love, it is my longing. My mind knows it as peace. || 2 || I
 enjoy intuitive peace, and I play in bliss; the cycle of reincarnation is ended for me, and
@@ -2507,7 +2514,7 @@ Shabad. || 3 || 4 || 157 ||
 RAAG GAUREE MAALWAA, FIFTH MEHL:
 
 Chant the Lord‟s Name; O my friend, chant it. Hereafter, the path is terrifying and
-treacherous. || 1 || Pause || Serve, serve, forever serve the Lord. Death hangs over
+treacherous. || 1  Serve, serve, forever serve the Lord. Death hangs over
 your head. Do seva, selfless service, for the Holy Saints, and the noose of Death shall
 be cut away. || 1 || You may make burnt offerings, sacrificial feasts and pilgrimages
 to sacred shrines in egotism, but your corruption only increases. You are subject to both
@@ -2521,7 +2528,7 @@ RAAG GAUREE MAALAA, FIFTH MEHL:
 
 Adopting the innocent mind of a child, I have found peace. Joy and sorrow, profit and
 loss, birth and death, pain and pleasure — they are all the same to my consciousness,
-since I met the Guru. || 1 || Pause || As long as I plotted and planned things, I was
+since I met the Guru. || 1  As long as I plotted and planned things, I was
 full of frustration. When I met the Kind, Perfect Guru, then I obtained bliss so easily. ||
 1 || The more clever tricks I tried, the more bonds I was saddled with. When the Holy
 Saint placed His Hand upon my forehead, then I was liberated. || 2 || As long as I
@@ -2534,7 +2541,7 @@ renounced my desires; I have renounced them. I have renounced them; meeting the
 Guru, I have renounced them. All peace, joy, happiness and pleasures have come since
 I surrendered to the Will of the Lord of the Universe. 
 ÓÓÓÓÓÓÓÓÓÓÓ 215 ÓÓÓÓÓÓÓÓÓ
-|| 1 || Pause || Honor and dishonor are the same to me; I have placed my forehead
+|| 1  Honor and dishonor are the same to me; I have placed my forehead
 upon the Guru‟s Feet. Wealth does not excite me, and misfortune does not disturb me;
 I have embraced love for my Lord and Master. || 1 || The One Lord and Master
 dwells in the home; He is seen in the wilderness as well. I have become fearless; the
@@ -2545,7 +2552,7 @@ seeks Your Support; he has come to Your Sanctuary. In the Love of the Naam, the
 Name of the Lord, he enjoys intuitive peace; pain no longer touches him. || 4 || 2 ||
 160 || GAUREE MAALAA, FIFTH MEHL: I have found the jewel of my Beloved within
 my mind. My body is cooled, my mind is cooled and soothed, and I am absorbed into
-the Shabad, the Word of the True Guru. || 1 || Pause || My hunger has departed,
+the Shabad, the Word of the True Guru. || 1  My hunger has departed,
 my thirst has totally departed, and all my anxiety is forgotten. The Perfect Guru has
 placed His Hand upon my forehead; conquering my mind, I have conquered the whole
 world. || 1 || Satisfied and satiated, I remain steady within my heart, and now, I do
@@ -2557,7 +2564,7 @@ which cannot be described. They alone know it, who have tasted it. Says Nanak, t
 Truth has been revealed to me. The Guru has given me the treasure; I have taken it
 and enshrined it within my heart. || 4 || 3 || 161 || GAUREE MAALAA, FIFTH MEHL:
 Those who take to the Sanctuary of the Lord, the King, are saved. All other people, in
-the mansion of Maya, fall flat on their faces on the ground. || 1 || Pause || The
+the mansion of Maya, fall flat on their faces on the ground. || 1  The
 great men have studied the Shaastras, the Simritees and the Vedas, and they have said
 this: “Without the Lord‟s meditation, there is no emancipation, and no one has ever
 found peace.” || 1 || People may accumulate the wealth of the three worlds, but the
@@ -2568,7 +2575,7 @@ burn, and are never satisfied; without the Lord‟s Name, it is all useless. || 
 the Name of the Lord, my friend; this is the essence of perfect peace. In the Saadh
 Sangat, the Company of the Holy, birth and death are ended. Nanak is the dust of the
 feet of the humble. || 4 || 4 || 162 || GAUREE MAALAA, FIFTH MEHL: Who can help
-me understand my condition? Only the Creator knows it. || 1 || Pause || This person
+me understand my condition? Only the Creator knows it. || 1  This person
 does things in ignorance; he does not chant in meditation, and does not perform any
 deep, self-disciplined meditation. This mind wanders around in the ten directions —
 how can it be restrained? || 1 || “I am the lord, the master of my mind, body, wealth
@@ -2581,7 +2588,7 @@ the Immaculate and Formless Lord God was all alone, He did everything by Himself
 Himself is the Doer. The True Guru has dispelled my doubts. || 4 || 5 || 163 ||
 GAUREE MAALAA, FIFTH MEHL: Without the Lord, other actions are useless.
 Meditative chants, intense deep meditation, austere self-discipline and rituals — these
-are plundered in this world. || 1 || Pause || Fasting, daily rituals, and austere selfdiscipline — those who keep the practice of these, are rewarded with less than a shell.
+are plundered in this world. || 1  Fasting, daily rituals, and austere selfdiscipline — those who keep the practice of these, are rewarded with less than a shell.
 Hereafter, the way is different, O Siblings of Destiny. There, these things are of no use
 at all. || 1 || Those who bathe at sacred shrines of pilgrimage, and wander over the
 earth, find no place of rest hereafter. There, these are of no use at all. By these things,
@@ -2591,7 +2598,7 @@ the One Pure Word, utter total nonsense. || 3 || Nanak voices this opinion: thos
 practice it, swim across. Serve the Guru, and meditate on the Naam; renounce the
 egotistical pride from your mind. || 4 || 6 || 164 || GAUREE MAALAA, FIFTH MEHL:
 O Lord, I chant Your Name, Har, Har, Har. I cannot do anything by myself, O Lord and
-Master. As You keep me, so I remain. || 1 || Pause || What can the mere mortal do?
+Master. As You keep me, so I remain. || 1  What can the mere mortal do?
 What is in the hands of this poor creature? As You attach us, so we are attached, O my
 Perfect Lord and Master. || 1 || Take pity on me, O Great Giver of all, that I may
 enshrine love for Your Form alone. Nanak offers this prayer to the Lord, that he may
@@ -2651,7 +2658,7 @@ look beautiful in the True Court; night and day, they are happy. They are imbued
 the Love of the Transcendent Lord; servant Nanak is a sacrifice to them. || 4 || 1 ||
 169 || GAUREE, FIFTH MEHL, MAAJH: The Destroyer of sorrow is Your Name, Lord;
 the Destroyer of sorrow is Your Name. Twenty-four hours a day, dwell upon the wisdom
-of the Perfect True Guru. || 1 || Pause || That heart, in which the Supreme Lord
+of the Perfect True Guru. || 1  That heart, in which the Supreme Lord
 God abides, is the most beautiful place. The Messenger of Death does not even
 approach those who chant the Glorious Praises of the Lord with the tongue. || 1 || I
 have not understood the wisdom of serving Him, nor have I worshipped Him in
@@ -2662,7 +2669,7 @@ are protected by the True Guru. || 3 || The Guru is the All-pervading Lord, the 
 the Merciful Master; the Guru is the True Creator Lord. When the Guru was totally
 satisfied, I obtained everything. Servant Nanak is forever a sacrifice to Him. || 4 || 2 ||
 170 || GAUREE MAAJH, FIFTH MEHL: The Lord, the Lord, Raam, Raam, Raam:
-meditating on Him, all affairs are resolved. || 1 || Pause || Chanting the Name of
+meditating on Him, all affairs are resolved. || 1  Chanting the Name of
 the Lord of the Universe, one‟s mouth is sanctified. One who recites to me the Praises
 of the Lord is my friend and brother. || 1 || All treasures, all rewards and all virtues
 are in the Lord of the Universe. Why forget Him from your mind? Remembering Him in
@@ -2673,7 +2680,7 @@ the Sustainer of the Universe is the essence of life, and the wealth of His Sain
 is saved, chanting the Naam, the Name of the Lord; in the True Court, he is cheered
 and applauded. || 4 || 3 || 171 || GAUREE MAAJH, FIFTH MEHL: Sing the Sweet
 Praises of the Lord, O my soul, sing the Sweet Praises of the Lord. Attuned to the True
-One, even the homeless find a home. || 1 || Pause || All other tastes are bland and
+One, even the homeless find a home. || 1  All other tastes are bland and
 insipid; through them, the body and mind are rendered insipid as well. Without the
 Transcendent Lord, what can anyone do? Cursed is his life, and cursed his reputation.
 || 1 || Grasping the hem of the robe of the Holy Saint, we cross over the world-ocean.
@@ -2687,34 +2694,34 @@ treasure. Nanak is a beggar standing at Your Door, God; he begs for Your charity
 
 RAAG GAUREE, NINTH MEHL:
 Holy Saadhus: forsake the pride of your mind. Sexual desire, anger and the company of
-evil people — run away from them, day and night. || 1 || Pause || One who knows
+evil people — run away from them, day and night. || 1  One who knows
 that pain and pleasure are both the same, and honor and dishonor as well, who remains
 detached from joy and sorrow, realizes the true essence in the world. || 1 ||
 Renounce both praise and blame; seek instead the state of Nirvaanaa. O servant
 Nanak, this is such a difficult game; only a few Gurmukhs understand it! || 2 || 1 ||
 GAUREE, NINTH MEHL: Holy Saadhus: the Lord fashioned the creation. One person
 passes away, and another thinks that he will live forever — this is a wonder beyond
-understanding! || 1 || Pause || The mortal beings are held in the power of sexual
+understanding! || 1  The mortal beings are held in the power of sexual
 desire, anger and emotional attachment; they have forgotten the Lord, the Immortal
 Form. The body is false, but they believe it to be true; it is like a dream in the night. ||
 1 || Whatever is seen, shall all pass away, like the shadow of a cloud. O servant
 Nanak, one who knows the world to be unreal, dwells in the Sanctuary of the Lord. || 2
 || 2 || GAUREE, NINTH MEHL: The Praise of the Lord does not come to dwell in the
 minds of the mortal beings. Day and night, they remain engrossed in Maya. Tell me,
-how can they sing God‟s Glories? || 1 || Pause || In this way, they bind themselves
+how can they sing God‟s Glories? || 1  In this way, they bind themselves
 to children, friends, Maya and possessiveness. Like the deer‟s delusion, this world is
 false; and yet, beholding it, they chase after it. || 1 || Our Lord and Master is the
 source of pleasures and liberation; and yet, the fool forgets Him. O servant Nanak,
 among millions, there is scarcely anyone who attains the Lord‟s meditation. || 2 || 3 ||
 GAUREE, NINTH MEHL: Holy Saadhus: this mind cannot be restrained. Fickle desires
-dwell with it, and so it cannot remain steady. || 1 || Pause || The heart is filled with
+dwell with it, and so it cannot remain steady. || 1  The heart is filled with
 anger and violence, which cause all sense to be forgotten. The jewel of spiritual wisdom
 has been taken away from everyone; nothing can withstand it. || 1 || The Yogis have
 tried everything and failed; the virtuous have grown weary of singing God‟s Glories. O
 servant Nanak, when the Lord becomes merciful, then every effort is successful. || 2 ||
 4 || GAUREE, NINTH MEHL: Holy Saadhus: sing the Glorious Praises of the Lord of
 the Universe. You have obtained the priceless jewel of this human life; why are you
-uselessly wasting it? || 1 || Pause || He is the Purifier of sinners, the Friend of the
+uselessly wasting it? || 1  He is the Purifier of sinners, the Friend of the
 poor. Come, and enter the Lord‟s Sanctuary. Remembering Him, the elephant‟s fear was
 removed; so why do you forget Him? || 1 || Renounce your egotistical pride and your
 emotional attachment to Maya; focus your consciousness on the Lord‟s meditation. Says
@@ -2722,7 +2729,7 @@ Nanak, this is the path to liberation. Become Gurmukh, and attain it. || 2 || 5 
 GAUREE, NINTH MEHL: O mother, if only someone would instruct my wayward mind. 
 ÓÓÓÓÓÓÓÓÓÓÓ 220 ÓÓÓÓÓÓÓÓÓ
 This mind listens to the Vedas, the Puraanas, and the ways of the Holy Saints, but it
-does not sing the Glorious Praises of the Lord, for even an instant. || 1 || Pause ||
+does not sing the Glorious Praises of the Lord, for even an instant. || 1 
 Having obtained this human body, so very difficult to obtain, it is now being uselessly
 wasted. Emotional attachment to Maya is such a treacherous wilderness, and yet,
 people are in love with it. || 1 || Inwardly and outwardly, God is always with them,
@@ -2730,7 +2737,7 @@ and yet, they do not enshrine Love for Him. O Nanak, know that those whose heart
 are filled with the Lord are liberated. || 2 || 6 || GAUREE, NINTH MEHL: Holy
 Saadhus: rest and peace are in the Sanctuary of the Lord. This is the blessing of
 studying the Vedas and the Puraanas, that you may meditate on the Name of the Lord.
-|| 1 || Pause || Greed, emotional attachment to Maya, possessiveness, the service of
+|| 1  Greed, emotional attachment to Maya, possessiveness, the service of
 evil, pleasure and pain — those who are not touched by these, are the very
 embodiment of the Divine Lord. || 1 || Heaven and hell, ambrosial nectar and poison,
 gold and copper — these are all alike to them. Praise and slander are all the same to
@@ -2738,7 +2745,7 @@ them, as are greed and attachment. || 2 || They are not bound by pleasure and pa
 — know that they are truly wise. O Nanak, recognize those mortal beings as liberated,
 who live this way of life. || 3 || 7 || GAUREE, NINTH MEHL: O mind, why have you
 gone crazy? Don‟t you know that your life is decreasing, day and night? Your life is
-made worthless with greed. || 1 || Pause || That body, which you believe to be your
+made worthless with greed. || 1  That body, which you believe to be your
 own, and your beautiful home and spouse — none of these is yours to keep. See this,
 reflect upon it and understand. || 1 || You have wasted the precious jewel of this
 human life; you do not know the Way of the Lord of the Universe. You have not been
@@ -2747,7 +2754,7 @@ absorbed in the Lord‟s Feet, even for an instant. Your life has passed away in
 All the rest of the world is enticed by Maya; they do not obtain the state of fearless
 dignity. || 3 || 8 || GAUREE, NINTH MEHL: You people are unconscious; you should
 be afraid of sin. Seek the Sanctuary of the Lord, Merciful to the meek, Destroyer of all
-fear. || 1 || Pause || The Vedas and the Puraanas sing His Praises; enshrine His
+fear. || 1  The Vedas and the Puraanas sing His Praises; enshrine His
 Name within your heart. Pure and sublime is the Name of the Lord in the world.
 Remembering it in meditation, all sinful mistakes shall be washed away. || 1 || You
 shall not obtain this human body again; make the effort — try to achieve liberation!
@@ -2763,7 +2770,7 @@ Pure Lord.
 ÓÓÓÓÓÓÓÓÓÓÓ 221 ÓÓÓÓÓÓÓÓÓ
 The Guru‟s Teachings are useful to my soul. || 1 || Chanting the Lord‟s Name in this
 way, my mind is satisfied. I have obtained the ointment of spiritual wisdom, recognizing
-the Word of the Guru‟s Shabad. || 1 || Pause || Blended with the One Lord, I enjoy
+the Word of the Guru‟s Shabad. || 1  Blended with the One Lord, I enjoy
 intuitive peace. Through the Immaculate Bani of the Word, my doubts have been
 dispelled. Instead of the pale color of Maya, I am imbued with the deep crimson color of
 the Lord‟s Love. By the Lord‟s Glance of Grace, the poison has been eliminated. || 2 ||
@@ -2788,7 +2795,7 @@ of His Command. Nanak is absorbed in intuitive peace through the Guru‟s Teachi
 of the body. The Guru is the controlling stick; when the Insignia of the True Shabad is
 applied, one obtains honor in the Court of God the King. || 1 || He cannot be known
 through clever tricks. Without subduing the mind, how can His value be estimated? || 1
-|| Pause || In the house of the self is the Ambrosial Nectar, which is being stolen by
+ In the house of the self is the Ambrosial Nectar, which is being stolen by
 the thieves. No one can say no to them. He Himself protects us, and blesses us with
 greatness. || 2 || There are billions, countless billions of fires of desire at the seat of
 the mind. They are extinguished only with the water of understanding, imparted by the
@@ -2809,7 +2816,7 @@ GAUREE GWAARAYREE, FIRST MEHL: The mind does not die, so the job is not
 accomplished. The mind is under the power of the demons of evil intellect and duality.
 But when the mind surrenders, through the Guru, it becomes one. || 1 || The Lord is
 without attributes; the attributes of virtue are under His control. One who eliminates
-selfishness contemplates Him. || 1 || Pause || The deluded mind thinks of all sorts
+selfishness contemplates Him. || 1  The deluded mind thinks of all sorts
 of corruption. When the mind is deluded, the load of wickedness falls on the head. But
 when the mind surrenders to the Lord, it realizes the One and Only Lord. || 2 || The
 deluded mind enters the house of Maya. Engrossed in sexual desire, it does not remain
@@ -2829,7 +2836,7 @@ the Glorious Praises of the Lord. || 8 || 3 || GAUREE GWAARAYREE, FIRST MEHL:
 Acting in egotism, peace is not obtained. The intellect of the mind is false; only the Lord
 is True. All who love duality are ruined. People act as they are pre-ordained. || 1 || I
 have seen the world to be such a gambler; all beg for peace, but they forget the Naam,
-the Name of the Lord. || 1 || Pause || If the Unseen Lord could be seen, then He
+the Name of the Lord. || 1  If the Unseen Lord could be seen, then He
 could be described. Without seeing Him, all descriptions are useless. The Gurmukh sees
 Him with intuitive ease. So serve the One Lord, with loving awareness. || 2 || People
 beg for peace, but they receive severe pain. They are all weaving a wreath of
@@ -2854,7 +2861,7 @@ and His Command. Nanak, the lowly, says embrace love for the Lord. || 8 || 4 ||
 GAUREE, FIRST MEHL: The duality of Maya dwells in the consciousness of the people
 of the world. They are destroyed by sexual desire, anger and egotism. || 1 || Whom
 should I call the second, when there is only the One? The One Immaculate Lord is
-pervading among all. || 1 || Pause || The dual-minded evil intellect speaks of a
+pervading among all. || 1  The dual-minded evil intellect speaks of a
 second. One who harbors duality comes and goes and dies. || 2 || In the earth and in
 the sky, I do not see any second. Among all the women and the men, His Light is
 shining. || 3 || In the lamps of the sun and the moon, I see His Light. Dwelling
@@ -2869,7 +2876,7 @@ forms, colors and minds. Says Nanak, praise the One Lord. || 9 || 5 || GAUREE,
 FIRST MEHL: Those who live a spiritual lifestyle — they alone are true. What can the
 false know about the secrets of liberation? || 1 || Those who contemplate the Way
 are Yogis. They conquer the five thieves, and enshrine the True Lord in the heart. || 1
-|| Pause || Those who enshrine the True Lord deep within, realize the value of the
+ Those who enshrine the True Lord deep within, realize the value of the
 Way of Yoga. || 2 || The sun and the moon are one and the same for them, as are
 household and wilderness. The karma of their daily practice is to praise the Lord. || 3
 || They beg for the alms of the one and only Shabad. They remain awake and aware
@@ -2883,7 +2890,7 @@ Nanak, are contained in surrender to the Unlimited Lord. || 8 || 6 || GAUREE, FI
 MEHL: To practice forgiveness is the true fast, good conduct and contentment. Disease
 does not afflict me, nor does the pain of death. I am liberated, and absorbed into God,
 who has no form or feature. || 1 || What fear does the Yogi have? The Lord is among
-the trees and the plants, within the household and outside as well. || 1 || Pause ||
+the trees and the plants, within the household and outside as well. || 1 
 The Yogis meditate on the Fearless, Immaculate Lord. Night and day, they remain
 awake and aware, embracing love for the True Lord. Those Yogis are pleasing to my
 mind. || 2 || The trap of death is burnt by the Fire of God. Old age, death and pride
@@ -2902,7 +2909,7 @@ subdued. Through the Word of the Guru‟s Shabad, his heart-lotus blossoms forth
 hunger and thirst. O Nanak, those detached recluses who meet the Lord are so very
 rare. || 8 || 7 || GAUREE, FIRST MEHL: Meeting such a slave, peace is obtained.
 Pain is forgotten, when the True Lord is found. || 1 || Beholding the blessed vision of
-his darshan, my understanding has become perfect. The cleansing baths at the sixtyeight sacred shrines of pilgrimage are in the dust of his feet. || 1 || Pause || My
+his darshan, my understanding has become perfect. The cleansing baths at the sixtyeight sacred shrines of pilgrimage are in the dust of his feet. || 1  My
 eyes are contented with the constant love of the One Lord. My tongue is purified by the
 most sublime essence of the Lord. || 2 || True are my actions, and deep within my
 being, I serve Him. My mind is satisfied by the Inscrutable, Mysterious Lord. || 3 ||
@@ -2917,7 +2924,7 @@ whose heart is filled with Truth and true love — prays Nanak, I am his servant
 8 || GAUREE, FIRST MEHL: Brahma acted in pride, and did not understand. Only
 when he was faced with the downfall of the Vedas did he repent. Remembering God in
 meditation, the mind is conciliated. || 1 || Such is the horrible pride of the world. The
-Guru eliminates the pride of those who meet Him. || 1 || Pause || Bal the King, in
+Guru eliminates the pride of those who meet Him. || 1  Bal the King, in
 Maya and egotism, held his ceremonial feasts, but he was puffed up with pride. Without
 the Guru‟s advice, he had to go to the underworld. || 2 || Hari Chand gave in charity,
 and earned public praise. But without the Guru, he did not find the limits of the
@@ -2946,7 +2953,7 @@ Nanak, singing the Glories of God, His Name is received. || 12 || 9 || GAUREE, F
 MEHL: I may anoint my limbs with sandalwood oil and musk. I may dress up and wear
 silk and satin clothes. But without the Lord‟s Name, where would I find peace? || 1 ||
 So what should I wear? In what clothes should I display myself? Without the Lord of the
-Universe, how can I find peace? || 1 || Pause || I may wear ear-rings, and a pearl
+Universe, how can I find peace? || 1  I may wear ear-rings, and a pearl
 necklace around my neck; my bed may be adorned with red blankets, flowers and red
 powder; but without the Lord of the Universe, where can I search for peace? || 2 || I
 may have a beautiful woman with fascinating eyes; she may decorate herself with the
@@ -2967,7 +2974,7 @@ know the Lord. Prays Nanak, I seek Your Sanctuary. || 8 || 10 || GAUREE, FIRST
 MEHL: Those who serve the One Lord, do not know any other. They abandon the bitter
 worldly conflicts. Through love and truth, they meet the Truest of the True. || 1 ||
 Such are the humble devotees of the Lord. They sing the Glorious Praises of the Lord,
-and their pollution is washed away. || 1 || Pause || The heart-lotus of the entire
+and their pollution is washed away. || 1  The heart-lotus of the entire
 universe is upside-down. The fire of evil-mindedness is burning up the world. They
 alone are saved, who contemplate the Word of the Guru‟s Shabad. || 2 || The bumble
 bee, the moth, the elephant, the fish and the deer — all suffer for their actions, and die.
@@ -2987,7 +2994,7 @@ in stubbornness shall not be approved, even though he may wear religious robes a
 smear his body all over with ashes. Forgetting the Naam, the Name of the Lord, he
 comes to regret and repent in the end. || 1 || Believe in the Dear Lord, and you shall
 find peace of mind. Forgetting the Naam, you shall have to endure the pain of death. ||
-1 || Pause || The smell of musk, sandalwood and camphor, and the intoxication of
+1  The smell of musk, sandalwood and camphor, and the intoxication of
 Maya, takes one far away from the state of supreme dignity. Forgetting the Naam, one
 becomes the most false of all the false. || 2 || Lances and swords, marching bands,
 thrones and the salutes of others only increase his desire; he is engrossed in sexual
@@ -3008,7 +3015,7 @@ GAUREE, FIRST MEHL: Acting in egotism, the Lord is not known, even by wearing
 religious robes. How rare is that Gurmukh, who surrenders his mind in devotional
 worship. || 1 || By actions done in egotism, selfishness and conceit, the True Lord is
 not obtained. But when egotism departs, then the state of supreme dignity is obtained.
-|| 1 || Pause || The kings act in egotism, and undertake all sorts of expeditions. But
+|| 1  The kings act in egotism, and undertake all sorts of expeditions. But
 through their egotism, they are ruined; they die, only to be reborn over and over again.
 || 2 || Egotism is overcome only by contemplating the Word of the Guru‟s Shabad.
 One who restrains his fickle mind subdues the five passions. || 3 || With the True
@@ -3047,7 +3054,7 @@ Glories of God. O Nanak, the Gurmukh is absorbed in the Word of the Shabad. || 9
 Gurmukhs walk in the Way of the Lord‟s Command. They remain unattached, in the
 Sanctuary of the True Lord. || 1 || They dwell in their true home, and Death does not
 touch them. The self-willed manmukhs come and go, in the pain of emotional
-attachment. || 1 || Pause || So, drink deeply of this Nectar, and speak the Unspoken
+attachment. || 1  So, drink deeply of this Nectar, and speak the Unspoken
 Speech. Dwelling in the home of your own being within, you shall find the home of
 intuitive peace. One who is imbued with the Lord‟s sublime essence, is said to
 experience this peace. || 2 || Following the Guru‟s Teachings, one becomes perfectly
@@ -3071,7 +3078,7 @@ mind the True Lord dwells — in his company, one becomes Gurmukh. O Nanak, the
 True Name washes off the pollution. || 9 || 15 || GAUREE, FIRST MEHL: One whose
 consciousness is permeated with the Lord‟s Name — receive the blessing of his darshan
 in the early light of dawn. || 1 || If you do not meditate on the Lord, it is your own
-misfortune. In each and every age, the Great Giver is my Lord God. || 1 || Pause ||
+misfortune. In each and every age, the Great Giver is my Lord God. || 1 
 Following the Guru‟s Teachings, the perfect humble beings meditate on the Lord. Within
 their hearts, the unstruck melody vibrates. || 2 || Those who worship the Lord and
 love the Lord — showering His Mercy, God protects them. || 3 || Those whose hearts
@@ -3089,7 +3096,7 @@ GAUREE BAIRAAGAN, FIRST MEHL:
 As the dairy farmer watches over and protects his cows, so does the Lord cherish and
 protect us, night and day. He blesses the soul with peace. || 1 || Please protect me
 here and hereafter, O Lord, Merciful to the meek. I seek Your Sanctuary; please bless
-me with Your Glance of Grace. || 1 || Pause || Wherever I look, there You are. Save
+me with Your Glance of Grace. || 1  Wherever I look, there You are. Save
 me, O Savior Lord! You are the Giver, and You are the Enjoyer; You are the Support of
 the breath of life. || 2 || According to the karma of past actions, people descend to
 the depths or rise to the heights, unless they contemplate spiritual wisdom. Without the
@@ -3112,7 +3119,7 @@ GAUREE, FIRST MEHL: By Guru‟s Grace, one comes to understand, and then, the
 account is settled. In each and every heart is the Name of the Immaculate Lord; He is
 my Lord and Master. || 1 || Without the Word of the Guru‟s Shabad, no one is
 emancipated. See this, and reflect upon it. Even though you may perform hundreds of
-thousands of rituals, without the Guru, there is only darkness. || 1 || Pause || What
+thousands of rituals, without the Guru, there is only darkness. || 1  What
 can you say, to one who is blind and without wisdom? Without the Guru, the Path
 cannot be seen. How can anyone proceed? || 2 || He calls the counterfeit genuine,
 and does not know the value of the genuine. The blind man is known as an appraiser;
@@ -3149,7 +3156,7 @@ Gurmukh is honored in the Court of the True Lord. || 1 || O Pandit, O religious
 scholar, read about the Lord, and renounce your corrupt ways. The Gurmukh crosses
 over the terrifying world-ocean. 
 ÓÓÓÓÓÓÓÓÓÓÓ 230 ÓÓÓÓÓÓÓÓÓ
-|| 1 || Pause || The Gurmukh eradicates egotism from within. No filth sticks to the
+|| 1  The Gurmukh eradicates egotism from within. No filth sticks to the
 Gurmukh. The Naam, the Name of the Lord, comes to dwell within the mind of the
 Gurmukh. || 2 || Through karma and Dharma, good actions and righteous faith, the
 Gurmukh becomes true. The Gurmukh burns away egotism and duality. The Gurmukh is
@@ -3167,7 +3174,7 @@ been slain. O Nanak, without the Name, all clever tricks are false. || 8 || 2 ||
 GAUREE, THIRD MEHL: Learn the Dharma of this age, O Siblings of Destiny; all
 understanding is obtained from the Perfect Guru. Here and hereafter, the Lord‟s Name
 is our Companion. || 1 || Learn of the Lord, and contemplate Him in your mind. By
-Guru‟s Grace, your filth shall be washed away. || 1 || Pause || Through argument
+Guru‟s Grace, your filth shall be washed away. || 1  Through argument
 and debate, He cannot be found. The mind and body are made insipid through the love
 of duality. Through the Word of the Guru‟s Shabad, lovingly attune yourself to the True
 Lord. || 2 || This world is polluted with egotism. By taking cleansing baths daily at
@@ -3188,7 +3195,7 @@ True Lord. O Nanak, those who serve the True Guru are blessed and very fortunate
 From him emanated the gods, enticed by desire. They wander in the three qualities,
 and they do not dwell within their own home. || 1 || The Lord has saved me; I have
 met the True Guru. He has implanted devotional worship of the Lord‟s Name, night and
-day. || 1 || Pause || The songs of Brahma entangle people in the three qualities. 
+day. || 1  The songs of Brahma entangle people in the three qualities. 
 ÓÓÓÓÓÓÓÓÓÓÓ 231 ÓÓÓÓÓÓÓÓÓ
 Reading about the debates and disputes, they are hit over the head by the Messenger
 of Death. They do not understand the essence of reality, and they gather their
@@ -3234,7 +3241,7 @@ who speak of the three qualities — their doubts do not depart. Their bonds are
 broken, and they do not obtain liberation. The True Guru is the Bestower of liberation in
 this age. || 1 || Those mortals who become Gurmukh give up their doubts. The
 celestial music wells up, when they lovingly attune their consciousness to the Lord. || 1
-|| Pause || 
+ 
 ÓÓÓÓÓÓÓÓÓÓÓ 232 ÓÓÓÓÓÓÓÓÓ
 Those who are controlled by the three qualities have death hovering over their heads.
 They do not remember the Name of the Creator Lord. They die, and are reborn, over
@@ -3257,7 +3264,7 @@ Priceless Name of the Lord. They serve the Name, and through the Name, they are
 absorbed in intuitive peace and poise. With their tongues, they continually sing the
 Ambrosial Naam. They obtain the Lord‟s Name; the Lord showers His Mercy upon them.
 || 1 || Night and day, within your heart, meditate on the Lord of the Universe. The
-Gurmukhs obtain the supreme state of peace. || 1 || Pause || Peace comes to fill
+Gurmukhs obtain the supreme state of peace. || 1  Peace comes to fill
 the hearts of those who, as Gurmukh, sing of the True Lord, the treasure of excellence.
 They become the constant slaves of the slaves of the Lord‟s slaves. Within their
 households and families, they remain always detached. || 2 || How rare are those
@@ -3284,7 +3291,7 @@ through the Fear of God.
 The mind is attuned to the Word of the Shabad; it is lovingly attuned to the Lord. It
 abides within its own home, in harmony with the Lord‟s Will. || 1 || Serving the True
 Guru, egotistical pride departs, and the Lord of the Universe, the Treasure of
-Excellence, is obtained. || 1 || Pause || The mind becomes detached and free of
+Excellence, is obtained. || 1  The mind becomes detached and free of
 desire, when it experiences the Fear of God, through the Shabad. My Immaculate God
 is pervading and contained among all. By Guru‟s Grace, one is united in His Union. || 2
 || The slave of the Lord‟s slave attains peace. My Lord God is found in this way. By the
@@ -3308,7 +3315,7 @@ Those who turn their faces away from the True Guru, are seen to be unfaithful an
 They shall be bound and beaten night and day; they shall not have this opportunity
 again. || 1 || O Lord, please shower Your Mercy upon me, and save me! O Lord God,
 please lead me to meet the Sat Sangat, the True Congregation, that I may dwell upon
-the Glorious Praises of the Lord within my heart. || 1 || Pause || Those devotees are
+the Glorious Praises of the Lord within my heart. || 1  Those devotees are
 pleasing to the Lord, who as Gurmukh, walk in harmony with the Way of the Lord‟s Will.
 Subduing their selfishness and conceit, and performing selfless service, they remain
 dead while yet alive. || 2 || The body and the breath of life belong to the One —
@@ -3331,7 +3338,7 @@ RAAG GAUREE POORBEE, FOURTH MEHL, KARHALAY:
 O my wandering mind, you are like a camel — how will you meet the Lord, your
 Mother? When I found the Guru, by the destiny of perfect good fortune, my Beloved
 came and embraced me. || 1 || O camel-like mind, meditate on the True Guru, the
-Primal Being. || 1 || Pause || O camel-like mind, contemplate the Lord, and
+Primal Being. || 1  O camel-like mind, contemplate the Lord, and
 meditate on the Lord‟s Name. When you are called to answer for your account, the Lord
 Himself shall release you. || 2 || O camel-like mind, you were once very pure; the
 filth of egotism has now attached itself to you. Your Beloved Husband is now manifest
@@ -3354,7 +3361,7 @@ the Guru becomes Gurmukh, and works for the Lord. Offer your prayers to the Guru
 servant Nanak, He shall unite you with the Lord. || 10 || 1 || GAUREE, FOURTH
 MEHL: O contemplative camel-like mind, contemplate and look carefully. The forestdwellers have grown weary of wandering in the forests; following the Guru‟s Teachings,
 see your Husband Lord within your heart. || 1 || O camel-like mind, dwell upon the
-Guru and the Lord of the Universe. || 1 || Pause || O camel-like contemplative mind,
+Guru and the Lord of the Universe. || 1  O camel-like contemplative mind,
 the self-willed manmukhs are caught in the great net. The mortal who becomes
 Gurmukh is liberated, dwelling upon the Name of the Lord, Har, Har. || 2 || O my
 dear beloved camel-like mind, seek the Sat Sangat, the True Congregation, and the
@@ -3384,7 +3391,7 @@ CREATIVE BEING PERSONIFIED. BY GURU‟S GRACE:
 When this mind is filled with pride, then it wanders around like a madman and a lunatic.
 But when it becomes the dust of all, then it recognizes the Lord in each and every
 heart. || 1 || The fruit of humility is intuitive peace and pleasure. My True Guru has
-given me this gift. || 1 || Pause || When he believes others to be bad, then
+given me this gift. || 1  When he believes others to be bad, then
 everyone lays traps for him. But when he stops thinking in terms of „mine‟ and „yours‟,
 then no one is angry with him. || 2 || When he clings to „my own, my own‟, then he is
 in deep trouble. But when he recognizes the Creator Lord, then he is free of torment.
@@ -3406,7 +3413,7 @@ FIFTH MEHL: Serving the Guru, one is committed to the Naam, the Name of the Lord
 It is received only by those who have such good destiny inscribed upon their foreheads.
 The Lord dwells within their hearts. Their minds and bodies become peaceful and
 stable. || 1 || O my mind, sing such Praises of the Lord, which shall be of use to you
-here and hereafter. || 1 || Pause || Meditating on Him, fear and misfortune depart,
+here and hereafter. || 1  Meditating on Him, fear and misfortune depart,
 and the wandering mind is held steady. Meditating on Him, suffering shall never again
 overtake you. Meditating on Him, this ego runs away. || 2 || Meditating on Him, the
 five passions are overcome. Meditating on Him, Ambrosial Nectar is collected in the
@@ -3428,7 +3435,7 @@ Nanak, they have the Perfect True Guru. || 8 || 2 || GAUREE, FIFTH MEHL: Those
 who implant the Word of the Guru‟s Shabad within their hearts cut their connections
 with the five passions. They keep the ten organs under their control; their souls are
 enlightened. || 1 || They alone acquire such stability, whom God blesses with His
-Mercy and Grace. || 1 || Pause || Friend and foe are one and the same to them.
+Mercy and Grace. || 1  Friend and foe are one and the same to them.
 Whatever they speak is wisdom. Whatever they hear is the Naam, the Name of the
 Lord. Whatever they see is meditation. || 2 || They awaken in peace and poise; they
 sleep in peace and poise. That which is meant to be, automatically happens. In peace
@@ -3452,7 +3459,7 @@ of intuitive peace. Slave Nanak is a sacrifice to them. || 8 || 3 || GAUREE, FIF
 MEHL: First, they come forth from the womb. They become attached to their children,
 spouses and families. The foods of various sorts and appearances will surely pass away,
 O wretched mortal! || 1 || What is that place which never perishes? What is that
-Word by which the dirt of the mind is removed? || 1 || Pause || In the Realm of
+Word by which the dirt of the mind is removed? || 1  In the Realm of
 Indra, death is sure and certain. The Realm of Brahma shall not remain permanent. The
 Realm of Shiva shall also perish. The three dispositions, Maya and the demons shall
 vanish. || 2 || The mountains, the trees, the earth, the sky and the stars; the sun, the
@@ -3476,7 +3483,7 @@ Mercy, the imperishable home is obtained; in the Saadh Sangat, you shall be save
 8 || 4 || GAUREE, FIFTH MEHL: One who kills this is a spiritual hero. One who kills
 this is perfect. One who kills this obtains glorious greatness. One who kills this is freed
 of suffering. || 1 || How rare is such a person, who kills and casts off duality. Killing
-it, he attains Raja Yoga, the Yoga of meditation and success. || 1 || Pause || 
+it, he attains Raja Yoga, the Yoga of meditation and success. || 1  
 ÓÓÓÓÓÓÓÓÓÓÓ 238 ÓÓÓÓÓÓÓÓÓ
 One who kills this has no fear. One who kills this is absorbed in the Naam. One who
 kills this has his desires quenched. One who kills this is approved in the Court of the
@@ -3521,7 +3528,7 @@ Nanak, who is so blessed. || 8 || 6 || GAUREE, FIFTH MEHL: Without meditating in
 remembrance on the Lord, one‟s life is like that of a snake. This is how the faithless
 cynic lives, forgetting the Naam, the Name of the Lord. || 1 || One who lives in
 meditative remembrance, even for an instant, lives for hundreds of thousands and
-millions of days, and becomes stable forever. || 1 || Pause || Without meditating in
+millions of days, and becomes stable forever. || 1  Without meditating in
 remembrance on the Lord, one‟s actions and works are cursed. Like the crow‟s beak, he
 dwells in manure. || 2 || Without meditating in remembrance on the Lord, one acts
 like a dog. The faithless cynic is nameless, like the prostitute‟s son. || 3 || Without
@@ -3536,7 +3543,7 @@ one joins the Sat Sangat, the True Congregation. Says Nanak, the Guru has saved 
 world. || 8 || 7 || GAUREE, FIFTH MEHL: Through the Guru‟s Word, I have attained
 the supreme status. The Perfect Guru has preserved my honor. || 1 || Through the
 Guru‟s Word, I meditate on the Name. By Guru‟s Grace, I have obtained a place of rest.
-|| 1 || Pause || I listen to the Guru‟s Word, and chant it with my tongue. By Guru‟s
+|| 1  I listen to the Guru‟s Word, and chant it with my tongue. By Guru‟s
 Grace, my speech is like nectar. || 2 || Through the Guru‟s Word, my selfishness and
 conceit have been removed. Through the Guru‟s kindness, I have obtained glorious
 greatness. || 3 || Through the Guru‟s Word, my doubts have been removed. Through
@@ -3548,7 +3555,7 @@ Whoever places his hopes in my Guru, has the noose of death cut away. || 7 ||
 Through the Guru‟s Word, my good karma has been awakened. O Nanak, meeting with
 the Guru, I have found the Supreme Lord God. || 8 || 8 || GAUREE, FIFTH MEHL: I
 remember the Guru with each and every breath. The Guru is my breath of life, the True
-Guru is my wealth. || 1 || Pause || Beholding the Blessed Vision of the Guru‟s
+Guru is my wealth. || 1  Beholding the Blessed Vision of the Guru‟s
 Darshan, I live. I wash the Guru‟s Feet, and drink in this water. || 1 || I take my daily
 bath in the dust of the Guru‟s Feet. The egotistical filth of countless incarnations is
 washed off. || 2 || I wave the fan over the Guru. Giving me His Hand, He has saved
@@ -3562,7 +3569,7 @@ blessed me with His Love. Forever and ever, I humbly bow to the Guru. || 7 || My
 troubles, conflicts, fears, doubts and pains have been dispelled; says Nanak, my Guru is
 All-powerful. || 8 || 9 || GAUREE, FIFTH MEHL: Meet me, O my Lord of the
 Universe. Please bless me with Your Name. Without the Naam, the Name of the Lord,
-cursed, cursed is love and intimacy. || 1 || Pause || Without the Naam, one who
+cursed, cursed is love and intimacy. || 1  Without the Naam, one who
 dresses and eats well is like a dog, who falls in and eats impure foods. || 1 || Without
 the Naam, all occupations are useless, like decorations on a dead body. || 2 || One
 who forgets the Naam and indulges in pleasures, shall find no peace, even in dreams;
@@ -3576,7 +3583,7 @@ false. || 7 || That humble being repeats the Name of the Lord, O Nanak, whom the
 Lord blesses with His Mercy. || 8 || 10 || GAUREE, FIFTH MEHL: My mind longs for
 that Friend, who shall stand by me in the beginning, in the middle and in the end. || 1
 || The Lord‟s Love goes with us forever. The Perfect and Merciful Lord cherishes all.
-|| 1 || Pause || He shall never perish, and He shall never abandon me. Wherever I
+|| 1  He shall never perish, and He shall never abandon me. Wherever I
 look, there I see Him pervading and permeating. || 2 || He is Beautiful, All-knowing,
 the most Clever, the Giver of life. God is my Brother, Son, Father and Mother. || 3 ||
 He is the Support of the breath of life; He is my Wealth. Abiding within my heart, He
@@ -3591,7 +3598,7 @@ RAAG GAUREE MAAJH, FIFTH MEHL:
 
 Countless are those who wander around searching for You, but they do not find Your
 limits. They alone are Your devotees, who are blessed by Your Grace. || 1 || I am a
-sacrifice, I am a sacrifice to You. || 1 || Pause || Continually hearing of the terrifying
+sacrifice, I am a sacrifice to You. || 1  Continually hearing of the terrifying
 path, I am so afraid. I have sought the Protection of the Saints; please, save me! || 
 ÓÓÓÓÓÓÓÓÓÓÓ 241 ÓÓÓÓÓÓÓÓÓ
 2 || The Fascinating and Beauteous Beloved is the Giver of support to all. I bow low
@@ -3609,7 +3616,7 @@ proclaim this loudly to all. || 8 || 1 || 12 ||
 GAUREE, FIFTH MEHL:
 
 Dye yourself in the color of the Lord‟s Love. Chant the Name of the One Lord with your
-tongue, and ask for Him alone. || 1 || Pause || Renounce your ego, and dwell upon
+tongue, and ask for Him alone. || 1  Renounce your ego, and dwell upon
 the spiritual wisdom of the Guru. Those who have such pre-ordained destiny, join the
 Sangat, the Holy Congregation. || 1 || Whatever you see, shall not go with you. The
 foolish, faithless cynics are attached — they waste away and die. || 2 || The Name of
@@ -3623,7 +3630,7 @@ Guru implants spiritual wisdom within you, and lights that lamp. || 7 || One who
 serves the Lord crosses over to the other side. O servant Nanak, the Gurmukh saves
 the world. || 8 || 1 || 13 || FIFTH MEHL, GAUREE: Dwelling upon the Lord, Har,
 Har, and the Guru, the Guru, my doubts have been dispelled. My mind has obtained all
-comforts. || 1 || Pause || I was burning, on fire, and the Guru poured water on me;
+comforts. || 1  I was burning, on fire, and the Guru poured water on me;
 He is cooling and soothing, like the sandalwood tree. || 1 || The darkness of
 ignorance has been dispelled; the Guru has lit the lamp of spiritual wisdom. || 2 ||
 The ocean of fire is so deep; the Saints have crossed over, in the boat of the Lord‟s
@@ -3637,7 +3644,7 @@ my Lord and Master; Your servant has come to Your Door. || 8 || 2 || 14 ||
 ÓÓÓÓÓÓÓÓÓÓÓ 242 ÓÓÓÓÓÓÓÓÓ
 GAUREE, FIFTH MEHL: He is immersed in the enjoyment of corrupt pleasures;
 engrossed in them, the blind fool does not understand. || 1 || “I am earning profits, I
-am getting rich”, he says, as his life passes away. || 1 || Pause || “I am a hero, I am
+am getting rich”, he says, as his life passes away. || 1  “I am a hero, I am
 famous and distinguished; no one is equal to me.” || 2 || “I am young, cultured, and
 born of a good family.” In his mind, he is proud and arrogant like this. || 3 || He is
 trapped by his false intellect, and he does not forget this until he dies. || 4 ||
@@ -3992,7 +3999,7 @@ is in the seat of peace. He Himself listens to His Own Praises. He Himself creat
 Himself. He is His Own Father, He is His Own Mother. He Himself is subtle and etheric;
 He Himself is manifest and obvious. O Nanak, His wondrous play cannot be understood.
 || 1 || O God, Merciful to the meek, please be kind to me, that my mind might become
-the dust of the feet of Your Saints. || Pause || SHALOK: He Himself is formless, and
+the dust of the feet of Your Saints.  SHALOK: He Himself is formless, and
 also formed; the One Lord is without attributes, and also with attributes. Describe the
 One Lord as One, and Only One; O Nanak, He is the One, and the many. || 1 ||
 PAUREE: ONG: The One Universal Creator created the Creation through the Word of
@@ -4502,7 +4509,7 @@ Simritees, the purest of utterances, were created from the One Word of the Name 
 the Lord. That one, in whose soul the One Lord dwells — the praises of his glory cannot
 be recounted. Those who yearn only for the blessing of Your Darshan — Nanak: save
 me along with them! || 1 || Sukhmani: Peace of Mind, the Nectar of the Name of
-God. The minds of the devotees abide in a joyful peace. || Pause || Remembering
+God. The minds of the devotees abide in a joyful peace.  Remembering
 God, one does not have to enter into the womb again. Remembering God, the pain of
 death is dispelled. Remembering God, death is eliminated. Remembering God, one‟s
 enemies are repelled. Remembering God, no obstacles are met. Remembering God, one
@@ -5786,7 +5793,7 @@ Great Giver, the Enjoyer, the Bestower — there is no place at all without Him.
 obtain all that you desire, O Nanak, singing the Glorious Praises of the Lord. || 1 ||
 Sing the Praises of the Lord, the Lord of the Universe, each and every day. Join the
 Saadh Sangat, the Company of the Holy, and vibrate, meditate on Him, O my friend. ||
-1 || Pause || SHALOK: Bow in humility to the Lord, over and over again, and enter
+1  SHALOK: Bow in humility to the Lord, over and over again, and enter
 the Sanctuary of the Lord, our King. Doubt is eradicated, O Nanak, in the Company of
 the Holy, and the love of duality is eliminated. || 2 || PAUREE: The second day of the
 lunar cycle: Get rid of your evil-mindedness, and serve the Guru continually. The jewel
@@ -6857,7 +6864,7 @@ ONE UNIVERSAL CREATOR GOD. TRUTH IS THE NAME.
 CREATIVE BEING PERSONIFIED. BY GURU‟S GRACE:
 GAUREE GWAARAYREE, FOURTEEN CHAU-PADAS OF KABEER JEE:
 I was on fire, but now I have found the Water of the Lord‟s Name. This Water of the
-Lord‟s Name has cooled my burning body. || 1 || Pause || To subdue their minds,
+Lord‟s Name has cooled my burning body. || 1  To subdue their minds,
 some go off into the forests; but that Water is not found without the Lord God. || 1 ||
 That fire has consumed angels and mortal beings, but the Water of the Lord‟s Name
 saves His humble servants from burning. || 2 || In the terrifying world-ocean, there is
@@ -6865,7 +6872,7 @@ an ocean of peace. I continue to drink it in, but this Water is never exhausted.
 Says Kabeer, meditate and vibrate upon the Lord, like the sparrow-hawk remembering
 the water. The Water of the Lord‟s Name has quenched my thirst. || 4 || 1 ||
 GAUREE, KABEER JEE: O Lord, my thirst for the Water of Your Name will not go away.
-The fire of my thirst burns even more brightly in that Water. || 1 || Pause || You are
+The fire of my thirst burns even more brightly in that Water. || 1  You are
 the Ocean of Water, and I am just a fish in that Water. In that Water, I remain; without
 that Water, I would perish. || 1 || You are the cage, and I am Your parrot. So what
 can the cat of death do to me? || 2 || You are the tree, and I am the bird. I am so
@@ -6882,28 +6889,28 @@ Lord. Give up everything — meditate, vibrate upon the Lord alone. || 4 || 3 ||
 GAUREE, KABEER JEE: If Yoga could be obtained by wandering around naked, then all
 the deer of the forest would be liberated. || 1 || What does it matter whether
 someone goes naked, or wears a deer skin, if he does not remember the Lord within his
-soul? || 1 || Pause || If the spiritual perfection of the Siddhas could be obtained by
+soul? || 1  If the spiritual perfection of the Siddhas could be obtained by
 shaving the head, then why haven‟t sheep found liberation? || 2 || If someone could
 save himself by celibacy, O Siblings of Destiny, why then haven‟t eunuchs obtained the
 state of supreme dignity? || 3 || Says Kabeer, listen, O men, O Siblings of Destiny:
 without the Lord‟s Name, who has ever found salvation? || 4 || 4 || GAUREE,
 KABEER JEE: Those who take their ritual baths in the evening and the morning are like
 the frogs in the water. || 1 || When people do not love the Lord‟s Name, they must all
-go to the Righteous Judge of Dharma. || 1 || Pause || Those who love their bodies
+go to the Righteous Judge of Dharma. || 1  Those who love their bodies
 and try different looks, do not feel compassion, even in dreams. || 2 || The wise men
 call them four-footed creatures; the Holy find peace in this ocean of pain. || 3 || Says
 Kabeer, why do you perform so many rituals? Renounce everything, and drink in the
 supreme essence of the Lord. || 4 || 5 || GAUREE, KABEER JEE: What use is
 chanting, and what use is penance, fasting or devotional worship, to one whose heart is
 filled with the love of duality? || 1 || O humble people, link your mind to the Lord.
-Through cleverness, the four-armed Lord is not obtained. || 1 || Pause || Set aside
+Through cleverness, the four-armed Lord is not obtained. || 1  Set aside
 your greed and worldly ways. Set aside sexual desire, anger and egotism. || 2 ||
 Ritual practices bind people in egotism; meeting together, they worship stones. || 3 ||
 Says Kabeer, He is obtained only by devotional worship. Through innocent love, the
 Lord is met. || 4 || 6 || GAUREE, KABEER JEE: In the dwelling of the womb, there is
 no ancestry or social status. All have originated from the Seed of God. || 1 || Tell me,
 O Pandit, O religious scholar: since when have you been a Brahmin? Don‟t waste your
-life by continually claiming to be a Brahmin. || 1 || Pause || If you are indeed a
+life by continually claiming to be a Brahmin. || 1  If you are indeed a
 Brahmin, born of a Brahmin mother, then why didn‟t you come by some other way? ||
 2 || How is it that you are a Brahmin, and I am of a low social status? How is it that I
 am formed of blood, and you are made of milk? || 3 || Says Kabeer, one who
@@ -6912,28 +6919,28 @@ contemplates God, is said to be a Brahmin among us.
 || 4 || 7 || GAUREE, KABEER JEE: In the darkness, no one can sleep in peace. The
 king and the pauper both weep and cry. || 1 || As long as the tongue does not chant
 the Lord‟s Name, the person continues coming and going in reincarnation, crying out in
-pain. || 1 || Pause || It is like the shadow of a tree; when the breath of life passes
+pain. || 1  It is like the shadow of a tree; when the breath of life passes
 out of the mortal being, tell me, what becomes of his wealth? || 2 || It is like the
 music contained in the instrument; how can anyone know the secret of the dead? || 3
 || Like the swan on the lake, death hovers over the body. Drink in the Lord‟s sweet
 elixir, Kabeer. || 4 || 8 || GAUREE, KABEER JEE: The creation is born of the Light,
 and the Light is in the creation. It bears two fruits: the false glass and the true pearl. ||
 1 || Where is that home, which is said to be free of fear? There, fear is dispelled and
-one lives without fear. || 1 || Pause || On the banks of sacred rivers, the mind is not
+one lives without fear. || 1  On the banks of sacred rivers, the mind is not
 appeased. People remain entangled in good and bad deeds. || 2 || Sin and virtue are
 both the same. In the home of your own being, is the Philosopher‟s Stone; renounce
 your search for any other virtue. || 3 || Kabeer: O worthless mortal, do not lose the
 Naam, the Name of the Lord. Keep this mind of yours involved in this involvement. || 4
 || 9 || GAUREE, KABEER JEE: He claims to know the Lord, who is beyond measure
 and beyond thought; by mere words, he plans to enter heaven. || 1 || I do not know
-where heaven is. Everyone claims that he plans to go there. || 1 || Pause || By
+where heaven is. Everyone claims that he plans to go there. || 1  By
 mere talk, the mind is not appeased. The mind is only appeased, when egotism is
 conquered. || 2 || As long as the mind is filled with the desire for heaven, he does
 not dwell at the Lord‟s Feet. || 3 || Says Kabeer, unto whom should I tell this? The
 Saadh Sangat, the Company of the Holy, is heaven. || 4 || 10 || GAUREE, KABEER
 JEE: We are born, and we grow, and having grown, we pass away. Before our very
 eyes, this world is passing away. || 1 || How can you not die of shame, claiming, “This
-world is mine”? At the very last moment, nothing is yours. || 1 || Pause || Trying
+world is mine”? At the very last moment, nothing is yours. || 1  Trying
 various methods, you cherish your body, but at the time of death, it is burned in the
 fire. || 2 || You apply sandalwood oil to your limbs, but that body is burned with the
 firewood. || 3 || Says Kabeer, listen, O virtuous people: your beauty shall vanish, as
@@ -6949,13 +6956,13 @@ immobile creatures, insects and moths — in numerous lifetimes, I have passed t
 those many forms. 
 ÓÓÓÓÓÓÓÓÓÓÓ 326 ÓÓÓÓÓÓÓÓÓ
 || 1 || I lived in many such homes, O Lord, before I came into the womb this time. ||
-1 || Pause || I was a Yogi, a celibate, a penitent, and a Brahmchaaree, with strict
+1  I was a Yogi, a celibate, a penitent, and a Brahmchaaree, with strict
 self-discipline. Sometimes I was a king, sitting on the throne, and sometimes I was a
 beggar. || 2 || The faithless cynics shall die, while the Saints shall all survive. They
 drink in the Lord‟s Ambrosial Essence with their tongues. || 3 || Says Kabeer, O God,
 have mercy on me. I am so tired; now, please bless me with Your perfection. || 4 || 13
 || GAUREE, KABEER JEE, WITH WRITINGS OF THE FIFTH MEHL: Kabeer has seen
-such wonders! Mistaking it for cream, the people are churning water. || 1 || Pause ||
+such wonders! Mistaking it for cream, the people are churning water. || 1 
 The donkey grazes upon the green grass; arising each day, he laughs and brays, and
 then dies. || 1 || The bull is intoxicated, and runs around wildly. He romps and eats
 and then falls into hell. || 2 || Says Kabeer, a strange sport has become manifest: the
@@ -6964,7 +6971,7 @@ is enlightened. Says Kabeer, the Guru has blessed me with this understanding. ||
 || 14 || GAUREE, KABEER JEE, PANCH-PADAS: I am like a fish out of water, because
 in my previous life, I did not practice penance and intense meditation. || 1 || Now tell
 me, Lord, what will my condition be? I left Benares — I had little common sense. || 1
-|| Pause || I wasted my whole life in the city of Shiva; at the time of my death, I
+ I wasted my whole life in the city of Shiva; at the time of my death, I
 moved to Magahar. || 2 || For many years, I practiced penance and intense
 meditation at Kaashi; now that my time to die has come, I have come to dwell at
 Magahar! || 3 || Kaashi and Magahar — I consider them the same. With inadequate
@@ -6973,7 +6980,7 @@ and Shiva all know that Kabeer died chanting the Lord‟s Name. || 5 || 15 || GA
 KABEER JEE: You may anoint your limbs with sandalwood oil, but in the end, that body
 will be burned with the firewood. || 1 || Why should anyone take pride in this body or
 wealth? They shall end up lying on the ground; they shall not go along with you to the
-world beyond. || 1 || Pause || They sleep by night and work during the day, but
+world beyond. || 1  They sleep by night and work during the day, but
 they do not chant the Lord‟s Name, even for an instant. || 2 || They hold the string of
 the kite in their hands, and chew betel leaves in their mouths, but at the time of death,
 they shall be tied up tight, like thieves. || 3 || Through the Guru‟s Teachings, and
@@ -6999,7 +7006,7 @@ into the untouched, unstruck melody of the Word of the Shabad. Only one who know
 the Lord realizes Him. The mind is satisfied and satiated, like the mute who eats the
 sugar candy and just smiles, without speaking. || 1 || Such is the spiritual wisdom
 which the Lord has imparted. O mind, hold your breath steady within the central
-channel of the Sushmanaa. || 1 || Pause || Adopt such a Guru, that you shall not
+channel of the Sushmanaa. || 1  Adopt such a Guru, that you shall not
 have to adopt another again. Dwell in such a state, that you shall never have to dwell in
 any other. Embrace such a meditation, that you shall never have to embrace any other.
 Die in such a way, that you shall never have to die again. || 2 || Turn your breath
@@ -7012,40 +7019,40 @@ close to the Lord. Says Kabeer, meditate on the Immaculate Lord. Go to that home
 which you shall never have to leave. || 4 || 18 || GAUREE, KABEER JEE, TI-PADAS:
 He cannot be obtained by offering your weight in gold. But I have bought the Lord by
 giving my mind to Him. || 1 || Now I recognize that He is my Lord. My mind is
-intuitively pleased with Him. || 1 || Pause || Brahma spoke of Him continually, but
+intuitively pleased with Him. || 1  Brahma spoke of Him continually, but
 could not find His limit. Because of my devotion to the Lord, He has come to sit within
 the home of my inner being. || 2 || Says Kabeer, I have renounced my restless
 intellect. It is my destiny to worship the Lord alone. || 3 || 1 || 19 || GAUREE,
 KABEER JEE: That death which terrifies the entire world — the nature of that death has
 been revealed to me, through the Word of the Guru‟s Shabad. || 1 || Now, how shall
 I die? My mind has already accepted death. Those who do not know the Lord, die over
-and over again, and then depart. || 1 || Pause || Everyone says, “I will die, I will
+and over again, and then depart. || 1  Everyone says, “I will die, I will
 die.” But he alone becomes immortal, who dies with intuitive understanding. || 2 ||
 Says Kabeer, my mind is filled with bliss; my doubts have been eliminated, and I am in
 ecstasy. || 3 || 20 || GAUREE, KABEER JEE: There is no special place where the soul
 aches; where should I apply the ointment? I have searched the body, but I have not
 found such a place. || 1 || He alone knows it, who feels the pain of such love; the
-arrows of the Lord‟s devotional worship are so sharp! || 1 || Pause || I look upon all
+arrows of the Lord‟s devotional worship are so sharp! || 1  I look upon all
 His soul-brides with an impartial eye; how can I know which ones are dear to the
 Husband Lord? || 2 || Says Kabeer, one who has such destiny inscribed upon her
 forehead — her Husband Lord turns all others away, and meets with her. || 3 || 21 || 
 ÓÓÓÓÓÓÓÓÓÓÓ 328 ÓÓÓÓÓÓÓÓÓ
 GAUREE, KABEER JEE: One who has the Lord as his Master, O Siblings of Destiny —
 countless liberations knock at his door. || 1 || If I say now that my trust is in You
-alone, Lord, then what obligation do I have to anyone else? || 1 || Pause || He
+alone, Lord, then what obligation do I have to anyone else? || 1  He
 bears the burden of the three worlds; why should He not cherish you also? || 2 ||
 Says Kabeer, through contemplation, I have obtained this one understanding. If the
 mother poisons her own child, what can anyone do? || 3 || 22 || GAUREE, KABEER
 JEE: Without Truth, how can the woman be a true satee — a widow who burns herself
 on her husband‟s funeral pyre? O Pandit, O religious scholar, see this and contemplate
 it within your heart. || 1 || Without love, how can one‟s affection increase? As long as
-there is attachment to pleasure, there can be no spiritual love. || 1 || Pause || One
+there is attachment to pleasure, there can be no spiritual love. || 1  One
 who, in his own soul, believes the Queen Maya to be true, does not meet the Lord,
 even in dreams. || 2 || One who surrenders her body, mind, wealth, home and self —
 she is the true soul-bride, says Kabeer. || 3 || 23 || GAUREE, KABEER JEE: The
 whole world is engrossed in corruption. This corruption has drowned entire families. ||
 1 || O man, why have you wrecked your boat and sunk it? You have broken with the
-Lord, and joined hands with corruption. || 1 || Pause || Angels and human beings
+Lord, and joined hands with corruption. || 1  Angels and human beings
 alike are burning in the raging fire. The water is near at hand, but the beast does not
 drink it in. || 2 || By constant contemplation and awareness, the water is brought
 forth. That water is immaculate and pure, says Kabeer. || 3 || 24 || GAUREE,
@@ -7057,57 +7064,57 @@ lives his life in this world like a deformed amputee. || 2 || Says Kabeer, witho
 Naam, the Name of the Lord, beautiful and handsome people are just ugly hunchbacks. || 3 || 25 || GAUREE, KABEER JEE: I am forever a sacrifice to those humble
 beings who take the Name of their Lord and Master. || 1 || Those who sing the
 Glorious Praises of the Pure Lord are pure. They are my Siblings of Destiny, so dear to
-my heart. || 1 || Pause || I am the dust of the lotus feet of those whose hearts are
+my heart. || 1  I am the dust of the lotus feet of those whose hearts are
 filled with the All-pervading Lord. || 2 || I am a weaver by birth, and patient of mind.
 Slowly, steadily, Kabeer chants the Glories of God. || 3 || 26 || GAUREE, KABEER
 JEE: From the Sky of the Tenth Gate, the nectar trickles down, distilled from my
 furnace. I have gathered in this most sublime essence, making my body into firewood.
 || 1 || He alone is called intoxicated with intuitive peace and poise, who drinks in the
-juice of the Lord‟s essence, contemplating spiritual wisdom. || 1 || Pause || Intuitive
+juice of the Lord‟s essence, contemplating spiritual wisdom. || 1  Intuitive
 poise is the bar-maid who comes to serve it. I pass my nights and days in ecstasy. || 2
 || Through conscious meditation, I linked my consciousness with the Immaculate Lord.
 Says Kabeer, then I obtained the Fearless Lord. || 3 || 27 || GAUREE, KABEER JEE:
 The natural tendency of the mind is to chase the mind. 
-ÓÓÓÓÓÓÓÓÓÓÓ 329 ÓÓÓÓÓÓÓÓÓ
+
 Who has established himself as a Siddha, a being of miraculous spiritual powers, by
 killing his mind? || 1 || Who is that silent sage, who has killed his mind? By killing the
-mind, tell me, who is saved? || 1 || Pause || Everyone speaks through the mind.
+mind, tell me, who is saved? || 1  Everyone speaks through the mind.
 Without killing the mind, devotional worship is not performed. || 2 || Says Kabeer,
 one who knows the secret of this mystery, beholds within his own mind the Lord of the
 three worlds. || 3 || 28 || GAUREE, KABEER JEE: The stars which are seen in the
 sky — who is the painter who painted them? || 1 || Tell me, O Pandit, what is the sky
-attached to? Very fortunate is the knower who knows this. || 1 || Pause || The sun
+attached to? Very fortunate is the knower who knows this. || 1  The sun
 and the moon give their light; God‟s creative extension extends everywhere. || 2 ||
 Says Kabeer, he alone knows this, whose heart is filled with the Lord, and whose mouth
 is also filled with the Lord. || 3 || 29 || GAUREE, KABEER JEE: The Simritee is the
 daughter of the Vedas, O Siblings of Destiny. She has brought a chain and a rope. || 1
 || She has imprisoned the people in her own city. She has tightened the noose of
-emotional attachment and shot the arrow of death. || 1 || Pause || By cutting, she
+emotional attachment and shot the arrow of death. || 1  By cutting, she
 cannot be cut, and she cannot be broken. She has become a serpent, and she is eating
 the world. || 2 || Before my very eyes, she has plundered the entire world. Says
 Kabeer, chanting the Lord‟s Name, I have escaped her. || 3 || 30 || GAUREE,
 KABEER JEE: I have grasped the reins and attached the bridle; abandoning everything,
 I now ride through the skies. || 1 || I made self-reflection my mount, and in the
-stirrups of intuitive poise, I placed my feet. || 1 || Pause || Come, and let me ride
+stirrups of intuitive poise, I placed my feet. || 1  Come, and let me ride
 you to heaven. If you hold back, then I shall strike you with the whip of spiritual love.
 || 2 || Says Kabeer, those who remain detached from the Vedas, the Koran and the
 Bible are the best riders. || 3 || 31 || GAUREE, KABEER JEE: That mouth, which
 used to eat the five delicacies — I have seen the flames being applied to that mouth. ||
 1 || O Lord, my King, please rid me of this one affliction: may I not be burned in fire,
-or cast into the womb again. || 1 || Pause || The body is destroyed by so many
+or cast into the womb again. || 1  The body is destroyed by so many
 ways and means. Some burn it, and some bury it in the earth. || 2 || Says Kabeer, O
 Lord, please reveal to me Your Lotus Feet; after that, go ahead and send me to my
 death. || 3 || 32 || GAUREE, KABEER JEE: He Himself is the fire, and He Himself is
 the wind. When our Lord and Master wishes to burn someone, then who can save him?
 || 1 || When I chant the Lord‟s Name, what does it matter if my body burns? My
-consciousness remains absorbed in the Lord‟s Name. || 1 || Pause || Who is burned,
+consciousness remains absorbed in the Lord‟s Name. || 1  Who is burned,
 and who suffers loss? The Lord plays, like the juggler with his ball. || 2 || Says
 Kabeer, chant the two letters of the Lord‟s Name — Raa Maa. If He is your Lord and
 Master, He will protect you. || 3 || 33 || GAUREE, KABEER JEE, DU-PADAS: I have
 not practiced Yoga, or focused my consciousness on meditation. Without renunciation, I
 cannot escape Maya. || 1 || How have I passed my life? 
-ÓÓÓÓÓÓÓÓÓÓÓ 330 ÓÓÓÓÓÓÓÓÓ
-I have not taken the Lord‟s Name as my Support. || 1 || Pause || Says Kabeer, I
+
+I have not taken the Lord‟s Name as my Support. || 1  Says Kabeer, I
 have searched the skies, and have not seen another, equal to the Lord. || 2 || 34 ||
 GAUREE, KABEER JEE: That head which was once embellished with the finest turban
 — upon that head, the crow now cleans his beak. || 1 || What pride should we take
@@ -7118,7 +7125,7 @@ RAAG GAUREE GWAARAYREE, ASHTAPADEES OF KABEER JEE:
 
 People beg for pleasure, but pain comes instead. I would rather not beg for that
 pleasure. || 1 || People are involved in corruption, but still, they hope for pleasure.
-How will they find their home in the Sovereign Lord King? || 1 || Pause || Even
+How will they find their home in the Sovereign Lord King? || 1  Even
 Shiva and Brahma are afraid of this pleasure, but I have judged that pleasure to be
 true. || 2 || Even sages like Sanak and Naarad, and the thousand-headed serpent, did
 not see the mind within the body. || 3 || Anyone can search for this mind, O Siblings
@@ -7132,21 +7139,21 @@ the Lord, the Giver of peace and pleasure. || 8 || There is One Soul, and it per
 all bodies. Kabeer dwells upon this Mind. || 9 || 1 || 36 || GAUREE GWAARAYREE:
 Those who are awake to the One Name, day and night — many of them have become
 Siddhas — perfect spiritual beings — with their consciousness attuned to the Lord. || 1
-|| Pause || The seekers, the Siddhas and the silent sages have all lost the game. The
+ The seekers, the Siddhas and the silent sages have all lost the game. The
 One Name is the wish-fulfilling Elysian Tree, which saves them and carries them across.
 || 1 || Those who are rejuvenated by the Lord, do not belong to any other. Says
 Kabeer, they realize the Name of the Lord. || 2 || 37 || GAUREE AND ALSO SORAT‟H:
 O shameless being, don‟t you feel ashamed? You have forsaken the Lord — now where
-will you go? Unto whom will you turn? || 1 || Pause || One whose Lord and Master
+will you go? Unto whom will you turn? || 1  One whose Lord and Master
 is the highest and most exalted — it is not proper for him to go to the house of another.
 || 1 || That Lord and Master is pervading everywhere. The Lord is always with us; He
 is never far away. || 2 || Even Maya takes to the Sanctuary of His Lotus Feet. Tell
 me, what is there which is not in His home? || 3 || Everyone speaks of Him; He is Allpowerful. He is His Own Master; He is the Giver. || 4 || Says Kabeer, he alone is
 perfect in this world, in whose heart there is none other than the Lord. || 5 || 38 || 
-ÓÓÓÓÓÓÓÓÓÓÓ 331 ÓÓÓÓÓÓÓÓÓ
+
 Whose son is he? Whose father is he? Who dies? Who inflicts pain? || 1 || The Lord is
 the thug, who has drugged and robbed the whole world. I am separated from the Lord;
-how can I survive, O my mother? || 1 || Pause || Whose husband is he? Whose wife
+how can I survive, O my mother? || 1  Whose husband is he? Whose wife
 is she? Contemplate this reality within your body. || 2 || Says Kabeer, my mind is
 pleased and satisfied with the thug. The effects of the drug have vanished, since I
 recognized the thug. || 3 || 39 || Now, the Lord, my King, has become my help and
@@ -7170,7 +7177,7 @@ as well. Standing up and sitting down, one is polluted; one‟s kitchen is pollu
 || 2 || Everyone knows how to be caught, but hardly anyone knows how to escape.
 Says Kabeer, those who meditate on the Lord within their hearts, are not polluted. || 3
 || 41 || GAUREE: Resolve this one conflict for me, O Lord, if you require any work
-from Your humble servant. || 1 || Pause || Is this mind greater, or the One to whom
+from Your humble servant. || 1  Is this mind greater, or the One to whom
 the mind is attuned? Is the Lord greater, or one who knows the Lord? || 1 || Is
 Brahma greater, or the One who created Him? Are the Vedas greater, or the One from
 which they came? || 2 || Says Kabeer, I have become depressed; is the sacred shrine
@@ -7188,7 +7195,7 @@ GAUREE CHAYTEE:
 They do not listen to the Lord‟s Praises, and they do not sing the Lord‟s Glories, but
 they try to bring down the sky with their talk. || 1 || What can anyone say to such
 people? You should always be careful around those whom God has excluded from His
-devotional worship. || 1 || Pause || They do not offer even a handful of water, while
+devotional worship. || 1  They do not offer even a handful of water, while
 they slander the one who brought forth the Ganges. || 2 || Sitting down or standing
 up, their ways are crooked and evil. They ruin themselves, and then they ruin others.
 || 3 || They know nothing except evil talk. They would not even obey Brahma‟s
@@ -7202,7 +7209,7 @@ He does not honor his ancestors while they are alive, but he holds feasts in the
 after they have died. Tell me, how can his poor ancestors receive what the crows and
 the dogs have eaten up? || 1 || If only someone would tell me what real happiness is!
 Speaking of happiness and joy, the world is perishing. How can happiness be found? ||
-1 || Pause || Making gods and goddesses out of clay, people sacrifice living beings to
+1  Making gods and goddesses out of clay, people sacrifice living beings to
 them. Such are your dead ancestors, who cannot ask for what they want. || 2 || You
 murder living beings and worship lifeless things; at your very last moment, you shall
 suffer in terrible pain. You do not know the value of the Lord‟s Name; you shall drown
@@ -7213,7 +7220,7 @@ who remains dead while yet alive, will live even after death; thus he merges int
 Primal Void of the Absolute Lord. Remaining pure in the midst of impurity, he will never
 again fall into the terrifying world-ocean. || 1 || O my Lord, this is the milk to be
 churned. Through the Guru‟s Teachings, hold your mind steady and stable, and in this
-way, drink in the Ambrosial Nectar. || 1 || Pause || The Guru‟s arrow has pierced
+way, drink in the Ambrosial Nectar. || 1  The Guru‟s arrow has pierced
 the hard core of this Dark Age of Kali Yuga, and the state of enlightenment has
 dawned. In the darkness of Maya, I mistook the rope for the snake, but that is over,
 and now I dwell in the eternal home of the Lord. || 2 || 
@@ -7228,7 +7235,7 @@ through the six chakras of the body, and my awareness was centered on the Primal
 Void of the Absolute Lord. Search for the One who does not come or go, who does not
 die and is not born, O renunciate. || 1 || My mind has turned away from the world,
 and is absorbed in the Mind of God. By Guru‟s Grace, my understanding has been
-changed; otherwise, I was totally ignorant. || 1 || Pause || That which was near has
+changed; otherwise, I was totally ignorant. || 1  That which was near has
 become distant, and again, that which was distant is near, for those who realize the
 Lord as He is. It is like the sugar water made from the candy; only one who drinks it
 knows its taste. || 2 || Unto whom should I speak Your speech, O Lord; it is beyond
@@ -7238,7 +7245,7 @@ There is no rainy season, ocean, sunshine or shade, no creation or destruction t
 No life or death, no pain or pleasure is felt there. There is only the Primal Trance of
 Samaadhi, and no duality. || 1 || The description of the state of intuitive poise is
 indescribable and sublime. It is not measured, and it is not exhausted. It is neither light
-nor heavy. || 1 || Pause || Neither lower nor upper worlds are there; neither day
+nor heavy. || 1  Neither lower nor upper worlds are there; neither day
 nor night are there. There is no water, wind or fire; there, the True Guru is contained.
 || 2 || The Inaccessible and Unfathomable Lord dwells there within Himself; by Guru‟s
 Grace, He is found. Says Kabeer, I am a sacrifice to my Guru; I remain in the Saadh
@@ -7246,7 +7253,7 @@ Sangat, the Company of the Holy. || 3 || 4 || 48 || GAUREE: With both sin and
 virtue, the ox of the body is purchased; the air of the breath is the capital which has
 appeared. The bag on its back is filled with desire; this is how we purchase the herd. ||
 1 || My Lord is such a wealthy merchant! He has made the whole world his peddler.
-|| 1 || Pause || Sexual desire and anger are the tax-collectors, and the waves of the
+|| 1  Sexual desire and anger are the tax-collectors, and the waves of the
 mind are the highway robbers. The five elements join together and divide up their loot.
 This is how our herd is disposed of! || 2 || Says Kabeer, listen, O Saints: This is the
 state of affairs now! Going uphill, the ox has grown weary; throwing off his load, he
@@ -7254,10 +7261,10 @@ continues on his journey. || 3 || 5 || 49 || GAUREE, PANCH-PADAS: For a few shor
 days, the soul-bride stays in her parent‟s house; then, she must go to her in-laws. The
 blind, foolish and ignorant people do not know this. || 1 || Tell me, why is the bride
 wearing her ordinary clothes? The guests have arrived at her home, and her Husband
-has come to take her away. || 1 || Pause || Who has lowered the rope of the breath
+has come to take her away. || 1  Who has lowered the rope of the breath
 down, into the well of the world which we see? The rope of the breath breaks away
 from the pitcher of the body, and the water-carrier gets up and departs. || 2 || 
-ÓÓÓÓÓÓÓÓÓÓÓ 334 ÓÓÓÓÓÓÓÓÓ
+
 When the Lord and Master is kind and grants His Grace, then her affairs are all
 resolved. Then she is known as the happy soul-bride, if she contemplates the Word of
 the Guru‟s Shabad. || 3 || Bound by the actions she has committed, she wanders
@@ -7268,7 +7275,7 @@ that Yoga is good and sweet, and nothing else is, O Siblings of Destiny. Those w
 shave their heads, and those who amputate their limbs, and those who utter only a
 single word, all say that they have attained the spiritual perfection of the Siddhas. || 1
 || Without the Lord, the blind ones are deluded by doubt. And those, to whom I go to
-find release — they themselves are bound by all sorts of chains. || 1 || Pause || The
+find release — they themselves are bound by all sorts of chains. || 1  The
 soul is re-absorbed into that from which it originated, when one leaves this path of
 errors. The scholarly Pandits, the virtuous, the brave and the generous, all assert that
 they alone are great. || 2 || He alone understands, whom the Lord inspires to
@@ -7294,7 +7301,7 @@ knows the secrets of His mystery; He is eternal and indestructible. || 4 || 1 ||
 GAUREE: Let contemplation and intuitive meditation be your two ear-rings, and true
 wisdom your patched overcoat. In the cave of silence, dwell in your Yogic posture; let
 the subjugation of desire be your spiritual path. || 1 || O my King, I am a Yogi, a
-hermit, a renunciate. I do not die or suffer pain or separation. || 1 || Pause || The
+hermit, a renunciate. I do not die or suffer pain or separation. || 1  The
 solar systems and galaxies are my horn; the whole world is the bag to carry my ashes.
 Eliminating the three qualities and finding release from this world is my deep
 meditation. || 2 || My mind and breath are the two gourds of my fiddle, and the Lord
@@ -7306,7 +7313,7 @@ does not waver, and it is not affected by Maya. Says Kabeer, the bairaagee, the
 renunciate, who has played such a game, is not reincarnated again into the world of
 form and substance. || 4 || 2 || 53 || GAUREE: Nine yards, ten yards, and twentyone yards — weave these into the full piece of cloth; take the sixty threads and add
 nine joints to the seventy-two on the loom. || 1 || Life weaves itself into its patterns.
-Leaving her home, the soul goes to the world of the weaver. || 1 || Pause || This
+Leaving her home, the soul goes to the world of the weaver. || 1  This
 cloth cannot be measured in yards or weighed with weights; its food is two and a half
 measures. If it does not obtain food right away, it quarrels with the master of the
 house. || 2 || How many days will you sit here, in opposition to your Lord and
@@ -7315,9 +7322,10 @@ bobbins wet with his tears, the weaver soul departs in jealous anger. || 3 || Th
 wind-pipe is empty now; the thread of the breath does not come out any longer. The
 thread is tangled; it has run out. So renounce the world of form and substance while
 you remain here, O poor soul; says Kabeer: you must understand this! || 4 || 3 || 54 ||
+
 GAUREE: When one light merges into another, what becomes of it then? That person,
 within whose heart the Lord‟s Name does not well up — may that person burst and die!
-|| 1 || O my dark and beautiful Lord, my mind is attached to You. || 1 || Pause ||
+|| 1 || O my dark and beautiful Lord, my mind is attached to You. || 1 
 Meeting with the Holy, the perfection of the Siddhas is obtained. What good is Yoga or
 indulgence in pleasures? When the two meet together, the business is conducted, and
 the link with the Lord‟s Name is established. || 2 || People believe that this is just a
@@ -7329,7 +7337,7 @@ drowned in the terrifying world-ocean; they cannot cross over. Those who practic
 religious rituals and strict self-discipline — their egotistical pride shall consume their
 minds. || 1 || Your Lord and Master has given you the breath of life and food to
 sustain you; Oh, why have you forgotten Him? Human birth is a priceless jewel, which
-has been squandered in exchange for a worthless shell. || 1 || Pause || The thirst of
+has been squandered in exchange for a worthless shell. || 1  The thirst of
 desire and the hunger of doubt afflict you; you do not contemplate the Lord in your
 heart. Intoxicated with pride, you cheat yourself; you have not enshrined the Word of
 the Guru‟s Shabad within your mind. || 2 || Those who are deluded by sensual
@@ -7341,7 +7349,7 @@ away. Says Kabeer, meeting with the Guru, I have obtained supreme joy; my love a
 devotion have saved me. || 4 || 1 || 5 || 56 || GAUREE: Like the straw figure of a
 female elephant, fashioned to trap the bull elephant, O crazy mind, the Lord of the
 Universe has staged the drama of this world. 
-ÓÓÓÓÓÓÓÓÓÓÓ 336 ÓÓÓÓÓÓÓÓÓ
+
 Attracted by the lure of sexual desire, the elephant is captured, O crazy mind, and now
 the halter is placed around its neck. || 1 || So escape from corruption and immerse
 yourself in the Lord; take this advice, O crazy mind. You have not meditated fearlessly
@@ -7358,7 +7366,7 @@ Accumulate the wealth of the Lord‟s Name; that wealth does not go anywhere. ||
 My wealth is God, the Lord of Wealth, the Lord of the Universe, the Support of the
 earth: this is called the most excellent wealth. The peace which is obtained by serving
 God, the Lord of the Universe — that peace cannot be found in kingdoms or power. ||
-1 || Pause || Shiva and Sanak, in their search for this wealth, became Udaasees, and
+1 Shiva and Sanak, in their search for this wealth, became Udaasees, and
 renounced the world. One whose mind is filled with the Lord of liberation, and whose
 tongue chants the Name of the Lord, shall not be caught by the noose of Death. || 2 ||
 My own wealth is the spiritual wisdom and devotion given by the Guru; my mind is held
@@ -7371,7 +7379,7 @@ Like the monkey with a handful of grain, who will not let go because of greed �
 all the deeds committed in greed ultimately become a noose around one‟s neck. || 1 ||
 Without devotional worship, human life passes away in vain. Without the Saadh Sangat,
 the Company of the Holy, without vibrating and meditating on the Lord God, one does
-not abide in Truth. || 1 || Pause || Like the flower which blossoms in the wilderness
+not abide in Truth. || 1  Like the flower which blossoms in the wilderness
 with no one to enjoy its fragrance, so do people wander in reincarnation; over and over
 again, they are destroyed by Death. || 2 || This wealth, youth, children and spouse
 which the Lord has given you — this is all just a passing show. Those who are caught
@@ -7381,7 +7389,7 @@ Kabeer, to cross over the terriffying world-ocean, I have taken to the Shelter o
 True Guru. || 4 || 1 || 8 || 59 || GAUREE: The water of the sperm is cloudy, and the
 egg of the ovary is crimson. From this clay, the puppet is fashioned. || 1 || I am
 nothing, and nothing is mine. This body, wealth, and all delicacies are Yours, O Lord of
-the Universe. || 1 || Pause || 
+the Universe. || 1  
 ÓÓÓÓÓÓÓÓÓÓÓ 337 ÓÓÓÓÓÓÓÓÓ
 Into this clay, the breath is infused. By Your Power, You have set this false contrivance
 in motion. || 2 || Some collect hundreds of thousands of dollars, but in the end, the
@@ -7389,7 +7397,7 @@ pitcher of the body bursts. || 3 || Says Kabeer, that single foundation which yo
 laid will be destroyed in an instant — you are so egotistical. || 4 || 1 || 9 || 60 ||
 GAUREE: Just as Dhroo and Prahlaad meditated on the Lord, so should you meditate
 on the Lord, O my soul. || 1 || O Lord, Merciful to the meek, I have placed my faith in
-You; along with all my family, I have come aboard Your boat. || 1 || Pause || When
+You; along with all my family, I have come aboard Your boat. || 1  When
 it is pleasing to Him, then He inspires us to obey the Hukam of His Command. He
 causes this boat to cross over. || 2 || By Guru‟s Grace, such understanding is infused
 into me; my comings and goings in reincarnation have ended. || 3 || Says Kabeer,
@@ -7405,7 +7413,7 @@ Lord, the Sustainer of the earth. He is not seen to be coming or going; He is th
 Knower of all. || 4 || 1 || 11 || 62 || GAUREE POORBEE: Don‟t wish for a home in
 heaven, and don‟t be afraid to live in hell. Whatever will be will be, so don‟t get your
 hopes up in your mind. || 1 || Sing the Glorious Praises of the Lord, from whom the
-most excellent treasure is obtained. || 1 || Pause || What good is chanting, penance
+most excellent treasure is obtained. || 1  What good is chanting, penance
 or self-mortification? What good is fasting or cleansing baths, unless you know the way
 to worship the Lord God with loving devotion? || 2 || Don‟t feel so delighted at the
 sight of wealth, and don‟t weep at the sight of suffering and adversity. As is wealth, so
@@ -7414,55 +7422,54 @@ know that the Lord dwells within the hearts of His Saints; that servant performs
 best service, whose heart is filled with the Lord. || 4 || 1 || 12 || 63 || GAUREE: O
 my mind, even if you carry someone‟s burden, they don‟t belong to you. This world is
 like the perch of the bird on the tree. || 1 || I drink in the sublime essence of the
-Lord. With the taste of this essence, I have forgotten all other tastes. || 1 || Pause ||
+Lord. With the taste of this essence, I have forgotten all other tastes. || 1 
 Why should we weep at the death of others, when we ourselves are not permanent?
 Whoever is born shall pass away; why should we cry out in grief? || 2 || We are reabsorbed into the One from whom we came; drink in the Lord‟s essence, and remain
 attached to Him. Says Kabeer, my consciousness is filled with thoughts of remembrance
 of the Lord; I have become detached from the world. || 3 || 2 || 13 || 64 || RAAG
 GAUREE: The bride gazes at the path, and sighs with tearful eyes. 
-ÓÓÓÓÓÓÓÓÓÓÓ 338 ÓÓÓÓÓÓÓÓÓ
+
 Her heart is not happy, but she does not retrace her steps, in hopes of seeing the
 Blessed Vision of the Lord‟s Darshan. || 1 || So fly away, black crow, so that I may
-quickly meet my Beloved Lord. || 1 || Pause || Says Kabeer, to obtain the status of
+quickly meet my Beloved Lord. || 1  Says Kabeer, to obtain the status of
 eternal life, worship the Lord with devotion. The Name of the Lord is my only Support;
 with my tongue, I chant the Lord‟s Name. || 2 || 1 || 14 || 65 || RAAG GAUREE 11:
 All around, there are thick bushes of sweet basil, and there in the midst of the forest,
 the Lord is singing with joy. Beholding His wondrous beauty, the milk-maid was
 entranced, and said, “Please don‟t leave me; please don‟t come and go!” || 1 || My
 mind is attached to Your Feet, O Archer of the Universe; he alone meets You, who is
-blessed by great good fortune. || 1 || Pause || In Brindaaban, where Krishna grazes
+blessed by great good fortune. || 1  In Brindaaban, where Krishna grazes
 his cows, he entices and fascinates my mind. You are my Lord Master, the Archer of the
 Universe; my name is Kabeer. || 2 || 2 || 15 || 66 || GAUREE POORBEE 12: Many
 people wear various robes, but what is the use of living in the forest? What good does it
 do if a man burns incense before his gods? What good does it do to dip one‟s body in
 water? || 1 || O soul, I know that I will have to depart. You ignorant idiot: understand
 the Imperishable Lord. Whatever you see, you will not see that again, but still, you cling
-to Maya. || 1 || Pause || The spiritual teachers, meditators and the great preachers
+to Maya. || 1  The spiritual teachers, meditators and the great preachers
 are all engrossed in these worldly affairs. Says Kabeer, without the Name of the One
 Lord, this world is blinded by Maya. || 2 || 1 || 16 || 67 || GAUREE 12: O people, O
 victims of this Maya, abandon your doubts and dance out in the open. What sort of a
 hero is one who is afraid to face the battle? What sort of satee is she who, when her
 time comes, starts collecting her pots and pans? || 1 || Stop your wavering, O crazy
 people! Now that you have taken up the challenge of death, let yourself burn and die,
-and attain perfection. || 1 || Pause || The world is engrossed in sexual desire, anger
+and attain perfection. || 1  The world is engrossed in sexual desire, anger
 and Maya; in this way it is plundered and ruined. Says Kabeer, do not forsake the Lord,
 your Sovereign King, the Highest of the High. || 2 || 2 || 17 || 68 || GAUREE 13:
 Your Command is upon my head, and I no longer question it. You are the river, and
 You are the boatman; salvation comes from You. || 1 || O human being, embrace the
 Lord‟s meditation, whether your Lord and Master is angry with you or in love with you.
-|| 1 || Pause || Your Name is my Support, like the flower blossoming in the water.
+|| 1  Your Name is my Support, like the flower blossoming in the water.
 Says Kabeer, I am the slave of Your home; I live or die as You will. || 2 || 18 || 69 ||
 GAUREE: Wandering through 8.4 million incarnations, Krishna‟s father Nand was totally
 exhausted. Because of his devotion, Krishna was incarnated in his home; how great was
 the good fortune of this poor man! || 1 || You say that Krishna was Nand‟s son, but
 whose son was Nand himself? When there was no earth or ether or the ten directions,
 where was this Nand then? || 1 || 
-ÓÓÓÓÓÓÓÓÓÓÓ 339 ÓÓÓÓÓÓÓÓÓ
-Pause || He does not fall into misfortune, and He does not take birth; His Name is the
+ He does not fall into misfortune, and He does not take birth; His Name is the
 Immaculate Lord. Kabeer‟s Lord is such a Lord and Master, who has no mother or
 father. || 2 || 19 || 70 || GAUREE: Slander me, slander me — go ahead, people, and
 slander me. Slander is pleasing to the Lord‟s humble servant. Slander is my father,
-slander is my mother. || 1 || Pause || If I am slandered, I go to heaven; the wealth
+slander is my mother. || 1  If I am slandered, I go to heaven; the wealth
 of the Naam, the Name of the Lord, abides within my mind. If my heart is pure, and I
 am slandered, then the slanderer washes my clothes. || 1 || One who slanders me is
 my friend; the slanderer is in my thoughts. The slanderer is the one who prevents me
@@ -7470,7 +7477,7 @@ from being slandered. The slanderer wishes me long life. || 2 || I have love and
 affection for the slanderer. Slander is my salvation. Slander is the best thing for servant
 Kabeer. The slanderer is drowned, while I am carried across. || 3 || 20 || 71 || O my
 Sovereign Lord King, You are Fearless; You are the Carrier to carry us across, O my
-Lord King. || 1 || Pause || When I was, then You were not; now that You are, I am
+Lord King. || 1  When I was, then You were not; now that You are, I am
 not. Now, You and I have become one; seeing this, my mind is content. || 1 || When
 there was wisdom, how could there be strength? Now that there is wisdom, strength
 cannot prevail. Says Kabeer, the Lord has taken away my wisdom, and I have attained
@@ -7478,14 +7485,14 @@ spiritual perfection. || 2 || 21 || 72 || GAUREE: He fashioned the body chamber 
 six rings, and placed within it the incomparable thing. He made the breath of life the
 watchman, with lock and key to protect it; the Creator did this in no time at all. || 1 ||
 Keep your mind awake and aware now, O Sibling of Destiny. You were careless, and
-you have wasted your life; your home is being plundered by thieves. || 1 || Pause ||
+you have wasted your life; your home is being plundered by thieves. || 1 
 The five senses stand as guards at the gate, but now can they be trusted? When you
 are conscious in your consciousness, you shall be enlightened and illuminated. || 2 ||
 Seeing the nine openings of the body, the soul-bride is led astray; she does not obtain
 that incomparable thing. Says Kabeer, the nine openings of the body are being
 plundered; rise up to the Tenth Gate, and discover the true essence. || 3 || 22 || 73 ||
 GAUREE: O mother, I do not know any other, except Him. My breath of life resides in
-Him, whose praises are sung by Shiva and Sanak and so many others. || 1 || Pause ||
+Him, whose praises are sung by Shiva and Sanak and so many others. || 1 
 My heart is illuminated by spiritual wisdom; meeting the Guru, I meditate in the Sky of
 the Tenth Gate. The diseases of corruption, fear and bondage have run away; my mind
 has come to know peace in its own true home. || 1 || Imbued with a balanced singlemindedness, I know and obey God; nothing else enters my mind. My mind has become
@@ -7641,7 +7648,7 @@ Liberation while yet alive. You shall come to know the Shabad, the Word of the F
 Lord, and the essence of your own inner being. || 1 || One who enshrines love for
 the Lotus Feet of the Lord of the Universe — by the Grace of the Saints, her mind
 becomes pure; night and day, she remains awake and aware, singing the Kirtan of the
-Lord‟s Praises. || 1 || Pause || On the first day of the lunar cycle, contemplate the
+Lord‟s Praises. || 1  On the first day of the lunar cycle, contemplate the
 Beloved Lord. He is playing within the heart; He has no body — He is Infinite. The pain
 of death never consumes that person who remains absorbed in the Primal Lord God. ||
 2 || On the second day of the lunar cycle, know that there are two beings within the
@@ -7667,7 +7674,8 @@ King of the supreme treasure. The Guru, who knows this spiritual wisdom, reveals
 secret of this mystery. Turning away from the world, He abides in the Unbreakable and
 Impenetrable Lord. || 9 || On the ninth day of the lunar cycle, discipline the nine
 gates of the body. Keep your pulsating desires restrained. 
-ÓÓÓÓÓÓÓÓÓÓÓ 344 ÓÓÓÓÓÓÓÓÓ
+
+
 Forget all your greed and emotional attachment; you shall live throughout the ages,
 eating the fruit of immortality. || 10 || On the tenth day of the lunar cycle, there is
 ecstasy in all directions. Doubt is dispelled, and the Lord of the Universe is met. He is
@@ -7691,7 +7699,7 @@ middle, God remains firm and steady. Kabeer is immersed in the ocean of peace. |
 
 RAAG GAUREE, THE SEVEN DAYS OF THE WEEK OF KABEER JEE:
 Sing the Glorious Praises of the Lord each and every day. Meeting with the Guru, you
-shall come to know the mystery of the Lord. || 1 || Pause || On Sunday, begin the
+shall come to know the mystery of the Lord. || 1  On Sunday, begin the
 devotional worship of the Lord, and restrain the desires within the temple of the body.
 When your attention is focused day and night upon that imperishable place, then the
 celestial flutes play the unstruck melody in tranquil peace and poise. || 1 || On
@@ -7716,13 +7724,13 @@ for the Lord, says Kabeer, then, you shall become pure in your very fiber. || 8 
 RAAG GAUREE CHAYTEE, THE WORD OF NAAM DAYV JEE:
 
 God makes even stones float. So why shouldn‟t Your humble slave also float across,
-chanting Your Name, O Lord? || 1 || Pause || You saved the prostitute, and the ugly
+chanting Your Name, O Lord? || 1  You saved the prostitute, and the ugly
 hunch-back; You helped the hunter and Ajaamal swim across as well. The hunter who
 shot Krishna in the foot — even he was liberated. I am a sacrifice, a sacrifice to those
 who chant the Lord‟s Name. || 1 || You saved Bidur, the son of the slave-girl, and
 Sudama; You restored Ugrasain to his throne. Without meditation, without penance,
 without a good family, without good deeds, Naam Dayv‟s Lord and Master saved them
-all. || 2 || 1 ||
+all.
 
 
 
@@ -7731,14 +7739,14 @@ RAAG GAUREE, PADAS OF RAVI DAAS JEE, GAUREE GWAARAYREE:
 
 The company I keep is wretched and low, and I am anxious day and night; my actions
 are crooked, and I am of lowly birth. || 1 || O Lord, Master of the earth, Life of the
-soul, please do not forget me! I am Your humble servant. || 1 || Pause || Take away
+soul, please do not forget me! I am Your humble servant. || 1  Take away
 my pains, and bless Your humble servant with Your Sublime Love. I shall not leave Your
 Feet, even though my body may perish. || 2 || Says Ravi Daas, I seek the protection
 of Your Sanctuary; please, meet Your humble servant — do not delay! || 3 || 1 ||
 Baygumpura, „the city without sorrow‟, is the name of the town. There is no suffering or
 anxiety there. There are no troubles or taxes on commodities there. There is no fear,
 blemish or downfall there. || 1 || Now, I have found this most excellent city. There is
-lasting peace and safety there, O Siblings of Destiny. || 1 || Pause || God‟s Kingdom
+lasting peace and safety there, O Siblings of Destiny. || 1  God‟s Kingdom
 is steady, stable and eternal. There is no second or third status; all are equal there.
 That city is populous and eternally famous. Those who live there are wealthy and
 contented. || 2 || They stroll about freely, just as they please. They know the
@@ -7750,7 +7758,7 @@ The path to God is very treacherous and mountainous, and all I have is this wort
 ox. I offer this one prayer to the Lord, to preserve my capital. || 1 || Is there any
 merchant of the Lord to join me? 
 ÓÓÓÓÓÓÓÓÓÓÓ 346 ÓÓÓÓÓÓÓÓÓ
-My cargo is loaded, and now I am leaving. || 1 || Pause || I am the merchant of the
+My cargo is loaded, and now I am leaving. || 1  I am the merchant of the
 Lord; I deal in spiritual wisdom. I have loaded the Wealth of the Lord‟s Name; the world
 has loaded poison. || 2 || O you who know this world and the world beyond: write
 whatever nonsense you please about me. The club of the Messenger of Death shall not
@@ -7762,7 +7770,7 @@ GAUREE POORBEE, RAVI DAAS JEE:
 The frog in the deep well knows nothing of its own country or other lands; just so, my
 mind, infatuated with corruption, understands nothing about this world or the next. || 1 ||
 O Lord of all worlds: reveal to me, even for an instant, the Blessed Vision of Your Darshan.
-|| 1 || Pause || My intellect is polluted; I cannot understand Your state, O Lord. Take
+|| 1  My intellect is polluted; I cannot understand Your state, O Lord. Take
 pity on me, dispel my doubts, and teach me true wisdom. || 2 || Even the great Yogis
 cannot describe Your Glorious Virtues; they are beyond words. I am dedicated to Your
 loving devotional worship, says Ravi Daas the tanner. || 3 || 1 ||
@@ -7772,7 +7780,7 @@ In the Golden Age of Sat Yuga, was Truth; in the Silver Age of Trayta Yuga, char
 feasts; in the Brass Age of Dwaapar Yuga, there was worship. In those three ages, people
 held to these three ways. But in the Iron Age of Kali Yuga, the Name of the Lord is your
 only Support. || 1 || How can I swim across? No one has explained to me, so that I
-might understand how I can escape reincarnation. || 1 || Pause || So many forms of
+might understand how I can escape reincarnation. || 1  So many forms of
 religion have been described; the whole world is practicing them. What actions will bring
 emancipation, and total perfection? || 2 || One may distinguish between good and evil
 actions, and listen to the Vedas and the Puraanas, but doubt still persists. Skepticism
@@ -7789,7 +7797,6 @@ doubts, entanglements and vices are cut away. The mind is restrained, and one at
 contemplating the One Lord, who is both with and without qualities. || 7 || I have tried
 many methods, but by turning it away, the noose of doubt is not turned away. Love and
 devotion have not welled up within me, and so Ravi Daas is disillusioned and discouraged.
-|| 8 || 1 || 
 
 
 
@@ -7856,7 +7863,7 @@ sings the Glorious Praises of the Creator, the Knower of all. || 5 || 1 || 2 ||
 RAAG AASAA, FIRST MEHL, CHAUPADAY, SECOND HOUSE:
 Hearing, everyone calls You Great, but only one who has seen You, knows just how
 Great You are. 
-ÓÓÓÓÓÓÓÓÓÓÓ 349 ÓÓÓÓÓÓÓÓÓ
+
 No one can measure Your Worth, or describe You. Those who describe You, remain
 absorbed in You. || 1 || O my Great Lord and Master of Unfathomable Depth, You are
 the Ocean of Excellence. No one knows the greatness of Your expanse. || 1 || Pause
@@ -7871,7 +7878,7 @@ unto whom You give — why should he think of any other? O Nanak, the True Lord 
 the Embellisher. || 4 || 1 || AASAA, FIRST MEHL: Chanting the Name, I live;
 forgetting it, I die. It is so difficult to chant the True Name. If someone feels hunger for
 the True Name, then that hunger shall consume his pains. || 1 || So how could I ever
-forget Him, O my Mother? True is the Master, and True is His Name. || 1 || Pause ||
+forget Him, O my Mother? True is the Master, and True is His Name. || 1 
 People have grown weary of trying to appraise the greatness of the True Name, but
 they have not been able to appraise even an iota of it. Even if they were all to meet
 together and recount them, You would not be made any greater or lesser. || 2 || He
@@ -7884,7 +7891,7 @@ people are wretched outcasts. || 4 || 2 || AASAA, FIRST MEHL: If a beggar cries 
 at the door, the Master hears it in His Mansion. Whether He receives him or pushes him
 away, it is the Gift of the Lord‟s Greatness. || 1 || Recognize the Lord‟s Light within
 all, and do not consider social class or status; there are no classes or castes in the world
-hereafter. || 1 || Pause || He Himself acts, and He Himself inspires us to act. He
+hereafter. || 1  He Himself acts, and He Himself inspires us to act. He
 Himself considers our complaints. Since You, O Creator Lord, are the Doer, why should
 I submit to the world? || 2 || You Yourself created and You Yourself give. You
 Yourself eliminate evil-mindedness; by Guru‟s Grace, You come to abide in our minds,
@@ -7895,7 +7902,7 @@ says Nanak, then, in the world hereafter, that person is not called to account. 
 drum of the world resounds with the beat. Naarad dances to the tune of the Dark Age
 of Kali Yuga; where can the celibates and the men of truth place their feet? || 1 ||
 Nanak is a sacrifice to the Naam, the Name of the Lord. The world is blind; our Lord
-and Master is All-seeing. || 1 || Pause || The disciple feeds on the Guru; out of love
+and Master is All-seeing. || 1  The disciple feeds on the Guru; out of love
 for bread, he comes to dwell in his home. 
 ÓÓÓÓÓÓÓÓÓÓÓ 350 ÓÓÓÓÓÓÓÓÓ
 If one were to live and eat for hundreds of years, that day alone would be auspicious,
@@ -7909,7 +7916,7 @@ MEHL: As much as the Shabad is in the mind, so much is Your melody; as much as t
 form of the universe is, so much is Your body, Lord. You Yourself are the tongue, and
 You Yourself are the nose. Do not speak of any other, O my mother. || 1 || My Lord
 and Master is One; He is the One and Only; O Siblings of Destiny, He is the One alone.
-|| 1 || Pause || He Himself kills, and He Himself emancipates; He Himself gives and
+|| 1  He Himself kills, and He Himself emancipates; He Himself gives and
 takes. He Himself beholds, and He Himself rejoices; He Himself bestows His Glance of
 Grace. || 2 || Whatever He is to do, that is what He is doing. No one else can do
 anything. As He projects Himself, so do we describe Him; this is all Your Glorious
@@ -7920,7 +7927,7 @@ intellect your instrument, and love your tambourine; thus bliss and lasting plea
 be produced in your mind. This is devotional worship, and this is the practice of
 penance. So dance in this love, and keep the beat with your feet. || 1 || Know that
 the perfect beat is the Praise of the Lord; other dances produce only temporary
-pleasure in the mind. || 1 || Pause || Play the two cymbals of truth and
+pleasure in the mind. || 1  Play the two cymbals of truth and
 contentment. Let your ankle bells be the lasting Vision of the Lord. Let your harmony
 and music be the elimination of duality. So dance in this love, and keep the beat with
 your feet. || 2 || Let the fear of God within your heart and mind be your spinning
@@ -7932,7 +7939,7 @@ this love, and keep the beat with your feet. || 4 || 6 || AASAA, FIRST MEHL: He
 created the air, and He supports the whole world; he bound water and fire together.
 The blind, ten-headed Raavan had his heads cut off, but what greatness was obtained
 by killing him? || 1 || What Glories of Yours can be chanted? You are totally
-pervading everywhere; You love and cherish all. || 1 || Pause || You created all
+pervading everywhere; You love and cherish all. || 1  You created all
 beings, and You hold the world in Your Hands; what greatness is it to put a ring in the
 nose of the black cobra, as Krishna did? Whose Husband are You? Who is Your wife?
 You are subtly diffused and pervading in all. || 2 || Brahma, the bestower of
@@ -7947,7 +7954,7 @@ AASAA, FIRST MEHL: The vine of good actions and character has spread out, and it
 bears the fruit of the Lord‟s Name. The Name has no form or outline; it vibrates with
 the unstruck Sound Current; through the Word of the Shabad, the Immaculate Lord is
 revealed. || 1 || One can speak on this only when he knows it. He alone drinks in the
-Ambrosial Nectar. || 1 || Pause || Those who drink it in are enraptured; their bonds
+Ambrosial Nectar. || 1  Those who drink it in are enraptured; their bonds
 and shackles are cut away. When one‟s light blends into the Divine Light, then the
 desire for Maya is ended. || 2 || Among all lights, I behold Your Form; all the worlds
 are Your Maya. Among the tumults and forms, He sits in serene detachment; He
@@ -7958,7 +7965,7 @@ says Nanak, the humble and meek. || 4 || 8 || AASAA, FIRST MEHL: My virtue is
 that I carry the load of my words upon my head. The real words are the Words of the
 Creator Lord. How useless are eating, drinking and laughing, if the Lord is not cherished
 in the heart! || 1 || Why should someone care for anything else, if throughout his life,
-he gathers in that which is truly worth gathering? || 1 || Pause || The intellect of the
+he gathers in that which is truly worth gathering? || 1  The intellect of the
 mind is like a drunken elephant. Whatever one utters is totally false, the most false of
 the false. So what face should we put on to offer our prayer, when both virtue and vice
 are close at hand as witnesses? || 2 || As You make us, so we become. Without You,
@@ -7970,7 +7977,7 @@ essential reality were understood! || 4 || 9 || AASAA, FIRST MEHL: When by His
 Grace He came to my home, then my companions met together to celebrate my
 marriage. Beholding this play, my mind became blissful; my Husband Lord has come to
 marry me. || 1 || So sing — yes, sing the songs of wisdom and and reflection, O
-brides. My spouse, the Life of the world, has come into my home. || 1 || Pause ||
+brides. My spouse, the Life of the world, has come into my home. || 1 
 When I was married within the Gurdwara, the Guru‟s Gate, I met my Husband Lord,
 and I came to know Him. The Word of His Shabad is pervading the three worlds; when
 my ego was quieted, my mind became happy. || 2 || He Himself arranges His own
@@ -7984,7 +7991,7 @@ God take its place. To chant the True Name with one‟s mouth is the true ladder
 
 Serving the True Guru, one finds one‟s own place within the self. || 1 || To conquer
 the mind is the knowledge of the six Shaastras. The Divine Light of the Lord God is
-perfectly pervading. || 1 || Pause || Excessive thirst for Maya makes people wear all
+perfectly pervading. || 1  Excessive thirst for Maya makes people wear all
 sorts of religious robes. The pain of corruption destroys the body‟s peace. Sexual desire
 and anger steal the wealth of the self within. But by abandoning duality, one is
 emancipated through the Naam, the Name of the Lord. || 2 || In the Lord‟s Praise
@@ -7996,7 +8003,7 @@ Whoever is born, continues to come and go. O Nanak, only the Naam and the Lord�
 Command are eternal and everlasting. || 4 || 11 || AASAA, FIRST MEHL: In the pool
 is the one incomparably beautiful lotus. It blossoms continually; its form is pure and
 fragrant. The swans pick up the bright jewels. They take on the essence of the Allpowerful Lord of the Universe. || 1 || Whoever is seen, is subject to birth and death.
-In the pool without water, the lotus is not seen. || 1 || Pause || How rare are those
+In the pool without water, the lotus is not seen. || 1  How rare are those
 who know and understand this secret. The Vedas continually speak of the three
 branches. One who merges into the knowledge of the Lord as absolute and related,
 serves the True Guru and obtains the supreme status. || 2 || One who is imbued with
@@ -8011,7 +8018,7 @@ Teachings from the Guru, arguments depart. But through excessive cleverness, one
 only plastered with dirt. The filth of attachment is removed by the True Name of the
 Lord. By Guru‟s Grace, one remains lovingly attached to the Lord. || 1 || He is the
 Presence Ever-present; offer your prayers to Him. Pain and pleasure are in the Hands of
-God, the True Creator. || 1 || Pause || One who practices falsehood comes and
+God, the True Creator. || 1  One who practices falsehood comes and
 goes. By speaking and talking, His limits cannot be found. Whatever one sees, is not
 understood. Without the Name, satisfaction does not enter into the mind. || 2 ||
 Whoever is born is afflicted by disease, tortured by the pain of egotism and Maya. They
@@ -8026,7 +8033,7 @@ from the Lord. Night and day, one dwells with the Beloved. || 1 || O Lord, pleas
 keep me in the Protection of Your Sanctuary. 
 
 By Guru‟s Grace, I have obtained the sublime essence of the Lord; I have received the
-wealth of the Naam and the nine treasures. || 1 || Pause || Those whose karma and
+wealth of the Naam and the nine treasures. || 1  Those whose karma and
 Dharma — whose actions and faith — are in the True Name of the True Lord — I am
 forever a sacrifice to them. Those who are imbued with the Lord are accepted and
 respected. In their company, the supreme wealth is obtained. || 2 || Blessed is that
@@ -8041,7 +8048,7 @@ with the Lord; they remain absorbed in Him. Some find no place of rest at all, o
 earth or in the sky. Those who do not meditate on the Name of the Lord are the most
 unfortunate. || 1 || From the Perfect Guru, the way to salvation is obtained. This
 world is a terrifying ocean of poison; through the Word of the Guru‟s Shabad, the Lord
-helps us cross over. || 1 || Pause || Those, whom God unites with Himself, cannot
+helps us cross over. || 1  Those, whom God unites with Himself, cannot
 be crushed by death. The beloved Gurmukhs remain immaculately pure, like the lotus in
 the water, which remains untouched. || 2 || Tell me: who should we call good or
 bad? Behold the Lord God; the truth is revealed to the Gurmukh. I speak the Unspoken
@@ -8055,7 +8062,7 @@ MEHL: Bowing down, again and again, I fall at the Feet of my Guru; through Him, 
 have seen the Lord, the Divine Self, within. Through contemplation and meditation, the
 Lord dwells within the heart; see this, and understand. || 1 || So speak the Lord‟s
 Name, which shall emancipate you. By Guru‟s Grace, the jewel of the Lord is found;
-ignorance is dispelled, and the Divine Light shines forth. || 1 || Pause || By merely
+ignorance is dispelled, and the Divine Light shines forth. || 1  By merely
 saying it with the tongue, one‟s bonds are not broken, and egotism and doubt do not
 depart from within. But when one meets the True Guru, egotism departs, and then, one
 realizes his destiny. || 2 || The Name of the Lord, Har, Har, is sweet and dear to His
@@ -8071,7 +8078,7 @@ Through study, they come to realize the Lord‟s Glorious Virtues.
 
 Through the Shabad, the Word of the True Guru, they come to dwell in contentment.
 || 1 || Through the Guru‟s Teachings, realize that He is pervading in all bodies; O my
-soul, vibrate on the Profound, Unfathomable Lord. || 1 || Pause || Loving devotion
+soul, vibrate on the Profound, Unfathomable Lord. || 1  Loving devotion
 to the Lord brings endless waves of joy and delight. One who dwells with the Glorious
 Praises of the Lord, night and day, is sanctified. The birth into the world of the faithless
 cynic is totally useless. The humble devotee of the Lord remains unattached. || 2 ||
@@ -8086,7 +8093,7 @@ charity; another is a king, absorbed in himself. One receives honor, and another
 dishonor. The Lord destroys and creates; He is enshrined in His meditation. There is no
 other as great as You. So whom should I present to You? Who is good enough? || 1 ||
 The Naam, the Name of the Lord, is my only Support. You are the Great Giver, the
-Doer, the Creator. || 1 || Pause || I have not walked on Your Path; I have followed
+Doer, the Creator. || 1  I have not walked on Your Path; I have followed
 the crooked path. In the Court of the Lord, I find no place to sit. I am mentally blind, in
 the bondage of Maya. The wall of my body is breaking down, wearing away, growing
 weaker. You have such high hopes of eating and living — your breaths and morsels of
@@ -8118,7 +8125,7 @@ wisdom be the sacred thread, and meditation the ceremonial ring. I seek the Name
 the Lord and His Praise as my cleansing bath. By Guru‟s Grace, I am absorbed into God.
 || 1 || O Pandit, O religious scholar, contemplate God in such a way that His Name
 may sanctify you, that His Name may be your study, and His Name your wisdom and
-way of life. || 1 || Pause || The outer sacred thread is worthwhile only as long as
+way of life. || 1  The outer sacred thread is worthwhile only as long as
 the Divine Light is within. So make the remembrance of the Naam, the Name of the
 Lord, your loin-cloth and the ceremonial mark on your forehead. Here and hereafter,
 the Name alone shall stand by you. Do not seek any other actions, except the Name. ||
@@ -8135,7 +8142,7 @@ FIRST MEHL: He alone is the selfless servant, slave and humble devotee, who as
 Gurmukh, becomes the slave of his Lord and Master. He, who created the Universe,
 shall ultimately destroy it. Without Him, there is no other at all. || 1 || Through the
 Word of the Guru‟s Shabad, the Gurmukh reflects upon the True Name; in the True
-Court, he is found to be true. || 1 || Pause || The true supplication, the true prayer
+Court, he is found to be true. || 1  The true supplication, the true prayer
 — within the Mansion of His Sublime Presence, the True Lord Master hears and
 applauds these. He summons the truthful to His Heavenly Throne and bestows glorious
 greatness upon them; that which He wills, comes to pass. || 2 || The Power is Yours;
@@ -8151,10 +8158,10 @@ The clay pitcher of the body is miserable; it suffers in pain through birth and 
 How can this terrifying world-ocean be crossed over? Without the Lord — Guru, it
 cannot be crossed. || 1 || Without You, there is no other at all, O my Beloved;
 without you, there is no other at all. You are in all colors and forms; he alone is
-forgiven, upon whom You bestow Your Glance of Grace. || 1 || Pause || Maya, my
+forgiven, upon whom You bestow Your Glance of Grace. || 1  Maya, my
 mother-in-law, is evil; she does not let me live in my own home. The vicious one does
 not let me meet with my Husband Lord. 
-ÓÓÓÓÓÓÓÓÓÓÓ 356 ÓÓÓÓÓÓÓÓÓ
+
 I serve at the feet of my companions and friends; the Lord has showered me with His
 Mercy, through Guru‟s Grace. || 2 || Reflecting upon my self, and conquering my
 mind, I have seen that there is no other friend like You. As You keep me, so do I live.
@@ -8167,7 +8174,7 @@ is imbued with the Lord‟s Name, finds the Guru‟s Teachings, and intuitively 
 || 22 || AASAA, FIRST MEHL, PANCH-PADAS: Your attachment to your family, your
 attachment to all your affairs — renounce all your attachments, for they are all corrupt.
 || 1 || Renounce your attachments and doubts, O brother, and dwell upon the True
-Name within your heart and body. || 1 || Pause || When one receives the nine
+Name within your heart and body. || 1  When one receives the nine
 treasures of the True Name, his children do not weep, and his mother does not grieve.
 || 2 || In this attachment, the world is drowning. Few are the Gurmukhs who swim
 across. || 3 || In this attachment, people are reincarnated over and over again.
@@ -8177,7 +8184,7 @@ not broken, no one is approved. || 5 || But if He bestows His Glance of Grace, t
 this attachment departs. O Nanak, then one remains merged in the Lord. || 6 || 23 ||
 AASAA, FIRST MEHL: He Himself does everything, the True, Invisible, Infinite Lord. I
 am a sinner, You are the Forgiver. || 1 || By Your Will, everything come to pass. One
-who acts in stubborn-mindedness is ruined in the end. || 1 || Pause || The intellect
+who acts in stubborn-mindedness is ruined in the end. || 1  The intellect
 of the self-willed manmukh is engrossed in falsehood. Without the meditative
 remembrance of the Lord, it suffers in sin. || 2 || Renounce evil-mindedness, and you
 shall reap the rewards. Whoever is born, comes through the Unknowable and
@@ -8188,7 +8195,7 @@ FIRST MEHL, CHAU-PADAS: Contemplate and reflect upon knowledge, and you will
 become a benefactor to others. When you conquer the five passions, then you shall
 come to dwell at the sacred shrine of pilgrimage. || 1 || You shall hear the vibrations
 of the tinkling bells, when your mind is held steady. So what can the Messenger of
-Death do to me hereafter? || 1 || Pause || When you abandon hope and desire,
+Death do to me hereafter? || 1  When you abandon hope and desire,
 then you become a true Sannyaasi. When the Yogi practices abstinence, then he enjoys
 his body. || 2 || Through compassion, the naked hermit reflects upon his inner self.
 He slays his own self, instead of slaying others. || 3 || You, O Lord, are the One, but
@@ -8196,21 +8203,21 @@ You have so many Forms. Nanak does not know Your wondrous plays. || 4 || 25 ||
 AASAA, FIRST MEHL: I am not stained by only one sin, that could be washed clean by
 virtue. My Husband Lord is awake, while I sleep through the entire night of my life. || 1
 || In this way, how can I become dear to my Husband Lord? My Husband Lord
-remains awake, while I sleep through the entire night of my life. || 1 || Pause || 
-ÓÓÓÓÓÓÓÓÓÓÓ 357 ÓÓÓÓÓÓÓÓÓ
+remains awake, while I sleep through the entire night of my life. || 1  
+
 With hope and desire, I approach His Bed, but I do not know whether He will be
 pleased with me or not. || 2 || How do I know what will happen to me, O my mother?
-Without the Blessed Vision of the Lord‟s Darshan, I cannot survive. || 1 || Pause || I
+Without the Blessed Vision of the Lord‟s Darshan, I cannot survive. || 1  I
 have not tasted His Love, and my thirst is not quenched. My beautiful youth has run
 away, and now I, the soul-bride, repent and regret. || 3 || Even now, I am held by
-hope and desire. I am depressed; I have no hope at all. || 1 || Pause || She
+hope and desire. I am depressed; I have no hope at all. || 1  She
 overcomes her egotism, and adorns herself; the Husband Lord now ravishes and enjoys
 the soul-bride on His Bed. || 4 || Then, O Nanak, the bride becomes pleasing to the
 Mind of her Husband Lord; she sheds her self-conceit, and is absorbed in her Lord and
-Master. || 1 || Pause || 26 || AASAA, FIRST MEHL: In this world of my father‟s
+Master. || 1  26 || AASAA, FIRST MEHL: In this world of my father‟s
 house, I, the soul-bride, have been very childish; I did not realize the value of my
 Husband Lord. || 1 || My Husband is the One; there is no other like Him. If He
-bestows His Glance of Grace, then I shall meet Him. || 1 || Pause || In the next
+bestows His Glance of Grace, then I shall meet Him. || 1  In the next
 world of my in-law‟s house, I, the the soul-bride, shall realize Truth; I shall come to
 know the celestial peace of my Husband Lord. || 2 || By Guru‟s Grace, such wisdom
 comes to me, so that the soul-bride becomes pleasing to the Mind of the Husband Lord.
@@ -8218,7 +8225,7 @@ comes to me, so that the soul-bride becomes pleasing to the Mind of the Husband 
 her Husband Lord forever on His Bed. || 4 || 27 || AASAA, FIRST MEHL: No one is
 anyone else‟s son, and no one is anyone else‟s mother. Through false attachments,
 people wander around in doubt. || 1 || O My Lord and Master, I am created by You.
-If You give it to me, I will chant Your Name. || 1 || Pause || That person who is
+If You give it to me, I will chant Your Name. || 1  That person who is
 filled with all sorts of sins may pray at the Lord‟s Door, but he is forgiven only when the
 Lord so wills. || 2 || By Guru‟s Grace, evil-mindedness is destroyed. Wherever I look,
 there I find the One Lord. || 3 || Says Nanak, if one comes to such an understanding,
@@ -8232,7 +8239,7 @@ ignorant. Prays Nanak, I seek the Sanctuary of those who do not forget You, Lord
 || 29 || AASAA, FIRST MEHL: There are six systems of philosophy, six teachers, and
 six doctrines; but the Teacher of teachers is the One Lord, who appears in so many
 forms. || 1 || That system, where the Praises of the Creator are sung — follow that
-system; in it rests greatness. || 1 || Pause || As the seconds, minutes, hours, days,
+system; in it rests greatness. || 1  As the seconds, minutes, hours, days,
 weekdays months and seasons all originate from the one sun, O Nanak, so do all forms
 originate from the One Creator. || 2 || 30 || 
 ÓÓÓÓÓÓÓÓÓÓÓ 358 ÓÓÓÓÓÓÓÓÓ
@@ -8243,7 +8250,7 @@ thousands of men to rise and salute you. Your rule may extend over thousands of
 miles, and thousands of men may rise to honor you. But, if your honor is of no account
 to the Lord, then all of your ostentatious show is useless. || 1 || Without the Name of
 the Lord, the world is in turmoil. Even though the fool may be taught again and again,
-he remains the blindest of the blind. || 1 || Pause || You may earn thousands,
+he remains the blindest of the blind. || 1  You may earn thousands,
 collect thousands, and spend thousands of dollars; thousands may come, and
 thousands may go. But, if your honor is of no account to the Lord, then where will you
 go to find a safe haven? || 2 || Thousands of Shaastras may be explained to the
@@ -8254,7 +8261,7 @@ Nanak, then the mortal shall swim across, by His Grace. || 4 || 1 || 31 || AASAA
 FIRST MEHL: The One Name is my lamp; I have put the oil of suffering into it. Its
 flame has dried up this oil, and I have escaped my meeting with the Messenger of
 Death. || 1 || O people, do not make fun of me. Thousands of wooden logs, piled up
-together, need only a tiny flame to burn. || 1 || Pause || The Lord is my festive dish,
+together, need only a tiny flame to burn. || 1  The Lord is my festive dish,
 of rice balls on leafy plates; the True Name of the Creator Lord is my funeral ceremony.
 Here and hereafter, in the past and in the future, this is my support. || 2 || The
 Lord‟s Praise is my River Ganges and my city of Benares; my soul takes its sacred
@@ -8268,7 +8275,7 @@ The Gods, yearning for the Blessed Vision of the Lord‟s Darshan, suffered thro
 and hunger at the sacred shrines. The yogis and the celibates live their disciplined
 lifestyle, while others wear saffron robes and become hermits. || 1 || For Your sake,
 O Lord Master, they are imbued with love. Your Names are so many, and Your Forms
-are endless. No one can tell how may Glorious Virtues You have. || 1 || Pause ||
+are endless. No one can tell how may Glorious Virtues You have. || 1 
 Leaving behind hearth and home, palaces, elephants, horses and native lands, mortals
 have journeyed to foreign lands. The spiritual leaders, prophets, seers and men of faith
 renounced the world, and became acceptable. || 2 || Renouncing tasty delicacies,
@@ -8282,7 +8289,7 @@ AASAA, FIFTH HOUSE, FIRST MEHL:
 
 The five evil passions dwell hidden within the mind. They do not remain still, but move
 around like wanderers. || 1 || My soul does not stay held by the Merciful Lord. It is
-greedy, deceitful, sinful and hypocritical, and totally attached to Maya. || 1 || Pause ||
+greedy, deceitful, sinful and hypocritical, and totally attached to Maya. || 1 
 I will decorate my neck with garlands of flowers. When I meet my Beloved, then I will
 put on my decorations. || 2 || I have five companions and one Spouse. It is ordained
 from the very beginning, that the soul must ultimately depart. || 3 || The five
@@ -8292,7 +8299,7 @@ account. || 4 || 1 || 34 ||
 AASAA, SIXTH HOUSE, FIRST MEHL:
 If the pearl of the mind is strung like a jewel on the thread of the breath, and the soulbride adorns her body with compassion, then the Beloved Lord will enjoy His lovely
 bride. || 1 || O my Love, I am fascinated by Your many glories; Your Glorious Virtues
-are not found in any other. || 1 || Pause || If the bride wears the garland of the
+are not found in any other. || 1  If the bride wears the garland of the
 Lord‟s Name, Har, Har, around her neck, and if she uses the toothbrush of the Lord;
 and if she fashions and wears the bracelet of the Creator Lord around her wrist, then
 she shall hold her consciousness steady. || 2 || She should make the Lord, the Slayer
@@ -8303,7 +8310,7 @@ bed, He shall take her, and enjoy her. || 4 || 1 || 35 || AASAA, FIRST MEHL: The
 created being acts as he is made to act; what can be said to him, O Siblings of Destiny?
 Whatever the Lord is to do, He is doing; what cleverness could be used to affect Him?
 || 1 || The Order of Your Will is so sweet, O Lord; this is pleasing to You. O Nanak, he
-alone is honored with greatness, who is absorbed in the True Name. || 1 || Pause ||
+alone is honored with greatness, who is absorbed in the True Name. || 1 
 The deeds are done according to pre-ordained destiny; no one can turn back this Order.
 As it is written, so it comes to pass; no one can erase it. || 2 || He who talks on and
 on in the Lord‟s Court is known as a joker. He is not successful in the game of chess,
@@ -8313,11 +8320,11 @@ then is he known as a human being. || 4 || 2 || 36 || AASAA, FIRST MEHL: Let the
 Word of the Guru‟s Shabad be the ear-rings in your mind, and wear the patched coat of
 tolerance. Whatever the Lord does, look upon that as good; thus you shall obtain the
 treasure of Sehj Yoga. 
-ÓÓÓÓÓÓÓÓÓÓÓ 360 ÓÓÓÓÓÓÓÓÓ
+
 || 1 || O father, the soul which is united in union as a Yogi, remains united in the
 supreme essence throughout the ages. One who has obtained the Ambrosial Naam, the
 Name of the Immaculate Lord — his body enjoys the pleasure of spiritual wisdom. || 1
-|| Pause || In the Lord‟s City, he sits in his Yogic posture, and he forsakes his desires
+ In the Lord‟s City, he sits in his Yogic posture, and he forsakes his desires
 and conflicts. The sound of the horn ever rings out its beautiful melody, and day and
 night, he is filled with the sound current of the Naad. || 2 || My cup is reflective
 meditation, and spiritual wisdom is my walking stick; to dwell in the Lord‟s Presence is
@@ -8330,7 +8337,7 @@ the herbs. Let devotional faith be the distilling fire, and your love the cerami
 the sweet nectar of life is distilled. || 1 || O Baba, the mind is intoxicated with the
 Naam, drinking in its Nectar. It remains absorbed in the Lord‟s Love. Night and day,
 remaining attached to the Love of the Lord, the celestial music of the Shabad resounds.
-|| 1 || Pause || The Perfect Lord naturally gives the cup of Truth, to the one upon
+|| 1  The Perfect Lord naturally gives the cup of Truth, to the one upon
 whom He casts His Glance of Grace. One who trades in this Nectar — how could he
 ever love the wine of the world? || 2 || The Teachings of the Guru, the Ambrosial
 Bani — drinking them in, one becomes acceptable and renowned. Unto the one who
@@ -8342,7 +8349,7 @@ Having attacked Khuraasaan, Baabar terrified Hindustan. The Creator Himself does
 take the blame, but has sent the Mugal as the messenger of death. There was so much
 slaughter that the people screamed. Didn‟t You feel compassion, Lord? || 1 || O
 Creator Lord, You are the Master of all. If some powerful man strikes out against
-another man, then no one feels any grief in their mind. || 1 || Pause || But if a
+another man, then no one feels any grief in their mind. || 1  But if a
 powerful tiger attacks a flock of sheep and kills them, then its master must answer for
 it. This priceless country has been laid waste and defiled by dogs, and no one pays any
 attention to the dead. You Yourself unite, and You Yourself separate; I gaze upon Your
@@ -8357,7 +8364,7 @@ the Word of the Guru‟s Shabad, true detachment is obtained.
 ÓÓÓÓÓÓÓÓÓÓÓ 361 ÓÓÓÓÓÓÓÓÓ
 The six systems of philosophy are pervasive, but the Guru‟s system is profound and
 unequalled. || 1 || The Guru‟s system is the way to liberation. The True Lord Himself
-comes to dwell in the mind. || 1 || Pause || Through the Guru‟s system, the world is
+comes to dwell in the mind. || 1  Through the Guru‟s system, the world is
 saved, if it is embraced with love and affection. How rare is that person who truly loves
 the Guru‟s Way. Through the Guru‟s system, everlasting peace is obtained. || 2 ||
 Through the Guru‟s system, the Door of Salvation is obtained. Serving the True Guru,
@@ -8370,7 +8377,7 @@ Shabad, eradicates his self-conceit from within. He serves the True Guru, with n
 self-interest. The Fearless Lord, the Great Giver, ever abides in his mind. The True Bani
 of the Word is obtained only by good destiny. || 1 || So gather merits, and let your
 demerits depart from within you. You shall be absorbed into the Shabad, the Word of
-the Perfect Guru. || 1 || Pause || One who purchases merits, knows the value of
+the Perfect Guru. || 1  One who purchases merits, knows the value of
 these merits. He chants the Ambrosial Nectar of the Word, and the Name of the Lord.
 Through the True Bani of the Word, he becomes pure. Through merit, the Name is
 obtained. || 2 || The invaluable merits cannot be acquired. The pure mind is absorbed
@@ -8383,7 +8390,7 @@ greatness of the True Guru; He merges in His Merger, those who have been separat
 for so long. He Himself merges the merged in His Merger. He Himself knows His own
 worth. || 1 || How can anyone appraise the Lord‟s worth? Through the Word of the
 Guru‟s Shabad, one may merge with the Infinite, Unapproachable and
-Incomprehensible Lord. || 1 || Pause || Few are the Gurmukhs who know His worth.
+Incomprehensible Lord. || 1  Few are the Gurmukhs who know His worth.
 How rare are those who receive the Lord‟s Grace. Through the Sublime Bani of His
 Word, one becomes sublime. The Gurmukh chants the Word of the Shabad. || 2 ||
 Without the Name, the body suffers in pain; but when one meets the True Guru, then
@@ -8393,10 +8400,10 @@ Grace, the essence of the Lord is obtained. O Nanak, imbued with the Naam, the N
 of the Lord, salvation is attained. || 4 || 3 || 42 || AASAA, THIRD MEHL: My God is
 True, deep and profound. Serving Him, the body acquires peace and tranquility.
 Through the Word of the Shabad, His humble servants easily swim across. 
-ÓÓÓÓÓÓÓÓÓÓÓ 362 ÓÓÓÓÓÓÓÓÓ
+
 I fall at their feet forever and ever. || 1 || Those being whose minds are imbued and
 drenched with the Lord‟s Love — their pains of birth and death are taken away. They
-are automatically ushered into the Court of the Lord. || 1 || Pause || One who has
+are automatically ushered into the Court of the Lord. || 1  One who has
 tasted the Shabad, obtains the true flavor. The Name of the Lord abides within his
 mind. The Lord God is Eternal and All-pervading. He Himself is near, and He Himself is
 far away. || 2 || Everyone talks and speaks through speech; the Lord Himself
@@ -8410,7 +8417,7 @@ Without the Word of the Shabad, one‟s life is wasted away in vain. Serving the
 Guru, understanding is obtained, and then, one is not attached to the love of duality. ||
 1 || Those who hold fast to their roots, become acceptable. Night and day, they
 meditate within their hearts on the Lord‟s Name; through the Word of the Guru‟s
-Shabad, they know the One Lord. || 1 || Pause || One who is attached to the
+Shabad, they know the One Lord. || 1  One who is attached to the
 branch, does not receive the fruits. For blind actions, blind punishment is received. The
 blind, self-willed manmukh finds no place of rest. He is a maggot in manure, and in
 manure he shall rot away. || 2 || Serving the Guru, everlasting peace is obtained.
@@ -8441,7 +8448,7 @@ He dedicates his mind and body to the True Guru, and seeks His Sanctuary. His
 greatest greatness is that the Naam, the Name of the Lord, is in his heart. The Beloved
 Lord God is his constant companion. || 1 || He alone is the Lord‟s slave, who remains
 dead while yet alive. He looks upon pleasure and pain alike; by Guru‟s Grace, he is
-saved through the Word of the Shabad. || 1 || Pause || He does his deeds according
+saved through the Word of the Shabad. || 1  He does his deeds according
 to the Lord‟s Primal Command. Without the Shabad, no one is approved. Singing the
 Kirtan of the Lord‟s Praises, the Naam abides within the mind. He Himself gives His
 gifts, without hesitation. || 2 || The self-willed manmukh wanders around the world in
@@ -8450,12 +8457,13 @@ not obtain any merchandise. The mistaken manmukh wastes away his life. || 3 || O
 who serves the True Guru is the Lord‟s slave. His social status is exalted, and his
 reputation is exalted. Climbing the Guru‟s Ladder, he becomes the most exalted of all. O
 Nanak, through the Naam, the Name of the Lord, greatness is obtained. || 4 || 7 || 46
+
 || AASAA, THIRD MEHL: The self-willed manmukh practices falsehood, only
 falsehood. He never attains the Mansion of the Lord Presence. Attached to duality, he
 wanders, deluded by doubt. Entangled in worldly attachments, he comes and goes. ||
 1 || Behold, the decorations of the discarded bride! Her consciousness is attached to
 children, spouse, wealth, and Maya, falsehood, emotional attachment, hypocrisy and
-corruption. || 1 || Pause || She who is pleasing to God is forever a happy soul-bride.
+corruption. || 1  She who is pleasing to God is forever a happy soul-bride.
 She makes the Word of the Guru‟s Shabad her decoration. Her bed is so comfortable;
 she enjoys her Lord, night and day. Meeting her Beloved, the obtains eternal peace. ||
 2 || She is a true, virtuous soul-bride, who enshrines love for the True Lord. She
@@ -8468,7 +8476,7 @@ the Guru, he is truly absorbed in the True One. Without the Perfect Guru, devoti
 love is not obtained. The self-willed manmukhs lose their honor, and cry out in pain. ||
 1 || O my mind, chant the Lord‟s Name, and meditate on Him forever. You shall
 always be in ecstasy, day and night, and you shall obtain the fruits of your desires. || 1
-|| Pause || Through the Perfect Guru, the Perfect Lord is obtained, and the Shabad,
+ Through the Perfect Guru, the Perfect Lord is obtained, and the Shabad,
 the True Name, is enshrined in the mind. One who bathes in the Pool of Ambrosial
 Nectar becomes immaculately pure within. He becomes forever sanctified, and is
 absorbed in the True Lord. || 2 || He sees the Lord God ever-present. By Guru‟s
@@ -8482,7 +8490,7 @@ Through perfect good destiny, one serves the Guru.
 He alone understands, whom the Lord Himself inspires to understand. By Guru‟s Grace,
 one serves Him. || 1 || With the jewel of spiritual wisdom, total understanding is
 obtained. By Guru‟s Grace, ignorance is dispelled; one then remains wakeful, night and
-day, and beholds the True Lord. || 1 || Pause || Through the Word of the Guru‟s
+day, and beholds the True Lord. || 1  Through the Word of the Guru‟s
 Shabad, attachment and pride are burnt away. From the Perfect Guru, true
 understanding is obtained. Through the Word of the Guru‟s Shabad, one realizes the
 Lord‟s Presence within. Then, one‟s coming and going cease, and one becomes stable,
@@ -8514,14 +8522,14 @@ AASAA, THIRD MEHL: One may dance and play numerous instruments; but this mind
 is blind and deaf, so for whose benefit is this speaking and preaching? Deep within is
 the fire of greed, and the dust-storm of doubt. The lamp of knowledge is not burning,
 and understanding is not obtained. || 1 || The Gurmukh has the light of devotional
-worship within his heart. Understanding his own self, he meets God. || 1 || Pause ||
+worship within his heart. Understanding his own self, he meets God. || 1 
 The Gurmukh‟s dance is to embrace love for the Lord; to the beat of the drum, he
 sheds his ego from within. My God is True; He Himself is the Knower of all. Through the
 Word of the Guru‟s Shabad, recognize the Creator Lord within yourself. || 2 || The
 Gurmukh is filled with devotional love for the Beloved Lord. He intuitively reflects upon
 the Word of the Guru‟s Shabad. For the Gurmukh, loving devotional worship is the way
 to the True Lord. But the dances and the worship of the hypocrites bring only pain. 
-ÓÓÓÓÓÓÓÓÓÓÓ 365 ÓÓÓÓÓÓÓÓÓ
+
 || 3 || True Devotion is to remain dead while yet alive. By Guru‟s Grace, one crosses
 over the terrible world-ocean. Through the Guru‟s Teachings, one‟s devotion is
 accepted, and then, the Dear Lord Himself comes to dwell in the mind. || 4 || When
@@ -8535,7 +8543,7 @@ By the Pleasure of the Lord‟s Will, one meets the True Guru, and true
 understanding is obtained. By Guru‟s Grace, the Lord abides in the mind,
 and one comes to understand the Lord. || 1 || My Husband Lord, the
 Great Giver, is One. There is no other at all. By Guru‟s merciful favor, He
-abides in the mind, and then, a lasting peace ensues. || 1 || Pause ||
+abides in the mind, and then, a lasting peace ensues. || 1 
 In this age, the Lord‟s Name is fearless; it is obtained by meditative
 reflection upon the Guru. Without the Name, the blind, foolish, self-willed
 manmukh is under Death‟s power. || 2 || By the Pleasure of the Lord‟s
@@ -8548,7 +8556,7 @@ emancipated. || 4 || 39 || 13 || 52 ||
 AASAA, FOURTH MEHL, SECOND HOUSE:
 
 You are the True Creator, my Lord Master. That which is pleasing to Your Will, comes to
-pass. Whatever You give, that is what I receive. || 1 || Pause || All are Yours; all
+pass. Whatever You give, that is what I receive. || 1  All are Yours; all
 meditate on You. He alone, whom You bless with Your Mercy, obtains the jewel of the
 Naam. The Gurmukhs obtain it, and the self-willed manmukhs lose it. You Yourself
 separate the mortals, and You Yourself unite them. || 1 || You are the River — all are
@@ -8567,7 +8575,7 @@ Some form alliances with friends, children and siblings. Some form alliances wit
 motives. My alliance is with the Lord, who is pervading everywhere. || 1 || I have
 formed my alliance with the Lord; the Lord is my only support. Other than the Lord, I
 have no other faction or alliance; I sing of the countless and endless Glorious Praises of
-the Lord. || 1 || Pause || Those with whom you form alliances, shall perish. Making
+the Lord. || 1  Those with whom you form alliances, shall perish. Making
 false alliances, the mortals repent and regret in the end. Those who practice falsehood
 shall not last. I have formed my alliance with the Lord; there is no one more powerful
 than Him. || 2 || All these alliances are mere extensions of the love of Maya. Only
@@ -8584,7 +8592,7 @@ Nanak has joined the Lord‟s alliance of Dharma, which shall conquer the whole 
 Gurbani in the heart, it becomes pleasing to the mind. Through Gurbani, the
 Incomprehensible Lord is comprehended. || 1 || As Gurmukh, listen to the Naam, the
 Name of the Lord, O my sisters. The One Lord is pervading and permeating deep within
-the heart; with your mouth, recite the Ambrosial Hymns of the Guru. || 1 || Pause ||
+the heart; with your mouth, recite the Ambrosial Hymns of the Guru. || 1 
 My mind and body are filled with divine love, and great sadness. By great good fortune,
 I have obtained the True Guru, the Primal Being. || 2 || In the love of duality, the
 mortals wander through poisonous Maya. The unfortunate ones do not meet the True
@@ -8597,14 +8605,15 @@ me. By great good fortune, as Gurmukh, I have received the Lord‟s Name. || 1 |
 Pause || Without the Naam, I cannot live. By great good fortune, the Gurmukhs
 obtain the Naam. || 2 || Those who lack the Naam have their faces rubbed in the dirt
 of Maya. 
-ÓÓÓÓÓÓÓÓÓÓÓ 367 ÓÓÓÓÓÓÓÓÓ
+
+
 Without the Naam, cursed, cursed are their lives. || 3 || The Great Lord is obtained
 by great good destiny. O Nanak, the Gurmukh is blessed with the Naam. || 4 || 4 || 56
 || AASAA, FOURTH MEHL: I sing His Glorious Praises, and through the Word of His
 Bani, I speak His Glorious Praises. As Gurmukh, I chant and recite the Glorious Praises
 of the Lord. || 1 || Chanting and meditating on the Naam, my mind becomes blissful.
 The True Guru has implanted the True Name of the True Lord within me; I sing His
-Glorious Praises, and taste the supreme ecstasy. || 1 || Pause || The humble
+Glorious Praises, and taste the supreme ecstasy. || 1  The humble
 servants of the Lord sing the Lord‟s Glorious Praises. By great good fortune, the
 detached, absolute Lord is obtained. || 2 || Those without virtue are stained by
 Maya‟s filth. Lacking virtue, the egotistical die, and suffer reincarnation. || 3 || The
@@ -8613,7 +8622,7 @@ discovers this essence. || 4 || 5 || 57 || AASAA, FOURTH MEHL: I listen to the
 Naam, the Name of the Lord; the Naam is pleasing to my mind. By great good fortune,
 the Gurmukh obtains the Lord. || 1 || Chant the Naam, as Gurmukh, and be exalted.
 Without the Naam, I have no other support; the Naam is woven into all my breaths and
-morsels of food. || 1 || Pause || The Naam illuminates my mind; listening to it, my
+morsels of food. || 1  The Naam illuminates my mind; listening to it, my
 mind is pleased. One who speaks the Naam — he alone is my friend and companion. ||
 2 || Without the Naam, the fools depart naked. They burn away to death, chasing the
 poison of Maya, like the moth chasing the flame. || 3 || He Himself establishes, and,
@@ -8622,7 +8631,7 @@ having established, disestablishes. O Nanak, the Lord Himself bestows the Naam. 
 taken root in the Gurmukh. It bears the fruit of the Lord; its taste is so tasty! || 1 ||
 Chant the Name of the Lord, Har, Har, in endless waves of joy. Chant and repeat the
 Naam; through the Guru's Teachings praise the Lord, and slay the horrible serpent of
-the Messenger of Death. || 1 || Pause || The Lord has implanted His devotional
+the Messenger of Death. || 1  The Lord has implanted His devotional
 worship in the Guru. When the Guru is pleased, He bestows it upon His Sikh, O my
 siblings of Destiny. || 2 || One who acts in ego, knows nothing about the Way. He
 acts like an elephant, who takes a bath, and then throws dust on his head. || 3 || If
@@ -8631,7 +8640,7 @@ Immaculate, True Lord. || 4 || 7 || 59 || AASAA, FOURTH MEHL: My mind suffers
 hunger for the Name of the Lord, Har, Har. Hearing the Naam, my mind is satisfied, O
 my Siblings of Destiny. || 1 || Chant the Naam, O my friends, O GurSikhs. Chant the
 Naam, and through the Naam, obtain peace; through the Guru‟s Teachings, enshrine
-the Naam in your heart and mind. || 1 || Pause || Hearing the Naam, the Name of
+the Naam in your heart and mind. || 1  Hearing the Naam, the Name of
 the Lord, the mind is in bliss. Reaping the profit of the Naam, through the Guru's
 Teachings, my soul has blossomed forth. || 2 || Without the Naam, the mortal is a
 leper, blinded by emotional attachment. All his actions are fruitless; they lead only to
@@ -8645,7 +8654,7 @@ You may pluck the strings with your hand, O Yogi, but your playing of the harp i
 vain. Under Guru‟s Instruction, chant the Glorious Praises of the Lord, O Yogi, and this
 mind of yours shall be imbued with the Lord‟s Love. || 1 || O Yogi, give your intellect
 the Teachings of the Lord. The Lord, the One Lord, is pervading throughout all the
-ages; I humbly bow down to Him. || 1 || Pause || You sing in so many Ragas and
+ages; I humbly bow down to Him. || 1  You sing in so many Ragas and
 harmonies, and you talk so much, but this mind of yours is only playing a game. You
 work the well and irrigate the fields, but the oxen have already left to graze in the
 jungle. || 2 || In the field of the body, plant the Lord‟s Name, and the Lord will sprout
@@ -8658,7 +8667,7 @@ Nanak, O Inner-knower, Searcher of hearts, please link my mind to You. || 4 || 9
 and how long must one play the guitar? In the brief instant between coming and going,
 I meditate on the Naam, the Name of the Lord. || 1 || Such is the devotional love
 which has been produced in my mind. Without the Lord, I cannot live even for an
-instant, like the fish which dies without water. || 1 || Pause || How long must one
+instant, like the fish which dies without water. || 1  How long must one
 tune the five strings, and assemble the seven singers, and how long will they raise their
 voices in song? In the time it takes to select and assemble these musicians, a moment
 elapses, and my mind sings the Glorious Praises of the Lord. || 2 || How long must
@@ -8671,7 +8680,7 @@ Sat Sangat, the Lord‟s True Congregation; joining the Company of the Holy, sin
 Glorious Praises of the Lord. With the sparkling jewel of spiritual wisdom, the heart is
 illumined, and ignorance is dispelled. || 1 || O humble servant of the Lord, let your
 dancing be meditation on the Lord, Har, Har. If only I cold meet such Saints, O my
-Siblings of Destiny; I would wash the feet of such servants. || 1 || Pause || Meditate
+Siblings of Destiny; I would wash the feet of such servants. || 1  Meditate
 on the Naam, the Name of the Lord, O my mind; night and day, center your
 consciousness on the Lord. You shall have the fruits of your desires, and you shall
 never feel hunger again. || 2 || The Infinite Lord Himself is the Creator; the Lord
@@ -8695,7 +8704,7 @@ are at peace, in life and in death. O Nanak, the true ones are truly absorbed in
 True Lord. || 4 || 12 || 64 || AASAA, FOURTH MEHL: Having obtained the treasure
 of this human birth, I meditate on the Naam, the Name of the Lord. By Guru‟s Grace, I
 understand, and I am absorbed into the True Lord. || 1 || Those who have such preordained destiny practice the Naam. The True Lord summons the truthful to the
-Mansion of His Presence. || 1 || Pause || Deep within is the treasure of the Naam; it
+Mansion of His Presence. || 1  Deep within is the treasure of the Naam; it
 is obtained by the Gurmukh. Night and day, meditate on the Naam, and sing the
 Glorious Praises of the Lord. || 2 || Deep within are infinite substances, but the selfwilled manmukh does not find them. In egotism and pride, the mortal‟s proud self
 consumes him. || 3 || O Nanak, his identity consumes his identical identity. Through

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 4: 1699-1701"
-title: "THE VOYAGE OF THE ROEBUCK"
+title: "The Voyage Of The Roebuck"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
@@ -11,20 +11,45 @@ date: 2022-11-30
 
 
 
-Dampier tells us nothing of his private and home-going life after he carries us to sea with him in the Loyal Merchant, and so little is known of that side of his career that there is no means of supplying his omissions except by conjecture. 
+Dampier tells us nothing of his private and home-going life after he carries us to sea with him in the Loyal Merchant.
+- So little is known of that side of his career. 
 
-It is pretty certain that he was very needy when he returned from his first voyage round the world. The value of his Dorsetshire estate cannot be guessed, but even if he still retained it, his views and endeavours are at this time those of a poor man. 
+He was very needy when he returned from his first voyage round the world.
 
-In the first volume of his Travels, as we have seen, he treats of New Holland as a privateersman would,—glances, to use his own metaphor, at the fringe of the carpet without desire to examine the texture or the body of it, and quickly shares the disgust of his shipmates, whose dreams are wholly of plunder. But on coming home and reflecting, whilst setting about the writing of his Travels, on the land he had sighted in the distant southern ocean, it is conceivable that ambitious thoughts should begin slowly to fill his mind. 
+The value of his Dorsetshire estate cannot be guessed, but even if he still retained it, his views and endeavours are at this time those of a poor man. 
 
-The world at large at that time [Pg 86]barely credited the existence of a continent south of the East Indies. The draughts of Tasman, the relations of De Quiros, Le Maire, and others, were regarded for the most part as travellers' tales. Dampier might justly hope in an age when the colonising instincts of the English were never keener, that money and honour must be the reward of the man who should be the first to open out a country fabulous yet in the judgment of mankind, and, by the light of discovery, resolve what was still visionary and dark into a magnificent reality.
+In volume 1 of his Travels, he treats of New Holland as a privateersman would. 
 
-His next step, at all events, was to seek ministerial and official help for a voyage of discovery to New Holland. He lived in the days of Dryden and of the patron, and his dedications exhibit him as possessed in a high degree of the art of literary congeeing. This undesirable but profitable capacity of cringing serviceably supplemented the reputation he had made for himself as a traveller. 
+He glances at the fringe of the carpet without examining the texture or its body. He quickly shares the disgust of his shipmates, whose dreams are wholly of plunder. 
 
-He found patrons in Charles Montague, afterwards Earl of Halifax, President of the Royal Society, and one of the Lord Commissioners of the Treasury; in Edward, Earl of Oxford, one of the principal Lords of the Admiralty; and in Thomas Herbert, Earl of Pembroke, who filled the office of Lord High Admiral. His representations were successful, probably beyond his own expectations, and in the beginning of the year 1699 he was appointed to the command of His Majesty's ship Roebuck of 12 guns, manned by a crew of fifty men and boys, and victualled for a twenty months' cruise. Confidence, such as this trust implies, in the character and qualifications of a man whose rating even as a privateersman was but that of an able seaman, handsomely testifies to the very high opinion in which Dampier was held.
+<!-- But on coming home and reflecting, whilst setting about the writing of his Travels, on the land he had sighted in the distant southern ocean, it is conceivable that ambitious thoughts should begin slowly to fill his mind.  -->
 
+The world at that time barely credited the existence of Australia. 
 
-The nature of the soil, climate, and the general character of Terra Australis, Dampier could only conjecture. The ideas he had formed of this unknown continent were, that it was a vast tract of land situated in the richest climates in the world, having in it especially all the advantage of the torrid zone, so that in coasting it the navigator might be sure of meeting with broad areas productive of the rich fruits, the drugs and spices, and perhaps the minerals discoverable in other parts in, as he concluded, the same parallels of latitude. 
+The draughts of Tasman, the relations of De Quiros, Le Maire, and others, were regarded for the most part as travellers' tales. 
+
+<!-- Dampier might justly hope in an age when the colonising instincts of the English were never keener, that money and honour must be the reward of the man who should be the first to open out a country fabulous yet in the judgment of mankind, and, by the light of discovery, resolve what was still visionary and dark into a magnificent reality. -->
+
+His next step was always to seek ministerial and official help for a voyage of discovery to New Holland.
+
+He lived in the days of Dryden and of the patron. His dedications exhibit him as possessed in a high degree of the art of literary congeeing. This undesirable but profitable capacity of cringing serviceably supplemented the reputation he had made for himself as a traveller. 
+
+He found patrons in:
+- Charles Montague
+- afterwards Earl of Halifax, President of the Royal Society, and one of the Lord Commissioners of the Treasury
+- Edward, Earl of Oxford, one of the principal Lords of the Admiralty
+- Thomas Herbert, Earl of Pembroke
+  - He filled the office of Lord High Admiral
+
+His representations were successful, probably beyond his own expectations.
+
+In the beginning of 1699, he was appointed to the command the Roebuck of 12 guns, manned by a crew of 50 men and boys, and victualled for a 20 months' cruise.
+
+Confidence, such as this trust implies, in the character and qualifications of a man whose rating even as a privateersman was but that of an able seaman, handsomely testifies to the very high opinion in which Dampier was held.
+
+Dampier could only guess at the nature of the soil, climate, and character of Terra Australis.
+
+The ideas he had formed of this unknown continent were, that it was a vast tract of land situated in the richest climates in the world, having in it especially all the advantage of the torrid zone, so that in coasting it the navigator might be sure of meeting with broad areas productive of the rich fruits, the drugs and spices, and perhaps the minerals discoverable in other parts in, as he concluded, the same parallels of latitude. 
 
 His scheme was to narrowly survey all islands, shores, capes, bays, creeks, and harbours, fit for shelter as well as defence, to take careful soundings as he went, to note tides, currents, and wind, and the character of the weather, with a special view to the settling of the best districts. He also proposed to closely observe the disposition and commodities of the natives, though he candidly admits that after his experience of their neighbours “he expected no great matters from them.” 
 
@@ -82,4 +107,6 @@ If one could summon the dead from their sleep of centuries that they might behol
 
 The shining cities, the flourishing towns, the radiant congregation of ships flying the flags of twenty different nationalities, every fruitful, every busy condition of commerce, manufacture, science, art, literature, entering into and stimulating the life of the highest form of human civilisation, are as miracles and as dreams to us standing in imagination by the side of the lean figure of this buccaneer, quaintly apparelled in the boots, belt, and broad hat of his old calling, and gazing with him on a land whose silence is broken only by the cries of unfamiliar creatures, by the murmur of the wind among the leaves of a nameless vegetation, and by the solemn wash of the ocean surge arching in thunder upon a shore that, to the minds of hundreds and thousands away in far-off Europe, is as unreal and illusive as the islands of Plato and More. What heart would have come to our stout navigator with but the briefest of all possible prophetic glimpses into the future of that great continent on whose western sands he searches for water, reluctant, dubious, half-dismayed!
 
-There was much, however, it must be admitted, to dishearten him. The behaviour of his crew was causing him anxiety; and about this time the scurvy broke out amongst the men. Moreover, though his people hunted diligently for fresh water, their labours were unrewarded. So Dampier determined to shape a course for Timor, if, to use his own language, he “met with no refreshment elsewhere.” He had spent altogether about five weeks in cruising off the coast, covering in all, as he calculates, a range of 900 miles, but without making any sort of discovery that was in the least degree satisfactory to himself. He started afresh with the intention to steer north-east, keeping the land aboard, as sailors say. His chief and perhaps only desire at that time was to fill his casks with fresh water. 
+There was much, however, it must be admitted, to dishearten him. The behaviour of his crew was causing him anxiety; and about this time the scurvy broke out amongst the men. Moreover, though his people hunted diligently for fresh water, their labours were unrewarded. 
+
+So Dampier determined to shape a course for Timor, if, to use his own language, he “met with no refreshment elsewhere.” He had spent altogether about five weeks in cruising off the coast, covering in all, as he calculates, a range of 900 miles, but without making any sort of discovery that was in the least degree satisfactory to himself. He started afresh with the intention to steer north-east, keeping the land aboard, as sailors say. His chief and perhaps only desire at that time was to fill his casks with fresh water. 

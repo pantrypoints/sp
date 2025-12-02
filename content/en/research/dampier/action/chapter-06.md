@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 6; 1708-1711"
-title: "THE VOYAGE WITH WOODES ROGERS"
+title: "The Voyage With Woodes Rogers"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
@@ -121,4 +121,3 @@ He was hoisted to a yard-arm, then dropped suddenly into the water and hauled vi
 He was lashed half-naked to the mast, and so left to stand for a period often running into days, insulted by his shipmates, and exposed to the scorching heat or the frosty sting of the parallels in which the ship happened to be; he was loaded with irons and immured for weeks in a dark and poisonous forepeak, whose only tenants besides himself were the huge rats of the vessel's hold. 
 
 It was not, then, that the sailor regarded himself discharged, as Fielding suggests, from the common bands of humanity; he knew nothing of humanity, whether during his brief and roaring orgies ashore or during his long and bitter servitude upon the high seas. 
-

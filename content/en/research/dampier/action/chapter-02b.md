@@ -1,13 +1,14 @@
 ---
-heading: "Chapter 2: 1652-1681"
-title: "DAMPIER'S EARLY LIFE"
-writer:
-  name: William Dampier
-  url: https://en.wikipedia.org/wiki/William_Dampier
+heading: "Chapter 2"
+title: "Dampier'S Early Life"
+# writer:
+#   name: William Dampier
+#   url: https://en.wikipedia.org/wiki/William_Dampier
 description: "The Buccaneers—Navigation in the Seventeenth Century—Features of the Vocational Life of the Early Mariner"
 c: "darkslategray"
 date: 2022-11-30
 ---
+
 
 
 It is not very long after he had quitted Campeché that we find him associating with privateers, and becoming one of their number. 
@@ -170,5 +171,6 @@ The survivors appealed to Captain Sharp to lead them out of their difficulties a
 
 On putting to sea again there was much mutinous growling, and when off the Island of Plata, on April 17th, 1681, the quarrels rose to such a pitch that there was nothing for it but separation. The trouble lay in a number of the men, now that Watling was dead, desiring the reappointment of Sharp. 
 
-This was warmly opposed by others. The matter was put to the vote, and the Sharpites proving the more numerous, the dissentients agreed to leave them—the arrangement being that the majority should keep the [Pg 43]ship, whilst the others should take the long-boat and canoes and return by way of the Isthmus, or seek their fortunes as they chose in other directions. The out-voted party numbered forty-seven men, one of whom was William Dampier.
+This was warmly opposed by others.
 
+The matter was put to the vote, and the Sharpites proving the more numerous, the dissentients agreed to leave them—the arrangement being that the majority should keep the ship, whilst the others should take the long-boat and canoes and return by way of the Isthmus, or seek their fortunes as they chose in other directions. The out-voted party numbered forty-seven men, one of whom was William Dampier.

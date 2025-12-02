@@ -116,15 +116,16 @@ He had with him his Cloaths and Bedding, with a Firelock, some Powder, Bullets, 
 
 He diverted and provided for himself as well as he could; but for the first eight Months had much ado to bear up against Melancholy and the Terror of being left alone in such a Place. 
 
-He built two Huts with Pimento-trees, covered them with long Grass, and lined them with the Skins of Goats, which he killed with his Gun as he wanted, so long as his Powder lasted, which was but a Pound; and that being almost spent, he got Fire by rubbing two Sticks of Pimento Wood together upon his Knee. 
+He built 2 Huts with Pimento-trees, covered them with long Grass, and lined them with the Skins of Goats, which he killed with his Gun as he wanted, so long as his Powder lasted, which was but a Pound; and that being almost spent, he got Fire by rubbing two Sticks of Pimento Wood together upon his Knee. 
 
 In the lesser Hut, at some Distance from the other, he dressed his Victuals; and in the larger he slept, and employed himself in Reading, singing Psalms, and Praying, so that he said he was a better Christian while in this Solitude than ever he was before, or than he was afraid he should ever be again. 
 
 At first he never eat anything till Hunger constrained him, partly for Grief and partly for want of Bread and Salt: Nor did he go to Bed till he could watch no longer; the Pimento Wood, which burnt very clear, served him both for Fire and Candle, and refreshed him with its fragrant Smell.... 
 
+
 By the Favour of Providence and Vigour of his Youth, being now but thirty Years old, he came at last to conquer all the Inconveniences of his Solitude and to be very easy. 
 
-When his Cloaths were out he made himself a Coat and a Cap of Goat-skins, [Pg 155]which he stitched together with little Thongs of the same that he cut with his Knife. 
+When his Cloaths were out he made himself a Coat and a Cap of Goat-skins, which he stitched together with little Thongs of the same that he cut with his Knife. 
 
 He had no other Needle but a Nail; and when his Knife was worn to the Back he made others as well as he could of some Iron Hoops that were left ashore, which he beat thin, and ground upon Stones. 
 
@@ -133,4 +134,3 @@ Having some Linen Cloth by him, he sewed him some Shirts with a Nail, and stitch
 He had his last Shirt on when we found him in the Island. At his first coming on board us he had so much forgot his Language for want of Use that we could scarce understand him; for he seemed to speak his Words by halves. We offered him a Dram; but he would not touch it, having drank nothing but Water since his being there; and it was some Time before he could relish our Victuals.”
 
 It is easy to imagine the interest with which Dampier would listen to the recital of his old associate's strange adventures. 
-
