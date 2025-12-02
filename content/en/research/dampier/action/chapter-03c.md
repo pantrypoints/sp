@@ -1,9 +1,7 @@
 ---
-heading: "Chapter 3c: 1681-1691"
+heading: "Chapter 3c"
 title: "The Two Fleets Compared"
-writer:
-  name: William Dampier
-  url: https://en.wikipedia.org/wiki/William_Dampier
+author: William Clark Russell
 description: "All the English of the party were immediately taken into the service of Captain Davis and Captain Swan, whilst one of the prizes was given to the Frenchmen"
 c: "darkslategray"
 date: 2022-11-30
@@ -152,4 +150,7 @@ Resistance was as idle as entreaties, and he was forced to return; but on his ar
 
 Amongst them was the surgeon. This man the captain flatly refused to part with, and the hubbub was great. All this confusion and quarrelling seems to have helped Dampier, for, after a deal of squabbling, we find him and two others obtaining permission to quit the ship. They were put ashore with their effects, and entering one of the unoccupied houses, hung up their hammocks to prepare for the night. 
 
-Presently more men arrived, and they were now numerous enough to protect themselves against the natives. It was a fine clear, moonlight night, and the little company of buccaneers walked down to the beach to wait until the ship should weigh and be gone, fearing their liberty whilst she stayed. At twelve o'clock they heard her getting her anchor and making sail, and presently she was gliding slowly and silently seawards, glistening white against the ocean darkness to the rays of the high moon.
+More men arrived, and they were now numerous enough to protect themselves against the natives. 
+
+It was a fine clear, moonlight night, and the little company of buccaneers walked down to the beach to wait until the ship should weigh and be gone, fearing their liberty whilst she stayed. At twelve o'clock they heard her getting her anchor and making sail, and presently she was gliding slowly and silently seawards, glistening white against the ocean darkness to the rays of the high moon.
+

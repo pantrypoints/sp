@@ -1,9 +1,7 @@
 ---
-heading: "Chapter 6b; 1708-1711"
+heading: "Chapter 6b"
 title: "Privateer Life"
-writer:
-  name: William Dampier
-  url: https://en.wikipedia.org/wiki/William_Dampier
+author: William Clark Russell
 description: "The traditions of those days still linger, and the sailor of our own times suffers to a certain extent from prejudices which were excited and perpetuated by the bold and reckless savages"
 c: "darkslategray"
 date: 2022-11-30
@@ -133,4 +131,4 @@ Having some Linen Cloth by him, he sewed him some Shirts with a Nail, and stitch
 
 He had his last Shirt on when we found him in the Island. At his first coming on board us he had so much forgot his Language for want of Use that we could scarce understand him; for he seemed to speak his Words by halves. We offered him a Dram; but he would not touch it, having drank nothing but Water since his being there; and it was some Time before he could relish our Victuals.”
 
-It is easy to imagine the interest with which Dampier would listen to the recital of his old associate's strange adventures. 
+<!-- It is easy to imagine the interest with which Dampier would listen to the recital of his old associate's strange adventures.  -->

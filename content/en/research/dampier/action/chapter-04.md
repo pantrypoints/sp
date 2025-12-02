@@ -1,9 +1,7 @@
 ---
 heading: "Chapter 4: 1699-1701"
 title: "The Voyage Of The Roebuck"
-writer:
-  name: William Dampier
-  url: https://en.wikipedia.org/wiki/William_Dampier
+author: William Clark Russell
 description: "The Buccaneers—Navigation in the Seventeenth Century—Features of the Vocational Life of the Early Mariner"
 c: "darkslategray"
 date: 2022-11-30

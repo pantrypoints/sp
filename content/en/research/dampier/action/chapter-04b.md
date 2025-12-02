@@ -1,9 +1,7 @@
 ---
-heading: "Chapter 4b: 1699-1701"
+heading: "Chapter 4b"
 title: "The Roebuck At New Guinea"
-writer:
-  name: William Dampier
-  url: https://en.wikipedia.org/wiki/William_Dampier
+author: William Clark Russell
 description: "The Buccaneers—Navigation in the Seventeenth Century—Features of the Vocational Life of the Early Mariner"
 c: "darkslategray"
 date: 2022-11-30
@@ -46,7 +44,31 @@ Dampier describes the country hereabouts as mountainous and wooded, full of rich
 
 All this while he supposed that he was still off the coast of New Guinea; but following the trend of the shore, he arrived at those straits which still bear his name, and then discovered that the little country whose seaboard he had been exploring was an island. This land he called Nova Britannia, or, as we now know it, New Britain. Happy would it have been for the reputation of Dampier if, instead of steering east through his straits, he had continued to skirt the New Guinea coast to the south-east, for by so doing he must have rounded into the Gulf of Papua, struck the channel called Torres Straits, and, catching sight of Cape York, have been encouraged to pursue his exploration of the coast of New Holland on that side of the great continent whose fruitfulness, beauty, and conveniency have courted the civilisation of Europe. It is true that the Roebuck was provisioned for twenty months only, but an ardent and ambitious navigator would have made little or nothing of such a condition of his voyage as this when close aboard of him were lands filled with fruit, hogs, fowls, and fresh water. But there is no question that Dampier had long grown weary of this business. He could see nothing but honour (and little enough of that, as things went) to be got out of this journey, and as a poor man, with the heart of a buccaneer in him besides, he would appreciate the need of something more substantial than fame. Be this as it may, he had now, it being April 26th, 1700, started on his return home, intending on [Pg 103]the way to call at Batavia to careen and doctor his crazy ship for the long voyage to England. When clear of the straits a vessel hove in sight at dusk, and as her manœuvrings were puzzling they loaded their guns, lighted the matches, and made ready to fight her. 
 
-She sheered off, but was in sight at daybreak, and then proved to be nothing more dangerous than a Chinese junk laden with tea, porcelain, and other commodities, and bound for Amboyna. The Roebuck's progress was very slow; she was coated with weeds and barnacles, and in a sea-way her timbers worked like a basket. It was not until June 23rd that they arrived at the Straits of Sunda, and at the close of the month they dropped anchor off Batavia. Here Dampier stayed for three months whilst his ship was careened and repaired. Her condition was such that one can only wonder that he and his crew ventured to sail home in her. We might scarcely credit that Dampier's patrons honestly felt much faith in his representations, and in the hopes he held out of vast and important discoveries, when we find them putting him and his crew of boys into a ship which time had made rotten probably some years before she was equipped for this voyage, if it were not that the later experiences of Anson exhibit the same profound departmental indifference and neglect on an occasion which we may assume was regarded as far more significant than Dampier's expedition. Of all the wonderful accomplishments of the English sailor, nothing to my mind is so amazing as the triumphs with which he crowns the cause of his country in defiance of the miserable indifference of the British Admiralty to him and to his labours. The best that Dampier could do [Pg 104]with his ship was so to patch her up as to enable her to carry her people home with the pumps going day and night. They sailed from Batavia on October 17th, arrived at the Cape of Good Hope on December 30th, and brought up at the island of Ascension in a sinking condition on February 21st, 1701. Even whilst Ascension was in sight the Roebuck had sprung a fresh leak, and when she anchored both hand and chain pumps were going. There was still a long stretch of ocean for them to traverse, and a ship like a sieve to measure it with. The tinkering of the carpenters apparently increased the mischief, and whilst Dampier was waiting below to receive the news of the leak being stopped, the boatswain arrived with a long face to tell him that the vessel was sinking. 
+She sheered off, but was in sight at daybreak, and then proved to be nothing more dangerous than a Chinese junk laden with tea, porcelain, and other commodities, and bound for Amboyna. 
+
+The Roebuck's progress was very slow as she was coated with weeds and barnacles. In a sea-way, her timbers worked like a basket.
+
+It was not until June 23 that they arrived at the Straits of Sunda, and at the close of the month they dropped anchor off Batavia. 
+
+Here Dampier stayed for 3 months while his ship was careened and repaired. 
+
+Her condition was such that one can only wonder that he and his crew ventured to sail home in her. 
+
+Dampier's patrons honestly felt much faith in:
+- his representations
+- his hopes of vast and important discoveries
+
+They put him and his crew of boys into a ship which was already rotten years before she was equipped for this voyage.
+
+<!-- if it were not that the later experiences of Anson exhibit the same profound departmental indifference and neglect on an occasion which we may assume was regarded as far more significant than Dampier's expedition.  -->
+
+I think that the most amazing of all Dampier's accomplishments was his nationalist triumphs in defiance of the British Admiralty's indifference to him and to his labours. 
+
+The best that Dampier could do with his ship was so to patch her up as to enable her to carry her people home with the pumps going day and night.
+
+They sailed from Batavia on October 17, arrived at the Cape of Good Hope on December 30, and brought up at the island of Ascension in a sinking condition on February 21, 1701.
+
+Even whilst Ascension was in sight the Roebuck had sprung a fresh leak, and when she anchored both hand and chain pumps were going. There was still a long stretch of ocean for them to traverse, and a ship like a sieve to measure it with. The tinkering of the carpenters apparently increased the mischief, and whilst Dampier was waiting below to receive the news of the leak being stopped, the boatswain arrived with a long face to tell him that the vessel was sinking. 
 
 “The plank was so rotten,” says Dampier, “it broke away like Dirt, and now it was impossible to save the Ship; for they could not come at the Leak because the water in the run was got above it. I worked myself to encourage my Men, who were very diligent, but the Water still increased, and we now thought of nothing but saving our lives: Wherefore I hoisted out the boat that if the Ship should sink we might be saved; and in the Morning we weighed our anchor and Warped in nearer the shore, tho' we did but little good.” 
 

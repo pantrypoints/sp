@@ -1,9 +1,7 @@
 ---
-heading: "Chapter 3b: 1681-1691"
+heading: "Chapter 3b"
 title: "Dampier'S First Voyage"
-writer:
-  name: William Dampier
-  url: https://en.wikipedia.org/wiki/William_Dampier
+author: William Clark Russell
 description: "The Buccaneers—Navigation in the Seventeenth Century—Features of the Vocational Life of the Early Mariner"
 c: "darkslategray"
 date: 2022-11-30

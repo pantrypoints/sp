@@ -1,9 +1,7 @@
 ---
 heading: "Chapter 2: 1652-1681"
 title: "Early Life of Dampier"
-writer:
-  name: William Dampier
-  url: https://en.wikipedia.org/wiki/William_Dampier
+author: William Clark Russell
 description: "His parents intended him for a commercial life, but the idea of shopkeeping was little likely to suit the genius of a lad who was a rover in heart whilst he was still in petticoats"
 c: "darkslategray"
 date: 2022-11-30

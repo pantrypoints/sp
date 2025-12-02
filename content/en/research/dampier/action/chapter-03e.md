@@ -1,9 +1,7 @@
 ---
-heading: "Chapter 3e: 1681-1691"
+heading: "Chapter 3e: 1689"
 title: "Dampier in Aceh, Indonesia"
-writer:
-  name: William Dampier
-  url: https://en.wikipedia.org/wiki/William_Dampier
+author: William Clark Russell
 description: "Nothing of moment happened during the passage to the Straits of Malacca. The ship arrived at Acheen [Aceh] about the beginning of March"
 c: "darkslategray"
 date: 2022-11-30

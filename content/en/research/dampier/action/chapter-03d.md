@@ -1,9 +1,7 @@
 ---
-heading: "Chapter 3d: 1681-1691"
+heading: "Chapter 3d"
 title: "Dampier in Vietnam"
-writer:
-  name: William Dampier
-  url: https://en.wikipedia.org/wiki/William_Dampier
+author: William Clark Russell
 description: "Next day, Dampier and his associates purchased a canoe. They then passed over to the south end of the island, where they victualled their little boat with fruit loaves, cocoa-nuts, and fresh water"
 c: "darkslategray"
 date: 2022-11-30

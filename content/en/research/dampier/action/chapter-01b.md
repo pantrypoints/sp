@@ -1,9 +1,7 @@
 ---
 heading: "Chapter 1b"
 title: "Anson's Voyage"
-writer:
-  name: William Dampier
-  url: https://en.wikipedia.org/wiki/William_Dampier
+author: William Clark Russell
 description: "The early navigators had intrepid seamanship at a time when the art of navigation and the understanding of the shapes, bulk, and rigs of the vessels in which they cruised in search of plunder or started on long voyages of discovery were difficult"
 c: "darkslategray"
 weight: 5
