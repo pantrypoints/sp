@@ -1,12 +1,12 @@
 ---
 heading: Chapter 7
-title: "Benefactors"
-weight: 12
+title: "Friends as Benefactors"
+weight: 16
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "Science must mean the most accurate of all Knowledge."
+description: "Benefactors are commonly held to have more Friendship for the objects of their kindness than these for them"
 icon: "Aristotle"
 ---
 

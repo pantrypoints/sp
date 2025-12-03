@@ -25,9 +25,9 @@ No. We will be in the street all night.
 
 <sup>3</sup> He pressed on them greatly. So they entered into his house; and he made them a feast, and did bake unleavened bread, and they did eat.
 
-<sup>4</sup> But before they lay down, the men of the city, [even] the men of Sodom, compassed the house round, both old and young, all the people from every quarter: 
+<sup>4</sup> But before they lay down, the men of the city, even the men of Sodom, compassed the house round, both old and young, all the people from every quarter: 
 
-<sup>5</sup> They called unto Lot:
+<sup>5</sup> They called to Lot:
 
 {{< r a="Men" >}}
 Where are the men which came in with you this night? Bring them out unto us, so that we may have sex with them. 
@@ -41,9 +41,9 @@ I pray you do not so wickedly. <sup>8</sup> I have 2 daughters which have not ha
 {{< /r >}}
 
 
-<sup>9</sup> They said:
-
-Get out of the way! This one came here as an alien but he is acting like a judge. Now will we deal worse with you, than with them.
+{{< r a="Men" >}}
+<sup>9</sup> Get out of the way! This one came here as an alien but he is acting like a judge. Now will we deal worse with you, than with them.
+{{< /r >}}
 
 They came near to break the door. 
 
@@ -53,7 +53,7 @@ They came near to break the door.
 
 <sup>12</sup> The agents said to Lot: 
 
-{{< l a="Enki-Agents" >}}
+{{< l a="Enki Agents" >}}
 If you have any family here, bring them out of this place <sup>13</sup> because we will destroy this place. The outcry against them is so great that Enki had sent us to destroy it. 
 {{< /l >}}
 
@@ -71,7 +71,7 @@ But he seemed as one that mocked unto his sons in law.
 
 <sup>15</sup> When the morning arose, the agents hastened Lot, saying:
 
-{{< l a="Enki-Agents" >}}
+{{< l a="Enki Agents" >}}
 Arise, take your wife, and your 2 daughters which are here; lest you be consumed in the iniquity of the city.
 {{< /l >}}
 
@@ -104,7 +104,7 @@ See, I have accepted you concerning this thing also, that I will not overthrow t
 
 Therefore the name of the city was called Zoar. 
 
-{19:23} The sun was risen upon the earth when Lot entered into Zoar.
+<sup>23</sup> The sun was risen upon the earth when Lot entered into Zoar.
 
 <sup>24</sup> Then Enki rained on Sodom and Gomorrah brimstone and fire. 
 
@@ -128,12 +128,18 @@ Therefore the name of the city was called Zoar.
 
 The firstborn went in, and lay with her father; and he perceived not when she lay down, nor when she arose. 
 
-<sup>34</sup> The next day, the firstborn said unto the younger, Behold, I lay yesternight with my father: let us make him drink wine this night also; and go you in, [and] lie with him, that we may preserve seed of our father.
+<sup>34</sup> The next day, the firstborn said to the younger:
 
-<sup>35</sup> They made their father drink wine that night also: and the younger arose, and lay with him; and he perceived not when she lay down, nor when she arose.
+ <!-- preserve seed -->
+{{< l a="Woman" >}}
+Behold, I slept last night with my father. Let us make him drink wine this night also then you go in and sleep with him, that we may have the sperm of our father.
+{{< /l >}}
 
-<sup>36</sup> Thus were both the daughters of Lot with child by their father. {19:37} And the firstborn bare a son, and called his name Moab: the same [is] the father of the Moabites
-unto this day. 
 
-<sup>38</sup> The younger, she also bare a son, and called his name Benammi: the same [is] the father of the children of Ammon unto this day.
+<sup>35</sup> They made their father drink wine that night also. The younger arose and slept with him. He did perceive when she lay down, nor when she arose.
 
+<sup>36</sup> Thus, both the daughters of Lot had a child by their father. 
+
+<sup>37</sup> The firstborn bare a son, and named him Moab. The same is the father of the Moabites to this day. 
+
+<sup>38</sup> The younger, also bare a son, named Benammi: the same is the father of the children of Ammon to this day.

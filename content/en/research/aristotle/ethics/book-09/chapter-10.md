@@ -1,12 +1,12 @@
 ---
 heading: Chapter 10
 title: "How Many Friends Should we Have?"
-weight: 12
+weight: 22
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "Science must mean the most accurate of all Knowledge."
+description: "Should we then make our friends as many as possible?"
 icon: "Aristotle"
 ---
 

@@ -1,19 +1,25 @@
 ---
 heading: Chapter 13
-title: "Quarrels"
-weight: 12
+title: "Fault-finding and Blame in Friendships"
+weight: 35
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "Men should choose the mean instead of either the excess or defect"
+description: "Fault-finding and blame arises, either solely or most naturally, in Friendship of which utility is the motive"
 icon: "Aristotle"
 ---
 
 
-There are then, as was stated at the commencement of this book, three kinds of Friendship, and in each there may be friends on a footing of equality and friends in the relation of superior and inferior; we find, I mean, that people who are alike in goodness, become friends, and better with worse, and so also pleasant people; again, because of advantage people are friends, either balancing exactly their mutual profitableness or differing from one another herein. Well then, those who are equal should in right of this equality be equalised also by the degree of their Friendship and the other points, and those who are on a footing of inequality by rendering Friendship in proportion to the superiority of the other party.
+There are 3 kinds of Friendship.
 
-Fault-finding and blame arises, either solely or most naturally, in Friendship of which utility is the motive: for they who are friends by reason of goodness, are eager to do kindnesses to one another because this is a natural result of goodness and Friendship; and when men are vying with each other for this End there can be no fault-finding nor contention: since no one is annoyed at one who entertains for him the sentiment of Friendship and does kindnesses to him, but if of a refined mind he requites him with kind actions. And suppose that one of the two exceeds the other, yet as he is attaining his object he will not find fault with his friend, for good is the object of each party.
+In each there may be friends on a footing of equality and friends in the relation of superior and inferior; we find, I mean, that people who are alike in goodness, become friends, and better with worse, and so also pleasant people; again, because of advantage people are friends, either balancing exactly their mutual profitableness or differing from one another herein. Well then, those who are equal should in right of this equality be equalised also by the degree of their Friendship and the other points, and those who are on a footing of inequality by rendering Friendship in proportion to the superiority of the other party.
+
+Fault-finding and blame arises, either solely or most naturally, in Friendship of which utility is the motive: for they who are friends by reason of goodness, are eager to do kindnesses to one another because this is a natural result of goodness and Friendship.
+
+When men are vying with each other for this End there can be no fault-finding nor contention: since no one is annoyed at one who entertains for him the sentiment of Friendship and does kindnesses to him, but if of a refined mind he requites him with kind actions.
+
+Suppose that one of the two exceeds the other, yet as he is attaining his object he will not find fault with his friend, for good is the object of each party.
 
 Neither can there well be quarrels between men who are friends for pleasure’s sake: because supposing them to delight in living together then both attain their desire; or if not a man would be put in a ridiculous light who should find fault with another for not pleasing him, since it is in his power to forbear intercourse with him. But the Friendship because of advantage is very liable to fault-finding; because, as the parties use one another with a view to advantage, the requirements are continually enlarging, and they think they have less than of right belongs to them, and find fault because though justly entitled they do not get as much as they want: while they who do the kindnesses, can never come up to the requirements of those to whom they are being done.
 
@@ -23,7 +29,13 @@ In this Legal kind the obligation is clear and admits of no dispute, the friendl
 
 That which may be termed the Moral kind is not upon specified conditions, but a man gives as to his friend and so on: but still he expects to receive an equivalent, or even more, as though he had not given but lent: he also will find fault, because he does not get the obligation discharged in the same way as it was contracted.
 
-Now this results from the fact, that all men, or the generality at least, wish what is honourable, but, when tested, choose what is profitable; and the doing kindnesses disinterestedly is honourable while receiving benefits is profitable. In such cases one should, if able, make a return proportionate to the good received, and do so willingly, because one ought not to make a disinterested friend[9] of a man against his inclination: one should act, I say, as having made a mistake originally in receiving kindness from one from whom one ought not to have received it, he being not a friend nor doing the act disinterestedly; one should therefore discharge one’s self of the obligation as having received a kindness on specified terms: and if able a man would engage to repay the kindness, while if he were unable even the doer of it would not expect it of him: so that if he is able he ought to repay it. But one ought at the first to ascertain from whom one is receiving kindness, and on what understanding, that on that same understanding one may accept it or not.
+This results from the fact that all men wish what is honourable.
+
+But, when tested, they choose what is profitable.
+
+The doing kindnesses disinterestedly is honourable while receiving benefits is profitable. In such cases one should, if able, make a return proportionate to the good received, and do so willingly, because one ought not to make a disinterested friend of a man against his inclination: one should act, I say, as having made a mistake originally in receiving kindness from one from whom one ought not to have received it, he being not a friend nor doing the act disinterestedly.
+
+One should therefore discharge one’s self of the obligation as having received a kindness on specified terms: and if able a man would engage to repay the kindness, while if he were unable even the doer of it would not expect it of him: so that if he is able he ought to repay it. But one ought at the first to ascertain from whom one is receiving kindness, and on what understanding, that on that same understanding one may accept it or not.
 
 A question admitting of dispute is whether one is to measure a kindness by the good done to the receiver of it, and make this the standard by which to requite, or by the kind intention of the doer?
 

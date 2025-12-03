@@ -11,88 +11,100 @@ writer:
 ---
 
 
-It is impossible that the infinite should be a thing which is itself infinite, separable from sensible objects. If the infinite is neither a magnitude nor an aggregate, but is itself a substance and not an attribute, it will be indivisible; for the divisible must be either a magnitude or an aggregate. 
+It is impossible that the infinite should be itself infinite, separable from sensible objects.
 
-But if indivisible, then not infinite, except in the sense (1) in which the voice is ‘invisible’. But this is not the sense in which it is used by those who say that the infinite exists, nor that in which we are investigating it, namely as (2) ‘that which cannot be gone through’.
+The infinite will be indivisible if it is:
+- neither a magnitude nor an aggregate
+- a substance and not an attribute
 
-But if the infinite exists as an attribute, it would not be, qua infinite an element in
-substances, any more than the invisible would be an element of speech, though the voice
-is invisible.
+This is because the divisible must be either a magnitude or an aggregate. 
 
-Further, how can the infinite be itself any thing, unless both number and magnitude, of
-which it is an essential attribute, exist in that way? If they are not substances, a fortiori
-the infinite is not.
+But if it is indivisible, then it is not infinite, except in the sense in which the voice is ‘invisible’. 
+
+But this is not the sense in which it is used by those who say that the infinite exists, nor that in which we are investigating it, namely as ‘that which cannot be gone through’.
+
+If the infinite is an attribute, then it would not be, qua infinite an element in substances, any more than the invisible would be an element of speech, though the voice is invisible.
+
+How can the infinite be anything, unless both number and magnitude, of which it is an essential attribute, are infinite?
+
+If they are not substances, a fortiori the infinite is not.
 
 The infinite cannot be an actual thing and a substance and principle.
 
-For any part of it that is taken will be infinite, if it has parts: for ‘to be infinite’ and ‘the
-infinite’ are the same, if it is a substance and not predicated of a subject. Hence it will
-be either indivisible or divisible into infinites. 
+For any part of it that is taken will be infinite, if it has parts. For ‘to be infinite’ and ‘the infinite’ are the same, if it is a substance and not predicated of a subject. 
 
-But the same thing cannot be many
-infinites. (Yet just as part of air is air, so a part of the infinite would be infinite, if it is
-supposed to be a substance and principle.) Therefore the infinite must be without parts
-and indivisible. But this cannot be true of what is infinite in full completion: for it must
-be a definite quantity.
+Hence it will be either indivisible or divisible into infinites. 
 
-Suppose then that infinity belongs to substance as an attribute. But, if so, it cannot, as
-we have said, be described as a principle, but rather that of which it is an attribute-the
-air or the even number.
+But the same thing cannot be many infinites. 
 
-Thus the view of those who speak after the manner of the Pythagoreans is absurd. With
-the same breath they treat the infinite as substance, and divide it into parts.
-This discussion, however, involves the more general question whether the infinite can be
-present in mathematical objects and things which are intelligible and do not have
-extension, as well as among sensible objects. Our inquiry (as physicists) is limited to its
-special subject-matter, the objects of sense, and we have to ask whether there is or is not
-among them a body which is infinite in the direction of increase.
+Yet just as part of air is air, so a part of the infinite would be infinite, if it is supposed to be a substance and principle.
 
-We may begin with a dialectical argument and show as follows that there is no such
-thing. If ‘bounded by a surface’ is the definition of body there cannot be an infinite body
-either intelligible or sensible. Nor can number taken in abstraction be infinite, for
-number or that which has number is numerable. If then the numerable can be numbered,
-it would also be possible to go through the infinite.
+Therefore the infinite must be without parts and be indivisible. 
 
-If, on the other hand, we investigate the question more in accordance with principles
-appropriate to physics, we are led as follows to the same result.
-The infinite body must be either (1) compound, or (2) simple; yet neither alternative is
-possible.
+But this cannot be true of what is infinite in full completion: for it must be a definite quantity.
 
-(1) Compound the infinite body will not be, if the elements are
-finite in number. For they must be more than one, and the
-contraries must always balance, and no one of them can be infinite. If one of the bodies falls in any degree short of the other in potency-suppose fire is finite in amount while air is infinite and
-a given quantity of fire exceeds in power the same amount of air in
-any ratio provided it is numerically definite-the infinite body will
-obviously prevail over and annihilate the finite body. On the other
-hand, it is impossible that each should be infinite. ‘Body’ is what
-has extension in all directions and the infinite is what is
-boundlessly extended, so that the infinite body would be extended
-in all directions ad infinitum.
+Suppose that infinity belongs to substance as an attribute.
 
-Nor (2) can the infinite body be one and simple, whether it is, as some hold, a thing over
-and above the elements (from which they generate the elements) or is not thus qualified.
-(a) We must consider the former alternative; for there are some
-people who make this the infinite, and not air or water, in order
-that the other elements may not be annihilated by the element
-which is infinite. They have contrariety with each other-air is cold,
-water moist, fire hot; if one were infinite, the others by now would
-have ceased to be. As it is, they say, the infinite is different from
-them and is their source.
+But, if so, it cannot be a principle. Rather, it is an attribute.
 
-It is impossible, however, that there should be such a body; not because it is infinite on
-that point a general proof can be given which applies equally to all, air, water, or
-anything else-but simply because there is, as a matter of fact, no such sensible body,
-alongside the so-called elements. Everything can be resolved into the elements of which
-it is composed. Hence the body in question would have been present in our world here,
-alongside air and fire and earth and water: but nothing of the kind is observed.
+<!-- -the air or the even number. -->
+
+Thus the view of the Pythagoreans is absurd. 
+
+They treat the infinite as substance, yet divide it into parts. 
+
+This discussion, however, involves the more general question whether the infinite can be present in mathematical objects and things which are intelligible and do not have
+extension, as well as among sensible objects. 
+
+Our inquiry (as physicists) is limited to its special subject-matter, the objects of sense.
+
+Do the objects of sense have among them a body which is infinite in increase?*
+
+{{< n n="The problem is that Aristotle applies abstract infinity to physical objects. The infinity of the Pythagoreans are abstract, and so it can be divisible, be a principle, be a magnitude, and be an attribute at the same time" >}}
+
+
+We may begin with a dialectical argument and show as follows that there is no such thing. 
+
+I define body as being bounded by a surface.
+
+Therefore, no infinite body can be intelligible or sensible.
+
+Nor can abstract numbers be infinite, for number or that which has number is numerable.
+
+If then the numerable can be numbered, it would also be possible to go through the infinite.
+
+If, on the other hand, we investigate the question more in accordance with principles appropriate to physics, we are led as follows to the same result.
+
+The infinite body must be either:
+- compound, or
+- simple
+
+Yet neither alternative is possible.
+
+
+## Compound Infinite Body
+
+
+
+The infinite body cannot be compounded if the elements are finite in number. 
+
+For they must be more than one. The contraries must always balance. No one of them can be infinite.
+
+If one of the bodies falls short of the other in potency-suppose fire is finite in amount while air is infinite and a given quantity of fire exceeds in power the same amount of air in any ratio provided it is numerically definite-the infinite body will obviously prevail over and annihilate the finite body. 
+
+On the other hand, it is impossible that each should be infinite. ‘Body’ is what has extension in all directions and the infinite is what is boundlessly extended, so that the infinite body would be extended in all directions ad infinitum.
+
+Nor (2) can the infinite body be one and simple, whether it is, as some hold, a thing over and above the elements (from which they generate the elements) or is not thus qualified. (a) We must consider the former alternative; for there are some people who make this the infinite, and not air or water, in order that the other elements may not be annihilated by the element which is infinite. They have contrariety with each other-air is cold, water moist, fire hot; if one were infinite, the others by now would have ceased to be. As it is, they say, the infinite is different from them and is their source.
+
+But there can be no such body. This is not because it is infinite on that point a general proof can be given which applies equally to all, air, water, or anything else.
+
+But simply because there is no such sensible body alongside the elements.
+
+Everything can be resolved into the elements of which it is composed. Hence the body in question would have been present in our world here, alongside air and fire and earth and water: but nothing of the kind is observed. 
+
 (b) Nor can fire or any other of the elements be infinite. 
 
-Generally, and apart from the question of how any of them could
-be infinite, the All, even if it were limited, cannot either be or
-become one of them, as Heraclitus says that at some time all things
-become fire. (The same argument applies also to the one which the
-physicists suppose to exist alongside the elements: for everything
-changes from contrary to contrary, e.g. from hot to cold).
+Generally, and apart from the question of how any of them could be infinite, the All, even if it were limited, cannot either be or become one of them, as Heraclitus says that at some time all things become fire. (The same argument applies also to the one which the physicists suppose to exist alongside the elements: for everything changes from contrary to contrary, e.g. from hot to cold).
 
 The preceding consideration of the various cases serves to show us whether it is or is
 not possible that there should be an infinite sensible body. The following arguments

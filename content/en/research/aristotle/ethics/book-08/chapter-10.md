@@ -1,7 +1,7 @@
 ---
 heading: Chapter 10
 title: "Political Constitutions"
-weight: 12
+weight: 26
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

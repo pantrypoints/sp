@@ -33,7 +33,7 @@ Make ready quickly 3 measures of fine meal, knead it, and make cakes upon the he
 
 <sup>9</sup> They said to him:
 
-{{< l a="Enki-Agents" >}}
+{{< l a="Enki Agents" >}}
 Where is Sarah your wife?
 {{< /l >}}
 
@@ -41,8 +41,8 @@ Where is Sarah your wife?
 In the tent
 {{< /l >}}
 
-{{< l a="Enki-Agents" >}}
-{18:10} I will return to you after 1 year and Sarah shall have a son.
+{{< l a="Enki Agents" >}}
+<sup>10</sup> I will return to you after 1 year and Sarah shall have a son.
 {{< /l >}}
 
 
@@ -63,7 +63,7 @@ After I am waxed old shall I have pleasure, my lord being old also?
 {{< l a="Enki" >}}
 Wherefore did Sarah laugh, saying, Shall I of a surety bear a child, which am old? 
 
-{18:14} Is any thing too hard for Enki? At the time appointed I will return unto you, according to the time of life, and Sarah shall have a son.
+<sup>14</sup> Is any thing too hard for Enki? At the time appointed I will return unto you, according to the time of life, and Sarah shall have a son.
 {{< /l >}}
 
 
@@ -78,8 +78,7 @@ She was afraid.
 You laughed. 
 {{< /l >}}
 
-{18:16} The men rose up and looked towards Sodom. Abraham went with them to bring them
-on the way. 
+<sup>16</sup> The men rose up and looked towards Sodom. Abraham went with them to bring them on the way. 
 
 
 {{< l a="Enki" >}}
@@ -142,7 +141,7 @@ I will not do [it,] if I find thirty there.
 {{< /l >}}
 
 {{< r a="Abraham" >}}
-{18:31} If there shall be 20 found there?
+<sup>31</sup> If there shall be 20 found there?
 {{< /r >}}
 
 {{< l a="Enki" >}}
@@ -159,4 +158,4 @@ I will not destroy [it] for ten’s sake.
 {{< /l >}}
 
 
-{18:33} Enki went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place.
+<sup>33</sup> Enki went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place.

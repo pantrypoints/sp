@@ -74,6 +74,11 @@ Social Superphysics uses it to match people with each other, as student-course, 
 This is most useful in finding romantic partners since male and female are already predisposed to be attracted to each other. All that is needed is to find the matching spins that would create lasting or specific-use partnerships.   
 
 Spiritual Superphysics uses it to recommend the proper philosophy or religion to each person depending on their mental spin or mentality. 
+- Weak minded people would likely go for easy religions like Christianity, or dogmatic ones like Islam
+- Strong minded people would likely go for the lightning fast Vajrayana or Hindu Tantra
+- Devotional people might go for Sikhism
+- Intellectuals might prefer Buddhism with its many abstractions
+
 
 
 <!-- Our Theory of Dynamism: State and State-Change

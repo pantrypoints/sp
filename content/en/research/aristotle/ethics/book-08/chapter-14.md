@@ -1,12 +1,12 @@
 ---
 heading: Chapter 14
-title: "Quarrels"
-weight: 12
+title: "How Quarrels Start"
+weight: 36
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "Men should choose the mean instead of either the excess or defect"
+description: "Quarrels arise also in those Friendships in which the parties are unequal because each party thinks himself entitled to the greater share"
 icon: "Aristotle"
 ---
 
@@ -24,7 +24,8 @@ This is plainly the principle acted upon in Political Communities: he receives n
 
 Like rules then should be observed in the intercourse of friends who are unequal; and to him who advantages another in respect of money, or goodness, that other should repay honour, making requital according to his power; because Friendship requires what is possible, not what is strictly due, this being not possible in all cases, as in the honours paid to the gods and to parents: no man could ever make the due return in these cases, and so he is thought to be a good man who pays respect according to his ability.
 
-For this reason it may be judged never to be allowable for a son to disown his father, whereas a father may his son: because he that owes is bound to pay; now a son can never, by anything he has done, fully requite the benefits first conferred on him by his father, and so is always a debtor. But they to whom anything is owed may cast off their debtors: therefore the father may his son. But at the same time it must perhaps be admitted, that it seems no father ever would sever himself utterly from a son, except in a case of exceeding depravity: because, independently of the natural Friendship, it is like human nature not to put away from one’s self the assistance which a son might render. But to the son, if depraved, assisting his father is a thing to be avoided, or at least one which he will not be very anxious to do; most men being willing enough to receive kindness, but averse to doing it as unprofitable.
+For this reason it may be judged never to be allowable for a son to disown his father, whereas a father may his son: because he that owes is bound to pay; now a son can never, by anything he has done, fully requite the benefits first conferred on him by his father, and so is always a debtor. But they to whom anything is owed may cast off their debtors: therefore the father may his son. 
 
-Let thus much suffice on these points.
+But at the same time it must perhaps be admitted, that it seems no father ever would sever himself utterly from a son, except in a case of exceeding depravity: because, independently of the natural Friendship, it is like human nature not to put away from one’s self the assistance which a son might render. 
 
+But to the son, if depraved, assisting his father is a thing to be avoided, or at least one which he will not be very anxious to do; most men being willing enough to receive kindness, but averse to doing it as unprofitable.

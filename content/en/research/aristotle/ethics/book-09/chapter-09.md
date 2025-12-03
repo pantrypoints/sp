@@ -1,12 +1,12 @@
 ---
 heading: Chapter 9
-title: "Will the Happy man want Friends"
-weight: 12
+title: "Will the Happy man want Friends?"
+weight: 20
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "Science must mean the most accurate of all Knowledge."
+description: "Some say that they who are blessed and independent have no need of Friends, for they already have all that is good"
 icon: "Aristotle"
 ---
 
@@ -32,7 +32,7 @@ If then the being happy consists in living and working, and the good man’s wor
 
 Again, common opinion requires that the Happy man live with pleasure to himself: now life is burthensome to a man in solitude, for it is not easy to work continuously by one’s self, but in company with, and in regard to others, it is easier, and therefore the working, being pleasurable in itself will be more continuous (a thing which should be in respect of the Happy man); for the good man, in that he is good takes pleasure in the actions which accord with Virtue and is annoyed at those which spring from Vice, just as a musical man is pleased with beautiful music and annoyed by bad. And besides, as Theognis says, Virtue itself may be improved by practice, from living with the good.
 
-And, upon the following considerations more purely metaphysical, it will probably appear that the good friend is naturally choice-worthy to the good man. We have said before, that whatever is naturally good is also in itself good and pleasant to the good man; now the fact of living, so far as animals are concerned, is characterised generally by the power of sentience, in man it is characterised by that of sentience, or of rationality (the faculty of course being referred to the actual operation of the faculty, certainly the main point is the actual operation of it); so that living seems mainly to consist in the act of sentience or exerting rationality: now the fact of living is in itself one of the things that are good and pleasant (for it is a definite totality, and whatever is such belongs to the nature of good), but what is naturally good is good to the good man: for which reason it seems to be pleasant to all. (Of course one must not suppose a life which is depraved and corrupted, nor one spent in pain, for that which is such is indefinite as are its inherent qualities: however, what is to be said of pain will be clearer in what is to follow.)
+Upon the following considerations more purely metaphysical, it will probably appear that the good friend is naturally choice-worthy to the good man. We have said before, that whatever is naturally good is also in itself good and pleasant to the good man; now the fact of living, so far as animals are concerned, is characterised generally by the power of sentience, in man it is characterised by that of sentience, or of rationality (the faculty of course being referred to the actual operation of the faculty, certainly the main point is the actual operation of it); so that living seems mainly to consist in the act of sentience or exerting rationality: now the fact of living is in itself one of the things that are good and pleasant (for it is a definite totality, and whatever is such belongs to the nature of good), but what is naturally good is good to the good man: for which reason it seems to be pleasant to all. (Of course one must not suppose a life which is depraved and corrupted, nor one spent in pain, for that which is such is indefinite as are its inherent qualities: however, what is to be said of pain will be clearer in what is to follow.)
 
 If then the fact of living is in itself good and pleasant (and this appears from the fact that all desire it, and specially those who are good and in high happiness; their course of life being most choice-worthy and their existence most choice-worthy likewise), then also he that sees perceives that he sees; and he that hears perceives that he hears; and he that walks perceives that he walks; and in all the other instances in like manner there is a faculty which reflects upon and perceives the fact that we are working, so that we can perceive that we perceive and intellectually know that we intellectually know: but to perceive that we perceive or that we intellectually know is to perceive that we exist, since existence was defined to be perceiving or intellectually knowing. Now to perceive that one lives is a thing pleasant in itself, life being a thing naturally good, and the perceiving of the presence in ourselves of things naturally good being pleasant.
 
@@ -41,4 +41,3 @@ Therefore the fact of living is choice-worthy, and to the good specially so sinc
 But the good man is to his friend as to himself, friend being but a name for a second Self; therefore as his own existence is choice-worthy to each so too, or similarly at least, is his friend’s existence. But the ground of one’s own existence being choice-worthy is the perceiving of one’s self being good, any such perception being in itself pleasant. Therefore one ought to be thoroughly conscious of one’s friend’s existence, which will result from living with him, that is sharing in his words and thoughts: for this is the meaning of the term as applied to the human species, not mere feeding together as in the case of brutes.
 
 If then to the man in a high state of happiness existence is in itself choice-worthy, being naturally good and pleasant, and so too a friend’s existence, then the friend also must be among things choice-worthy. But whatever is choice-worthy to a man he should have or else he will be in this point deficient. The man therefore who is to come up to our notion “Happy” will need good Friends.
-

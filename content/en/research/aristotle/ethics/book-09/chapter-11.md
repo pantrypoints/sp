@@ -1,7 +1,7 @@
 ---
 heading: Chapter 11
 title: "Are friends most needed in prosperity or in adversity?"
-weight: 12
+weight: 24
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -22,7 +22,11 @@ And from this, by the way, the question might be raised, whether it is that they
 
 However, we will not further discuss whether these which have been suggested or some other causes produce the relief, at least the effect we speak of is a matter of plain fact.
 
-But their presence has probably a mixed effect: I mean, not only is the very seeing friends pleasant, especially to one in misfortune, and actual help towards lessening the grief is afforded (the natural tendency of a friend, if he is gifted with tact, being to comfort by look and word, because he is well acquainted with the sufferer’s temper and disposition and therefore knows what things give him pleasure and pain), but also the perceiving a friend to be grieved at his misfortunes causes the sufferer pain, because every one avoids being cause of pain to his friends. And for this reason they who are of a manly nature are cautious not to implicate their friends in their pain; and unless a man is exceedingly callous to the pain of others he cannot bear the pain which is thus caused to his friends: in short, he does not admit men to wail with him, not being given to wail at all: women, it is true, and men who resemble women, like to have others to groan with them, and love such as friends and sympathisers. But it is plain that it is our duty in all things to imitate the highest character.
+But their presence has probably a mixed effect: I mean, not only is the very seeing friends pleasant, especially to one in misfortune, and actual help towards lessening the grief is afforded (the natural tendency of a friend, if he is gifted with tact, being to comfort by look and word, because he is well acquainted with the sufferer’s temper and disposition and therefore knows what things give him pleasure and pain), but also the perceiving a friend to be grieved at his misfortunes causes the sufferer pain, because every one avoids being cause of pain to his friends. 
+
+This is why those who have a manly nature are cautious not to implicate their friends in their pain.
+
+Unless a man is exceedingly callous to the pain of others he cannot bear the pain which is thus caused to his friends: in short, he does not admit men to wail with him, not being given to wail at all: women, it is true, and men who resemble women, like to have others to groan with them, and love such as friends and sympathisers. But it is plain that it is our duty in all things to imitate the highest character.
 
 On the other hand, the advantages of friends in our prosperity are the pleasurable intercourse and the consciousness that they are pleased at our good fortune.
 

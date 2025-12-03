@@ -1,12 +1,12 @@
 ---
 heading: Chapter 2
-title: "Imperfect Self-Control"
-weight: 16
+title: "Questions about Friendship"
+weight: 8
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "What is the nature of the right conception in violation of which a man fails of Self-Control?"
+description: "Is it impossible for bad men to be friends?"
 icon: "Aristotle"
 ---
 
@@ -32,5 +32,13 @@ Heraclitus maintains that “contrariety is expedient, and that the best agreeme
 
 Empedocles, among others, in direct opposition to these, affirms, that “like aims at like.”
 
-These physical questions we will take leave to omit, inasmuch as they are foreign to the present enquiry; and we will examine such as are proper to man and concern moral characters and feelings: as, for instance, “Does Friendship arise among all without distinction, or is it impossible for bad men to be friends?” and, “Is there but one species of Friendship, or several?” for they who ground the opinion that there is but one on the fact that Friendship admits of degrees hold that upon insufficient proof; because things which are different in species admit likewise of degrees (on this point we have spoken before).
+These physical questions we will take leave to omit, inasmuch as they are foreign to the present enquiry.
+
+I will examine such as are proper to man and concern moral characters and feelings.
+
+“Does Friendship arise among all without distinction, or is it impossible for bad men to be friends?”
+
+“Is there but one species of Friendship, or several?”
+
+Those who ground the opinion that there is but one on the fact that Friendship admits of degrees hold that upon insufficient proof; because things which are different in species admit likewise of degrees (on this point we have spoken before).
 

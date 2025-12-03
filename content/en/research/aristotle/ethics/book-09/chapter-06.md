@@ -1,21 +1,25 @@
 ---
 heading: Chapter 6
-title: "Friendship and Justice"
-weight: 12
+title: "Unity of Sentiment"
+weight: 14
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "Science must mean the most accurate of all Knowledge."
+description: "Unity of Sentiment is also plainly connected with Friendship"
 icon: "Aristotle"
 ---
 
 
-Unity of Sentiment is also plainly connected with Friendship, and therefore is not the same as Unity of Opinion, because this might exist even between people unacquainted with one another.
+Unity of Sentiment is also plainly connected with Friendship.
+
+Therefore, it is not the same as Unity of Opinion, because this might exist even between people unacquainted with one another.
 
 Nor do men usually say people are united in sentiment merely because they agree in opinion on any point, as, for instance, on points of astronomical science (Unity of Sentiment herein not having any connection with Friendship), but they say that Communities have Unity of Sentiment when they agree respecting points of expediency and take the same line and carry out what has been determined in common consultation.
 
-Thus we see that Unity of Sentiment has for its object matters of action, and such of these as are of importance, and of mutual, or, in the case of single States, common, interest: when, for instance, all agree in the choice of magistrates, or forming alliance with the Lacedæmonians, or appointing Pittacus ruler (that is to say, supposing he himself was willing). But when each wishes himself to be in power (as the brothers in the Phœnissæ), they quarrel and form parties: for, plainly, Unity of Sentiment does not merely imply that each entertains the same idea be it what it may, but that they do so in respect of the same object, as when both the populace and the sensible men of a State desire that the best men should be in office, because then all attain their object.
+Thus we see that Unity of Sentiment has for its object matters of action, and such of these as are of importance, and of mutual, or, in the case of single States, common, interest: when, for instance, all agree in the choice of magistrates, or forming alliance with the Lacedæmonians, or appointing Pittacus ruler (that is to say, supposing he himself was willing). 
+
+But when each wishes himself to be in power (as the brothers in the Phœnissæ), they quarrel and form parties: for, plainly, Unity of Sentiment does not merely imply that each entertains the same idea be it what it may, but that they do so in respect of the same object, as when both the populace and the sensible men of a State desire that the best men should be in office, because then all attain their object.
 
 Thus Unity of Sentiment is plainly a social Friendship, as it is also said to be: since it has for its object-matter things expedient and relating to life.
 

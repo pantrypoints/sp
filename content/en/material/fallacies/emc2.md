@@ -48,7 +48,8 @@ This is why anti-gravity cannot be discovered under `E=mc^2`.
 
 `E=mc^2` is falsified by UFOs and levitating Buddhist monks which can defy gravity with our expending so much energy. This is because their anti-gravity mechanism is from the aether. 
 
-{{< youtube cJWzBCV0ksc >}}
+{{< youtube 6y3bqvRWRSA >}}
+
 
 
 ### Problem 2: Mass Problem
@@ -68,7 +69,11 @@ Einstein made a mistake by denoting electromagnetic potential as mass, when he s
 
 > Einstein should have denoted electromagnetic mass as electromagnetic potential
 
-This leads to wrong statements like "The Higgs field gives mass to particles". In reality, it only gives electromagnetic potential. Particle mass is given by the Strong Force which is called aetherspace in Material Superphysics. 
+This leads to wrong statements like "The Higgs field gives mass to particles". In reality, it only gives electromagnetic potential. 
+
+Particle mass is given by the Strong Force which is called aetherspace in Material Superphysics and Extension as the 3rd Element in Cartesian Physics. 
+
+The 3rd Element (Matter) is obviously different from the 1st Element (Electromagnetism)!
 
 
 ## Solution: E::pc^2
@@ -84,6 +89,11 @@ In this way, electromagnetic potential (1st Element in Cartesian Physics) is sep
 
 All of Einstein's theories will then be falsified in reality by using the aether or 5th Element to levitate without creating any warping, or teleporting without using so much energy. 
 
+What makes Einstein's Relativity look correct is that he discovers the 2nd Element of Descartes as the warping of spacetime. But he never knew that the 2nd Element is just an agent of the pure aether or 5th Element, which is the substance of ideas, feelings, and the abstract mind. 
+
+This is why the 5th Element is necessary in Quantum Mechanics as the act of observation. 
+
+So it is the pure aether as the 5th Element that connects Quantum Mechanics and Classical Mechanics through the 2nd Element as Descartes' virtual space particles, and not through Einstein's silly warping of spacetime. 
 
 
 <!-- This is leads to questions like: "I would have thought that the properties of the mass depending up on the type would have a impact on the energy produced by it" -->
