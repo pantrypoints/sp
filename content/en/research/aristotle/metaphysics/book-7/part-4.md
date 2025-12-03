@@ -5,7 +5,6 @@ weight: 6
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
 description: "The essence of each thing is what is to be propter se"
 icon: "Aristotle"

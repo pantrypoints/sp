@@ -8,6 +8,8 @@ date: 2024-07-08
 weight: 2
 image: "/graphics/bio/strata.jpg"
 icon: "Bio Superphysics"
+aliases:
+  /medical/principles/chapter-01/
 ---
 
 

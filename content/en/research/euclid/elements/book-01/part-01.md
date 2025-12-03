@@ -7,7 +7,8 @@ writer:
   name: Euclid
   url: https://en.wikipedia.org/wiki/Euclid
 c: "steelblue"
-
+aliases:
+  /research/euclid/book-1/part-01/
 ---
 
 
