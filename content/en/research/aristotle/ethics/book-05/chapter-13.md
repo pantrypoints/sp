@@ -1,7 +1,7 @@
 ---
 heading: Chapter 13
-title: "Dealing Justly"
-weight: 25
+title: "Equity versus Unjust Dealing"
+weight: 27
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

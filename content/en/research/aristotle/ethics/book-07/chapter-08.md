@@ -1,17 +1,19 @@
 ---
 heading: Chapter 8
-title: "Imperfect Self-Control"
-weight: 16
+title: "Self-Control"
+weight: 20
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "What is the nature of the right conception in violation of which a man fails of Self-Control?"
+description: "Does a man have Self-Control for abiding by his conclusions and moral choice or only by the right one?"
 icon: "Aristotle"
 ---
 
 
-Next comes the question, whether a man is a man of Self-Control for abiding by his conclusions and moral choice be they of what kind they may, or  only by the right one; or again, a man of Imperfect Self-Control for not abiding by his conclusions and moral choice be they of whatever kind; or, to put the case we did before, is he such for not abiding by false conclusions and wrong moral choice?
+Does a man have Self-Control for abiding by his conclusions and moral choice or only by the right one?
+
+Or again, a man of Imperfect Self-Control for not abiding by his conclusions and moral choice be they of whatever kind; or, to put the case we did before, is he such for not abiding by false conclusions and wrong moral choice?
 
 Is not this the truth, that incidentally it is by conclusions and moral choice of any kind that the one character abides and the other does not, but per se true conclusions and right moral choice:[19] to explain what is meant by incidentally, and per se; suppose a man chooses or pursues this thing for the sake of that, he is said to pursue and choose that per se, but this only incidentally.
 
@@ -23,7 +25,7 @@ Now these people bear some resemblance to the character of Self-Control, just as
 
 Among the class of Positive are the Opinionated, the Ignorant, and the Bearish: the first, from the motives of pleasure and pain: I mean, they have the pleasurable feeling of a kind of victory in not having their convictions changed, and they are pained when their decrees, so to speak, are reversed: so that, in fact, they rather resemble the man of Imperfect Self-Control than the man of Self-Control.
 
-Again, there are some who depart from their resolutions not by reason of any Imperfection of Self-Control; take, for instance, Neoptolemus in the Philoctetes of Sophocles. Here certainly pleasure was the motive of his departure from his resolution, but then it was one of a noble sort: for to be truthful was noble in his eyes and he had been persuaded by Ulysses to lie.
+There are some who depart from their resolutions not by reason of any Imperfection of Self-Control; take, for instance, Neoptolemus in the Philoctetes of Sophocles. Here certainly pleasure was the motive of his departure from his resolution, but then it was one of a noble sort: for to be truthful was noble in his eyes and he had been persuaded by Ulysses to lie.
 
 So it is not every one who acts from the motive of pleasure who is utterly destitute of Self-Control or base or of Imperfect Self-Control, only he who acts from the impulse of a base pleasure.
 

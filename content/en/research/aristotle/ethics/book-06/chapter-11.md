@@ -1,13 +1,13 @@
 ---
 heading: Chapter 11
-title: "What is Reciprocation?"
-weight: 12
+title: "Gnome, Judiciousness, Practical Wisdom, Practical Intuition"
+weight: 26
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 
 c: "indigo"
-description: "The Pythagoreans think that Reciprocation is simply just."
+description: "All these mental states tend to the same object."
 icon: "Aristotle"
 ---
 

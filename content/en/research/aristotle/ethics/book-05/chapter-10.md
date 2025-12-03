@@ -1,13 +1,13 @@
 ---
 heading: Chapter 10
-title: "What is Reciprocation?"
+title: "Natural Versus Conventional Justice"
 weight: 21
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 
 c: "indigo"
-description: "The Pythagoreans think that Reciprocation is simply just."
+description: "A man may do unjust acts and not yet have formed a character of injustice."
 icon: "Aristotle"
 ---
 
@@ -32,7 +32,17 @@ But the Just which arises in the relations of Master and Father, is not identica
 
 Hence also there is Just rather between a man and his wife than between a man and his children or slaves; this is in fact the Just arising in domestic relations: and this too is different from the Social Just.
 
-Further, this last-mentioned Just is of two kinds, natural and conventional; the former being that which has everywhere the same force and does not depend upon being received or not; the latter being that which originally may be this way or that indifferently but not after enactment: for instance, the price of ransom being fixed at a mina, or the sacrificing a goat instead of two sheep; and again, all cases of special enactment, as the sacrificing to Brasidas as a hero; in short, all matters of special decree.
+This last-mentioned Just is of 2 kinds:
+
+1. Natural 
+
+This has everywhere the same force and does not depend upon being received or not.
+
+2. Conventional
+
+This originally may be this way or that indifferently but not after enactment.
+
+For instance, the price of ransom being fixed at a mina, or the sacrificing a goat instead of two sheep; and again, all cases of special enactment, as the sacrificing to Brasidas as a hero; in short, all matters of special decree.
 
 But there are some men who think that all the Justs are of this latter kind, and on this ground: whatever exists by nature, they say, is unchangeable and has everywhere the same force; fire, for instance, burns not here only but in Persia as well, but the Justs they see changed in various places.
 

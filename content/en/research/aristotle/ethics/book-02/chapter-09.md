@@ -1,7 +1,7 @@
 ---
 heading: Chapter 9
 title: "Moral Virtue"
-weight: 9
+weight: 29
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

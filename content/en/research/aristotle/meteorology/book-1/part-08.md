@@ -14,21 +14,13 @@ writer:
 
 What is the origin, cause, and nature of the milky way?
 
-(1) Of the so-called Pythagoreans some say that this is the path of one of the stars that fell from heaven at the time of Phaethon's downfall.
+1. The Pythagoreans say that this is the path of one of the stars that fell from heaven at the time of Phaethon's downfall.
 
-Others say that the sun used once to move in this circle and that this region was scorched or met with some other affection of this
-kind, because of the sun and its motion.  
+Others say that the sun used once to move in this circle and that this region was scorched or met with some other affection of this kind, because of the sun and its motion.  
 
-But it is absurd not to see that if this were the reason the circle
-of the Zodiac ought to be affected in the same way, and indeed more
-so than that of the milky way, since not the sun only but all the
-planets move in it. We can see the whole of this circle (half of it
-being visible at any time of the night), but it shows no signs of
-any such affection except where a part of it touches the circle of
-the milky way. 
+But it is absurd not to see that if this were the reason the circle of the Zodiac ought to be affected in the same way, and indeed more so than that of the milky way, since not the sun only but all the planets move in it. We can see the whole of this circle (half of it being visible at any time of the night), but it shows no signs of any such affection except where a part of it touches the circle of the milky way.
 
-(2) Anaxagoras, Democritus, and their schools say that the milky way
-is the light of certain stars. For, they say, when the sun passes
+2. Anaxagoras, Democritus, and their schools say that the milky way is the light of certain stars. For, they say, when the sun passes
 below the earth some of the stars are hidden from it. Now the light
 of those on which the sun shines is invisible, being obscured by the
 of the sun. But the milky way is the peculiar light of those stars
@@ -48,8 +40,8 @@ no great distance from the earth, and the shadow of the earth (what
 we call night) would not reach the stars. On the contrary, the sun
 shines on all the stars and the earth screens none of them.
 
-(3) There is a third theory about the milky way. Some say that it
-is a reflection of our sight to the sun, just as they say that the
+
+3. There is a third theory about the milky way. Some say that it is a reflection of our sight to the sun, just as they say that the
 comet is. 
 
 But this too is impossible. For if the eye and the mirror and the
@@ -116,24 +108,10 @@ the most stars, it is natural to suppose that they are the true cause
 of the affection in question. The circle and the constellations in
 it may be seen in the diagram. 
 
-The so-called 'scattered' stars it
-is not possible to set down in the same way on the sphere because
-none of them have an evident permanent position; but if you look up
-to the sky the point is clear. For in this circle alone are the intervals
-full of these stars: in the other circles there are obvious gaps.
-Hence if we accept the cause assigned for the appearance of comets
-as plausible we must assume that the same kind of thing holds good
-of the milky way. For the fringe which in the former case is an affection
-of a single star here forms in the same way in relation to a whole
-circle. So if we are to define the milky way we may call it 'a fringe
-attaching to the greatest circle, and due to the matter secreted'.
-This, as we said before, explains why there are few comets and why
-they appear rarely; it is because at each revolution of the heavens
-this matter has always been and is always being separated off and
-gathered into this region. 
+The so-called 'scattered' stars it is not possible to set down in the same way on the sphere because none of them have an evident permanent position; but if you look up to the sky the point is clear. For in this circle alone are the intervals full of these stars: in the other circles there are obvious gaps. Hence if we accept the cause assigned for the appearance of comets as plausible we must assume that the same kind of thing holds good of the milky way. For the fringe which in the former case is an affection of a single star here forms in the same way in relation to a whole circle. So if we are to define the milky way we may call it 'a fringe attaching to the greatest circle, and due to the matter secreted'. This, as we said before, explains why there are few comets and why they appear rarely; it is because at each revolution of the heavens this matter has always been and is always being separated off and gathered into this region.
 
-We have now explained the phenomena that occur in that part of the
+<!-- We have now explained the phenomena that occur in that part of the
 terrestrial world which is continuous with the motions of the heavens,
 namely, shooting-stars and the burning flame, comets and the milky
 way, these being the chief affections that appear in that region.
-
+ -->

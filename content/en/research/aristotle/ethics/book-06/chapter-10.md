@@ -1,7 +1,7 @@
 ---
 heading: Chapter 10
 title: "What is Reciprocation?"
-weight: 12
+weight: 24
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

@@ -1,17 +1,17 @@
 ---
 heading: Chapter 9
-title: "Imperfect Self-Control"
-weight: 16
+title: "Perfected Self-Mastery"
+weight: 22
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "What is the nature of the right conception in violation of which a man fails of Self-Control?"
+description: "Some men takes less pleasure than he should in bodily enjoyments"
 icon: "Aristotle"
 ---
 
 
-Moreover as there is a character who takes less pleasure than he ought in bodily enjoyments, and he also fails to abide by the conclusion of his Reason,[20] the man of Self-Control is the mean between him and the man of Imperfect Self-Control.
+There is a character who takes less pleasure than he should in bodily enjoyments, and he also fails to abide by the conclusion of his Reason,[20] the man of Self-Control is the mean between him and the man of Imperfect Self-Control.
 
 The latter fails to abide by them because of somewhat too much, the former because of somewhat too little; while the man of Self-Control abides by them, and never changes by reason of anything else than such conclusions.
 

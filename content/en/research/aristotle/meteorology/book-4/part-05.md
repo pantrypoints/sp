@@ -2,7 +2,7 @@
 heading: Part 5
 title: "The Agent and Quality"
 date: 2025-05-22
-weight: 12
+weight: 15
 description: ""
 c: "darkgoldenrod"
 writer:

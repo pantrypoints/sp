@@ -1,12 +1,12 @@
 ---
 heading: Chapter 6
-title: "What is Right Reason?"
-weight: 12
+title: "Knowledge and Intuition"
+weight: 16
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "Men should choose the mean instead of either the excess or defect"
+description: "Knowledge is a conception concerning universals and Necessary matter."
 icon: "Aristotle"
 ---
 

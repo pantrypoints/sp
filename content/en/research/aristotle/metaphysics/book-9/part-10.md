@@ -2,7 +2,6 @@
 heading: "Part 1"
 title: "Being versus Non-being"
 weight: 24
-
 c: "indigo"
 description: "The terms 'being' and 'non-being' are used in 3 ways"
 writer:

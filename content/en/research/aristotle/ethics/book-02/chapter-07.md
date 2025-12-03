@@ -1,7 +1,7 @@
 ---
 heading: Chapter 7
 title: "The Basis of Virtue"
-weight: 7
+weight: 12
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

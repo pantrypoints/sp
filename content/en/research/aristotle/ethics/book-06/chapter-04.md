@@ -1,12 +1,12 @@
 ---
 heading: Chapter 4
-title: "What is Right Reason?"
+title: "Doing is not Making, nor Making Doing."
 weight: 12
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "Men should choose the mean instead of either the excess or defect"
+description: "Contingent Matter may exist otherwise than it actually does. This is of 2 kinds"
 icon: "Aristotle"
 ---
 
@@ -16,13 +16,13 @@ Contingent Matter may exist otherwise than it actually does. This is of 2 kinds:
 1. The object of Making
 2. The object of Doing
 
-Making and Doing are two different things (as we show in the exoteric treatise)/
+Making and Doing are two different things (as we show in the exoteric treatise).
 
 And so that state of mind, conjoined with Reason, which is apt to Do, is distinct from that also conjoined with Reason, which is apt to Make.
 
 This is why they are not included one by the other.
 
-Doing is not Making, nor Making Doing.[14] [15]
+Doing is not Making, nor Making Doing.
 
 Architecture is an Art, and is the same as “a certain state of mind, conjoined with Reason, which is apt to Make,” and as there is no Art which is not such a state, nor any such state which is not an Art, Art, in its strict and proper sense, must be “a state of mind, conjoined with true Reason, apt to Make.”
 

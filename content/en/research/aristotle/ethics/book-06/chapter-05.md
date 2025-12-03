@@ -1,18 +1,18 @@
 ---
 heading: Chapter 5
-title: "What is Right Reason?"
-weight: 12
+title: "Practical Wisdom"
+weight: 14
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "Men should choose the mean instead of either the excess or defect"
+description: "As for Practical Wisdom, we shall ascertain its nature by examining to what kind of persons we in common language ascribe it."
 icon: "Aristotle"
 ---
 
 
 
-As for Practical Wisdom, we shall ascertain its nature by examining to what kind of persons we in common language ascribe it.[16]
+As for Practical Wisdom, we shall ascertain its nature by examining to what kind of persons we in common language ascribe it.
 
 It is thought then to be the property of the Practically Wise man to be able to deliberate well respecting what is good and expedient for himself, not in any definite line,[17] as what is conducive to health or strength, but what to living well. 
 

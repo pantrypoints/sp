@@ -1,7 +1,7 @@
 ---
 heading: Chapter 7
 title: "What is Science?"
-weight: 12
+weight: 18
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

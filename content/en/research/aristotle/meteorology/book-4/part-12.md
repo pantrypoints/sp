@@ -2,7 +2,7 @@
 heading: Part 12
 title: "Melting"
 date: 2025-05-22
-weight: 42
+weight: 36
 description: ""
 c: "darkgoldenrod"
 writer:
@@ -50,4 +50,3 @@ After the homogeneous bodies have been explained we must consider the non-homoge
 as man, plants, and the rest. 
 
 THE END
-

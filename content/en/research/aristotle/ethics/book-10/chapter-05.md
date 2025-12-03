@@ -1,19 +1,22 @@
 ---
 heading: Chapter 5
-title: "Happiness"
-weight: 4
+title: "What is Happiness?"
+weight: 16
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "This may be clearly seen in that men in private stations are thought to act justly"
+description: "Happiness is the one End of all human things"
 icon: "Aristotle"
 ---
 
 
-Now that we have spoken about the Excellences of both kinds, and Friendship in its varieties, and Pleasures, it remains to sketch out Happiness, since we assume that to be the one End of all human things: and we shall save time and trouble by recapitulating what was stated before.
 
-Well then, we said that it is not a State merely; because, if it were, it might belong to one who slept all his life through and merely vegetated, or to one who fell into very great calamities: and so, if these possibilities displease us and we would rather put it into the rank of some kind of Working (as was also said before), and Workings are of different kinds (some being necessary and choice-worthy with a view to other things, while others are so in themselves), it is plain we must rank Happiness among those choice-worthy for their own sakes and not among those which are so with a view to something further: because Happiness has no lack of anything but is self-sufficient.
+Happiness is the one End of all human things.
+
+Happiness is not a State merely because, if it were, it might belong to one who slept all his life through and merely vegetated, or to one who fell into very great calamities.
+
+If these possibilities displease us and we would rather put it into the rank of some kind of Working (as was also said before), and Workings are of different kinds (some being necessary and choice-worthy with a view to other things, while others are so in themselves), it is plain we must rank Happiness among those choice-worthy for their own sakes and not among those which are so with a view to something further: because Happiness has no lack of anything but is self-sufficient.
 
 By choice-worthy in themselves are meant those from which nothing is sought beyond the act of Working: and of this kind are thought to be the actions according to Virtue, because doing what is noble and excellent is one of those things which are choice-worthy for their own sake alone.
 

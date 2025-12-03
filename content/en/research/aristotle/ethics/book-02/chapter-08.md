@@ -1,7 +1,7 @@
 ---
 heading: Chapter 8
 title: "The 3 States in Virtue"
-weight: 9
+weight: 19
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

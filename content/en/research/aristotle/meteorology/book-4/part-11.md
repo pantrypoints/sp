@@ -2,7 +2,7 @@
 heading: Part 11
 title: "Homogeneous bodies"
 date: 2025-05-22
-weight: 44
+weight: 32
 description: ""
 c: "darkgoldenrod"
 writer:

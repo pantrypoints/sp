@@ -1,23 +1,31 @@
 ---
 heading: Chapter 8
-title: "What is Science?"
-weight: 12
+title: "Practical Wisdom Applied"
+weight: 20
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "Science must mean the most accurate of all Knowledge."
+description: "Practical Wisdom is employed on human matters, and such as are objects of deliberation."
 icon: "Aristotle"
 ---
 
 
-But Practical Wisdom is employed upon human matters, and such as are objects of deliberation (for we say, that to deliberate well is most peculiarly the work of the man who possesses this Wisdom), and no man deliberates about things which cannot be otherwise than they are, nor about any save those that have some definite End and this End good resulting from Moral Action; and the man to whom we should give the name of Good in Counsel, simply and without modification, is he who in the way of calculation has a capacity for attaining that of practical goods which is the best for Man.
+Practical Wisdom is employed on human matters, and such as are objects of deliberation.
 
-Nor again does Practical Wisdom consist in a knowledge of general principles only, but it is necessary that one should know also the particular details, because it is apt to act, and action is concerned with details: for which reason sometimes men who have not much knowledge are more practical than others who have; among others, they who derive all they know from actual experience: suppose a man to know, for instance, that light meats are easy of digestion and wholesome, but not what kinds of meat are light, he will not produce a healthy state; that man will have a much better chance of doing so, who knows that the flesh of birds is light and wholesome. Since then Practical Wisdom is apt to act, one ought to have both kinds of knowledge, or, if only one, the knowledge of details rather than of Principles. So there will be in respect of Practical Wisdom the distinction of supreme and subordinate.[26]
+For we say, that to deliberate well is most peculiarly the work of the man who possesses this Wisdom.
+
+No man deliberates about things which cannot be otherwise than they are, nor about any save those that have some definite End and this End good resulting from Moral Action.
+
+The man to whom we should give the name of Good in Counsel, simply and without modification, is he who in the way of calculation has a capacity for attaining that of practical goods which is the best for Man.
+
+Nor again does Practical Wisdom consist in a knowledge of general principles only, but it is necessary that one should know also the particular details, because it is apt to act, and action is concerned with details: for which reason sometimes men who have not much knowledge are more practical than others who have; 
+
+Among others, they who derive all they know from actual experience: suppose a man to know, for instance, that light meats are easy of digestion and wholesome, but not what kinds of meat are light, he will not produce a healthy state; that man will have a much better chance of doing so, who knows that the flesh of birds is light and wholesome. Since then Practical Wisdom is apt to act, one ought to have both kinds of knowledge, or, if only one, the knowledge of details rather than of Principles. So there will be in respect of Practical Wisdom the distinction of supreme and subordinate.
 
 Further: πολιτικὴ and Practical Wisdom are the same mental state, but the point of view is not the same.
 
-Of Practical Wisdom exerted upon a community that which I would call the Supreme is the faculty of Legislation; the subordinate, which is concerned with the details, generally has the common name πολιτικὴ, and its functions are Action and Deliberation (for the particular enactment is a matter of action, being the ultimate issue of this branch of Practical Wisdom, and therefore people commonly say, that these men alone are really engaged in government, because they alone act, filling the same place relatively to legislators, that workmen do to a master).[27]
+Of Practical Wisdom exerted upon a community that which I would call the Supreme is the faculty of Legislation; the subordinate, which is concerned with the details, generally has the common name πολιτικὴ, and its functions are Action and Deliberation (for the particular enactment is a matter of action, being the ultimate issue of this branch of Practical Wisdom, and therefore people commonly say, that these men alone are really engaged in government, because they alone act, filling the same place relatively to legislators, that workmen do to a master).
 
 Again, that is thought to be Practical Wisdom in the most proper sense which has for its object the interest of the Individual: and this usually appropriates the common name: the others are called respectively Domestic Management, Legislation, Executive Government divided into two branches, Deliberative and Judicial.[28] Now of course, knowledge for one’s self is one kind of knowledge, but it admits of many shades of difference: and it is a common notion that the man who knows and busies himself about his own concerns merely is the man of Practical Wisdom, while they who extend their solicitude to society at large are considered meddlesome.
 
@@ -33,4 +41,4 @@ And that Practical Wisdom is not Knowledge is plain, for it has to do with the u
 
 To Intuition it is opposed, for this takes in those principles which cannot be proved by reasoning, while Practical Wisdom is concerned with the ultimate particular fact which cannot be realised by Knowledge but by Sense; I do not mean one of the five senses, but the same by which we take in the mathematical fact, that no rectilineal figure can be contained by less than three lines, i.e. that a triangle is the ultimate figure, because here also is a stopping point.
 
-This however is Sense rather than Practical Wisdom, which is of another kind.[34]
+This however is Sense rather than Practical Wisdom, which is of another kind.

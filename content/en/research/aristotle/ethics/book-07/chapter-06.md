@@ -1,21 +1,25 @@
 ---
 heading: Chapter 6
-title: "Imperfect Self-Control"
+title: "The object-matter of Imperfect Self-Control"
 weight: 16
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "What is the nature of the right conception in violation of which a man fails of Self-Control?"
+description: "The object-matter of Imperfect Self-Control and Self-Control is restricted to the same as that of utter absence of Self-Control and that of Perfected Self-Mastery"
 icon: "Aristotle"
 ---
 
 
 The object-matter of Imperfect Self-Control and Self-Control is restricted to the same as that of utter absence of Self-Control and that of Perfected Self-Mastery, and that the rest is the object-matter of a different species so named metaphorically and not simply: we will now examine the position, “that Imperfect Self-Control in respect of Anger is less disgraceful than that in respect of Lusts.”
 
-In the first place, it seems that Anger does in a way listen to Reason but mishears it; as quick servants who run out before they have heard the whole of what is said and then mistake the order; dogs, again, bark at the slightest stir, before they have seen whether it be friend or foe; just so Anger, by reason of its natural heat and quickness, listening to Reason, but without having heard the command of Reason, rushes to its revenge. That is to say, Reason or some impression on the mind shows there is insolence or contempt[14] in the offender, and then Anger, reasoning as it were that one ought to fight against what is such, fires up immediately: whereas Lust, if Reason or Sense, as the case may be, merely says a thing is sweet, rushes to the enjoyment of it: and so Anger follows Reason in a manner, but Lust does not and is therefore more disgraceful: because he that cannot control his anger yields in a manner to Reason, but the other to his Lust and not to Reason at all.
+In the first place, it seems that Anger does in a way listen to Reason but mishears it; as quick servants who run out before they have heard the whole of what is said and then mistake the order; dogs, again, bark at the slightest stir, before they have seen whether it be friend or foe; just so Anger, by reason of its natural heat and quickness, listening to Reason, but without having heard the command of Reason, rushes to its revenge.
 
-Again, a man is more excusable for following such desires as are natural, just as he is for following such Lusts as are common to all and to that degree in which they are common. Now Anger and irritability are more natural than Lusts when in excess and for objects not necessary. (This was the ground of the defence the man made who beat his father, “My father,” he said, “used to beat his, and his father his again, and this little fellow here,” pointing to his child, “will beat me when he is grown a man: it runs in the family.” And the father, as he was being dragged along, bid his son leave off beating him at the door, because he had himself been used to drag his father so far and no farther.)
+Reason or some impression on the mind shows there is insolence or contempt[14] in the offender, and then Anger, reasoning as it were that one ought to fight against what is such, fires up immediately: whereas Lust, if Reason or Sense, as the case may be, merely says a thing is sweet, rushes to the enjoyment of it: and so Anger follows Reason in a manner, but Lust does not and is therefore more disgraceful: because he that cannot control his anger yields in a manner to Reason, but the other to his Lust and not to Reason at all.
+
+Again, a man is more excusable for following such desires as are natural, just as he is for following such Lusts as are common to all and to that degree in which they are common. Now Anger and irritability are more natural than Lusts when in excess and for objects not necessary. 
+
+(This was the ground of the defence the man made who beat his father, “My father,” he said, “used to beat his, and his father his again, and this little fellow here,” pointing to his child, “will beat me when he is grown a man: it runs in the family.” And the father, as he was being dragged along, bid his son leave off beating him at the door, because he had himself been used to drag his father so far and no farther.)
 
 Again, characters are less unjust in proportion as they involve less insidiousness. Now the Angry man is not insidious, nor is Anger, but quite open: but Lust is: as they say of Venus,
 

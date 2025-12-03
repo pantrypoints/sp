@@ -1,7 +1,7 @@
 ---
 heading: Chapter 8
 title: "How May We Improve Virtue?"
-weight: 12
+weight: 24
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -60,5 +60,4 @@ Practice, however, seems to contribute no little to its acquisition; merely brea
 
 But of the Sophists they who profess to teach it are plainly a long way off from doing so: in fact, they have no knowledge at all of its nature and objects; if they had, they would never have put it on the same footing with Rhetoric or even on a lower: neither would they have conceived it to be “an easy matter to legislate by simply collecting such laws as are famous because of course one could select the best,” as though the selection were not a matter of skill, and the judging aright a very great matter, as in Music: for they alone, who have practical knowledge of a thing, can judge the performances rightly or understand with what means and in what way they are accomplished, and what harmonises with what: the unlearned must be content with being able to discover whether the result is good or bad, as in painting.
 
-Now laws may be called the performances or tangible results of Political S
-
+<!-- Now laws may be called the performances or tangible results of Political S -->

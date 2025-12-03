@@ -1,28 +1,38 @@
 ---
 heading: Chapter 2
-title: "Eudoxus' Pleasure"
+title: "Eudoxus' Theory of Pleasure"
 weight: 6
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "This may be clearly seen in that men in private stations are thought to act justly"
+description: "Eudoxus thought Pleasure to be the Chief Good because he saw all, rational and irrational alike, aiming at it."
 icon: "Aristotle"
 ---
 
 
 
-Eudoxus thought Pleasure to be the Chief Good because he saw all, rational and irrational alike, aiming at it: and he argued that, since in all what was the object of choice must be good and what most so the best, the fact of all being drawn to the same thing proved this thing to be the best for all: “For each,” he said, “finds what is good for itself just as it does its proper nourishment, and so that which is good for all, and the object of the aim of all, is their Chief Good.”
+Eudoxus thought Pleasure to be the Chief Good because he saw all, rational and irrational alike, aiming at it.
 
-(And his theories were received, not so much for their own sake, as because of his excellent moral character; for he was thought to be eminently possessed of perfect self-mastery, and therefore it was not thought that he said these things because he was a lover of Pleasure but that he really was so convinced.)
+He argued that, since in all what was the object of choice must be good and what most so the best, the fact of all being drawn to the same thing proved this thing to be the best for all: “For each,” he said, “finds what is good for itself just as it does its proper nourishment, and so that which is good for all, and the object of the aim of all, is their Chief Good.”
 
-And he thought his position was not less proved by the argument from the contrary: that is, since Pain was in itself an object of avoidance to all the contrary must be in like manner an object of choice.
+His theories were received, not so much for their own sake, as because of his excellent moral character; for he was thought to be eminently possessed of perfect self-mastery, and therefore it was not thought that he said these things because he was a lover of Pleasure but that he really was so convinced.
 
-Again he urged that that is most choice-worthy which we choose, not by reason of, or with a view to, anything further; and that Pleasure is confessedly of this kind because no one ever goes on to ask to what purpose he is pleased, feeling that Pleasure is in itself choice-worthy.
+He thought his position was not less proved by the argument from the contrary: that is, since Pain was in itself an object of avoidance to all the contrary must be in like manner an object of choice.
 
-Again, that when added to any other good it makes it more choice-worthy; as, for instance, to actions of justice, or perfected self-mastery; and good can only be increased by itself.
+He urged that that is most choice-worthy which we choose, not by reason of, or with a view to, anything further; and that Pleasure is confessedly of this kind because no one ever goes on to ask to what purpose he is pleased, feeling that Pleasure is in itself choice-worthy.
 
-However, this argument at least seems to prove only that it belongs to the class of goods, and not that it does so more than anything else: for every good is more choicewortby in combination with some other than when taken quite alone. In fact, it is by just such an argument that Plato proves that Pleasure is not the Chief Good:[3] “For,” says he, “the life of Pleasure is more choice-worthy in combination with Practical Wisdom than apart from it; but, if the compound better then simple Pleasure cannot be the Chief Good; because the very Chief Good cannot by any addition become choice-worthy than it is already:” and it is obvious that nothing else can be the Chief Good, which by combination with any of the things in themselves good comes to be more choice-worthy.
+When added to any other good it makes it more choice-worthy; as, for instance, to actions of justice, or perfected self-mastery; and good can only be increased by itself.
+
+However, this argument proves only that it belongs to the class of goods, and not that it does so more than anything else: for every good is more choicewortby in combination with some other than when taken quite alone.
+
+It is by just such an argument that Plato proves that Pleasure is not the Chief Good.
+
+{{< l a="Plato" >}}
+The life of Pleasure is more choice-worthy in combination with Practical Wisdom than apart from it; but, if the compound better then simple Pleasure cannot be the Chief Good; because the very Chief Good cannot by any addition become choice-worthy than it is already
+{{< /l >}}
+
+Nothing else can be the Chief Good, which by combination with any of the things in themselves good comes to be more choice-worthy.
 
 What is there then of such a nature? (meaning, of course, whereof we can partake; because that which we are in search of must be such).
 

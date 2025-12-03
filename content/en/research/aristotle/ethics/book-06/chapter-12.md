@@ -1,21 +1,23 @@
 ---
 heading: Chapter 12
-title: "What is Reciprocation?"
+title: "The Usefulness of Practical Wisdom and Science"
 weight: 12
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 
 c: "indigo"
-description: "The Pythagoreans think that Reciprocation is simply just."
+description: "The objects of Practical Wisdom and Science belong each to a different part of the Soul. "
 icon: "Aristotle"
 ---
 
 
 
-Well, we have now stated the nature and objects of Practical Wisdom and Science respectively, and that they belong each to a different part of the Soul. 
+The objects of Practical Wisdom and Science belong each to a different part of the Soul. 
 
-But I can conceive a person questioning their utility. “Science,” he would say, “concerns itself with none of the causes of human happiness (for it has nothing to do with producing anything): Practical Wisdom has this recommendation, I grant, but where is the need of it, since its province is those things which are just and honourable, and good for man, and these are the things which the good man as such does; but we are not a bit the more apt to do them because we know them, since the Moral Virtues are Habits; just as we are not more apt to be healthy or in good condition from mere knowledge of what relates to these (I mean, of course, things so called not from their producing health, etc., but from their evidencing it in a particular subject), for we are not more apt to be healthy and in good condition merely from knowing the art of medicine or training.
+But I can conceive a person questioning their utility. 
+
+“Science,” he would say, “concerns itself with none of the causes of human happiness (for it has nothing to do with producing anything): Practical Wisdom has this recommendation, I grant, but where is the need of it, since its province is those things which are just and honourable, and good for man, and these are the things which the good man as such does; but we are not a bit the more apt to do them because we know them, since the Moral Virtues are Habits; just as we are not more apt to be healthy or in good condition from mere knowledge of what relates to these (I mean, of course, things so called not from their producing health, etc., but from their evidencing it in a particular subject), for we are not more apt to be healthy and in good condition merely from knowing the art of medicine or training.
 
 “If it be urged that knowing what is good does not by itself make a Practically-Wise man but becoming good; still this Wisdom will be no use either to those that are good, and so have it already, or to those who have it not; because it will make no difference to them whether they have it themselves or put themselves under the guidance of others who have; and we might be contented to be in respect of this as in respect of health: for though we wish to be healthy still we do not set about learning the art of healing.
 

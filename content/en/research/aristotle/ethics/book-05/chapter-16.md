@@ -1,7 +1,7 @@
 ---
 heading: Chapter 16
 title: "Is it possible for a man to deal unjustly by himself?"
-weight: 9
+weight: 49
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -37,6 +37,7 @@ And, besides all this, a man cannot act Unjustly without his act falling under s
 
 After all, the general answer to the question is to allege what was settled respecting being Unjustly dealt with with one’s own consent.
 
+
 ## Chapter 17
 
 Being Unjustly dealt by and dealing Unjustly by others are both wrong. 
@@ -60,4 +61,3 @@ There is thought to be a possibility of injustice towards one’s self, because 
 And so it is thought that there is Just of a certain kind between these parts mutually, as between ruler and ruled.
 
 Let this then be accepted as an account of the distinctions which we recognise respecting Justice and the rest of the moral virtues.[30]
-

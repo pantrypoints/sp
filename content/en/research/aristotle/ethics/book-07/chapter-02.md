@@ -1,6 +1,6 @@
 ---
 heading: Chapter 2
-title: "The perfect Happiness"
+title: "The Perfect Happiness"
 weight: 8
 writer:
   name: Aristotle

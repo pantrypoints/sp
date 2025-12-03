@@ -2,7 +2,6 @@
 heading: "Part 6"
 title: "Movement versus Actuality"
 weight: 10
-
 c: "indigo"
 description: "Actuality, then, is the existence of a thing not in the way which we express by 'potentially'"
 writer:

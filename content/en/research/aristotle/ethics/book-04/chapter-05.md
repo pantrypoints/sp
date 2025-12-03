@@ -1,13 +1,13 @@
 ---
 heading: Chapter 5
-title: "Great-mindedness and Small-mindedness"
+title: "The Great-minded Man"
 weight: 10
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 
 c: "indigo"
-description: "The very name of Great-mindedness implies, that great things are its object-matter"
+description: "This then is my idea of the Great-minded man; and he who is in the defect is a Small-minded man, he who is in the excess a Vain man."
 icon: "Aristotle"
 ---
 

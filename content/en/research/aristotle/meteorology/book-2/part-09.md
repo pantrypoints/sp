@@ -2,7 +2,7 @@
 heading: Part 9
 title: "Lightning and thunder"
 date: 2025-05-22
-weight: 12
+weight: 27
 description: ""
 c: "darkgoldenrod"
 writer:

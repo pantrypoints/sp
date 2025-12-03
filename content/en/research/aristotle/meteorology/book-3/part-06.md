@@ -2,7 +2,7 @@
 heading: Part 6
 title: "Mock suns and rods"
 date: 2025-05-22
-weight: 18
+weight: 21
 description: ""
 c: "darkgoldenrod"
 writer:

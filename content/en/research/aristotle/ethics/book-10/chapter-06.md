@@ -1,12 +1,12 @@
 ---
 heading: Chapter 6
 title: "Happiness is a Working in the way of Excellence"
-weight: 4
+weight: 18
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "This may be clearly seen in that men in private stations are thought to act justly"
+description: "That Excellence must be the highest, as the Excellence of the best Principle."
 icon: "Aristotle"
 ---
 
@@ -21,13 +21,19 @@ That it is Contemplative has been already stated: and this would seem to be cons
 
 Next, it is also most Continuous: for we are better able to contemplate than to do anything else whatever, continuously.
 
-Again, we think Pleasure must be in some way an ingredient in Happiness, and of all Workings in accordance with Excellence that in the way of Science is confessedly most pleasant: at least the pursuit of Science is thought to contain Pleasures admirable for purity and permanence; and it is reasonable to suppose that the employment is more pleasant to those who have mastered, than to those who are yet seeking for, it.[14]
+We think Pleasure is an ingredient in Happiness, and of all Workings in accordance with Excellence that in the way of Science is confessedly most pleasant: at least the pursuit of Science is thought to contain Pleasures admirable for purity and permanence.
 
-And the Self-Sufficiency which people speak of will attach chiefly to the Contemplative Working: of course the actual necessaries of life are needed alike by the man of science, and the just man, and all the other characters; but, supposing all sufficiently supplied with these, the just man needs people towards whom, and in concert with whom, to practise his justice; and in like manner the man of perfected self-mastery, and the brave man, and so on of the rest; whereas the man of science can contemplate and speculate even when quite alone, and the more entirely he deserves the appellation the more able is he to do so: it may be he can do better for having fellow-workers but still he is certainly most Self-Sufficient.
+The employment is more pleasant to those who have mastered, than to those who are yet seeking for, it.[14]
+
+The Self-Sufficiency which people speak of will attach chiefly to the Contemplative Working: of course the actual necessaries of life are needed alike by the man of science, and the just man, and all the other characters.
+
+But, supposing all sufficiently supplied with these, the just man needs people towards whom, and in concert with whom, to practise his justice; and in like manner the man of perfected self-mastery, and the brave man, and so on of the rest; whereas the man of science can contemplate and speculate even when quite alone, and the more entirely he deserves the appellation the more able is he to do so: it may be he can do better for having fellow-workers but still he is certainly most Self-Sufficient.
 
 Again, this alone would seem to be rested in for its own sake, since nothing results from it beyond the fact of having contemplated; whereas from all things which are objects of moral action we do mean to get something beside the doing them, be the same more or less.
 
-Also, Happiness is thought to stand in perfect rest;[15] for we toil that we may rest, and war that we may be at peace. Now all the Practical Virtues require either society or war for their Working, and the actions regarding these are thought to exclude rest; those of war entirely, because no one chooses war, nor prepares for war, for war’s sake: he would indeed be thought a bloodthirsty villain who should make enemies of his friends to secure the existence of fighting and bloodshed. The Working also of the statesman excludes the idea of rest, and, beside the actual work of government, seeks for power and dignities or at least Happiness for the man himself and his fellow-citizens: a Happiness distinct[16] from the national Happiness, which we evidently seek as being different and distinct.
+Happiness is thought to stand in perfect rest. 
+
+For we toil that we may rest, and war that we may be at peace. Now all the Practical Virtues require either society or war for their Working, and the actions regarding these are thought to exclude rest; those of war entirely, because no one chooses war, nor prepares for war, for war’s sake: he would indeed be thought a bloodthirsty villain who should make enemies of his friends to secure the existence of fighting and bloodshed. The Working also of the statesman excludes the idea of rest, and, beside the actual work of government, seeks for power and dignities or at least Happiness for the man himself and his fellow-citizens: a Happiness distinct[16] from the national Happiness, which we evidently seek as being different and distinct.
 
 If then of all the actions in accordance with the various virtues those of policy and war are pre-eminent in honour and greatness, and these are restless, and aim at some further End and are not choice-worthy for their own sakes, but the Working of the Intellect, being apt for contemplation, is thought to excel in earnestness, and to aim at no End beyond itself and to have Pleasure of its own which helps to increase the Working, and if the attributes of Self-Sufficiency, and capacity of rest, and unweariedness (as far as is compatible with the infirmity of human nature), and all other attributes of the highest Happiness, plainly belong to this Working, this must be perfect Happiness, if attaining a complete duration of life, which condition is added because none of the points of Happiness is incomplete.
 

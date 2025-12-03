@@ -1,23 +1,35 @@
 ---
 heading: Chapter 3
-title: "Pleasure"
-weight: 4
+title: "Pleasure is not a Movement"
+weight: 8
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "This may be clearly seen in that men in private stations are thought to act justly"
+description: "An act of Sight is thought to be complete at any moment"
 icon: "Aristotle"
 ---
 
 
-An act of Sight is thought to be complete at any moment; that is to say, it lacks nothing the accession of which subsequently will complete its whole nature.
+An act of Seeing is thought to be complete at any moment. It lacks nothing the accession of which subsequently will complete its whole nature.
 
-Well, Pleasure resembles this: because it is a whole, as one may say; and one could not at any moment of time take a Pleasure whose whole nature would be completed by its lasting for a longer time. And for this reason it is not a Movement: for all Movement takes place in time of certain duration and has a certain End to accomplish; for instance, the Movement of house-building[9] is then only complete when the builder has produced what he intended, that is, either in the whole time [necessary to complete the whole design], or in a given portion.[10] But all the subordinate Movements are incomplete in the parts of the time, and are different in kind from the whole movement and from one another (I mean, for instance, that the fitting the stones together is a Movement different from that of fluting the column, and both again from the construction of the Temple as a whole: but this last is complete as lacking nothing to the result proposed; whereas that of the basement, or of the triglyph, is incomplete, because each is a Movement of a part merely).
+Pleasure resembles this because it is a whole.
 
-As I said then, they differ in kind, and you cannot at any time you choose find a Movement complete in its whole nature, but, if at all, in the whole time requisite.
+One could not at any moment of time take a Pleasure whose whole nature would be completed by its lasting for a longer time. 
 
-And so it is with the Movement of walking and all others: for, if motion be a Movement from one place to another place, then of it too there are different kinds, flying, walking, leaping, and such-like. And not only so, but there are different kinds even in walking: the where-from and where-to are not the same in the whole Course as in a portion of it; nor in one portion as in another; nor is crossing this line the same as crossing that: because a man is not merely crossing a line but a line in a given place, and this is in a different place from that.
+This is why it is not a Movement: for all Movement takes place in time of certain duration and has a certain End to accomplish.
+
+For instance, the Movement of house-building is then only complete when the builder has produced what he intended, that is, either in the whole time [necessary to complete the whole design], or in a given portion.
+
+But all the subordinate Movements are incomplete in the parts of the time, and are different in kind from the whole movement and from one another.
+
+For instance, the fitting the stones together is a Movement different from that of fluting the column, and both again from the construction of the Temple as a whole: but this last is complete as lacking nothing to the result proposed; whereas that of the basement, or of the triglyph, is incomplete, because each is a Movement of a part merely).
+
+They differ in kind, and you cannot at any time you choose find a Movement complete in its whole nature, but, if at all, in the whole time requisite.
+
+And so it is with the Movement of walking and all others: for, if motion be a Movement from one place to another place, then of it too there are different kinds, flying, walking, leaping, and such-like.
+
+And not only so, but there are different kinds even in walking: the where-from and where-to are not the same in the whole Course as in a portion of it; nor in one portion as in another; nor is crossing this line the same as crossing that: because a man is not merely crossing a line but a line in a given place, and this is in a different place from that.
 
 Of Movement I have discoursed exactly in another treatise. I will now therefore only say that it seems not to be complete at any given moment; and that most movements are incomplete and specifically different, since the whence and whither constitute different species.
 

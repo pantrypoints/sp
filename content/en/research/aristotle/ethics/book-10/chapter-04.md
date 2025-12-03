@@ -1,31 +1,43 @@
 ---
 heading: Chapter 4
-title: "Pleasure"
-weight: 4
+title: "Pleasure perfects the act of Working"
+weight: 14
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
 c: "indigo"
-description: "This may be clearly seen in that men in private stations are thought to act justly"
+description: "Every Percipient Faculty works on the Object answering to it."
 icon: "Aristotle"
 ---
 
 
 Every Percipient Faculty works on the Object answering to it.
 
-The Faculty in a good state upon the most excellent of the Objects within its range (for Perfect Working is thought to be much what I have described; and we will not raise any question about saying “the Faculty” works, instead of, “that subject wherein the Faculty resides”), in each case the best Working is that of the Faculty in its best state upon the best of the Objects answering to it. And this will be, further, most perfect and most pleasant: for Pleasure is attendant upon every Percipient Faculty, and in like manner on every intellectual operation and speculation; and that is most pleasant which is most perfect, and that most perfect which is the Working of the best Faculty upon the most excellent of the Objects within its range.
+The Faculty in a good state on the most excellent of the Objects within its range (for Perfect Working is thought to be much what I have described; and we will not raise any question about saying “the Faculty” works, instead of, “that subject wherein the Faculty resides”), in each case the best Working is that of the Faculty in its best state upon the best of the Objects answering to it. And this will be, further, most perfect and most pleasant: for Pleasure is attendant upon every Percipient Faculty, and in like manner on every intellectual operation and speculation; and that is most pleasant which is most perfect, and that most perfect which is the Working of the best Faculty upon the most excellent of the Objects within its range.
 
-And Pleasure perfects the Working. But Pleasure does not perfect it in the same way as the Faculty and Object of Perception do, being good; just as health and the physician are not in similar senses causes of a healthy state.
+Pleasure perfects the Working. 
 
-And that Pleasure does arise upon the exercise of every Percipient Faculty is evident, for we commonly say that sights and sounds are pleasant; it is plain also that this is especially the case when the Faculty is most excellent and works upon a similar Object: and when both the Object and Faculty of Perception are such, Pleasure will always exist, supposing of course an agent and a patient.
+But Pleasure does not perfect it in the same way as the Faculty and Object of Perception do, being good; just as health and the physician are not in similar senses causes of a healthy state.
 
-Furthermore, Pleasure perfects the act of Working not in the way of an inherent state but as a supervening finish, such as is bloom in people at their prime. Therefore so long as the Object of intellectual or sensitive Perception is such as it should be and also the Faculty which discerns or realises the Object, there will be Pleasure in the Working: because when that which has the capacity of being acted on and that which is apt to act are alike and similarly related, the same result follows naturally.
+Pleasure does arise upon the exercise of every Percipient Faculty.
 
-How is it then that no one feels Pleasure continuously? is it not that he wearies, because all human faculties are incapable of unintermitting exertion; and so, of course, Pleasure does not arise either, because that follows upon the act of Working. But there are some things which please when new, but afterwards not in the like way, for exactly the same reason: that at first the mind is roused and works on these Objects with its powers at full tension; just as they who are gazing stedfastly at anything; but afterwards the act of Working is not of the kind it was at first, but careless, and so the Pleasure too is dulled.
+We commonly say that sights and sounds are pleasant.
 
-Again, a person may conclude that all men grasp at Pleasure, because all aim likewise at Life and Life is an act of Working, and every man works at and with those things which also he best likes; the musical man, for instance, works with his hearing at music; the studious man with his intellect at speculative questions, and so forth. And Pleasure perfects the acts of Working, and so Life after which men grasp. No wonder then that they aim also at Pleasure, because to each it perfects Life, which is itself choice-worthy. (We will take leave to omit the question whether we choose Life for Pleasure’s sake of Pleasure for Life’s sake; because these two plainly are closely connected and admit not of separation; since Pleasure comes not into being without Working, and again, every Working Pleasure perfects.)
+This is especially the case when the Faculty is most excellent and works upon a similar Object: and when both the Object and Faculty of Perception are such, Pleasure will always exist, supposing of course an agent and a patient.
 
-And this is one reason why Pleasures are thought to differ in kind, because we suppose that things which differ in kind must be perfected by things so differing: it plainly being the case with the productions of Nature and Art; as animals, and trees, and pictures, and statues, and houses, and furniture; and so we suppose that in like manner acts of Working which are different in kind are perfected by things differing in kind. Now Intellectual Workings differ specifically from those of the Senses, and these last from one another; therefore so do the Pleasures which perfect them.
+Pleasure perfects the act of Working not in the way of an inherent state but as a supervening finish, such as is bloom in people at their prime. Therefore so long as the Object of intellectual or sensitive Perception is such as it should be and also the Faculty which discerns or realises the Object, there will be Pleasure in the Working: because when that which has the capacity of being acted on and that which is apt to act are alike and similarly related, the same result follows naturally.
+
+How is it then that no one feels Pleasure continuously? 
+
+is it not that he wearies, because all human faculties are incapable of unintermitting exertion; and so, of course, Pleasure does not arise either, because that follows upon the act of Working. But there are some things which please when new, but afterwards not in the like way, for exactly the same reason: that at first the mind is roused and works on these Objects with its powers at full tension; just as they who are gazing stedfastly at anything; but afterwards the act of Working is not of the kind it was at first, but careless, and so the Pleasure too is dulled.
+
+A person may conclude that all men grasp at Pleasure, because all aim likewise at Life and Life is an act of Working, and every man works at and with those things which also he best likes.
+
+The musical man, for instance, works with his hearing at music; the studious man with his intellect at speculative questions, and so forth. And Pleasure perfects the acts of Working, and so Life after which men grasp. No wonder then that they aim also at Pleasure, because to each it perfects Life, which is itself choice-worthy. (We will take leave to omit the question whether we choose Life for Pleasure’s sake of Pleasure for Life’s sake; because these two plainly are closely connected and admit not of separation; since Pleasure comes not into being without Working, and again, every Working Pleasure perfects.)
+
+This is one reason why Pleasures are thought to differ in kind, because we suppose that things which differ in kind must be perfected by things so differing: it plainly being the case with the productions of Nature and Art; as animals, and trees, and pictures, and statues, and houses, and furniture; and so we suppose that in like manner acts of Working which are different in kind are perfected by things differing in kind.
+
+Intellectual Workings differ specifically from those of the Senses, and these last from one another; therefore so do the Pleasures which perfect them.
 
 This may be shown also from the intimate connection subsisting between each Pleasure and the Working which it perfects: I mean, that the Pleasure proper to any Working increases that Working; for they who work with Pleasure sift all things more closely and carry them out to a greater degree of nicety; for instance, those men become geometricians who take Pleasure in geometry, and they apprehend particular points more completely: in like manner men who are fond of music, or architecture, or anything else, improve each on his own pursuit, because they feel Pleasure in them. Thus the Pleasures aid in increasing the Workings, and things which do so aid are proper and peculiar: but the things which are proper and peculiar to others specifically different are themselves also specifically different.
 
@@ -52,5 +64,3 @@ Now in all such cases that is held to be which impresses the good man with the n
 Well of course, you may say, it is obvious that we must assert those which are confessedly disgraceful to be real Pleasures, except to depraved tastes: but of those which are thought to be good what kind, or which, must we say is The Pleasure of Man? is not the answer plain from considering the Workings, because the Pleasures follow upon these?
 
 If then there be one or several Workings which belong to the perfect and blessed man, the Pleasures which perfect these Workings must be said to be specially and properly The Pleasures of Man; and all the rest in a secondary sense, and in various degrees according as the Workings are related to those highest and best ones.
-
-

@@ -2,7 +2,7 @@
 heading: Part 7
 title: "Theories on the Cause of Earthquakes"
 date: 2025-05-22
-weight: 6
+weight: 22
 description: ""
 c: "darkgoldenrod"
 writer:

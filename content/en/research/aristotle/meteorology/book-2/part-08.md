@@ -2,7 +2,7 @@
 heading: Part 8
 title: "Earthquakes caused by dryness"
 date: 2025-05-22
-weight: 18
+weight: 24
 description: ""
 c: "darkgoldenrod"
 writer:

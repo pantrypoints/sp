@@ -1,6 +1,6 @@
 ---
 heading: Chapters 6
-title: "The Kinds of Justice"
+title: "The Just Versus the Unjust"
 weight: 12
 writer:
   name: Aristotle

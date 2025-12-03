@@ -1,7 +1,7 @@
 ---
 heading: Chapter 7
 title: "Happiness is a kind of Contemplative Speculation"
-weight: 12
+weight: 20
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

@@ -1,12 +1,12 @@
 ---
-title: "The Causes of Being"
+title: "Accidental Being Dismissed"
 heading: "Part 4"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 weight: 8
 c: "indigo"
-description: "Aristotle defines The Causes of Being"
+description: "Therefore let these be dismissed, and let us consider the causes and the principles of being itself, qua being"
 icon: "Aristotle"
 ---
 
@@ -15,7 +15,7 @@ Let us dismiss accidental being.
 
 But since that which is in the sense of being true, or is not in the sense of being false, depends on combination and separation, and truth and falsity together depend on the allocation of a pair of contradictory judgements (for the true judgement affirms where the subject and predicate really are combined, and denies where they are separated, while the false judgement has the opposite of this allocation; 
 
-It is another question, how it happens that we think things together or apart; by 'together' and 'apart' I mean thinking them so that there is no succession in the thoughts but they become a unity).
+How it happens that we think things together or apart; by 'together' and 'apart' I mean thinking them so that there is no succession in the thoughts but they become a unity).
 
 For falsity and truth are not in things-it is not as if the good were true, and the bad were in itself false-but in thought; while with regard to simple concepts and 'whats' falsity and truth do not exist even in thought--this being so, we must consider later what has to be discussed with regard to that which is or is not in this sense. 
 
