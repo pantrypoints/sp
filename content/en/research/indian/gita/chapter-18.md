@@ -189,9 +189,6 @@ Renunciation is of threefold form</sup>
 - Worship
 - Penance
 - Alms
-{{< /l >}}
-
-
 
 They should be gladly done. All those three are purifying waters for true souls.
 

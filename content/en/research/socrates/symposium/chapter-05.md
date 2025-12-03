@@ -63,10 +63,12 @@ But that which is always flowing in is always flowing out, and so he is never in
 The truth is that no god is a philosopher or seeker after wisdom, for he is wise already; nor does any man who is wise seek after wisdom. 
 
 Neither do the ignorant seek after wisdom. For herein is the evil of ignorance, that he who is neither good nor wise is nevertheless satisfied with himself: he has no desire for that of which he feels no want.
-{{< r >}}
+{{< /r >}}
 
 
-Socrates: But who then, are the lovers of wisdom, if they are neither the wise nor the foolish?
+{{< l a="Socrates" >}}
+But who then, are the lovers of wisdom, if they are neither the wise nor the foolish?
+{{< /l >}}
 
 {{< r a="Diotima" >}}
 A child may answer that question. The lovers of wisdom are those who are in a mean between the two. 
@@ -78,8 +80,9 @@ And of this too his birth is the cause; for his father is wealthy and wise, and 
 The error in your conception of him was very natural, and as I imagine from what you say, has arisen out of a confusion of love and the beloved, which made you think that love was all beautiful. For the beloved is the truly beautiful, and delicate, and perfect, and blessed; but the principle of love is of another nature, and is such as I have described.'
 {{< /r >}}
 
-
-Socrates: What is the use of Love to men?
+{{< l a="Socrates" >}}
+What is the use of Love to men?
+{{< /l >}}
 
 {{< r a="Diotima" >}}
 You acknowledge that love is of the beautiful. But beautiful in what? 
@@ -88,7 +91,10 @@ When a man loves the beautiful, what does he desire?
 {{< /r >}}
 
 
-Socrates: That the beautiful may be his
+{{< l a="Socrates" >}}
+That the beautiful may be his
+{{< /l >}}
+
 
 {{< r a="Diotima" >}}
 But what is given by the possession of beauty?
@@ -99,14 +105,18 @@ If he who loves loves the good, what is it then that he loves?
 {{< /r >}}
 
 
-Socrates: The possession of the good
+{{< l a="Socrates" >}}
+The possession of the good
+{{< /l >}}
 
 {{< r a="Diotima" >}}
 What does he gain who possesses the good?
 {{< /r >}}
 
 
-Socrates: Happiness. This is easier to answer. 
+{{< l a="Socrates" >}}
+Happiness. This is easier to answer. 
+{{< /l >}}
 
 
 {{< r a="Diotima" >}}
@@ -115,12 +125,7 @@ Yes, the happy are made happy by the acquisition of good things. Nor is there an
 This wish and this desire is common to all? All men always desire their own good.
 
 Then why are not all men, Socrates, said to love, but only some of them? whereas you say that all men are always loving the same things.' 
-{{< /r >}}
 
-
-Socrates: I myself wonder why this is.
-
-{{< r a="Diotima" >}}
 The reason is that one part of love is separated off and receives the name of the whole, but the other parts have other names.
 
 For example, there is poetry which is complex and manifold. 
@@ -155,7 +160,10 @@ What is the object which they have in view?
 {{< /r >}}
 
 
+{{< l a="Socrates" >}}
 Nay, Diotima. If I had known, I should not have wondered at your wisdom, neither should I have come to learn from you about this very matter.' 
+{{< /l >}}
+
 
 {{< r a="Diotima" >}}
 Well, I will teach you: The object which they have in view is birth in beauty, whether of body or soul.
@@ -185,10 +193,13 @@ Do you expect ever to become a master in the art of love, if you do not know thi
 {{< /r >}}
 
 
+{{< l a="Socrates" >}}
+But I have told you already, Diotima, that my ignorance is the reason why I come to you; for I am conscious that I want a teacher; tell me then the cause of this and of the other mysteries of love.' 
+{{< /l >}}
 
-Socrates: But I have told you already, Diotima, that my ignorance is the reason why I come to you; for I am conscious that I want a teacher; tell me then the cause of this and of the other mysteries of love.' 
 
-Diotima:  Marvel not if you believe that love is of the immortal, as we have several times acknowledged; for here again, and on the same principle too, the mortal nature is seeking as far as is possible to be everlasting and immortal: and this is only to be attained by generation, because generation always leaves behind a new existence in the place of the old. 
+{{< r a="Diotima" >}}
+Marvel not if you believe that love is of the immortal, as we have several times acknowledged; for here again, and on the same principle too, the mortal nature is seeking as far as is possible to be everlasting and immortal: and this is only to be attained by generation, because generation always leaves behind a new existence in the place of the old. 
 
 Nay even in the life of the same individual there is succession and not absolute unity: a man is called the same, and yet in the short interval which elapses between youth and age, and in which every animal is said to have life and identity, he is undergoing a perpetual process of loss and reparation—hair, flesh, bones, blood, and the whole body are always changing. 
 
@@ -197,12 +208,19 @@ Which is true not only of the body, but also of the soul, whose habits, tempers,
 For what is implied in the word "recollection," but the departure of knowledge, which is ever being forgotten, and is renewed and preserved by recollection, and appears to be the same although in reality new, according to that law of succession by which all mortal things are preserved, not absolutely the same, but by substitution, the old worn-out mortality leaving another new and similar existence behind—unlike the divine, which is always the same and not another? 
 
 In this way, Socrates, the mortal body, or mortal anything, partakes of immortality; but the immortal in another way. Marvel not then at the love which all men have of their offspring; for that universal love and interest is for the sake of immortality.'
+{{< /r >}}
 
-I was astonished at her words, and said: 'Is this really true, O thou wise Diotima?' And she answered with all the authority of an accomplished sophist: 'Of that, Socrates, you may be assured;—think only of the ambition of men, and you will wonder at the senselessness of their ways, unless you consider how they are stirred by the love of an immortality of fame. 
+
+{{< l a="Socrates" >}}
+[astonished] 'Is this really true, O thou wise Diotima?' And she answered with all the authority of an accomplished sophist: 'Of that, Socrates, you may be assured;—think only of the ambition of men, and you will wonder at the senselessness of their ways, unless you consider how they are stirred by the love of an immortality of fame. 
 
 They are ready to run all risks greater far than they would have run for their children, and to spend money and undergo any sort of toil, and even to die, for the sake of leaving behind them a name which shall be eternal. 
 
-Do you imagine that Alcestis would have died to save Admetus, or Achilles to avenge Patroclus, or your own Codrus in order to preserve the kingdom for his sons, if they had not imagined that the memory of their virtues, which still survives among us, would be immortal? Nay,' she said, 'I am persuaded that all men do all things, and the better they are the more they do them, in hope of the glorious fame of immortal virtue; for they desire the immortal.
+Do you imagine that Alcestis would have died to save Admetus, or Achilles to avenge Patroclus, or your own Codrus in order to preserve the kingdom for his sons, if they had not imagined that the memory of their virtues, which still survives among us, would be immortal? 
+{{< /l >}}
+
+
+Nay,' she said, 'I am persuaded that all men do all things, and the better they are the more they do them, in hope of the glorious fame of immortal virtue; for they desire the immortal.
 
 'Those who are pregnant in the body only, betake themselves to women and beget children—this is the character of their love; their offspring, as they hope, will preserve their memory and giving them the blessedness and immortality which they desire in the future. But souls which are pregnant—for there certainly are men who are more creative in their souls than in their bodies—conceive that which is proper for the soul to conceive or contain. 
 
