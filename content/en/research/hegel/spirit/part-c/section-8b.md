@@ -64,7 +64,11 @@ In the order in which the modes or shapes of consciousness came before us, consc
 The unification of both aspects is not yet brought to light; it is this that winds up this series of embodiments of spirit, for in it spirit gets to the point where it knows itself not only as it is inherently in itself, or in terms of its absolute content, nor only as it is (objectively) for itself in terms of its bare form devoid of content, or in terms of self-consciousness, but as it is in its self-completeness, as it is in itself and for itself.
 
 
-{{< s v='795' >}} This unification has, however, already taken place by implication, and has done so in religion in the return of the figurative idea (Vorstellung) into self-consciousness, but not according to the proper form, for the religious aspect is the aspect of the essentially independent (Ansich) and stands in contrast to the process of self-consciousness. 
+{{< s v='795' >}} This unification has, however, already taken place by implication.
+
+It has done so in religion in the return of the figurative idea (Vorstellung) into self-consciousness, but not according to the proper form.
+
+This is because the religious aspect is the aspect of the essentially independent (Ansich) and stands in contrast to the process of self-consciousness. 
 
 The unification therefore belongs to this other aspect, which by contrast is the aspect of reflexion into self, is that side therefore which contains its self and its opposite, and contains them not only implicitly, (an sich) or in a general way, but explicitly (für sich) or expressly developed and distinguished. The content, as well as the other aspect of self-conscious spirit, so far as it is the other aspect, have been brought to light and are here in their completeness: the unification still a-wanting is the simple unity of the notion. 
 

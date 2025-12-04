@@ -8,6 +8,8 @@ date: 2020-01-25
 weight: 12
 image: "/photos/grains.jpg"
 icon: "Bio Superphysics"
+aliases:
+  /medical/principles/chapter-04/
 ---
 
 

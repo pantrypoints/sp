@@ -8,7 +8,10 @@ weight: 8
 image: "/photos/med/alzh.jpg"
 tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
 icon: "Bio Superphysics"
+aliases:
+  /medical/principles/chapter-03/
 ---
+
 
 
 {{< q a="PR Sarkar" c="The Rule of Rationality" >}}
