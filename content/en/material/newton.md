@@ -8,7 +8,7 @@ description: "In 1644, Descartes established a complete theory of gravity, sayin
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Material Superphysics"
+icon: "Juan"
 toc: false
 ---
 
@@ -60,7 +60,7 @@ But these are all easily explained by Descartes' vortices which propel the comet
 
 
 
-## Descarts' System Explains Dark Matter AND Dark Energy
+## Descartes' System Explains Dark Matter AND Dark Energy
 
 To put icing on the gravity-cake, the DESI telescopes, meant to measure dark energy, see that speed of the universe's expansion measured through red-shift varies depending on which galaxy-cluster you look.
 
