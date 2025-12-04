@@ -11,10 +11,18 @@ c: "firebrick"
 
 
 Almost all of Descartes' theory of gravity is based on the law of nature that any body moving in a curved line tends to move away from its center in a straight line that would touch the curve at one point. Such is the case of a sling that escapes from the hand, etc.
+
 All bodies, by turning with the earth, thus make an effort to move away from the center; but the subtle matter, making a much greater effort, was said to repel all other bodies.
 
+It was not for the subtle matter to make this greater effort, and to move away from the center of the so-called vortex rather than the other bodies.
 
-It is easy to see that it was not for the subtle matter to make this greater effort, and to move away from the center of the so-called vortex rather than the other bodies; on the contrary, it was its nature (assuming it existed) to go to the center of its movement, and to let all the bodies that had more mass go to the circumference. This is in fact what happens on a table that turns in a circle, when, in a tube made in this table, several powders and several liquids of different specific gravities have been mixed: everything that has more mass moves away from the center; everything that has less mass approaches it. Such is the law of nature, and when Descartes made his so-called subtle matter circulate at the circumference, he began by violating this law of centrifugal forces, which he set as his first principle. It was in vain that he imagined that God had created dice turning on one another; that the scraping of these dice, which made up his subtle matter, escaping from all sides, thereby acquired more speed; that the center of a vortex became crusted, etc.; it was far from the case that these imaginations rectified this error.
+On the contrary, it was its nature to go to the center of its movement, and to let all the bodies that had more mass go to the circumference. 
+
+This is in fact what happens on a table that turns in a circle, when, in a tube made in this table, several powders and several liquids of different specific gravities have been mixed: everything that has more mass moves away from the center; everything that has less mass approaches it.
+
+Such is the law of nature.
+
+When Descartes made his so-called subtle matter circulate at the circumference, he began by violating this law of centrifugal forces, which he set as his first principle. It was in vain that he imagined that God had created dice turning on one another; that the scraping of these dice, which made up his subtle matter, escaping from all sides, thereby acquired more speed; that the center of a vortex became crusted, etc.; it was far from the case that these imaginations rectified this error.
 
 Without losing more time fighting these beings of reason, let us follow the laws of mechanics that operate in nature. A body that moves circularly takes in this way, at each point of the curve it describes, a direction that would move it away from the circle, by making it follow a straight line.
 

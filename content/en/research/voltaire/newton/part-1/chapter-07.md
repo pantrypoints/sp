@@ -32,7 +32,7 @@ Before examining whether these bodies are mixed or not, I ask myself whether it 
 
 What is a prime matter that is none of the things of this world, yet produces them all? It is something of which I can have no idea, and therefore something I should not admit.
 
-It is true that I can form in general the idea of an extended, impenetrable, and shapable substance, without directing my thought to sand or mud or gold, etc.; but nevertheless, either this matter is actually one of these things, or it is nothing at all.
+I can form in general the idea of an extended, impenetrable, and shapable substance, without directing my thought to sand or mud or gold, etc.; but nevertheless, either this matter is actually one of these things, or it is nothing at all.
 
 Likewise, I can think of a triangle in general, without fixing on the equilateral, scalene, or isosceles triangle; but a triangle that exists must be one of these.
 
@@ -110,5 +110,3 @@ To know how the constituent parts of gold form a piece of gold, it would seem ne
 If it were permitted to say that attraction is probably the cause of this adhesion and continuity of matter, this would be the most plausible assertion one could make: for indeed, if it is demonstrated, as we shall see, that all the parts of matter gravitate toward one another—whatever the cause may be—can anything seem more natural than that bodies which touch at more points are the most strongly united together by the force of this gravitation?
 
 But this is not the place to go into that physical detail.
-
-

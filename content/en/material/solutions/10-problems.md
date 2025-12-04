@@ -7,8 +7,10 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+tags: ['Strong CP Problem', 'Gravity']
 weight: 2
 ---
+
 
 Modern Physics is currently stuck with [10 problems](https://backreaction.blogspot.com/2019/01/good-problems-in-foundations-of-physics.html), which we classify below and solve with Superphysics:
 
@@ -49,17 +51,29 @@ Is a naturalness problem, like the Hierarchy problem, and not a problem of incon
 
 ## Gravity Problems
 
-**1. Quantum Gravity**
-
-How can gravity and quantum mechanics coexist within the same theory?
+**1. Quantum Gravity: How can gravity and quantum mechanics coexist within the same theory?**
 
 - Cause of Problem: General Relativity and Newton
-- Solution: [Aethereal Vortices](/material/principles/part-2/chapter-03c/)
+
+In the General Scholium, Newton said that gravity comes from the Spirit of Lord God that courses through matter. Unfortunately, later generations, specifically Voltaire and Laplace, simply discarded Spirit and said that gravity comes from matter. 
+
+In reality, the Spirit mentioned by Newton is the same as the aether substance of Descartes and Spinoza, which is known as the chi of Taoism and vayu of Hinduism. 
+
+Chi and vayu are used in telekinesis and by levitating Buddhist monks. 
+
+
+- Solution: [Virtual Space Particles and Aethereal Vortices](/material/principles/part-2/chapter-03c/)
+
 
 
 **5-6. Dark Energy and Dark Matter**
 
 - Cause of Problem: General Relativity for Dark Energy, and Newton for Dark Matter
+
+The discovery of massless gravitational lensing was discovered, led to the invention of dark matter, as invisible matter, to account for the gravitational effects. 
+
+But in Descartes' Physics, this dark matter is merely virtual space particles. 
+
 - Solution: [Spatial Layer](/material/principles/part-2/chapter-04b/), Quanta of Spacetime, and Aethereal Vortices (Gravity comes from the Aether, not Mass)
 
 ![Aether](/graphics/physics/aethertech.png)
@@ -68,6 +82,7 @@ How can gravity and quantum mechanics coexist within the same theory?
 **6.5 Strong CP Problem**
 
 - Cause of Problem: Material Influence
+
 - Solution: [The 5 Layers](/material/principles/intro/chapter-02/), specifically the Spatial and Material Layers
 
 <!-- Why is the cosmological constant small compared to the powers of the Planck mass?

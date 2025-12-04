@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 3d"
-title: "Gradual (Local) and Sudden (True) Motion"
+title: "The Aetherspace: Gradual (Local) and Sudden (True) Motion"
 # date: 2023-03-10
 weight: 13
 image: /photos/physics/sparks.jpg

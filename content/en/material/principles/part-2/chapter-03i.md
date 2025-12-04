@@ -30,7 +30,7 @@ We can call this as the material gravity of the Earth or a downward gravity.
 
 ### Fine Gravity
 
-Crude gravity is created by displacing space bluntly with mass.
+Crude gravity, which we call material gravity, is created by displacing space bluntly with mass.
 
 But gravity can also be produced by displacing space minutely and surgically. We call this fine gravity.
 
@@ -43,6 +43,17 @@ There are 2 easy examples of this:
 Gauge Blocks are rectangular blocks that are perfectly smooth. Two blocks together thus can have no space between them. 
 
 This creates a zero pressure between them and a high pressure outside, which then pushes them together. 
+
+{{< i s="/photos/physics/gauge.jpg" a="Gauge Blocks" >}}
+
+
+Galileo described this way back in 1638, during the same decade that Descartes wrote his theory of gravity via space particles in 1633. 
+
+
+{{< q a="Galileo" c="Two New Sciences, Day 1" >}}
+If you take 2 highly polished and smooth plates of marble, metal, or glass and place them face to face, one will slide over the other with the greatest ease. This shows that there is nothing of a viscous nature between them [no liquid virtual space particles]. But when you try to separate them, the plates exhibit such a repugnance to separation. The upper one will carry the lower one with it and keep it lifted indefinitely, even when the latter is big and heavy. This shows [by the pushing of the space-medium] the aversion of nature for empty space.
+{{< /q >}}
+
 
 Rather than call this as a vacuum force, it would be better to call it a pushing force, just to be consistent and simple.
 
@@ -95,3 +106,25 @@ Since G is a constant, then there is a limited weight that reverse gravity can k
 This is opposed to the electromagnetic-space family like electricity, magnetism, and microlensing
 
 Microlensing wrongly uses G and so it fails when there is no mass, leading to the false idea of dark matter -->
+
+
+
+This greatly simplifies the concept of gravity:
+
+
+Material Superphysics | Physics
+--- | ---
+Material Gravity | Newtonian Gravity
+Material Gravity | Coulomb's Law
+Material Gravity | Inverse Square Law
+Fine Gravity | Van der Waals Force
+Fine Gravity | Surface Tension
+Fine Gravity | Dzhanibekov Effect
+Rotational Gravity | Dark Matter 
+Rotational Gravity | Einstein's warping of Spacetime
+Aetherspace Expansion-Contraction | Dark Energy
+Aetherspace | Strong Force
+Liquid Nature of Space Particles | Gravitational Waves
+Liquid Nature of Space Particles | Equivalence and Weak Equivalence Principles
+
+

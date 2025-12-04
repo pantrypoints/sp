@@ -70,7 +70,7 @@ This is because the same instant of time would suffice for:
 
 But the lower plate follows the upper one.
 
-Thus means that:
+This means that:
 - motion in a vacuum is not instantaneous
 - between the 2 plates, a void really exists at least for a very short time
 

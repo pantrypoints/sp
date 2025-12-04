@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 3e"
-title: "How Vortices Form in Space"
+title: "Virtual Space Particles and Vortices"
 # date: 2024-07-22
 weight: 14
 image: /photos/physics/whitehole.jpg
@@ -11,6 +11,38 @@ writer:
 icon: "Juan"
 ---
 
+
+While the aetherspace (mos2) is tasked with separating identities, virtual space particles (mos3) are tasked with facilitating movement between those aetherspaces. 
+
+This means that all forces come from the spatial layer:
+- contact forces come from the aetherspace
+- gravitational movement comes from the spacetime, as virtual space particles. 
+
+<!-- All gravity and spatial effects are facilitated by the media of the spatial layer. -->
+
+
+## Simplification of Gravity Effects
+
+This lets us reduce the number of concepts to the following:
+
+Material Superphysics | Physics
+--- | ---
+Material Gravity | Newtonian Gravity
+Material Gravity | Coulomb's Law
+Material Gravity | Inverse Square Law
+Fine Gravity | Van der Waals Force
+Fine Gravity | Surface Tension
+Fine Gravity | Dzhanibekov Effect
+Rotational Gravity | Dark Matter 
+Rotational Gravity | Einstein's warping of Spacetime
+Aetherspace Expansion-Contraction | Dark Energy
+Aetherspace | Strong Force
+Liquid Nature of Space Particles | Gravitational Waves
+Liquid Nature of Space Particles | Equivalence and Weak Equivalence Principles
+
+
+
+## Rotational Gravity: How Vortices Form in Space
 
 Vortices form when there are energetic space particles caused by an increase in aether in a location. 
 

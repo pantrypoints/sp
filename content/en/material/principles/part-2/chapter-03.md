@@ -70,6 +70,7 @@ However, in other galaxies the mosts might be facing inwards. This would create 
 Material Superphysics is robust enough to account for the different Physics in other galaxies because it is based on the aether, which is totally flexible.
 
 
+
 <!-- decided that most3 act like fluids by being less rigid, allowing them to convert from most3 to qosts. 
 
 In other universes within the multiverse however, the aether might decide for for most3 or gravitation to be more rigid. 

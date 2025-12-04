@@ -45,11 +45,7 @@ Even if one supposed that comets did not in fact go from north to south, nor fro
 
 6. These vortices would be either:
 - as dense and massive as the planets
-
-
 - denser
-
-
 - less dense
 
 If so, the subtle matter that surrounds the moon and the earth would be as dense as an equal volume of earth.
@@ -59,7 +55,7 @@ We would experience, to lift a cubic foot of marble, for example, at least the s
 In the other two cases, which are, I believe, impossible, we argue with reason about what would happen. But here is something to cut short all difficulty, and to show that no vortex can press on the earth, and cause gravity.
 
 The theory of motive forces show that a body that moves, for example, with 10 degrees of speed, receives no force, no movement from a power that will also have only ten degrees, and which will pursue this moving body.
-
+ 
 For this power to add new degrees of movement to this body, it must have more than it; and it only communicates its excess to it. But the power of gravitation of attraction acts equally on bodies at rest and on bodies in motion, and communicates the same degrees of speed to both: therefore this power cannot come from a fluid which can only act according to the laws of motive forces.
 
 7. If these fluids existed, one minute would be enough to destroy all movement in the stars. Newton demonstrated that any body that moves uniformly in a fluid of the same density loses half of its movement after having traveled three of its diameters. This is without any rebuttal.
