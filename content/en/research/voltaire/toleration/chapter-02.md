@@ -1,3 +1,13 @@
+---
+title: "The Death Of Jean Calas"
+description: "Works of Voltaire"
+c: "firebrick"
+icon: "Voltaire"
+draft: true
+---
+
+
+
 ON SUPERSTITION
 
 My Brethren:

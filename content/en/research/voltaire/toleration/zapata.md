@@ -1,3 +1,12 @@
+---
+title: "The Death Of Jean Calas"
+description: "Works of Voltaire"
+c: "firebrick"
+icon: "Voltaire"
+draft: true
+---
+
+
 THE QUESTIONS OF ZAPATA
 
 The licentiate Zapata, being appointed Professor of Theology at the University of Salamanca, presented these questions to a committee of doctors in 1629. They were suppressed. The Spanish copy is in the Brunswick Library.

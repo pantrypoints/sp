@@ -1,6 +1,6 @@
 ---
-title: "History of England"
-linkTitle: "England"
+heading: Chapter 1
+title: "THE BRITONS"
 description: ""
 c: "teal"
 writer:
@@ -10,14 +10,6 @@ weight: 2
 draft: true
 ---
 
-catho
-CHAPTER I.
-
-
-
-
-
-THE BRITONS.
 
 The curiosity entertained by all civilized nations, of inquiring into the exploits and adventures of their ancestors, commonly excites a regret that the history of remote ages should always be so much involved in obscurity, uncertainty, and contradiction. Ingenious men, possessed of leisure, are apt to push their researches beyond the period in which literary monuments are framed or preserved; without reflecting, that the history of past events is immediately lost or disfigured when intrusted to memory and oral tradition, and that the adventures of barbarous nations, even if they were recorded, could afford little or no entertainment to men born in a more cultivated age. The convulsions of a civilized state usually compose the most instructive and most interesting part of its history; but the sudden, violent, and unprepared revolutions incident to barbarians, are so much guided by caprice, and terminate so often in cruelty, that they disgust us by the uniformity of their appearance; and it is rather fortunate for letters that they are buried in silence and oblivion. The only certain means by which nations can indulge their curiosity in researches concerning their remote origin, is to consider the language, manners, and customs of their ancestors, and to compare them with those of the neighboring nations. The fables, which are commonly employed to supply the place of true history, ought entirely to be disregarded; or if any exception be admitted to this general rule, it can only be in favor of the ancient Grecian fictions, which are so celebrated and so agreeable, that they will ever be the objects of the attention of mankind. Neglecting, therefore, all traditions, or rather tales, concerning the more early history of Britain, we shall only consider the state of the inhabitants as it appeared to the Romans on their invasion of this country: we shall briefly run over the events which attended the conquest made by that empire, as belonging more to Roman than British story: we shall hasten through the obscure and uninteresting period of Saxon annals; and shall reserve a more full narration for those times, when the truth is both so well ascertained, and so complete, as to promise entertainment and instruction to the reader.
 
@@ -29,22 +21,12 @@ The other inhabitants of the island still maintained themselves by pasture: they
 
 The Britons were divided into many small nations or tribes and being a military people, whose sole property was then arms and their cattle, It was impossible, after they had acquired a relish of liberty for their princes or chieftains to establish any despotic authority over them. Their governments, though monarchical,[*] were free, as well as those of all the Celtic nations; and the common people seem even to have enjoyed more liberty among them,[**] than among the nations of Gaul,[***] from whom they were descended. Each state was divided into factions within itself:[****] it was agitated with jealousy or animosity against the neighboring states: and while the arts of peace were yet unknown, wars were the chief occupation, and formed the chief object of ambition, among the people.
 
-     [* Diod. Sic. lib. iv. Mela, lib. iii. cap. 6.
-     Strabo, lib. iv.]
 
-     [** Dion Cassius, lib. lxxv.]
-
-     [*** Cæsar, lib. vi.]
-
-     [**** Tacit. Agr.]
 
 The religion of the Britons was one of the most considerable parts of their government; and the druids, who were their priests, possessed great authority among them. Besides ministering at the altar, and directing all religious duties, they presided over the education of youth; they enjoyed an immunity from wars and taxes; they possessed both the civil and criminal jurisdiction; they decided all controversies among states as well as among private persons, and whoever refused to submit to their decree was exposed to the most severe penalties. The sentence of excommunication was pronounced against him: he was forbidden access to the sacrifices or public worship: he was debarred all intercourse with his fellow-citizens, even in the common affairs of life: his company was universally shunned, as profane and dangerous: he was refused the protection of law:[*] and death itself became an acceptable relief from the misery and infamy to which he was exposed. Thus the bands of government, which were naturally loose among that rude and turbulent people, were happily corroborated by the terrors of their superstition.
 
-     [* Cæsar, lib. vi. Strabo, lib. iv.]
-
 No species of superstition was ever more terrible than that of the druids. Besides the severe penalties, which it was in the power of the ecclesiastics to inflict in this world, they inculcated the eternal transmigration of souls; and thereby extended their authority as far as the fears of their timorous votaries. They practised their rites in dark groves or other secret recesses;[*] and in order to throw a greater mystery over their religion, they communicated their doctrines only to the initiated, and strictly forbade the committing of them to writing, lest they should at any time be exposed to the examination of the profane vulgar.
 
-     [* Plin. lib. xii. cap. 1.]
 
 Human sacrifices were practised among them: the spoils of war were often devoted to their divinities; and they punished with the severest tortures whoever dared to secrete any part of the consecrated offering: these treasures they kept in woods and forests, secured by no other guard than the terrors of their religion;[*] and this steady conquest over human avidity may be regarded as more signal than their prompting men to the most extraordinary and most violent efforts. No idolatrous worship ever attained such an ascendant over mankind as that of the ancient Gauls and Britons; and the Romans, after their conquest, finding it impossible to reconcile those nations to the laws and institutions of their masters, while it maintained its authority, were at last obliged to abolish it by penal statutes; a violence which had never, in any other instance, been practised by those tolerating conquerors.[**]
 
@@ -5286,6 +5268,3 @@ The words of this last historian, who is very ancient, are remarkable, and worth
 [ NOTE S, p. 392. Madox, in his Baronia Anglica, (cap. 14,) tells us, that in the thirtieth year of Henry II., thirty-three cows and two bulls cost but eight pounds seven shillings, money of that age; five hundred sheep, twenty-two pounds ten shillings, or about tenpence three farthings per sheep; sixty-six oxen, eighteen pounds three shillings; fifteen breeding mares, two pounds twelve shillings and sixpence; and twenty-two hogs, one pound two shillings. Commodities seem then to have been about ten times cheaper than at present; all except the sheep, probably on account of the value of the fleece. The same author, in his Formulare Anglicanum, (p. 17,) says, that in the tenth year of Richard I., mention is made of ten per cent, paid for money; but the Jews frequently exacted much higher interest.]
 
 END OF VOL. Ia.
-
-
-

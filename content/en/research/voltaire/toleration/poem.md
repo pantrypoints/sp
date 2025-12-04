@@ -1,3 +1,10 @@
+---
+title: "The Death Of Jean Calas"
+description: "Works of Voltaire"
+c: "firebrick"
+icon: "Voltaire"
+draft: true
+---
 
 
 POEM ON THE LISBON DISASTER;

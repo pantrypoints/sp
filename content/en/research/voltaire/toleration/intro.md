@@ -1,3 +1,12 @@
+---
+title: "The Death Of Jean Calas"
+description: "Works of Voltaire"
+c: "firebrick"
+icon: "Voltaire"
+draft: true
+---
+
+
 INTRODUCTION
 
 It seems useful, in presenting to English readers this selection of the works of Voltaire, to recall the position and personality of the writer and the circumstances in which the works were written. It is too lightly assumed, even by many who enjoy the freedom which he, more than any, won for Europe, and who may surpass him in scepticism, that Voltaire is a figure to be left in a discreetly remote niche of memory. “Other times, other manners” is one of the phrases he contributed to modern literature. Let us genially acknowledge that he played a great part in dispelling the last mists of the Middle Ages, and politely attribute to the papal perversity and the lingering vulgarity of his age the more effective features of his work. Thus has Voltaire become a mere name to modern rationalists; a name of fading brilliance, a monumental name, but nothing more.
