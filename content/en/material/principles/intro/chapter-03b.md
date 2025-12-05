@@ -7,7 +7,7 @@ description: "The MSQ Model is our alternative to the Standard Model of Physics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 8
+weight: 9
 icon: "Juan"
 ---
 

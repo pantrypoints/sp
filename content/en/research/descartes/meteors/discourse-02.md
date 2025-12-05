@@ -11,35 +11,46 @@ icon: "Rene Descartes"
 ---
 
 
-This is similar to dust rising from a field when stirred by the feet of a passerby. Even though the grains of this dust are much larger and heavier than the small parts we are discussing, they still rise into the air—and in fact, they rise even higher when a large plain is filled with moving people, compared to when it is disturbed by a single person.
+<!-- This is similar to dust rising from a field when stirred by the feet of a passerby. 
 
-This should prevent surprise that the action of the sun lifts high the small particles of matter which make up vapors and exhalations, considering that its influence extends over half the Earth at a time and remains there throughout the entire day. Note that the small particles raised into the air by the sun generally have the same shape as those I’ve attributed to water—since no other shapes separate so easily from the bodies they inhabit.
+These dust particles are much larger and heavier than the small particles of [air aether?]. 
 
-These particular particles I will call vapors, to distinguish them from others with more irregular shapes, which I will limit to the name exhalations, as I know of no better term.
+Yet they still rise into the air. They rise even higher when a large plain is filled with moving people, than when 1 person disturbs it.
 
-Among the exhalations, I will include those that have nearly the same shape as the parts of water but are finer and compose spirits or essential oils, because they can easily ignite. I will exclude those that are divided into many branching parts and are so subtle that they are only suited to make up the substance of air.
+The action of the sun lifts high the small particles of matter which make up vapors and exhalations.
 
-As for the slightly coarser ones, also divided in branches, it’s true they can hardly leave the hard bodies they are in on their own—but if fire spreads into these bodies, it drives them out as smoke. Likewise, when water seeps into their pores, it often dislodges them and carries them upward, just like wind passing through a hedge carries away leaves or straw that are tangled in the branches.
+The sun's influence:
+- extends over half the Earth at a time 
+- remains there throughout the entire day
 
-Or more precisely, like water itself in a distillation flask carries upward the small parts of oil that alchemists extract from dried plants by soaking them in water and distilling the mixture—causing the small amount of oil within to rise with the larger volume of water.
+The small particles raised into the air by the sun have the same shape as those I’ve attributed to water. This is because no other shapes separate so easily from the bodies they inhabit.
 
-In fact, most of these particles are the same as those that normally compose the substance of such oils.
+...
 
-Also observe that vapors always occupy much more space than liquid water, even though they are made of the same particles.
+I will exclude those that are divided into many branching parts and are so subtle that they are only suited to make up the substance of Air particles .
+- These are different from exhalations
+
+As for the slightly coarser ones, also divided in branches, it’s true they can hardly leave the hard bodies they are in on their own—but if fire spreads into these bodies, it drives them out as smoke. 
+
+When water seeps into their pores, it often dislodges them and carries them upward.
+
+This is like:
+- wind passing through a hedge that carries away leaves that are tangled in the branches.
+- water in a distillation flask carrying upward the oil that alchemists extract from dried plants by soaking them in water and distilling the mixture.
+  - This causes the small amount of oil within to rise with the larger volume of water.
+
+Most of these particles are the same as those that normally compose the substance of such oils.
+
+Vapors always occupy much more space than liquid water, even though they are made of the same particles.
 
 The reason is:
 
-When these particles form water, they move just strongly enough to bend and intertwine, sliding against one another—as shown in figure A.
+When these vapor particles form water, they move just strongly enough to bend and intertwine.
+- They slide against one another—as shown in figure A.
 
 But when they form vapor, their agitation is so intense that they spin rapidly in all directions, stretching fully in length.
 
-Each particle repels those around it, pushing away others that attempt to enter the small sphere it describes—represented in figure B.
-
-
-
-
-
-
+Each particle repels those around it, pushing away others that attempt to enter the small sphere it describes—represented in figure B. -->
 
 
 
@@ -65,30 +76,30 @@ This is similar to how dust in a field rises when it is pushed and agitated by t
 
 The action of the sun raises vapors quite high, since the sun always shines over half of the earth and stays there all day.
 
+## Vapors Versus Exhalations
+
 These small particles raised into the air by the sun should mostly have the shape of water. 
 - This is because they are the most easily separable from the bodies that they are in. 
 
-These alone I will call "vapors". 
+I call these particles as vapors. 
+- This is to distinguish them from those with more irregular shapes, which I will call "exhalations", as I know of no better term.
 
-These are different from the more irregular shaped ones I call "exhalations" [ionized air], as I know no more proper term. 
-
-Included in the exhalations are those with nearly the same shape as the water particles but are more subtle.
-- These make up spirits or life waters that can easily catch fire. 
+Exhalations include spirits or essential oils.
+- These have nearly the same shape as water particles but are finer or subtler.
+- This makes them easily ignite. 
 
 I will exclude the earth-aether particles that make up the physical air that are:
 - divided into several branches
 - so subtle
 
 
-{{< box >}}
-
+{{< b >}}
 Physics Name | Cartesian Name
 --- | --- 
 Water Vapor | Vapors
 Ionized Air | Exhalations
 Hydrocarbons | Spirit-Exhalations
-
-{{< /box >}}
+{{< /b >}}
 
 
 There are earth-aether particles [carbon] that are a bit coarser and also divided into branches.
@@ -108,6 +119,9 @@ Vapors always occupy much more space than water even if they are made of the sam
 Water particles only move strongly enough to bend, intertwine, and slide against each other, as represented at `A`. 
 
 When they become vapor, their agitation is so great that they quickly turn around in all directions and stretch out to their full length.*
+
+{{< i s="/graphics/physics/eels.jpg" a="Eels" >}}
+
 - Each has the force to push away all its similar particles that tend to enter its small sphere. 
 - This is represented at `B`.
 
@@ -117,8 +131,7 @@ When they become vapor, their agitation is so great that they quickly turn aroun
 {{< i s="/graphics/physics/exhalations.jpg" a="Exhalations" >}}
 
 This is similar to how, if you spin the pivot `LM` fast enough, cord `NP` will stand in the air, straight and stretched. 
-
-It will occupy all the space within the circle `NOPQ`. In this way, bodies within that circle are immediately struck and driven out. 
+- It will occupy all the space within the circle `NOPQ`. In this way, bodies within that circle are immediately struck and driven out. 
 
 {{< i s="/graphics/physics/vapor.png" a="Vapor spin" >}}
 
@@ -192,24 +205,3 @@ In the same way, we feel our breath is:
 This is why:
 - violent winds are cold
 - warm winds are fast
-
-<!-- 
-Heat resides in this agitation of the small earth-aether particles. 
-
-Blow strongly against your fingers held together.
-
-Your breath will:
-- feel cold above your hand, where it passes very quickly and with equal force, causing little agitation. 
-- feel warm between your fingers, where it passes more unevenly and slowly, agitating their small particles more. 
-
-
-Similarly, blowing with your mouth:
-- wide open against your hand feels warm
-- almost closed against your hand feels cold
-
-
-This is why:
-- impetuous [fast] winds are usually cold
-- warm winds are usually slow
-
- -->

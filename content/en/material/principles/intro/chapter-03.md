@@ -8,7 +8,7 @@ description: "All forces are called media which follow the 4 Rules of Motion of 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 14
+weight: 8
 icon: "Juan"
 aliases:
   /material/motion

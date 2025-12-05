@@ -3,7 +3,7 @@ title: "Breaking Changes"
 date: 2024-08-26
 # orig date: 2023-04-22
 weight: 2
-description: "Here are Breaking Changes in Superphysics for 2023"
+description: "Here are Breaking Changes in Superphysics"
 c: "darkslategray"
 # showdate: true
 ---
@@ -13,6 +13,13 @@ These following changes might result to broken links and incoherent content.
 
 
 {{< box >}}
+### 2025
+ | 
+--- | ---
+Dec 5 | Change intermolecular and intramolecular to inter atherspace and intra aetherspace to match Gravity A waves of Bob Lazar
+
+
+
 ### 2024
  | 
 --- | ---

@@ -43,3 +43,9 @@ This is between an ion and a polar molecule.
 
 Example: Na⁺ ions interacting with water molecules in saltwater.
 
+
+
+Polar
+
+Non polar
+
