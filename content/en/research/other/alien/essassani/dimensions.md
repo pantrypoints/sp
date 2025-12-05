@@ -20,4 +20,6 @@ Physical Mind Subconscious | Emotions
 Physical Mind Conscious | Thoughts
 
 
+A dimension is like a country 
 
+A density is like a state within country
