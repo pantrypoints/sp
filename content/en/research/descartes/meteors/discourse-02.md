@@ -11,6 +11,9 @@ icon: "Rene Descartes"
 ---
 
 
+{{< n n="In Material Superphysics, vapors and exhalations are part of the Material Layer as the liquid medium mom2" >}}
+
+
 <!-- This is similar to dust rising from a field when stirred by the feet of a passerby. 
 
 These dust particles are much larger and heavier than the small particles of [air aether?]. 
@@ -114,11 +117,14 @@ When water slips into their pores, the water can often release these earth-aethe
 
 ## Expansion of Water-Vapor from Heat or Agitation
 
-Vapors always occupy much more space than water even if they are made of the same small particles.
+Vapors always occupy much more space than water even if they are made of the same small particles [have more space particles].
 
 Water particles only move strongly enough to bend, intertwine, and slide against each other, as represented at `A`. 
 
-When they become vapor, their agitation is so great that they quickly turn around in all directions and stretch out to their full length.*
+{{< i s="/graphics/physics/airpressure0.jpg" a="Air pressure from Gravity" >}}
+
+
+When they become vapor, their agitation is so great that they quickly turn around in all directions and stretch out to their full length.* [have maximum space particles from heat particles]
 
 {{< i s="/graphics/physics/eels.jpg" a="Eels" >}}
 
@@ -128,7 +134,8 @@ When they become vapor, their agitation is so great that they quickly turn aroun
 
 {{< n n="agitation = more space entering the water, rather the pushing of the heat particles on matter particles give more room for space particles" >}}
 
-{{< i s="/graphics/physics/exhalations.jpg" a="Exhalations" >}}
+
+
 
 This is similar to how, if you spin the pivot `LM` fast enough, cord `NP` will stand in the air, straight and stretched. 
 - It will occupy all the space within the circle `NOPQ`. In this way, bodies within that circle are immediately struck and driven out. 
@@ -141,26 +148,28 @@ However, if you move it slowly, it will coil around the pivot itself. It will no
 These vapors can be:
 - compressed or expanded
 - hot or cold
-- transparent or obscure
+- transparent or opaque
 - humid or dry
 
-When their particles get cooler, they no longer stretch out in a straight line. They begin to bend and contract as shown as `C` and `D`.
+When their particles get cooler, they no longer stretch out in a straight line.
+- They begin to bend and contract as shown as `C` and `D`.
 
 
+<!-- The vapors which compose them are thicker or more tightly packed than when none of these three things occur.  -->
 
 Vapors become denser or more compressed in the 3 scenarios:
 
 1. When the vapors cool down and are compressed as seen near `C` and `D`.
 
-2. When the vapors are between mountains or various winds or under some clouds. 
+2. When the vapors are squeezed between mountains or various winds or under some clouds. 
 - This prevents them from expanding into as much space as their agitation requires.
 - This is also seen at `E`.
 
 3. When they use most of their agitation to move together in the same direction. 
-- And so they no longer spin around as strongly as usual, as seen at `F`.
+- And so they no longer whirl around as strongly as usual, as seen at `F`.
 - Sometimes they emerge from space `E`, generating a wind that blows towards `G`.
 
-{{< i s="/graphics/physics/exhalations.jpg" a="Exhalations" >}}
+{{< i s="/graphics/physics/airpressure.jpg" a="Vapors" >}}
 
 
 <!-- It is clear that the vapors they compose are thicker or denser than when none of these three things occur. -->
@@ -170,30 +179,32 @@ If the vapor that is near `E` is as agitated as that near `B`, then it will be m
 - This is similar to how the heat of glowing iron is much more intense than that of embers or flame.
 
 
-Assuming the vapor at `E` is as agitated as that at `B`. Then it becomes much hotter because its particles are more compressed, and have more force. 
+This is why we often feel a stronger and more stifling heat in summer when the air is calm and equally pressed from all sides to create humidity and rainclouds, than when it is clearer and more serene.
 
-This is similar to how the heat of red-hot iron is much more intense than that of coals or flames. 
+The vapor at `C` is colder than that at `B`, even though its particles are slightly more compressed. 
+- This is because they are much less agitated. [has less heat particles]
 
-This is why we often feel a stronger and more stifling [humid?] heat in summer when the air is calm and equally pressed from all sides as rainclouds, than when it is clearer and more serene [less humid?].
+Conversely, the vapor at `D` is hotter because its particles are much more compressed, but only slightly less agitated [than B]. 
 
 
 
-The vapor at `C` is colder than that at `B`, even though its parts are slightly more compressed. This is because they are much less agitated.
+## Descartes' Non-Brownian Motion Versus Physics Entrainment*
 
-Conversely, the vapor at `D` is hotter because its particles are much more compressed and only slightly less agitated. 
+{{< n n="Descartes wrongly assigns the cause of fast, cool breezes to the lack of agitation from the uniform flow. This is different from the explanation of Physics which is entrainment" >}}
 
-The vapor at `F` is colder than that at `E`, although its particles are not less compressed nor less agitated.
-- This is because they are more aligned in moving in the same direction. 
+The vapor at `F` is colder than that at `E` even if its particles have the same compression and agitation as `E`.
+- This is because they are moving in the same direction. 
 - This prevents them from shaking the small particles of other bodies as much.
-
-This is like how a strong wind that always blows in the same direction does not shake the leaves and branches of a forest as much as a weaker one that is less steady.
+- This is like how a strong wind that always blows in the same direction does not shake the leaves and branches of a forest as much as a weaker one that is less steady.
 
 
 Heat consists in this agitation of the tiny earth-aether particles. 
 
-If you blow hard enough on your fingers held together, the breath coming out of your mouth will seem cold over the top of your hand.
+You can experience this if you blow hard on your fingers held together.
+
+The breath coming out of your mouth will seem cold over the top of your hand.
 - This is because it moves very fast and with even force.
-- This causes little agitation
+- This causes little agitation [low volume of heat particles]
 
 Whereas, you will feel it quite warm between your fingers.
 - This is because it moves more unevenly and slowly agitating their tiny particles more.
@@ -204,4 +215,7 @@ In the same way, we feel our breath is:
 
 This is why:
 - violent winds are cold
-- warm winds are fast
+- warm winds are slow [and chaotic]
+
+<!-- Phyiscs: entrainment cool air is grabbed from the sides
+Descartes: flow does not  -->

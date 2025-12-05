@@ -37,9 +37,12 @@ This is because:
 
 **The air-aether around the air particles moves quite differently from the air-aether particles around the water particles.** 
 
+{{< n n="This is the difference between gas medium and liquid medium" >}}
+
+
 This causes their surfaces to rub against each other, becoming polished. This is similar to 2 hard bodies, except that it happens much more easily and almost instantly.
 
-This is because their particles are not attached to each other. And so, they can arrange themselves as required from the first moment.*
+**This is because their particles are not attached to each other**. And so, they can arrange themselves as required from the first moment.*
 
 {{< n n="The strength of surface tension is from the hardness created by the rubbing of the air-aether in the air and the air-aether in the water. It is easier to penetrate the air from the water than the water from the air" >}}
 
@@ -58,6 +61,9 @@ When the heat of the air is great enough to form salt, it can:
 
 As a result, these salt particles remain floating alone on the surface, as represented around `D`.
 
+{{< i s="/graphics/d/salt.jpg" a="Salt" >}}
+
+
 Being laid lengthwise, they are not heavy enough to sink, just like the steel needles mentioned earlier.
 
 They only cause the surface to bend and curve slightly under them due to their weight, just as those needles do. 
@@ -67,5 +73,7 @@ Thus, the first salt particles, scattered on this surface, create several small 
 The subsequent parts find themselves on the slopes of these pits. These roll and slide towards the bottom, where they join with the first ones.
 
 Wherever they come from, they must lie precisely side by side with these first ones, as you see around E, at least the second ones, and often also the third ones. 
+
+{{< i s="/graphics/d/salt2.jpg" a="Salt" >}}
 
 Through this, they descend somewhat lower than they could if they remained in any other position, like those seen around `F`, `G`, or `H`. The movement of the heat, which always slightly agitates this surface, helps arrange them in this way.

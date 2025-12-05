@@ -19,6 +19,7 @@ n | Source | Error | Reality
 5 | Principia Part 3: 153 | Magnets have 2 opposing channel flow directions | Modern Physics reveals magnets to have 1 flow, from North to Soutn
 6 | Principia Part 4: 77, 79 | Earthquakes are caused by gas explosions in the Earth | Earthquakes are caused by tectonic plates
 7 | Passions: 36 | The feelings come from the pineal gland instead of the heart | The feelings are facilitated by the heart, which are then processed by the pineal gland
+8 | Meteors Discourse 2 | Cool feeling from warm breeze is from the uniform flow of warm air which prevents agitation. | Entrainment causes cool air to go with warm breeze if fast
 
 
 <!-- 4 | Meteors Discourse 8 | Colors are caused by photons turning in different directions. The cause of the error is believing that colors emerge after hitting something. This is a principle in Dioptrique. However, color is inherent information about the source, and not an emergent effect. | Colors are caused by wavelengths -->
