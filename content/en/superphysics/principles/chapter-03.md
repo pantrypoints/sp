@@ -4,7 +4,7 @@ title: "Pre-Existence and the Formless Absolute Entity"
 # Desire and the Two Force Propelled by Feelings
 date: 2020-01-02
 weight: 100
-image: /graphics/super/existence.jpg
+image: /graphics/super/exist.jpg
 description: "Everything in existence is created by the two forces"
 icon: "Superphysics"
 writer:
@@ -55,7 +55,7 @@ Since it is beyond Existence then both **Pre-Existence and the Absolute Entity d
 Since these do not exist we can say that Existence is in a potential state.
 
 - In Hinduism, this is called Nirguna Brahma
-- In Buddhism, this is called Sunyata
+- In Buddhism, this is called Sunyata or Emptiness
 - In Greek philosophy, this is called the One by Parmenides
 
 {{< q a="Buddha" c="Heart Sutra" >}}
@@ -72,7 +72,7 @@ We create such a theoretical state in order to prevent minds from thinking of wh
 
 Therefore, our concept of Pre-Existence serves as an instant “sink” that will positively absorb and nullify that thinking effort (as opposed to a wall which blocks the thinking tendency and is therefore negative).
 
-{{< i s="/graphics/super/existence.jpg" a="Existence" c="The Absolute can be viewed as the holder for Existence, or the central point of Existence, with Existence being the Supreme Entity" >}}
+{{< i s="/graphics/super/exist.jpg" a="Existence" c="The Absolute can be viewed as the holder for Existence, or the central point of Existence, with Existence being the Supreme Entity" >}}
 
 
 {{< q a="Rene Descartes" c="Principia Philosophia Part 1, Article 26" >}}
@@ -96,6 +96,9 @@ It could be a sign that:
 - he has too much time on his hands
 - he has no control of his thoughts or desires, or 
 - his Luna mount on his palm is too strong, etc. 
+
+The usefulness of the idea of Pre-Existence is therefore to **prevent the waste of real time and mental effort** in thinking about what goes on beyond or before Existence.
+- This waste afflicts Theoretical Physics the most.
 
 
 

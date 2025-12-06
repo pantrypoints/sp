@@ -5,7 +5,7 @@ date: 2019-01-01
 weight: 5
 image: /photos/tech/mac.jpg
 description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
-icon: "Superphysics"
+icon: "Juan"
 tags: ["domains"]
 writer:
   name: Juan
@@ -43,13 +43,12 @@ The two are one and the same thing displayed through different attributes:
 
 This means that the mug exists in two domains of reality:
 
-1. The physical mug exists in the physical domain, which we see and touch. 
+1. The *physical* mug exists in the physical domain, which we see and touch. 
   - This mug is made of glass.
 
-2. The metaphysical mug exists in the metaphysical domain, as our idea of what a mug is. 
+2. The *metaphysical* mug exists in the metaphysical domain, as our idea of what a mug is. 
   - This mug-idea is made of aether.
   - Unlike the physical mug which we can see and touch, this aethereal mug-idea can only be perceived by our abstract minds.
-
 
 
 {{< q a="Francis Bacon" c="Nova Organum, Book 2" >}}

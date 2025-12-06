@@ -3,7 +3,6 @@ heading: "Chapter 6"
 title: "Taxation"
 weight: 18
 c: "seagreen"
-
 icon: "Sismondi"
 description: "Quesnay's was the second system in political economy called the 'territorial system' or 'the system of the economists'"
 ---
