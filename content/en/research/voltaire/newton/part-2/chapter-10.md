@@ -2,7 +2,11 @@
 title: "A single ray of light has all possible colors"
 heading: Chapter 10
 description: ""
-c: "firebrick"
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
 weight: 28
 ---
 

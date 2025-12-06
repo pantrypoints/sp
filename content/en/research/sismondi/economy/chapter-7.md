@@ -3,10 +3,11 @@ heading: "Chapter 7"
 title: "Population"
 weight: 20
 c: "seagreen"
-
 icon: "Sismondi"
 description: "Political economists must always take 2 elements together"
 ---
+
+
 
 <!-- We have defined political economy, as being the investigation of the means, by which the greatest number of men in a given state may participate in the highest degree of physical happiness, so far as it depends on government.  -->
 
@@ -113,16 +114,52 @@ Thus respect for the pretended right of properly claimed by each government over
 
 But whilst more than three quarters of the habitable globe are, by the faults of their governments, deprived of the inhabitants they should support, we, at the present day, in almost the whole of Europe, experience the opposite calamity, that of not being able to maintain a superabundant population, which surpasses the proportion of labour required, and which, before dying of poverty, will diffuse its sufferings over the whole class of such as live by the labour of their hands. 
 
-For our part, we owe this calamity to the imprudent zeal of our governments. With us, religious instruction, legislation, social organization, every thing has tended to produce a population, the existence of which was not provided for beforehand. The labour was not adjusted to the number of men; and, frequently, the same zeal with which it was attempted to multiply the number of births, was afterwards employed, in all arts, to diminish the required number of hands. The proportion which should subsist in the progress of the different departments of society has been broken, and the suffering has become universal.
+For our part, we owe this calamity to the imprudent zeal of our governments.
 
-Mr Malthus, the first writer who awakened public attention to this calamity under which nations have long suffered, without knowing it, whilst he gave an alarm to legislators, did not reach the true principles which he seemed on the road to find. On reading his writings, one is stuck at once with an essential error in his reasoning, and with the importance of the facts to which he appeals. Such confusion, in a matter to which the happiness of man is attached, may produce the most fatal consequences. By rigorously applying principles deficient in accuracy, the most grievous errors may be committed; and if, on the other hand, the error is discovered, there is a risk of simultaneously rejecting both the observations and the precepts.
+With us, religious instruction, legislation, social organization, every thing has tended to produce a population, the existence of which was not provided for beforehand. The labour was not adjusted to the number of men; and, frequently, the same zeal with which it was attempted to multiply the number of births, was afterwards employed, in all arts, to diminish the required number of hands. The proportion which should subsist in the progress of the different departments of society has been broken, and the suffering has become universal.
 
-Mr Malthus established as a principle that the population of every country is limited by the quantity of subsistence which that country can furnish. This proposition is true only when applied to the whole terrestial globe, or to a country which has no possibility of trade; in all other cases, foreign trade modifies it; and, farther, which is more important, this proposition is but abstractly true, - true in a manner inapplicable to political economy. Population has never reached the limit of subsistence, and probably it never will. Long before the population can be arrested by the inability of the country to produce more food, it is arrested by the inability of the population to purchase that food, or to labour in producing it.
+Malthus was the first to awaken public attention to this calamity.
 
-The whole population of a state, says Mr Malthus, may be doubled every twenty-five years; it would thus follow a geometrical progression= but the labour employed to meliorate a soil, already in culture, can add to its produce nothing but quantities continually decreasing. Admitting that, during the first 25 years, the produce of land has been doubled, during the second we shall scarcely succeed in compelling it to produce a half more, then a third more, then a fourth.
+But he:
+- gave an alarm to legislators
+- did not reach the true principles he was seeking
 
-Thus the progress of subsistence will not follow the geometrical, but the arithmetical progression; and, in the course of two centuries, whilst the population increases, as the numbers, 1. 2, 4, 8, 16, 32, 64, 128, subsistence will increase not faster than the numbers, 1, 2, 3, 4, 5, 6, 7, 8.
+His reasoning has an essential error.
 
-This reasoning, which serves as a basis to the system of Mr. Malthus, and to which he incessantly appeals, through the whole course of his book, is completely sophistical. It opposes the possible increase of the human population, considered abstractly, and without regarding circumstances, to the positive increase of animals and vegetables in a confined place, under circumstances more and more unfavourable. 
+Such confusion, in a matter to which the happiness of man is attached, may produce the most fatal consequences. 
+
+By rigorously applying principles deficient in accuracy, the most grievous errors may be committed.
+
+If the error is discovered, there is a risk of simultaneously rejecting both the observations and the precepts.
+
+He established as a principle that the population of every country is limited by the quantity of food which that country can furnish.
+
+This is true only when applied to:
+- the whole globe, or
+- a country which has no trade
+
+In all other cases, foreign trade modifies it.
+
+<!-- More importantly, this proposition is but abstractly true, - true in a manner inapplicable to political economy.  -->
+
+The truth is that a population has never reached the limit of subsistence, and probably it never will.
+
+**Long before the population can be arrested by the inability of the country to produce more food, it is arrested by the inability of the population to purchase that food, or to labour in producing it.**
+
+Malthus says that the whole population of a state may be doubled every 25 years, following a geometrical progression.
+
+But the labour employed to meliorate a soil, already in culture, can add to its produce nothing but quantities continually decreasing. 
+
+During the first 25 years, the produce of land has been doubled.
+
+In the second we shall scarcely succeed in compelling it to produce a half more, then a third more, then a fourth.
+
+Thus the progress of subsistence will not follow the geometrical, but the arithmetical progression.
+
+After 2 centuries, whilst the population increases, as the numbers, 1. 2, 4, 8, 16, 32, 64, 128, subsistence will increase not faster than the numbers, 1, 2, 3, 4, 5, 6, 7, 8.
+
+But I argue that this is completely sophistical.
+
+It opposes the possible increase of the human population, considered abstractly, and without regarding circumstances, to the positive increase of animals and vegetables in a confined place, under circumstances more and more unfavourable. 
 
 They should not be compared. 

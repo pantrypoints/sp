@@ -17,13 +17,27 @@ It is exactly of the same nature with the advances in wages and raw material lai
 
 The capital it should replace is also composed of material objects, destined for consumption, and incessantly renewed. Money serves but to represent it, and always forms the smallest part of each merchant's funds.
 
-We have supposed the cloth-maker to possess 100,000 l.; but, it half this sum is employed in fixed capitals, it will be sufficient, if his sale amount weekly to 1200 l. to give him, in the shape of interest and profit, 20% on his circulating capital, and to allow 1000 l weekly, in money, to maintain an annual production of 60,000 l.; so that he never possesses in cash more than the fiftieth part of his circulating capital.
+I have supposed the cloth-maker to possess 100,000 l.
 
-An increase of the national capitals is the most powerful encouragement of labour; either because this augmentation presupposes an augmentation of income, and, consequently, of means of consumption; or because these capitals, not being profitable to their proprietor, except as they are employed, each capitalist incessantly endeavours to create new production by their means. 
+But, it half this sum is employed in fixed capitals, it will be sufficient, if his sale amount weekly to 1200 l. to:
+- give him, in the shape of interest and profit, 20% on his circulating capital
+- allow 1000 l weekly, in money, to maintain an annual production of 60,000 l.
 
-In distributing them to his workmen, he gives to those workmen revenue which enables them to purchase and consume the preceding year's production; and he sees those capitals return increased by the revenue, which he is to expect from them in the following year's production. But though he distributes and afterwards recovers them, by means of the circulating medium, which serves for all exchanges, it is not the circulating medium which forms the essential requisite in his operation. 
+In this way, he never has in cash more than 1/50 of his circulating capital.
 
-The same cloth-maker, labouring each year on an equal quantity, sends 2400 pieces of cloth to the market, which have been valued at 60,000 l. or 25 l. a piece. He exchanges 400 pieces for such objects of consumption as are needed to supply the wants, the enjoyments, the luxuries of himself and family. He exchanges 2000 pieces for the raw materials, and the labour which, within the year, are to re-produce an equal quantity; and thus next year, and every following year, he will have, as before, 2400 pieces to exchange on the same conditions. His capital, equally with his revenue, is actually in cloths, not in money; and the perpetual result of his commerce is to exchange cloth against cloth.
+An increase of the national capitals is the most powerful encouragement of labour because:
+- it presupposes an augmentation of income and, consequently, of means of consumption
+- these capitals, not being profitable to their proprietor, except as they are employed, each capitalist incessantly endeavours to create new production by their means. 
+
+In distributing them to his workers, he gives to those workers revenue which enables them to purchase and consume the preceding year's production; and he sees those capitals return increased by the revenue, which he is to expect from them in the following year's production. 
+
+But though he distributes and afterwards recovers them, by means of the circulating medium, which serves for all exchanges, it is not the circulating medium which forms the essential requisite in his operation. 
+
+The same cloth-maker, labouring each year on an equal quantity, sends 2400 pieces of cloth to the market, which have been valued at 60,000 l. or 25 l. a piece. 
+
+He exchanges 400 pieces for such objects of consumption as are needed to supply the wants, the enjoyments, the luxuries of himself and family. He exchanges 2000 pieces for the raw materials, and the labour which, within the year, are to re-produce an equal quantity.
+
+Thus next year, and every following year, he will have, as before, 2400 pieces to exchange on the same conditions. His capital, equally with his revenue, is actually in cloths, not in money; and the perpetual result of his commerce is to exchange cloth against cloth.
 
 If the consumption of cloth is increased, if by this means his trade, in place of comprehending 2400 pieces annually, comprehends 3000, more labour will, no doubt, be ordered by him, and executed by his workmen; but if the money alone is increased, and not the consumption or the income which determines it, labour and production cannot increase. Let us take separately each one of his customers, as he calls them.
 
@@ -89,7 +103,9 @@ It was by discount on such of the proceeds of trade as were payable at long date
 
 Governments, on their side, imagined that in banks they had found an open mine, from which they might draw at discretion. At each new season of need, they stuck new bank-notes. But they soon perceived, with astonishment, that notes were no longer received with the same confidence, and were speedily carried back to the bank for payment; and next, as their custom generally is, they substituted their authority for the nature of things. They refused payment on demand, but they ordered each citizen to receive as ready coin, those notes which had thus become paper money; and they authorised every debtor to pay his accounts with it.
 
-The circulation of paper money became, in a short time, nothing less than a general bankruptcy. Notwithstanding all the orders of government, paper fell every day in its proportion to silver or to goods. The bearers of it, feeling that they had no pledge for the values, the sign of which they were always presenting, dreaded lest the paper should undergo a new deterioration in their hands, and made haste to get rid of it. Each lost and caused loss, each having no longer any common measure of value, became unable to distinguish the gain from the loss of his bargain, and always selling with advantage, he ended in ruin. During this time, coin disappeared, goods themselves were exported from the country, without giving any return; and the expedient, which promised to create immense wealth, produced nothing but ruin and confusion.
+The circulation of paper money became, in a short time, nothing less than a general bankruptcy. Notwithstanding all the orders of government, paper fell every day in its proportion to silver or to goods. 
+
+The bearers of it, feeling that they had no pledge for the values, the sign of which they were always presenting, dreaded lest the paper should undergo a new deterioration in their hands, and made haste to get rid of it. Each lost and caused loss, each having no longer any common measure of value, became unable to distinguish the gain from the loss of his bargain, and always selling with advantage, he ended in ruin. During this time, coin disappeared, goods themselves were exported from the country, without giving any return; and the expedient, which promised to create immense wealth, produced nothing but ruin and confusion.
 
 A fatal error had led to all these misfortunes.
 
@@ -116,4 +132,3 @@ Money is imported and exported from one nation to another, not because it pays t
 But as the emission of any sum in bank notes, supplies the place of an equal sum of money, the latter is immediately withdrawn from circulation, and sold in foreign countries. 
 
 So long as there remains any coin to be exported, credit may repeat its operation and create new bank notes; when there is no more coin to export, the paper money, will, of itself, diminishing in value, seek the proper equation; and to whatever nominal sum its fabrication may be carried, it will never sell, in the total amount, for any thing more than the pre-existing total amount of money which it replaces.
-

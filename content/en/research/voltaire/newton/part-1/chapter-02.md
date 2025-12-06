@@ -2,8 +2,11 @@
 title: "On Space and Time as Properties of God"
 heading: Chapter 2
 description: ""
-c: "firebrick"
-# a: "Voltaire"
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
 weight: 9
 ---
 

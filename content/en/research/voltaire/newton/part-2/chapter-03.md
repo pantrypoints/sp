@@ -2,7 +2,11 @@
 title: "God: Reasons not appreciated by all minds. Reasons of the materialists."
 heading: Chapter 3
 description: ""
-c: "firebrick"
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
 weight: 9
 ---
 

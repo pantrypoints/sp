@@ -2,7 +2,11 @@
 heading: Chapter 3
 title: "Gravitation demonstrated by the discoveries of Galileo and Newton"
 description: ""
-c: "firebrick"
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
 ---
  
 

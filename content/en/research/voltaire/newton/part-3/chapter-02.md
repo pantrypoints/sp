@@ -2,7 +2,11 @@
 heading: Chapter 2
 title: "Descartes' vortices and the plenum are impossible"
 description: ""
-c: "firebrick"
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
 ---
 
 <!-- , and that consequently there is another cause of gravity. — Proofs of the impossibility of vortices. Proofs against the plenum. -->

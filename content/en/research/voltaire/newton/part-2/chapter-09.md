@@ -2,7 +2,11 @@
 title: "What Cauases Refraction?"
 heading: Chapter 9
 description: ""
-c: "firebrick"
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
 weight: 9
 ---
 

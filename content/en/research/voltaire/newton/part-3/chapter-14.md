@@ -2,7 +2,11 @@
 title: "Attraction acts in all operations of nature"
 heading: Chapter 14
 description: ""
-c: "firebrick"
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
 weight: 28
 ---
 

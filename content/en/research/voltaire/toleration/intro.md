@@ -1,7 +1,11 @@
 ---
 title: "The Death Of Jean Calas"
 description: "Works of Voltaire"
-c: "firebrick"
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
 icon: "Voltaire"
 draft: true
 ---

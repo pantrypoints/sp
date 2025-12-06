@@ -1,7 +1,11 @@
 ---
 title: "Voltaire"
 description: "Works of Voltaire"
-c: "firebrick"
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
 a: "Voltaire"
 ---
 

@@ -1,21 +1,24 @@
 ---
-title: "The Death Of Jean Calas"
+heading: Chapter 7
+title: "The Questions Of Zapata"
 description: "Works of Voltaire"
-c: "firebrick"
-icon: "Voltaire"
-draft: true
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
+weight: 52
 ---
 
 
-THE QUESTIONS OF ZAPATA
 
 The licentiate Zapata, being appointed Professor of Theology at the University of Salamanca, presented these questions to a committee of doctors in 1629. They were suppressed. The Spanish copy is in the Brunswick Library.
 
 Wise Masters:
 
-1º. How ought I to proceed with the object of showing that the Jews, whom we burn by the hundred, were for four thousand years God’s chosen people?
+1. How should I show that the Jews, whom we burn by the hundred, were God’s chosen people for 4,000 years?
 
-2º. How could God, whom one cannot without blasphemy regard as unjust, forsake the whole earth for the little Jewish tribe, and then abandon this little group for another, which, during two hundred years, was even smaller and more despised?
+2. How could God, whom one cannot without blasphemy regard as unjust, forsake the whole earth for the little Jewish tribe, and then abandon this little group for another, which, during two hundred years, was even smaller and more despised?
 
 3º. Why did he perform a number of incomprehensible miracles in favour of this miserable nation before the period which is called historical? Why did he, some centuries ago, cease to perform them? And why do we, who are God’s people, never witness any?
 
@@ -168,5 +171,3 @@ y verdadero, y honrado,
 y caricativo.
 
 Zapata, receiving no answer, took to preaching God in all simplicity. He announced to men the common father, the rewarder, punisher, and pardoner. He extricated the truth from the lies, and separated religion from fanaticism; he taught and practised virtue. He was gentle, kindly, and modest; and he was burned at Valladolid in the year of grace 1631. Pray God for the soul of Brother Zapata.
-
-

@@ -2,7 +2,11 @@
 title: "The freedom in man"
 heading: Chapter 4
 description: ""
-c: "firebrick"
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
 weight: 9
 ---
 

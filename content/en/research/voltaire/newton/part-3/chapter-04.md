@@ -2,7 +2,11 @@
 heading: Chapter 4
 title: "Gravitation and attraction direct all the planets in their courses."
 description: ""
-c: "firebrick"
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
 ---
 
  

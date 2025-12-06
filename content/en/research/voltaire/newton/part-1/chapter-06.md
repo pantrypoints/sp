@@ -2,7 +2,11 @@
 title: "The soul and how it is united to the body and receives its ideas."
 heading: Chapter 6
 description: ""
-c: "firebrick"
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
 # a: "Voltaire"
 weight: 9
 ---

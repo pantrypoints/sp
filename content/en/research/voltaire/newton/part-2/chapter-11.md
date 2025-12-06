@@ -2,7 +2,11 @@
 title: "How the Rainbow is an effect of the laws of refrangibility"
 heading: Chapter 11
 description: ""
-c: "firebrick"
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
 weight: 28
 ---
 

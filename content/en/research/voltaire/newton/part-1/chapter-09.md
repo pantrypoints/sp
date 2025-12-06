@@ -2,7 +2,11 @@
 title: "The active force that sets motion in the universe"
 heading: Chapter 9
 description: ""
-c: "firebrick"
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
 weight: 9
 ---
 

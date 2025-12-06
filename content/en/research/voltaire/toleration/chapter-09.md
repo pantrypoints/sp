@@ -1,13 +1,15 @@
 ---
-title: "The Death Of Jean Calas"
+title: "Poem On The Lisbon Disaster"
 description: "Works of Voltaire"
-c: "firebrick"
-icon: "Voltaire"
-draft: true
+c: firebrick
+writer:
+  name: Voltaire
+  url: https://en.wikipedia.org/wiki/Voltaire
+icon: Voltaire
+weight: 100
 ---
 
 
-POEM ON THE LISBON DISASTER;
 
 Or an Examination of the Axiom, “All is Well”
 Unhappy mortals! Dark and mourning earth!
@@ -35,7 +37,7 @@ Than London, Paris, or sunlit Madrid?
 In these men dance; at Lisbon yawns the abyss.
 Tranquil spectators of your brothers’ wreck,
 
-[256]
+
 Unmoved by this repellent dance of death,
 Who calmly seek the reason of such storms,
 Let them but lash your own security;
@@ -100,6 +102,7 @@ With lightning rends and fires the sturdy oak,[258]
 They have no feeling of the crashing blows;
 But I, I live and feel, my wounded heart
 Appeals for aid to him who fashioned it.
+
 Children of that Almighty Power, we stretch
 Our hands in grief towards our common sire.
 The vessel, truly, is not heard to say:
@@ -168,6 +171,7 @@ Or else this formless stuff, recalcitrant,
 Bears in itself inalienable faults;
 Or else God tries us, and this mortal life
 Is but the passage to eternal spheres.
+
 ’Tis transitory pain we suffer here,
 And death its merciful deliverance.
 Yet, when this dreadful passage has been made,
@@ -176,6 +180,7 @@ Whatever side we take we needs must groan;
 We nothing know, and everything must fear.
 Nature is dumb, in vain appeal to it;
 The human race demands a word of God.
+
 ’Tis his alone to illustrate his work,
 Console the weary, and illume the wise.
 Without him man, to doubt and error doomed,
@@ -184,9 +189,10 @@ From Leibnitz learn we not by what unseen
 Bonds, in this best of all imagined worlds,
 Endless disorder, chaos of distress,
 Must mix our little pleasures thus with pain;
-Nor why the guiltless suffer all this woe[261]
+Nor why the guiltless suffer all this woe
 In common with the most abhorrent guilt.
 ’Tis mockery to tell me all is well.
+
 Like learned doctors, nothing do I know.
 Plato has said that men did once have wings
 And bodies proof against all mortal ill;
@@ -198,6 +204,7 @@ This frail construction of quick nerves and bones
 Cannot sustain the shock of elements;
 This temporary blend of blood and dust
 Was put together only to dissolve;
+
 This prompt and vivid sentiment of nerve
 Was made for pain, the minister of death:
 Thus in my ear does nature’s message run.
@@ -210,7 +217,8 @@ Like that blind conqueror of Philistines,
 He sinks beneath the ruin he has wrought.[76]
 What is the verdict of the vastest mind?
 Silence: the book of fate is closed to us.
-Man is a stranger to his own research;[262]
+
+Man is a stranger to his own research;
 He knows not whence he comes, nor whither goes.
 Tormented atoms in a bed of mud,
 Devoured by death, a mockery of fate.
@@ -222,6 +230,7 @@ This world, this theatre of pride and wrong,
 Swarms with sick fools who talk of happiness.
 With plaints and groans they follow up the quest,
 To die reluctant, or be born again.
+
 At fitful moments in our pain-racked life
 The hand of pleasure wipes away our tears;
 But pleasure passes like a fleeting shade,
