@@ -1,6 +1,6 @@
 ---
 title: "New Principles of Political Economy"
-heading: "7 Chapters"
+# heading: "7 Chapters"
 description: "by J.C.L. Simonde de Sismondi (1815)"
 c: "seagreen"
 a: "Sismondi"

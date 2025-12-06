@@ -45,7 +45,7 @@ Example: Na⁺ ions interacting with water molecules in saltwater.
 
 
 
-Polar
+<!-- Polar
 
 Non polar
-
+ -->

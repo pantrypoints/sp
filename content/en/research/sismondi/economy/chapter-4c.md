@@ -3,9 +3,8 @@ heading: "Chapter 4c"
 title: "Protectionist Policies"
 weight: 16
 c: "seagreen"
-a: "Sismondi"
 icon: "Sismondi"
-description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
+description: "The prohibitive system of custom-house duties plainly gives to a growing manufactory an advantage equivalent to the largest bounty. Perhaps this manufactory scarcely produces the hundredth part of what the nation consumes of such commodities"
 author: ['Sismondi']
 ---
 

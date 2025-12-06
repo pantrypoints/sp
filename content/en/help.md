@@ -15,6 +15,8 @@ You can help by:
   - [https://superphysics.org](https://superphysics.org). This is the theoretical aspect
 - clicking the ads on this website, to give us a tiny ad revenue
 <!-- - going to [pantrypoints.com](https://pantrypoints.com) and submitting a contact form under 'Join the Change' -->
+- telling us of unexplained phenomena so we can explain it using Superphysics
+  - We solved the Buga Sphere and Comet 3I Atlas by being asked about them
 - referring organizations, universities, or volunteers who might be interested. At the moment, we have volunteers in the following cities where we have tested our system:
   - Hanoi
   - Ho Chi Minh City

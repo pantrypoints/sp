@@ -1,278 +1,89 @@
 ---
 heading: "Chapter 1f"
-title: "Idea, Mind, and Life"
+title: "The 4 Rules of Motion"
 date: 2024-12-28
 # 2020-01-04
 weight: 15
-image: /graphics/super/waves.jpg
-description: "Reality has 3 Operational Divisions"
+image: /photos/physics/blow.jpg
+description: "There are 4 Rules of Motion based on the 4 Properties of Waves"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 aliases:
-  /superphysics/principles/mind
+  /motion
 ---
 
 
 
-Chapter 1b explained how gaps between crude waves are filled with subtler waves in order to eliminate and Voids in Nature.
+The 4 Rules of Motion are the implementing rules of the Law of Conservation of Momentum which operates on the Spatial Layer, to be explained in Chapter 5.
 
-In some areas, many waves intersect from various angles to create nodes. These acquire characteristics that are different from waves and become ideas.
-- Waves are feelings and forces or 'bosons'
-- Nodes are ideas and particles or 'fermions'
+These 4 Rules match the 4 properties of waves. 
 
-{{< i s="/graphics/super/waves.jpg" a="Waves and Nodes" >}}
+<!-- Movement in physical space comes from space particles of the Air Element which Material Superphysics calls the Spatial Layer. Since space is made up of waves, as seen in gravitational waves, then the 4 properties of waves manifest as the 4 Rules of Motion as explained by Descartes and Spinoza. -->
 
+## Rule 1: No Void
 
-## Diversity of Waves
+> No identity moves into the place of another body unless at the same time that other body moves into the place of another identity.
 
-Simple ideas have a few intersecting waves, whereas complex ideas have a lot especially if those waves come from diverse angles. 
+Science | Description
+--- | ---
+Bio Superphysics | movement of liquids in the body as explained by Galen
+Material Superhysics | gravity effects from virtual space particles
+Social Superphysics | Jig-society model where everyone is a piece in the jigsaw of society
+Supermath | This manifests as the action of addition
 
-This is why diversity is the law of Nature. 
 
-{{< q a="PR Sarkar" c="Ananda Sutram" >}}
-Diversity is the inherent tendency of the Supreme Operative Principle.
-{{< /q >}}
+<!-- This is the most important rule as it also manifests in Biology. -->
 
+## Rule 2: Straight or Circular
 
+> Every moving identity moves in a straight line when alone, and in a curve or a circle when moving with others. When in a circle, it moves away from the center.
 
-The violation of diversity has resulted in:
-- the collapse of Communism
-- the decline of Japan and South Korea which are against foreign immigrants
+This leads to spin and vortex rotation, producing fractal patterns. 
 
-The encouragement of diversity has resulted in the growth and strength of the United States and Europe. 
+Science | Description
+--- | ---
+Bio Superphysics | This manifests as the helix-shape of the DNA or RNA
+Material Superhysics | This manifests as particle spin, galaxy rotation, and BAOs
+Social Superphysics | This manifests as political system and its leadership structure -- a circular society is more cohesive and has better leadership
+Supermath | This manifests as the action of division
 
-<!-- We attribute the chaos in ethnically diverse countries such as  -->
 
-India was also ethnically diverse, but had a disadvantage as Vedic dogma which violated the dynamic diversity by instituting the rigid caste system.
+## Rule 3: Collisions
 
-This belief system stifles the natural dynamics of waves, making them more crude and static, leading to many social problems. 
+> When a weaker identity hits a stronger, it will be deflected. When a stronger hits a weaker, it will transfer some of its force to the weaker
 
+This emphasizes the phenomenon of balance and natural limits. 
 
-## How the Non-Living Gains Life 
 
-Life is an effect of the Positive Force just as non-life is an effect of the Negative.
+Science | Description
+--- | ---
+Bio Superphysics | This manifests as the interactions between organisms as symbiosis or predation
+Material Superhysics | This manifests force, impact, and chemical reactions
+Social Superphysics | This manifests as the conflicts or harmonies within a society
+Supermath | This manifests as the action of subtraction
 
-As a physical thing becomes more complex, it naturally becomes larger and develops gaps.
-- These gaps need to be filled by the subtler waves until they form a subtle node in a larger crude node.
 
-This becomes a simple mind in a physical organism as a living thing. 
 
-Therefore:
-- a physical thing is a large node made up of crude waves
-- a living mind is a large node made up of subtle waves 
+## Rule 4: State Continuity
 
-Crude waves that bunch up together become nodes that manifest as crude ideas.
-- Further crudification will eventually turn them into physical things. 
+> Each identity remains as much as it can always in the same state. It is never changed except by external causes.
 
-Subtle waves that bunch up together become nodes that manifest as living minds.
-- The crudification of these will eventually turn them into living beings. 
+This is the concept of inertia in Physics.
 
+Science | Description
+--- | ---
+Bio Superphysics | This manifests as the growth pattern or sequence in organisms and the impact of the environment
+Material Superhysics | This manifests force, impact, and chemical reactions
+Social Superphysics | This manifests as the conflicts or harmonies within a society
+Supermath | This manifests as the action of multiplication
 
-Perception occurs when these nodes of minds interact with each other and with other nodes as ideas or things. 
 
-A crude node gets perceptions as proven by its subsequent reactions to stimuli.
-- For example, a rock reacts to light to reflect it so that it can be seen.
 
-But since the crude node has no flexible subtle waves, it is very limited in its expressive ability. 
-- The rock can only express the light it encounters by bouncing it off as a specific color.
+Rules 1 and 4 are related to each other just as Rule 2 and 3 are related. 
 
-A living node, as a physical organism, on the other hand, can express more since it has subtler and more flexible waves.  
-- For example, a bacteria can react to light by moving away from it, aside from reflecting it.
-
-<!-- Life begins at a material node that gets more and more complex. This opens up gaps in it that needs  -->
-
-<!-- A perceiving mind within that Supreme Mind is also a disturbance, as a node, that encounters other disturbances.  -->
-
-
-
-## Spinning Vortices
-
-Cartesian Physics calls nodes as spinning vortices, and idea from Anaxagoras that mirrors the Hindu idea of chakras. 
-
-{{< q a="Rene Descartes" c="Principia Philosophia, Part 3" >}}
-The Earth and the other planets are carried along by a common vortex, with the Sun at its center and move in the motion of the vortex.
-{{< /q >}}
-
-{{< q a="Leucippus" >}}
-The elements, and the worlds which are derived from them, are infinite, and are dissolved again into them.
-
-The worlds are produced in this way: many bodies, of various kinds and shapes, are separated from the infinite, into a vast vacuum.
-
-They are then collected together, produce one vortex.
-
-This makes them dash against one another, and whirling around in every direction.
-
-This separates them so that like attaches to like.
-
-The soon stop spinning because:
-- they are all of equal weight
-- they are so plentiful
-
-The thin ones depart into the outer vacuum, as if they bounded through.
-
-The others remain behind, becoming entangled with one another. 
-
-They run together and produce a spherical shape.
-
-This subsists as a kind of membrane, containing within itself bodies of every kind.
-
-These whirl around, revolving according to the resistance of the centre.
-
-The circumambient membrane becomes thin, since bodies are without ceasing, uniting according to the impulse given by the vortex.
-
-In this way, the earth is produced, since these bodies which have once been brought to the centre remain there.
-
-On the other side, there is produced another enveloping membrane which increases incessantly by the accretion of exterior bodies.
-
-As it is itself animated by a circular movement, drags with it, and adds to itself, everything it meets with.
-
-Some of these bodies thus enveloped re-unite again and form compounds, which are at first moist and clayey, but soon becoming dry, and being drawn on in the universal movement of the circular vortex, they catch fire, and constitute the substance of the stars. 
-{{< /q >}}
-
-
-
-
-In a metaphysical view, everything is a vortex:
-- The vortices in cells are the DNA
-- The vortices in galaxies are their singularity
-- The vortices in stars and planets are their core
-- The vortices in matter are the gluon field in the proton
-
-
-{{< i s="/graphics/physics/exist.jpg" a="Vortex" c="A consciouness 'hole' becomes a 'vortex' when Existence is activated and ideas flow" >}}
-
-This is consistent with Plato's description of mind:
-
-{{< q a="Athenian" c="The Laws by Plato, Book 10" >}}
-The thing that moves in one place moves around a centre like globes made in a lathe. **This is most entirely akin to the circular movement of mind.** The motion of the mind is like the motion of a globe. It does not move in a linear way. 
-{{< /q >}}
-
-
-
-## Reality as a Metaphysical Structure that Collapses into Physicality
-
-Each node is made up of waves that interact with the waves that make up other nodes. 
-
-- Crude waves affect crude waves
-- Subtle waves affect both crude and subtle waves
-
-The different mix of crude and subtle in each node dictate which nodes they will react to, or what they will perceive
-
-- Crude nodes perceive crude nodes
-- Subtle nodes perceive subtle nodes by default, but can choose to perceive crude nodes due to the superiority of the subtle. 
-
-The perception-relation between crude-crude and subtle-subtle leads to a relational structure that we call a reality. 
-
-It means that a reality is a match of waves in the Perception Space mentioned in the previous section. 
-
-So we define reality as **a metaphysical structure that forms from the waves emanated by nodes or vortices impacting each other**.
-
-This metaphysical structure collapses into physical reality when converted by the Physical Domain. This is consistent with Quantum Mechanics. 
-
-It follows that there is more than one reality, since a node or vortex is made up of so many waves with varying qualities. 
-
-
-{{< i s="/graphics/meta/er.jpg" a="ER Diagram" c="A reality is a the metaphysical structure created by the relations between entities. This is consistent with our description of Existence as a virtual reality system" >}}
-
-
-
-### Alternate Realities and the Multiverse
-
-This leads to the concept of alternate realities within the Perception Space.
-
-A universe is a structure that extends actual reality into a potential reality 
-
-```
-Reality = Node 1 : Node 2
-
-Universe = Actual Reality + Potential Reality
-```
-
-Note how this definition of reality and universe are perception-based which ultimately is mind-based. 
-
-Crude minds cannot perceive subtle minds, but subtle minds can perceive both subtle and crude minds. 
-
-This allows alternate realities and other universes -- we only perceive our own universe because the nodes in this universe match our own mental waves.
-
-```
-Reality A = Node 1A : Node 2A
-Reality B = Node 1B : Node 2B
-Reality C = Node 1C : Node 2C
-
-Universe A = Node 1Aa : Node 2Aa
-Universe B = Node 1Ab : Node 2Ab
-Universe C = Node 1Ac : Node 2Ac
-```
-
-An alternate reality needs a slight modification in wave quality, but a diferent universe needs a more drasttic modificiation. 
-
-Alternate realities are in the same universe. But different universes are in a single Existence, as Existence Space.
-
-
-
-<!-- Gödel’s Incompleteness Theorem just means reality is open ended. 
-
-Al khwarizmi's algorithm just means finding the optimum distribution of an estate according to law. 
-
-So if the law is open ended then the algorithm is open ended.
-
-It means the algorithm gives different answers each time. 
-
-This is still consistent with multiverse theory. 
-
-Faizal et al merely prove they don't know what they're talking about.  -->
-
-
-
-## A Richer Reality Has More Diversity; The Goal of Existence
-
-The previous section explained that the base of Existence is the possibility of having disturbances. 
-
-We can say that reality is when those disturbances actually occur and perceived by us. 
-
-A richer reality-perception therefore is made up of multiple waves of disturbance hitting a disturbance that is also more complex than others. 
-
-
-{{< i s="/graphics/super/reality.svg" a="Waves" c="" >}}
-
-Having no perception is perceiving no disturbance and therefore no mind, rather the mind is in potential form. 
-
-Empty space has no nodes or few disturbances, while a rich galaxy has a lot of them. 
-
-The purpose of Existence is to go back to pure Existence where there we no disturbances by getting a flat wave. This means finding the flatness from all the disturbance.
-- The Abolute Entity is flat Existence. 
-- The Supreme Entity is disturbed Existence. 
-
-Our experience of reality is a small portion of all the disturbances in the aether. Physical reality is a crudified version of this aether. 
-
-The distubances are caused by 2 Forces of Positive and Negative. Free will and spirit is associated with the Positive. Determinism and force is associated with the Negative. 
-
-So free will depends on the state of the level of influence:
-- Higher dimensions have more free will
-- Lower dimensions have less free will
-
-
-
-<!-- Life is an effect of the Positive Force and is real. It is physical reality that is an illusion.  -->
-
-
-## Defintions: Idea, Reality, Alternate Reality, Life, Perception
-
-**Substance** is the raw material of Existence. This is purely theoretical.
-
-**Metaphysical Wave** is substance getting dynamism from the 2 Forces.  
-
-**Aether** is dynamic substance deployed in Existence. This is semi-practical and semi-theoretical.
-
-An **idea** is a discrete metaphysical object, as a node in the aether.
-
-**Reality** is the structure of perception-relations between nodes.
-
-**Alternate Reality** is the parallel structure of perception-relations between nodes that coexists with the current reality.
-
-**Life** is the state where a mind can express independently of the physical aspects of the universe, by having more subtle waves from the Positive Force.
-
-**Perception** is the reaction of a node through its configuration which has some affinity to the incoming wave-feeling or idea-object.
+We call:
+- Rules 1 and 4 as feminine
+- Rules 2 and 3 as masculine
 

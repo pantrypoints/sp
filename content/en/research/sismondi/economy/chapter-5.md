@@ -3,7 +3,7 @@ heading: "Chapter 5"
 title: "Money"
 weight: 16
 c: "seagreen"
-a: "Sismondi"
+
 icon: "Sismondi"
 description: "Quesnay's was the second system in political economy called the 'territorial system' or 'the system of the economists'"
 ---
@@ -42,11 +42,19 @@ Wealth only increases after money has left the hands of its possessor.
 
 Money is also the pledge of wealth, as its worth. 
 
-Like wealth, it has been produced by a labour which it wholly compensates. In work and advances of all sorts employed in extracting it from the mine, it has cost a value equal to what it passes for in the world. It furnishes to trade a commodity which is expensive; because purchased like every other, it is the sole kind of wealth which is not increased by circulation, or dissipated by enjoyment. It issues, still without alteration from the hands of him who employs it usefully, and of him who squanders it upon his pleasures. But the high price at which society acquires money, though at first view it appears an inconvenience, is precisely what gives it the merit of being an imperishable pledge for its possessors. As its value was not given by arbitrary convention, arbitrary convention cannot take its value away. It may be more or less sought after according as it occurs more or less abundantly in the market; but its price can never deviate very far from what would be required to extract an equal quantity from the mine.
+Like wealth, it has been produced by a labour which it wholly compensates. In work and advances of all sorts employed in extracting it from the mine, it has cost a value equal to what it passes for in the world.
+
+It furnishes to trade a commodity which is expensive; because purchased like every other, it is the sole kind of wealth which is not increased by circulation, or dissipated by enjoyment. 
+
+It issues, still without alteration from the hands of him who employs it usefully, and of him who squanders it upon his pleasures. But the high price at which society acquires money, though at first view it appears an inconvenience, is precisely what gives it the merit of being an imperishable pledge for its possessors. 
+
+As its value was not given by arbitrary convention, arbitrary convention cannot take its value away. It may be more or less sought after according as it occurs more or less abundantly in the market; but its price can never deviate very far from what would be required to extract an equal quantity from the mine.
 
 Money, in the last place, is a common measure of values. 
 
-Before the invention of money, it must have been very difficult to compare the value of a bag of corn with that of a yard of cloth. Dress was equally necessary with food; but the processes by which men procured them, seemed scarcely susceptible of being compared. Money has furnished a common and invariable unity to which every thing can be referred. Nations, who are not acquainted with the use of metals, have, nevertheless, so felt the advantages of this common measure that they have formed an ideal unity, to which they refer every kind of value.
+Before the invention of money, it was very difficult to compare the value of a bag of corn with that of a yard of cloth.
+
+Dress was equally necessary with food. But the processes by which men procured them, seemed scarcely susceptible of being compared. Money has furnished a common and invariable unity to which every thing can be referred. Nations, who are not acquainted with the use of metals, have, nevertheless, so felt the advantages of this common measure that they have formed an ideal unity, to which they refer every kind of value.
 
 The important part which money performs in political economy, and the various properties by which it animates exchanges, and protects and serves to measure them, explain the illusion which has misled, not only the vulgar, but even the greater part of statesmen, and exhibited this commodity in their eyes as the efficient cause of labour, and the creator of all wealth. It is essential for us, however, to pause here, that we may both display those errors in a clear point of view, and firmly demonstrate the principles which follow. In the epoch of civilization, at which we are arrived, no labour can be accomplished without a capital to set it in motion; but this capital, though almost constantly represented by money, is yet quite a different thing. An increase of the national capital is the most powerful encouragement to labour; but an increase in the circulating medium has not of necessity the same effect. Capitals co-operate powerfully in the annual reproduction of wealth, giving rise to an annual revenue; but money continues barren, and gives rise to no revenue. Indeed, the competition between those capitals, which are offered to accomplish the annual labour of the nation, forms the basis for the interest of money; but the greater or less abundance of the circulating medium, has no influence in the fixing of this interest.
 
