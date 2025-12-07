@@ -8,27 +8,33 @@ description: ""
 
 
 
-According to the tantras, kundalini can be awakened by various methods which can be practiced individually or in combination. However, the first method cannot be practiced, because it is awakening by birth. Of course, it is too late for most of us to take advantage of this particular method, but some of us may be instrumental in producing children who have awakened kundalinis.
+According to the tantras, kundalini can be awakened by various methods which can be practiced individually or in combination. 
+
+However, the first method cannot be practiced because it is awakening by birth. 
+
+Some of us may be instrumental in producing children who have awakened kundalinis.
 
 
 ### 1. Awakening by birth
 
-By a favourable birth, if your parents were highly evolved, you can have an awakened kundalion. It is also possible to be born with an awakened sushumna, ida or pingala nadi. This means that from the time of birth your higher faculties will be operating either partially or fully. If a child comes with partial awakening, he is called a saint, and if he comes with full illumination, he is known as an incarnation, avatara or son of God.
+By a favourable birth, if your parents were highly evolved, you can have an awakened kundalion. 
+
+It is also possible to be born with an awakened sushumna, ida or pingala nadi. 
+
+This means that from the time of birth your higher faculties will be operating either partially or fully. If a child comes with partial awakening, he is called a saint, and if he comes with full illumination, he is known as an incarnation, avatara or son of God.
 
 If one is born with an awakened kundalini, his experiences are very much under control. They take place in him right from the beginning in a natural way, so he never feels that something extraordinary is happening to him. A child with an awakened kundalini has clarity of vision, a high quality of thinking and a sublime philosophy. His attitude of life is somewhat unusual as he has total detachment. To him, his parents were only his means of creation, and therefore he is unable to accept the normal social relationship with them. Although he may live with them, he feels as if he were just a guest.
 
 Such a child exhibits a very matured behaviour and he does not react emotionally with anything in life. As he grows he becomes aware of his mission and purpose in life. Many of us may wish to give birth to a yogi or an enlightened child but it is not such a simple matter. Every marriage or union of parents cannot produce a yogi, even if the man and woman practice yoga morning and night. It is only under certain circumstances that a higher being can be produced. In order to usher a highly evolved soul into this world, one has first to transform one's gross desires into spiritual aspirations.
 
-It is very difficult to convince people of the west that a child can be born in an
-enlightened state, because they have the moral attitudes of a particular religion deeply
-ingrained in their minds and their faith. For them, the union between a man and a woman
-is sin. If you explain to them that a yogi can be produced as a result of the sexual union,
-they say, "No! How can a yogi be born out of sin?"
+It is very difficult to convince people of the west that a child can be born in an enlightened state, because they have the moral attitudes of a particular religion deeply
+ingrained in their minds and their faith. For them, the union between a man and a woman is sin. If you explain to them that a yogi can be produced as a result of the sexual union, they say, "No! How can a yogi be born out of sin?"
 
+It is possible that a new generation of supermen will be produced in this way.
 
-It is possible that у new generation of supermen will be produced in this way.
-Through the practices of yoga you can transform the quality of your genes. If genes can
-produce artists, scientists, inventors and intellectual geniuses, then why not awakened
+Through the practices of yoga you can transform the quality of your genes. 
+
+If genes can produce artists, scientists, inventors and intellectual geniuses, then why not awakened
 kundalinis? You have to transform the quality of your sperm or ova by firstly
 transforming your whole consciousness. Neitheк drugs nor diet will transform your
 genes, but if you change your consciousness, you can then effect the elements of the body
@@ -36,8 +42,8 @@ and ultimately change the quality of the sperm and ova. Then you will have child
 awakened kundalinis. They will become the yogis and spiritual masters of the house who
 set things right for you. They will say, "Mummy, you are not the physical body." "Pара,
 drinking is no good."
-Those of you who enter married life should go into it keeping in mind that the
-purpose is not just pleasure, or to produce offspring, but to create a genius. All over the
+
+Those of you who enter married life should go into it keeping in mind that the purpose is not just pleasure, or to produce offspring, but to create a genius. All over the
 world, people who marry for progeny should try for higher quality children.
 
 

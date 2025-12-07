@@ -23,41 +23,26 @@ But with those who are in a hurry to awaken kundalini and who take to any practi
 
 ## The question of risk
 
-There are so many whispers about the dangers of awakening and dark hints about people going crazy or developing disturbing powers. But everything in life is risky and there are far more dangers in ordinary daily life than you will encounter on the path of kundalini. Every time you walk across the street or travel by car or plane, you take a risk. In the pursuit of desires, passions and ambitions, people take great risks every day without thinking twice about it. Yet they allow the relatively minor risks of kundalini to deter them from pursuing the supreme goal of higher consciousness.
+There are so many whispers about the dangers of awakening and dark hints about people going crazy or developing disturbing powers. But everything in life is risky and there are far more dangers in ordinary daily life than you will encounter on the path of kundalini.
+
+Every time you walk across the street or travel by car or plane, you take a risk. In the pursuit of desires, passions and ambitions, people take great risks every day without thinking twice about it. Yet they allow the relatively minor risks of kundalini to deter them from pursuing the supreme goal of higher consciousness.
 
 When a woman discovers she is pregnant, does she think it might be dangerous for her to have a child? She might die! She may have to have a cesarian! She may lose her figure for life! She may become seriously ill! Does a woman think like this and decide she doesn't want a child at all? No. Then why to think like this about kundalini?
 
-Awakening of kundalini is the birth of Christ, Krishna, Buddha or Mohammed. It is one of the greatest events of human life, just as for a mother, to have a baby is one of the major and happiest events of her life, no matter what the consequences. In the same way, awakening of kundalini is one of the greatest events in the life of a yogi. It is the destiny of mankind, so why not go ahead with it?
+Awakening of kundalini is the birth of Christ, Krishna, Buddha or Mohammed. 
 
-Without involving yourself in a risk, nothing great in life can be achieved. Every
-great yogi, scientist, explorer and adventurer has faced risks. And so he has invented,
-discovered or made progress. Those people who are thinking and talking about risks are
-cowards, and such people should not even practise yoga. It is better that they eat, drink,
-be merry and die unenlightened.
+It is one of the greatest events of human life, just as for a mother, to have a baby is one of the major and happiest events of her life, no matter what the consequences. 
 
-Kundalini practices are certainly no more dangerous than many of the activities
-people engage in for the sake of thrills, sport or altered states of consciousness. The risks
-are not nearly as great as those associated with LSD, hashish, marijuana and alcohol,
-which are commonly used by many people in their everyday life. Those who practise
-kundalini yoga are assured of attaining states of expanded consciousness which are safer,
-smoother, more comprehensible and longer lasting than anything that can be obtained
-through the use of psychedelics.
+In the same way, awakening of kundalini is one of the greatest events in the life of a yogi. It is the destiny of mankind, so why not go ahead with it?
 
-The science of kundalini yoga has its own inbuilt safety mechanisms. If you perform
-asanas or pranayama incorrectly, nature will immediately send a warning and compel you
-to stop practising. In the same way, when kundalini awakening takes place and you are
-not prepared to face it, nature puts obstacles in your way. If ever you become scared and
-want to stop the process of kundalini awakening, all you have to do is revert to a gross
-lifestyle. Just revise all your passions, dreams and worldly ambitions.
+Without involving yourself in a risk, nothing great in life can be achieved. Every great yogi, scientist, explorer and adventurer has faced risks. And so he has invented, discovered or made progress. Those people who are thinking and talking about risks are cowards, and such people should not even practise yoga. It is better that they eat, drink, be merry and die unenlightened.
 
-Unless you are an extremely introverted person, you can proceed along the path of
-kundalini yoga without fear. If you are hypersensitive, have difficulty communicating
-with others and live within a sort of fantasy world, you will find kundalini yoga upsetting
-and even dangerous. Such people should not practise kundalini yoga or any techniques
-for exploring the inner world until they have developed the ability to strike fearlessly and
-confidently through the outer world. This also applies to timid and dependent people. For
-all these individuals, karma yoga is the way. They should lead a life of unselfish service
-in the world and develop non-attachment and maximum awareness.
+Kundalini practices are certainly no more dangerous than many of the activities people engage in for the sake of thrills, sport or altered states of consciousness. The risks are not nearly as great as those associated with LSD, hashish, marijuana and alcohol, which are commonly used by many people in their everyday life. Those who practise kundalini yoga are assured of attaining states of expanded consciousness which are safer, smoother, more comprehensible and longer lasting than anything that can be obtained through the use of psychedelics.
+
+The science of kundalini yoga has its own inbuilt safety mechanisms. If you perform asanas or pranayama incorrectly, nature will immediately send a warning and compel you to stop practising. In the same way, when kundalini awakening takes place and you are not prepared to face it, nature puts obstacles in your way. If ever you become scared and want to stop the process of kundalini awakening, all you have to do is revert to a gross lifestyle. Just revise all your passions, dreams and worldly ambitions.
+
+Unless you are an extremely introverted person, you can proceed along the path of kundalini yoga without fear. If you are hypersensitive, have difficulty communicating with others and live within a sort of fantasy world, you will find kundalini yoga upsetting and even dangerous. Such people should not practise kundalini yoga or any techniques for exploring the inner world until they have developed the ability to strike fearlessly and confidently through the outer world. This also applies to timid and dependent people. For all these individuals, karma yoga is the way. They should lead a life of unselfish service in the world and develop non-attachment and maximum awareness.
+
 
 ### Fear of mistakes
 
@@ -185,13 +170,8 @@ samadhi."
 ### Two opposing forces
 
 In the realms of higher consciousness, there are both divine and demonical forces.
-Both these forces can be brought down to earth by the same techniques. Without higher
-awareness, when the awakening of the chakras begins, the knowledge and destructive
-energy of the atom bomb might be unleashed rather than the wisdom and spiritual power
-of the rishis. When kundalini awakens in a person with no dispassion and discrimination,
-who does not seek liberation and does not know the reality of this world, the
-consequences can be disastrous. Ultimately, that person will destroy himself, and
-possibly many others in the process.
+
+Both these forces can be brought down to earth by the same techniques. Without higher awareness, when the awakening of the chakras begins, the knowledge and destructive energy of the atom bomb might be unleashed rather than the wisdom and spiritual power of the rishis. When kundalini awakens in a person with no dispassion and discrimination, who does not seek liberation and does not know the reality of this world, the consequences can be disastrous. Ultimately, that person will destroy himself, and possibly many others in the process.
 
 Therefore, a kimdalini aspirant must constantly work towards the development of
 higher awareness. To be conscious of the unconscious is very difficult. When your
@@ -212,4 +192,3 @@ clear, decisions become accurate, and the personality becomes dynamic and powerf
 Therefore, do not be afraid of any risk. Once the awakening takes place, all your
 limitations will be overcome, because darkness can never exist in the face of light and
 limitations can never exist in the face of kundalini.
-

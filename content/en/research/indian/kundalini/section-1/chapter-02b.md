@@ -35,27 +35,25 @@ In Scandinavian, European, Latin American and Middle Eastern countries and many
 different civilizations of the world, the concept of the serpent power is represented in
 monuments and ancient artifacts.
 
-This means kundalini was known to people from all
-parts of the world in the past. However, we can conceive kundalini in any manner we like
-because actually, prana has no form or dimension, it is infinite.
+This means kundalini was known to people from all parts of the world in the past. However, we can conceive kundalini in any manner we like because actually, prana has no form or dimension, it is infinite.
 
-In the traditional descriptions of kundalini awakening, it is said that kundalini resides
-in mooladhara in the form of a coiled snake and when the snake awakens it uncoils and
-shoots up through sushumna (the psychic passage in the center of the spinal cord),
-opening the other chakras as it goes (see Sir John Woodroffe's The Serpent Power).
+In the traditional descriptions of kundalini awakening, it is said that kundalini resides in mooladhara in the form of a coiled snake and when the snake awakens it uncoils and shoots up through sushumna (the psychic passage in the center of the spinal cord), opening the other chakras as it goes (see Sir John Woodroffe's The Serpent Power).
 
-Brahmachari Swami Vyasdev, in his book Science of the Soul, describes the awakening of kundalini in the following way:
+Brahmachari Swami Vyasdev, in his book Science of the Soul, describes the awakening of kundalini:
 
-"Sadhakas have seen the sushumna in the form of a luminous rod or pillar, a golden
-yellow snake, or sometimes as a shining black snake about ten inches long with blood
-redeyes like smouldering charcoal, the front part of the tongue vibrating and shining like
-lightning, ascending the spinal column."
+{{< l a="Swami Vyasdev" >}}
+Sadhakas have seen the sushumna in the form of a luminous rod or pillar, a golden yellow snake, or sometimes as a shining black snake about ten inches long with blood redeyes like smouldering charcoal, the front part of the tongue vibrating and shining like lightning, ascending the spinal column.
+{{< /l >}}
 
-The meaning of the 3 1/2 coils of the serpent is as follows: The 3 coils represent the 3
-matras of Om, which relate to past, present and future; to the 3 gunas: tamas, rajas and
-sattva; to the 3 states of consciousness: waking, sleeping and dreaming; and to the 3 types
-of experience: subjective experience, sensual experience and absence of experience. The
-1/2 coil represents the state of transcendence, where there is neither waking, sleeping nor
+The meaning of the 3 1/2 coils of the serpent is as follows.
+
+The 3 coils represent:
+- the 3 matras of Om, which relate to past, present and future
+- the 3 gunas: tamas, rajas and sattva
+- the 3 states of consciousness: waking, sleeping and dreaming
+- the 3 types of experience: subjective experience, sensual experience and absence of experience
+
+The 1/2 coil represents the state of transcendence, where there is neither waking, sleeping nor
 dreaming. 
 
 So, the 3 1/2 coils signify the total experience of the universe and the
@@ -64,46 +62,32 @@ experience of transcendence.
 
 ### Who can awaken kundalini?
 
-There are many people who have awakened their kundalini. Not only saints and
-sadhus, but poets, painters, warriors, writers, anyone can awaken their kundalini. 
+There are many people who have awakened their kundalini: saints, sadhus, poets, painters, warriors, writers, etc.
 
-With
-the awakening of kundalini, not only visions of God take place, there is dawning of
-creative intelligence and an awakening of supramental faculties. By activating kundalini
-you may become anything in life.
+Anyone can awaken their kundalini. 
 
-The energy of kundalini is one energy, but it expresses itself differently through the
-individual psychic centers or chakras - first in gross instinctive ways and then in
-progressively more subtle ways. Refining of the expression of this energy at higher and
-more subtle levels of vibration represents the ascent of human consciousness to its
-highest possibilities.
+With the awakening of kundalini, not only visions of God take place, there is dawning of creative intelligence and an awakening of supramental faculties. By activating kundalini you may become anything in life.
 
-Kundalini is the creative energy; it is the energy of self-expression. Just as in
-reproduction a new life is created, in the same way, someone like Einstein uses that same
+The energy of kundalini is one energy, but it expresses itself differently through the individual psychic centers or chakras - first in gross instinctive ways and then in
+progressively more subtle ways. Refining of the expression of this energy at higher and more subtle levels of vibration represents the ascent of human consciousness to its
+highest possibilities. 
+
+Kundalini is the creative energy; it is the energy of self-expression. Just as in reproduction a new life is created, in the same way, someone like Einstein uses that same
 energy in a different, more subtle realm, to create a theory like relativity. 
 
-It is the same
-energy that is expressed when someone composes or plays beautiful music. It is the same
-energy which is expressed in all parts of life, whether it is building up a business,
-fulfilling the family duties or reaching whatever goal you aspire for. These are all
-expressions of the same creative energy.
+It is the same energy that is expressed when someone composes or plays beautiful music. It is the same energy which is expressed in all parts of life, whether it is building up a business, fulfilling the family duties or reaching whatever goal you aspire for. These are all expressions of the same creative energy.
 
-Everybody, whether householder or sannyasin, must remember that awakening of
-kundalini is the prime purpose of human incarnation. All the pleasures of sensual life
-which we are enjoying now are intended only to enhance the awakening of kundalini
-amidst the adverse circumstances of man's life.
+Everybody, whether householder or sannyasin, must remember that awakening of kundalini is the prime purpose of human incarnation. All the pleasures of sensual life
+which we are enjoying now are intended only to enhance the awakening of kundalini amidst the adverse circumstances of man's life.
 
 
 ### A process of metamorphosis
 
-With the awakening of kundalini, a transformation takes place in life. It has little to
-do with one's moral, religious or ethical life. It has more to do with the quality of our
-experiences and perceptions. When kundalini wakes up your mind changes and your
-priorities and attachments also change. All your karmas undergo a process of integration.
+With the awakening of kundalini, a transformation takes place in life. It has little to do with one's moral, religious or ethical life. It has more to do with the quality of our experiences and perceptions. When kundalini wakes up your mind changes and your priorities and attachments also change. All your karmas undergo a process of integration.
 
-It is very simple to understand. When you were a child you loved toys, but why don't you
-love them now? Because your mind has changed and consequently, your attachments
+It is very simple to understand. When you were a child you loved toys, but why don't you love them now? Because your mind has changed and consequently, your attachments
 have also changed. So, with the awakening of kundalini, a metamorphosis takes place.
+
 There is even the possibility of restructuring the entire physical body.
 
 When kundalini awakens, the physical body actually undergoes many changes.

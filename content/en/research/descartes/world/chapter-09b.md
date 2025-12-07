@@ -11,42 +11,27 @@ icon: "Rene Descartes"
 ---
 
 
-{{< n n="We rename 'heavens' with their modern version as 'gravitational territories'" >}}
+<!-- Now, concerning these Comets, it must first be noted that there ought to be only a few of them in this new World, in comparison with the number of the heavens.
+ stellar gravitational territories.  -->
 
 
-The aether that could not become the fire-aether or air-aether necessarily are the larger and more massive ones. These move out to the edges of the stellar gravitational territories onto other stellar gravitational territories without staying long in each territory.
+There are only a few very large comets compared to the number of solar systems. 
 
+There were many at the beginning.
 
-By contrast, all the less massive aether had to be pushed, each toward the center of the air-aether containing it.
-<!-- , by the course of the air-aether of that heaven.  -->
+But over time, they would have passed across different solar systems.
+- Almost all of them would have collided with one another and broken up, so that now only the largest remain.
 
-Upon colliding with each other, they join together and become large balls which rotate in their stellar gravitational territory. 
-<!-- This rotation is affected by all the motions from the other balls. -->
+When comets pass from one solar system into another, they always push before them some small bit of the air-aether that they are leaving. 
 
-<!-- , have there a motion tempered by all the motions the separate parts could have if they were in fact separate.  -->
-
-Some of them move towards:
-- the edges of their gravitational territory
-  - These are the comets
-- the centers of their gravitational territory
-  - These are the planets
-
-
-There are a few comets compared to the number of stellar gravitational territories. 
-- There were many at the beginning.
-- But over time, they would have passed across different stellar gravitational territories.
-  - Almost all of them would have collided with one another and broken up, just as I have said 2 boats do when they meet, so that now only the largest remain.
-
-When comets pass from one stellar gravitational territory into another, they always push before them some small bit of the air-aether that they are leaving. 
-
-They remain enveloped by it for some time until they have entered far enough within the limits of the other territory.
+They remain enveloped by it for some time until they have entered far enough within the limits of the other solar system.
 
 Once there, they finally loose themselves from it almost all at once.
 
-In this way, they move much more slowly when they thus tend to leave some territory than they do shortly after having entered it.
+In this way, they move much more slowly when they thus tend to leave some solar system than when they enter it.
 
 
-For example, the comet that takes its course along the line `WXYZ`, has already entered far within the limits of the stellar gravitational territory `FFFFGG`.
+For example, the comet that takes its course along the line `WXYZ`, has already entered far within the limits of the solar system`FFFFGG`.
 
 {{< img src="/graphics/physics/fig_2-w.jpg" alt="stellar gravitational territories" >}}
 
