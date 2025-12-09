@@ -14,37 +14,32 @@ writer:
 
 
 {{< l a="Salviati" >}}
-What you are now asking me is the first of the differences that I think exist between the moon and the earth, which we had better hurry along with, as we are staying too long on the moon. I say then that if there were in nature only one way for two surfaces to be illuminated by the sun so that one appears lighter than the other, and that this were by having one made of land and the other of water, it would be necessary to say that the moon's surface was partly terrene and partly aqueous. But because there are more ways known to us that could produce the same effect, and perhaps others that we do not know of, I shall not make bold to affirm one rather than another to exist on the moon.
+You are asking about the differences between the moon and the earth.
 
-We have already seen that a bleached silver plate changes from white to dark by the touch of the burnisher; the watery part of the earth looks darker than the dry; on the ridges of mountains the wooded parts look much gloomier than the open and barren places because the plants cast a great deal of shadow while the clearings are lighted by the sun. Such a mixture of shadows is so effective that in sculptured velvet the color of the cut silk looks much darker than that of the uncut, because of shadows cast between one thread and another; and plain velvet is likewise much darker than taffeta made of the same silk. So if on the moon there were things resembling dense forests, their aspect would probably be like that of the spots we see; a like difference would be created if they were seas; and, finally, there is nothing to prevent these spots being really of a darker color than the rest, for it is in that way that snow makes mountains appear brighter.
+If there were in nature only one way for two surfaces to be illuminated by the sun so that one appears lighter than the other, and that this were by having one made of land and the other of water, it would be necessary to say that the moon's surface was partly terrene and partly aqueous. But because there are more ways known to us that could produce the same effect, and perhaps others that we do not know of, I shall not make bold to affirm one rather than another to exist on the moon.
 
-What is clearly seen in the moon is that the darker parts are all plains, with few rocks and ridges in them, though there are some. The brighter remainder is all fill of rocks, mountains, round ridges, and other shapes, and in particular there are great ranges of mountains around the spots. That the spots are flat surfaces we are certain, from observing that the boundary which separates the light and dark parts makes an even cut in traversing the spots, whereas in the bright parts it looks broken and jagged. But I do not know whether this evenness of surface is enough by itself to cause the apparent darkness, and I rather think not.
+A bleached silver plate changes from white to dark by the touch of the burnisher; the watery part of the earth looks darker than the dry; on the ridges of mountains the wooded parts look much gloomier than the open and barren places because the plants cast a great deal of shadow while the clearings are lighted by the sun. 
+
+Such a mixture of shadows is so effective that in sculptured velvet the color of the cut silk looks much darker than that of the uncut, because of shadows cast between one thread and another; and plain velvet is likewise much darker than taffeta made of the same silk.
+
+So if on the moon there were things resembling dense forests, their aspect would probably be like that of the spots we see; a like difference would be created if they were seas; and, finally, there is nothing to prevent these spots being really of a darker color than the rest, for it is in that way that snow makes mountains appear brighter.
+
+The darker parts of the moon are all plains, with few rocks and ridges in them, though there are some.
+
+The brighter remainder is all fill of rocks, mountains, round ridges, and other shapes, and in particular there are great ranges of mountains around the spots. That the spots are flat surfaces we are certain, from observing that the boundary which separates the light and dark parts makes an even cut in traversing the spots, whereas in the bright parts it looks broken and jagged. But I do not know whether this evenness of surface is enough by itself to cause the apparent darkness, and I rather think not.
 
 Quite apart from this, I consider the moon very different from the earth. Though I fancy to myself that its regions are not idle and dead, still I do not assert that life and motion exist there, and much less that plants, animals, or other things similar to ours are generated there. Even if they were, they would be extremely diverse, and far beyond all our imaginings. I am inclined to believe this because in the first place I think that the material of the lunar globe is not land and water, and this alone is enough to prevent generations and alterations similar to ours. But even supposing land and water on the moon, there are in any case two reasons that plants and animals similar to ours would not be produced there.
 
-The first is that the varying aspects of the sun are so necessary for our various species that
-these could not exist at all without them. Now the behavior of the sun toward the earth is much
-different from that which it displays toward the moon. As to daily illumination, we on the
-earth have for the most part twenty -- four hours divided between day and night, but the same
-effect takes a month on the moon. The annual sinking and rising by which the sun causes the
-various seasons and the inequalities of day and night are finished for the moon in a month.
+1. The varying aspects of the sun are so necessary for our various species that these could not exist at all without them. Now the behavior of the sun toward the earth is much different from that which it displays toward the moon. As to daily illumination, we on the earth have for the most part twenty -- four hours divided between day and night, but the same effect takes a month on the moon. The annual sinking and rising by which the sun causes the various seasons and the inequalities of day and night are finished for the moon in a month.
 
-
-And whereas for us the sun rises and sinks so much that between its maximum and minimum
-altitudes there lie forty -- seven degrees of difference (that is, as much as the distance between
-the tropics), for the moon it varies no more than ten degrees or a little less, which is the
-amount of the maximum latitudes of its orbit with respect to the ecliptic.
-Now think what the action of the sun would be in the torrid zone if for fifteen days without
-pause it continued to beat down with its rays. It goes without saying that all the plants and
-herbs and animals would be destroyed; hence if any species existed there, they would be plants
+Whereas for us the sun rises and sinks so much that between its maximum and minimum altitudes there lie forty -- seven degrees of difference (that is, as much as the distance between the tropics), for the moon it varies no more than ten degrees or a little less, which is the amount of the maximum latitudes of its orbit with respect to the ecliptic.
+Now think what the action of the sun would be in the torrid zone if for fifteen days without pause it continued to beat down with its rays. It goes without saying that all the plants and herbs and animals would be destroyed; hence if any species existed there, they would be plants
 and animals very different from present ones.
 
-In the second place, I am sure that there are no rains on the moon, because if clouds collected
-in any part of it, as around the earth, they would hide some of the things on the moon that we
-see with the telescope. Briefly, the scene would alter in some respect; an effect which I have
-never seen during long and diligent observations, having always discovered a very pure and
+2. There are no rains on the moon, because if clouds collected in any part of it, as around the earth, they would hide some of the things on the moon that we see with the telescope. Briefly, the scene would alter in some respect; an effect which I have never seen during long and diligent observations, having always discovered a very pure and
 uniform serenity.
 {{< /l >}}
+
 
 
 {{< r a="Sagredo" >}}
@@ -84,7 +79,11 @@ Neither of your alternatives follows, since both pronouncements can be true. The
 {{< r a="Sagredo" >}}
 I understand this point well.
 
-Among men there exists the power to act, Simplicio, but it is not equally shared by all; and no doubt the power of an emperor is greater than that of a private person, but both are nil in comparison to Divine omnipotence. Among men there are some who understand agriculture better than others; but what has knowing how to plant a grapevine in a ditch got to do with knowing how to make it take root, draw nourishment, take from this some part good for building leaves, some other for forming tendrils, this for the bunches, that for the grapes, the other for the skins, all this being the work of most wise Nature? This is one single particular example of the innumerable works of Nature, and in this alone may be recognized an infinite wisdom; hence one may conclude that Divine wisdom is infinitely infinite.
+Among men there exists the power to act, Simplicio, but it is not equally shared by all; 
+
+The power of an emperor is greater than that of a private person, but both are nil in comparison to Divine omnipotence. Among men there are some who understand agriculture better than others; 
+
+But what has knowing how to plant a grapevine in a ditch got to do with knowing how to make it take root, draw nourishment, take from this some part good for building leaves, some other for forming tendrils, this for the bunches, that for the grapes, the other for the skins, all this being the work of most wise Nature? This is one single particular example of the innumerable works of Nature, and in this alone may be recognized an infinite wisdom; hence one may conclude that Divine wisdom is infinitely infinite.
 {{< /r >}}
 
 

@@ -34,7 +34,15 @@ From my point of view, one might expect the difference of speed to be small in t
 {{< /r >}}
 
 {{< l a="Salviati" >}}
-The action of the medium in producing a greater retardation upon those bodies which have a less specific gravity has already been explained by showing that they experience a diminution of weight. But to explain how one and the same medium produces such different retardations in bodies which are made of the same material and have the same shape, but differ only in size, requires a discussion more clever than that by which one explains how a more expanded shape or an opposing motion of the medium retards the speed of the moving body. The solution of the present problem lies, I think, in the roughness and porosity which are generally and almost necessarily found in the surfaces of solid bodies. When the body is in motion these rough places strike the air or other ambient medium. The evidence for this is found in the humming which accompanies the rapid motion of a body through air, even when that body is as round as possible. One hears not only humming, but also hissing and whistling, whenever there is any appreciable cavity or elevation upon the body. We observe also that a round solid body rotating in a lathe produces a current of air. But what more do we need? When a top spins on the ground at its greatest speed do we not hear a distinct buzzing of high pitch? This sibilant note diminishes in pitch as the speed of rotation slackens, which is evidence that these small rugosities on the surface meet resistance in the air. There can be no doubt, therefore, that in the motion of falling bodies these rugosities strike the surrounding fluid and retard the speed; and this they do so much the more in proportion as the surface is larger, which is the case of small bodies as compared with greater.
+The action of the medium in producing a greater retardation upon those bodies which have a less specific gravity has already been explained by showing that they experience a diminution of weight.
+
+But to explain how one and the same medium produces such different retardations in bodies which are made of the same material and have the same shape, but differ only in size, requires a discussion more clever than that by which one explains how a more expanded shape or an opposing motion of the medium retards the speed of the moving body. 
+
+The solution of the present problem lies, I think, in the roughness and porosity which are generally and almost necessarily found in the surfaces of solid bodies. When the body is in motion these rough places strike the air or other ambient medium. The evidence for this is found in the humming which accompanies the rapid motion of a body through air, even when that body is as round as possible. 
+
+One hears not only humming, but also hissing and whistling, whenever there is any appreciable cavity or elevation upon the body. We observe also that a round solid body rotating in a lathe produces a current of air. But what more do we need? When a top spins on the ground at its greatest speed do we not hear a distinct buzzing of high pitch? 
+
+This sibilant note diminishes in pitch as the speed of rotation slackens, which is evidence that these small rugosities on the surface meet resistance in the air. There can be no doubt, therefore, that in the motion of falling bodies these rugosities strike the surrounding fluid and retard the speed; and this they do so much the more in proportion as the surface is larger, which is the case of small bodies as compared with greater.
 {{< /l >}}
 
 
@@ -68,13 +76,18 @@ This I admit without hesitation.
 {{< l a="Salviati" >}}
 It is not possible to diminish the surface of a solid body in the same ratio as the weight, and at the same time maintain similarity of figure. For since it is clear that in the case of a diminishing solid the weight grows less in proportion to the volume, and since the volume always diminishes more rapidly than the surface, when the same shape is maintained, the weight must therefore diminish more rapidly than the surface. But geometry teaches us that, in the case of similar solids, the ratio of two volumes is greater than the ratio of their surfaces; which, for the sake of better understanding, I shall illustrate by a particular case.
 
-Take, for example, a cube two inches on a side so that each face has an area of four square inches and the total area, i. e., the sum of the six faces, amounts to twenty-four square inches; now imagine this cube to be sawed through three times so as to divide it into eight smaller cubes, each one inch on the side, each face one inch square, and the total surface of each cube six square inches instead of twenty-four as in the case of the larger cube. It is evident therefore that the surface of the little cube is only one-fourth that of the larger, namely, the ratio of six to twenty-four; but the volume of the solid cube itself is only one-eighth; the volume, and hence also the weight, diminishes therefore much more rapidly than the surface. If we again divide the little cube into eight others we shall have, for the total surface of one of these, one and one-half square inches, which is one-sixteenth of the surface of the original cube; but its volume is only one-sixty-fourth part. Thus, by two divisions, you see that the volume is diminished four times as much as the surface. And, if the subdivision be continued until the original solid be reduced to a fine powder, we shall find that the weight of one of these smallest particles has diminished hundreds and hundreds of times as much as its surface. And this which I have illustrated in the case of cubes holds also in the case of all similar solids, where the volumes stand in sesquialteral ratio to their surfaces. Observe then how much greater the resistance, arising from contact of the surface of the moving body with the medium, in the case of small bodies than in the case of large; and when one considers that the rugosities on the very small surfaces of fine dust particles are perhaps no smaller than those on the surfaces of larger solids which have been carefully polished, he will see how important it is that the medium should be very fluid and offer no resistance to being thrust aside, easily yielding to a small force. You see, therefore, Simplicio, that I was not mistaken when, not long ago, I said that the surface of a small solid is comparatively greater than that of a large one.
+Take, for example, a cube two inches on a side so that each face has an area of four square inches and the total area, i. e., the sum of the six faces, amounts to twenty-four square inches; now imagine this cube to be sawed through three times so as to divide it into eight smaller cubes, each one inch on the side, each face one inch square, and the total surface of each cube six square inches instead of twenty-four as in the case of the larger cube. 
+
+The surface of the little cube is only one-fourth that of the larger, namely, the ratio of six to twenty-four; but the volume of the solid cube itself is only one-eighth; the volume, and hence also the weight, diminishes therefore much more rapidly than the surface. If we again divide the little cube into eight others we shall have, for the total surface of one of these, one and one-half square inches, which is one-sixteenth of the surface of the original cube; but its volume is only one-sixty-fourth part.
+
+Thus, by 2 divisions, you see that the volume is diminished four times as much as the surface. And, if the subdivision be continued until the original solid be reduced to a fine powder, we shall find that the weight of one of these smallest particles has diminished hundreds and hundreds of times as much as its surface. And this which I have illustrated in the case of cubes holds also in the case of all similar solids, where the volumes stand in sesquialteral ratio to their surfaces. Observe then how much greater the resistance, arising from contact of the surface of the moving body with the medium, in the case of small bodies than in the case of large; and when one considers that the rugosities on the very small surfaces of fine dust particles are perhaps no smaller than those on the surfaces of larger solids which have been carefully polished, he will see how important it is that the medium should be very fluid and offer no resistance to being thrust aside, easily yielding to a small force. You see, therefore, Simplicio, that I was not mistaken when, not long ago, I said that the surface of a small solid is comparatively greater than that of a large one.
 {{< /l >}}
 
 
 {{< r a="Simplicio" >}}
 I am convinced. If I were again beginning my studies, I would follow Plato's advice and start with mathematics, a science which proceeds very cautiously and admits nothing as established until it has been rigidly demonstrated.
 {{< /r >}}
+
 
 
 Sagr.
@@ -94,8 +107,11 @@ Quite so. Our main topic is the properties found in the resistance which solid b
 {{< /r >}}
 
 
-Salv.
-Very well; but the questions which we have already considered are so numerous and so varied, and have taken up so much time that there is not much of this day left to spend upon our main topic which abounds in geometrical demonstrations calling for careful consideration. May I, therefore, suggest that we postpone the meeting until to-morrow, not only for the reason just mentioned but also in order that I may bring with me some papers in which I have set down in an orderly way the theorems and propositions dealing with the various phases of this subject, matters which, from memory alone, I could not present in the proper order.
+{{< l a="Salviati" >}}
+Very well; but the questions which we have already considered are so numerous and so varied, and have taken up so much time that there is not much of this day left to spend upon our main topic which abounds in geometrical demonstrations calling for careful consideration.
+
+May I, therefore, suggest that we postpone the meeting until to-morrow, not only for the reason just mentioned but also in order that I may bring with me some papers in which I have set down in an orderly way the theorems and propositions dealing with the various phases of this subject, matters which, from memory alone, I could not present in the proper order.
+{{< /l >}}
 
 
 {{< r a="Sagredo" >}}
@@ -105,8 +121,9 @@ Another question deals with the vibrations of pendulums which may be regarded fr
 {{< /r >}}
 
 
-Salv.
+{{< l a="Salviati" >}}
 These are interesting questions: but I fear that here, as in the case of all other facts, if we take up for discussion any one of them, it will carry in its wake so many other facts and curious consequences that time will not remain to-day for the discussion of all.
+{{< /l >}}
 
 
 {{< r a="Sagredo" >}}
@@ -141,5 +158,3 @@ Many objections may be raised not all of which can be refuted by experiment: how
 
 In order to place a cannon ball at such a height as might suffice to give it just that momentum which the powder imparted to it on leaving the gun we need only fire it vertically upwards from the same gun; and we can then observe whether on falling back it delivers a blow equal to that of the gun fired at close range; in my opinion it would be much weaker. The resistance of the air would, therefore, I think, prevent the muzzle velocity from being equalled by a natural fall from rest at any height whatsoever.
 {{< /l >}}
-
-

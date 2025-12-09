@@ -37,11 +37,7 @@ Therefore, as in the case of squares, the sum total of the largest rectangles, i
 
 
 {{< r a="Sagredo" >}}
-A fine, clever demonstration; and all the more so because it gives us the quadrature of the parabola, proving it to be four-thirds of the inscribed
-*
- triangle, a fact which Archimedes demonstrates by means of two different, but admirable, series of many propositions. This same theorem has also been recently established by Luca Valerio,
-*
- the Archimedes of our age; his demonstration is to be found in his book dealing with the centers of gravity of solids.
+A fine, clever demonstration; and all the more so because it gives us the quadrature of the parabola, proving it to be four-thirds of the inscribed  triangle, a fact which Archimedes demonstrates by means of two different, but admirable, series of many propositions. This same theorem has also been recently established by Luca Valerio, the Archimedes of our age; his demonstration is to be found in his book dealing with the centers of gravity of solids.
 {{< /r >}}
 
 

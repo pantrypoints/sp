@@ -101,4 +101,3 @@ The time IE and the distance GB are arbitrary multiples of the first and the thi
 But it has been proved that both of these latter quantities are either equal to, greater than, or less than the time EK and the space BH, which are arbitrary multiples of the second and the fourth. Therefore the first is to the second, namely the distance AB is to the distance BC, as the third is to the fourth, namely the time DE is to the time EF.
 
 q. e. d.
-

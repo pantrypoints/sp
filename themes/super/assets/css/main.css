@@ -3,13 +3,6 @@
 @tailwind utilities;
 
 
-/*@font-face {
-  font-family: 'Baloo Bhaijaan 2';
-  src: url('/fonts/baloomed.ttf') format('truetype');
-  font-weight: 400;
-  font-style: normal;
-}*/
-
 @font-face {
   font-family: 'Nunito';
   src: url('/fonts/Nunito-SemiBold.ttf') format('truetype');
@@ -191,6 +184,89 @@ blockquote {
   border-left-color: seagreen !important;
 }
 
-code {
+/*code {
         color: #757575 !important; 
 }
+*/
+
+/* Tooltip container */
+[data-popover] {
+  position: relative;
+  cursor: help;
+}
+
+/* Tooltip text */
+[data-popover]::before,
+[data-popover]::after {
+  position: absolute;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  z-index: 50;
+  pointer-events: none;
+}
+
+/* Tooltip arrow */
+[data-popover]::before {
+  content: '';
+  border: 6px solid transparent;
+  border-bottom-color: #333;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: -12px;
+}
+
+/* Tooltip box */
+[data-popover]::after {
+  content: attr(data-popover);
+  background-color: #333;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+  line-height: 1.4;
+  white-space: normal;
+  max-width: 300px;
+  text-align: left;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 0;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+/* Show tooltip on hover */
+[data-popover]:hover::before,
+[data-popover]:hover::after {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Adjust for different table cell positions to prevent cutoff */
+tbody td:first-child[data-popover]::after,
+tbody td:first-child[data-popover]::before {
+  left: 0;
+  transform: none;
+}
+
+tbody td:last-child[data-popover]::after,
+tbody td:last-child[data-popover]::before {
+  left: auto;
+  right: 0;
+  transform: none;
+}
+
+tbody td:last-child[data-popover]::after {
+  left: auto;
+  right: 0;
+}
+
+/* For better mobile experience */
+@media (max-width: 768px) {
+  [data-popover]::after {
+    max-width: 250px;
+    font-size: 12px;
+  }
+}
+

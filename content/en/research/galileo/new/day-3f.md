@@ -131,8 +131,9 @@ It also follows that, if from any one point there be drawn a vertical line and a
 
 Moreover the times of descent along inclined planes will be equal when the vertical heights of equal lengths of these planes are to each other as the lengths of the planes themselves; thus it is clear that the times of descent along CA and DA, in the figure just before the last, are equal, provided the vertical height of AB (AB being equal to AD), namely, BE, is to the vertical height DF as CA is to DA.
 
-Sagr.
 
+
+{{< r a="Sagredo" >}}
 Please allow me to interrupt the lecture for a moment in order that I may clear up an idea which just occurs to me; one which, if it involve no fallacy, suggests at least a freakish and interesting circumstance, such as often occurs in nature and in the realm of necessary consequences.
 
 If, from any point fixed in a horizontal plane, straight lines be drawn extending indefinitely in all directions, and if we imagine a point to move along each of these lines with constant speed, all starting from the fixed point at the same instant and moving with equal speeds, then it is clear that all of these moving points will lie upon the circumference of a circle which grows larger and larger, always having the aforesaid fixed point as its center; this circle spreads out in precisely the same manner as the little waves do in the case of a pebble allowed to drop into quiet water, where the impact of the stone starts the motion in all directions, while the point of impact remains the center of these ever-expanding circular waves. 
@@ -141,15 +142,20 @@ But imagine a vertical plane from the highest point of which are drawn lines inc
 
 If these moving particles are always visible, what will be the locus of their positions at any instant? Now the answer to this question surprises me, for I am led by the preceding theorems to believe that these particles will always lie upon the circumference of a single circle, ever increasing in size as the particles recede farther and farther from the point at which their motion began. 
 
-To be more definite, let A be the fixed point from which are drawn the lines AF and AH inclined at any angle whatsoever. On the perpendicular AB take any two points C and D about which, as centers, circles are described passing through the point A, and cutting the inclined lines at the points F, H, B, E, G, I. From the preceding theorems it is clear that, if particles start, at the same instant, from A and descend along these lines, when one is at E another will be at G and another at I; at a later instant they will be found simultaneously at F, H and B; these, and indeed an infinite number of other particles travelling along an infinite number of different slopes will at successive instants always lie upon a single ever-expanding circle. The two kinds of motion occurring in nature give rise therefore to two infinite series of circles, at once resembling and differing from each other; the one takes its rise in the center of an infinite number of concentric circles; the other has its origin in the contact, at their highest points, of an infinite number of eccentric circles; the former are produced by motions which are equal and uniform; the latter by motions which are neither uniform nor equal among themselves, but which vary from one to another according to the slope.
+To be more definite, let A be the fixed point from which are drawn the lines AF and AH inclined at any angle whatsoever. On the perpendicular AB take any two points C and D about which, as centers, circles are described passing through the point A, and cutting the inclined lines at the points F, H, B, E, G, I. From the preceding theorems it is clear that, if particles start, at the same instant, from A and descend along these lines, when one is at E another will be at G and another at I; at a later instant they will be found simultaneously at F, H and B; these, and indeed an infinite number of other particles travelling along an infinite number of different slopes will at successive instants always lie upon a single ever-expanding circle. 
+
+The 2 kinds of motion occurring in nature give rise therefore to 2 infinite series of circles, at once resembling and differing from each other; the one takes its rise in the center of an infinite number of concentric circles; the other has its origin in the contact, at their highest points, of an infinite number of eccentric circles; the former are produced by motions which are equal and uniform; the latter by motions which are neither uniform nor equal among themselves, but which vary from one to another according to the slope.
+{{< /r >}}
 
 
 Fig. 59
 
 Further, if from the two points chosen as origins of motion, we draw lines not only along horizontal and vertical planes but in all directions then just as in the former cases, beginning at a single point ever-expanding circles are produced, so in the latter case an infinite number of spheres are produced about a single point, or rather a single sphere which expands in size without limit; and this in two ways, one with the origin at the center, the other on the surface of the spheres.
 
+
 Salv.
 The idea is really beautiful and worthy of the clever mind of Sagredo.
+
 
 Simp.
 The 2 kinds of natural motions give rise to the circles and spheres. Yet as to the production of circles by accelerated motion and its proof, I am not entirely clear; but the fact that one can take the origin of motion either at the inmost center or at the very top of the sphere leads one to think that there may be some great mystery hidden in these true and wonderful results, a mystery related to the creation of the universe (which is said to be spherical in shape), and related also to the seat of the first cause [prima causa].
@@ -180,4 +186,3 @@ Let AB be the vertical diameter of a circle which touches the horizontal plane. 
 
 
 Fig. 61
-

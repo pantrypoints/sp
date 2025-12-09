@@ -13,6 +13,33 @@ module.exports = {
       "assets/js/search.js"
     ],
   },
+  safelist: [
+    // Hover backgrounds for rows
+    'hover:bg-blue-50',
+    'hover:bg-green-50',
+    'hover:bg-orange-50',
+    'hover:bg-purple-50',
+    'hover:bg-red-50',
+
+    // Category header backgrounds
+    'bg-blue-100', 'bg-blue-200',
+    'bg-green-200', 'bg-green-300',
+    'bg-orange-200', 'bg-orange-300',
+    'bg-purple-200', 'bg-purple-300',
+    'bg-red-200', 'bg-red-300',
+
+    // Hover on individual cells
+    'hover:bg-blue-50',
+    'hover:bg-green-50',
+    'hover:bg-yellow-50',
+
+    // Border colors for section separators
+    'border-t-4',
+    'border-green-600',
+    'border-orange-600',
+    'border-purple-600',
+    'border-red-600',
+  ],
   darkMode: "class",
   theme: {
     extend: {

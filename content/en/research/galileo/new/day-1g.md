@@ -109,5 +109,7 @@ Here we have the miracle mentioned above; as the cutting plane approaches the li
 
 It appears therefore that we may equate the circumference of a large circle to a single point.  And this which is true of the solids is true also of the surfaces which (29) form their bases; for these also preserve equality between themselves throughout their diminution and in the end vanish, the one into the circumference of a circle, the other into a single point.
 
-Shall we not then call them equal seeing that they are the last traces and remnants of equal magnitudes? Note also that, even if these vessels were large enough to contain immense celestial hemispheres, both their upper edges and the apexes of the cones therein contained would always remain equal and would vanish, the former into circles having the dimensions of the largest celestial orbits, the latter into single points.  Hence in conformity with the preceding we may say that all circumferences of circles, however different, are equal to each other, and are each equal to a single point. 
+Shall we not then call them equal seeing that they are the last traces and remnants of equal magnitudes? Note also that, even if these vessels were large enough to contain immense celestial hemispheres, both their upper edges and the apexes of the cones therein contained would always remain equal and would vanish, the former into circles having the dimensions of the largest celestial orbits, the latter into single points.  
+
+Hence in conformity with the preceding we may say that all circumferences of circles, however different, are equal to each other, and are each equal to a single point. 
 {{< /l >}}

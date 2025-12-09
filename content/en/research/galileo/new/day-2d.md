@@ -56,8 +56,12 @@ This is the proof of the proposition to which I referred, at the very beginning 
 {{< /r >}}
 
 
-Salv.
-For a while, Simplicio, I used to think, as you do, that the resistances of similar solids were similar; but a certain casual observation showed me that similar solids do not exhibit a strength which is proportional to their size, the larger ones being less fitted to undergo rough usage just as tall men are more apt than small children to be injured by a fall. And, as we remarked at the outset, a large beam or column falling from a given height will go to pieces when under the same circumstances a small scantling or small marble cylinder will not break. It was this observation which led me to the investigation of the fact which I am about to demonstrate to you: it is a very remarkable thing that, among the infinite variety of solids which are similar one to another, there are no two of which the forces [momenti], and the resistances of these solids are related in the same ratio.
+{{< l a="Salviati" >}}
+For a while, Simplicio, I used to think, as you do, that the resistances of similar solids were similar; but a certain casual observation showed me that similar solids do not exhibit a strength which is proportional to their size, the larger ones being less fitted to undergo rough usage just as tall men are more apt than small children to be injured by a fall. 
+
+A large beam or column falling from a given height will go to pieces when under the same circumstances a small scantling or small marble cylinder will not break. It was this observation which led me to the investigation of the fact which I am about to demonstrate to you: it is a very remarkable thing that, among the infinite variety of solids which are similar one to another, there are no two of which the forces [momenti], and the resistances of these solids are related in the same ratio.
+{{< /l >}}
+
 
 
 {{< r a="Simplicio" >}}
@@ -65,10 +69,11 @@ You remind me now of a passage in Aristotle’s Questions in Mechanics in which 
 {{< /r >}}
 
 
-Salv.
-Very true: but, since this solution seemed to leave room for doubt, Bishop di Guevara,
+{{< l a="Salviati" >}}
+Very true: but, since this solution seemed to leave room for doubt, Bishop di Guevara, whose truly learned commentaries have greatly enriched and illuminated this work, indulges in additional clever speculations with the hope of thus overcoming all difficulties.
 
-whose truly learned commentaries have greatly enriched and illuminated this work, indulges in additional clever speculations with the hope of thus overcoming all difficulties; nevertheless even he is confused as regards this particular point, namely, whether, when the length and thickness of these solid figures increase in the same ratio, their strength and resistance to fracture, as well as to bending, remain constant. After much thought upon this subject, I have reached the following result. First I shall show that,
+Nevertheless even he is confused as regards this particular point, namely, whether, when the length and thickness of these solid figures increase in the same ratio, their strength and resistance to fracture, as well as to bending, remain constant. After much thought upon this subject, I have reached the following result. First I shall show that,
+{{< /l >}}
 
 
 
@@ -89,5 +94,6 @@ In order to bring this prism into that limiting condition which separates breaki
 {{< /r >}}
 
 
-Salv.
+{{< l a="Salviati" >}}
 Nay, even more; for the question is more difficult; this I know because I spent no small amount of time in its discovery which I now wish to share with you.
+{{< /l >}}

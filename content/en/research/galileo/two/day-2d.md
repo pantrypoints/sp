@@ -13,8 +13,10 @@ writer:
 
 
 
+{{< r a="Sagredo" >}}
+In the third place I should like you to tell me whether you believe that the moon and the other planets and celestial bodies have their own motions, and what these are.
+{{< /r  >}}
 
-SAGR. Now in the third place I should like you to tell me whether you believe that the moon and the other planets and celestial bodies have their own motions, and what these are.
 
 
 {{< r a="Simplicio" >}}
@@ -22,12 +24,19 @@ They have, and they are those motions in accordance with which they run through 
 {{< /r >}}
 
 
-SAGR. Now as to that motion with which the fixed stars, and with them all the planets, are seen rising and setting and returning to the east every twenty-four hours. How does that belong to them?
+{{< r a="Sagredo" >}}
+As to that motion with which the fixed stars, and with them all the planets, are seen rising and setting and returning to the east every twenty-four hours. How does that belong to them?
+{{< /r >}}
 
-SIMP. They have that by participation.
 
-SAGR. Then it does not reside in them; and neither residing in them, nor being able to exist without some subject to reside in, it must be made the proper and natural motion of some other sphere.
+{{< r a="Simplicio" >}}
+They have that by participation.
+{{< /r >}}
 
+
+{{< r a="Sagredo" >}}
+Then it does not reside in them; and neither residing in them, nor being able to exist without some subject to reside in, it must be made the proper and natural motion of some other sphere.
+{{< /r >}}
 
 {{< r a="Simplicio" >}}
 As to this, astronomers and philosophers have discovered another very high sphere, devoid of stars, to which the diurnal rotation naturally belongs. To this they have given the name primum mobile; this speeds along with it all the inferior spheres, contributing to and sharing with them its motion.
@@ -40,7 +49,9 @@ But when all things can proceed in most perfect harmony without Introducing othe
 {{< /r >}}
 
 
-SIMP. The point is to find a simple and ready means.
+{{< r a="Simplicio" >}}
+The point is to find a simple and ready means.
+{{< /r >}}
 
 
 {{< r a="Sagredo" >}}
@@ -71,11 +82,22 @@ To this I answer that it seems that way to me also when I consider my own powers
 
 
 
-SALV. If I had ever said that the universe does not move because of any lack of power in the Mover, I should have been mistaken, and your correction would be opportune; I grant you that it is as easy for an infinite force to move a hundred thousand things as to move one. But what I have been saying was with regard not to the Mover, but only the movables; and not with regard to their resistance alone, which is certainly less for the earth than for the universe, but with regard to other particulars considered just now.
+{{< l a="Salviati" >}}
+If I had ever said that the universe does not move because of any lack of power in the Mover, I should have been mistaken, and your correction would be opportune; 
 
-Next, as to your saying that a great part of an infinite power may better be exercised than a small part, I reply to you that one part of the infinite is not greater than another, when both are-finite; nor can it be said of an infinite number that a hundred thousand is a greater part than two I . s, though the former is fifty thousand times as great as the latter. And if what is required in order to move the universe is a finite power, then even though this would be very large in comparison with what would be required to move the earth alone, nevertheless a greater part of the infinite power would not thereby be employed, nor would that which remained idle be less than infinite. Hence to apply a little more or less power for a particular effect is insignificant. Besides, the operations of such power do not have for their end and goal the diurnal movement alone, for there are many other motions of the universe that we know of, and there may be very many more unknown to us.
+I grant you that it is as easy for an infinite force to move a hundred thousand things as to move one. But what I have been saying was with regard not to the Mover, but only the movables; and not with regard to their resistance alone, which is certainly less for the earth than for the universe, but with regard to other particulars considered just now.
 
-Giving our attention, then, to the movable bodies, and not questioning that it is a shorter and readier operation to move the earth than the universe, and paying attention to the many other simplifications and conveniences that follow from merely this one, it is much more probable that the diurnal motion belongs to the earth alone than to the rest of the universe excepting the earth. This is supported by a very true maxim of Aristotle's which teaches that frustra fit per plura quod potest fieri per pauciora.
+Next, as to your saying that a great part of an infinite power may better be exercised than a small part, I reply to you that one part of the infinite is not greater than another, when both are-finite; nor can it be said of an infinite number that a hundred thousand is a greater part than two I . s, though the former is fifty thousand times as great as the latter. 
+
+If what is required in order to move the universe is a finite power, then even though this would be very large in comparison with what would be required to move the earth alone, nevertheless a greater part of the infinite power would not thereby be employed, nor would that which remained idle be less than infinite. 
+
+Hence to apply a little more or less power for a particular effect is insignificant. Besides, the operations of such power do not have for their end and goal the diurnal movement alone, for there are many other motions of the universe that we know of, and there may be very many more unknown to us.
+
+Giving our attention, then, to the movable bodies, and not questioning that it is a shorter and readier operation to move the earth than the universe, and paying attention to the many other simplifications and conveniences that follow from merely this one, it is much more probable that the diurnal motion belongs to the earth alone than to the rest of the universe excepting the earth. 
+
+This is supported by a very true maxim of Aristotle's which teaches that frustra fit per plura quod potest fieri per pauciora.
+{{< /l >}}
+
 
 
 {{< r a="Simplicio" >}}

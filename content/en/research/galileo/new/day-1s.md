@@ -91,10 +91,11 @@ Weigh the vessel which will have diminished in weight on account of the escaped 
 {{< /l >}}
 
 
-Simp.
+
+{{< r a="Simplicio" >}}
 The elements when in their proper places have neither weight nor levity. But I cannot understand how air which weighs 4 drachms of sand should really have such a weight in air as the sand which counterbalances it.
 
 The experiment should be carried out, not in air, but in a medium in which the air could exhibit its property of weight if such it really has.
-
+{{< /r >}}
 
 

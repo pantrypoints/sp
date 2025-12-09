@@ -131,4 +131,3 @@ That the undulations of the medium are widely dispersed about the sounding body 
 
 The same phenomenon is observed to better advantage by fixing the base of the goblet upon the bottom of a rather large vessel of water filled nearly to the edge of the goblet; for if, as before, we sound the glass by friction of the finger, we shall see ripples spreading with the utmost regularity and with high speed to large distances about the glass. I have often remarked, in thus sounding a rather large glass nearly full of water, that at first the waves are spaced with great uniformity, and when, as sometimes happens, the tone of the glass jumps an octave higher I have noted that at this moment each of the aforesaid waves divides into two; a phenomenon which shows clearly that the ratio involved in the octave [forma dell’ ottava] is two.
 {{< /l >}}
-

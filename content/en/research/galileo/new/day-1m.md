@@ -44,7 +44,9 @@ If we allow the rotation of the smaller polygon to go on it will traverse and de
 
 Here now we see, without any difficulty, why the larger polygon, when carried by the smaller, does not measure off with its sides a line longer than that traversed by the smaller one; this is because a portion of each side is superposed upon its immediately preceding neighbor. 
 
-Let us next consider two circles, having a common center at A, and lying upon their respective parallels, the smaller being tangent to its parallel at the point B; the larger, at the point C.  Here when the small circle commences to roll the point B Fig 9 does not remain at rest for a while so as to allow BC to move backward and carry with it the point C, as happened in the case of the polygons, where the point I remained fixed until the side KI coincided with MI and the line IB carried the terminal point B backward as far as b, so that the side BC fell upon bc, thus superposing upon the line BA, the portion Bb, and advancing by an amount Bc, equal to MI, that is, to one side of the smaller polygon.  On account of these superpositions, which are the excesses of the sides of the larger over the smaller polygon, each net advance is equal to one side of the smaller polygon and, during one complete rotation, these amount to a straight line equal in length to the perimeter of the smaller polygon.
+Let us next consider two circles, having a common center at A, and lying upon their respective parallels, the smaller being tangent to its parallel at the point B; the larger, at the point C.
+
+Here when the small circle commences to roll the point B Fig 9 does not remain at rest for a while so as to allow BC to move backward and carry with it the point C, as happened in the case of the polygons, where the point I remained fixed until the side KI coincided with MI and the line IB carried the terminal point B backward as far as b, so that the side BC fell upon bc, thus superposing upon the line BA, the portion Bb, and advancing by an amount Bc, equal to MI, that is, to one side of the smaller polygon.  On account of these superpositions, which are the excesses of the sides of the larger over the smaller polygon, each net advance is equal to one side of the smaller polygon and, during one complete rotation, these amount to a straight line equal in length to the perimeter of the smaller polygon.
 
 
 The number of sides in any polygon is comprised within a certain limit.
@@ -164,5 +166,3 @@ Consider now what degree of fineness it must have and whether one could conceive
 This demonstration does not have the cogency originally intended. Yet it is very forceful.
  <!-- -- the short time devoted to it has nevertheless been most happily spent.  -->
 {{< /r >}}
-
-

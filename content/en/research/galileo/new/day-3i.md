@@ -14,18 +14,27 @@ writer:
 
 ## Theorem 15, Proposition 24
 
-Given two parallel horizontal planes and a vertical line connecting them; given also an inclined plane passing through the lower extremity of this vertical line; then, if a body fall freely along the vertical line and have its motion reflected along the inclined plane, the distance which it will traverse along this plane, during a time equal to that of the vertical fall, is greater than once but less than twice the vertical line.
 
-Let BC and HG be the two horizontal planes, connected by the perpendicular AE; also let EB represent the inclined plane along which the motion takes place after the body has fallen along AE and has been reflected from E towards B.
+Given:
+- 2 parallel horizontal planes and a vertical line connecting them
+- an inclined plane passing through the lower extremity of this vertical line
 
-Then, I say, that, during a time equal to that of fall along AE, the body will ascend the inclined plane through a distance which is greater than AE but less than twice AE. Lay off ED equal to AE and choose F so that EB:BD=BD:BF. First we shall show that F is the point to which the moving body will be carried after reflection from E towards B during a time equal to that of fall along AE; and next we shall show that the distance EF is greater than EA but less than twice that quantity.
+If a body falls freely along the vertical line and have its motion reflected along the inclined plane, the distance which it will traverse along this plane, during a time equal to that of the vertical fall, is greater than once but less than twice the vertical line.
+
+Let `BC` and `HG` be the two horizontal planes, connected by the perpendicular AE; also let EB represent the inclined plane along which the motion takes place after the body has fallen along `AE` and has been reflected from E towards B.
+
+Then, during a time equal to that of fall along AE, the body will ascend the inclined plane through a distance which is greater than AE but less than twice AE. Lay off ED equal to `A`E and choose F so that EB:BD=BD:BF. First we shall show that F is the point to which the moving body will be carried after reflection from E towards B during a time equal to that of fall along AE; and next we shall show that the distance EF is greater than EA but less than twice that quantity.
 
 
 Fig. 85
 
 Let us agree to represent the time of fall along AE by the length AE, then the time of descent along BE, or what is the same thing, ascent along EB will be represented by the distance EB.
 
-Now, since DB is a mean proportional between EB and BF, and since BE is the time of descent for the entire distance BE, it follows that BD will be the time of descent through BF, while the remainder DE will be the time of descent along the remainder FE. But the time of descent along the fall from rest at B is the same as the time of ascent from E to F after reflection from E with the speed acquired during fall either through AE or BE. Therefore DE represents the time occupied by the body in passing from E to F, after fall from A to E and after reflection along EB. But by construction ED is equal to AE. This concludes the first part of our demonstration.
+Now, since DB is a mean proportional between EB and BF, and since BE is the time of descent for the entire distance BE, it follows that BD will be the time of descent through BF, while the remainder DE will be the time of descent along the remainder FE. 
+
+But the time of descent along the fall from rest at B is the same as the time of ascent from E to F after reflection from E with the speed acquired during fall either through AE or BE.
+
+Therefore DE represents the time occupied by the body in passing from E to F, after fall from A to E and after reflection along EB. But by construction ED is equal to AE. This concludes the first part of our demonstration.
 
 Now since the whole of EB is to the whole of BD as the portion DB is to the portion BF, we have the whole of EB is to the whole of BD as the remainder ED is to the remainder DF; but EB>BD and hence ED>DF, and EF is less than twice DE or AE.
 
@@ -50,7 +59,9 @@ Given a vertical height joining two horizontal parallel lines; given also a dist
 
 Let AB be the vertical distance separating two parallel horizontal lines AO and BC; also let FE be greater than once and less than twice BA. The problem is to pass a plane through B, extending to the upper horizontal line, and such that a body, after having fallen from A to B, will, if its motion be deflected along the inclined plane, traverse a distance equal to EF in a time equal to that of fall along AB. Lay off ED equal to AB; then the remainder DF will be less than AB since the entire length EF is less than twice this quantity; also lay off DI equal to DF, and choose the point X such that EI:ID=DF:FX; from B, draw the plane BO equal in length to EX. 
 
-Then, I say, that the plane BO is the one along which, after fall through AB, a body will traverse the assigned distance FE in a time equal to the time of fall through AB. Lay off BR and RS equal to ED and DF respectively; then since EI:ID=DF:FX, we have, componendo, ED:DI=DX:XF=ED:DF=EX:XD=BO:OR=RO:OS. If we represent the time of fall along AB by the length AB, then OB will represent the time of descent along OB, and RO will stand for the time along OS, while the remainder BR will represent the time required for a body starting from rest at O to traverse the remaining distance SB. But the time of descent along SB starting from rest at O is equal to the time of ascent from B to S after fall through AB. Hence BO is that plane, passing through B, along which a body, after fall through AB, will traverse the distance BS, equal to the assigned distance EF, in the time-interval BR or BA.
+Then, I say, that the plane BO is the one along which, after fall through AB, a body will traverse the assigned distance FE in a time equal to the time of fall through AB. Lay off BR and RS equal to ED and DF respectively; then since EI:ID=DF:FX, we have, componendo, ED:DI=DX:XF=ED:DF=EX:XD=BO:OR=RO:OS. If we represent the time of fall along AB by the length AB, then OB will represent the time of descent along OB, and RO will stand for the time along OS, while the remainder BR will represent the time required for a body starting from rest at O to traverse the remaining distance SB. But the time of descent along SB starting from rest at O is equal to the time of ascent from B to S after fall through AB. 
+
+Hence BO is that plane, passing through B, along which a body, after fall through AB, will traverse the distance BS, equal to the assigned distance EF, in the time-interval BR or BA.
 
 q. e. f.
 
