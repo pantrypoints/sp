@@ -12,6 +12,7 @@ Word | Definition
 --- | ---
 abundance | The ability to do what you need to do, when you need to do it. (Money is merely one of innumerable ways to express & experience abundance.)
 anxiety | The energy of excitement, but filtered through a belief in something undesirable or unpreferred. Anxiety is excitement with a negative judgement. Remove the negative judgment, and you have excitement.
+conscience | the soul sending true vibrations
 discernment | Selecting and acting on your preference from the available options
 doubt | Doubt is not a lack of trust. It is a TOTAL TRUST in an undesirable or unpreferred reality.  You do not need to "develop" trust, since you are always 100% TOTALLY TRUSTING in SOMETHING. You only need to FOCUS your trust on a preferred reality, rather than an unpreferred one.
 ego | Ego is that part of our consciousness whose job is to keep us FOCUSED on this physical incarnation. Just like binoculars allow you to see things in the distance with much more vivid detail, likewise, the ego allows you to FOCUS more clearly on what's happening in your physical incarnation. That is its ONLY job. If you give it more tasks to do (like being in control), then it gets resentment, and you end up with the negative ego.

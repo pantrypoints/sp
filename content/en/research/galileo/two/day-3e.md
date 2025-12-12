@@ -13,21 +13,29 @@ icon: Galileo
 
 
 {{< l a="Salviati" >}}
-The confidence which men of that stamp have in their own acumen is as unreasonable as the small regard they have for the judgments of others, It is a remarkable thing that they should think themselves better able to judge such an instrument without ever having tested it, than those who have made thousands and thousands of experiments with it and make them every day. But let us forget about such headstrong people, who cannot even be censured without doing them more honor than they deserve.
+<!-- The confidence which men of that stamp have in their own acumen is as unreasonable as the small regard they have for the judgments of others, It is a remarkable thing that they should think themselves better able to judge such an instrument without ever having tested it, than those who have made thousands and thousands of experiments with it and make them every day. But let us forget about such headstrong people, who cannot even be censured without doing them more honor than they deserve. -->
 
-Getting back to our purpose, I say that shining objects, either because their light is refracted in the moisture that covers the pupil, or because it is reflected from the edges of the eyelids and these reflected rays are diffused over the pupil, or for some other reason, appear to our eyes as if surrounded by new rays. Hence these bodies look much larger than they would if they were seen by us deprived of such irradiations. This enlargement is made in greater and greater proportion as such luminous objects become smaller and smaller, in exactly such a manner as if we were to suppose a growth of shining hair, say four inches long, to be added around a circle four inches in diameter, which would increase its apparent size nine times; but ...
+Shining objects, either because their light is refracted in the moisture that covers the pupil, or because it is reflected from the edges of the eyelids and these reflected rays are diffused over the pupil, or for some other reason, appear to our eyes as if surrounded by new rays.
+
+Hence these bodies look much larger than they would if they were seen by us deprived of such irradiations. This enlargement is made in greater and greater proportion as such luminous objects become smaller and smaller, in exactly such a manner as if we were to suppose a growth of shining hair, say four inches long, to be added around a circle four inches in diameter, which would increase its apparent size nine times; but ...
 {{< /l >}}
 
 
 {{< r a="Simplicio" >}}
-I think you meant to say "three times," since four inches added on each side of a circle four inches in diameter would amount to tripling its magnitude and not to enlarging it nine times.
+I think you meant "3 times" since 4 inches added on each side of a circle 4 inches in diameter would amount to tripling its magnitude and not to enlarging it 9 times.
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-A little geometry, Simplicio; it is true that the diameter increases three times, but the surface (which is what we are talking about) grows nine times. For the surfaces of circles, Simplicio, are to each other as the squares of their diameters, and a circle four inches in diameter has to another of twelve inches the same ratio which the square of four has to the square of twelve; that is, 16 to 144. Therefore it will be nine times as large, not three. This is for your information, Simplicio.
+A little geometry, Simplicio; it is true that 
 
-Now, to continue, if we add this coiffure of four inches to a circle of only two inches in diameter, the diameter of the crown will be ten inches and the ratio of the circle to the bare body will be as 100 to 4 (for such are the squares of 10 and of 2), so the enlargement would be twenty-five times. And finally, the four inches of hair added to a tiny circle of one inch in diameter would enlarge this eighty-one times. Thus the increase is continually made larger and larger proportionately, according as the real objects which are increased become smaller and smaller.
+The diameter increases 3 times. But the surface grows 9 times. For the surfaces of circles, Simplicio, are to each other as the squares of their diameters, and a circle four inches in diameter has to another of twelve inches the same ratio which the square of four has to the square of twelve; that is, 16 to 144. Therefore it will be nine times as large, not three. This is for your information, Simplicio.
+
+If we add this coiffure of 4 inches to a circle of only 2 inches in diameter, the diameter of the crown will be 10 inches.
+
+The ratio of the circle to the bare body will be as 100 to 4 (for such are the squares of 10 and of 2). So the enlargement would be 25 times.
+
+The 4 inches of hair added to a tiny circle of one inch in diameter would enlarge this eighty-one times. Thus the increase is continually made larger and larger proportionately, according as the real objects which are increased become smaller and smaller.
 {{< /l >}}
 
 

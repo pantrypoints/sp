@@ -95,36 +95,45 @@ But you cannot deduce that there are no news from them.
 
 
 {{< l a="Salviati" >}}
-Among the changes that have taken place on earth I can find some so great that if they had occurred on the moon they could yen well have been observed here below. 
+<!-- Among the changes that have taken place on earth I can find some so great that if they had occurred on the moon they could yen well have been observed here below.  -->
 
 In the distant past, the Straits of Gibraltar, Abila and Calpe were joined together.
 - This held the ocean in check
 
-But these mountains being separated by some cause, the opening admitted the sea, which flooded in so as to form the Mediterranean. 
+But these mountains were separated and allowed the sea to flood in to form the Mediterranean. 
 
-When we consider the immensity of this, and the difference in appearance which must have been made in the water and land seen from afar, there is no doubt that such a change could easily have been seen by anyone then on the moon. Just so would the inhabitants of earth have discovered any such alteration in the moon; yet there is no history of such a thing being seen. Hence there remains no basis for saying that anything in the heavenly bodies is alterable, etc.
+<!-- When we consider the immensity of this, and the difference in appearance which must have been made in the water and land seen from afar, there is no doubt that  -->
+
+Such a change could easily have been seen by anyone then on the moon. Just so would the inhabitants of earth have discovered any such change in the moon.
+
+Yet nothing of such sort has been seen on the moon. Hence, anything in the heavenly bodies are not alterable, etc.
+
+ <!-- there is no history of such a thing being seen. Hence there remains no basis for saying that anything in -->
 {{< /l >}}
 
 
 
 {{< l a="Salviati" >}}
-I do not make bold to say that such great changes have taken place in the moon, but neither am I sure that they could not have happened. 
+<!-- I do not make bold to say that such great changes have taken place in the moon, but neither am I sure that they could not have happened.  -->
 
-Such a mutation could be represented to us only by some variation between the lighter and the darker parts of the moon, and I doubt whether we have had observant selenographers on earth who have for any considerable number of years provided us with such exact selenography as would make us reasonably conclude that no such change has come about in the face of the moon. 
+Such a change in the moon could only be detected by us as some variation between the lighter and darker parts of the moon.
 
-Of the moon's appearance, I find no more exact description than that some say it represents a human face; others, that it is like the muzzle of a lion; still others, that it is Cain with a bundle of thorns on his back. So to say "Heaven is inalterable, because neither in the moon nor in other celestial bodies are such alterations seen as are discovered upon the earth" has no power to prove anything.
+We do not have such observant selenographers on earth who for many years could have provided us with such exact selenography.
+
+ <!-- as would make us reasonably conclude that no such change has come about in the face of the moon.  -->
+
+<!-- Of the moon's appearance, I find no more exact description than that some say it represents a human face; others, that it is like the muzzle of a lion; still others, that it is Cain with a bundle of thorns on his back. So to say "Heaven is inalterable, because neither in the moon nor in other celestial bodies are such alterations seen as are discovered upon the earth" has no power to prove anything. -->
 {{< /l >}}
 
 
 
 {{< r a="Sagredo" >}}
-This first argument of Simplicio's leaves me with another haunting doubt which I should like to have removed. Accordingly I ask him whether the earth was generable and
-corruptible before the Mediterranean inundation, or whether it began to be so then?
+Simplicio, is the earth generable and corruptible before the Mediterranean inundation? Or did it begin to be so then?
 {{< /r >}}
 
 
 {{< r a="Simplicio" >}}
-It was without doubt generable and corruptible before, as well; but that was so vast a mutation that it might have been observed as far as the moon.
+Without a doubt, it generable and corruptible before that event. But that was so vast a mutation that it might have been observed as far as the moon.
 {{< /r >}}
 
 
@@ -135,25 +144,33 @@ If the earth was generable and corruptible before that flood, why may not the mo
 
 
 {{< l a="Salviati" >}}
-A very penetrating remark. But I am afraid that Simplicio is altering the meaning a bit in this text of Aristotle and the other Peripatetics. They say that they hold the heavens to be inalterable because not one star there has ever been seen to be generated or corrupted, such being probably a lesser part of heaven than a city is of the earth; yet innumerable of the latter have been destroyed so that not a trace of them remains.
-{{< /l >}}
+Simplicio is altering the meaning a bit in this text of Aristotle and the other Peripatetics.
 
+They say that the heavens are inalterable because not one star there has ever been seen to be generated or corrupted.
+
+ <!-- such being probably a lesser part of heaven than a city is of the earth; yet innumerable of the latter have been destroyed so that not a trace of them remains. -->
+{{< /l >}}
 
 
 {{< r a="Sagredo" >}}
-I thought otherwise, believing that Simplicio distorted this exposition of the text so that he might not burden the Master and his disciples with a notion even more fantastic than the other. What folly it is to say, "The heavens are inalterable because stars are not generated or corrupted in them." Is there perhaps someone who has seen one terrestrial globe decay and another regenerated in its place? Is it not accepted by all philosophers that very few stars in the heavens are smaller than the earth, while a great many are much bigger?
+I thought otherwise.
 
-So the decay of a star in heaven would be no less momentous than for the whole terrestrial globe to be destroyed! Now if, in order to be able to introduce generation and corruption into the universe with certainty, it is necessary that as vast a body as a star must be corrupted and regenerated, then you had better give up the whole matter; for I assure you that you will never see the terrestrial globe or any other integral body in the universe so corrupted that, after having been seen for many ages past, it dissolves without leaving a trace behind.
+I believe that Simplicio distorted this exposition of the text so that he might not burden the Master and his disciples with a more fantastic notion.
+
+It is a folly to say: "The heavens are inalterable because stars are not generated or corrupted in them."
+
+Is there perhaps someone who has seen one terrestrial globe decay and another regenerated in its place?
+
+All philosophers accept that:
+- very few stars in the heavens are smaller than the earth
+- very many are much bigger
+
+So the decay of a star in heaven would be no less momentous than for the whole terrestrial globe to be destroyed!
+
+Now if, in order to be able to introduce generation and corruption into the universe with certainty, it is necessary that as vast a body as a star must be corrupted and regenerated, then you had better give up the whole matter.
+
+You will never see the terrestrial globe that vanishes instantly. 
+ <!-- or any other integral body in the universe so corrupted that, after having been seen for many ages past, it dissolves without leaving a trace behind. -->
 {{< /r >}}
 
 
-{{< l a="Salviati" >}}
-But to give Simplicio more than satisfaction, and to reclaim him if possible from his error, I declare that we do have in our age new events and observations such that if Aristotle were now alive, I have no doubt he would change his opinion. 
-
-This is easily inferred from his own manner of philosophizing, for when he writes of considering the heavens inalterable, etc., because no new thing is seen to be generated there or any old one dissolved, he seems implicitly to let us understand that if he had seen any such event he would have reversed his opinion, and properly preferred the sensible experience to natural reason. Unless he had taken the senses into account, he would not have argued immutability from sensible mutations not being seen.
-{{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-Aristotle first laid the basis of his argument a priori, showing the necessity of the inalterability of heaven by means of natural, evident, and clear principles. He afterward supported the same a posteriori, by the senses and by the traditions of the ancients.
-{{< /r >}}

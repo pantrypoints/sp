@@ -103,7 +103,14 @@ Imitating Venus as it does, the most appropriate place for it will be a smaller 
 
 Mars comes into opposition with the sun. So it must embrace the earth with its circle and embrace the sun; for, coming into conjunction with the sun, if it did not pass beyond it but fell short of it, it would appear homed as Venus and the moon do. But it always looks round; therefore its circle must include the sun as well as the earth. And since I remember your having said that when it is in opposition to the sun it looks sixty times as large as when in conjunction, it seems to me that this phenomenon will be well provided for by a circle around the sun embracing the earth, which I draw here and mark DI. When Mars is at the point D, it is very near the earth and in opposition to the sun, but when it is at the point 1, it is in conjunction with the sun and very distant from the earth.
 
-And since the same appearances are observed with regard to Jupiter and Saturn (although with less variation in Jupiter than in Mars, and With still less in Saturn than in Jupiter), it seems clear to me that we can also accommodate these two planets very neatly with two circles, still around the sun. This first one, for Jupiter, I mark EL; the other, higher, for Saturn, is called FM.
+The same are observed with regard to Jupiter and Saturn although with:
+- less variation in Jupiter than in Mars, and
+- still less variation in Saturn than in Jupiter
+
+We can also accommodate these 2 planets very neatly with 2 circles, still around the sun.
+
+1. EL is for Jupiter
+2. FM is for Saturn
 {{< /r >}}
 
 
@@ -120,7 +127,6 @@ Do we want to sprinkle the fixed stars through the immense abyss of the universe
 {{< /l >}}
 
 
-SIMP. I had rather take a middle course, and assign to them an orb described around a definite center and included between two spherical surfaces--a very distant concave one, and another closer and convex, between which are placed at vanious altitudes the innumerable host of stars. This might be called the universal sphere, containing within it the spheres of the planets which we have already designated.
-
-
-
+{{< r a="Simplicio" >}}
+I had rather take a middle course, and assign to them an orb described around a definite center and included between two spherical surfaces--a very distant concave one, and another closer and convex, between which are placed at vanious altitudes the innumerable host of stars. This might be called the universal sphere, containing within it the spheres of the planets which we have already designated.
+{{< /r >}}

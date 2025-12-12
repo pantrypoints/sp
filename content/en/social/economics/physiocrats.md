@@ -4,7 +4,7 @@ heading: "Free competition versus cartels"
 # date: 2024--02
 date: 2025-01-23
 a: "Francois Quesnay"
-c: "teal"
+c: "seagreen"
 description: "Most of the world follows Adam Smith. OPEC follows the Physiocrats without them knowing it"
 writer:
   name: Juan

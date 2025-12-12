@@ -4,7 +4,6 @@ title: "The Moon"
 # date: 2025-05-15
 weight: 34
 description: ""
-
 c: "darkgoldenrod"
 writer:
   name: Galileo
@@ -13,10 +12,53 @@ writer:
 
 
 
+
+{{< l a="Salviati" >}}
+<!-- Many times have I given rein to my fancies about these things, and my -->
+
+I concluded that it is possible to discover some things that do not and cannot exist on the moon.
+
+But such things will exist very generally by occupying that moon or planet, acting and moving in it.
+
+<!-- but none which I believe can be and are there, except ; that is, things , perhaps in a very different way from ours, -->
+
+They would see and admire the grandeur and beauty of the universe and of its Makerm continually singing encomiums in His praise, doing what is decreed in the Holy Scriptures*
+
+<!-- I mean, in a word, doing what is so frequently ; namely, a perpetual occupation of all creatures in praising God. -->
+{{< /l >}}
+
+{{< n n="This shows that Galileo physics is based on the Anunnaki since the Anunnaki wanted to be worshipped and created celestial bodies for their pleasure" >}}
+
+
+{{< r a="Sagredo" >}}
+These are among the things which, speaking very generally, could be there.
+
+But what are those which you believe cannot be there?
+{{< /r >}}
+
+
+<!-- l a="Salviati" >}}
+I warn you, Sagredo, that this will be the third time we have thus strayed imperceptibly, step by step, from our principal topic, and we shall get to the point of our argument but slowly if we make digressions. Therefore it will perhaps be good if we defer this matter, along with
+others we have agreed to put off until a special session.
+l >}} -->
+
+[Salviati, using data from telescopic observations, describes the features of the moon and its resemblance to earth: it is spherical, mountainous, and has areas of contrasting brightness. Simplico argues that the moon is a perfectly smooth sphere made of celestial matter. The 3 engage in an extended argument about the nature of the moon.]
+
+
+{{< r a="Simplicio" >}}
+So you think that the earth would make an appearance similar to that which we see in the moon, of at most 2 parts.
+
+But do you believe then that those great spots which are seen on the face of the moon are seas, and the brighter balance land, or some such thing?
+{{< /r >}}
+
+
+
 {{< l a="Salviati" >}}
 You are asking about the differences between the moon and the earth.
 
-If there were in nature only one way for two surfaces to be illuminated by the sun so that one appears lighter than the other, and that this were by having one made of land and the other of water, it would be necessary to say that the moon's surface was partly terrene and partly aqueous. But because there are more ways known to us that could produce the same effect, and perhaps others that we do not know of, I shall not make bold to affirm one rather than another to exist on the moon.
+If there were in nature only one way for 2 surfaces to be illuminated by the sun so that one appears lighter than the other, and that this were by having one made of land and the other of water, it would be necessary to say that the moon's surface was partly terrene and partly aqueous.
+
+But because there are more ways known to us that could produce the same effect, and perhaps others that we do not know of, I shall not make bold to affirm one rather than another to exist on the moon.
 
 A bleached silver plate changes from white to dark by the touch of the burnisher; the watery part of the earth looks darker than the dry; on the ridges of mountains the wooded parts look much gloomier than the open and barren places because the plants cast a great deal of shadow while the clearings are lighted by the sun. 
 
@@ -50,12 +92,18 @@ To this it might be replied that either there might be great dews or that it rai
 {{< l a="Salviati" >}}
 If from other appearances we had any signs that there were species similar to ours there, and only the occurrence of rains was lacking, we should be able to find this or some other condition to take their place, as happens in Egypt by the inundations of the Nile. 
 
-But finding no event whatever like ours, of the many that would be required to produce similar effects, there is no point in troubling to introduce one only, and even that one not from sure observation but because of mere possibility. Besides, if I were asked what my basic knowledge and natural reason told me regarding the production there of things similar to or different from ours, I should always reply, "Very different and entirely unimaginable by us"; for this seems to me to fit with the richness of nature and the omnipotence of the Creator and Ruler.
+But finding no event whatever like ours, of the many that would be required to produce similar effects, there is no point in troubling to introduce one only, and even that one not from sure observation but because of mere possibility. 
+
+Besides, if I were asked what my basic knowledge and natural reason told me regarding the production there of things similar to or different from ours, I should always reply, "Very different and entirely unimaginable by us"; for this seems to me to fit with the richness of nature and the omnipotence of the Creator and Ruler.
 {{< /l >}}
 
 
 {{< r a="Sagredo" >}}
-It always seems to me extreme rashness on the part of some when they want to make human abilities the measure of what nature can do. On the contrary, there is not a single effect in nature, even the least that exists, such that the most ingenious theorists can arrive at a complete understanding of it. This vain presumption of understanding everything can have no other basis than never understanding anything. For anyone who had experienced just once the perfect understanding of one single thing, and had truly tasted how knowledge is accomplished, would recognize that of the infinity of other truths he understands nothing.
+It always seems to me extreme rashness on the part of some when they want to make human abilities the measure of what nature can do. 
+
+On the contrary, there is not a single effect in nature, even the least that exists, such that the most ingenious theorists can arrive at a complete understanding of it.
+
+This vain presumption of understanding everything can have no other basis than never understanding anything. For anyone who had experienced just once the perfect understanding of one single thing, and had truly tasted how knowledge is accomplished, would recognize that of the infinity of other truths he understands nothing.
 {{< /r >}}
 
 
@@ -72,7 +120,11 @@ Either the oracle or Socrates himself was a liar, the former declaring him the w
 
 
 {{< l a="Salviati" >}}
-Neither of your alternatives follows, since both pronouncements can be true. The oracle judges Socrates wisest above all other men, whose wisdom is limited; Socrates recognizes his knowing nothing relative to absolute wisdom which is infinite. And since much is the same part of infinite as little, or as nothing (for to arrive at an infinite number it makes no difference whether we accumulate thousands, tens, or zeros), Socrates did well to recognize his limited knowledge to be as nothing to the infinity which he lacked. But since there is nevertheless some knowledge to be found among men, and this is not equally distributed to all, Socrates could have had a larger share than others and thus have verified the response of the oracle. 
+Neither of your alternatives follows, since both pronouncements can be true. The oracle judges Socrates wisest above all other men, whose wisdom is limited; Socrates recognizes his knowing nothing relative to absolute wisdom which is infinite.
+
+Since much is the same part of infinite as little, or as nothing (for to arrive at an infinite number it makes no difference whether we accumulate thousands, tens, or zeros), Socrates did well to recognize his limited knowledge to be as nothing to the infinity which he lacked. 
+
+But since there is nevertheless some knowledge to be found among men, and this is not equally distributed to all, Socrates could have had a larger share than others and thus have verified the response of the oracle. 
 {{< /l >}}
 
 

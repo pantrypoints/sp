@@ -74,6 +74,8 @@ He traced the genealogy of their descendants. He tried compute how many years ag
 
 Then one of the very old priests said: 
 
+
+
 'O Solon, you Hellenes are never anything but children. There is not an old man among you. 
 
 In mind, you are all young. There is no old opinion handed down among you by ancient tradition, nor any science which is hoary with age. 
@@ -222,7 +224,8 @@ Violent earthquakes and floods happened afterwards.
 
 In one day and night of misfortune, all your warlike men in a body sank into the earth. The island of Atlantis similarly sank into the sea. 
 
-This is why the sea in those parts is impassable because there is a shoal of mud in the way caused by the subsidence of the island.
+This is why the sea in those parts is impassable [isthmus of Panama?] because there is a shoal of mud in the way caused by the subsidence of the island.
+
 
 
 

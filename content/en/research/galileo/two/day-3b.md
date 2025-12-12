@@ -36,20 +36,21 @@ I also shall do so, in order that nothing shall be left out or escape careful co
 SAGR. I shall do so with my customary lack of tact; and since you have asked for this, you will be obliged to pardon it. -->
 
 
-
-SIMP. The first and greatest difficulty is the repugnance and incompatibility between being at the center and being distant from it. For if the terrestrial globe must move in a year around the circumference of a circle--that is, around the zodiac--it is impossible for it at the same time to be in the center of the zodiac. But the earth is at that center, as is proved in many ways by Aristotle, Ptolemy, and others.
+{{< r a="Simplicio" >}}
+The first and greatest difficulty is the repugnance and incompatibility between being at the center and being distant from it. For if the terrestrial globe must move in a year around the circumference of a circle--that is, around the zodiac--it is impossible for it at the same time to be in the center of the zodiac. But the earth is at that center, as is proved in many ways by Aristotle, Ptolemy, and others.
+{{< /r >}}
 
 
 {{< l a="Salviati" >}}
-If the earth moves along the circumference of a circle then it is not at the center of that circle. 
-
-The next thing is for us to see whether the earth is or is not at that center around which I say it turns, and in which you say it is situated.
+If the earth moves along the circumference of a circle then it is not at the center of that circle.  The next thing is for us to see whether the earth is or is not at that center around which I say it turns, and in which you say it is situated.
 
 What is this center?
 {{< /l >}}
 
 
-SIMP. "Center" means the center of the universe, the world, the stellar sphere, the heavens.
+{{< r a="Simplicio" >}}
+"Center" means the center of the universe, the world, the stellar sphere, the heavens.
+{{< /r >}}
 
 
 {{< l a="Salviati" >}}
