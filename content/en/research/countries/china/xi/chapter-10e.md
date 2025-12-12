@@ -4,7 +4,7 @@ title: "Section 3: The leadership of ideological work"
 weight: 221
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -22,10 +22,10 @@ country in the new era.
 
 1. Recognize the opportunities and challenges facing ideological work under the new situation
 
-Since its founding, the Communist Party of China has attached great importance to ideological work,
+Since its founding, the CCP has attached great importance to ideological work,
 and it is precisely by relying on strong ideological work that it has effectively ensured the smooth
 progress of the cause of revolution, construction and reform. Since the 18th National Congress of
-the Communist Party of China, the Party Central Committee with Comrade Xi Jinping as the core
+the CCP, the Party Central Committee with Comrade Xi Jinping as the core
 has placed ideological work in a prominent position, and the degree of attention, the intensity of
 work, and the obvious changes in results have been rare since the reform and opening up. It is
 reflected in a series of major issues of direction, fundamental, and overall importance, adopted a
@@ -42,7 +42,7 @@ Socialism with Chinese characteristics has entered a new era, the development of
 socialism in China has entered a new stage, and the consolidation and development of socialist
 ideology are facing new historical opportunities. The extraordinary achievements of reform,
 opening up and socialist modernization, the historic changes and achievements of the Party and the
-country since the 18th National Congress of the Communist Party of China, the strong vitality of
+country since the 18th National Congress of the CCP, the strong vitality of
 Marxism and socialism demonstrated by adhering to and developing socialism with Chinese
 characteristics, and the profound changes in favor of Marxism and socialism brought about by the
 historical evolution of the two ideologies and two social systems in the world and the contest

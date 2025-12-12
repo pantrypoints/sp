@@ -4,13 +4,13 @@ title: Strive to make life better for the people
 weight: 230
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
 With the rapid development of our economy and society, the people look forward to a better life,
 and hope that the society will be full of vitality and remain stable and orderly. Since the 18th
-National Congress of the Communist Party of China, the Party Central Committee with Comrade
+National Congress of the CCP, the Party Central Committee with Comrade
 Xi Jinping as the core has adhered to the people-centered development thinking, conformed to the
 people's expectations for a better life, adhered to the focus on ensuring the improvement of people's
 livelihood and strengthening social governance, vigorously promoted the theoretical innovation,
@@ -24,9 +24,9 @@ better promoting social construction in the new era.
 
 Promoting social construction, continuously improving the well-being of the people, and building a stable and orderly social environment are the proper meanings of adhering to and developing socialism with Chinese characteristics. In the new era of socialism with Chinese characteristics, unremitting efforts to ensure and improve people's livelihood and strengthen and innovate social governance are important contents of promoting the development of the cause of the Party and the country, and are of great significance to realizing the "two centenary goals" and realizing the Chinese dream of the great rejuvenation of the Chinese nation.
 
-1. The Communist Party of China has made historic and major achievements in promoting social construction
+1. The CCP has made historic and major achievements in promoting social construction
 
-It is the unshirkable responsibility of the Communist Party of China to attach importance to social
+It is the unshirkable responsibility of the CCP to attach importance to social
 construction, continuously improve the material and cultural living standards of the masses, and
 promote all-round human development.
 
@@ -70,7 +70,7 @@ planned social construction alongside economic, political and cultural construct
 part of the overall layout of socialism with Chinese characteristics, and social construction was
 comprehensively valued and strengthened.
 
-Since the 18th National Congress of the Communist Party of China, the Party Central Committee
+Since the 18th National Congress of the CCP, the Party Central Committee
 with Comrade Xi Jinping as the core has conformed to the development and changes of the main
 contradictions in our society, taken the people's yearning for a better life as the goal, deeply
 implemented the people-centered development thinking, implemented a large number of measures
@@ -91,7 +91,7 @@ important thing is that the overall social situation of our country has maintain
 which is in sharp contrast to the turmoil in many countries and regions in the world, and has become
 one of the most secure countries in the world.
 
-The historic achievements made by the Communist Party of China in promoting social construction
+The historic achievements made by the CCP in promoting social construction
 fully reflect the superiority of socialism with Chinese characteristics, fully demonstrate the people-
 centered governing philosophy, and fully reflect the historical responsibility of major parties. The
 Party has always placed the interests of the people in the supreme position, never forgot its original

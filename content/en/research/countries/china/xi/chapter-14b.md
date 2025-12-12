@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 311
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 2. Build a new type of international relations featuring mutual respect, fairness and justice, and win-win cooperation

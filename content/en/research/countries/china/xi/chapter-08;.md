@@ -4,13 +4,13 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 149
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
 Chapter VIII: The New Normal of Economic Development and Achieving High-Quality Development
 
-Since the 18th National Congress of the Communist Party of China, the Party Central Committee
+Since the 18th National Congress of the CCP, the Party Central Committee
 with Comrade Xi Jinping as the core has taken charge of the general trend of domestic and foreign
 development, grasped the new characteristics and new requirements of China's economic
 development, and clearly put forward a series of new concepts, ideas and strategies such as China's

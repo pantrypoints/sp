@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 357
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -13,7 +13,7 @@ c: "darkslategray"
 The strength of the party comes from the organization and from the vast number of party members
 and cadres. The key to putting the party's political building in the first place and strengthening the
 party's political building lies in improving the political ability of party organizations at all levels and
-party-member cadres. On the basis of the 19th National Congress of the Communist Party of China
+party-member cadres. On the basis of the 19th National Congress of the CCP
 clearly requiring the whole party to strengthen its political leadership skills, Comrade Xi Jinping
 also specially advised that senior party cadres should pay attention to improving their political
 ability and match their political ability with their leadership responsibilities.

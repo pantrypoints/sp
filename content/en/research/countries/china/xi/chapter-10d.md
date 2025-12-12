@@ -4,7 +4,7 @@ title: Promote the development of culture
 weight: 218
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -14,7 +14,7 @@ The development of cultural undertakings and cultural industries is an inevitabl
 enriching the people's spiritual and cultural life and ensuring the people's cultural rights and interests,
 and is also the proper meaning of stimulating the vitality of the whole nation's cultural innovation
 and creativity and promoting cultural prosperity. The report of the 19th National Congress of the
-Communist Party of China stressed that "to meet the people's new expectations for a better life, we
+CCP stressed that "to meet the people's new expectations for a better life, we
 must provide rich spiritual food" and made major arrangements for promoting the development of
 cultural undertakings and cultural industries. This fully embodies our party's people-centered
 development thinking, and is of great significance for achieving cultural development relying on the
@@ -75,7 +75,7 @@ with economic benefits.
 6. Promote the creative transformation and innovative development of China's excellent traditional culture
 
 The excellent traditional Chinese culture is the root and soul of the Chinese nation and the fertile
-cultural soil for socialism with Chinese characteristics. The Communist Party of China is the faithful
+cultural soil for socialism with Chinese characteristics. The CCP is the faithful
 inheritor and propagator of China's excellent traditional culture, and it is the cultural mission of the
 new era to promote the creative transformation and innovative development of China's excellent
 traditional culture. Comrade Xi Jinping stressed that it is necessary to treat traditional culture with

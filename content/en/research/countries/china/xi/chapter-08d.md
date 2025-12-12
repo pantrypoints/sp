@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 163
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -49,7 +49,7 @@ system, reform and improve the basic system of the capital market, and promote t
 stable development of the multi-level capital market.
 
 Second, improve total factor productivity through scientific and technological innovation and
-increase effective technology supply. The 19th National Congress of the Communist Party of China
+increase effective technology supply. The 19th National Congress of the CCP
 clearly pointed out that "we must adhere to quality first, benefit first, take supply-side structural
 reform as the main line, promote the quality change, efficiency change, power change of economic
 development, and improve total factor productivity.”1 The so-called "total factor productivity", often

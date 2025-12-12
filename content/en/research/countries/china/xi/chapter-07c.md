@@ -4,15 +4,15 @@ title: Persisting in Comprehensively Deepening Reform and Comprehensively Openin
 weight: 127
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
 3. the key to realizing the "two centenary goals" and realizing the Chinese dream of the great rejuvenation of the Chinese nation
 
-Since the 15th National Congress of the Communist Party of China first put forward the "two
-centenary goals", the Communist Party of China has been working hard for them. Shortly after the
-18th National Congress of the Communist Party of China in 2012, Comrade Xi Jinping clearly put
+Since the 15th National Congress of the CCP first put forward the "two
+centenary goals", the CCP has been working hard for them. Shortly after the
+18th National Congress of the CCP in 2012, Comrade Xi Jinping clearly put
 forward the new goal of "realizing the Chinese dream of the great rejuvenation of the Chinese nation.”
 
 The 19th CPC National Congress made important arrangements for realizing the "two centenary
@@ -56,10 +56,10 @@ development, we fundamentally rely on reform and opening up.
 Without reform and opening up, there would be no China's today; without reform and opening up,
 there would be no China's tomorrow.
 
-Over the past 40 years and more, the Communist Party of China has united and led the people to
+Over the past 40 years and more, the CCP has united and led the people to
 emancipate their minds, seek truth from facts, boldly try and bravely reform, and create a new world.
 Reform and opening up have greatly changed the face of China, the face of the Chinese nation, the
-face of the Chinese people, and the face of the Communist Party of China. The Chinese nation has
+face of the Chinese people, and the face of the CCP. The Chinese nation has
 ushered in a great leap from standing up and getting rich to becoming strong, socialism with Chinese
 characteristics has ushered in a great leap from its founding, development to perfection, and the
 Chinese people have ushered in a great leap from insufficient food and clothing to moderate

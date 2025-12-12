@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 293
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -13,7 +13,7 @@ Section 3: Promoting the complete reunification of the motherland
 Accomplishing the reunification of the motherland is one of the three major historical tasks of the
 CPC and is where the fundamental interests of the Chinese nation lie.
 
-Since the 18th National Congress of the Communist Party of China, Comrade Xi Jinping, based on
+Since the 18th National Congress of the CCP, Comrade Xi Jinping, based on
 the long-term development of the cause of the party and the country, has systematically summed up
 the successful experience of the practice of "one country, two systems", profoundly expounded the
 basic position and major principles of adhering to the principle of "one country, two systems" and
@@ -41,7 +41,7 @@ was invaded and occupied by foreign peoples for half a century, "leaving heart-w
 compatriots on both sides of the strait.”2 At that time, the history of China was full of national
 humiliation and the sorrow and indignation of the people. In 1945, the victory of the War of
 Resistance and the restoration of Taiwan washed away half a century of national humiliation. In
-1949, the Communist Party of China led the Chinese people to win national independence and
+1949, the CCP led the Chinese people to win national independence and
 people's liberation, established New China, and achieved the complete reunification of the mainland
 of the motherland by 1951. 3 But Taiwan, Hong Kong and Macao are still floating away. After
 several generations of Chinese Communists' relay struggle, in the 90s of the 20th century, Hong

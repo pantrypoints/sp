@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 275
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -124,7 +124,7 @@ facing national security from a longer-term strategic perspective and constantly
 situation in national security.
 
 In this context, the overall concept of national security came into being. Since the 18th National
-Congress of the Communist Party of China, China's national security work system and mechanism
+Congress of the CCP, China's national security work system and mechanism
 have been continuously improved, the national security legal system has gradually taken shape, the
 national security strategy has been continuously improved, and the national security capability has
 been significantly improved, which fundamentally lies in the strong leadership of the Party Central

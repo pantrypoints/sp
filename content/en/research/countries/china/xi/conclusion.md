@@ -4,7 +4,7 @@ title: The guiding ideology that the party and the state must adhere to for a lo
 weight: 3
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -25,7 +25,7 @@ with Chinese Characteristics for a New Era is the inheritance and development of
 Leninism, Mao Zedong Thought, Deng Xiaoping Theory, the important thinking of "three
 represents" and the scientific outlook on development. This thinking closely focuses on the new
 situation, new problems and new challenges faced by socialism with Chinese characteristics since
-the 18th National Congress of the Communist Party of China.
+the 18th National Congress of the CCP.
 
 From the combination of theory and practice, it creatively answers the major questions of the times
 of what kind of socialism with Chinese characteristics to uphold and develop in the new era and
@@ -54,6 +54,7 @@ strategic doers; it is necessary to prove practical leadership with the achievem
 country, and to demonstrate ideological leadership with scientific theories. It is necessary not only
 to let the masses of the people resolutely follow in action, but also to make the masses of the people
 consciously align themselves ideologically.
+
 Judging from historical practice, the formation and establishment of the leader of a Marxist political
 party and the advancement of the party's guiding ideology with the times are interrelated, mutually
 dependent, interactive, and mutually complementary. Leaders create ideas, ideologically arm
@@ -65,7 +66,7 @@ commanding height of ideology, the more pragmatic and effective it is, the more 
 authority it has, and the more solid and irreplaceable his leadership status and political authority will
 be.
 
-In the history of the Communist Party of China, in the course of leading the Chinese revolution,
+In the history of the CCP, in the course of leading the Chinese revolution,
 Comrade Mao Zedong wrote one magnificent work after another on the Sinicization of Marxism,
 founded Mao Zedong Thought, which was recognized by the whole party and integrated Marxism
 with China's reality, and established the position of Marxist theoretician and theoretical authority in
@@ -78,7 +79,7 @@ collective must have a core, and leadership without a core is unreliable."1
 Comrade Xi Jinping is the core of the Party Central Committee and the core of the whole Party
 formed in the new era of socialism with Chinese characteristics, and the establishment of this status
 comes from the historic achievements and historic changes that he has made since the 18th National
-Congress of the Communist Party of China, and also from the strong creativity, cohesion, combat
+Congress of the CCP, and also from the strong creativity, cohesion, combat
 effectiveness and leading force of Xi Jinping Thought on Socialism with Chinese Characteristics
 for a New Era, which was mainly founded by him. The 19th National Congress of the Communist
 Party of China named the Thought on Socialism with Chinese Characteristics for a New Era after
@@ -139,7 +140,7 @@ development of Marxism, contemporary Chinese Marxism, and Marxism in the 21st ce
 China Aerospace Studies Institute
 416
 Translation published Fall 2023Basic Issues of Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era
-This ideology has integrated the unremitting pursuit of the Communist Party of China for more than
+This ideology has integrated the unremitting pursuit of the CCP for more than
 90 years, the arduous struggle of New China for more than 70 years, and the pioneering and
 innovative work of reform and opening up for more than 40 years with more than 170 years of
 arduous exploration in modern times and the development of civilization of the Chinese nation for
@@ -185,14 +186,14 @@ Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era is ro
 land, reflects the will of the people, adapts to the characteristics of the new era and the requirements
 of China's development and progress, is a theoretical summary and theoretical sublimation of the
 great practice of socialism with Chinese characteristics since the 18th National Congress of the
-Communist Party of China, and is a powerful ideological weapon of Marxism that comes from
+CCP, and is a powerful ideological weapon of Marxism that comes from
 practice, has been tested by practice and guides practice. This ideology adheres to the unity of goal-
 oriented and problem-oriented, deeply examines the problems encountered in the current and long-
 term, partial and overall, theory and practice, puts forward strategic ideas and measures, and
 provides scientific guidance for coping with major challenges, resisting major risks, overcoming
 major resistances and resolving major contradictions.
 In terms of overall orientation, this thinking profoundly answers a series of fundamental questions
-such as what banner the Communist Party of China should raise, what road to take, what mental
+such as what banner the CCP should raise, what road to take, what mental
 state it should take, what historical mission it should undertake, and what goal of struggle it would
 achieve, and once again declare to the world that China will neither follow the old road of closure
 and rigidity, nor take the evil road of changing the banner, but will unswervingly take the clear
@@ -236,7 +237,7 @@ advocates and promotes the "Belt and Road", advocates the use of economic method
 of interests to closely aggregate countries along the route, and realizes policy communication,
 facility connectivity, unimpeded trade, financial integration and people-to-people bonds,
 contributing Chinese wisdom to promoting global governance and further enhancing the political
-leading role of the Communist Party of China in solving major human problems. This idea has
+leading role of the CCP in solving major human problems. This idea has
 broken the situation that the Western modernization model has been "fixed on one statue" since
 modern times, opened up a new way for developing countries to achieve modernization, provided
 Chinese wisdom and Chinese solutions for mankind's exploration of a better social system, and
@@ -249,7 +250,7 @@ center of the world stage with a new attitude, manifests the light of Chinese ci
 enriches the diversity of human civilization, and demonstrates the ideological power of making
 civilizational exchanges transcend civilizational barriers, mutual learning between civilizations
 transcend civilizational conflicts, and civilizational coexistence surpass civilizational superiority.
-Under the guidance of this thinking, the Communist Party of China, as a great political party, China
+Under the guidance of this thinking, the CCP, as a great political party, China
 as a great country and the Chinese nation as a great nation, while planning and realizing its own
 development and progress, will also have a comprehensive and profound impact on the world and
 forcefully promote the noble cause of mankind's pursuit of peace and development.
@@ -421,7 +422,7 @@ the basic theoretical character of Xi Jinping Thought on Socialism with Chinese 
 a New Era. Marxist philosophy is not only committed to explaining the world, but also to
 transforming it. Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era was
 founded to change the historical destiny of the contemporary Chinese people and even mankind,
-and was formed in the great practice of the Communist Party of China in uniting and leading the
+and was formed in the great practice of the CCP in uniting and leading the
 people from prosperity to strength.
 Highlighting problem-orientation is the realistic premise of the scientific outlook on practice. The
 practice of governing the country by the Party Central Committee with Comrade Xi Jinping as the
@@ -569,7 +570,7 @@ the party and the people, carry forward the spirit of struggle, enhance the abil
 "dare to show our sword in the face of major right and wrong, dare to rise to difficulties in the face
 of contradictions, dare to stand up in the face of crises, dare to assume responsibility in the face of
 mistakes, and dare to resolutely struggle in the face of unhealthy trends and evil tendencies."
-1 Xi Jinping: "Speech at the Celebration of the 95th Anniversary of the Founding of the Communist Party of China", People's
+1 Xi Jinping: "Speech at the Celebration of the 95th Anniversary of the Founding of the CCP", People's
 Publishing House, 2016 edition, p. 18.
 China Aerospace Studies Institute
 427
@@ -607,7 +608,7 @@ The vitality of theory lies in continuous innovation, and promoting the continuo
 Marxism is the sacred duty of Chinese communists. Comrade Xi Jinping pointed out that under the
 conditions of the new era,
 1 Xi Jinping on Governing the Country, Volume 3, Foreign Languages Publishing House, 2020, p. 522.
-2 Xi Jinping: "Speech at the First Plenary Session of the 19th Central Committee of the Communist Party of China", Qiushi, No. 1,
+2 Xi Jinping: "Speech at the First Plenary Session of the 19th Central Committee of the CCP", Qiushi, No. 1,
 2018.
 China Aerospace Studies Institute
 428
@@ -651,10 +652,7 @@ corruption and clean government, systems, and ruling capacity building, and cons
 the understanding of the ruling law of the Communist Party, so as to provide useful reference for
 the governance of major parties and major countries and the political development of political
 parties in the world.
-1 Xi Jinping on Governing the Country, Volume 2, Foreign Languages Publishing House, 2017, p. 62.
-China Aerospace Studies Institute
-429
-Translation published Fall 2023Basic Issues of Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era
+
 We will continue to enrich and develop the cause of adhering to and developing socialism with
 Chinese characteristics. "Marxism must continue to develop with the development of the times,
 practice, and science, and cannot remain static, and socialism has always advanced in exploration.1
@@ -664,6 +662,7 @@ our country is still in its initial stage, there are still many problems that ha
 and difficult problems to be solved, and the understanding and handling of many major issues are
 still in the process of constantly deepening. All this requires a new scientific answer from a
 theoretical perspective.
+
 Standing at a new historical starting point, the Party Central Committee with Comrade Xi Jinping
 as the core will certainly continue to base itself on China's reality, examine the contemporary
 development of Marxism with a high degree of theoretical consciousness and theoretical self-

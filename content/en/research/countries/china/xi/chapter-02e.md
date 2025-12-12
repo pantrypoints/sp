@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 30
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -12,7 +12,7 @@ c: "darkslategray"
 
 Leading the Chinese nation toward rejuvenation is not only the historical mission entrusted to the
 Chinese Communists by the development of China's modern history, but also the conscious choice
-and initiative of the Chinese Communists. Since its birth, the Communist Party of China has
+and initiative of the Chinese Communists. Since its birth, the CCP has
 regarded seeking happiness for the Chinese people and rejuvenation for the Chinese nation as its
 original aspiration and mission. The nature, ideals and purposes of the Party doom it to take the
 realization of national independence and the prosperity and strength of the country as her own
@@ -20,19 +20,19 @@ responsibility, to devote all her wisdom and painstaking efforts to the realizat
 rejuvenation, and to the fact that she must closely unite and rely on the broadest masses of the people
 and gain from them the tremendous strength to promote historical progress.
 In order to realize the historical mission of the great rejuvenation of the Chinese nation, whether it
-is weak or strong, whether in good times or bad, the Communist Party of China has never changed
+is weak or strong, whether in good times or bad, the CCP has never changed
 its original intention and unswervingly determined, dared to overcome any difficulties, is willing to
 make any sacrifice, has the courage to correct any mistakes, unites and leads the Chinese people to
 carry out the new democratic revolution, socialist revolution, socialist construction, reform and
 opening up, and the Chinese nation has ushered in a great leap from standing up, getting rich to
 becoming strong. Facts have eloquently proved that it is precisely under the leadership of the
-Communist Party of China that the Chinese nation has completely shaken off the miserable situation
+CCP that the Chinese nation has completely shaken off the miserable situation
 of being slaughtered by others, and that the Chinese people have completely bid farewell to the weak
-state of poverty and backwardness; in contemporary China, only the Communist Party of China and
+state of poverty and backwardness; in contemporary China, only the CCP and
 no other political force can lead the Chinese people to realize the great historical cause of national
 rejuvenation.
 
-Since the 18th National Congress of the Communist Party of China, the Party Central Committee
+Since the 18th National Congress of the CCP, the Party Central Committee
 with Comrade Xi Jinping as the core has taken over the baton of history, united and led the whole
 party and the people of all ethnic groups throughout the country to promote the overall layout of the
 "five-in-one" and the "four comprehensive" strategic layout, promoted the historic achievements
@@ -46,7 +46,7 @@ pointed out: "What we are now in is a time when the boat is wandering more urgen
 to the middle of the mountain is steeper, and it is a time when it is more and more difficult to advance,
 more and more dangerous, and if you do not advance, you must retreat, you must enter."
 
-At this critical historical juncture, only the Communist Party of China can play its role as the
+At this critical historical juncture, only the CCP can play its role as the
 "backbone" ideologically and politically, maintain the political determination not to follow the old
 road and not to take the evil road, unite the invincible and majestic strength of the whole party and
 the people of all ethnic groups throughout the country, and continue to forge ahead courageously
@@ -54,7 +54,7 @@ towards the goal of the great rejuvenation of the Chinese nation.
 
 2. the essence of the Chinese dream is national prosperity and strength, national rejuvenation and people's happiness
 
-The 19th National Congress of the Communist Party of China pointed out: "Realizing the great
+The 19th National Congress of the CCP pointed out: "Realizing the great
 rejuvenation of the Chinese nation is the greatest dream of the Chinese nation in modern times. "2
 This great dream, with profound historical accumulation and rich ideological connotation, embodies
 the long-cherished wishes of several generations of Chinese, embodies the overall interests of the
@@ -121,11 +121,11 @@ pointed out that to realize the Chinese dream, we must take the road of China as
 forward the Chinese spirit, and unite China's strength.
 The Chinese road is the road of socialism with Chinese characteristics. History and reality tell us
 that the road determines destiny, and it is extremely difficult to find a correct path. Since the reform
-and opening up, the Communist Party of China has summed up historical experience, made
+and opening up, the CCP has summed up historical experience, made
 continuous arduous explorations, and finally found the correct path to realize the great rejuvenation
 of the Chinese nation, which is the path of socialism with Chinese characteristics. The path of
 socialism with Chinese characteristics is to base on the basic national conditions under the
-leadership of the Communist Party of China, take economic construction as the center, adhere to the
+leadership of the CCP, take economic construction as the center, adhere to the
 four basic principles, adhere to reform and opening up, liberate and develop social productive forces,
 build a socialist market economy, socialist democratic politics, advanced socialist culture, socialist
 harmonious society and socialist ecological civilization, promote all-round human development,
@@ -167,10 +167,10 @@ progress, and becoming a spiritual bond to strengthen the unity and struggle of 
 whole country and a spiritual driving force for unceasing self-improvement, can we compose a
 wonderful movement of the great rejuvenation of the Chinese nation.
 China's strength is the strength of the great unity of the Chinese people of all ethnic groups. Among
-them, the Communist Party of China is the core force. Without the leadership of the Communist
+them, the CCP is the core force. Without the leadership of the Communist
 Party, an advanced Marxist political party, the Chinese people of all ethnic groups would have no
 "backbone" and would find it difficult to form cohesion. To pool China's strength, we must, under
-the leadership of the Communist Party of China, consolidate and develop the broadest patriotic
+the leadership of the CCP, consolidate and develop the broadest patriotic
 united front, unite all forces that can be united, mobilize all positive factors that can be mobilized,
 fully stimulate everyone's enterprising spirit and creativity, and fully mobilize the initiative and
 creativity of all social strata and social groups. The masses of the people are the main force, and

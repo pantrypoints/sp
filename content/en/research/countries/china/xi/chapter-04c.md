@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 70
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -73,7 +73,7 @@ In this way, people can really continue to get more "good" feelings.
 
 3. adhere to the people-centered work orientation
 To take the people's yearning for a better life as the goal of struggle, we must adhere to the people-
-centered work orientation. Since the 18th National Congress of the Communist Party of China, the
+centered work orientation. Since the 18th National Congress of the CCP, the
 Party Central Committee with Comrade Xi Jinping as the core has always adhered to the people-
 centered development thinking, always adhered to the people-centered work orientation, taken the
 benefit of the people as the greatest achievement, shouldered the responsibility of reform and

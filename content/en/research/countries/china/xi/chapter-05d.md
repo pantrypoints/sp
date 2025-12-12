@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 93
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -46,7 +46,7 @@ stressed the need to coordinate the development of material, spiritual, and poli
 implement the strategy of rejuvenating the country through science and education, the strategy of
 sustainable development, and the strategy of large-scale development of the western region, and
 persist in following the road of new-type industrialization. After the 16th National Congress of the
-Communist Party of China, Comrade Hu Jintao proposed to take development as the key to solving
+CCP, Comrade Hu Jintao proposed to take development as the key to solving
 all problems in China, firmly establish and fully implement the scientific outlook on development,
 emphasize that development is the first meaning, the core is people-oriented, the basic requirement
 is comprehensive, coordinated and sustainable, and the fundamental method is to take into account
@@ -59,13 +59,13 @@ social progress and all-round human development on the basis of economic develop
 in realizing harmonious coexistence between man and nature in the development and utilization of
 nature, and achieve sustainable economic and social development. All these have made important
 contributions to enriching the Marxist outlook on development.
-Since the 18th National Congress of the Communist Party of China, Comrade Xi Jinping has
+Since the 18th National Congress of the CCP, Comrade Xi Jinping has
 scientifically grasped the profound changes in the foundation, environment, conditions, goals and
 tasks of China's economic and social development, vigorously promoted the innovation of the party's
 development theory, clearly put forward a new development concept, and raised the party's
 development theory to a new historical height.
 
-The 19th National Congress of the Communist Party of China took "adhering to the new
+The 19th National Congress of the CCP took "adhering to the new
 development concept" as one of the basic strategies for adhering to and developing socialism with
 Chinese characteristics in the new era, emphasizing that "development is the foundation and key to
 solving all problems in our country, development must be scientific development, and we must
@@ -101,7 +101,7 @@ The new development concept is an important content of Xi Jinping Thought on Soc
 Chinese Characteristics for a New Era, which deepens and expands the CPC's understanding of the
 law of the development of the socialist economy with Chinese characteristics, and enriches and
 develops the political economy of socialism with Chinese characteristics.
-1 Compilation of Documents of the 19th National Congress of the Communist Party of China, People's Publishing House, 2017, p.
+1 Compilation of Documents of the 19th National Congress of the CCP, People's Publishing House, 2017, p.
 17.
 
 The new development concept has written a new chapter in the political economy of socialism with

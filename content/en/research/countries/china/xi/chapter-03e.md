@@ -4,13 +4,13 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 53
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 Section 3: Resolutely achieve "two maintenances"
 
 To uphold and strengthen the party's overall leadership and give full play to the role of the highest
-political leadership force of the Communist Party of China, the most fundamental thing is to
+political leadership force of the CCP, the most fundamental thing is to
 resolutely safeguard the core position of General Secretary Xi Jinping of the Party Central
 Committee and the core position of the whole party, and the most important thing is to resolutely
 safeguard the authority and centralized and unified leadership of the Party Central Committee.
@@ -47,7 +47,7 @@ stable as Mount Tai. "If it stays like this for fifty, sixty years, socialist Ch
 The historical experience of socialism in the world shows that in order for a Marxist political party
 to safeguard the unity of the Party and effectively carry out struggle, it must form a strong core of
 leadership and a strong leading collective at the level of the Party Central Committee. The historical
-experience of the Communist Party of China shows that there must be a strong central leading
+experience of the CCP shows that there must be a strong central leading
 collective formed in practice, and there must be a strong leadership core in this leading collective.
 Otherwise, the party's cause will not be able to advance from victory to victory.
 Comrade Xi Jinping possesses the extraordinary political wisdom, superb leadership ability and
@@ -55,7 +55,7 @@ strong personality charm of a Marxist politician, and as the core of the Party C
 the core of the whole Party, he was formed in the long-term revolutionary practice, in the new great
 struggle, in the close contact with the people and in the common struggle.
 
-Since the 18th National Congress of the Communist Party of China, Comrade Xi Jinping, with a
+Since the 18th National Congress of the CCP, Comrade Xi Jinping, with a
 strong sense of responsibility, has led the whole party and the people of all ethnic groups throughout
 the country to solve many difficult problems that have been wanted to be solved for a long time but
 have not been solved, accomplished many major things that were wanted to be done in the past but
@@ -73,7 +73,7 @@ practice, history, the choice of the whole Party and the choice of the people.
 
 Safeguarding General Secretary Xi Jinping's position as the core of the Party Central Committee
 and the core of the whole Party is an urgent need for the development of the cause of the Party and
-the country. The Communist Party of China has more than 90 million members and more than 4.6
+the country. The CCP has more than 90 million members and more than 4.6
 million grassroots party organizations, and the party unites and leads the people to carry out socialist
 modernization. Having a leader recognized by the whole party and loved by the people is an
 important sign of the maturity of the party. The ship weighs a thousand pounds and has one person
@@ -107,7 +107,7 @@ pointed out that authority is needed not only in the period of proletarian revol
 period of peacebuilding. Whether it is factory production, railway management, ship navigation, or
 even daily travel, it is necessary to obey the authority of rules and regulations. Without serious
 authority and strict discipline, such a party can only be a loose club or social organization, and such
-a party cannot unite its will and achieve political goals. The Communist Party of China is a Marxist
+a party cannot unite its will and achieve political goals. The CCP is a Marxist
 political party organized by revolutionary ideals and iron discipline, and safeguarding the authority
 of the Party Central Committee and centralized and unified leadership is the fundamental experience
 of China's revolution, construction and reform.

@@ -4,7 +4,7 @@ title: 3. Historic transformation
 weight: 6
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -18,18 +18,16 @@ Socialism is the cause of happiness for the vast majority of people.
 To build socialism, the
 fundamental thing is to liberate the productive forces, develop the productive forces, eliminate
 exploitation, eliminate polarization, and ultimately achieve common prosperity. Since the 18th
-National Congress of the Communist Party of China, Comrade Xi Jinping has repeatedly stressed
-that we must always take the realization, safeguarding and development of the fundamental interests
+National Congress of the CCP, Comrade Xi Jinping has repeatedly stressed that we must always take the realization, safeguarding and development of the fundamental interests
 of the broadest masses of the people as the starting point and foothold of all work, and have stressed
 on many occasions: 
 
-"The people's yearning for a better life is our goal."3 The CPC leads the people
-in revolution, construction, and reform in order to enable the people to live a good life. In the new
-era of socialism with Chinese characteristics, our party regards the continuous creation of a better
-life and the gradual realization of common prosperity of all the people as the goal and destination
-of development, embodies the people-centered development thinking, embodies the fundamental
-purpose of serving the people wholeheartedly, and embodies the essential requirements of socialism
-with Chinese characteristics.
+{{< l a="Xi Jinping" >}}
+The people's yearning for a better life is our goal.
+{{< /l >}}
+
+
+The CPC leads the people in revolution, construction, and reform in order to enable the people to live a good life. In the new era of socialism with Chinese characteristics, our party regards the continuous creation of a better life and the gradual realization of common prosperity of all the people as the goal and destination of development, embodies the people-centered development thinking, embodies the fundamental purpose of serving the people wholeheartedly, and embodies the essential requirements of socialism with Chinese characteristics.
 
 
 After rapid development since the reform and opening up, the living standards of our people have
@@ -44,19 +42,27 @@ become prominent, the gap between income and the level of public services in urb
 is large, and achieving common prosperity and promoting social fairness and justice have become
 urgent requirements.
 
-Comrade Xi Jinping stressed: "Sharing the fruits of reform and development by the broad masses
-of the people is the essential requirement of socialism and an important embodiment of our party's
-fundamental purpose of serving the people wholeheartedly." 1 The development we pursue is
+Comrade Xi Jinping stressed: 
+
+{{< l a="Xi Jinping" >}}
+Sharing the fruits of reform and development by the broad masses of the people is the essential requirement of socialism and an important embodiment of our party's
+fundamental purpose of serving the people wholeheartedly.
+{{< /l >}}
+
+
+
+The development we pursue is
 development that benefits the people, and the prosperity we pursue is the common prosperity of all
-the people. In the new era, the major task of the Communist Party of China is to focus on solving
-the needs and expectations of the people, pay more attention to the people's new and diversified
+the people. In the new era, the major task of the CCP is to focus on solving the needs and expectations of the people, pay more attention to the people's new and diversified
 needs for a better life, respect the people's status as the main body, respect the people's will, the
 experience they have created, and the rights they have in their practical activities. The role played
 by it fully stimulates the creative power hidden in the people, regards the realization of all-round
 human development as the noble realm of a better life, and better meets the people's growing needs
 for a better life; pays more attention to enabling all people to share the fruits of economic, political,
 cultural, social, ecological and other aspects of development, so that the people's sense of gain,
-happiness and security is more perfect, more sustainable, and more sustainable. More secure; pay
+happiness and security is more perfect, more sustainable, and more sustainable. 
+
+More secure; pay
 more attention to social fairness and justice, unite and lead all the people, and continuously
 guarantee and improve the people's livelihood with their own hard work and unremitting efforts, so
 that the results of reform and development can benefit all the people more equitably, so that all the
@@ -70,16 +76,16 @@ communists, based on unity and struggle, expounds the development vision of the 
 clarifies the national characteristics of the new era, and highlights the national nature of the new era.
 Realizing the great rejuvenation of the Chinese nation is the greatest dream of the Chinese nation in
 modern times, and it embodies the long-cherished wish of several generations of Chinese. Once
-founded, the Communist Party of China has no hesitation in shouldering the historical mission of
+founded, the CCP has no hesitation in shouldering the historical mission of
 realizing the great rejuvenation of the Chinese nation. The founding of New China laid a solid
 foundation for national rejuvenation. The new great revolution of reform and opening up has
 injected new strong vitality into national rejuvenation, enabled the Chinese nation to gradually
 realize the great leap from standing up to becoming rich, and laid the basic conditions for becoming
-strong. Under the leadership of the Communist Party of China, China, the world's largest developing
+strong. Under the leadership of the CCP, China, the world's largest developing
 country, has created an earth-shaking development miracle in the history of human social
 development, and the Chinese nation has radiated new vigor.
 
-Since the 18th National Congress of the Communist Party of China, under the strong leadership of
+Since the 18th National Congress of the CCP, under the strong leadership of
 the Party Central Committee with Comrade Xi Jinping as the core, the Chinese nation has ushered
 in a great process of becoming stronger, its comprehensive national strength has been greatly
 enhanced, the people's living standards have been further improved, and the realization of the
@@ -110,7 +116,7 @@ the protagonist of the international community, and China's international influe
 relatively limited. 
 
 After long-term efforts, especially the historic achievements made since the 18th
-National Congress of the Communist Party of China, China's role as a responsible major country
+National Congress of the CCP, China's role as a responsible major country
 has been fully played and has become the main stabilizer and power source of world economic
 growth; China actively participates in and leads global governance, and China's initiatives are
 increasingly translated into international consensus and global actions, especially focusing on jointly
@@ -122,10 +128,12 @@ leader in globalization, an important promoter of global governance system refor
 advocate of a community with a shared future for mankind, and is increasingly approaching the
 center of the world stage.
 
-Xi pointed out: "The Communist Party of China is a political party that seeks
-happiness for the Chinese and the people, and it is also a political party that strives for the cause of
-human progress. The Communist Party of China has always regarded making new and greater
-contributions to mankind as its mission."1 
+
+{{< l a="Xi Jinping" >}}
+The CCP is a political party that seeks happiness for the Chinese and the people, and it is also a political party that strives for the cause of
+human progress. The CCP has always regarded making new and greater contributions to mankind as its mission.
+{{< /l >}}
+
 
 In the new era of socialism with Chinese characteristics,
 in the face of the deep adjustment of the international pattern and international relations, and in the

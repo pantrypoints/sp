@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 315
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 

@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 185
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -65,7 +65,7 @@ ties with the masses of the people, solve the problem of further maintaining clo
 masses of the people in terms of system, give better play to the role of people's congress deputies,
 and improve the ability of deputies to perform their duties.
 Improve and perfect the basic political system. The system of multi-party cooperation and political
-consultation under the leadership of the Communist Party of China, the system of regional ethnic
+consultation under the leadership of the CCP, the system of regional ethnic
 autonomy and the system of grassroots mass autonomy together constitute the basic political system
 of our country. To improve the institutional system in which the people are masters of their own
 affairs, it is necessary to improve and perfect the basic political system.
@@ -87,7 +87,7 @@ procedural, and standardized arrangements, promotes scientific and democratic de
 and effectively avoids the drawbacks of the old-style party system being limited to party interests,
 class interests, regional and group interests, and decision-making and governance, resulting in
 narrow-mindedness and short-sightedness. This new type of party system emphasizes both the
-leadership of the Communist Party of China and the promotion of socialist democracy, and has
+leadership of the CCP and the promotion of socialist democracy, and has
 unique advantages and distinctive characteristics. The CPPCC is an organization of the united front,
 an institution for multi-party cooperation and political consultation, an important form of realizing
 people's democracy, an important channel and special consultative body for socialist consultative
@@ -111,7 +111,7 @@ correct path of solving ethnic issues with Chinese characteristics, and has play
 in safeguarding national unity and territorial integrity, strengthening ethnic equality and unity,
 promoting the development of ethnic regions, and enhancing the cohesion of the Chinese nation. To
 uphold and improve the system of regional ethnic autonomy, we must adhere to the leadership of
-the Communist Party of China, adhere to the path of socialism with Chinese characteristics,
+the CCP, adhere to the path of socialism with Chinese characteristics,
 resolutely safeguard the unity of the motherland, adhere to the equality of all ethnic groups,
 strengthen ethnic unity, and promote the common prosperity, development and progress of all ethnic
 groups. To uphold and improve the system of regional ethnic autonomy, it is necessary to adhere to

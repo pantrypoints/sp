@@ -4,16 +4,16 @@ title: Upholding and Developing Socialist Democratic Politics
 weight: 173
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
 Developing people's democracy and promoting political civilization is the consistent stand and
-unremitting pursuit of the Communist Party of China. After the founding of New China, especially
+unremitting pursuit of the CCP. After the founding of New China, especially
 since the beginning of reform and opening up, the party has persistently integrated Marxist political
 theory with China's specific realities and the characteristics of the times, and has embarked on a
 path of socialist political development with Chinese characteristics that suits the national conditions.
-Since the 18th National Congress of the Communist Party of China, the Party Central Committee
+Since the 18th National Congress of the CCP, the Party Central Committee
 with Comrade Xi Jinping as the core has consolidated its foundation and forged ahead into the future,
 adhered to and strengthened the party's comprehensive leadership, explored and developed socialist
 democratic politics with the people as the masters of the country, incorporated the comprehensive
@@ -50,11 +50,11 @@ system with Chinese characteristics is viable, vigorous and efficient is because
 social soil. The socialist political system with Chinese characteristics has always grown and is
 growing in China's social soil, and if it is to continue to grow in the future, it must also be deeply
 rooted in China's social soil. " 1 The political development path of socialism with Chinese
-characteristics is the practice and creation of the Communist Party of China in uniting and leading
+characteristics is the practice and creation of the CCP in uniting and leading
 the Chinese people and carrying out long-term and unremitting struggle based on China's reality.
 After entering the modern era, various political forces in Chinese society have appeared, but they
 have not found a plan suitable for the national conditions. Holding high the glorious banner of
-democracy, the Communist Party of China has waged a heroic struggle for nearly a century. Since
+democracy, the CCP has waged a heroic struggle for nearly a century. Since
 its founding, the party has taken the realization of the people's mastery as its own responsibility, and
 has always taken standing firm on the people's standpoint, upholding the people's dominant position,
 and ensuring the realization of the people's fundamental interests as the starting point and end point
@@ -74,7 +74,7 @@ channels and more diverse forms for the people to enjoy and exercise democratic 
 accordance with the law. From the revision, improvement and in-depth implementation of the
 Constitution, to the continuous improvement of the basic political system of the People's Congress
 and the system of multi-party cooperation and political consultation under the leadership of the
-Communist Party of China, the system of regional ethnic autonomy and the system of grassroots
+CCP, the system of regional ethnic autonomy and the system of grassroots
 mass autonomy, to the promotion of the reform of the leadership system of the Party and the state,
 the promotion of the rule of law, the rule of law in socialist democratic politics, and the strengthening
 of supervision and restraint on the operation of power, all these have fully demonstrated the Party's
@@ -84,7 +84,7 @@ to make great progress in developing socialist democratic politics, successfully
 adhered to the path of socialist political development with Chinese characteristics, and established
 the correct direction for the realization of the broadest people's democracy."1
 
-Since the 18th National Congress of the Communist Party of China, the Party Central Committee
+Since the 18th National Congress of the CCP, the Party Central Committee
 with Comrade Xi Jinping as the core has taken the development of socialist democratic politics as
 an important part of promoting the modernization of the national governance system and governance
 capabilities, and promoted the improvement and development of socialist democratic politics in the

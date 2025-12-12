@@ -4,14 +4,14 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 308
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
 
 Chapter XIV: Building a Community with a Shared Future for Mankind
 
-Since the 18th National Congress of the Communist Party of China, faced with the new situation
+Since the 18th National Congress of the CCP, faced with the new situation
 that the world is undergoing major changes unprecedented in a century, and with China approaching
 the center of the world stage as never before, the Party Central Committee with Comrade Xi Jinping
 as the core has conformed to the trend of the times, based on China's reality, effectively coped with
@@ -43,7 +43,7 @@ complex and intertwined, and the international community is facing a governance 
 deficit, peace deficit, and Four major challenges to the development deficit.
 
 What is wrong with the world? What should we do? Cooperation or confrontation? Openness or
-closure; mutual benefit or zero-sum game? The Communist Party of China has not only sought
+closure; mutual benefit or zero-sum game? The CCP has not only sought
 happiness for the Chinese of the people but also struggled for the cause of human progress, and has
 made its own unique answers to these questions concerning the future and destiny of mankind.
 Concentrated on one point, it is the major strategic thinking of "building a community with a shared
@@ -60,7 +60,7 @@ Institute of International Relations, in which he clearly put forward the idea o
 have your community of common destiny.” In September 2015, when attending the general debate
 of the 70th session of the United Nations General Assembly, he made the first comprehensive and
 systematic exposition of the idea of a community with a shared future for mankind. In December
-2017, in his keynote speech at the high-level dialogue between the Communist Party of China and
+2017, in his keynote speech at the high-level dialogue between the CCP and
 political parties around the world, Comrade Xi Jinping once again gave a profound explanation,
 pointing out: "A community with a shared future for mankind, as the name implies. That is, the
 future and destiny of every nation and country are closely linked, and we should share hardships
@@ -76,7 +76,7 @@ a better home for the earth."1 In May 2020, in his speech at the opening ceremon
 Health Assembly video conference, Comrade Xi Jinping put forward the initiative of "unity and
 cooperation to overcome the epidemic and jointly build a human health community.”
 The idea of a community with a shared future for mankind is extremely rich and profound, and its
-core is what the report of the 19th National Congress of the Communist Party of China pointed out:
+core is what the report of the 19th National Congress of the CCP pointed out:
 "Build a world of lasting peace, universal security, common prosperity, openness, inclusiveness,
 cleanliness and beauty."2 The proposal of this initiative has undoubtedly pointed out the direction
 and realistic path of common development, common progress, common security and common

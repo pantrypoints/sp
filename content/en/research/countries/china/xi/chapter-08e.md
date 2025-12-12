@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 167
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -78,7 +78,7 @@ the government has taxes, which is how to distribute it reasonably.
 
 To promote high-quality development, we must build a modern economic system. Building a
 modern economic system is a major strategic deployment made by Comrade Xi Jinping for
-economic construction at the 19th National Congress of the Communist Party of China. At present,
+economic construction at the 19th National Congress of the CCP. At present,
 China's economic development is in the critical period of transforming the development mode,
 optimizing the economic structure, and transforming the growth momentum, and building a modern
 economic system is not only an urgent requirement for crossing the threshold, but also a strategic

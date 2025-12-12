@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 368
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -18,7 +18,7 @@ there are some people who stop and no longer advance."1 There may be many reason
 people are not moving forward, but the most important is the loss of faith or abandonment of faith;
 
 They will even "use the party to do private dirty work",1 let alone self-revolution. Therefore, as far
-as the Communist Party of China is concerned, in order to maintain the strategic strength of self-
+as the CCP is concerned, in order to maintain the strategic strength of self-
 revolution, it must attach importance to strengthening the soul with ideals and beliefs, and the firmer
 the faith and conviction, the more it dares to "throw away all the old and dirty things in oneself.”2
 In today's China, the trend of social thought is becoming increasingly diverse and diverse, the
@@ -76,7 +76,7 @@ revolution, the Party has continuously promoted the innovation of systems and me
 constantly promoted the maturity and formalization of systems. In turn, the innovation of systems
 and mechanisms has provided a guarantee for the party to gnaw hard bones, wade into deep waters,
 and further self-revolution, thus improving the ability and level of self-revolution. Since the 18th
-National Congress of the Communist Party of China, the Party has vigorously broken the shackles
+National Congress of the CCP, the Party has vigorously broken the shackles
 of systems and mechanisms, continuously promoted institutional innovation, and focused on
 establishing a relatively mature institutional system in all aspects, greatly improving its self-
 revolutionary ability in promoting the modernization of the national governance system and
@@ -94,7 +94,7 @@ strengthen the party.
 After the reform and opening up, Comrade Deng Xiaoping demanded that the vast number of party
 members and cadres "carry forward the revolutionary and desperate spirit" and stressed that "the
 revolutionary spirit is very valuable, and without the revolutionary spirit, there will be no
-revolutionary action.” 1 Since the 18th National Congress of the Communist Party of China,
+revolutionary action.” 1 Since the 18th National Congress of the CCP,
 Comrade Xi Jinping has repeatedly emphasized: "We should more consciously strengthen the
 principles of the Party spirit, carry forward the spirit of thorough self-revolution, and continuously
 enhance the Party's ability to purify, improve, renew and improve itself." 2 Only by holding an

@@ -4,7 +4,7 @@ title: "Section 3: The leadership of ideological work"
 weight: 248
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
  
@@ -21,7 +21,7 @@ responsibility, social coordination, public participation, and legal guarantee.
 
 The fundamental feature of socialist social governance with Chinese characteristics is the leadership
 of the Party. In this respect, we are fundamentally different from the social governance of Western
-capitalism. In China, the Communist Party of China has a broad and profound social and mass
+capitalism. In China, the CCP has a broad and profound social and mass
 foundation, and its party organizations cover the whole society, extend to the grassroots level, and
 play a leading core role in political, economic, cultural and social life, which is essentially different
 from the nature and role of Western political parties. State-owned enterprises and institutions are

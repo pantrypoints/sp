@@ -4,7 +4,7 @@ title: Upholding and Developing Socialist Democratic Politics
 weight: 202
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 

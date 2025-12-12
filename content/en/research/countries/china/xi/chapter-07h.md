@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 144
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -22,7 +22,7 @@ China's reform and opening up began with pilot projects. This is true of the pil
 owned enterprises in the early stage of reform and opening up, the four special economic zones of
 Shenzhen, Zhuhai, Shantou and Xiamen as "test fields" for opening up to the outside world, or the
 establishment of the China (Shanghai) Pilot Free Trade Zone after the 18th National Congress of
-the Communist Party of China to explore new forms of trade facilitation. To promote reform and
+the CCP to explore new forms of trade facilitation. To promote reform and
 opening up, it is not necessary to carry out pilot projects in all aspects and fields. In practice, for
 reforms that must make breakthroughs but are not so sure for the time being, we adopt the method
 of pilot exploration and throwing stones to ask for directions, carry out experiments first, respect

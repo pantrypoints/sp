@@ -4,7 +4,7 @@ title: Persisting in Comprehensively Deepening Reform and Comprehensively Openin
 weight: 130
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -12,8 +12,8 @@ Section 2: Persist in comprehensively deepening reform
 
 China's reform and opening up began with the Third Plenary Session of the 11th CPC Central
 Committee, adhered to the principle of prioritizing the easy before the difficult, and gradually
-progressively to the convening of the 18th National Congress of the Communist Party of China.
-After the 18th National Congress of the Communist Party of China, China's reform entered the
+progressively to the convening of the 18th National Congress of the CCP.
+After the 18th National Congress of the CCP, China's reform entered the
 period of tackling tough problems and deep waters, "It can be said that the easy and happy reforms
 have been completed, the delicious meat has been eaten, and the rest are hard bones."1 It can be said
 that the complexity, sensitivity and arduousness of further promoting reform are no less than more
@@ -28,7 +28,7 @@ reform through the overall design of the system.
 
 1. Comprehensively deepen the basic observance of reform
 
-Since the 18th National Congress of the Communist Party of China, Comrade Xi Jinping has
+Since the 18th National Congress of the CCP, Comrade Xi Jinping has
 repeatedly pointed out that the success of China's reform is because we have adhered to the correct
 direction and position and maintained political firmness. To promote comprehensive deepening of
 reform in the new era, we must also adhere to the correct direction, adhere to the people-centered

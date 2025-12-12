@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 140
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -127,7 +127,7 @@ head-on, improve our ruling skills, be good at solving problems, and promote the
 advancement of reform and opening up.
 
 Adhering to goal orientation is an important method to promote reform and opening up, and it is
-also an important experience of the Communist Party of China in leading reform and opening up.
+also an important experience of the CCP in leading reform and opening up.
 Scientific and reasonable goals guide the direction of efforts and provide spiritual inspiration. On
 the basis of the "four modernizations" put forward by the party in the fifties and sixties of the 20th
 century, in the 80s it proposed to achieve moderate prosperity and "build a prosperous, strong,

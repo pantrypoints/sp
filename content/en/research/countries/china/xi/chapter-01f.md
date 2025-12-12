@@ -4,7 +4,7 @@ title: "Section 4: The new era is the age of strivers"
 weight: 11
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -34,11 +34,11 @@ whole."3
 
 That is to say, the original intention and mission of Marxism and the communists under its
 guidance is to seek the interests of the overwhelming majority of the people. After its founding, the
-Communist Party of China took Marxism as its guiding ideology, regarded the realization of
+CCP took Marxism as its guiding ideology, regarded the realization of
 communism as the party's highest ideal and ultimate goal, shouldered the historical mission of
 realizing the great rejuvenation of the Chinese nation without hesitation, united and led the people
 in an arduous struggle, and composed a magnificent epic that swallowed mountains and rivers.
-As a political organization, the original mission of the Communist Party of China was to follow the
+As a political organization, the original mission of the CCP was to follow the
 path guided by Marxism and seek the independence and prosperity of the country and the freedom
 and happiness of the people. We reaffirm the original intention of the Party and the historical mission
 of the Chinese Communists in the new era, that is, to enable more than 90 million Party members
@@ -60,12 +60,12 @@ to the success of the party from victory to new victory.
 
 In July 2013, Comrade Xi Jinping went to Xibaipo, Hebei Province to conduct research, revisit the
 "two musts" and issue a call to the whole party to "catch up for the exam"; only one week after the
-conclusion of the 19th National Congress of the Communist Party of China, Comrade Xi Jinping
+conclusion of the 19th National Congress of the CCP, Comrade Xi Jinping
 led the new Politburo Standing Committee members to Shanghai and Jiaxing, Zhejiang Province to
 visit the site of the First Congress and the Red Boat on Nanhu, review the history of the founding
 of the Party, relive the oath of the People's Party, and declare the firm political conviction of the new
 leadership of the Party Central Committee. According to the arrangements of the 19th National
-Congress of the Communist Party of China, starting from June 2019, the theme education of "not
+Congress of the CCP, starting from June 2019, the theme education of "not
 forgetting the original intention and remembering the mission" will be carried out in two batches
 from top to bottom in the whole party, promoting the whole party to firmly grasp the general
 requirements of "keeping the original intention, undertaking the mission, finding the gaps, and
@@ -76,7 +76,7 @@ Fourth Plenary Session of the 19th CPC Central Committee proposed that we should
 system that does not forget our original aspiration and keep our mission firmly in mind, and regard
 not forgetting our original aspiration and keeping our mission in mind as an eternal task for
 strengthening party building and a lifelong task for all party members and cadres. All this is to tell
-the world that the Communist Party of China will always maintain the spirit of struggle in the
+the world that the CCP will always maintain the spirit of struggle in the
 revolution and always maintain its heart for the people. This fully demonstrates the firm
 determination of the Party Central Committee with Comrade Xi Jinping as the core to never forget
 its original intention and strive forever.
@@ -107,7 +107,7 @@ The eyes are difficult and difficult, and the jade is successful. The more diffi
 contradictions stand in the way, the more it is necessary to rely on responsibility and struggle to
 overcome difficulties and keep innovation upright. Strong historical responsibility and fighting spirit
 are the spiritual characteristics of Xi Jinping Thought on Socialism with Chinese Characteristics for
-a New Era. Since the 18th National Congress of the Communist Party of China, Comrade Xi Jinping
+a New Era. Since the 18th National Congress of the CCP, Comrade Xi Jinping
 has taken the lead in setting an example, clearly pointing out the ruling philosophy of "serving the
 people and shouldering the responsibilities that should be shouldered", clearly putting forward that
 "I will live up to the people without myself", and repeatedly emphasizing that "the ministry must
@@ -155,7 +155,7 @@ the party and the people without hesitation.
 Struggle cannot be shouted in vain, it must be translated into action. The unity of knowledge and
 action and real work are the distinctive qualities of Xi Jinping Thought on Socialism with Chinese
 Characteristics for a New Era. Comrade Xi Jinping has repeatedly stressed that "empty talk misleads
-the country, practical work rejuvenates the country"; he stressed that the Communist Party of China
+the country, practical work rejuvenates the country"; he stressed that the CCP
 started and developed by seeking truth from facts, and that adhering to seeking truth from facts can
 rejuvenate the party and the country, and violating the truth from facts will lead to misleading the
 party and the country;
@@ -171,7 +171,7 @@ without sitting and talking, be strugglers who overcome difficulties, and bodhis
 not be afraid of wind and rain. These important expositions are earnest, demonstrating Comrade Xi
 Jinping's political character of integrating knowledge with action and doing real work.
 
-Since the 18th National Congress of the Communist Party of China, the reason why the party and
+Since the 18th National Congress of the CCP, the reason why the party and
 the country have been able to establish a new wind and open up a new situation is closely related to
 Comrade Xi Jinping's efforts to integrate knowledge with action and really do solid work. As the
 leader of the party and the state, Comrade Xi Jinping not only pays attention to systematic thinking

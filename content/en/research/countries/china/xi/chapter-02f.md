@@ -4,7 +4,7 @@ title: Better Upholding and Developing Socialism with Chinese Characteristics
 weight: 32
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -13,7 +13,7 @@ Section 4: Take charge of the "four greatness", make overall plans to promote th
 To better adhere to and develop socialism with Chinese characteristics in the new era, we must take
 charge of the "four greatness", make overall plans to promote the overall layout of the "five-in-one",
 and coordinate the promotion of the "four comprehensive" strategic layout, which is the overall plan
-of the Communist Party of China to promote the great cause of socialism with Chinese
+of the CCP to promote the great cause of socialism with Chinese
 characteristics and the top-level design of the party to realize socialist modernization.
 
 1. the "four greats" are closely linked, interconnected and interact
@@ -41,10 +41,10 @@ guarantee for great struggles, great causes, and great dreams; and great causes 
 the road and open up a path of advance for great struggles, great projects, and great dreams. The
 "Four Greats" epitomize the new concepts, ideas and strategies of the Party Central Committee in
 governing the country with Comrade Xi Jinping as the core since the 18th National Congress of the
-Communist Party of China, highlight the historical mission and grand goal of the Communist Party
+CCP, highlight the historical mission and grand goal of the Communist Party
 of China under the new historical conditions, and form the overall framework of the Party Central
 Committee's governance of the country. The historic changes in the party and the country were
-achieved precisely under the correct leadership of the Communist Party of China in the great
+achieved precisely under the correct leadership of the CCP in the great
 struggle with many new historical characteristics, were guaranteed by the new great project of party
 building, advanced in the direction of the great cause of socialism with Chinese characteristics, and
 were inspired by the dream of the great rejuvenation of the Chinese nation.
@@ -91,15 +91,15 @@ modernization construction, namely: "With economic construction as the center, u
 out economic structural reform, unswervingly carry out political structural reform, unswervingly
 strengthen the building of spiritual civilization, and make these aspects cooperate and promote each
 other."1 Economy, politics and culture have become important contents of building socialism with
-Chinese characteristics. The 15th and 16th National Congresses of the Communist Party of China
+Chinese characteristics. The 15th and 16th National Congresses of the CCP
 further clarified the goals and requirements for the comprehensive economic, political and cultural
 construction and all-round development of socialism with Chinese characteristics, and deepened the
 understanding of the overall layout. After the 16th National Congress of the Communist Party of
 China, the Party put forward the task of social construction, so that the cause of socialism with
 Chinese characteristics has developed more clearly from the "trinity" to the "four-in-one.” The 17th
-National Congress of the Communist Party of China further put forward the construction of
+National Congress of the CCP further put forward the construction of
 ecological civilization as a new requirement for achieving the goal of a moderately prosperous
-society in all respects. The 18th National Congress of the Communist Party of China formally
+society in all respects. The 18th National Congress of the CCP formally
 established the overall layout of the "five-in-one" construction of socialism with Chinese
 characteristics.
 

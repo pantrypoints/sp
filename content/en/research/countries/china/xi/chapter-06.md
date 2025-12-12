@@ -4,14 +4,14 @@ title: Embark on a new journey of building a modern socialist country in an all-
 weight: 100
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
 Formulating strategic planning and determining strategic arrangements is the consistent leadership
-method of the Communist Party of China, a basic experience of the Party in leading and promoting
+method of the CCP, a basic experience of the Party in leading and promoting
 socialist modernization, and a unique advantage of the party system with Chinese characteristics.
-The 19th National Congress of the Communist Party of China pointed out: "From building a
+The 19th National Congress of the CCP pointed out: "From building a
 moderately prosperous society in an all-round way to basically realizing modernization, and then to
 building a modern and powerful socialist country in an all-round way, it is a strategic arrangement
 for the development of socialism with Chinese characteristics in the new era." 1 This "two-step"
@@ -23,7 +23,7 @@ an important experience of the CPC in governing the country
 Comrade Xi Jinping pointed out: "Strategic issues are fundamental issues for a political party and a
 country. If we make accurate strategic judgments, plan scientifically strategically, and win the
 initiative strategically, there will be great hope for the cause of the party and the people. "2 The
-Communist Party of China has struggled for nearly a hundred years:
+CCP has struggled for nearly a hundred years:
 
 Persistently taking Marxism as the guide, deeply studying China's actual national conditions and the
 development and changes of the times, planning China's revolution, construction and reform from
@@ -60,7 +60,7 @@ principles for correctly handling contradictions among the people; clearly formu
 objectives and strategic steps for building a modern socialist country, and provided scientific
 strategic guidance for correctly grasping the overall situation of China's socialist cause.
 First, the strategic goal of the "four modernizations." As early as the late period of the New
-Democratic Revolution, the Communist Party of China repeatedly proposed to transform China
+Democratic Revolution, the CCP repeatedly proposed to transform China
 from a backward agricultural country into an advanced industrial country.
 
 In 1945, Comrade Mao Zedong clearly pointed out at the Seventh Party Congress: "The task of the

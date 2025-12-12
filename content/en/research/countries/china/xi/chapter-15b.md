@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 339
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -12,7 +12,7 @@ c: "darkslategray"
 
 Comprehensively administering the party strictly is a prominent highlight of the party Central
 Committee's governance with Comrade Xi Jinping as the core since the 18th National Congress of
-the Communist Party of China. After the implementation of this major strategy, the inner-party
+the CCP. After the implementation of this major strategy, the inner-party
 political life has been renewed, the inner-party political ecology has noticeably improved, the party's
 creativity, cohesion, and combat effectiveness have been significantly enhanced, the party's unity
 and unity have been further consolidated, the relationship between the party and the masses has
@@ -20,7 +20,7 @@ improved significantly, and the party has become stronger in the revolutionary f
 
 Comprehensively strengthen the party's leadership. The Party Central Committee with Comrade Xi
 Jinping as the core clearly emphasizes that the Party, government, military, and civilian studies, the
-Party is the leader of everything, and emphasizes that the Communist Party of China is the strong
+Party is the leader of everything, and emphasizes that the CCP is the strong
 leadership core and the highest political leading force for the cause of socialism with Chinese
 characteristics. Through strict political discipline and political rules of the Party and the
 implementation of the political responsibility of administering the Party at all levels, the political
@@ -65,7 +65,7 @@ problems, and setting an example of honesty and integrity.
 Build a large contingent of high-quality cadres. The key to building socialism with Chinese
 characteristics lies in building a large contingent of high-quality cadres and cultivating a contingent
 of cadres with iron general belief, iron general belief, iron general discipline, and iron general
-responsibility. Since the 18th National Congress of the Communist Party of China, the Party Central
+responsibility. Since the 18th National Congress of the CCP, the Party Central
 Committee has put forward the party's organizational line for the new era: fully implement Xi
 Jinping Thought on Socialism with Chinese Characteristics for a New Era, focus on the construction
 of the organizational system, focus on cultivating high-quality cadres who are loyal, clean and
@@ -101,7 +101,7 @@ is being built, and the anti-corruption struggle has won an overwhelming victory
 
 Use systems to manage the party and govern the party. Strengthening the building of inner-party
 laws and regulations is a long-term and fundamental policy for comprehensively and strictly
-administering the party. Since the 18th National Congress of the Communist Party of China, the
+administering the party. Since the 18th National Congress of the CCP, the
 Party Central Committee has adhered to the principle of governing the country according to law and
 the system, governing the party according to regulations, and promoting overall planning and
 integrated construction. The central authorities have promulgated or revised more than half of the
@@ -115,7 +115,7 @@ Since the 18th CPC National Congress, historic achievements have been made in ad
 party strictly, but we must not be blindly optimistic. Reality warns us that there is still a heavy task
 and a long way to go in comprehensively administering the party strictly, and we must not slacken
 our efforts in administering the party for a moment. As Comrade Xi Jinping pointed out in his report
-to the 19th National Congress of the Communist Party of China: "The whole party must soberly
+to the 19th National Congress of the CCP: "The whole party must soberly
 realize that the ruling environment facing our party is complex, the factors affecting the advanced
 nature of the party and weakening the purity of the party are also complex, and the outstanding
 problems existing in the party such as impure ideology, impure organization, and impure work style
@@ -150,7 +150,7 @@ position and consolidate the party's ruling position and ruling foundation; whil
 strengthen the party's comprehensive leadership, we must achieve the goal of strengthening party
 building while promoting strict party management in an all-round way, so that the party can better
 withstand the "four major tests" and "four dangers." Comrade Xi Jinping pointed out that China's
-affairs must be handled well, first of all, the affairs of the Communist Party of China must be handled
+affairs must be handled well, first of all, the affairs of the CCP must be handled
 well. "If the party is not managed effectively and strictly... Then sooner or later our party will lose
 its qualification to govern and will inevitably be eliminated by history.1 The common adherence to
 party building, the party's overall leadership, and the strict management of the party in the new era

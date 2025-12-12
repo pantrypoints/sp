@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 73
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -13,7 +13,7 @@ Section 3: Steadily advancing in the direction of common prosperity for all the 
 
 Since ancient times, human society has pursued and explored common prosperity, but true common
 prosperity can only be achieved when socialism develops to a certain extent. As a Marxist political
-party, the Communist Party of China regards leading the people to create a better life and achieve
+party, the CCP regards leading the people to create a better life and achieve
 common prosperity as its unswerving goal. As Comrade Xi Jinping pointed out: "The development
 we pursue is development that benefits the people, and the prosperity we pursue is the common
 prosperity of all the people." Whether reform and development succeed or not, the ultimate criterion
@@ -28,7 +28,7 @@ nature of social production relations; "affluent" reflects the degree of ownersh
 members of society, which is relative to poverty and is a concentrated embodiment of the
 development level of social productive forces. In this sense, common prosperity is a concept that
 reflects specific productive forces and production relations.
-The Communist Party of China has always regarded sharing the fruits of development and leading
+The CCP has always regarded sharing the fruits of development and leading
 the people to achieve common prosperity as its value goal.
 
 After the founding of New China, Comrade Mao Zedong raised the issue of common prosperity and
@@ -43,7 +43,7 @@ principle and essential characteristic of socialism, and it must not be shaken."
 also demanded: "Let all the people share the fruits of reform and development, and enable all the
 people to advance steadily in the direction of common prosperity."3
 
-Since the 18th National Congress of the Communist Party of China, socialism with Chinese
+Since the 18th National Congress of the CCP, socialism with Chinese
 characteristics has entered a new era. A distinctive feature of socialism with Chinese characteristics
 in the new era is that the people of all ethnic groups throughout the country unite and struggle,
 constantly create a better life, and gradually realize common prosperity for all the people on the
@@ -55,7 +55,7 @@ An important aspect that distinguishes socialism from capitalism lies in its pro
 capitalist polarization and huge economic and social inequality, emphasizing adherence to the
 people-centered approach and dedication to the pursuit of all-round human development and
 common prosperity for all people. In his speech at the celebration of the 95th anniversary of the
-founding of the Communist Party of China, Comrade Xi Jinping emphasized: "Leading the people
+founding of the CCP, Comrade Xi Jinping emphasized: "Leading the people
 to create a happy life is the unswerving goal of our party. We must conform to the people's yearning
 for a better life, adhere to the people-centered development thinking, focus on ensuring and
 improving people's livelihood, develop various social undertakings, increase the intensity of income

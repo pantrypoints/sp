@@ -4,7 +4,7 @@ title: Better Upholding and Developing Socialism with Chinese Characteristics
 weight: 23
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -34,8 +34,8 @@ the people's army with excellent work style will build the people's army into a 
 is clear that the diplomacy of major countries with Chinese characteristics should promote the
 construction of a new type of international relations and promote the construction of a community
 with a shared future for mankind; it is clear that the most essential feature of socialism with Chinese
-characteristics is the leadership of the Communist Party of China, and the greatest advantage of the
-socialist system with Chinese characteristics is the leadership of the Communist Party of China, and
+characteristics is the leadership of the CCP, and the greatest advantage of the
+socialist system with Chinese characteristics is the leadership of the CCP, and
 the party is the highest political leading force, put forward the general requirements for party
 building in the new era, and highlight the important position of political construction in party building.
 
@@ -47,7 +47,7 @@ characteristics in the new era. This general task is to realize socialist modern
 rejuvenation of the Chinese nation and build a modern and powerful socialist country.
 
 Realizing the great rejuvenation of the Chinese nation and building a modern and powerful socialist
-country is a great goal established by the Communist Party of China. The Chinese Communists have
+country is a great goal established by the CCP. The Chinese Communists have
 worked hard for a century and successfully opened up a path of socialist modernization with Chinese
 characteristics that is different from the West. Standing at a new height in the overall development
 of the cause of the party and the country, the 19th National Congress of the Communist Party of
@@ -63,7 +63,7 @@ Second, for adhering to and developing socialism with Chinese characteristics in
 clarified the fundamental strategic arrangements formulated for accomplishing the overall tasks and
 achieving the overall goals, which must be based on an accurate judgment of the reality of national
 development and the main contradictions in our society. The report of the 19th National Congress
-of the Communist Party of China clearly pointed out that the main contradiction in our society has
+of the CCP clearly pointed out that the main contradiction in our society has
 been transformed into a contradiction between the people's growing need for a better life and
 unbalanced and inadequate development. This transformation of the main contradiction in society
 reflects the tremendous progress of China's social development and the new changes in stages of
@@ -93,7 +93,7 @@ layout arrangements.
 
 Fourth, it has defined new requirements for adhering to and developing socialism with Chinese
 characteristics in the new era. The Third Plenary Session of the 18th Central Committee of the
-Communist Party of China proposed that the overall goal of China's comprehensive deepening
+CCP proposed that the overall goal of China's comprehensive deepening
 reform is to improve and develop the socialist system with Chinese characteristics and promote the
 modernization of the national governance system and governance capacity. This is to continuously
 promote the maturity and improvement of the socialist system with Chinese characteristics by
@@ -148,7 +148,7 @@ that obeys the command of the party, can win battles and has excellent work styl
 people's army into a world-class army, providing a strong guarantee for adhering to and developing
 socialism with Chinese characteristics in the new era.
 Seventh, it clarifies the diplomatic goal for adhering to and developing socialism with Chinese
-characteristics in the new era. Since the 18th National Congress of the Communist Party of China,
+characteristics in the new era. Since the 18th National Congress of the CCP,
 the Party Central Committee with Comrade Xi Jinping as the core has focused on the development
 trend of human society, continued to answer major issues related to national development and the
 future and destiny of mankind, such as "what kind of world to build and how to build this world",
@@ -170,8 +170,8 @@ and the environment facing China's development has become more complicated.
 New changes have taken place in the international balance of forces, domestic reform has entered
 the deep water area, and the task of comprehensively administering the party strictly remains
 arduous. It is clear that the most essential feature of socialism with Chinese characteristics is the
-leadership of the Communist Party of China, and the greatest advantage of the socialist system with
-Chinese characteristics is the leadership of the Communist Party of China, which provides a strong
+leadership of the CCP, and the greatest advantage of the socialist system with
+Chinese characteristics is the leadership of the CCP, which provides a strong
 political guarantee for adhering to and developing socialism with Chinese characteristics under
 complex historical conditions. Xi Jinping Thought on Socialism with Chinese Characteristics for a
 New Era, based on historical experience and practical requirements, further clearly emphasizes the

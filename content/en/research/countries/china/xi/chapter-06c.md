@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 109
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -67,7 +67,7 @@ Chinese values and Chinese strength will become an important influence and drivi
 China's development.
 
 "Harmony" means achieving social harmony and building a better society. This is the social ideal
-that mankind has diligently pursued, and it is also the goal that the Communist Party of China has
+that mankind has diligently pursued, and it is also the goal that the CCP has
 unremittingly pursued. The most fundamental characteristics of a harmonious socialist society are
 democracy and rule of law, fairness and justice, honesty and fraternity, vitality, stability and order,
 and harmonious coexistence between man and nature. Looking forward to the middle of this century,
@@ -122,7 +122,7 @@ productive forces and the people's interests, and the unity of material and huma
 At this stage, China still has problems of regional disparity, urban-rural disparity, and large income
 gap, which is a problem that is difficult to completely avoid at a specific historical stage but can
 eventually be solved. Eliminating polarization and ultimately achieving common prosperity is the
-firm commitment of the Communist Party of China to the Chinese people, and it is also the proper
+firm commitment of the CCP to the Chinese people, and it is also the proper
 meaning of China's realization of socialist modernization.
 
 3. China's modernization is a modernization based on China's national conditions and independent development
@@ -139,7 +139,7 @@ The CPC has its own independent judgment on how and what kind of modernization s
 achieved. Comrade Deng Xiaoping pointed out: "The modernization we are engaged in is Chinese-
 style modernization. The socialism we are building is socialism with Chinese characteristics. We
 are mainly self-reliant according to our own actual situation and our own conditions. "2 Since the
-18th National Congress of the Communist Party of China, Comrade Xi Jinping has repeatedly
+18th National Congress of the CCP, Comrade Xi Jinping has repeatedly
 stressed that "there is no one-size-fits-all development model in the world.”3
 
 "We are willing to learn from all the achievements of human civilization, but we will not copy the

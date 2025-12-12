@@ -4,7 +4,7 @@ title: "Section 3: Adhere to comprehensive openness"
 weight: 139
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -12,7 +12,7 @@ Opening up to the outside world is China's basic national policy. Over the past 
 persisted in opening its doors to construction, transforming itself from a relatively closed economy
 into an economy that is deeply integrated with the world economy and increasingly open, and has
 achieved development achievements that have attracted worldwide attention. Since the 18th
-National Congress of the Communist Party of China, in the face of the new era and new situation,
+National Congress of the CCP, in the face of the new era and new situation,
 the Party Central Committee with Comrade Xi Jinping as the core has accurately judged the general
 trend of world development, accurately grasped the connotation of comprehensive opening up,
 persisted in actively participating in and actively promoting the process of economic globalization,
@@ -78,7 +78,7 @@ responsible spirit, a more inclusive mind and higher quality growth.
 
 2. New measures to promote the formation of a new pattern of comprehensive opening up
 
-The 19th National Congress of the Communist Party of China summed up China's valuable
+The 19th National Congress of the CCP summed up China's valuable
 experience in opening up to the outside world, conformed to the general trend of economic
 globalization, and made a major strategic plan to promote the formation of a new pattern of
 comprehensive opening up. This strategic deployment, which includes the expansion of the scope
@@ -107,7 +107,7 @@ construction of the "Belt and Road" has gradually changed from concept to action
 reality. In order to promote the construction of the "Belt and Road", China has held the "Belt and
 Road" Summit Forum for International Cooperation. This not only builds a new platform for China
 to expand opening up, but also helps promote world economic growth and deepen regional
-cooperation. The 19th National Congress of the Communist Party of China pointed out that in
+cooperation. The 19th National Congress of the CCP pointed out that in
 accordance with the principle of consultation, co-construction and sharing, actively promote
 international cooperation on the "Belt and Road", strive to achieve policy coordination, facility
 connectivity, unimpeded trade, financial integration and people-to-people bonds, create a new
@@ -186,7 +186,7 @@ the implementation of the free trade area strategy. Since the beginning of the n
 development process of the multilateral trading system has been blocked, and regional trading
 arrangements with a higher level of openness and greater flexibility have flourished, becoming the
 main engine driving economic globalization. In the report of the 19th National Congress of the
-Communist Party of China, Comrade Xi Jinping pointed out that he should actively participate in
+CCP, Comrade Xi Jinping pointed out that he should actively participate in
 the reform and construction of the global governance system, support the multilateral trading system,
 promote the construction of free trade areas, and promote the construction of an open world
 economy. This is not only the need to expand its own open space, but also reflects the responsibility

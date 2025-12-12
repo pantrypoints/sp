@@ -4,7 +4,7 @@ title: Building a Socialist Cultural Power
 weight: 205
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -26,7 +26,7 @@ Cultural self-confidence is a country, nation and political party's full affirma
 value and firm belief in its own cultural vitality. Strengthening cultural self-confidence is a major
 issue that has a bearing on the rise and fall of national fortunes, cultural security, and national
 spiritual independence. Strengthening cultural self-confidence fully reflects the high degree of
-cultural consciousness and cultural responsibility of the Communist Party of China, and highlights
+cultural consciousness and cultural responsibility of the CCP, and highlights
 the cultural foundation, cultural values and cultural ideals of socialism with Chinese characteristics.
 
 1. cultural self-confidence is a more basic, broader, and deeper self-confidence
@@ -103,7 +103,7 @@ increasingly powerful.
 
 Cultural self-confidence in contemporary China is essentially self-confidence in the advanced
 socialist culture with Chinese characteristics. The report of the 19th National Congress of the
-Communist Party of China pointed out: "Socialist culture with Chinese characteristics originates
+CCP pointed out: "Socialist culture with Chinese characteristics originates
 from the excellent traditional Chinese culture nurtured by the civilization history of the Chinese
 nation for more than 5,000 years, is forged in the revolutionary culture and advanced socialist culture
 created by the people under the leadership of the Party in revolution, construction and reform, and
@@ -129,7 +129,7 @@ cultural confidence. Marxism is the greatest achievement in the history of human
 the basic law of the development of human society and pointing out the correct direction for the
 construction of advanced socialist culture with Chinese characteristics.
 
-Since its birth, the Communist Party of China has held high the great banner of Marxism, and in the
+Since its birth, the CCP has held high the great banner of Marxism, and in the
 process of integrating with China's reality, it has continuously promoted the Sinicization of Marxism,
 forming a series of theoretical achievements of Mao Zedong Thought, Deng Xiaoping Theory, the
 important thinking of "three represents", the Scientific Outlook on Development, and Xi Jinping

@@ -4,7 +4,7 @@ title: Better Upholding and Developing Socialism with Chinese Characteristics
 weight: 35
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 

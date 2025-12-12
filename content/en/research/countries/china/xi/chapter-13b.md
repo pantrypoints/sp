@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 280
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -15,9 +15,9 @@ Comrade Xi Jinping put forward for the first time the major strategic thinking o
 security concept, emphasizing that the overall national security concept should be adhered to and
 the road of national security with Chinese characteristics should be followed. "Adhering to the
 overall concept of national security" was also written into the report of the 19th National Congress
-of the Communist Party of China as the basic strategy for adhering to and developing socialism with
+of the CCP as the basic strategy for adhering to and developing socialism with
 Chinese characteristics in the new era, and was written into the revised Constitution of the
-Communist Party of China. This is the first time in the history of the Communist Party of China that
+CCP. This is the first time in the history of the CCP that
 the theory of national security has been included in the report of the party congress, and it is also
 the first time that the theory of national security has been taken as an important part of the party's
 guiding ideology. Adhering to the overall national security concept is not only an important part of

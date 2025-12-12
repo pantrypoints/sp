@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 86
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -89,7 +89,7 @@ development problems and creating a new situation in development.
 
 3. advanced concepts proven by development practice
 
-Since the 18th National Congress of the Communist Party of China, in the face of the new normal
+Since the 18th National Congress of the CCP, in the face of the new normal
 of China's economic development, the transition period of world economic development, and the
 new development pattern of new breakthroughs in the development of world science and technology,
 the Party Central Committee with Comrade Xi Jinping as the core has adhered to the new
@@ -126,7 +126,7 @@ China's development. Holding high the banner of trade and investment liberalizat
 and actively guiding economic globalization in the right direction, China's influence on global
 economic development and its voice in global economic governance have been greatly enhanced.
 Fifth, adhere to shared development and enhance people's sense of gain, happiness and security.
-Since the 18th National Congress of the Communist Party of China, more than 78 million new jobs
+Since the 18th National Congress of the CCP, more than 78 million new jobs
 have been created in cities and towns, the income of residents has generally increased faster than
 economic growth, decisive progress has been made in the battle against poverty, and the number of
 poor people has decreased by more than 93 million. The social security system covering urban and
@@ -139,7 +139,7 @@ Under the guidance of the new development concept, China has successfully coped 
 pressure of the continuous fermentation of the domestic "three-phase superposition" and the impact
 of the international financial crisis, maintained stable economic and social development, and
 reached a new level of economic strength and comprehensive national strength. Since the 18th
-National Congress of the Communist Party of China, China's economy has grown by an average of
+National Congress of the CCP, China's economy has grown by an average of
 about 7% per year, and the total economic volume has increased from 54 trillion yuan in 2012 to 99
 trillion yuan in 2019. China's contribution rate to the world economy exceeds 30% annually,
 becoming the main power source and stabilizer of world economic growth.

@@ -4,14 +4,14 @@ title: "Section 3: Adhere to comprehensive openness"
 weight: 135
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
 
 2. the overall goal of comprehensively deepening reform
 
-Since the reform and opening up, the Communist Party of China has governed the country from a
+Since the reform and opening up, the CCP has governed the country from a
 new perspective, attached great importance to system building, and emphasized that institutional
 issues are more fundamental, overall, stable and long-term. The Party Central Committee with
 Comrade Xi Jinping as the core, with great political courage and wisdom, put forward the overall
@@ -57,7 +57,7 @@ characteristics.
 
 From the perspective of historical development, how to govern a brand-new society such as a
 socialist society has not been well solved in the past practice of world socialism. In the process of
-leading China's revolution and construction, the Communist Party of China has constantly
+leading China's revolution and construction, the CCP has constantly
 considered and explored what kind of national governance system to establish in the future and
 achieved important results. Since the reform and opening up, more attention has been paid to
 institutional construction, a complete set of national governance systems has been basically formed,
@@ -143,7 +143,7 @@ of our country and creatively study and draw on all the excellent achievements o
 Comprehensively deepening reform is a major strategic deployment related to the overall
 development of the cause of the party and the country, not a reform in a certain field or aspect, but
 needs to be promoted in an overall manner, strengthening top-level design and overall planning.
-Since the 18th National Congress of the Communist Party of China, the Party Central Committee
+Since the 18th National Congress of the CCP, the Party Central Committee
 with Comrade Xi Jinping as the core has scientifically formulated a blueprint for reform, carefully
 drawn up a road map for reform, firmly grasped the key point of economic system reform, and
 promoted the comprehensive deepening of reform to continue to develop in depth.
@@ -194,21 +194,21 @@ economic system, we must adhere to the direction of socialist market economic re
 particular, we must properly handle the core issue of the relationship between the government and
 the market.
 
-In 1992, the 14th National Congress of the Communist Party of China put forward that the goal of
+In 1992, the 14th National Congress of the CCP put forward that the goal of
 economic structural reform is to establish a socialist market economic system, and proposed that the
 market should play a basic role in the allocation of resources under the state's macro-control. This
 major theoretical breakthrough has played an extremely important role in China's reform, opening
 up, and economic and social development. Since the 14th National Congress of the Communist
 Party of China, the Party has continuously deepened its understanding of the relationship between
-the government and the market. The 15th National Congress of the Communist Party of China
+the government and the market. The 15th National Congress of the CCP
 proposed "making the market play a basic role in the allocation of resources under the state's macro-
-control", the 16th National Congress of the Communist Party of China proposed "giving greater
+control", the 16th National Congress of the CCP proposed "giving greater
 play to the basic role of the market in the allocation of resources", the 17th National Congress of the
-Communist Party of China proposed "giving better play to the basic role of the market in the
+CCP proposed "giving better play to the basic role of the market in the
 allocation of resources from the perspective of system", and the 18th National Congress of the
-Communist Party of China proposed "giving greater play to the basic role of the market in resource
+CCP proposed "giving greater play to the basic role of the market in resource
 allocation to a greater extent and on a wider scale.” The Third Plenary Session of the 18th Central
-Committee of the Communist Party of China clearly proposed to "make the market play a decisive
+Committee of the CCP clearly proposed to "make the market play a decisive
 role in the allocation of resources and better play the role of the government.” This is another major
 breakthrough in theory and practice by the party, which is conducive to establishing a correct
 concept of the relationship between the government and the market in the whole party and society,
@@ -230,7 +230,7 @@ we must adhere to the reform of the economic system as the main axis, strive to 
 breakthroughs in the reform of important areas and key links, so as to drive and drive reform in
 other fields, so that all aspects of reform can be promoted in a coordinated manner and form a joint
 force, rather than separate and scattered efforts." 2 Since the 18th National Congress of the
-Communist Party of China.
+CCP.
 
 With the reform of the economic system as the traction, we have led to the reform of the political,
 cultural, social and ecological civilization system, the reform of the party and state institutions, the

@@ -4,7 +4,7 @@ title: Better Upholding and Developing Socialism with Chinese Characteristics
 weight: 17
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -20,7 +20,7 @@ centralized and unified leadership and comprehensive leadership, the fundamental
 people's congress system, the fundamental system of upholding the guiding position of Marxism in
 the ideological field, and the fundamental system of upholding the party's absolute leadership over
 the people's army; the system of multi-party cooperation and political consultation under the
-leadership of the Communist Party of China, the system of regional ethnic autonomy, the system of
+leadership of the CCP, the system of regional ethnic autonomy, the system of
 grassroots mass autonomy, the public ownership as the mainstay, the common development of
 various ownership systems, and distribution according to work as the mainstay.
 
@@ -104,7 +104,7 @@ development strategy and various policies, do a good job in reform, development 
 push forward socialism with Chinese characteristics with a new mental state and fighting attitude.
 Section 2: The Core Essence of Socialism with Chinese
 Characteristics in the New Era
-The 19th National Congress of the Communist Party of China used "eight clear" and "Fourteen
+The 19th National Congress of the CCP used "eight clear" and "Fourteen
 Persistences" to systematically summarize and deeply explain Xi Jinping Thought on Socialism with
 Chinese Characteristics for a New Era. The "Eight Clarifications" are the action guide for adhering
 to and developing socialism with Chinese characteristics in the new era, focusing on answering what

@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 152
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 

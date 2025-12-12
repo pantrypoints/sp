@@ -4,7 +4,7 @@ title: "Section 3: The leadership of ideological work"
 weight: 239
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -13,7 +13,7 @@ c: "darkslategray"
 Comrade Xi Jinping pointed out that "employment is the biggest project of people's livelihood,
 people's heart, and foundation.”
 
-Since the 18th National Congress of the Communist Party of China, China's employment work has
+Since the 18th National Congress of the CCP, China's employment work has
 made great achievements, with an average of 13 million new jobs created every year, and the urban
 survey unemployment rate has been maintained within 5%, achieving relatively full employment
 nationwide.
@@ -32,7 +32,7 @@ Entrepreneurship is the main channel for creating new jobs. It is necessary to c
 
 Income is the source of people's livelihood, and it is the most
 important and direct way to improve people's livelihood and realize that the fruits of development
-are shared by the people. Since the 18th National Congress of the Communist Party of China, the
+are shared by the people. Since the 18th National Congress of the CCP, the
 income gap between urban and rural residents, the income gap between regional residents, and the
 average wage gap of the national industry have narrowed to a certain extent, the Gini coefficient has
 declined, the growth rate of urban and rural residents' income is significantly faster than the growth
@@ -72,7 +72,7 @@ China's social security system has been basically established, which is a remark
 but there are still imbalances and insufficient contradictions between different security systems,
 between different regions and between different groups of people in terms of security scope, security
 level, service capacity and service quality. In accordance with the requirements of the 19th National
-Congress of the Communist Party of China to build a bottom-line, dense network and mechanism,
+Congress of the CCP to build a bottom-line, dense network and mechanism,
 a multi-level social security system covering the whole people, coordinating urban and rural areas,
 with clear powers and responsibilities, and appropriate and sustainable guarantees has a lot of work
 to be done in practice. It is necessary to establish a unified national social insurance public service

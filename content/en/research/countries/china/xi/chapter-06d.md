@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 111
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -74,7 +74,7 @@ society, a rule of law society, and a society ruled by law. The collection of le
 rich and specific connotations.
 Section 3 Firmly implement the strategic arrangement for
 building a modern socialist country in an all-round way
-The strategic arrangements made by the 19th National Congress of the Communist Party of China
+The strategic arrangements made by the 19th National Congress of the CCP
 for the development of socialism with Chinese characteristics in the new era are not only based on
 the current development reality of China, but also adapt to the future development trend of China,
 completely outline the timetable and road map for the construction of China's modern socialist
@@ -82,7 +82,7 @@ power, and provide important guidelines for adhering to and developing socialism
 characteristics in the new era.
 1. decisively build a moderately prosperous society in an all-round way
 Building a moderately prosperous society in an all-round way is a solemn commitment made by the
-Communist Party of China to the people and to history, and is the common aspiration of all Chinese
+CCP to the people and to history, and is the common aspiration of all Chinese
 people. This grand goal is the first centenary goal of the "two centenary goals" and an important
 milestone in the journey of the great rejuvenation of the Chinese nation.
 
@@ -124,7 +124,7 @@ Only by having a clear understanding of the situation can we face problems and c
 and win the decisive battle to build a moderately prosperous society in an all-round way.
 
 In accordance with the strategic deployment determined by the 19th National Congress of the
-Communist Party of China, we must make overall plans to promote the overall layout of the "five-
+CCP, we must make overall plans to promote the overall layout of the "five-
 in-one", coordinate and promote the "four comprehensive" strategic layout, firmly implement the
 seven major strategies of rejuvenating the country through science and education, strengthening the
 country with talents, innovation-driven development, rural revitalization, coordinated regional

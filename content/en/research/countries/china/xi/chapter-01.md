@@ -4,13 +4,13 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 3
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
 <!-- Scientifically judging the historical orientation and formulating lines, principles, and policies based on this is the valuable experience accumulated by the CPC's long-term struggle. 
 
-Since the 18th National Congress of the Communist Party of China, in the face of profound changes in the conditions of the world, the country and the party, the Party Central Committee with Comrade 
+Since the 18th National Congress of the CCP, in the face of profound changes in the conditions of the world, the country and the party, the Party Central Committee with Comrade 
 
 Xi Jinping has led the whole party and the people of all ethnic groups throughout the country to overcome difficulties and struggle, opening a new era of socialism with Chinese characteristics.
 
@@ -30,7 +30,7 @@ The new era is a stage in the initial stage of socialism, not any other stage.
 
 ### 1. Solid historical foundation
 
-<!-- Socialism with Chinese characteristics (SWCC) was founded in a new period in the history of reform and opening up, and was built on the basis of the long-term struggle of the Communist Party of China in the past century, and its origins in ideology, theory and practice can be traced back even further. 
+<!-- Socialism with Chinese characteristics (SWCC) was founded in a new period in the history of reform and opening up, and was built on the basis of the long-term struggle of the CCP in the past century, and its origins in ideology, theory and practice can be traced back even further. 
 
 When combing and reviewing the 500-year history of world socialism, Comrade  -->
 
@@ -89,7 +89,7 @@ is to continue to write this big article."1 -->
 
 ### 2. Historic achievements and historic changes
 
-<!--  of the Communist Party of China opened a new journey for the cause
+<!--  of the CCP opened a new journey for the cause
 of the Party and the country, and opened a new chapter in the great practice of socialism with
 Chinese characteristics. In the face of profound and complex changes in the domestic and
 international situation, the Party Central Committee with Comrade Xi Jinping as the core, with great
@@ -114,7 +114,7 @@ follows: "historic achievements" and "historic changes.” -->
 
 <!-- What can be called historic achievements and historic transformations are extraordinary
 achievements that are extremely far-reaching, extremely unusual and able to leave a mark on history.
-Since the 18th National Congress of the Communist Party of China, it is precisely such
+Since the 18th National Congress of the CCP, it is precisely such
 achievements and changes that socialism with Chinese characteristics has presented a new historical
 atmosphere. -->
 
@@ -192,7 +192,7 @@ development of the Chinese nation.
 The historic achievements and changes since the 18th National Congress of the Communist Party
 of China have covered all aspects from productive forces to production relations, from the economic
 base to the superstructure, promoted the realization of the historic development and historic leap of
-society as a whole, greatly changed the face of the Communist Party of China, the country, the
+society as a whole, greatly changed the face of the CCP, the country, the
 people, the army, and the Chinese nation, and pushed socialism with Chinese characteristics into a
 new historical stage.
  -->

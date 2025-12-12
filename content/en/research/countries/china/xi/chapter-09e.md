@@ -4,7 +4,7 @@ title: Upholding and Developing Socialist Democratic Politics
 weight: 190
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -12,7 +12,7 @@ c: "darkslategray"
 2. Promote the extensive and multi-level institutionalization of socialist consultative democracy
 
 Socialist consultative democracy is an important form of democracy under the leadership of the
-Communist Party of China, in which all aspects of the people conduct extensive consultations before
+CCP, in which all aspects of the people conduct extensive consultations before
 and during the implementation of decisions on major issues of reform, development and stability
 and practical issues involving the vital interests of the masses, and strive to form consensus. 2
 "Socialist consultative democracy is a unique form and unique advantage of China's socialist
@@ -35,9 +35,9 @@ differences. The spirit of consultation embodied in traditional Chinese culture 
 resource of socialist consultative democracy. Consultative democracy is a great creation jointly
 realized by all parties, organizations, nationalities, strata and people from all walks of life in the
 political system since the founding of New China. Consultative democracy is an important
-embodiment of the mass line of the Communist Party of China in the political field. The Communist
+embodiment of the mass line of the CCP in the political field. The Communist
 Party of China insists on building the party for the public and ruling for the people, adhering to the
-mass line, and insisting that all power belongs to the people. Whether the Communist Party of China
+mass line, and insisting that all power belongs to the people. Whether the CCP
 is in power or the state organs are administering, upholding the people's dominant position and
 closely relying on the people, they are inseparable from consultative democracy. Consultative
 democracy is deeply embedded in the whole process of socialist democratic politics with Chinese
@@ -45,7 +45,7 @@ characteristics, and continues to develop with the in-depth advancement of socia
 politics.
 
 Socialist consultative democracy has unique advantages. Socialist consultative democracy not only
-upholds the leadership of the Communist Party of China but also plays a positive role in all quarters;
+upholds the leadership of the CCP but also plays a positive role in all quarters;
 upholds the people's dominant position and implements the leadership system and organizational
 principle of democratic centralism; and upholds the principle of people's democracy and the
 requirements of unity and harmony. The advantage of socialist consultative democracy is that it can
@@ -70,7 +70,7 @@ discussing more when things happen, discussing more when doing things, and discu
 as possible as deeply as possible.”2 To improve the socialist consultative democracy system, it is
 necessary to promote the extensive and multi-level institutionalization of consultative democracy.
 Comrade Xi Jinping pointed out that "it is necessary to broaden the consultation channels of the
-Communist Party of China, the People's Congress, the people's government, the People's Political
+CCP, the People's Congress, the people's government, the People's Political
 Consultative Conference, democratic parties, people's organizations, grassroots organizations,
 enterprises and institutions, social organizations, various think tanks, etc., and carry out in-depth
 consultations such as political, legislative, administrative, democratic, social, and grassroots

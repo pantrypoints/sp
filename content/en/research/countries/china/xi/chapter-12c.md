@@ -4,7 +4,7 @@ title: "Section 2: Firmly establish the concept of socialist ecological civiliza
 weight: 260
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -61,7 +61,7 @@ development concept, but also a major principle that should be adhered to in pro
 modernization. As early as 2005, Comrade Xi Jinping, then Secretary of the Zhejiang Provincial
 Party Committee, put forward this important concept, which profoundly revealed the dialectical
 relationship between the pursuit of harmony between man and nature, economy and society. Since
-the 18th National Congress of the Communist Party of China,
+the 18th National Congress of the CCP,
 
 He has emphasized and elaborated this concept many times, continuously expanded and deepened
 its connotation from the theoretical and practical levels, and established a new strategic support for

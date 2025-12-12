@@ -4,14 +4,14 @@ title: Persisting in Comprehensively Deepening Reform and Comprehensively Openin
 weight: 119
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
 Reform and opening up is the most distinctive feature of contemporary China and the most
 distinctive character of contemporary Chinese communists. Without reform and opening up, there
 would be no socialism with Chinese characteristics, and there would be no excellent situation in
-which China is prosperous today. Since the 18th National Congress of the Communist Party of China,
+which China is prosperous today. Since the 18th National Congress of the CCP,
 the Party Central Committee with Comrade Xi Jinping as the core has held high the banner of reform
 and opening up, carried forward the spirit of reform and opening up, persisted in comprehensively
 deepening reform and comprehensive opening up, and promoted major breakthroughs in the theory

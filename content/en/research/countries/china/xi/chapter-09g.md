@@ -4,7 +4,7 @@ title: Upholding and Developing Socialist Democratic Politics
 weight: 199
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -20,17 +20,17 @@ the construction of socialist rule of law went through a detour and paid a heavy
 historical period of reform and opening up, our party has defined governing the country according
 to law as the basic strategy for the party to lead the people to govern the country, and ruling
 according to law as the basic way for the party to govern the country. The report of the 15th National
-Congress of the Communist Party of China in 1997 and the 1999 Amendment to the Constitution of
+Congress of the CCP in 1997 and the 1999 Amendment to the Constitution of
 the People's Republic of China clearly put forward the requirement of "governing the country
 according to law and building a socialist country ruled by law.” In January 2013, Comrade Xi
 Jinping put forward for the first time the goal of building a rule of law in China in his important
 instructions on doing a good job in political and legal work under the new situation. In October 2014,
-the Decision of the Central Committee of the Communist Party of China on Several Major Issues
+the Decision of the Central Committee of the CCP on Several Major Issues
 Concerning Comprehensively Promoting the Rule of Law adopted by the Fourth Plenary Session of
-the 18th Central Committee of the Communist Party of China pointed out: "The overall goal of
+the 18th Central Committee of the CCP pointed out: "The overall goal of
 comprehensively promoting the rule of law is to build a socialist rule of law system with Chinese
 characteristics and build a socialist country under the rule of law. The 19th National Congress of
-the Communist Party of China organically combined this general goal with the new journey of
+the CCP organically combined this general goal with the new journey of
 socialist construction, and proposed that by 2035, when socialist modernization is basically realized,
 "the rule of law country, the rule of law government, and the rule of law society will be basically
 completed.” The path of socialist rule of law with Chinese characteristics is a concentrated

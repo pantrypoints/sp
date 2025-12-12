@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 320
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -34,7 +34,7 @@ own growth and development, but also focuses on promoting the prosperity and dev
 human society, not diplomacy against major powers, nor diplomacy competing with other major
 powers in the world for dominance and hegemony.
 1. Unswervingly follow the path of peaceful development
-Since the 18th National Congress of the Communist Party of China, Comrade Xi Jinping has
+Since the 18th National Congress of the CCP, Comrade Xi Jinping has
 emphasized: "Taking the path of peaceful development is a strategic choice made by our Party in
 accordance with the development trend of the times and the fundamental interests of our country. " 1
 China is a country with a long civilization, a country that has experienced great suffering, a country
@@ -72,7 +72,7 @@ of peaceful development, and at the same time deepened and developed the strateg
 peace development at a new historical starting point, that is, "two intrinsically unified.”
 First, it is intrinsically integrated to adhere to the path of peaceful development with resolutely
 defending the core interests of the country. Comrade Xi Jinping solemnly declared at the meeting
-to celebrate the 95th anniversary of the founding of the Communist Party of China:
+to celebrate the 95th anniversary of the founding of the CCP:
 
 "China does not covet the rights and interests of other countries and is not jealous of the development
 of other countries, but it will never give up our legitimate rights and interests." Chinese people do
@@ -115,7 +115,7 @@ Only when all countries abandon the Cold War mentality and zero-sum game, oppose
 and hegemonism, and follow the path of peaceful development can they coexist peacefully and
 develop together.
 
-Since the 18th National Congress of the Communist Party of China, under the strong leadership of
+Since the 18th National Congress of the CCP, under the strong leadership of
 the Party Central Committee with Comrade Xi Jinping at the core, China's struggle practice on a
 series of issues involving major core interests has not only demonstrated China's position and
 conviction in adhering to the path of peaceful development, but also demonstrated its determination

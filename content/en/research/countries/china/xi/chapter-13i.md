@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 303
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -73,7 +73,7 @@ reunification. Compatriots on both sides of the strait are linked by blood.
 Dear friends, Chinese to help Chinese. We treat Taiwan compatriots equally, take the lead in sharing
 mainland development opportunities with Taiwan compatriots, and provide equal treatment for
 Taiwan compatriots and Taiwan enterprises, so that everyone can have more sense of gain. Since
-the 18th National Congress of the Communist Party of China, the degree of cross-strait economic
+the 18th National Congress of the CCP, the degree of cross-strait economic
 and cultural exchanges and cooperation has been continuously deepened, and the integration and
 development of the two sides of the strait has reached a new level. In 2018, the mainland's trade
 volume with Taiwan reached US$226.24 billion, and Taiwan is the mainland's fifth largest trading

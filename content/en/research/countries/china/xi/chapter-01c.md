@@ -4,7 +4,7 @@ title: The Science of Socialism with Chinese Characteristics
 weight: 9
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -12,7 +12,7 @@ c: "darkslategray"
 
 The major political judgment of socialism with Chinese characteristics entering a new era has rich
 and profound ideological connotations. In the report of the 19th National Congress of the
-Communist Party of China, Comrade Xi Jinping revealed the scientific connotation of the new era
+CCP, Comrade Xi Jinping revealed the scientific connotation of the new era
 of socialism with Chinese characteristics from five dimensions, comprehensively described the
 beautiful prospects of China in the new era from the perspective of the continuity of history and
 reality, the combination of goals and approaches, and the connection between domestic and
@@ -67,13 +67,13 @@ socialist modernization drive and put forward a "three-step" development strateg
 goals of solving the problem of food and clothing for the people and achieving a moderately
 prosperous level of living standards on the whole have been achieved ahead of schedule. On this
 basis, our party has put forward the "two centenary goals." Focusing on the realization of the "two
-centenary goals", the 19th National Congress of the Communist Party of China made strategic
+centenary goals", the 19th National Congress of the CCP made strategic
 arrangements for economic construction, political construction, cultural construction, social
 construction, ecological civilization construction and party building, which are highly strategic,
 forward-looking and targeted.
 
 Building a moderately prosperous society in an all-round way by 2020 is a solemn commitment
-made by the Communist Party of China to the people and to history. According to the actual
+made by the CCP to the people and to history. According to the actual
 completion of various indicators of economic and social development, we are fully confident that
 we will build a moderately prosperous society in an all-round way by 2020 and achieve the first
 centenary goal as scheduled. From the 19th CPC National Congress to the 20th CPC National

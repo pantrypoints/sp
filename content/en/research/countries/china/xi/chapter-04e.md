@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 75
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -45,7 +45,7 @@ efficiency and fairness, but also pursue the harmony of interpersonal relationsh
 fulfillment of spiritual life, and pursue the meaning of life. "2 This idea explains the essence of man
 from the relationship between the individual and society, and reveals the all-round development of
 man from the relationship between man and the community of social life. Comrade Xi Jinping
-clearly stated in the report of the 19th National Congress of the Communist Party of China: "Ensure
+clearly stated in the report of the 19th National Congress of the CCP: "Ensure
 that all the people have a greater sense of gain in joint construction and shared development, and
 continuously promote the all-round development of people."3 These ideas have further inherited and
 enriched the Marxist thinking on the all-round development of man.

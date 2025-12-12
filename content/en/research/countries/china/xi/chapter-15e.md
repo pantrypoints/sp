@@ -4,16 +4,16 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 362
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
 
 Section 3: Courageous to self-revolution
 
-The courage to self-revolution is the most distinctive character of the Communist Party of China and the greatest advantage of the Party.
+The courage to self-revolution is the most distinctive character of the CCP and the greatest advantage of the Party.
 
-Comrade Xi Jinping pointed out: "The greatness of the Communist Party of China does not lie in
+Comrade Xi Jinping pointed out: "The greatness of the CCP does not lie in
 not making mistakes, but in never hiding from medical treatment, daring to face problems head-on,
 daring to self-revolution, and having a strong ability to repair itself."1 The Party can lead the people
 in a great social revolution and can also carry out a great self-revolution.
@@ -37,7 +37,7 @@ undermine the purity, so as to cure the disease and heal the wounds, and promote
 also said that the proletarian revolution differs from other revolutions in that it criticizes itself and
 grows by criticizing itself.
 
-Self-revolution has always run through the struggle of the Communist Party of China in the past
+Self-revolution has always run through the struggle of the CCP in the past
 100 years. A history of the Party is a history of the Party's courage to revolutionize itself. In the
 early days of the founding of the party, the resolute struggle against the "left" adventurous mistakes
 existing in the party before the Long March, against the errors of "left" dogmatism during the Long
@@ -51,7 +51,7 @@ It is precisely in the continuous self-revolution that the Party has turned cris
 turned crises into opportunities, constantly growing from small to large and from weak to strong,
 leading the Chinese people from victory to victory.
 Reform is another self-revolution of the Party. This revolution has profoundly changed Chinese
-society, the Chinese nation, and the Communist Party of China itself. From taking class struggle as
+society, the Chinese nation, and the CCP itself. From taking class struggle as
 the keynote to taking economic construction as the center, from being closed and semi-closed to
 opening up to the outside world in an all-round way, and from a planned economy to a socialist
 market economy, the reform and opening up over the past 40 years and more have fully embodied
@@ -59,7 +59,7 @@ the party's self-revolution in the process of socialist construction of some ide
 habits, and institutional mechanisms that do not meet the requirements of modernization. It was
 precisely such a profound self-revolution that the Party began the great journey of leading the
 Chinese people to build socialism with Chinese characteristics. Since the 18th National Congress of
-the Communist Party of China, the Party Central Committee with Comrade Xi Jinping as the core
+the CCP, the Party Central Committee with Comrade Xi Jinping as the core
 has started by strictly managing the Party and ruling the Party, and has opened a knife to the stubborn
 and stubborn diseases in the Party with the political courage of the blade inward, which has more
 clearly embodied the Party's firm determination, strong will and consistent revolutionary spirit to
@@ -91,7 +91,7 @@ the development of the cause of the Party and the country.
 Revolution, in its original sense, is to reform the old and innovate, to keep the right and to bring out
 the new, and its value direction is to improve, to the new, and to the good. Self-revolution means
 that this revolution is the subject's conscious, spontaneous, and automatic behavior towards itself.
-The self-revolution of the Communist Party of China is, in a nutshell, not forgetting its original
+The self-revolution of the CCP is, in a nutshell, not forgetting its original
 mission, keeping in mind its purpose of serving the people, insisting on proceeding from reality in
 everything, and achieving self-purification, self-improvement, self-innovation and self-
 improvement through self-vigilance, self-denial, self-reflection and self-transcendence.
@@ -100,7 +100,7 @@ path, smooth sailing is ideal, and zigzagging forward is the norm. The developme
 shows that the greatness of a political party does not depend on riding lightly and striding forward
 in good times, but on whether it can go against the trend in adversity, whether it can be reborn in
 desperate situations, whether it can correct chaos after mistakes, and whether it can resolutely rise
-up after setbacks. In the past hundred years, the Communist Party of China has had the glory of
+up after setbacks. In the past hundred years, the CCP has had the glory of
 triumphant performance, but also the trough of mistakes and setbacks, and even stood on the
 precipice of life and death for a time. However, at critical junctures in history, the Party has always
 been able to turn the tide and turn dangers into dangers because it dares to uphold the truth, correct
@@ -109,7 +109,7 @@ has a strong ability to correct mistakes and repair itself. Comrade Mao Zedong p
 article "Serving the People": "Because we serve the people, if we have shortcomings, we are not
 afraid of criticism and pointing them out.”1 "As long as we uphold the good for the interests of the
 people and correct the wrong for the interests of the people, our team will surely prosper.2 The
-Communist Party of China is open-minded and open-minded, and has always adopted a materialist
+CCP is open-minded and open-minded, and has always adopted a materialist
 attitude towards the mistakes made by the Party in its understanding and practice. As Comrade Xi
 Jinping pointed out: "Our party has always maintained the spirit of self-revolution, maintained the
 courage to admit and correct mistakes, picked up a scalpel again and again to eliminate its own
@@ -137,7 +137,7 @@ break the wrists of strong men.
 The historical responsibility of all-round and whole-process change. All political parties that carry
 out revolution have more or less taken some self-revolutionary actions, but the breadth and intensity
 of self-revolution determine the realm that different political parties can achieve. The self-revolution
-of the Communist Party of China is an all-round revolution and a revolution of the whole process,
+of the CCP is an all-round revolution and a revolution of the whole process,
 and it has the characteristics of active planning, conscious initiation, and independent control,
 including both revolution to itself and the cause it promotes, and is the unity of advancing the party's
 cause and strengthening self-construction. It is precisely on the basis of a sober understanding of

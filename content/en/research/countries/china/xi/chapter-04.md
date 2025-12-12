@@ -4,7 +4,7 @@ title: Adhere to the fundamental position of centering on the people
 weight: 63
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -42,7 +42,7 @@ To uphold the fundamental stand of centering on the people, we must always persi
 In the long history of the development of the Chinese nation, Chinese people have created splendid
 achievements in material and spiritual civilization and forged the great spirit of the Chinese nation
 through their own diligence and wisdom. Since modern times, under the leadership of the
-Communist Party of China, the Chinese people have won great victories in the new democratic
+CCP, the Chinese people have won great victories in the new democratic
 revolution, established the People's Republic of China, established the socialist system in which the
 people are masters of their own affairs, won great victories in reform and opening up, formed the
 path, theory, system and culture of socialism with Chinese characteristics, and ushered in the great
@@ -95,6 +95,6 @@ are satisfied or not as the first criterion for testing our work. The masses of 
 what they support, do well what they expect, and correct what the masses oppose. The fundamental
 criterion for judging whether the party's line, principles, and policies are correct can only be
 "whether the people agree or not, whether they are happy or not, whether they support it or not, and
-whether they approve or disapprove." Whether the Communist Party of China can hand over
+whether they approve or disapprove." Whether the CCP can hand over
 qualified answers can only be judged by the people and tested by history.
 

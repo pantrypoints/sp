@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 114
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -47,13 +47,13 @@ continuously improve the level of political civilization. The national governanc
 governance capacity are the concentrated embodiment of a country's political civilization.
 Upholding the party's leadership, the people being masters of the country, and the organic unity of
 governing the country according to law are the inevitable requirements of socialist political
-civilization. The leadership of the Communist Party of China is the most essential feature of
+civilization. The leadership of the CCP is the most essential feature of
 socialism with Chinese characteristics, the people's mastery of the country is the essence and core
 of socialist democratic politics, and governing the country according to law is the basic way for the
 party to lead the people to govern the country. We must adhere to the path of socialist political
 development with Chinese characteristics, adhere to and improve the system of people's congresses,
 the system of multi-party cooperation and political consultation under the leadership of the
-Communist Party of China, the system of regional ethnic autonomy, and the system of grassroots
+CCP, the system of regional ethnic autonomy, and the system of grassroots
 mass autonomy. Consolidate and develop the broadest patriotic united front, develop socialist
 consultative democracy, improve the democratic system, enrich democratic forms, broaden
 democratic channels, ensure that the people's mastery of the country is implemented in the country's

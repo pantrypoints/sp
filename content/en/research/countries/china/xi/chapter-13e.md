@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 290
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -28,7 +28,7 @@ security."1 National defense and army building are the strong backing of nationa
 means are the means to guarantee the realization of great dreams, military struggle is an important
 aspect of waging great struggle, and the ability to win is a strategic capability for safeguarding
 national security. Comrade Xi Jinping profoundly pointed out that our military must provide
-strategic support for consolidating the leadership of the Communist Party of China and China's
+strategic support for consolidating the leadership of the CCP and China's
 socialist system, providing strategic support for safeguarding national sovereignty, unity and
 territorial integrity, providing strategic support for expanding China's overseas interests, and
 providing strategic support for promoting world peace and development. This is the mission and
@@ -39,7 +39,7 @@ and enterprising spirit, and accelerate its ability to fulfill its mission and t
 sense of urgency that time does not wait for us and only seize the day.
 
 The people's army has taken firm steps on the road of strengthening the army with Chinese
-characteristics. Since the 18th National Congress of the Communist Party of China, Comrade Xi
+characteristics. Since the 18th National Congress of the CCP, Comrade Xi
 Jinping has focused on realizing the Chinese dream and the dream of strengthening the army
 
 Comprehensively grasp the general international and domestic trends, closely focus on building a
@@ -66,7 +66,7 @@ of the whole Party and the commander-in-chief of the armed forces, and in the sc
 of Xi Jinping's thinking on strengthening the military. Xi Jinping Thought on Strengthening the
 Army, leading the practice of strengthening the army and sublimating it in the practice of
 strengthening the army, is the crystallization of the practical experience and wisdom of the people's
-army since the 18th National Congress of the Communist Party of China, and is a fundamental
+army since the 18th National Congress of the CCP, and is a fundamental
 achievement in building and managing the army and strengthening the army in the new era. To
 realize the modernization of national defense and the armed forces, we must firmly establish the
 guiding position of Xi Jinping's thinking on strengthening the military in national defense and army
@@ -86,7 +86,7 @@ armed forces by 2035, and comprehensively build the people's army into a world-c
 middle of this century. This strategic arrangement embodies the requirements of the times in line
 with the process of national modernization and development, embodies the strategic requirements
 of socialist construction with Chinese characteristics for strengthening the army in the new era, and
-demonstrates the determination and courage of the Communist Party of China to accelerate the pace
+demonstrates the determination and courage of the CCP to accelerate the pace
 of building a strong army.
 
 The whole army should firmly grasp the goals and tasks of national defense and army building,

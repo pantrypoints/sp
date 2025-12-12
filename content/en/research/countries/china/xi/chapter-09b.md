@@ -4,7 +4,7 @@ title: Upholding and Developing Socialist Democratic Politics
 weight: 177
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -95,7 +95,7 @@ All this clearly shows that the socialist democratic political system with Chine
 plays a unique advantage and effectiveness in ensuring that the people are masters of their own
 country. The realization of democratic political forms is rich and varied, and we cannot stick to rigid
 models. Practice has fully proved that Chinese-style democracy works and works well in China.
-Strong self-improvement ability. The historical process of the Communist Party of China in
+Strong self-improvement ability. The historical process of the CCP in
 promoting the construction of socialist democratic politics is a historical process of constantly
 gaining insight into the development trend of the times and actively conforming to the expectations
 of the people, a historical process of constantly deepening the reform of systems and mechanisms,
@@ -106,7 +106,7 @@ distinctive feature of China's socialist democratic political construction. "Soc
 Chinese characteristics is a new thing and a good thing.
 
 Of course, this does not mean that China's political system is perfect and does not need to be
-improved and developed.1 The 19th National Congress of the Communist Party of China proposed
+improved and developed.1 The 19th National Congress of the CCP proposed
 that by the middle of this century, China should be built into a prosperous, strong, democratic,
 civilized, harmonious and beautiful modern socialist country, which requires the comprehensive
 improvement of material, political, spiritual, social and ecological civilizations, and the

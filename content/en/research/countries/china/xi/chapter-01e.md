@@ -4,12 +4,12 @@ title: "Section 3: The great significance of socialism with Chinese characterist
 weight: 9
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
 
-The 19th National Congress of the Communist Party of China pointed out: "The entry of socialism
+The 19th National Congress of the CCP pointed out: "The entry of socialism
 with Chinese characteristics into a new era means that the Chinese nation, which has suffered for a
 long time in modern times, has ushered in a great leap from standing up, getting rich to becoming
 strong, and ushered in the bright prospect of realizing the great rejuvenation of the Chinese nation;
@@ -36,15 +36,15 @@ Opium War, China gradually degenerated into a semi-colonial and semi-feudal soci
 cry of the enlightenment thinkers to "master and destroy with great skill", to the attempts of
 bourgeois reformists to restore and change the law, to the Xinhai Revolution of the bourgeois
 revolutionaries to overthrow the feudal monarchy, it has not changed the miserable situation of
-modern China. It was not until Marxism spread to China and the Communist Party of China entered
+modern China. It was not until Marxism spread to China and the CCP entered
 the historical stage that the Chinese nation truly found the backbone of seeking national
 independence, the people's liberation, the country's prosperity and strength, and the people's
 happiness, and that the Chinese people changed from passive to active spiritually.
-The birth of the Communist Party of China was a "groundbreaking event" and a major milestone in
+The birth of the CCP was a "groundbreaking event" and a major milestone in
 realizing the great rejuvenation of the Chinese nation in modern times, profoundly changing the
 direction and course of the development of the Chinese nation after modern times, and profoundly
 changing the future and destiny of the Chinese people and the Chinese nation. Just as Comrade Xi
-Jinping pointed out: After the birth of the Communist Party of China, it united and led the whole
+Jinping pointed out: After the birth of the CCP, it united and led the whole
 party and the people of all ethnic groups throughout the country to complete the new democratic
 revolution and socialist revolution through protracted struggle, established the People's Republic of
 China, established the basic socialist system, and realized the great leap of the Chinese nation from
@@ -52,7 +52,7 @@ being the sick man of East Asia to standing up; since the reform and opening up,
 Communists have united and led the people to carry out the new great practice of building socialism
 with Chinese characteristics, enabling China to catch up with the times in great strides and realize
 the great leap of the Chinese nation from standing up to becoming rich; since the 18th National
-Congress of the Communist Party of China, Chinese Communists have united and led the people in
+Congress of the CCP, Chinese Communists have united and led the people in
 great struggles, building great projects, advancing great causes, realizing great dreams, promoting
 all-round and groundbreaking historical achievements in the cause of the party and the country, and
 taking place profound and fundamental historical changes, the Chinese nation has ushered in a great
@@ -61,7 +61,7 @@ leap from prosperity to strength.1
 China Aerospace Studies Institute
 38
 Translation published Fall 2023Basic Issues of Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era
-The successive three great leaps are the "trilogy" in which the Communist Party of China has led
+The successive three great leaps are the "trilogy" in which the CCP has led
 the people to realize the great rejuvenation of the Chinese nation in modern times.
 Socialism with Chinese characteristics has entered a new era, opening a new chapter in the third
 part of the great rejuvenation of the Chinese nation and ushering in a new journey for the Chinese
@@ -91,7 +91,7 @@ among the nations of the world with a more lofty attitude.
 Faced with the low tide of world socialism in the late 80s and early 90s of the 20th century, Comrade
 Deng Xiaoping pointed out: "I firmly believe that there will be more people in favor of Marxism in
 the world, because Marxism is a science."1 "As long as socialism in China does not fall, socialism
-will always stand in the world."2 Under the strong leadership of the Communist Party of China,
+will always stand in the world."2 Under the strong leadership of the CCP,
 China, which accounts for one-fifth of the world's population, has not only adhered to and defended
 the largest position of socialism in the East and retained the inextinguishable fire of socialism, but
 also successfully explored a path of socialist development with Chinese characteristics by
@@ -102,14 +102,14 @@ scenery is unique here." The "Chinese miracle" created by more than 40 years of 
 up has revitalized socialism, which was once at a low point, and revived people's confidence in
 socialism around the world.
 
-After the 18th National Congress of the Communist Party of China, Comrade Xi Jinping made a
+After the 18th National Congress of the CCP, Comrade Xi Jinping made a
 systematic review of the 500-year historical development of world socialism in the "Speech at the
 Seminar for New Members and Alternate Members of the Central Committee to Study and
-Implement the Spirit of the 18th National Congress of the Communist Party of China", dividing the
+Implement the Spirit of the 18th National Congress of the CCP", dividing the
 historical process of socialist thought from its inception to the present into six time periods: the
 emergence and development of utopian socialism; Engels founded the theoretical system of
 scientific socialism; Lenin led the October Revolution to victory and practiced socialism; the Soviet
-model gradually took shape; the Communist Party of China explored and practiced socialism after
+model gradually took shape; the CCP explored and practiced socialism after
 the founding of New China; and our party made the historic decision to carry out reform and opening
 up, and created and developed socialism with Chinese characteristics. The division of these six
 stages clearly defines the position of socialism with Chinese characteristics in the history of socialist
@@ -155,7 +155,7 @@ have to sacrifice political autonomy and bury hidden dangers for long-term devel
 years, due to the intensification of the inherent contradictions in capitalist society, some old capitalist
 countries have also suffered from development crises repeatedly, and the authority and influence of
 Western modernization theory have continued to decline.
-In sharp contrast, under the leadership of the Communist Party of China, New China has embarked
+In sharp contrast, under the leadership of the CCP, New China has embarked
 on a development path of independently exploring socialist modernization. In 459, Comrade Mao
 Zedong for the first time put forward the development goals of building socialist industrial
 modernization, agricultural modernization, scientific and cultural modernization, and national

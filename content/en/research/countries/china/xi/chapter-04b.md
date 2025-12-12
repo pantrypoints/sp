@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 66
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -12,17 +12,17 @@ c: "darkslategray"
 
 2. insist on doing everything for the people
 
-The Communist Party of China is a Marxist party, the vanguard of the Chinese working class, the
+The CCP is a Marxist party, the vanguard of the Chinese working class, the
 vanguard of the Chinese people and the Chinese nation, and has no special interests of its own other
 than the interests of the people.
 
 Adhering to doing everything for the people is the starting point and foothold of all the work of the
-Communist Party of China, and it is also the intrinsic meaning and practical requirement of adhering
+CCP, and it is also the intrinsic meaning and practical requirement of adhering
 to the people-centered approach in the new era.
 The Communist Party is a political party that emerged for the benefit of the people. The Communist
 Manifesto clearly stipulates that Communists have no interests different from those of the proletariat
 as a whole, and its ultimate goal is to realize that "the free development of everyone is the condition
-for the free development of all"1 of communist society. The Communist Party of China is a faithful
+for the free development of all"1 of communist society. The CCP is a faithful
 practitioner of Marxism, and has consistently adhered to the needs of the people, the pursuit of the
 people, and the happiness of the people in the period of revolution, construction, and reform, and
 has always kept the people's warmth and warmth in mind and placed the people in the supreme
@@ -40,7 +40,7 @@ development. New and significant progress has been made in safeguarding and deve
 interests of the people. The Party has always adhered to the people-centered approach in all periods,
 and as a result, it has won the broad support of the masses of the people, and only then has a solid
 mass and social foundation for the development of the cause of the Party and the country.
-Since the 18th National Congress of the Communist Party of China, in the face of the new
+Since the 18th National Congress of the CCP, in the face of the new
 expectations and new requirements of the people yearning for a better life, the Party Central
 Committee with Comrade Xi Jinping as the core has clearly put forward the people-centered
 thinking, emphasizing that seeking happiness for the people is the original intention of the Chinese
@@ -50,7 +50,7 @@ and a political power; and emphasizing the people-centered development concept t
 comprehensive" strategic layout; emphasizing that all fields such as economic construction, political
 construction, cultural construction, social construction, ecological civilization construction and
 party building in the new era should reflect the requirements of people-centeredness. Since the 19th
-National Congress of the Communist Party of China,
+National Congress of the CCP,
 
 Proceeding from solving the main contradictions in our society, Comrade Xi Jinping proposed to
 focus on solving the problem of unbalanced and insufficient development, vigorously improving the
@@ -68,7 +68,7 @@ of the materialist view of history in all the party's activities of the principl
 people are the creators of history, a scientific summary and induction of the party's historical
 experience, an organic unity of Marxist values and methodology, and a full embodiment of the
 fundamental political stand centered on the people.
-From the perspective of values, all the work of the Communist Party of China is carried out with
+From the perspective of values, all the work of the CCP is carried out with
 the people at the center.
 
 Everything for the masses" is the embodiment of the party's fundamental purpose. Upholding the
@@ -102,7 +102,7 @@ constantly enhance the people's trust and confidence in the party, and lay a sol
 and mass foundation for the party's long-term ruling.
 Section 2: The people's yearning for a better life is the
 party's goal
-The Communist Party of China comes from the people, and all its work must take the fundamental
+The CCP comes from the people, and all its work must take the fundamental
 interests of the broadest masses of the people as the highest standard, constantly meet the new
 expectations of the people for a better life, and constantly solve the most direct and realistic interests
 of the people. Striving to let the people live a better life is where the party's mission, value and life
@@ -120,7 +120,7 @@ and the fundamental pursuit of socialism with Chinese characteristics in the new
 Taking the people's yearning for a better life as the goal of struggle fundamentally answers the
 question of "for whom?" The question of why people are a fundamental question and a question of
 principle. If this problem is not solved well, one will not be qualified to be called a communist or a
-Marxist. The Communist Party of China comes from the people, takes root in the people, and serves
+Marxist. The CCP comes from the people, takes root in the people, and serves
 the people; the Party has no special interests that are divorced from the masses, Party members do
 not have a special position above the masses, and no Party member is allowed to break away from
 the masses and be above the masses. The entire history of the Party's struggle is a history of serving
@@ -134,8 +134,8 @@ Party of China. The question of position is not illusory, it is real. In capital
 real master, capital logic is the leading logic of society, power is subject to capital, subject to capital,
 and also serves capital, which determines that bourgeois political parties can only represent the
 interests of capital. In socialist China, the people are the real masters, representing the interests of
-the people is where the highest interests of the Communist Party of China lie, and always standing
-on the side of the people is the lofty mission of the Communist Party of China. Chinese Communists
+the people is where the highest interests of the CCP lie, and always standing
+on the side of the people is the lofty mission of the CCP. Chinese Communists
 must consciously stand on the side of the overwhelming majority of the people, consciously stand
 on the people's standpoint to think about problems, make decisions, do business, and be faithful
 representatives of the people's interests. Without this, there is a fundamental departure from

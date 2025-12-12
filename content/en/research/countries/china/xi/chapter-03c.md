@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 43
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -12,7 +12,7 @@ c: "darkslategray"
 
 The party's leadership is the fundamental and lifeline of the party and the country, and the interests
 and happiness of the people of all ethnic groups throughout the country. Since the beginning of
-reform and opening up, the Communist Party of China has persisted in strengthening and improving
+reform and opening up, the CCP has persisted in strengthening and improving
 the party's leadership, actively coped with various risks and tests faced by the party under the
 conditions of long-term ruling and reform and opening up, continued to promote the new great
 project of party building, maintained the party's advanced nature and purity, and maintained the
@@ -25,7 +25,7 @@ downplay or even negate the party's leadership.
 
 Some people are secretive and vague about upholding the party's leadership, a major issue of
 principle, and some people downplay or even openly deny the party's leadership, and so on. Since
-the 18th National Congress of the Communist Party of China, Comrade Xi Jinping has taken a clear
+the 18th National Congress of the CCP, Comrade Xi Jinping has taken a clear
 stand on upholding and strengthening the party's leadership, expounded a series of major issues with
 direction and principle, effectively clarified ambiguous understanding, and declared a firm position
 and high confidence in the party's leadership. Over the past few years, no matter what field and
@@ -54,19 +54,19 @@ can we effectively prevent and resolve various risks and tests on the way forwar
 stable and long-term development of socialism with Chinese characteristics.
 Section 2: The Party is the supreme political leading force
 An important content of Xi Jinping's Thought on Socialism with Chinese Characteristics for a New
-Era is to clearly state that the Communist Party of China is the supreme political leading force.
+Era is to clearly state that the CCP is the supreme political leading force.
 Comrade Mao Zedong once clearly pointed out: "In the seven aspects of industry, agriculture,
 commerce, study, soldiers, government, and the party, the party leads everything."
 
 The Party should lead industry, agriculture, commerce, culture and education, the army and the
 government. "1 In the new era of socialism with Chinese characteristics, Comrade Xi Jinping further
-pointed out: "In today's China, there is no greater political force than the Communist Party of China
+pointed out: "In today's China, there is no greater political force than the CCP
 or any other force. In the study of the party, the government, the military, and the people, in the east,
 west, south, north, and middle, the party is the leader of everything and the highest political leading
 force. "2 The national governance system is a complex system of many subsystems, the core of
-which is the Chinese Communist Party. The major political thesis that the Communist Party of China
+which is the Chinese Communist Party. The major political thesis that the CCP
 is the supreme political leading force has directly and thoroughly revealed the status and role of the
-Communist Party of China in the country's political life.
+CCP in the country's political life.
 The Party is the supreme political leading force, which is determined by the nature of our country
 and the state system of government, established by the national constitution, tested by the great
 practice of China's revolution, construction and reform, and has undoubted historical rationality,
@@ -78,7 +78,7 @@ and leading social governance.
 
 The direction determines the path, and the road determines the destiny. Lenin pointed out: "Politics
 is to participate in the affairs of the state, to set the direction of the state, to determine the form, tasks
-and content of state activities.”3 The political direction pointed out by the Communist Party of China
+and content of state activities.”3 The political direction pointed out by the CCP
 to the whole party and the people of all ethnic groups throughout the country is socialism, and the
 ultimate goal pointed out is to realize communism. During the revolutionary war years, the Party
 went through hardships and dangers, overcame one difficulty after another, corrected one deviation
@@ -90,10 +90,10 @@ China "is the force of leadership", "the Party relies on politics to lead", and 
 the steering wheel.
 
 In 1954, Comrade Mao Zedong proposed at the First National People's Congress that the core force
-leading our cause is the Communist Party of China. In March 1957, he once again pointed out that
+leading our cause is the CCP. In March 1957, he once again pointed out that
 "China's reform and construction depend on our leadership."1 On May 25 of the same year, when
 receiving delegates to the Third National Congress of the Chinese New Democratic Youth League,
-he emphasized even more clearly: "The Communist Party of China is the core of leadership of the
+he emphasized even more clearly: "The CCP is the core of leadership of the
 entire Chinese people. Without such a core, the socialist cause cannot triumph.” 2 During the
 exploration of the road of socialist construction, although the Party experienced setbacks of all kinds,
 including the twists and turns and mistakes of the "Cultural Revolution", it always maintained the
@@ -102,12 +102,12 @@ direction of socialist progress, and finally established the correct political, 
 organizational lines, and successfully created socialism with Chinese characteristics.
 In China, a large country with a history of more than 5,000 years of civilization and a population of
 1.4 billion, there is no textbook that is regarded as the golden rule, and there is no teacher who can
-command the Chinese people. The Communist Party of China firmly grasps the direction of progress
+command the Chinese people. The CCP firmly grasps the direction of progress
 of socialism with Chinese characteristics, neither follows the old road of closure and rigidity, nor
 does it take the evil road of changing the banner, fully mobilizes the enthusiasm of all parties under
 the background of market economy and globalization, unites forces of all aspects, and gathers into
 a majestic force to promote the cause of socialism with Chinese characteristics.
-Since the 18th National Congress of the Communist Party of China, the Party Central Committee
+Since the 18th National Congress of the CCP, the Party Central Committee
 with Comrade Xi Jinping as the core has held high the great banner of socialism with Chinese
 characteristics and set the steering wheel of reform and opening up in the new era. This direction is
 the path of socialism with Chinese characteristics, not any other path. Today, reform and opening
@@ -122,7 +122,7 @@ The national political system is a large system, which consists of the fundament
 the basic political system and the specific institutional mechanisms of all aspects of national
 governance, covering state organs, political party organizations and various political subjects. In
 this large system, the Chinese Communist Party is in a dominant position.
-The Communist Party of China is the ruling party, and the Party leads state and social affairs through
+The CCP is the ruling party, and the Party leads state and social affairs through
 the system of people's congresses. The Party leads, supports and guarantees that the people are
 masters of their own country, mobilizes and organizes the masses of the people to manage state and
 social affairs and economic and cultural undertakings in accordance with the law. The Party leads
@@ -135,7 +135,7 @@ of state power, at using the principle of democratic centralism to safeguard the
 and the State, safeguarding the unity of the whole Party and the whole country, and supporting and
 ensuring that organs of state power carry out their work proactively, independently responsible, and
 in a coordinated manner in accordance with the Constitution and laws.
-The Communist Party of China is the core force leading China's various undertakings, and the
+The CCP is the core force leading China's various undertakings, and the
 national governance system must adhere to the leadership of the party. Since the beginning of reform
 and opening up, no matter how the party has adjusted the relationship between the party and the
 government, one thing remains unchanged, that is, upholding the party's leadership has always been
@@ -160,13 +160,13 @@ inclusive, and seeking common ground while reserving differences, and is a major
 human political civilization."1 This political system is different from the multi-party system or two-
 party system of many capitalist countries, nor the one-party system of some countries, but is an
 original system rooted in China and has distinct Chinese characteristics. This characteristic is first
-embodied in the leadership of the Communist Party of China. Party leadership is the conscious
+embodied in the leadership of the CCP. Party leadership is the conscious
 choice of all democratic parties and is also the basic prerequisite of China's political party system.
 The relationship between the CPC and other democratic parties is the leadership of the CPC, multi-
 party cooperation, and the ruling power of the CPC and multi-party participation in politics. The
 democratic parties are not opposition parties and opposition parties, but friendly parties and
 participating parties that cooperate closely with the CPC. Adhering to the leadership of the
-Communist Party of China is not to stop democracy, but to form a broader and more effective
+CCP is not to stop democracy, but to form a broader and more effective
 democracy. The CPC and the democratic parties have conducted democratic consultations, made
 concerted efforts on major national issues, and concentrated their efforts on major affairs.
 

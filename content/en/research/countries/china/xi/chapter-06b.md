@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 103
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -66,19 +66,19 @@ People's Republic of China by the middle of the century, we will basically reali
 and build a prosperous, strong, democratic, civilized, and civilized socialist country."1 This is a
 refinement and concretization of the "third step" of Comrade Deng Xiaoping's "three-step" strategy,
 and it is also a new "three-step" strategic arrangement for China's development in the first half of
-the 21st century. In November 2002, the 16th National Congress of the Communist Party of China
+the 21st century. In November 2002, the 16th National Congress of the CCP
 reaffirmed the new "three-step approach" and clearly defined the first centenary goal as: "To build
 a better-off society of a higher standard that benefits more than one billion people in an all-round
 way, so that the economy will be more developed, democracy will be more sound, science and
 education will be more progressive, culture will be more prosperous, society will be more
 harmonious and the people's life will be more solid." 2 In October 2007, at the 17th National
-Congress of the Communist Party of China, Comrade Hu Jintao put forward new and higher
+Congress of the CCP, Comrade Hu Jintao put forward new and higher
 requirements for China's development, and adjusted the first centenary goal to build a moderately
 prosperous society in an all-round way.
 
 3. Make strategic arrangements for building a moderately prosperous society and a modern socialist power in an all-round way, and start a new journey of the great rejuvenation of the Chinese nation
 
-Since the 18th National Congress of the Communist Party of China, the Party Central Committee
+Since the 18th National Congress of the CCP, the Party Central Committee
 with Comrade Xi Jinping as the core has scientifically planned the overall situation, firmly grasped
 the strategic initiative, unswervingly achieved strategic goals, led China's reform, opening up and
 socialist modernization to achieve historic achievements, opened up a new situation in the cause of
@@ -109,7 +109,7 @@ modernization. In the second stage, from 2035 to the middle of this century, on 
 realizing modernization, we will strive for another 15 years to build China into a prosperous, strong,
 democratic, civilized, harmonious and beautiful modern socialist power. Such an arrangement can
 be said to be an "upgraded version" of the third-step goal of the "three-step" strategy. This is the
-solemn promise of the Communist Party of China on the journey of realizing the great rejuvenation
+solemn promise of the CCP on the journey of realizing the great rejuvenation
 of the Chinese nation, but it is by no means something that can be achieved easily and by banging
 gongs and drums, but a grand vision that requires the whole party and the people of all ethnic groups
 throughout the country to endure, persevere and make long-term and arduous efforts with an

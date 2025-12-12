@@ -4,7 +4,7 @@ title: "Section 3: The leadership of ideological work"
 weight: 233
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -12,13 +12,13 @@ c: "darkslategray"
 3. the new goal of promoting social construction at a new starting point
 
 In the face of the new situation of social construction in the new era, the 19th National Congress of
-the Communist Party of China made systematic arrangements for promoting social construction,
+the CCP made systematic arrangements for promoting social construction,
 emphasizing that "we must always put the interests of the people in the supreme position, so that
 the results of reform and development can benefit all the people more and more equitably, and
 continue to move forward towards realizing the common prosperity of all the people"; a more
 fulfilling, secure and sustainable sense of security.”1
 
-The 19th National Congress of the Communist Party of China also put forward a more long-term
+The 19th National Congress of the CCP also put forward a more long-term
 goal pursuit for promoting social construction in the "two-step" strategic arrangement of building a
 modern and powerful socialist country in an all-round way. In the strategic deployment of basically
 realizing socialist modernization from 2020 to 2035, it is clearly proposed that by 2035, the rule of
@@ -35,7 +35,7 @@ will be comprehensively improved, the national governance system and governance 
 be modernized, the common prosperity of all the people will be basically realized, and the Chinese
 people will enjoy a happier and healthier life.
 The task goal of social construction at a new starting point established by the 19th National Congress
-of the Communist Party of China demonstrates the Party's strong historical responsibility and the
+of the CCP demonstrates the Party's strong historical responsibility and the
 Party's ambition to promote China's social progress.
 
 To achieve such a task goal, we must always adhere to the principled position of putting the interests

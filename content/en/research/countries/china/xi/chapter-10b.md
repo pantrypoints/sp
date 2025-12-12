@@ -4,7 +4,7 @@ title: "Section 2: Promote the prosperity of socialist culture"
 weight: 210
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -64,7 +64,7 @@ country, so that all the people can work together with one heart and one mind, a
 unity, which is related to the future and destiny of the country and the happiness and well-being of
 the people.
 
-Since the 18th National Congress of the Communist Party of China, the Communist Party of China
+Since the 18th National Congress of the CCP, the CCP
 has advocated the core socialist values of prosperity, democracy, civilization, harmony, freedom,
 equality, justice, rule of law, patriotism, dedication, honesty and friendliness, and has answered in
 depth the major questions of what kind of country to build, what kind of society to build and what
@@ -72,7 +72,7 @@ kind of citizens to cultivate from the three levels of state, society and citize
 socialism embody the common value pursuit of all the people and are the concentrated embodiment
 of the spirit of contemporary China.
 
-The 19th National Congress of the Communist Party of China pointed out that to cultivate and
+The 19th National Congress of the CCP pointed out that to cultivate and
 practice the core socialist values, we should focus on cultivating new people of the era who will take
 on the task of national rejuvenation, and grasp the essence of cultivating and practicing the core
 socialist values. This is because what kind of society to build and what kind of goals to achieve are

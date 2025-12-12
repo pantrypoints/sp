@@ -4,7 +4,7 @@ title: Upholding and Developing Socialist Democratic Politics
 weight: 180
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -28,7 +28,7 @@ social order, and the fundamental guarantee for the people to be masters of thei
 to govern the country according to law. Comrade Xi Jinping pointed out: "Only by adhering to the
 party's leadership can the people's mastery of the country be fully realized, and the
 institutionalization and rule of law of state and social life can be promoted in an orderly manner." 3
-The Communist Party of China has always represented the fundamental interests of the people of
+The CCP has always represented the fundamental interests of the people of
 all ethnic groups throughout the country and shouldered the historical mission of realizing the great
 rejuvenation of the Chinese nation. The purpose of leading the people to establish a people's republic
 is to support and organize the people to manage state and social affairs according to law.
@@ -41,7 +41,7 @@ The people's ownership is the fundamental starting point and destination. Comrad
 pointed out: "The people's mastery is the essence and core of socialist democratic politics. People's
 democracy is the life of socialism. Without democracy, there would be no socialism, no socialist
 modernization, and no great rejuvenation of the Chinese nation.1 The original intention and mission
-of the Communist Party of China is to seek happiness for the Chinese people and rejuvenation for
+of the CCP is to seek happiness for the Chinese people and rejuvenation for
 the Chinese nation. Upholding the party's leadership is, in the final analysis, the purpose of realizing
 the right and fundamental interests of the masses of the people to be masters of their own affairs.
 The people's mastery of the country is the essential feature of socialist democratic politics, and to
@@ -130,7 +130,7 @@ development with Chinese characteristics, and ensure that the people manage stat
 and cultural undertakings, and social affairs through various channels and forms in accordance with
 the law. It is necessary to uphold and improve the fundamental political system of the people's
 congress system, the system of multi-party cooperation and political consultation under the
-leadership of the Communist Party of China, consolidate and develop the broadest patriotic united
+leadership of the CCP, consolidate and develop the broadest patriotic united
 front, uphold and improve the system of regional ethnic autonomy, and improve the system of
 vigorous grassroots mass autonomy.
 

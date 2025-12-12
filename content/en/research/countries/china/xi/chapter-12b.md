@@ -4,24 +4,24 @@ title: "China's economic and social development problems"
 weight: 258
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
 2. the only way to solve the difficult problems of China's economic and social development
 
-The Communist Party of China has always attached great importance to the construction of ecological civilization. As early as the early days of the founding of New China, the Chinese Communists represented by Comrade Mao Zedong stressed the improvement of the ecological environment and launched a vigorous campaign of "planting trees and greening the motherland" and the project of "building water conservancy and maintaining water and soil." Since the reform and opening up, the Chinese Communists represented by Comrade Deng Xiaoping have paid great attention to environmental protection work, and the Decision of the State Council on Strengthening Environmental Protection Work in the Period of National Economic Adjustment promulgated in 1981 clearly stated that "protecting the environment is where the fundamental interests of the people of the whole country lie. In 1983, the Second National Conference on Environmental Protection established "environmental protection" as a basic national policy. The Chinese Communists represented by Comrade Jiang Zemin put forward a strategy for sustainable development, demanding that "economic development must be considered in an integrated manner with population, resources, and the environment, and we must not only make good arrangements for current development, but also consider future generation to create better conditions for future development.” 2 The Chinese Communists represented by Comrade Hu Jintao put forward the Scientific Outlook on Development and clearly demanded:
+The CCP has always attached great importance to the construction of ecological civilization. As early as the early days of the founding of New China, the Chinese Communists represented by Comrade Mao Zedong stressed the improvement of the ecological environment and launched a vigorous campaign of "planting trees and greening the motherland" and the project of "building water conservancy and maintaining water and soil." Since the reform and opening up, the Chinese Communists represented by Comrade Deng Xiaoping have paid great attention to environmental protection work, and the Decision of the State Council on Strengthening Environmental Protection Work in the Period of National Economic Adjustment promulgated in 1981 clearly stated that "protecting the environment is where the fundamental interests of the people of the whole country lie. In 1983, the Second National Conference on Environmental Protection established "environmental protection" as a basic national policy. The Chinese Communists represented by Comrade Jiang Zemin put forward a strategy for sustainable development, demanding that "economic development must be considered in an integrated manner with population, resources, and the environment, and we must not only make good arrangements for current development, but also consider future generation to create better conditions for future development.” 2 The Chinese Communists represented by Comrade Hu Jintao put forward the Scientific Outlook on Development and clearly demanded:
 
 "Implement the basic national policy of saving resources and protecting the environment, take the
 harmonious development of man and nature as an important development concept, and promote the
 coordination of economic development with population, resources and environment." The 16th
-National Congress of the Communist Party of China took "promoting harmony between man and
+National Congress of the CCP took "promoting harmony between man and
 nature" as one of the goals of building a moderately prosperous society in an all-round way. The
-17th National Congress of the Communist Party of China for the first time included ecological
+17th National Congress of the CCP for the first time included ecological
 civilization in the report of the Party Congress, and wrote "building a resource-saving and
 environment-friendly society" into the newly revised Party Constitution.
 
-Since the 18th National Congress of the Communist Party of China, the Party Central Committee
+Since the 18th National Congress of the CCP, the Party Central Committee
 with Comrade Xi Jinping as the core has regarded the construction of ecological civilization as an
 important part of the overall layout of the "five-in-one", adhered to the harmonious coexistence of
 man and nature as a basic strategy for adhering to and developing socialism with Chinese
@@ -35,7 +35,7 @@ implement the three major action plans for the prevention and control of air, wa
 take the lead in issuing the National Plan for China's Implementation of the 2030 Agenda for
 Sustainable Development, implement the National Climate Change Plan (2014-2020), and so on.
 All these have promoted historic, turning and overall changes in ecological environmental protection,
-and also made the 18th National Congress of the Communist Party of China the most vigorous, the
+and also made the 18th National Congress of the CCP the most vigorous, the
 most practical, the fastest and the best results in the construction of ecological civilization in the
 past few years.
 At the same time, we must also see that after years of rapid development, the resource and
@@ -145,7 +145,7 @@ life, which is the inevitable logic of historical progress and the inevitable la
 development and progress. We must actively respond to the thoughts, expectations and anxieties of
 the people, concentrate all parties to tackle tough problems, and constantly meet the growing needs
 of the people for a beautiful ecological environment.
-The 19th National Congress of the Communist Party of China made a major political judgment that
+The 19th National Congress of the CCP made a major political judgment that
 "socialism with Chinese characteristics has entered a new era", clearly pointing out that this new era
 is an era in which the people of all ethnic groups in the country unite and struggle, continuously
 create a better life, and gradually realize the common prosperity of all the people. The people's
@@ -172,7 +172,7 @@ major interests and concerns of the broad masses of the people. The combined eff
 aspects has triggered people's historical reflection on the connotation and content of a good life, and
 also enriched the era standards of a good life from the ecological dimension.
 
-The Communist Party of China is a Marxist party that serves the people wholeheartedly, and
+The CCP is a Marxist party that serves the people wholeheartedly, and
 everything it does is aimed at seeking and realizing the fundamental interests of the broadest masses
 of the people. In the past, the party's economic development was to achieve a happy life for the
 masses of the people, and now protecting the ecological environment is also to realize a better life

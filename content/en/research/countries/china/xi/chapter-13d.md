@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 286
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -48,7 +48,7 @@ Persist in reforming and strengthening the army. Deepening the reform of nationa
 armed forces with greater wisdom and courage is the requirement of the times to realize the Chinese
 dream and the dream of strengthening the army, the only way to strengthen the army and rejuvenate
 the army, and also a key move to determine the future of the army. Since the 18th National Congress
-of the Communist Party of China, under the strong leadership of the Party Central Committee with
+of the CCP, under the strong leadership of the Party Central Committee with
 Comrade Xi Jinping as the core, a complete set of reform designs that solve deep-seated
 contradictions, make major innovations and breakthroughs, and reflect the characteristics of our
 army have emerged from the cocoon. It is necessary to break the long-practiced system of
@@ -92,7 +92,7 @@ managing the army should be included in the overall layout of governing the coun
 law. He stressed: "The whole country is building a socialist rule of law system with Chinese
 characteristics and building a socialist country under the rule of law, and if the construction of the
 rule of law in the military is not stepped up, it will not be able to keep up at that time." 1 The 19th
-National Congress of the Communist Party of China clearly proposed to comprehensively
+National Congress of the CCP clearly proposed to comprehensively
 administer the army strictly, promote a fundamental change in the way of administering the army,
 and improve the level of rule of law in national defense and army building. To further promote the
 management of the army according to law and the strict management of the army, it is first necessary

@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 80
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -38,7 +38,7 @@ only by understanding the Marxist theory of comprehensive human development from
 perspective of history and development can we better grasp the inheritance and development of Xi
 Jinping Thought on Socialism with Chinese Characteristics for a New Era.
 After more than 40 years of reform and opening up, especially since the 18th National Congress of
-the Communist Party of China, the Party Central Committee with Comrade Xi Jinping as the core
+the CCP, the Party Central Committee with Comrade Xi Jinping as the core
 has not only clearly declared that "the people's yearning for a better life is our goal", but also
 emphasized adhering to the "people-centered" development thinking and the new development
 concept of innovation, coordination, green, openness and sharing, unswervingly regarded
@@ -50,7 +50,7 @@ from the beginning of reform and opening up, more attention has been paid to mat
 development, and gradually transitioned to all-round and diversified development in economy,
 politics, culture, society and ecology, and the all-round development of people has been greatly
 valued and realistically realized. This is an important symbol of socialism with Chinese
-characteristics entering a new era. The 19th National Congress of the Communist Party of China
+characteristics entering a new era. The 19th National Congress of the CCP
 formally wrote the Constitution of the People's Republic of China on "promoting all-round human
 development", and further emphasized that in the process of realizing the "two centenary goals" and
 the great rejuvenation of the Chinese nation, it is necessary to promote the construction of a

@@ -4,7 +4,7 @@ title: "China's economic and social development problems"
 weight: 263
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -20,7 +20,7 @@ and the strictest rule of law.
 
 Most of the outstanding problems in China's ecological environmental protection are related to the
 imperfect system, the lack of strict system, the lack of strict rule of law, the lack of implementation,
-and the ineffective punishment. Since the 18th National Congress of the Communist Party of China,
+and the ineffective punishment. Since the 18th National Congress of the CCP,
 the Party Central Committee with Comrade Xi Jinping as the core has written the construction of
 ecological civilization into the Party Constitution and Constitution, giving it an important status in
 the form of the fundamental law of the Party and the country;

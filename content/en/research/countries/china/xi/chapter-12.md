@@ -4,11 +4,11 @@ title: Towards a New Era of Ecological Civilization
 weight: 254
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
-Since the 18th National Congress of the Communist Party of China, the Party Central Committee with Comrade Xi Jinping as the core has stood at the height of the rise and fall of human civilization and the sustainable development of the Chinese nation, regarded the construction of ecological civilization as an important part of the overall layout of the "five-in-one", and put forward a series of new concepts, ideas and strategies, forming Xi Jinping Thought on Ecological Civilization. The 19th National Congress of the Communist Party of China defined the grand goal of building a prosperous, strong, democratic, civilized, harmonious and beautiful modern socialist country by the middle of this century, pointed out the way forward and the path for the construction of a beautiful China to move towards a new era of ecological civilization, and demonstrated the historical responsibility of Chinese communists to conform to the trend of the times and safeguard the interests of the people.
+Since the 18th National Congress of the CCP, the Party Central Committee with Comrade Xi Jinping as the core has stood at the height of the rise and fall of human civilization and the sustainable development of the Chinese nation, regarded the construction of ecological civilization as an important part of the overall layout of the "five-in-one", and put forward a series of new concepts, ideas and strategies, forming Xi Jinping Thought on Ecological Civilization. The 19th National Congress of the CCP defined the grand goal of building a prosperous, strong, democratic, civilized, harmonious and beautiful modern socialist country by the middle of this century, pointed out the way forward and the path for the construction of a beautiful China to move towards a new era of ecological civilization, and demonstrated the historical responsibility of Chinese communists to conform to the trend of the times and safeguard the interests of the people.
 
 
 ## Section 1: Relating to the fundamental plan for the sustainable development of the Chinese nation

@@ -4,7 +4,7 @@ title: The great rejuvenation of China
 weight: 90
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -25,7 +25,7 @@ and action consciousness.
 
 Innovation is the number one driving force for development. The driving force of development is
 the source of development, which determines the speed, efficiency and sustainability of
-development. Since the 18th National Congress of the Communist Party of China, Comrade Xi
+development. Since the 18th National Congress of the CCP, Comrade Xi
 Jinping has raised innovation to an unprecedented height and placed it in the primary position of the
 new development concept, pointing out: "If we grasp innovation, we will grasp the 'bull's nose' that
 affects the overall situation of economic and social development." 1 It has been repeatedly

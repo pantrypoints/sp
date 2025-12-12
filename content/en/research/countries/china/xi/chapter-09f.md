@@ -4,14 +4,14 @@ title: Upholding and Developing Socialist Democratic Politics
 weight: 193
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
 3. Consolidate and develop the patriotic united front
 
 The broad patriotic united front is an important part of the socialist political system with Chinese
-characteristics. Since the 18th National Congress of the Communist Party of China, Comrade Xi
+characteristics. Since the 18th National Congress of the CCP, Comrade Xi
 Jinping has made many important speeches on united front work, scientifically answering major
 questions such as why to adhere to the united front, what kind of united front to adhere to, and how
 to consolidate and develop the united front in the new era.
@@ -21,7 +21,7 @@ construction and reform, as well as for realizing the great rejuvenation of the 
 Whether from the perspective of historical experience or from the perspective of promoting reform
 and development, it is necessary to adhere to the patriotic united front for a long time.
 
-The patriotic united front is the united front led by the Communist Party of China, and upholding
+The patriotic united front is the united front led by the CCP, and upholding
 the party's leadership is the fundamental political guarantee for doing a good job in united front
 work. The party's leadership over the united front is primarily political leadership, including
 leadership over political principles, political orientation, and major principles and policies. The
@@ -98,7 +98,7 @@ Overseas Chinese and their families of returned overseas Chinese are also an imp
 socialist modernization, and they also need extensive unity and joint efforts to work together for the
 great rejuvenation of the Chinese nation.
 Section 3: Comprehensively advancing the rule of law
-Since the 18th National Congress of the Communist Party of China, the Party Central Committee
+Since the 18th National Congress of the CCP, the Party Central Committee
 with Comrade Xi Jinping as the core has made a series of major decisions and put forward a series
 of major measures on the comprehensive rule of law, systematically answered the major theoretical
 and practical issues involved in the comprehensive rule of law, and comprehensively expounded the
@@ -110,7 +110,7 @@ characteristics in the new era.
 
 Law is the most important instrument of governance, and the rule of law is the basic way to govern
 a country. In the face of the new requirements for the development of the cause of the party and the
-country in the new era, the Communist Party of China has incorporated the comprehensive rule of
+country in the new era, the CCP has incorporated the comprehensive rule of
 law into the "four comprehensive" strategic layout. The 19th National Congress of the Communist
 Party of China proposed that governing the country according to law is the basic way for the party
 to lead the people to govern the country, and endowed the rule of law with a basic and strategic
@@ -121,7 +121,7 @@ adhering to and developing socialism with Chinese characteristics. Adhering to a
 socialism with Chinese characteristics is a process of joint advancement of material, political,
 spiritual, social and ecological civilizations, and the improvement of the level of rule of law is not
 only the proper meaning of the question, but also the basic support running through it. Since the
-reform and opening up, the Communist Party of China has integrated the construction of the rule of
+reform and opening up, the CCP has integrated the construction of the rule of
 law into the theory and practice of socialism with Chinese characteristics, which has become an
 important part of the modernization drive. In the new era of socialism with Chinese characteristics,
 the rule of law has a more important position and role in the overall work of the party and the state.
@@ -163,7 +163,7 @@ and stability in the country and the happiness and well-being of the people. His
 taught us that the rule of law must be relied upon to achieve long-term peace and stability in the
 country and the happiness and well-being of the people. China is a large country with a large
 population, vast territory, many ethnic groups and complex national conditions, and it is not easy
-for the Communist Party of China to govern such a large country, and it is not easy to ensure the
+for the CCP to govern such a large country, and it is not easy to ensure the
 long-term peace and stability of the country and the happy and healthy life of the people. Only by
 bringing the work of the party and the state into the track of rule of law, persisting in coordinating
 social forces, balancing social interests, regulating social relations, and regulating social behavior

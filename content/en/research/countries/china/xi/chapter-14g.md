@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 332
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -115,7 +115,7 @@ carry out practical projects, promote the good use of historical and cultural he
 tourism products with Silk Road characteristics and do a good job in heritage protection, and hold
 the "Belt and Road" Youth Creativity and Heritage Forum.
 
-Since the 18th National Congress of the Communist Party of China, under the guidance of Xi Jinping
+Since the 18th National Congress of the CCP, under the guidance of Xi Jinping
 Diplomatic Thought, China's foreign affairs work has made all-round historic achievements, greatly
 enhanced China's international influence, appeal and shaping power, created a peaceful international
 environment and a good surrounding environment for China's development, improved China's

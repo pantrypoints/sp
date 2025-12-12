@@ -4,7 +4,7 @@ title: Persisting in Comprehensively Deepening Reform and Comprehensively Openin
 weight: 121
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -36,7 +36,7 @@ opening up.
 Reform and opening up have provided a practical basis for the creation, development and
 improvement of socialism with Chinese characteristics. Socialism is not only a political proposition,
 but also a movement, which cannot be separated from practice. In the great practice of reform and
-opening up, the Communist Party of China has insisted on proceeding from reality and basing itself
+opening up, the CCP has insisted on proceeding from reality and basing itself
 on the actual national conditions.
 
 "Do what Comrade Mao Zedong has proposed but has not done, correct what he opposes and is

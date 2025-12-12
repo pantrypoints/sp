@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 283
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 Section 2: Continuously open up a new situation of  strengthening the army and rejuvenating the army
@@ -35,7 +35,7 @@ the principle of combining revolutionization, modernization, and regularization,
 revealed the objective law governing army building, and guided our army to continuously win new
 victories from small to large and from weak to strong.
 
-Since the 18th National Congress of the Communist Party of China, the Party Central Committee
+Since the 18th National Congress of the CCP, the Party Central Committee
 with Comrade Xi Jinping as the core has focused on realizing the "two centenary goals" and realizing
 the Chinese dream of the great rejuvenation of the Chinese nation, adhered to and developed Marxist
 military theory, and established the principle of "building a team that obeys the command of the

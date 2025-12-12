@@ -4,7 +4,7 @@ title: "Section 3: The leadership of ideological work"
 weight: 236
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -132,7 +132,7 @@ era and benefits the future, and is of decisive significance for improving the c
 of the people, promoting the all-round development of the people, enhancing the vitality of
 innovation and creativity of the Chinese nation, and realizing the great rejuvenation of the Chinese
 nation." Education is the great plan of the country and the party."1 Since the 18th National Congress
-of the Communist Party of China, the proportion of state financial education funds to GDP has
+of the CCP, the proportion of state financial education funds to GDP has
 always remained above 4%, laying a solid economic foundation for the all-round development of
 education. The concept of modern education has been deepened, and the ability of educational
 innovation has been significantly improved, laying a solid talent foundation for China's education

@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 322
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -68,7 +68,7 @@ Section 3: The Belt and Road Initiative is an important
 platform for building a community with a shared future for
 mankind
 
-Since the 18th National Congress of the Communist Party of China, Comrade Xi Jinping has
+Since the 18th National Congress of the CCP, Comrade Xi Jinping has
 organically combined China's development with the common development of the world, drawn
 nourishment from the ancient Silk Road, and creatively proposed the "Silk Road Economic Belt"
 and "The "21st Century Maritime Silk Road" initiative has created a new pattern of China's all-

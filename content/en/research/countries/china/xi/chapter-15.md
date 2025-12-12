@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 338
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -13,7 +13,7 @@ Chapter XV: Unswervingly Promoting Comprehensive and Strict Party Management
 
 The key to adhering to and developing the great cause of socialism with Chinese characteristics lies
 in the party, and the key lies in administering the party strictly in an all-round way. Since the 18th
-National Congress of the Communist Party of China, the Party Central Committee with Comrade
+National Congress of the CCP, the Party Central Committee with Comrade
 Xi Jinping as the core has started from the beginning of style building, firmly grasped political
 construction, which is the fundamental construction of the Party, and promoted the comprehensive
 and strict management of the Party with firm determination, tenacious will and unprecedented
@@ -70,7 +70,7 @@ administer the party and made a series of important expositions. At the Second P
 the 19th Central Commission for Discipline Inspection,
 
 Comrade Xi Jinping has profoundly grasped the important experience of comprehensively
-administering the party strictly since the 18th National Congress of the Communist Party of China,
+administering the party strictly since the 18th National Congress of the CCP,
 and summarized the adherence to the "six unifications", that is: adhere to the unity of ideological
 party building and system party management, adhere to the unity of mission guidance and problem
 orientation, adhere to the unity of grasping the "key minority" and managing the "overwhelming

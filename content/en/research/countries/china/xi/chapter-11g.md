@@ -4,7 +4,7 @@ title: "Section 3: The leadership of ideological work"
 weight: 250
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -70,7 +70,7 @@ collect, absorb and utilize all kinds of constructive opinions, promptly clarify
 thought, and promptly channel and resolve emotional discussions.
 
 The social mentality is a barometer of economic and social development. The 19th National
-Congress of the Communist Party of China emphasized that it is necessary to strengthen the
+Congress of the CCP emphasized that it is necessary to strengthen the
 construction of the social psychological service system and cultivate a self-esteem, self-confidence,
 rationality, peace and positive social mentality. To this end, it is necessary to further improve the
 methods and methods of ideological and political work, and take humanistic care and psychological

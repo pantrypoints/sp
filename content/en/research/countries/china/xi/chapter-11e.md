@@ -4,7 +4,7 @@ title: "Section 3: The leadership of ideological work"
 weight: 243
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -19,7 +19,7 @@ According to international poverty alleviation standards, since 1978, China has 
 780 million people, and the number of people lifted out of poverty exceeds the combined population
 of the world's most populous countries, the United States, Russia, Japan and Germany, and the
 country with the largest poverty reduction population in the world, contributing more than 70% to
-world poverty reduction. Since the 18th National Congress of the Communist Party of China, China
+world poverty reduction. Since the 18th National Congress of the CCP, China
 has made decisive achievements in poverty alleviation, the number of poor people has been reduced
 from 98.99 million at the end of 2012 to 5.51 million at the end of 2019, the incidence of poverty
 has dropped from 10.2% to 0.6%, and the poverty reduction has been reduced by more than 10
@@ -32,7 +32,7 @@ way, both government-led and social assistance, more actively mobilizing and giv
 main role of the poor population, implementing inclusive policies and preferential policies, linking
 long-term poverty alleviation planning with poverty alleviation, and achieving precise poverty
 alleviation through targeted poverty alleviation, forming a poverty alleviation model with Chinese
-characteristics. Since the 18th National Congress of the Communist Party of China, poverty
+characteristics. Since the 18th National Congress of the CCP, poverty
 alleviation has provided Chinese experience and Chinese solutions for poverty alleviation around
 the world, and has made significant contributions to the development and progress of human society.
 
@@ -65,7 +65,7 @@ The goal of poverty alleviation is to truly get rid of poverty. To truly allevia
 solve the problem of endogenous driving force of development in poor areas and the problem of
 poor people returning to poverty after being lifted out of poverty, that is, we must not only improve
 the "blood transfusion" mechanism, but also form a "hematopoietic" mechanism. Since the 18th
-National Congress of the Communist Party of China, Comrade Xi Jinping has put forward the idea
+National Congress of the CCP, Comrade Xi Jinping has put forward the idea
 of "social policies should be underpinned" to help low-income groups not only survive, but also
 have development opportunities and realize the organic combination of blood transfusion
 mechanism and hematopoietic mechanism. In terms of basic survival, the main thing is to build a
@@ -122,7 +122,7 @@ continuously deepened. In the long-term exploration and practice, China has esta
 system for social management work, built a network of social management organizations,
 formulated basic laws and regulations on social management, and continuously promoted the
 adaptation of social management to China's national conditions and socialist system.
-Since the 18th National Congress of the Communist Party of China, the Party Central Committee
+Since the 18th National Congress of the CCP, the Party Central Committee
 with Comrade Xi Jinping as the core has deeply studied the new situation, new tasks and new
 characteristics facing social management, focused on promoting innovation in social management
 concepts, practices and systems, and clearly put forward the major proposition of "social

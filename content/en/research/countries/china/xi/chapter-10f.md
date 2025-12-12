@@ -4,7 +4,7 @@ title: Building a Socialist Cultural Power
 weight: 225
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -12,7 +12,7 @@ c: "darkslategray"
 3. persist in taking the establishment as the foundation, making breakthroughs at the same time, and constantly consolidate and strengthen mainstream ideological public opinion
 
 In the ideological field, adhering to the emphasis on construction and building on the foundation
-has been the consistent policy of the Communist Party of China since the reform and opening up.
+has been the consistent policy of the CCP since the reform and opening up.
 The principle of stressing construction was put forward by the party in the early stage of reform and
 opening up on the basis of summing up positive and negative experiences, especially on the basis
 of summing up the lessons of the "Cultural Revolution" such as taking class struggle as the keynote
@@ -44,10 +44,10 @@ leading the guide, focusing on the center, serving the overall situation, unitin
 morale, shaping people, cohesion, clarifying fallacies, distinguishing right from wrong, connecting
 China and the world, and communicating the world" 1 The 48-character duty and mission of
 vigorously carry forward all ideological spirits conducive to upholding the leadership of the
-Communist Party of China and China's socialist system, all ideological spirits conducive to
+CCP and China's socialist system, all ideological spirits conducive to
 promoting reform and development, all ideological spirits conducive to enhancing the unity of the
 people of all ethnic groups in the country, and all ideological spirits conducive to maintaining social
-harmony and stability, and profoundly expounding why the Communist Party of China "can" and
+harmony and stability, and profoundly expounding why the CCP "can" and
 why Marxism is the intrinsic truth of "doing" and why socialism with Chinese characteristics is
 "good" has inspired the powerful force of unity and progress of the whole society.
 Construction and management complement each other, and supporting the right and dispelling evil
@@ -67,7 +67,7 @@ manner, and help cadres and the masses draw a clear line between right and wrong
 ambiguous understanding."3 So as to maximize the consensus of the whole party and society, and
 realize and consolidate ideological unity and unity.
 Dare to show the sword has been a distinctive feature of ideological work since the 18th National
-Congress of the Communist Party of China.
+Congress of the CCP.
 
 Comrade Xi Jinping stressed at the 2013 National Conference on Propaganda and Ideological Work:
 "We must take a clear-cut stand and adhere to the truth, and take a firm stand to refute fallacies." 1
@@ -154,7 +154,7 @@ territory, so that all kinds of ideological fronts will always become strong pos
 advanced ideology and culture, and never provide channels for the dissemination of erroneous ideas
 and viewpoints.
 
-Since the 18th National Congress of the Communist Party of China, the Party Central Committee
+Since the 18th National Congress of the CCP, the Party Central Committee
 has made a series of clear provisions on the main body of accountability, the content of
 accountability, and the methods of accountability for ideological work. The main body of
 accountability is mainly the leading comrades of party committees (leading party groups) at all

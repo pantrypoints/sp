@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 344
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -52,14 +52,14 @@ Comrade Mao Zedong attached greater importance to the party's political construc
 "Political work is the lifeline of all economic work.1 In the new period of reform and opening up,
 Comrade Deng Xiaoping stressed that we must always stress politics, "Socialist modernization is
 our biggest politics at present, because it represents the greatest interests and the most fundamental
-interests of the people." 2 Since the 18th National Congress of the Communist Party of China,
+interests of the people." 2 Since the 18th National Congress of the CCP,
 Comrade Xi Jinping has clearly pointed out: "As a Marxist political party, our party emphasizes
 politics as an outstanding feature and advantage. ...... Is the Communist Party still called the
-Communist Party if it doesn't talk about politics?"3 Along the way, the Communist Party of China
+Communist Party if it doesn't talk about politics?"3 Along the way, the CCP
 has continuously won one major victory after another in revolution, construction, and reform, which
 is inseparable from the party's clear-cut emphasis on politics and its emphasis on strengthening
 political construction.
-Since the 18th National Congress of the Communist Party of China, the most fundamental reason
+Since the 18th National Congress of the CCP, the most fundamental reason
 why the Party and the country have made historic achievements and undergone historic changes is
 that the Party Central Committee with Comrade Xi Jinping as the core has insisted on considering
 the overall work from the political point of view, led China's development with strong political

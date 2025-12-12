@@ -4,7 +4,7 @@ title: Socialism with Chinese Characteristics Enters a New Era
 weight: 270
 date: 2025-10-13
 description: ""
-c: "darkslategray"
+c: "firebrick"
 ---
 
 
@@ -34,10 +34,10 @@ investigation and observation and scientific research, improve the network of na
 strengthen the supervision of biodiversity conservation, increase publicity, and promote the
 participation of the whole society in biodiversity conservation.
 Delineate three control lines of ecological protection, basic farmland and urban development. Since
-the 18th National Congress of the Communist Party of China,
+the 18th National Congress of the CCP,
 
 The Party Central Committee has repeatedly proposed to build a spatial planning system. The 19th
-National Congress of the Communist Party of China clearly stated that it is necessary to "complete
+National Congress of the CCP clearly stated that it is necessary to "complete
 the delineation of three control lines: ecological protection red lines, permanent basic farmland, and
 urban development boundaries.” The three control lines are delineated and guarded, aiming to deal
 with the spatial pattern relationship between life, production and ecology, and promote economic
@@ -116,7 +116,7 @@ ecological environment has not been fundamentally curbed is that the ecological 
 system cannot meet the needs of the objective situation, which is prominently manifested in the
 overlapping of functions, resulting in problems such as the dispersion of law enforcement subjects
 and monitoring forces, and multiple law enforcement in the field of environmental protection.
-The 19th National Congress of the Communist Party of China proposed to strengthen the overall
+The 19th National Congress of the CCP proposed to strengthen the overall
 design and organizational leadership of ecological civilization construction, and set up state-owned
 natural resource asset management and natural ecological supervision agencies. The deployment of
 this institutional reform is in line with the needs of the protection of the "community of life" system
@@ -184,7 +184,7 @@ Reforming and improving the supervision and assessment system of ecological civi
 important guarantee to ensure that the construction of ecological civilization achieves practical
 results. As a major institutional arrangement of the Party Central Committee and the State Council
 on promoting the construction of ecological civilization and environmental protection since the 18th
-National Congress of the Communist Party of China, the central environmental protection
+National Congress of the CCP, the central environmental protection
 inspectorate links environmental issues with political achievements, liberates environmental
 protection from the siege of local protectionism, and provides a strong driving force for fighting the
 battle against pollution. Central environmental protection inspectors should strengthen their
@@ -198,7 +198,7 @@ achieve pollution prevention on a global scale.
 The assessment of ecological civilization construction is an important basis for the reward,
 punishment and promotion of leading groups and leading cadres at all levels, and an important part
 of the performance assessment of cadres of party and government organs in the new era. In
-December 2016, the General Office of the Central Committee of the Communist Party of China and
+December 2016, the General Office of the Central Committee of the CCP and
 the General Office of the State Council issued the Measures for the Evaluation and Assessment of
 Ecological Civilization Construction Goals, after which the National Development and Reform
 Commission, the National Bureau of Statistics, the Ministry of Ecology and Environment, and the
