@@ -13,17 +13,18 @@ writer:
 
 
 {{< r a="Simplicio" >}}
-I hardly know what the Peripatetics would say since the views advanced by you would strike them as mostly new, and as such we must consider them.  
+<!-- I hardly know what the Peripatetics would say since the views advanced by you would strike them as mostly new, and as such we must consider them.  
 
-It is however not unlikely that they would find answers and solutions for these problems which (49) I, for want of time and critical ability, am at present unable to solve.  
+It is however not unlikely that they would find answers and solutions for these problems which (49) I, for want of time and critical ability, am at present unable to solve.   -->
 
-Leaving this to one side for the moment, I should like to hear how the introduction of these indivisible quantities helps us to understand contraction and expansion avoiding at the same time the vacuum and the penetrability of bodies. 
+How would these indivisible quantities help us understand contraction and expansion, avoiding at the same time the vacuum and the penetrability of bodies?
 {{< /r >}}
 
 
-
 {{< r a="Sagredo" >}}
-I also shall listen with keen interest to this same matter which is far from clear in my mind; provided I am allowed to hear what, a moment ago, Simplicio suggested we omit, namely, the reasons which Aristotle offers against the existence of the vacuum and the arguments which you must advance in rebuttal. 
+Simplicio suggested we omit:
+- the reasons which Aristotle offers against the existence of the vacuum and
+- your rebuttal
 {{< /r >}}
 
 
@@ -34,20 +35,22 @@ And first, just as, for the production of expansion, we employ the line describe
 
 For the better understanding of this we proceed to the consideration of what happens in the case of polygons.  
 
-Employing [94] a figure similar to the earlier one, construct the two hexagons, ABC and HIK, about the common center L, and let them roll along the parallel lines HOM and ABc.  
+Employing a figure similar to the earlier one, construct the two hexagons, ABC and HIK, about the common center L, and let them roll along the parallel lines HOM and ABc.  
 
 Now holding the vertex I fixed, allow the smaller polygon to rotate until the side IK lies upon the parallel, during which motion the point K will describe the arc KM, and the side KI will coincide with IM.  Let us see what, in the meantime, the side CB of the larger polygon has been doing.
 
-Since the rotation is about the point I, the terminal point B, of the line IB, moving backwards, will describe the arc Bb underneath the parallel cA so that when the side KI coincides with the line MI, the side BC will coincide with bc, having advanced only through the distance Bc, but having retreated through a portion of the line BA which subtends the arc Bb.  
+Since the rotation is about the point I, the terminal point B, of the line IB, moving backwards, will describe the arc Bb underneath the parallel cA so that when the side KI coincides with the line MI, the side BC will coincide with bc, having advanced only through the distance Bc, but having retreated through a portion of the line BA which subtends the arc Bb.
 
 If we allow the rotation of the smaller polygon to go on it will traverse and describe along its parallel a line equal to its perimeter; while the larger one will traverse and describe a line less than its perimeter by as many times the length bB as there (50) are sides less one; this line is approximately equal to that described by the smaller polygon exceeding it only by the distance bB.  
 
-Here now we see, without any difficulty, why the larger polygon, when carried by the smaller, does not measure off with its sides a line longer than that traversed by the smaller one; this is because a portion of each side is superposed upon its immediately preceding neighbor. 
+The larger polygon, when carried by the smaller, does not measure off with its sides a line longer than that traversed by the smaller one.
+- This is because a portion of each side is superposed upon its immediately preceding neighbor. 
 
-Let us next consider two circles, having a common center at A, and lying upon their respective parallels, the smaller being tangent to its parallel at the point B; the larger, at the point C.
+Let us next consider 2 circles, having a common center at A, and lying upon their respective parallels, the smaller being tangent to its parallel at the point B; the larger, at the point C.
 
-Here when the small circle commences to roll the point B Fig 9 does not remain at rest for a while so as to allow BC to move backward and carry with it the point C, as happened in the case of the polygons, where the point I remained fixed until the side KI coincided with MI and the line IB carried the terminal point B backward as far as b, so that the side BC fell upon bc, thus superposing upon the line BA, the portion Bb, and advancing by an amount Bc, equal to MI, that is, to one side of the smaller polygon.  On account of these superpositions, which are the excesses of the sides of the larger over the smaller polygon, each net advance is equal to one side of the smaller polygon and, during one complete rotation, these amount to a straight line equal in length to the perimeter of the smaller polygon.
+Here when the small circle commences to roll the point B Fig 9 does not remain at rest for a while so as to allow BC to move backward and carry with it the point C, as happened in the case of the polygons, where the point I remained fixed until the side KI coincided with MI and the line IB carried the terminal point B backward as far as b, so that the side BC fell upon bc, thus superposing upon the line BA, the portion Bb, and advancing by an amount Bc, equal to MI, that is, to one side of the smaller polygon.  
 
+Because of these superpositions, which are the excesses of the sides of the larger over the smaller polygon, each net advance is equal to one side of the smaller polygon and, during one complete rotation, these amount to a straight line equal in length to the perimeter of the smaller polygon.
 
 The number of sides in any polygon is comprised within a certain limit.
 
@@ -61,7 +64,9 @@ In the case of the polygon, the vertices remain at rest during an interval of ti
 
 The retrogression of the sides of the larger polygon is not equal to the length of one of its sides but merely to the excess of such a side over one side of the smaller polygon, the net advance being equal to this smaller side; but in the circle, the point or side C, during the instantaneous rest of B, recedes by an amount equal to its excess over the side B, making a net progress equal to B itself.
 
-In short the infinite number of indivisible sides of the greater circle with their infinite number of indivisible retrogressions, made during the infinite number of instantaneous delays of the infinite number of vertices of the smaller circle, together with the infinite number of progressions, equal to the infinite number of sides in the smaller circle -- all these, I say, add up to a line equal to that described by the smaller circle, a line which contains an infinite number of infinitely small superpositions, thus bringing about a thickening or contraction without any overlapping or interpenetration of finite parts.  This result could not be obtained in the case of a line divided [96] into finite parts such as is the perimeter of any polygon, which when laid out in a straight line cannot be shortened except by the overlapping and interpenetration of its sides.  
+In short the infinite number of indivisible sides of the greater circle with their infinite number of indivisible retrogressions, made during the infinite number of instantaneous delays of the infinite number of vertices of the smaller circle, together with the infinite number of progressions, equal to the infinite number of sides in the smaller circle -- all these, I say, add up to a line equal to that described by the smaller circle, a line which contains an infinite number of infinitely small superpositions, thus bringing about a thickening or contraction without any overlapping or interpenetration of finite parts.  
+
+This result could not be obtained in the case of a line divided [96] into finite parts such as is the perimeter of any polygon, which when laid out in a straight line cannot be shortened except by the overlapping and interpenetration of its sides.  
 
 This contraction of an infinite number of infinitely small parts without the interpenetration or overlapping of finite parts and the previously mentioned expansion of an infinite number of indivisible parts by the interposition of indivisible vacua is the most that can be said about the contraction and expansion of bodies.
 

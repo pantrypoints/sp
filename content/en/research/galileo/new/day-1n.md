@@ -17,7 +17,8 @@ We have seen above what relations hold between equal cylinders of different heig
 
 What holds when the cylinders are equal in area but unequal in height, understanding area to include the curved surface, but not the upper and lower bases.  
 
-The theorem is: The volumes of right cylinders having equal curved surfaces are inversely proportional to their altitudes. 
+**The theorem is: The volumes of right cylinders having equal curved surfaces are inversely proportional to their altitudes. **
+
 
 Let the surfaces of the 2 cylinders, `AE` and `CF`, be equal.
 
@@ -46,12 +47,18 @@ Fig 11
 
 
 {{< l a="Salviati" >}}
-This explains a phenomenon upon which the common people always look with wonder, namely, if we have a piece of stuff which has one side longer than the other, we can make from it a cornsack, using the customary wooden base, which will hold more when the short side of the cloth is used for the height of the sack and the long side is wrapped around the wooden base, than with the alternative arrangement.  
+This explains why if we have a piece of stuff which has one side longer than the other, we can make from it a cornsack, using the customary wooden base, which will hold more when the short side of the cloth is used for the height of the sack and the long side is wrapped around the wooden base, than with the alternative arrangement.  
 
-So that, for instance, from a piece of cloth which is six cubits on one side and twelve on the other, a sack can be made which will hold more when the side of twelve cubits is wrapped around the wooden base, leaving the sack six cubits high than when the six cubit side is put around the base making the sack twelve cubits high.  
+For example, there is a cloth 6 cubits on one side and 12 on the other.
 
-From what has been proven above we learn not only the general fact that one sack holds more than the other, but we also get specific and particular information as to how much more, namely, just in proportion as the altitude of the sack diminishes the contents increase and vice versa.  
-Thus if we use the figures given which make the cloth twice as long as wide and if we use the long side for the seam, the volume of the sack will be just one-half as great as with the opposite arrangement.  Likewise (57) [101] if we have a piece of matting which measures 7 x 25 cubits and make from it a basket, the contents of the basket will, when the seam is lengthwise, be seven as compared with twenty-five when the seam runs endwise. 
+A sack can be made which will hold more when the side of 12 cubits is wrapped around the wooden base. This leaves the sack 6 cubits high than when the 6 cubit side is put around the base making the sack 12 cubits high.  
+
+We learn that one sack holds more than the other and by how much.
+- This is in proportion as the altitude of the sack diminishes the contents increase and vice versa.  
+
+Thus if we use the figures given which make the cloth twice as long as wide and if we use the long side for the seam, the volume of the sack will be just one-half as great as with the opposite arrangement.
+
+Likewise, if we have a piece of matting which measures 7 x 25 cubits and make from it a basket, the contents of the basket will, when the seam is lengthwise, be seven as compared with 25 when the seam runs endwise. 
 {{< /l >}}
 
 
@@ -91,7 +98,7 @@ Let A and B be two similar polygons of which A circumscribes the given circle an
 
 The area of the circle will then be a mean proportional between the areas of the polygons.  
 
-If we indicate the radius of the circle by AC and if we remember that the area of the circle is equal to that of a right-angled triangle in which one of the sides about the right angle is equal to the radius, AC, and the other to the circumference; and if likewise we remember that the area of the polygon A is equal to the area of a right-angled triangle one of [103] whose sides about the right angle has the same length as AC and the other is equal to the perimeter of the polygon itself; it is then manifest that the circumscribed polygon bears to the circle the same ratio which its perimeter bears to the circumference of the circle, or to the perimeter of the polygon B which is, by hypothesis, equal to the circumference of the circle.  
+If we indicate the radius of the circle by AC and if we remember that the area of the circle is equal to that of a right-angled triangle in which one of the sides about the right angle is equal to the radius, AC, and the other to the circumference; and if likewise we remember that the area of the polygon A is equal to the area of a right-angled triangle one of whose sides about the right angle has the same length as AC and the other is equal to the perimeter of the polygon itself; it is then manifest that the circumscribed polygon bears to the circle the same ratio which its perimeter bears to the circumference of the circle, or to the perimeter of the polygon B which is, by hypothesis, equal to the circumference of the circle.  
 
 But since the polygons A and B are similar their areas are to each other as the squares of their perimeters; hence the area of the circle A is a Fig 12 (59) mean proportional between the areas of the two polygons A and B.  And since the area of the polygon A is greater than that of the circle A, it is clear that the area of the circle A is greater than that of the isoperimetric polygon B, and is therefore the greatest of all regular polygons having the same perimeter as the circle. 
 
@@ -107,5 +114,3 @@ For since the area of the circle is a mean proportional between areas of the cir
 
 Hence the pentagon is smaller than its isoperimetric heptagon.  Q.E.D.
 {{< /l >}}
-
-

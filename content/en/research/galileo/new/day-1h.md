@@ -24,7 +24,8 @@ But the radius `IC` is equal to `AC` and also to `GP`, while `CP` is equal to `P
 
 Hence, the square of the line `GP` is equal to the sum of the square (26s of IP and PH, or multiplying through by 4, we have the square of the diameter GN equal to the sum of the squares on IO and HL.
 
-Since the areas of circles are to each other as the squares of their diameters, it follows that the area of the circle whose diameter is GN is equal to the sum of the areas of circles having diameters IO and HL, so that if we remove the common area of the circle having IO for diameter the remaining area of the circle GN will be equal to the area of the circle whose diameter is HL.
+The areas of circles are to each other as the squares of their diameters.
+- It follows that the area of the circle whose diameter is GN is equal to the sum of the areas of circles having diameters IO and HL, so that if we remove the common area of the circle having IO for diameter the remaining area of the circle GN will be equal to the area of the circle whose diameter is HL.
 
 As for the other part, we leave its demonstration for the present, partly (30) because those who wish to follow it will find it in the twelfth proposition of the second book of De centro gravitatis solidorum by the Archimedes of our age, Luca Valerio,* who made use of it for a different object, and partly because, for our purpose, it suffices to have seen that the above-mentioned surfaces are always equal and that, as they keep on diminishing uniformly, they degenerate, the one into a single point, the other into the circumference of a circle larger than any assignable; in this fact lies our miracle. **
 {{< /l >}}
