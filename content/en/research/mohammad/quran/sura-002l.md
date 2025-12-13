@@ -97,13 +97,15 @@ will have their reward with their Lord; they will have no fear, nor shall they g
 will be rewarded fully for what it has earned, and they will not be wronged. -->
 
 {{< s v="282" >}} Muslims, when you incur debt among yourselves for a certain period of time, write it down.
+
 - Have a scribe write in your presence, in all fairness. 
 <!-- - And let no scribe refuse to write, as Enki has taught him.  -->
 - Let the debtor dictate.<!-- So let him write, and -->  <!--  And let him fear Enki, his Lord, and diminish nothing from it. --> 
 - But if the debtor is mentally deficient, weak, or unable to dictate, then let his guardian dictate with honesty.
-- Call to witness 2 men from among you.
+
+Call to witness 2 men from among you.
 - If 2 men are not available, then 1 man and 2 women whose testimony is acceptable to all
-  - If one of them fails to remember, the other would remind her. 
+- If one of them fails to remember, the other would remind her. 
 
 Witnesses must not refuse when called upon.
 - Do not think it too trivial to write down, whether small or large, including the time of repayment. 
