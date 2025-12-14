@@ -7,7 +7,7 @@ description: "We list down the Covid variants to establish patterns"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmed.png
+icon: Juan
 ---
 
 

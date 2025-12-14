@@ -138,7 +138,7 @@ Unlike science which manipulates the brain and hopes that it changes the soul or
 
 We can say that Superphysics has a  metaphysics-first policy that must connect to physical phenomena.
 
-{{< img src="/photos/objects/mugecon.jpg" alt="Mug Economics" >}}
+{{< img src="/photos/objects/mug.jpg" alt="Mug Economics" >}}
 
 For example, Superphysics would say that a physical mug existed only after the maker of mugs had the idea of a mug, as to be able to create a physical mug.
 

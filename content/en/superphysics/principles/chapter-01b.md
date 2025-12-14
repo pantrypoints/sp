@@ -3,14 +3,13 @@ title: "The Materialist View of Reality"
 heading: "Chapter 1b"
 date: 2025-10-04
 weight: 6
-image: /graphics/physics/bigbang.jpg
+image: /photos/meta/adam.jpg
 description: "The current prevailing belief among humans is that material phenomena is the cause of mental phenomena"
 icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
-
 
 
 {{< b >}}

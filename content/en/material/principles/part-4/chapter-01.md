@@ -4,7 +4,7 @@ linkTitle: Convertible
 title: "The Convertible Layer of Superphysics"
 # date: 2020-01-28
 linkTitle: "Convertible Layer"
-image: "/photos/physics/chem.jpg"
+image: "/photos/physics/lab.jpg"
 description: "The Convertible Layer deals with fusion and the conversion of particles into different material types"
 weight: 2
 writer:
@@ -60,6 +60,9 @@ This layer was traditionally associated with water and liquids because they are 
 The importance of liquids in Conversion is seen in convertible quanta, as neutrinos, being detectable in liquid argon and chlorine. 
 
 The conversion layer leads to chemistry, and bio-chemisty and organic chemisty when merged with Bio Superphysics.
+
+{{< i s="/photos/physics/lab.jpg" a="Lab" c="The convertible layer leads to Chemistry" >}}
+
 
 The ability of this layer to facilitate between the static material layer and the dynamic radiant layer makes it very useful for reactions.
 

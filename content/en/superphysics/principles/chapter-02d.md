@@ -5,7 +5,7 @@ title: "Fire: Light and Heat"
 date: 2020-12-03
 # 2020-01-04
 weight: 64
-image: /photos/physics/nuke.jpg
+image: /photos/physics/fire.jpg
 description: "The fire element is electromagnetism in Physics"
 writer:
   name: Juan
@@ -27,6 +27,8 @@ Chinese | 火
 Japanese | 火
 Vietnamese | Hỏa
 
+
+{{< i s="/photos/physics/fire.jpg" a="Fire" >}}
 
 
 This element handles information and 'energy'.

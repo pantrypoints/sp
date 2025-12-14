@@ -3,7 +3,7 @@ title: "The Two Domains"
 heading: "Chapter 1"
 date: 2019-01-01
 weight: 5
-image: /photos/tech/mac.jpg
+image: /photos/meta/ghost.jpg
 description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
 icon: "Juan"
 tags: ["domains"]
@@ -29,7 +29,7 @@ We know the existence of thing through our perceptions of it. Each perception ha
 
 For example, when we see a mug, we have both the physical perception of a mug and a metaphysical idea of a mug nearly at the same time. 
 
-{{< i s="/photos/objects/mugecon.jpg" alt="Mug Economics" c="A physical mug exists in physical reality just as the idea of a mug exists in metaphysical reality">}}
+{{< i s="/photos/objects/mug.jpg" alt="Mug Economics" c="A physical mug exists in physical reality just as the idea of a mug exists in metaphysical reality">}}
 
 {{< q a="Spinoza" c="The Ethics Simplified, Part 2, Proposition 7" >}}
 The two are one and the same thing displayed through different attributes:
@@ -124,6 +124,10 @@ The metaphysical domain exists inside our abstract minds and is infinitely large
 If Person A were to go from the lower to the middle region, he would imagine that he is going up. Person B is in the middle region but has never seen the true upper world. He sees Person A coming and imagines that he has arrived in the upper region. 
 If Person A goes back down, Person B would imagine that he was descending. This would arise out of his ignorance of the true upper, middle, and lower regions.
 {{< /q >}}
+
+
+{{< i s="/photos/meta/ghost.jpg" a="Ghost" c="a soul has a physical self in physical reality" >}}
+
 
 We call this domain "aethereal" or made of aether or *akasha* in Hinduism. This will be explained later when we explain our Five Elements Model. 
 

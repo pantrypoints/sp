@@ -7,7 +7,7 @@ description: "We explain the nature of Covid and influenza as waves coming from 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmed.png
+icon: Juan
 aliases:
   /medical/solutions/covid-star
 ---

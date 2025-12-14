@@ -2,7 +2,7 @@
 heading: "Chapter 8b"
 title: "The 4 Operations of Thinking"
 date: 2020-12-06
-image: /graphics/psych/antah.jpg
+image: /photos/psych/think.jpg
 weight: 484
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:
@@ -23,6 +23,8 @@ The thinking process combines the actions of flow and force, with emphasis on fo
 - Intution comes easily even without you thinking about it. An example is an idea that suddenly enters your mind out of the blue
 - Thinking uses force to arrive at cognition, intuition, or realization
 
+{{< i s="/photos/psych/think.jpg" a="Thinking" >}}
+
 Thinking is done by the Lower Mind by processing idea-objects that come either from:
 - the external senses, or
 - the memory
@@ -37,8 +39,6 @@ All simple ideas may be separated and united by the imagination as it pleases. T
 
 We thus establish the flowing nature of the thinking process. But what directions does it take?
 
-
-<!-- {{< i s="/photos/psych/self.jpg" a="Thinking" >}} -->
 
 Since the actions of the mind are from the 3 Gunas or Influences, and since thinking is a flow, then it follows that thinking has 4 Properties which we can most easily see in arithmetical operations.
 

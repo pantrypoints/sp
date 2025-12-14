@@ -6,7 +6,7 @@ description: "Non-halal or unlawful food in Islam are those that are included in
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmed.png
+icon: Juan
 ---
 
 

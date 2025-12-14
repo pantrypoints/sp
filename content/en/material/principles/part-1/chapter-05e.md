@@ -2,7 +2,7 @@
 heading: "Chapter 5e"
 title: "Action at a Distance"
 # # date: 2020-01-31
-image: "/graphics/physics/action2.jpg"
+image: "/photos/bio/taichi.jpg"
 description: "The Action of Physics is Effort to Material Superphysics"
 writer:
   name: Juan
@@ -30,6 +30,9 @@ The most natural and historical proof the the aether as a motive force is the le
 <!-- According to Newton's Second Law, net force equals mass times acceleration. This is fine for ordinary things like a ball (mass) which is pushed (force) to start rolling (acceleration).  -->
 
 {{< img src="/graphics/physics/francis.jpg" alt="A monk levitating" cap="In Cartesian Physics, dark energy is the constant division of spacetime. Gravity is the relationality of sub-mass to a main mass. In this image, the monk is the sub-mass and the Earth is the main mass. Gravity is the metaphysical elastic band between the two." >}}
+
+
+{{< i s="/photos/bio/taichi.jpg" a="Taichi" >}}
 
 
 Assume that a 50 kilogram yogini woman floats and stays up 1 meter off the ground for 10 seconds. 

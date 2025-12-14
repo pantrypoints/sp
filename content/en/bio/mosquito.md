@@ -7,7 +7,7 @@ description: "Chi is the living energy"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmed.png
+icon: Juan
 draft: true
 ---
 

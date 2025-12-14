@@ -3,7 +3,7 @@ heading: "Chapter 9"
 title: "The Nature of Feelings and Emotions"
 date: 2020-12-15
 weight: 600
-image: /graphics/psych/feelings.jpg
+image: /photos/sad.jpg
 description: "Desire is a fundamental kind of feeling which we sense through our hearts"
 writer:
   name: Juan
@@ -29,6 +29,9 @@ Chapter 1f explained that:
 Feelings manifest as:
 - forces when interacting with crude nodes
 - emotions when interacting with subtle nodes
+
+{{< i s="/photos/sad.jpg" a="sad" >}}
+
 
 We cannot quantify forces at first sight unlike objects. For example, we see 3 apples and can declare the number 3. But we cannot easily say their weight by just our hands.
 

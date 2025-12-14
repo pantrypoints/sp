@@ -2,7 +2,7 @@
 heading: "Chapter 2f"
 title: "The Earth Element"
 date: 2024-06-22
-image: "/photos/physics/neutrino.jpg"
+image: "/photos/physics/earth.jpg"
 description: "The Earth Element is the crudest one"
 weight: 68
 writer:
@@ -22,6 +22,9 @@ Indian | Prithvi
 Chinese | 金
 Japanese | 地
 Vietnamese | Kim
+
+
+{{< i s="/photos/physics/earth.jpg" a="Earth" >}}
 
 
 This is the crudest and most obvious layer, just as the aether is the subtlest and most mysterious layer. 

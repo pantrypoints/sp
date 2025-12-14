@@ -7,7 +7,7 @@ description: "We use the aether as sound to make crops grow faster"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmed.png
+icon: Juan
 ---
 
 Coming Soon!

@@ -8,7 +8,7 @@ description: "Paracelsus calls Elementals as spirit-beings that have human-like 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmed.png
+icon: Juan
 ---
 
 

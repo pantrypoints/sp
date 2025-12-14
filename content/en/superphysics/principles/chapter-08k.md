@@ -2,7 +2,7 @@
 heading: "Chapter 8k"
 title: "Data Science in Socratic Dialectics"
 date: 2024-08-21
-image: /photos/tech/mac.jpg
+image: /photos/econ/teach.jpg
 # date: 2020-12-10
 weight: 525
 description: "Socratic Dialectics relies on all six senses and requires the ego to be lowered"
@@ -63,6 +63,9 @@ Are we perfecting natural philosophy alone according to our method? Or the other
 {{< q a="David Hume" c="Treatise of Human Nature Simplified, Advertisement" >}}
 All the sciences have a relation to human nature. No matter how far any science runs away from human nature, it still returns by one way or another. In pretending to explain the principles of human nature, we in effect propose a complete system of the sciences. This system is built on an almost entirely new foundation. This foundation is the only one on which the sciences can be secured. The science of man is the only solid foundation for the other sciences.
 {{< /q >}}
+
+
+{{< i s="/photos/econ/teach.jpg" a="Teacher" >}}
 
 
 

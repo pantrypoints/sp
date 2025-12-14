@@ -3,7 +3,7 @@ heading: "Chapter 4d"
 linkTitle: Fire
 title: "Fire and Combustion Through Heat Particles"
 # date: 2024-02-13
-image: /graphics/physics/friction.jpg
+image: /photos/physics/fire.jpg
 description: "Fire is part of the Radiant Element and is ignited from matter whenever qosts are ejected from matter instantly in large amounts"
 writer:
   name: Juan
@@ -25,6 +25,9 @@ This forces the mixture to have 2 factors only:
 
 Fire begins when the ratio of the latter becomes superior to the other. 
 - The mom then submits to the sor3 by burning (i.e. taking on the movement of the sor3).
+
+{{< i s="/photos/physics/fire.jpg" a="fire" >}}
+
 
 Flammable and fissile materials therefore naturally have a high ratio of sor3 relative to mom.
 

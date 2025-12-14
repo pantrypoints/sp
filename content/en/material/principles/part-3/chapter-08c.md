@@ -15,7 +15,7 @@ toc: false
 
 In 1924, Pauli introduced the concept of spin which he called "2-valuedness" as basis for the "Exclusion Principle" which was used to explain the anomalous Zeeman effect.
 
-{{< q a="Pauli" c="Exclusion Principle and Quantum Mechanics" >}}
+{{< q a="Wolfgang Pauli" c="Exclusion Principle and Quantum Mechanics" >}}
 The physicists found it difficult to understand the exclusion principle since no meaning in terms of a model was given to the fourth degree of freedom of the electron. **The gap was filled by Uhlenbeck and Goudsmit’s idea of electron spin.** Through it, the anomalous Zeeman effect could be understood simply by assuming that:
 - the spin quantum number of one electron is equal to 1⁄2
 - the quotient of the magnetic moment to the mechanical angular moment has for the spin a value twice as large as for the ordinary orbit of the electron.
@@ -99,5 +99,3 @@ But the sun cannot anomalous orbits because it uses spacetime and not the aether
 The aetherspace is a totally different space that is linked to the aether just as electroweak is linked to electrons. 
 
 Unfortunately, Lorentz could not explain how electron orbits could split because he also didn't know Cartesian Physics.
-
-

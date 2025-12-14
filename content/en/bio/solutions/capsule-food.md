@@ -7,7 +7,7 @@ description: "We use the aether to explain how capsule food can be made"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmed.png
+icon: Juan
 ---
 
 

@@ -149,7 +149,7 @@ It also pushes for:
 
 Spiritual Superphysics is Superphysics applied to sprituality. 
 
-{{< i s="/photos/meta/buddhism.jpg" a="Buddhism" >}}
+{{< i s="/photos/meta/yoga.jpg" a="Yoga" >}}
 
 
 This aims to made religious dogma and conflict obsolete. 

@@ -8,7 +8,7 @@ description: Maximized Farming is based on the 5 Layers as they apply to agricul
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmed.png
+icon: Juan
 ---
 
 

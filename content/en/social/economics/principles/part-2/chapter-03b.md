@@ -103,7 +103,7 @@ For example, Olympic medals are a good metric that indicates national wealth bec
 
 <!-- cap="In Supereconomics, amateur players are unskilled effort or work" -->
 
-{{< img src="/photos/basket.jpg" alt="Basketball player dunking" >}}
+{{< img src="/photos/physics/punch.jpg" alt="Punching" >}}
 
 <!-- We also add useful or useless effort 
 - Useful effort has a high natural price. Examples are:

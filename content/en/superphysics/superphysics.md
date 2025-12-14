@@ -4,7 +4,7 @@ title: "What is Superphysics?"
 # date: 2021-07-19
 date: 2020-11-20
 weight: 36
-image: /graphics/meta/wave.jpg
+image: "/graphics/sora.jpg"
 description: "Superphysics unifies Physics and Metaphysics to solve the problems unsolved by science"
 writer:
   name: Juan
@@ -180,6 +180,10 @@ For example, one of the end goals of Pantrynomics is economic singularity wherei
 
 
 ## Definition of Superphysics
+
+
+{{< i a="Superphysics" s="/graphics/sora.jpg" >}}
+
 
 With these, we can define Superphysics as **a paradigm that merges the known and proven perceptions of the physical and metaphysical domains in order to find patterns and principles for the sake of solving problems**.
 

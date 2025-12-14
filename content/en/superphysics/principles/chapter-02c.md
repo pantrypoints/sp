@@ -5,7 +5,7 @@ title: "The Air Element or Layer: Space and Time"
 date: 2020-12-03
 # 2020-01-04
 weight: 63
-image: /graphics/physics/galaxy.jpg
+image: /photos/physics/space.jpg
 description: "The air element is space and time"
 writer:
   name: Juan
@@ -27,6 +27,7 @@ Chinese | 水
 Japanese | 風
 Vietnamese | Mộc
 
+{{< i s="/photos/physics/space.jpg" a="Space" >}}
 
 The Air Element facilitates the functioning of space and time in reality. Its job is to separate perceptions, identities, objects, ideas, and feelings from each other. 
 

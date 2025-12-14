@@ -3,7 +3,7 @@ heading: "Chapter 3b"
 linkTitle: Chapter 3b
 title: "Contact Forces"
 # date: 2023-12-10
-image: /graphics/physics/contactforces.jpg
+image: /photos/physics/push.jpg
 description: "Cartesian contact forces come from space"
 writer:
   name: Juan
@@ -40,6 +40,10 @@ Newtonians account for this by inventing the concept of friction, damping forces
 But Cartesian Physics uses the single principle of energetic space particles not only to explain contact forces, but also states (solid, liquid, gas, bose condensate), gravity, dark matter, and dark energy. 
 
 This means that we do not fall through the floor, not because of the Pauli exclusion principle of electron repulsion, but because the space inside atoms (which are 99.99% empty space) repel the space in other atoms.
+
+
+{{< i s="/photos/physics/push.jpg" a="Contact" c="Pushing forces are from the Material Layer, not electromagnetic repulsion" >}}
+
 
 This means that it is possible to make matter go through other matter, called ghosting, by reversing the repulsion of atomic space. 
 

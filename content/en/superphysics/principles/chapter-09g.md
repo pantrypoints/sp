@@ -3,7 +3,7 @@ heading: "Chapter 9f"
 title: "Chi and the Animal Spirits"
 date: 2023-12-08
 weight: 614
-image: /photos/psych/yoga.jpg
+image: /photos/meta/yoga.jpg
 description: "The animal spirits are called chi in Taoism and Vayu in Himduism"
 writer:
   name: Juan
@@ -44,7 +44,7 @@ This can be relieved by getting a positive feeling where our work, or something 
 
 The positive wave cancels out the negative wave. 
 
-{{< i s="/photos/psych/yoga.jpg" a="Yoga" >}}
+{{< i s="/photos/meta/yoga.jpg" a="Yoga" >}}
 
 
 2. Preventing waves from becoming bad qualitatively or quantitatively (volumetrically)

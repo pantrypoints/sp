@@ -17,6 +17,10 @@ The most advanced animal species is the human race called Homo Sapiens by Carl L
 - sapien means wise
 
 
+{{< i s="/photos/medieval/cave.jpg" a="Cavewoman" >}}
+
+
+
 ## The Anunnaki Hypothesis 
 
 Humans are the only known advanced species on Earth able to create civilizations. 

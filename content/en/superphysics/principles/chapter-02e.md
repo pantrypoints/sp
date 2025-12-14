@@ -4,7 +4,7 @@ title: "The Water Element"
 # date: 2015-09-09
 date: 2020-12-03
 weight: 66
-image: /photos/balancerock.jpg
+image: /photos/physics/water.jpg
 description: "The Water Element is responsible for the diversity and change in the universe whether mental, biological, or material"
 writer:
   name: Juan
@@ -25,6 +25,7 @@ Japanese | 水
 Vietnamese | Thổ
 
 
+{{< i s="/photos/physics/water.jpg" a="Water" >}}
 
 This is responsible for the diversity and change in the universe whether mental, biological, or material. 
 

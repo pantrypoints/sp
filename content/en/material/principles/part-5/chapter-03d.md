@@ -3,7 +3,7 @@ heading: Chapter 3d
 linkTitle: Chapter 3d
 title: "Fluid Dynamics: Alternative to Navier Stokes"
 # date: 2020-01-31
-image: /graphics/physics/box2.jpg
+image: /photos/physics/water.jpg
 description: ""
 weight: 7
 icon: "Juan"
@@ -14,7 +14,10 @@ writer:
 
 
 
-Physics is matter based, applying the natter in F = ma into fluid dynamics called Navier-Stokes equations. 
+Physics is matter based, applying the matter in `F = ma` into fluid dynamics called Navier-Stokes equations. 
+
+{{< i s="/photos/physics/water.jpg" a="water">}}
+
 
 <!-- Sure, that's easy. Our paradigm is the pre Newtonian Physics of Descartes, Spinoza, and George Berekely, which aligns perfectly with Asian Physics of Hinduism and Taoism (inventors of gunpowder through the Water Element). -->
 

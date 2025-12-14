@@ -8,7 +8,7 @@ description: "Bacteria are living organisms"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmed.png
+icon: Juan
 ---
 
 

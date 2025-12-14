@@ -8,7 +8,7 @@ description: "We classify elementals according to 3 kinds of physicality, with t
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmed.png
+icon: Juan
 ---
 
 

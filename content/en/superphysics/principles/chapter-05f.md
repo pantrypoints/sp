@@ -91,4 +91,4 @@ We cancel the current Mass-Energy Law established by Einstein in order to restor
 The old Law of Conservation of Mass which used the Laws of Stoichiometry which we reorganize as the 4 Rules of Stoichiometry which is well known in Chemistry.
 
 
-<!-- {{< i s="/photos/objects/mugecon.jpg" alt="Mug Economics" c="A physical mug exists in physical reality just as the idea of a mug exists in metaphysical reality">}} -->
+<!-- {{< i s="/photos/objects/mug.jpg" alt="Mug Economics" c="A physical mug exists in physical reality just as the idea of a mug exists in metaphysical reality">}} -->
