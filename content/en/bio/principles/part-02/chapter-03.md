@@ -8,7 +8,7 @@ description: "Viruses are merely bad idea-waves manifesting as RNA-particles"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmed.png
+icon: Juan
 ---
 
 

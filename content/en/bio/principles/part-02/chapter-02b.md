@@ -140,6 +140,10 @@ So we use Positive, spiritual feelings to get positive ideas and push them to di
 
 In this case, we push Descartes-Lamarck over Darwin so that people can choose how to evolve, change, and heal themselves instead of being slaves to chance and uncertainty. 
 
+While Darwin corrupted human mentality into dog-eat-dog and survival of the fittest, Descartes-Lamarck purifies and revitalizes it by giving empowerment to finding one's passion and purpose in physical existence.
+
+
+
 
 
 <!-- The heterochromatin that houses jumping genes may be the physical substrate through which animal spirits/chi/prana operate—the interface between the organism's purposive self-organization and its material implementation.

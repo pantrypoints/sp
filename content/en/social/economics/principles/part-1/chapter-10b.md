@@ -10,7 +10,10 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
+aliases:
+  /social/economics/land-reform/
 ---
+
 
 
 The Mercantile period from the 16th to the 18th centuries led to the amassment of land ownership to a few wealthy individuals such as European conquistadors and religious orders. These were often connected to the colonial governments. 

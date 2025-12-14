@@ -2,7 +2,6 @@
 title: "Contingency, predictability in the evolution of a prokaryotic pangenome"
 c: "darkslategray"
 description: "Contingency, predictability in the evolution of a prokaryotic pangenome"
-
 # date: 2022-04-30
 weight: 4
 ---
