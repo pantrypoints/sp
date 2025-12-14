@@ -2,7 +2,7 @@
 heading: "Chapter 12c"
 title: "Employment for Englightenment"
 date: 2025-10-26
-image: "/photos/psych/hall.jpg"
+image: "/photos/tech/space.jpg"
 description: "The Superphysics Direction shapes up the human species to prepare us for employment in service of the universe. "
 weight: 752
 writer:

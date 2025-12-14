@@ -3,7 +3,7 @@ heading: "Chapter 8"
 title: "Demand Efficiency: Retail"
 date: 2024-11-20
 weight: 80
-image: /graphics/econ/commerce.jpg
+image: /photos/econ/store.jpg
 description: "Demand is readily addressed by retail, as opposed to wholesale which trades items in bulk"
 writer:
   name: Juan
@@ -33,6 +33,9 @@ A shop can be run well by only 1 person, whereas a large retail shop cannot.
 As such, shops deal with niche products and servies and are can be more sustainable than large retail.   
 
 Some shops can last as long as their owners, while others last for many generations when handed down from parent to child. 
+
+
+{{< i s="/photos/econ/store.jpg" a="Store" >}}
 
 
 To increase demand efficiency, shops are grouped together into marketplaces. This is situated in an accessible place where more people can gather.

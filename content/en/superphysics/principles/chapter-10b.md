@@ -3,7 +3,7 @@ heading: "Chapter 10b"
 title: "Group Feeling, Morality, and Justice"
 date: 2025-10-07
 weight: 690
-image: /photos/objects/gavel.jpg
+image: /photos/social/lawmaker.jpg
 description: 
 writer:
   name: Juan

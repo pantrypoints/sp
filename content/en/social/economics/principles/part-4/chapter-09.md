@@ -4,7 +4,7 @@ title: "Trade"
 # date: 2022-03-27
 date: 2021-12-19
 weight: 60
-image: /photos/handshake.jpg
+image: /photos/social/handshake.jpg
 description: "There are 3 kinds of trades"
 writer:
   name: Juan

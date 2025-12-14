@@ -3,13 +3,13 @@ title: "Tantra Yoga"
 description: "What is Tantra Yoga"
 date: 2022-01-18T19:58:14+01:00
 lastmod: 2022-01-18T19:58:14+01:00
-image: "/photos/psych/meditate.jpg"
+image: "/photos/meta/yoga.jpg"
 toc: true
 weight: 4
 ---
 
 
-{{< i s="/photos/psych/meditate.jpg" a="Yoga" >}}
+{{< i s="/photos/meta/yoga.jpg" a="Yoga" >}}
 
 <!-- ## What is Tantra Yoga? -->
 

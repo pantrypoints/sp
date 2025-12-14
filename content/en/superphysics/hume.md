@@ -1,13 +1,14 @@
 ---
 title: "Essential Hume"
 date: 2024-05-09
-a: "David Hume"
-c: "steelblue"
+# a: "David Hume"
+# c: "steelblue"
+image: /photos/medieval/hume.jpg
 description: "David Hume's philosophy is based on impressions and ideas"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
+icon: "Juan"
 ---
 
 

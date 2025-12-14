@@ -2,8 +2,9 @@
 title: "Differences Between Kant and Hume"
 linkTitle: Kant-Hume
 date: 2020-05-26
-a: "David Hume"
-c: "steelblue"
+# a: "David Hume"
+# c: "steelblue"
+image: /photos/medieval/hume.jpg
 description: "David Hume's philosophy is the opposite of that of Kant. Hume already said that there was no such thing as a priori knowledge, but Kant refuted this"
 writer:
   name: Juan

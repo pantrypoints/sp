@@ -266,7 +266,7 @@ proofs:
     color: "darkblue"
 
   - url : "https://en.wikipedia.org/wiki/Samadhi"
-    img : "/photos/psych/meditate.jpg"
+    img : "/photos/meta/yoga.jpg"
     title : "Superphysics: Personal Samadhi"
     sub : "Testing began in 2004 by dropping Christianity and adopting Asian Spirituality. Samadhi was achieved in 2008, leading to the precursor of Superphysics in 2012"
     cat: "Spiritual Superphysics"

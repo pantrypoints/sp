@@ -3,7 +3,7 @@ title: "Natural Remedies for Dysmenorrhoea (Cramps)"
 weight: 18
 author: "PR Sarkar"
 description: "Women who are adverse to physical labour, and who generally are from rich or upper middle-class families, are found suffering from this disease"
-image: "/photos/med/dysm.jpg"
+image: "/photos/med/toilet.jpg"
 icon: "PR Sarkar"
 ---
 
@@ -15,7 +15,7 @@ icon: "PR Sarkar"
 - irregular menstruation – too little or too much discharge
 
 
-![Woman in Pain](/photos/med/dysm.jpg)
+![Woman in Pain](/photos/med/toilet.jpg)
 
 ## Causes
 

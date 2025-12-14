@@ -3,7 +3,7 @@ title: "The Law of Attraction"
 heading: "Chapter 9k"
 date: 2025-10-10
 weight: 670
-image: /photos/tech/mac.jpg
+image: /photos/psych/attract.jpg
 description: "From atoms and molecules to human beings with developed consciousness, all entities feel attraction for one another"
 icon: "Juan"
 writer:

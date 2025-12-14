@@ -1,11 +1,10 @@
 ---
 heading: "Chapter 11"
 title: Communism
-# title: "Classical Economics and Buddhist Economics"
 # date: 2022-03-27
 date: 2022-01-09
 weight: 52
-image: /covers/marx.jpg
+image: /photos/countries/ru/moscow.jpg
 description: ""
 writer:
   name: Juan
@@ -22,10 +21,13 @@ The dominance of the Warrior Class usually leads to the following economic ideol
 
 ## Communism
 
+- **Core Ideas**: Communism, based on Marxist principles, seeks to establish a classless society by abolishing private property and capitalism entirely. It envisions the collective ownership of the means of production, where all goods and services are distributed based on need rather than profit.
+- **Economic Characteristics**: Complete state ownership of resources, centralized planning, and the eventual elimination of money and markets.
+- **Examples**: Former Soviet Union, China under Mao Zedong.
 
-   - **Core Ideas**: Communism, based on Marxist principles, seeks to establish a classless society by abolishing private property and capitalism entirely. It envisions the collective ownership of the means of production, where all goods and services are distributed based on need rather than profit.
-   - **Economic Characteristics**: Complete state ownership of resources, centralized planning, and the eventual elimination of money and markets.
-   - **Examples**: Former Soviet Union, China under Mao Zedong.
+{{< i s="/photos/countries/ru/moscow.jpg" a="Moscow" >}}
+
+
 
 ## The Demands of Communism
 
@@ -94,7 +96,7 @@ This absurdity became fuel for Marx to attack Mill:
 <!-- ![Office Work](https://res.cloudinary.com/nara/image/upload/q_auto/office-work-slave_wcylhq.png) -->
 
  <!-- and aspired to be something more than mere sophists and sycophants of the ruling classes  , the most superficial..representative of the apologetic of vulgar economy; , the most superficial..representative of the apologetic of vulgar economy;  -->
-{{< q a="marx" c="Capital, Preface" >}}
+{{< q a="Karl Marx" c="Capital, Preface" >}}
 Men who claimed some scientific standing tried to harmonise the Political Economy of capital with the claims..of the proletariat. Hence a shallow syncretism of which John Stuart Mill is the best representative. Under these circumstances its professors fell into two groups:
 - the prudent, practical business folk flocked to Bastiat
 - the other.. followed John Stuart Mill in his attempt to reconcile irreconcilables.*
@@ -107,11 +109,8 @@ Marx' main description of capitalism as a system where resources are amassed thr
 
 <!-- , or shares of stocks -->
 
-{{< q a="marx" >}}
-Capital grows in one place to a huge mass in a single hand, because it has in another place been lost by many. This is centralisation proper, as distinct from accumulation [which is] very slow compared to centralisation..
-
-The world would still be without railroads, if it had to wait for accumulation..Centralisation, on the other hand, accomplished this by a turn of the hand through stock companies.
-<cite>Marx, Capital, Preface</cite>
+{{< q a="Karl Marx" c="Marx, Capital, Preface" >}}
+Capital grows in one place to a huge mass in a single hand, because it has in another place been lost by many. This is centralisation proper, as distinct from accumulation [which is] very slow compared to centralisation.. The world would still be without railroads, if it had to wait for accumulation..Centralisation, on the other hand, accomplished this by a turn of the hand through stock companies.
 {{< /q >}} 
 
  <!-- enabled a few individual capitals to undertake the construction of a railroad.  -->

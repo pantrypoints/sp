@@ -3,7 +3,7 @@ heading: "Chapter 11"
 title: "Shariah, Inca System"
 weight: 54
 date: 2021-12-12
-image: /covers/marx.jpg
+image: /photos/medieval/arab.jpg
 description: "Karl Marx and Frederick Engels listed the 10 demands of Communism in The Communist Manifesto"
 writer:
   name: Juan
@@ -17,7 +17,6 @@ The dominance of the Thinker Class usually leads to the following economic ideol
 1. Shariah
 2. Liberalism
 3. Anarchism
-
 
 
 <!-- Theocratic and imperial dynastic systems represent governance and political ideologies that influence economic structures through the lens of religious authority or dynastic rule. While these systems are often associated with specific forms of governance rather than purely economic ideologies, there are certain economic characteristics within theocratic and imperial dynastic rule that can be likened to particular economic ideologies or practices. Here's an exploration of economic ideologies that share similarities with **theocracy** and **imperial dynasties**:

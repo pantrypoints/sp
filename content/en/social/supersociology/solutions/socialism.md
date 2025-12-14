@@ -1,7 +1,7 @@
 ---
 title: "Progressive Republican Socialism"
 date: 2019-03-04
-image: "/photos/handshake.jpg"
+image: "/photos/social/handshake.jpg"
 description: "Confirmation Elections are Adam Smith's solution to votes being split in countries that have no primaries"
 writer:
   name: Juan

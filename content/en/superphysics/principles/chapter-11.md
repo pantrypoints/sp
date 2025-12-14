@@ -3,7 +3,7 @@ heading: "Chapter 11"
 title: "Yoga Versus Dogma"
 date: 2025-10-07
 weight: 710
-image: /photos/objects/hand.jpg
+image: /photos/social/burn.jpg
 description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions
 writer:
   name: Juan

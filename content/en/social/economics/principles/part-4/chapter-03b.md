@@ -4,7 +4,7 @@ title: "The Fallacy of Liquidity Preference"
 # date: 2022-03-27
 date: 2021-12-30
 weight: 29
-image: /covers/keynes.jpg
+image: "https://sorasystem.sirv.com/graphics/wagegap.png"
 description: "The most common suffering imposed by Neoclassical Economics on the people, aside from recessions and financial crises, is inequality"
 writer:
   name: Juan
@@ -51,7 +51,7 @@ All of these policies are mercantile and are the opposite to what Adam Smith adv
 
 Keynes advocated to increase the money circulating until prices start increasing, a state which he calls **true inflation**.
 
-{{< q a="Keynes" c="General Theory, Chapter 21" >}}
+{{< q a="John Maynard Keynes" c="General Theory, Chapter 21" >}}
 When a further increase in effective demand produces no further increase in output and entirely spends itself on an increase in the cost-unit fully proportionate to the increase in effective demand, we have reached a condition which might be appropriately designated as one of true inflation.
 {{< /q >}}
 
@@ -71,7 +71,7 @@ For example, if last month I worked for 100 hours at $1 per hour, then at that m
 - If the company has 50 workers, then it gets 100 hours of free work or $100 savings which it can use to hire one new worker if the wages of the 50 were not increased.
 
 
-{{< q a="Keynes" c="Chapter 2, General Theory" >}}
+{{< q a="John Maynard Keynes" c="Chapter 2, General Theory" >}}
 Every trade union will resist a cut in money-wages. <i>But no trade union would go on strike for every rise in the cost of living.</i> They thus do not create an obstacle to any increase in aggregate employment which is attributed to them by the classical school.
 {{< /q >}}
 

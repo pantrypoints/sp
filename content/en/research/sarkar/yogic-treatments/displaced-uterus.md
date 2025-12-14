@@ -3,7 +3,7 @@ title: "Symptoms of Displaced Uterus"
 weight: 14
 author: "PR Sarkar"
 description: "The uterus lies in a suspended position supported by a few ligaments behind the navel region."
-image: "/photos/med/dysm.jpg"
+image: "/photos/med/toilet.jpg"
 icon: "PR Sarkar"
 ---
 
@@ -18,7 +18,7 @@ icon: "PR Sarkar"
 - Pain in the back and waist
 - Pain like the pain of cramps, etc.
 
-![Woman in Pain](/photos/med/dysm.jpg)
+![Woman in Pain](/photos/med/toilet.jpg)
 
 
 ## Causes of Displaced Uterus

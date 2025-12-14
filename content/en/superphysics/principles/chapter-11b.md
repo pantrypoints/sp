@@ -3,7 +3,7 @@ heading: "Chapter 11b"
 title: "The 4 Paths to Yoga"
 date: 2025-10-07
 weight: 720
-image: /photos/psych/meditate.jpg
+image: /photos/meta/yoga.jpg
 description: "" 
 writer:
   name: Juan

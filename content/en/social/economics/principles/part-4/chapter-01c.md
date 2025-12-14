@@ -44,7 +44,7 @@ For example, Apple has become a huge company that bans others from copying its t
 
 Proof of this contradiction is in Marshall's Principles of Economics (the textbook that came before Samuelson's Economics)
 
-{{< q a="Marshall" c="Principles of Economics" >}}
+{{< q a="Alfred Marshall" c="Principles of Economics" >}}
 It is commonly said that the tendency of competition is to equalize the earnings of people engaged in the same trade<!-- or in trades of equal difficulty -->; but this statement requires to be interpreted carefully. 
 
 For competition tends to make the earnings got by two individuals of unequal efficiency in any given time, say, a day or a year, not equal, but unequal; and, in like manner, it tends not to equalize, but to render unequal the average weekly wages in two districts in which the average standards of efficiency are unequal.
@@ -59,14 +59,12 @@ Then the quotes are mostly found in Book 5
 
 ### Free Competition Lowers Taxes or Prices But Raises Revenue
 
-{{< q a="Adam Smith" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 2" >}}
 A big capital or credit is needed to collect taxes. These would alone restrain the competition for such an undertaking to very few people. The competition is further reduced by the knowledge or experience needed. Those few with all of these would find it for their interest to combine and be co-partners.
-<cite>The Wealth of Nations Simplified, Book 5, Chapter 2</cite>
 {{< /q >}}
 
-{{< q a="Adam Smith" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 2, Article 2" >}}
 A tax on the profits from any trade can never fall finally on the dealers. They must ordinarily have their reasonable profit. If the competition is free, he can seldom have more than that profit.
-<cite>The Wealth of Nations Simplified, Book 5, Chapter 2, Article 2</cite>
 {{< /q >}}
 
 {{< q a="Adam Smith" >}}

@@ -1,6 +1,6 @@
 ---
 title: "The Path of Action (Karma Yoga)"
 description: "Christianity and Islam"
-image: "/photos/social/donate.jpg"
+image: "/photos/social/pantry.jpg"
 ---
 

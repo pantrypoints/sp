@@ -102,7 +102,7 @@ This is explained in the biology of Rene Descartes, wherein humans detect:
 
 From the heart, [the animal spirits go to the pineal gland](/research/descartes/man/section-30) in the brain which is the basis of the ajna chakra in Hinduism.  
 
-{{< img src="/photos/psych/meditate.jpg" alt="Meditation" cap="Humans can 'see' the Elemental Universe through their ajna chakra. It can be 'felt' through the heart chakra and others">}}
+{{< img src="/photos/meta/yoga.jpg" alt="Meditation" cap="Humans can 'see' the Elemental Universe through their ajna chakra. It can be 'felt' through the heart chakra and others">}}
 
 
 Our preferred technique is to meditate with your back touching against a large tree. This creates a physical contact connection with your spine and the tree which then has connections to the Earth and the Elemental Universe. 

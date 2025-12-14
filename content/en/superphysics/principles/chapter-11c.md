@@ -3,7 +3,7 @@ heading: Chapter 11c
 title: The Occult
 date: "2019-07-21"
 weight: 725
-image: /photos/psych/meditate.jpg
+image: /photos/meta/occult.jpg
 description: "Consciousness is the perception of ideas and feelings"
 writer:
   name: Juan

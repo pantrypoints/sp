@@ -2,7 +2,7 @@
 title: The Brute Force Approach of Physics
 date: 2025-05-15
 # weight: 7
-image: /photos/psych/meditate.jpg
+image: /photos/meta/yoga.jpg
 description: "The failure of fusion calls for a change in strategy and tactics"
 writer:
   name: Juan
@@ -55,7 +55,7 @@ Physics will only be able to harness fusion if physicists evolve out of the brut
 
 This requires increasing the sensitivity of the heart since the heart chakra is the main detector for the aether, just as the eyes are the detector for light. 
 
-{{< i a="Meditation" src="/photos/physics/meditate.jpg" c="Meditation enhances heart sensitivity" >}}
+{{< i a="Meditation" src="/photos/meta/yoga.jpg" c="Meditation enhances heart sensitivity" >}}
 
 <!-- These can also be employed to harness energy in two ways:  
 

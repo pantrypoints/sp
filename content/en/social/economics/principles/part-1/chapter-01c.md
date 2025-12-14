@@ -93,7 +93,6 @@ Social View | Human creatures are customers and sellers of each other, isolated 
 <!-- .<br> Suppliers also have an interest in building demand<br> for expensive but useless products such as the Apple Watch,<br> leading to over-exploitation of natural resources.<br> Small companies have difficulty in entering.</td>
           <td>Downward sloping supply curve as people want<br> "to buy whatever they want of those who sell it cheapest".<br> Businesses will less likely attempt to create useless products or<br> those that cannot be sustainably produced because of limited resources.<br> Small companies can easily enter because of the bond of friendship</td> -->
 
-
 {{< q a="Adam Smith" >}}
 Without a doubt, it was the spirit of monopoly which originally invented and propagated this doctrine. Those who first taught it were by no means such fools as those who believed it. In every country, it is always the people’s interest to buy whatever they want the cheapest. This proposition is so very manifest that it is ridiculous to take any pains to prove it. It could never have been questioned had not the sophistry of merchants and manufacturers confounded the common sense of mankind. Their interest is directly opposite of the people’s interest.
 {{< /q >}}
@@ -102,8 +101,6 @@ Without a doubt, it was the spirit of monopoly which originally invented and pro
 {{< q a="Socrates" c="The Republic By Plato Simplified, Book 8" >}}
 The men of business stoop as they walk. They pretend not to see those whom they have already ruined. They insert their sting—their money—into someone else who is not on his guard against them. They recover the parent amount many times over multiplied into a family of children amounts. And so they make drone and pauper to abound in the State. The evil blazes up like a fire. They could extinguish it by restricting a man's use of his own property and letting everyone enter into voluntary contracts at his own risk. But the men of business will not do this as this will lessen this scandalous money-making.
 {{< /q >}}
-
-
 
 
 {{< u d="July 2020" u="Economics is best for animalistic humans or those who love to prey on others -- a player who wins big in the stock market does not care that his winnings directly come from the losses and suffering of the losing players. He feels that it's alright to prey on others because he himself is fair game for those players if he loses. Supereconomics, on the other hand, focuses on loans and real goods and services instead of equity and money (the favorite tools of the gambler)." >}}

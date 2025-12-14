@@ -3,7 +3,7 @@ heading: "Chapter 5"
 title: "The Financial System and the Barter System"
 date: 2024-11-20
 weight: 32
-image: /photos/econ/crash.jpg
+image: /photos/econ/computer.jpg
 description: "The dominance of money led to the development of the financial system"
 writer:
   name: Juan

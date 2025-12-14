@@ -3,7 +3,7 @@ title: "Natural Diet for Abnormal Menstruation"
 weight: 52
 author: "PR Sarkar"
 description: "In a healthy woman the menstrual discharge is usually about 1/4 seer. If for any reason the quantity is less than normal, it is called hypomenorrhoea"
-image: "/photos/toilet.jpg"
+image: "/photos/med/toilet.jpg"
 icon: "PR Sarkar"
 ---
 
@@ -20,7 +20,7 @@ Normally, menstruation occurs once in a lunar month either every:
 
 These are according to the woman’s physical condition. 
 
-![Woman cleaning toilet bowl](/photos/toilet.jpg)
+![Woman cleaning toilet bowl](/photos/med/toilet.jpg)
 
 Usually menstruation lasts for 3-5 days. If the menstruation does not follow the above pattern according to the lunar month or if it lasts for a week or two; or if it sometimes occurs and sometimes does not; or if sometimes there is excessive bleeding and sometimes very little; then it may be termed “irregular menstruation.”
 

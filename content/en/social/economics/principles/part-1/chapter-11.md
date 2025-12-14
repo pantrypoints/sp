@@ -3,7 +3,7 @@ heading: "Chapter 11"
 title: "Liberalism and Socialism"
 # date: 2022-07-30
 weight: 110
-image: /graphics/econ/liberal.jpg
+image: /photos/social/liberal.jpg
 description: "The dominance of the Worker Class usually leads to the Socialist system of economy and the Democratic system of politics"
 writer:
   name: Juan
@@ -55,6 +55,11 @@ Foreign trade brought a lot of wealth to Europe, creating a sense of empowerment
 The increase in sensory desires led to the fall of the Church through the French Revolution which separated the Church from the State. 
 
 From that time onwards, the austere policy was abandoned in favor of wealth and economic growth.
+
+
+{{< i s="/photos/social/liberal.jpg" a="French Revolution" >}}
+
+
 
 The main proponents of liberalism are:
 
