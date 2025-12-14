@@ -1,6 +1,6 @@
 ---
 title: The Path of Discipline (Raja Yoga)
 description: ""
-image: "/photos/medieval/spartan.jpg"
+image: "/photos/meta/yoga.jpg"
 ---
 

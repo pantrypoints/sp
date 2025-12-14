@@ -2,7 +2,7 @@
 heading: "Chapter 9b"
 title: "The 3 Actions and 4 Operations of Feeling"
 date: 2020-12-06
-image: /photos/psych/freedom.jpg
+image: /photos/psych/friend.jpg
 weight: 604
 description: "Feeling has 4 Operations just like the mind"
 writer:
@@ -96,6 +96,8 @@ This also leads to the variations between the different feelings such as:
 - Romantic Love
 - Love for Pets
 - etc
+
+{{< i s="/photos/psych/friend.jpg" a="Friend" >}}
 
 
 3. Quantity and Quality

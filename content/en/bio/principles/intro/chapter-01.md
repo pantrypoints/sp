@@ -6,7 +6,7 @@ description: "The 5 Strata are the 5 Layers Applied to the Pure Metaphysical Dom
 # date: "2020-10-15"
 date: 2024-07-08
 weight: 3
-image: "/graphics/bio/strata.jpg"
+image: "/photos/meta/ghost.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -34,6 +34,9 @@ There are 2 Domains in Reality | This leads to a physical (material) body and a 
 The Superphysics paradigm splits reality into:
 - the Metaphysical Domain
 - the Physical Domain
+
+{{< i s="/photos/meta/ghost.jpg" a="Spirit" c="The Spirit is the metaphysical part of the soul" >}}
+
 
 Material Superphysics is Superphysics that deals with nonliving things.
 

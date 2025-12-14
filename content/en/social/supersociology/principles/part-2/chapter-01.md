@@ -4,7 +4,7 @@ title: "The Working Class and Worker Cycle"
 date: 2019-12-17
 # date: 2021-06-29
 weight: 6
-image: "/photos/social/audience.jpg"
+image: "/photos/econ/worker.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

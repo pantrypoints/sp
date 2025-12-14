@@ -2,7 +2,7 @@
 heading: "Chapter 1"
 title: "The Superphysics Principles"
 date: 2024-07-11
-image: "/photos/meta/kindness.jpg"
+image: "/graphics/sora.jpg"
 description: "The 10 virtues are based on Yama and Niyama"
 writer:
   name: Lam
@@ -23,6 +23,9 @@ The Principles are
 2. The metaphysical is superior to the physical
 3. ..
 4. ..
+
+
+{{< i s="/graphics/sora.jpg" a="Superphysics" >}}
 
 
 The main principle is that mentality creates reality. This means that anything is possible. 

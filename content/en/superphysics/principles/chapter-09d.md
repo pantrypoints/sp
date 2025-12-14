@@ -3,7 +3,7 @@ heading: "Chapter 9d"
 title: "The Chakras as the Enabler of Ideas and Feelings"
 date: 2023-12-08
 weight: 612
-image: /graphics/super/chakra.jpg
+image: /photos/meta/chakras.jpg
 description: "Chakras"
 writer:
   name: Juan
@@ -76,6 +76,9 @@ Number | Name | Chinese | Layer
 5 | Throat | | Aether
 6 | Third Eye | Upper dantian 上丹田 | Astral
 7 | Crown | | Essential
+
+
+{{< i s="/photos/meta/chakras.jpg" a="Chakras" >}}
 
 
 Each chakra lets a specific range of propensities flow through from potentiality to actuality. The mixing and variation of these propensities lead to the different feelings of humans.

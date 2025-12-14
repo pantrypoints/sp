@@ -1,7 +1,7 @@
 ---
 title: "Is Industry 4.0 Good or Bad for the Economy?"
 date: 2023-02-02
-image: "/photos/econ/computer.jpg"
+image: "/photos/econ/worker.jpg"
 description : ""
 writer:
   name: Lam
@@ -36,6 +36,8 @@ Version 4.0 continues the trend of applying technology to production, specifical
 - systems integration into ‘cyber physical systems’ 
 
 These connect and control each other, creating ‘smart’ factories.
+
+{{< i s="/photos/econ/worker.jpg" a="Worker" >}}
 
 <!-- Its main principles are:
 

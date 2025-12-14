@@ -2,7 +2,7 @@
 heading: "Chapter 8"
 title: "The 3 Actions of the Mind"
 date: 2020-12-06
-image: /photos/psych/self.jpg
+image: /photos/meta/read.jpg
 weight: 480
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:
@@ -62,6 +62,11 @@ This makes each instance or number a unique identity itself, each with its own q
 This takes the form of notation.
 
 We call these 3 the operations of the mind.
+
+{{< i s="/photos/meta/read.jpg" a="Reading" >}}
+
+
+
 
 
 ## The Flow and Force of Thinking Versus Knowing

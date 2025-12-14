@@ -3,7 +3,7 @@ heading: "Chapter 4"
 title: "The Self"
 date: 2020-01-31
 weight: 20
-image: "/graphics/meta/mirror.jpg"
+image: "/photos/meta/mirror.jpg"
 description: "David Hume's Idea of the Self explains why there are 3 billion yous"
 tags: ["David Hume", "Ego"]
 writer:

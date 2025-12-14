@@ -2,7 +2,7 @@
 title: "Why is Business Usually Seen as Immoral?"
 # heading: "Economic Social Contracts as a Tool for Trade"
 date: 2020-09-24
-image: /photos/medieval/slave.jpg
+image: /photos/econ/computer.jpg
 description: "The immorality in business is best explained by David Hume as the nature of numbers lacking feelings"
 writer:
   name: Juan

@@ -5,5 +5,5 @@ linkTitle: "Workers"
 date: 2022-01-30
 weight: 4
 description: "The Workers are the Democrat class in Plato and the Shudra class in Hinduism"
-image: "/photos/bio/plant.jpg"
+image: "/photos/econ/worker.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 1"
-title: "Technologies from Material Superphysics"
+title: "Technologies from Bio Superphysics"
 date: 2023-10-10
 image: /photos/objects/potatoes.jpg
 description: "Bio Superphysics leads to new technologies by using all of the 5 Layers"

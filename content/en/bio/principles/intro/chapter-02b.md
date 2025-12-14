@@ -6,7 +6,7 @@ description: "Life is the Shiva part of the 2 Forces"
 # date: "2020-10-15"
 date: 2020-01-25
 weight: 8
-image: "/graphics/super/node.jpg"
+image: "/photos/psych/freedom.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -30,6 +30,9 @@ Such actions are the effects of objects being conscious of their surroundings, a
 - It would not be felt since it would not react to touch. 
 
 In other words, **a truly non-conscious thing would not exist at all.** Rather, its existence could never be verified by any consciousness. 
+
+{{< i s="/photos/psych/freedom.jpg" a="Life" c="Freedom is a property of life" >}}
+
 
 Therefore, **everything that exists is conscious.** 
 
