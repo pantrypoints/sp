@@ -5,6 +5,7 @@ linkTitle: "Fallacies"
 description: "We group the fallacies and sophistries by shallow sociology"
 c: "firebrick"
 youtube: "rVP73TV2X0s"
+image: /photos/psych/fail.jpg
 weight: 2
 ---
 

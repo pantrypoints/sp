@@ -12,19 +12,19 @@ icon: "Aristotle"
 
 
 
-If one premise is a simple proposition, the other a problematic, whenever the major premise
-indicates possibility all the syllogisms will be perfect and establish possibility in the sense
-defined.
+If one premise is a simple proposition and the other one is a problematic one, then whenever the major premise indicates possibility then all the syllogisms will be perfect.
+- They will establish possibility in the sense defined.
 
-But whenever the minor premise indicates possibility all the syllogisms will be imperfect, and those which are negative will establish not possibility according to the definition, but that the major does not necessarily belong to any, or to all, of the minor. For if this is so, we
-say it is possible that it should belong to none or not to all. Let A be possible for all B, and let B belong to all C. Since C falls under B, and A is possible for all B, clearly it is possible for all C also. 
+But whenever the minor premise indicates possibility, then all the syllogisms will be imperfect.
+- Those which are negative will establish not possibility according to the definition, but that the major does not necessarily belong to any, or to all, of the minor. For if this is so, we say it is possible that it should belong to none or not to all. Let A be possible for all B, and let B belong to all C. Since C falls under B, and A is possible for all B, clearly it is possible for all C also. 
 
 So a perfect syllogism results. Likewise if the premise AB is negative, and the premise BC is affirmative, the former stating possible, the latter simple attribution, a perfect syllogism results proving that A possibly belongs to no C.
 
-
 Perfect syllogisms result if the minor premise states simple belonging: but that syllogisms will result if the modality of the premises is reversed, must be proved per impossibile.
 
-At the same time it will be evident that they are imperfect: for the proof proceeds not from the premises assumed. First we must state that if B's being follows necessarily from A's being, B's possibility will follow necessarily from A's possibility. Suppose, the terms being so related, that A is possible, and B is impossible. If then that which is possible, when it is possible for it to be, might happen, and if that which is impossible, when it is impossible, could not happen, and if at the same time A is possible and B impossible, it would be possible for A to happen without B, and if to happen, then to be. For that which has happened, when it has happened, is. 
+At the same time it will be evident that they are imperfect: for the proof proceeds not from the premises assumed. 
+
+First we must state that if B's being follows necessarily from A's being, B's possibility will follow necessarily from A's possibility. Suppose, the terms being so related, that A is possible, and B is impossible. If then that which is possible, when it is possible for it to be, might happen, and if that which is impossible, when it is impossible, could not happen, and if at the same time A is possible and B impossible, it would be possible for A to happen without B, and if to happen, then to be. For that which has happened, when it has happened, is. 
 
 But we must take the impossible and the possible not only in the sphere of becoming, but also in the spheres of truth and predictability, and the various other spheres in which we speak of the possible: for it will be alike in all.
 
@@ -79,20 +79,9 @@ before. Let A belong to all B, and let B possibly belong to no C. If the terms a
 nothing necessarily follows: but if the proposition BC is converted and it is assumed that B is
 possible for all C, a syllogism results as before: for the terms are in the same relative positions.
 
-Likewise if both the relations are negative, if the major premise states that A does not belong to
-B, and the minor premise indicates that B may possibly belong to no C. Through the premises
-actually taken nothing necessary results in any way; but if the problematic premise is converted,
-we shall have a syllogism. Suppose that A belongs to no B, and B may possibly belong to no C.
-Through these comes nothing necessary. But if B is assumed to be possible for all C (and this is
-true) and if the premise AB remains as before, we shall again have the same syllogism. But if it
-be assumed that B does not belong to any C, instead of possibly not belonging, there cannot be a
-syllogism anyhow, whether the premise AB is negative or affirmative. As common instances of a
-necessary and positive relation we may take the terms white-animal-snow: of a necessary and 
-negative relation, white-animal-pitch. Clearly then if the terms are universal, and one of the
-premises is assertoric, the other problematic, whenever the minor premise is problematic a
-syllogism always results, only sometimes it results from the premises that are taken, sometimes it
-requires the conversion of one premise. We have stated when each of these happens and the
-reason why.
+Likewise if both the relations are negative, if the major premise states that A does not belong to B, and the minor premise indicates that B may possibly belong to no C. Through the premises actually taken nothing necessary results in any way; but if the problematic premise is converted, we shall have a syllogism. Suppose that A belongs to no B, and B may possibly belong to no C.
+
+Through these comes nothing necessary. But if B is assumed to be possible for all C (and this is true) and if the premise AB remains as before, we shall again have the same syllogism. But if it be assumed that B does not belong to any C, instead of possibly not belonging, there cannot be a syllogism anyhow, whether the premise AB is negative or affirmative. As common instances of a necessary and positive relation we may take the terms white-animal-snow: of a necessary and negative relation, white-animal-pitch. Clearly then if the terms are universal, and one of the premises is assertoric, the other problematic, whenever the minor premise is problematic a syllogism always results, only sometimes it results from the premises that are taken, sometimes it requires the conversion of one premise. We have stated when each of these happens and the reason why.
 
 But if one of the relations is universal, the other particular, then whenever the major premise is universal and problematic, whether affirmative or negative, and the particular is
 affirmative and assertoric, there will be a perfect syllogism, just as when the terms are universal.
@@ -104,12 +93,4 @@ are negative or affirmative, or one is negative, the other affirmative, in all c
 But whenever the particular premise is assertoric and negative, there cannot be
 a syllogism.
 
-As instances of the positive relation we may take the terms white-animal-snow; of
-the negative, white-animal-pitch. For the demonstration must be made through the indefinite
-nature of the particular premise. But if the minor premise is universal, and the major particular,
-whether either premise is negative or affirmative, problematic or assertoric, nohow is a syllogism
-possible. Nor is a syllogism possible when the premises are particular or indefinite, whether
-problematic or assertoric, or the one problematic, the other assertoric. The demonstration is the
-same as above. As instances of the necessary and positive relation we may take the terms animalwhite-man; of the necessary and negative relation, animal-white-garment. It is evident then that if the major premise is universal, a syllogism always results, but if the minor is universal nothing at all can ever be proved.
-
-
+As instances of the positive relation we may take the terms white-animal-snow; of the negative, white-animal-pitch. For the demonstration must be made through the indefinite nature of the particular premise. But if the minor premise is universal, and the major particular, whether either premise is negative or affirmative, problematic or assertoric, nohow is a syllogism possible. Nor is a syllogism possible when the premises are particular or indefinite, whether problematic or assertoric, or the one problematic, the other assertoric. The demonstration is the same as above. As instances of the necessary and positive relation we may take the terms animalwhite-man; of the necessary and negative relation, animal-white-garment. It is evident then that if the major premise is universal, a syllogism always results, but if the minor is universal nothing at all can ever be proved.

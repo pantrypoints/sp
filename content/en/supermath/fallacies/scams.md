@@ -1,10 +1,12 @@
 ---
 title: "Math Scams"
 date: 2025-03-08
-# image: "/graphics/meta/ideas.jpg"
+image: /photos/psych/fail.jpg
 c: "firebrick"
 description: ""
 weight: 4
+aliases:
+  /supermath/scams
 ---
 
 

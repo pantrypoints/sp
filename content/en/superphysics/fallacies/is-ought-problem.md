@@ -1,10 +1,10 @@
 ---
 title: "David Hume Did Not Create the Is-Ought Problem"
 linkTitle: Is-Ought
-# heading: "Hume Never Saw It as Such"
+image: /photos/medieval/hume.jpg
 date: 2016-02-03
-a: "David Hume"
-c: "steelblue"
+# a: "David Hume"
+# c: "steelblue"
 description: "David Hume did not create the Is-Ought Problem. It was created by later academics for whatever reason"
 writer:
   name: Juan
@@ -15,7 +15,10 @@ icon: "Superphysics"
 
 While reviewing my simplification of David Hume’s Treatise of Human Nature Book 3, I came upon a strange wiki article called Hume’s Is-Ought Problem:
 
-> Hume calls for caution against such inferences in the absence of any explanation of how the ought-statements follow from the is-statements. But how exactly can an “ought” be derived from an “is”? The question, prompted by Hume’s small paragraph, has become one of the central questions of ethical theory, and Hume is usually assigned the position that such a derivation is impossible. This complete severing of “is” from “ought” has been given the graphic designation of Hume’s Guillotine.
+{{< q >}}
+Hume calls for caution against such inferences in the absence of any explanation of how the ought-statements follow from the is-statements. But how exactly can an “ought” be derived from an “is”? The question, prompted by Hume’s small paragraph, has become one of the central questions of ethical theory, and Hume is usually assigned the position that such a derivation is impossible. This complete severing of “is” from “ought” has been given the graphic designation of Hume’s Guillotine.
+{{< /q >}}
+
 
 {{< youtube eT7yXG2aJdY >}}
 

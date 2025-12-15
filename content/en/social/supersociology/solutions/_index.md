@@ -4,6 +4,7 @@ description: "The Solutions from Supersociology implement the principles of Soci
 c: "forestgreen"
 linkTitle: Solutions
 type: "featured"
+image: /photos/ok.jpg
 weight: 3
 aliases:
   /solutions/supersociology/

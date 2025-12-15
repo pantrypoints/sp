@@ -3,7 +3,7 @@ heading: "Chapter 1"
 title: Plant Abilities
 date: 2020-01-31
 weight: 22
-image: "/photos/objects/tree.jpg"
+image: "/photos/bio/plant.jpg"
 description: Maximized Farming is based on the 5 Layers as they apply to agriculture.
 writer:
   name: Juan
@@ -18,6 +18,8 @@ Superbiology adds the following observations about the hidden or unknown abiliti
 2. Rainwater Magnet
 3. Chi Generation 
 4. Information Network
+
+{{< i s="/photos/bio/plant.jpg" a="Plants" >}}
 
 
 ### Moonlight

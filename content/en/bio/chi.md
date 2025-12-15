@@ -2,7 +2,7 @@
 title: "Chi Detection and Transfer"
 # heading: Plotting their 'landing zones'
 date: 2024-10-05
-image: /photos/med/alzh.jpg
+image: /photos/bio/taichi.jpg
 description: "Chi is the living energy"
 writer:
   name: Juan
@@ -37,6 +37,8 @@ So a higher frequency cuts up metaphysical spacetime into smaller slices. Its re
 A lower frequency has bigger chunks of spacetime, like a low resolution VGA screen. Each change in scene is choppy, blurry, and not smooth.
 
 {{< youtube eEGJY4F6QKw >}}
+
+{{< i s="/photos/bio/taichi.jpg" a="Chi" >}}
 
 
 The chi in a person is the waves that go through the person to make him alive. 

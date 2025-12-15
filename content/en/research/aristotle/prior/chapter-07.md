@@ -23,12 +23,7 @@ The substitution of an indefinite for a particular affirmative will effect the s
 
 All the imperfect syllogisms are made perfect by means of the first figure. 
 
-For all are brought to a conclusion either ostensively or per impossibile. In both ways the first figure is formed: if they are made perfect ostensively, because (as we saw) all are brought to a
-conclusion by means of conversion, and conversion produces the first figure: if they are proved
-per impossibile, because on the assumption of the false statement the syllogism comes about by
-means of the first figure, e.g. in the last figure, if A and B belong to all C, it follows that A
-belongs to some B: for if A belonged to no B, and B belongs to all C, A would belong to no C:
-but (as we stated) it belongs to all C. Similarly also with the rest.
+For all are brought to a conclusion either ostensively or per impossibile. In both ways the first figure is formed: if they are made perfect ostensively, because (as we saw) all are brought to a conclusion by means of conversion, and conversion produces the first figure: if they are proved per impossibile, because on the assumption of the false statement the syllogism comes about by means of the first figure, e.g. in the last figure, if A and B belong to all C, it follows that A belongs to some B: for if A belonged to no B, and B belongs to all C, A would belong to no C: but (as we stated) it belongs to all C. Similarly also with the rest.
 
 
 It is possible also to reduce all syllogisms to the universal syllogisms in the first figure. Those in the second figure are clearly made perfect by these, though not all in the same way; the universal syllogisms are made perfect by converting the negative premise, each of the particular syllogisms by reductio ad impossibile.
@@ -42,18 +37,16 @@ Similarly also demonstration will be possible in the case of the negative.
 
 For if A belongs to no B, and B belongs to some C, A will not belong to some C: for if it
 belonged to all C, and belongs to no B, then B will belong to no C: and this (as we saw) is the
-middle figure. Consequently, since all syllogisms in the middle figure can be reduced to
-universal syllogisms in the first figure, and since particular syllogisms in the first figure can be
-reduced to syllogisms in the middle figure, it is clear that particular syllogisms can be reduced to
-universal syllogisms in the first figure. Syllogisms in the third figure, if the terms are universal,
-are directly made perfect by means of those syllogisms; but, when one of the premises is
-particular, by means of the particular syllogisms in the first figure: and these (we have seen) may
-be reduced to the universal syllogisms in the first figure: consequently also the particular
+middle figure. 
+
+Consequently, since all syllogisms in the middle figure can be reduced to universal syllogisms in the first figure, and since particular syllogisms in the first figure can be reduced to syllogisms in the middle figure, it is clear that particular syllogisms can be reduced to universal syllogisms in the first figure. Syllogisms in the third figure, if the terms are universal, are directly made perfect by means of those syllogisms; but, when one of the premises is particular, by means of the particular syllogisms in the first figure: and these (we have seen) may be reduced to the universal syllogisms in the first figure: consequently also the particular
 syllogisms in the third figure may be so reduced. It is clear then that all syllogisms may be
 reduced to the universal syllogisms in the first figure.
-We have stated then how syllogisms which prove that something belongs or does not belong to
-something else are constituted, both how syllogisms of the same figure are constituted in
-themselves, and how syllogisms of different figures are related to one another.
+
+
+This is how syllogisms which prove that something belongs or does not belong to something else are constituted.
+- how syllogisms of the same figure are constituted in themselves
+- how syllogisms of different figures are related to one another.
 
 
 ### Chapter 8
