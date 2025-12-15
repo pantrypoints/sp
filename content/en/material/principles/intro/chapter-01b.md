@@ -2,7 +2,7 @@
 heading: "Chapter 1b"
 title: "Active and Passive Detection"
 date: 2025-01-31  
-image: "/photos/physics/ai.jpg"
+image: "/photos/objects/apples2.jpg"
 description: "The 5 layers "
 writer:
   name: Juan
@@ -10,6 +10,8 @@ writer:
 weight: 4
 icon: "Superphysics"
 ---
+
+
 
 
  <!-- as Particle Dialectics -->

@@ -2,7 +2,7 @@
 heading: "Chapter 9"
 title: "Reorganizing the Subsciences according to the MSQ Model "
 # date: 2023-11-26
-image: "/graphics/physics/msq.svg"
+image: "/graphics/physics/sciences.jpg"
 description: "We notate MSQ differently"
 writer:
   name: Juan

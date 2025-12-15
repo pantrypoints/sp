@@ -3,7 +3,7 @@ heading: Part 6
 title: "Applications and Technologies"
 linkTitle: "Tech"
 description: "We list the Applications and Technologies from Material Superphysics"
-image: "/photos/tech/mac.jpg"
+image: "/photos/econ/computeroi.jpg"
 weight: 50
 youtube: "0dXvYASaIx4"
 # # date: 2020-10-31

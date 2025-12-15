@@ -2,7 +2,8 @@
 heading: "Chapter 7"
 title: "Actions of the Layers"
 # date: 2022-01-03
-image: /graphics/physics/gr.jpg
+# image: /graphics/physics/gr.jpg
+image: /graphics/super/impact.jpg
 description: "In Superphysics, each layer has specific actions"
 writer:
   name: Juan

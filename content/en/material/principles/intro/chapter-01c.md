@@ -2,7 +2,7 @@
 heading: "Chapter 1c"
 title: "Chapter Arrangement"
 date: 2025-09-11
-image: "/photos/balancerock.jpg"
+image: "/photos/meta/read.jpg"
 description: "Arrangement of chapters in Material Superphysics"
 writer:
   name: Juan

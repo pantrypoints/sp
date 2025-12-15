@@ -87,6 +87,31 @@ Each identity remains as much as it can always in the same state. It is never ch
 
 
 
+## The 4 Arithmetic Operations
+
+1. Addition
+
+The 1st Property of Waves is "no void". This is fulfilled by addition which adds onto the instances. This is like making a line move forward.
+
+2. Division
+
+The 2nd Property of Waves is frequency. A sound can be divided into smaller parts.  
+
+3. Subtraction
+
+The 3rd Property of Waves is amplitude. A wave can have positive and negative values as it goes up and down.
+
+4. Multiplication
+
+The 4th Property of Waves is forward movement. Multiplication expands just as division contracts. 
+
+Addition and Subtraction can start from zero just as a wave can shave an origin or middle point.
+
+Division and Multiplication need a pre-existing instance, just as a frequency needs an existing wave, and expansion needs something to expand.  
+
+
+
+
 ## The 4 Rules of Conversion
 
 This implements the Law of Conservation of Aether to be discussed in Chapter 5f.

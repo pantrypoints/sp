@@ -16,14 +16,27 @@ writer:
 the human body as merely idea of the subject which knows it,
 like all the other objects of this world of perception. --> 
 
-What enables us consciously to distinguish our own body from all other objects which in other respects are
-precisely the same, is that our body appears in consciousness in quite another way toto genere different from idea.
+The will enables us consciously to distinguish our own body from all other objects
+- Our body appears in consciousness in quite another way toto genere different from idea.
 
-This we denote by the word will; and that it is just this double knowledge which we have of our own body that affords us information about it, about its action and movement following on motives, and also about what it experiences by means of external impressions; in a word, about what it is, not as idea, but as more than idea; that is to say, what it is in itself. None of this information have we got directly with regard to the nature, action, and experience of other real objects.
+This double knowledge of our own body gives us information about it such as:
+- its action and movement following on motives
+- what it experiences through external impressions
+- our body, not as idea, but what it is in itself
 
-It is just because of this special relation to one body that the knowing subject is an individual. For regarded apart from this relation, his body is for him only an idea like all other ideas. But the relation through which the knowing subject is an individual, is just on that account a relation which subsists only between him and one particular idea of all those which he has. Therefore he is conscious of this one idea, not merely as an idea, but in quite a different way as a will. If, however, he abstracts from that special relation, from that twofold and completely heterogeneous knowledge of what is one and the same, then that one, the body, is an idea like all other ideas.
+<!-- None of this information have we got directly with regard to the nature, action, and experience of other real objects. -->
 
-Therefore, in order to understand the matter, the individual who knows must either assume that what distinguishes that one idea from others is merely the fact that his knowledge stands in this double relation to it alone; that insight in two ways at the same time is open to him only in the case of this one object of perception, and that this is to be explained not by the difference of this object from all others, but only by the difference between the relation of his knowledge to this one object, and its relation to all other objects. Or else he must assume that this object is essentially different from all others; that it alone of all objects is at once both will and idea, while the rest are only ideas, i.e., only phantoms. Thus he must assume that his body is the only real individual in the world, i.e., [135] the only phenomenon of will and the only immediate object of the subject.
+This special relation to one body makes the knowing subject as an individual. 
+
+For regarded apart from this relation, his body is for him only an idea like all other ideas.
+
+But the relation through which the knowing subject is an individual, is just on that account a relation which subsists only between him and one particular idea of all those which he has. Therefore he is conscious of this one idea, not merely as an idea, but in quite a different way as a will. 
+
+If, however, he abstracts from that special relation, from that twofold and completely heterogeneous knowledge of what is one and the same, then that one, the body, is an idea like all other ideas.
+
+Therefore, in order to understand the matter, the individual who knows must either assume that what distinguishes that one idea from others is merely the fact that his knowledge stands in this double relation to it alone; that insight in two ways at the same time is open to him only in the case of this one object of perception, and that this is to be explained not by the difference of this object from all others, but only by the difference between the relation of his knowledge to this one object, and its relation to all other objects.
+
+Or else he must assume that this object is essentially different from all others; that it alone of all objects is at once both will and idea, while the rest are only ideas, i.e., only phantoms. Thus he must assume that his body is the only real individual in the world, i.e., [135] the only phenomenon of will and the only immediate object of the subject.
 
 That other objects, considered merely as ideas, are like his body, that is, like it, fill space (which itself can only be present as idea), and also, like it, are causally active in space, is indeed demonstrably certain from the law of causality which is a priori valid for ideas, and which admits of no effect without a cause; but apart from the fact that we can only reason from an effect to a cause generally, and not to a similar cause, we are still in the sphere of mere ideas, in which alone the law of causality is valid, and beyond which it can never take us. But whether the objects known to the individual only as ideas are yet, like his own body, manifestations of a will, is, as was said in the First Book, the proper meaning of the question as to the reality of the external world. To deny this is theoretical egoism, which on that account regards all phenomena that are outside its own will as phantoms, just as in a practical reference exactly the same thing is done by practical egoism.
 

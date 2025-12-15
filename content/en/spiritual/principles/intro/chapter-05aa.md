@@ -13,12 +13,9 @@ draft: true
 ---
 
 
+<!-- What a shallow article from shallow research. -->
 
-
-
-What a shallow article from shallow research.
-
-"Follow your passion" is not Western. It is a natural concept. 
+"Following your passion" is not a uniquely Western philospohy. It is a natural concept. 
 
 It was first documented in Taoism, then in the Gita.
 

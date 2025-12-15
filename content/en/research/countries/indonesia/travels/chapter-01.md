@@ -4,13 +4,10 @@ heading: "Chapter 1"
 weight: 5
 image: "/flags/id.png"
 description: ""
-icon: "/flags/id.png"
+icon: id
 ---
 
-By ALBERT S. BICKMORE, M.A.,
-
-1868.
-
+By ALBERT S. BICKMORE, M.A., 1868.
 
 <!-- PREFACE.
 

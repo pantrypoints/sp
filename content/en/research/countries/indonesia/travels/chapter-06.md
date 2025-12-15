@@ -4,7 +4,7 @@ heading: "Chapter 6"
 weight: 25
 image: "/flags/id.png"
 description: ""
-icon: "/flags/id.png"
+icon: id
 ---
 
 

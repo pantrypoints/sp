@@ -3,7 +3,7 @@ heading: Chapters 4
 title: "How are syllogisms produced?"
 weight: 6
 c: "firebrick"
-description: "Aristotle gives maximum importance to the sight over the other senses"
+description: "Syllogism should be discussed before demonstration because syllogism is the general. "
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -11,7 +11,6 @@ icon: "Aristotle"
 ---
 
 
-### Chapter 4
 
 How are syllogisms produced?*
 

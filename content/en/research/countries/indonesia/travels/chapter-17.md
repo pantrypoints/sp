@@ -1,10 +1,10 @@
 ---
-title: "PALEMBANG, BANCA, AND SINGAPORE"
+title: "Palembang, Banca, And Singapore"
 heading: "Chapter 17"
 weight: 70
 image: "/flags/id.png"
 description: ""
-icon: "/flags/id.png"
+icon: id
 ---
 
 
@@ -30,8 +30,7 @@ May 5th.—The controleur kindly took me in his large barge, with twenty men to 
 
 At Muara Inem the controleur showed me a large garden filled with trees, from which the “palm-oil” is manufactured. It is a low palm, and the fruit is not much larger than the betel-nut. I understood him to say that it was the Elais Guineensis, and had been introduced from the Dutch possessions on the west coast of Africa. The oil is contained in the husk, and is used in manufacturing soap and candles.
 
- 
-A VIEW ON THE RIVER LIMATANG, SUMATRA.
+## A VIEW ON THE RIVER LIMATANG, SUMATRA.
 
 May 6th.—Very early this morning started with the controleur down the Limatang in his barge, with twenty men. During last night the river rose here four or five feet, and the current is now unusually strong. From Muara Inem, to where it empties into the Musi, it is very crooked, constantly bending to the right in nearly equal curves, the current, of course, being strongest in the middle of each bend. This constant curving gives an endless variety to its scenery.[525] The water, being high, enabled us to see the cleared places that occurred from time to time on the bank; though generally only a thick wood or dense jungle appeared on either hand, yet I never for a moment was weary of watching the graceful bending of the reeds and tall bamboos, and of the varied grouping of these with large trees. In two places the river makes such long bends, that artificial canals have been made across the tongues of land thus formed. One of these cuts, which was less than a hundred yards long, saved us going round half a mile by the river. Every four or five miles we came to a large kampong, and exchanged our boatmen for new ones, so that all day long we swiftly glided down the smooth stream, one relay of men not getting weary before they were relieved by another, and the strong current also helping us onward. The kampongs here are free from the filth seen in those farther up in the interior. The houses are all placed on posts five or six feet high, for sometimes the whole country is completely flooded. Many of them are built of well-planed boards, and have a roofing of tiles. When the sun had become low, we came to the large kampong of Baruaiyu. At all these villages there is a raft with a house upon it, where the boatmen waited for us. Fastening our boat to one of these, we took up our quarters in the rajah’s house. Like those built by our Puritan forefathers, it had one long roof and one short one, but it was so low that a tall man could scarcely stand up in it anywhere. The floor, instead of being level, rose in four broad steps, and the whole building formed but one[526] large apartment with two small rooms at the rear end.
 
