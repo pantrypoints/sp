@@ -4,12 +4,14 @@ linkTitle: Chapter 5
 title: "The Logistics Industry"
 date: 2025-11-11
 weight: 40
-image: /photos/objects/galleon.jpg
+image: /photos/econ/pool.jpg
 description: ""
+icon: Juan
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
+
 
 
 The resources in a society are distributed by the logistics industry or system. This has the following components:

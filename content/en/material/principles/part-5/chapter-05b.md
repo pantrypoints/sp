@@ -1,11 +1,11 @@
 ---
 heading: Chapter 5b
 linkTitle: QCD
-title: "Quantum Chromo Dynamics: Color Charges and Mesons"
+title: "Micro Aetherspace Instead of Color Charges"
 # date: 2024-07-14
 image: /graphics/physics/gravitya.jpg
 description: "We explain Quantum Chromo Dynamics based on Cartesian Physics"
-weight: 22
+weight: 42
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

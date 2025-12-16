@@ -2,7 +2,7 @@
 heading: "Chapter 7b"
 title: "Faraday's Law and Paradox"
 date: 2023-10-31
-image: "/graphics/physics/faraday.jpg"
+image: "/photos/physics/faraday.jpg"
 description: "Quantum Tunneling and Nuclear Fusion are made possible by the most3"
 writer:
   name: Juan
@@ -27,7 +27,7 @@ In Cartesian Physics:
 - the EMF would be the ingress force that produces the electron vortex. 
 - the Lorentz Force would be the egress force that produces a magnetic field.
 
-{{< i s="/graphics/physics/faraday.jpg" a="Faraday" >}}
+{{< i s="/photos/physics/faraday.jpg" a="Faraday" >}}
 
 
 The flaw with Faraday was that he did not know that magnetism is caused by virtual photons going through straight channels.

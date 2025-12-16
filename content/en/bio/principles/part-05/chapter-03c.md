@@ -5,8 +5,8 @@ title: "How Acupuncture and Acupressure Work"
 description: "Traditional Chinese Medicine deals with chronic pain and emotional stress through acupunture and acupressure"
 # date: "2020-01-01"
 date: 2024-09-05
-weight: 10
-image: "/graphics/bio/acu.jpg"
+weight: 11
+image: "/photos/bio/acu.jpg"
 tags: ["Acupuncture, Acupressure"]
 icon: "Bio Superphysics"
 ---

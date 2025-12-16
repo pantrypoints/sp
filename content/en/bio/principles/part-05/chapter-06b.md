@@ -3,7 +3,7 @@ heading: Chapter 6
 title: "The War Star"
 description: "The War Star is regularly creates war on Earth"
 date: 2024-07-07
-weight: 7
+weight: 27
 image: "/graphics/bio/war.jpg"
 icon: "Bio Superphysics"
 ---

@@ -2,7 +2,7 @@
 heading: "Chapter 7b"
 title: "Cognitive Scope within the Identity Space"
 # date: 2023-11-26
-image: "/graphics/physics/territories.jpg"
+image: "/photos/physics/space.jpg"
 description: "Gravitational Territories are the area of a gravitational signature"
 writer:
   name: Juan

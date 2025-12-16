@@ -59,37 +59,17 @@ No part of matter could be moved without thrusting some other out of its place. 
 This is similar to the swimming of a fish. The water, which it pushes before it, immediately rolls backwards, to supply the place of what flows in. It thus forms a vortex around the body of the fish. In the same way, the motion originally impressed by the Creator on matter produced in it an infinity of vortices, or circular streams. 
 {{< /q >}}
 
-
-
 {{< dc t="Note" >}}
 This is in Part 2, Proposition 7 of Spinoza's Principles of Cartesian Philosophy, and inferred from Principia, Part 2, Article 33
 {{< /dc >}}
 
 
-## Rule 2: State Continuity
 
-**Each identity remains as much as it can always in the same state. It is never changed except by external causes.**
-
-{{< i s="/graphics/physics/rule2.jpg" a="No Void" >}}
-
-This absorbs Newton's First Law of Classical Mechanics while making it consistent with Quantum Mechanics.
-
-This rule is the basis for:
-- Photons going continuously forward
-- Quantum superposition being predicatble by Cartesian Relativity 
-- Line spectra being emitted by electrons
-
-
-{{< dc t="Note" >}}
-This is in Part 2, Article 37 of Descartes' Principia Philosophia and Part 2, Proposition 14 of Spinoza's Principles of Cartesian Philosophy
-{{< /dc >}}
-
-
-## Rule 3: Straight or Circular
+## Rule 2: Straight or Circle
 
 **Every moving identity moves in a straight line when alone, and in a curve or a circle when moving with others. When in a circle, it moves away from the center.**
 
-{{< i s="/graphics/physics/rule3.jpg" a="Straight or Circular" >}}
+{{< i s="/graphics/physics/rule2.jpg" a="Straight or Circular" >}}
 
 This is angular momentum and centrifugal force which is really straight-line motion confined.
 
@@ -102,12 +82,11 @@ This is in Part 2, Article 39 of Descartes' Principia Philosophia and Part 2, Pr
 {{< /dc >}}
 
 
-
-## Rule 4: Collisions
+## Rule 3: Collisions
 
 When a weaker identity hits a stronger, it will be deflected. When a stronger hits a weaker, it will transfer some of its force to the weaker.
 
-{{< i s="/graphics/physics/rule4.jpg" a="Collisions" >}}
+{{< i s="/graphics/physics/rule3.jpg" a="Collisions" >}}
 
 <!-- **If a weak body moving in a straight line hits a stronger body, then the weak body will be deflected, retaining its motion but losing its direction. But if strong were moving and hits weak, the strong will move the weak with it. The strong will lose as much of its own motion as it gives to the weak.** -->
 
@@ -119,6 +98,26 @@ This is in Part 2, Article 40 of Descartes' Principia Philosophia and Part 2, Pr
 This rule is the basis for:
 - Nuclear fission and fusion
 - Chemical reactions
+
+
+## Rule 4: State Continuity
+
+**Each identity remains as much as it can always in the same state. It is never changed except by external causes.**
+
+{{< i s="/graphics/physics/rule4.jpg" a="State" >}}
+
+This absorbs Newton's First Law of Classical Mechanics while making it consistent with Quantum Mechanics.
+
+This rule is the basis for:
+- Photons going continuously forward
+- Quantum superposition being predicatble by Cartesian Relativity 
+- Line spectra being emitted by electrons
+
+{{< dc t="Note" >}}
+This is in Part 2, Article 37 of Descartes' Principia Philosophia and Part 2, Proposition 14 of Spinoza's Principles of Cartesian Philosophy
+{{< /dc >}}
+
+
 
 
 ## Newton's Laws Versus Descartes' Rules

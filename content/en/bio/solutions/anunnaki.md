@@ -3,9 +3,10 @@ title: "The Anunnaki Error"
 heading: Don't Divert from Policy!
 weight: 16
 description: "The error of the Anunnaki in creating humans proves the need to stick to policy"
-image: "/photos/medieval/lapu.jpg"
+image: "/photos/medieval/anu.jpg"
 # icon: "/icons/descartes.png
 ---
+
 
 <!-- In Mayan history, Enlil is Tepeu and Enki is Gucumatz. 
 Enlil is the leader (God), Enki is the jealous usurper (snake). Accordingly, Gucumatz is a snake. 
@@ -32,6 +33,10 @@ This explains:
 Note that this excludes uncivilized humans such as savages. This has been explained as the early variations done by the Anunnaki.
 
 This creation was done through genetic engineering by mixing parts of the Anunnaki DNA with the Homo Erectus species that was already present on Earth. 
+
+
+{{< i s="/photos/medieval/anu.jpg" a="Anunnaki" >}}
+
 
 
 ### The Four Races

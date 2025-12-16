@@ -3,6 +3,7 @@ title: "The Crucifixion of Jesus According to Social Cycles"
 date: 2023-04-03
 a: "Jesus"
 c: "seagreen"
+image: /photos/medieval/jesus.jpg
 description: "Historical facts will reveal that the crucifixion of Jesus had little to do with spirituality, but everything to do with politics"
 writer:
   name: Juan
@@ -27,6 +28,9 @@ The Zealots were the militants (ksatriyas) who wanted to overthrow Roman rule th
 The Christians and Esseness were democrats (shudras) who advocated freedom. Notice how Jesus promoted forgiveness and overturned the Pharisees' eye-for-an-eye policy (Matthew 5:38-39) and the militant ways of the Zealots (Matthew 26:52). 
 
 Morever, Jesus preferred tactic for getting followers was by giving free food (Matthew 14:13-21) and healthcare (Luke 4:40).
+
+![Jesus](/photos/medieval/jesus.jpg)
+
 
 The Romans defeated all these factions in 70 AD. They destroyed the Temple, carrying the Sadducees gold into Rome. Out of the ashes of the collapse of the Jews arose a class of modern Sadducees as moneylenders and bankers which are dominant even today. Of all the factions, the tradition of the Sadducees survived. 
 

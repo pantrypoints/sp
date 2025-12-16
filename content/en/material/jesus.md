@@ -2,7 +2,7 @@
 title: "The Creation Story and the 5 Elements According to Jesus"
 date: 2022-08-03
 linkTitle: Jesus 5 Elements
-image: /graphics/physics/jesus.jpg
+image: /photos/medieval/jesus.jpg
 description: "The aether drag has always been in the measurements done by physicists on light"
 writer:
   name: Juan

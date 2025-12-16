@@ -3,7 +3,7 @@ heading: "Chapter 1"
 title: "What are Elementals?"
 date: 2024-03-14
 weight: 2
-image: "/photos/meta/fairy.jpg"
+image: "/photos/bio/fairy.jpg"
 description: "Paracelsus calls Elementals as spirit-beings that have human-like properties. "
 writer:
   name: Juan

@@ -3,7 +3,7 @@ heading: "Chapter 2d"
 title: "Distance and Second"
 # date: 2023-03-10
 weight: 7
-image: /graphics/physics/distance.jpg
+image: /photos/bio/horse.jpg
 description: "We make a distance convention that is universal"
 writer:
   name: Juan

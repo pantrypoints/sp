@@ -2,7 +2,7 @@
 title: "Council of Opposition to Preserve the Balance of Power"
 heading: "David Hume's Court of Competitors or Opposition Bloc"
 date: 2021-09-07
-image: "/photos/objects/regicide.jpg"
+image: /photos/medieval/hume.jpg
 description: "The Council of Opposition is David Hume's solution to prevent tyranny in a democratic government"
 writer:
   name: Juan

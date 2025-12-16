@@ -3,7 +3,7 @@ title: "Bacteria"
 heading: Chapter 3b
 date: 2020-01-27
 weight: 21
-image: /photos/med/leprosy.jpg
+image: /photos/bio/bacteria.jpg
 description: "Bacteria are living organisms"
 writer:
   name: Juan

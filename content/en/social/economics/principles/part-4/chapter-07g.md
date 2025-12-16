@@ -3,12 +3,14 @@ heading: "Chapter 7b"
 title: "Problems: Ponzi Scheme"
 # date: 2022-07-30
 weight: 31
-image: /photos/objects/money.jpg
+image: /photos/econ/ponzi.jpg
 description: "A Ponzi scheme is a type of investment scam that affects the Worker Class because of its attractive and easy appearances"
+icon: Juan
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
+
 
 
 A Ponzi scheme is a type of investment scam that affects the Worker Class because of its attractive and easy appearances. 
@@ -34,9 +36,11 @@ Collapse: When the flow of new investment slows down or when the operator abscon
 
 ### History of the Ponzi Scheme
 
-It is named after Charles Ponzi, an Italian-born swindler who became infamous for starting this scam in 1919 in the United States.
+The scam was named after Charles Ponzi, an Italian-born swindler who became infamous for starting this scam in 1919 in the United States.
 - He promised high returns at 50% profit in 45 days by arbitrage in international postal reply coupons.
 - He claimed that he could buy these coupons cheaply in one country and redeem them for a higher value in another country.
+
+![Ponzi](/photos/econ/ponzi.jpg)
 
 But Ponzi was really using money from new investors to pay the returns of earlier investors.
 

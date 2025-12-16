@@ -4,8 +4,8 @@ title: "The 10 Vayus or Animal Spirits"
 description: ""
 # date: "2020-10-15"
 date: 2024-07-08
-weight: 2
-image: "/graphics/bio/strata.jpg"
+weight: 13
+image: "/photos/bio/taichi.jpg"
 icon: "Bio Superphysics"
 ---
 
@@ -13,6 +13,8 @@ icon: "Bio Superphysics"
 Decartes' animal spirits match the vayus and chi in Hinduism and Taoism. 
 
 These facilitate forces internally and externally of the body.
+
+![Tai Chi]("/photos/bio/taichi.jpg")
 
 <!-- Internal Vayu | Jurisdiction | Function 
 --- | --- | --- 

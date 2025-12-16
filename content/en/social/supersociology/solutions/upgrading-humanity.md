@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Humanity"
 date: 2024-09-20
-image: "/photos/tech/mac.jpg"
+image: "/photos/meta/yoga.jpg"
 description: "The direction of Humanity should be towards the higher Elements"
 writer:
   name: Juan

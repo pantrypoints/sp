@@ -1,19 +1,19 @@
 ---
 heading: "Chapter 3"
 linkTitle: Media
-title: "The Media of Matter: States and Contact Forces"
+title: "The Media of Matter: Solid, Liquid, Gas"
 # date: 2023-12-10
 image: /photos/physics/sparks.jpg
 description: "The main media of the material layer are the contact forces that bind material molecules together as solid, liquid, gas"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 5
+weight: 9
 icon: "Juan"
 ---
 
 
-The main media of the material layer are the contact forces that bind or repel material molecules together as solid, liquid, gas, and Bose condensate.
+The main media of the material layer are the forces that facilitate the binding or repulsion of molecules as solid, liquid, gas, and Bose condensate.
 
 State of Matter | Intermolecular Force | Radiant Energy
 --- | --- | ---
@@ -23,11 +23,9 @@ Gas | Weak | Kinetic
 
 
 Unlike Newtonian Physics which believes that contact forces come from matter, Material Superphysics knows that they come from mos as the aetherspace. 
+- This aetherspace is opposed to spacetime.
 
- 
-
-<!-- This leads to the concepts of pressure such as air pressure and hydraulic pressure.  -->
-
+ <!-- This leads to the concepts of pressure such as air pressure and hydraulic pressure.  -->
 
 The material forces are:
 
@@ -37,7 +35,6 @@ Friction | Solid, Liquid, Gas |
 Air/Liquid Pressure and Resistance | Gas | 
 Surface Tension | Solid | 
 Contact Force | Solid, Liquid, Gas |
-
 
 
 ### Friction

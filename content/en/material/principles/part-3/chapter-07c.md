@@ -3,7 +3,7 @@ heading: "Chapter 7c"
 title: "Maxwell's Equations"
 # date: 2024-07-22
 weight: 29
-image: /photos/physics/elec.jpg
+image: /photos/physics/maxwell.jpg
 description: "Radiant Territories are the electromagentic fields of Physics."
 icon: /icons/spmat.pn
 writer:
@@ -18,6 +18,8 @@ Our medium-substance-quantum classification is a simpler version of the QED syst
 
 We can use Maxwell's Equations to notate these vortices as fluxes. 
 
+
+{{< i s="/photos/physics/maxwell.jpg" a="Maxwell's equations" >}}
 
 ### Equation 1
 

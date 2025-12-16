@@ -1,52 +1,20 @@
 ---
 heading: "Chapter 3b"
-linkTitle: Chapter 3b
-title: "Contact Forces"
+title: "Gases"
 # date: 2023-12-10
-image: /photos/physics/push.jpg
-description: "Cartesian contact forces come from space"
+image: /photos/physics/sparks.jpg
+description: "The main media of the material layer are the contact forces that bind material molecules together as solid, liquid, gas"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 6
+weight: 11
 icon: "Juan"
+draft: true
 ---
 
 
-Modern Physics is based on Newton and matter-ialism, making all forces come from material particles:
-- Electromagnetism comes from electrons
-- Gravity comes from mass
-- Contact forces come from matter
 
-This is why physicists keep on smashing atoms to look for those forces. 
+## Sonic Boom
 
-On the other hand, Material Superphysics is based on Cartesian Physics which is based on the aether.
+UFOs that go faster than sound yet do not create a sonic boom. Cartesian Physics explains that such UFOs insert themselves into the spacetime ahead of them like fish in the water, instead of crashing into the airmass and so no sonic boom. 
 
-All forces come from invisible space which is full of energy-particles called 2nd Element (space particles) and 1st Element (electromagnetic). This is roughly similar to quantum field theory. 
-
-Newton says that contact forces are transmitted through matter as proof of his 3rd Law, citing pendulums with balls to show how matter transfers energy via solidity.
-
-But Descartes says that contact force-energy mostly comes from the surrounding space. 
-
-This is similar to how a light bulb's energy comes from its surrounding space instead of the battery or wire. 
-
-A pendulum with cubes will move less than one with spheres because the cubes have less space particles around them. 
-
-{{< i s="/graphics/physics/contactforces.jpg" a="Contact" >}}
-
-
-Newtonians account for this by inventing the concept of friction, damping forces, coefficient of resitution, etc on the matter itself.
-
-But Cartesian Physics uses the single principle of energetic space particles not only to explain contact forces, but also states (solid, liquid, gas, bose condensate), gravity, dark matter, and dark energy. 
-
-This means that we do not fall through the floor, not because of the Pauli exclusion principle of electron repulsion, but because the space inside atoms (which are 99.99% empty space) repel the space in other atoms.
-
-
-{{< i s="/photos/physics/push.jpg" a="Contact" c="Pushing forces are from the Material Layer, not electromagnetic repulsion" >}}
-
-
-This means that it is possible to make matter go through other matter, called ghosting, by reversing the repulsion of atomic space. 
-
-Conversely, matter can be made inifnitely strong and impenetrable by coding their space particles to repel all others.   
-
-Replacing Netwonian with Cartesian Physics thus can allow so many new technologies

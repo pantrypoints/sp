@@ -3,7 +3,7 @@ heading: "Chapter 9c"
 title: "Spatial Relationality: Bacon Tables"
 date: 2024-12-19
 weight: 44
-image: /covers/bacon.jpg
+image: /photos/medieval/bacon.jpg
 description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
 icon: "Juan"
 writer:
@@ -55,6 +55,9 @@ Notice how this system is similar to quantum mechanics which assigns a probabili
 The list of experiences of the blind man in our example allowed him to know which square the lightning came from. 
 
 This is the same technique that spatial relationality will use in order to simplify the judgement of space. 
+
+![Bacon](/photos/medieval/bacon.jpg)
+
 
 These experiences form a table which plots the relevant data needed to judge the space or movement in question.
 

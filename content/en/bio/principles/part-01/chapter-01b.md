@@ -3,7 +3,7 @@ heading: "Chapter 1b"
 title: "Classifying Elementals"
 date: 2024-07-22
 weight: 4
-image: "/photos/physics/elec.jpg"
+image: "/photos/bio/elementals.jpg"
 description: "We classify elementals according to 3 kinds of physicality, with the least physical being subdivided into 7"
 writer:
   name: Juan
@@ -91,7 +91,7 @@ Aside from Paracelsus, our other references for this are PR Sarkar, Hindu, Buddh
 
 Indians do not call them “fairies” or “nymphs”. They have their own ancient names for the many varieties of these spirits and/or elementals - Devas, Maruts, Adityas, Rudras, Vasus, Asuras, Daityas, Danavas, Kalakeyas, Nivatakavachas, Panis, Ganas, Abhasvaras, Pramathas, Raumyas, Nagas, Uragas, Pannagas, Mahoragas, Apsaras, Gandharvas, Kinnaras, Vidyadharas, Charanas, Sadhyas, Kindevas, Yakshas, Guhyakas, Gramanis, Dakinis, Dakas, Rakshasas, Brahmarakshasas, Krodhavasas, Nairratas, Suparnas, Bhutas, Pretas, Pishachas, Vetalas, Darbas, Yatudhanis, Makaras, etc.
 
-{{< img src="/photos/meta/fairy.jpg" alt="" cap="Faeries are 'devatas' in Hinduism i.e. a fariy godmother is an entity that has super powers" >}}
+{{< img src="/photos/bio/fairy.jpg" alt="" cap="Faeries are 'devatas' in Hinduism i.e. a fariy godmother is an entity that has super powers" >}}
 
 
 <!-- We categorize the beings in our Elemental Zoo into Five just as the biological -->

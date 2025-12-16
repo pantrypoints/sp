@@ -3,7 +3,7 @@ title: "Viruses are in-between Life and Ideas"
 heading: Chapter 3
 date: 2020-01-27
 weight: 18
-image: /photos/med/dengue.jpg
+image: /photos/bio/virus.jpg
 description: "Viruses are merely bad idea-waves manifesting as RNA-particles"
 writer:
   name: Juan
@@ -14,7 +14,8 @@ icon: Juan
 
 Viruses are not living organisms, but are merely negative aethereal idea-waves, manifesting as RNA-particles or code. These "infect" the code or DNA of actual living organisms. <!-- This means that your soul is ultimately also an idea that 'infects' your body. -->
 
-![Covid sign](https://sorasystem.sirv.com/photos/covid.jpg)
+![Covid sign](/photos/bio/virus.jpg)
+
 
 They spread exponentially as long as there are susceptible hosts, just as rumors and fashion trends spread as long as there are minds that are susceptible to rumors and fashion trends. 
 

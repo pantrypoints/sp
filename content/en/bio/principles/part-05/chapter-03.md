@@ -5,7 +5,7 @@ linkTitle: "Five Paradigms"
 description: "Bio Superphysics uses 5 medical paradigms which are aligned with the 5 layers of Superphysics"
 date: 2020-01-25
 weight: 8
-image: "/photos/med/alzh.jpg"
+image: "/photos/bio/acu.jpg"
 tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
 icon: "Bio Superphysics"
 aliases:
@@ -54,6 +54,9 @@ Material | Earth | Western Medicine, Ayurveda (Kapha) | Knowledge of material an
 
 This began when the Europeans invented the microscope, leading them to see bacteria and organs and how they are affected by chemicals. And so they leaned towards drugs and pharmaceuticals that deal with those bacteria and organs directly and instantly. We assign it at the lowest and most obvious layer -- the Material layer. 
 
+![Hospital](/photos/bio/virus.jpg)
+
+
 ### 4. Naturopathy 
 
 This deals with natural herbs and substances to deal with diseases. We assign it a lever higher than the Material. 
@@ -65,6 +68,9 @@ This uses the principles of the three doshas as Vata, Kapha, and Pitta which rep
 ### 2. Chinese Medicine 
 
 This uses the principles of chi which is known as pranah or vayu to the Hindus. It has the concept of chi-gong which, like yoga, works directly on vital energy. Thus, we assign it to the spatial layer. Chinese Medicine checks the wave-nature of the disease through the pulse.
+
+![Acupuncture](/photos/bio/acu.jpg)
+
 
 ### 1. Homeopathy 
 

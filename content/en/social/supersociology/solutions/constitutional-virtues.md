@@ -2,7 +2,7 @@
 title: "Constitutional Virtues"
 description: "Constitutional Virtues are a list of democratically chosen virtues that a nation lives by as the foundation of its constitution and laws"
 date: 2019-02-20
-image: "/photos/objects/king.jpg"
+image: "/photos/social/lawmaker.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

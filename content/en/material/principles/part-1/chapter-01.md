@@ -2,7 +2,7 @@
 heading: "Chapter 1"
 title: "The Aethereal Layer"
 # date: 2020-01-31
-image: /photos/physics/pulsar.jpg
+image: "/graphics/meta/aether.jpg"
 description: "The aethereal layer is the higgs field in Physics and is the highest physical layer"
 writer:
   name: Juan
@@ -34,9 +34,22 @@ Quality | Most Subtle, Highest Control
 {{< i s="/graphics/physics/msq.svg" a="Monad" >}}
 
 
+
 ### Definition of the Aethereal Layer
 
-The aether of the 5 Layer Model (of Material Superphysics) is the substance of the physical and quasi-physical universe.
+The aether is the substance of ideas, feelings, and of the abstract mind or soul that has those ideas and feelings. 
+
+{{< i s="/graphics/meta/aether.jpg" a="Aether" >}}
+
+In Superphysics, the universe is an idea of the Supreme. Therefore:
+- particles and objects are Its Thoughts
+- forces are its Feelings
+
+These go into the Aethereal Layer in the 5 Layer Model of Material Superphysics. 
+
+So the aether is the substance of the physical and quasi-physical universe.
+
+
 
 Generally, within Material, Bio, and Spiritual Superphysics, the aether is the building block of ideas and feelings, and of the mind that has those ideas and feelings.
 

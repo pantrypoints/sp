@@ -2,6 +2,7 @@
 title: "Supereconomics FAQ"
 date: 2024-07-17
 c: "darkslategray"
+image: /graphics/econ.jpg
 description: "FAQ on Supereconomics"
 icon: "Supereconomics"
 weight: 200

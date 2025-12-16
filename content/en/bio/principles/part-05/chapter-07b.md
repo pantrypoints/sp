@@ -5,8 +5,8 @@ title: "Amok Syndrome"
 description: "Amok Syndrome manifests as mass-shootings in the West"
 # date: "2020-10-15"
 date: 2024-10-15
-weight: 20
-image: "/photos/psych/war.jpg"
+weight: 26
+image: "/photos/psych/schizo.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -25,6 +25,8 @@ We explain that it is caused by the nerves losing its ability to be controlled b
 The pineal gland has all the programmings for the human body, as a nexus or hub for all kinds of chi, from crude to subtle.
 
 These chi come from the 7 chakras which are the gateways between the physical and metaphysical domains from the perspective of the living wave-frequencies (i.e. waves that are not so negative and crude and physical).
+
+![Amok](/photos/psych/schizo.jpg)
 
 The choices of each person let either crude of subtle waves pass through into the body. 
 

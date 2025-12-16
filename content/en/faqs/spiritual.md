@@ -2,6 +2,7 @@
 title: "Spiritual Superphysics FAQ"
 date: 2024-07-08
 c: "darkslategray"
+image: /graphics/spirit.jpg
 description: "FAQ on Social Superphysics"
 icon: "Spiritual Superphysics"
 ---

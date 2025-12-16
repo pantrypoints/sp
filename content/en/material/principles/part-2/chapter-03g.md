@@ -3,7 +3,7 @@ heading: "Chapter 3g"
 title: "Surface Tension"
 date: 2023-12-11
 weight: 16
-image: /graphics/physics/droplet.jpg
+image: /photos/physics/blow.jpg
 description: "Galaxy Clustering from space particles"
 writer:
   name: Juan
@@ -16,12 +16,15 @@ icon: "Juan"
 
 The tendency of the mosts to travel in straight lines leads to the concept of surface tension which leads to the following phenomena:
 - round planets and stars
-- round water droplets
+- round water droplets and bubbles
 - certain geometries being able to float on water
 
 <!-- Cartesian Physics explains that the reason for round droplets and round planets and stars are the same: spacetime particles travel in straight lines.
 
 These invisible particles which Descartes called air-aether -->
+
+
+{{< i s="/photos/physics/blow.jpg" a="Bubbles" >}}
 
 
 These mosts permeate space and goes into everything. These surround everything even in the vacuum of outer space. 

@@ -5,6 +5,7 @@ weight: 100
 description: "Material Superphysics is based on the 5 Elements of Ancient Greece, India, and China"
 c: "steelblue"
 type: "featured"
+image: /photos/econ/writer.jpg
 # # date: 2020-10-31
 ---
 

@@ -3,7 +3,7 @@ heading: Chapter 5
 title: "The Legislative Branch"
 date: 2024-11-21
 weight: 12
-image: "/photos/objects/gavel.jpg"
+image: "/photos/social/lawmaker.jpg"
 description: "The Legislative Branch Represents the Workers"
 writer:
   name: Juan

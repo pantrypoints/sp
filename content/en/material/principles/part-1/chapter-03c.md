@@ -3,7 +3,7 @@ heading: "Chapter 3c"
 title: "Densities and Dimensions"
 # # date: 2020-01-31
 date: 2024-12-09
-image: "/graphics/physics/vortices.jpg"
+image: "/photos/meta/ghost.jpg"
 description: "Densities are the variations of wavelengths in Identity Space"
 writer:
   name: Juan

@@ -5,7 +5,7 @@ title: "The Media of Radiance: Light, Magnetism, Heat"
 # # date: 2020-01-31
 # date: 2023-03-01
 weight: 6
-image: /photos/physics/whitehole.jpg
+image: /photos/objects/magnet.jpg
 description: "The Medium of Radiance facilitates the dynamics of the radiant layer"
 icon: "Juan"
 ---
@@ -99,6 +99,7 @@ Magnetism is facilitated by virtual photons as force carrier. Like, photons, the
 
 Unlike photons, they do not reflect so easily as they are 3-dimensional and have more force to push against matter.
 
+![Magnet](/photos/objects/magnet.jpg)
 
 <!-- In Cartesian-Spinoza Physics, photons differ from electrons since they are shaped by Nature as lines, whereas electrons are shaped as spheres. 
 

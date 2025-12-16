@@ -8,7 +8,7 @@ icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 51
+weight: 71
 draft: true
 ---
 

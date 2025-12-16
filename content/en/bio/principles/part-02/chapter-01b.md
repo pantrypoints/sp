@@ -3,7 +3,7 @@ title: "Carbohydrates and Sugars"
 heading: Chapter 1b
 date: 2024-11-20
 weight: 4
-image: /photos/objects/potatoes.jpg
+image: /photos/objects/cake.jpg
 description: "Carbon allows the positive force"
 writer:
   name: Juan

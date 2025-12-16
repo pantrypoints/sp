@@ -2,7 +2,7 @@
 title: "Peter Versus Mary (and Judas)"
 heading: "Negative Versus Positive"
 date: 2024-01-15
-image: "/photos/medieval/rome.jpg"
+image: "/photos/medieval/mary.jpg"
 description: "This schism between Peter and Mary is noted in the Gospel of Mary"
 writer:
   name: Juan
@@ -33,6 +33,8 @@ Pilate then had no choice but to punish Jesus as a law-breaker and rebel.
 The decline of Peter's leadership is evident with him denying being a disciple after Jesus was captured. This shifted the leadership to Mary Magdalene who was the wife of Jesus. This is proven by Mary being at the crucifixion and being the first person that the 'resurrected' Jesus appears to (John 20:16).
 
 This schism between Peter and Mary is noted in the Gospel of Mary. 
+
+![Mary](/photos/medieval/mary.jpg)
 
 The negativity of the male disciples is seen in many verses where Peter refuses Jesus, Peter falls in water, Thomas doubts the 'resurrection', etc.
 

@@ -1,7 +1,7 @@
 ---
 title: "Drone Sightings and Cartesian Physics"
 date: 2024-12-11
-image: /graphics/physics/drone.jpg
+image: /photos/objects/lights.jpg
 description: "Since November 2024, there have been numerous drone sightings in New York & New Jersey"
 writer:
   name: Juan
