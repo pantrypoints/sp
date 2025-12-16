@@ -3,7 +3,7 @@ title: "The Collective Wave of Human Desire"
 heading: Chapter 1
 # linkTitle: Chapter 1
 date: 2015-09-09
-image: "/graphics/econ/oil.jpg"
+image: /photos/meta/heart.jpg
 description: "The Collective Wave of Human Desire explains how cycles maninfest in Economics"
 writer:
   name: Juan

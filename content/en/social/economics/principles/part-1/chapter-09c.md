@@ -3,7 +3,7 @@ heading: "Chapter 9b"
 title: "Universal Basic Income and Microfinance are Wrong"
 date: 2017-04-26
 weight: 98
-image: /graphics/econ/profit.jpg
+image: /photos/econ/ubi.jpg
 description: "Universal Basic Income and Microfinance both create more problems than they solve"
 writer:
   name: Juan

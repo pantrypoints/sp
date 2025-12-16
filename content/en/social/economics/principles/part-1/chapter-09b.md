@@ -3,12 +3,13 @@ heading: "Chapter 9b"
 title: "Violations of the 1st Law: Gambling"
 date: 2024-11-20
 weight: 98
-image: /graphics/econ/profit.jpg
+image: /photos/econ/gamble.jpg
 description: "Historically, commerce involved both barter and money exchanges"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay
 ---
+
 
 
 The lack of self-control of a mind in assigning nominal value leads to a gambling tendency.
@@ -41,7 +42,7 @@ But unlike sporting events, gambling only has entertainment value. Some types of
 
 But this is rarely the case. 
 
-{{< i s="/graphics/econ/profit.jpg" a="Evil Greed" >}}
+{{< i s="/photos/econ/gamble.jpg" a="Gamble" >}}
 
 
 Most of the time, it is just pure ego, as risk-taking, that drives gambling. Some cases are even sourced from desperation. Such cases can be fatal and is the main discouragement of gambling to the point that it was banned by Islam. 

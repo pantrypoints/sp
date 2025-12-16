@@ -182,7 +182,7 @@ proofs:
   - url: "https://www.ox.ac.uk/news/2016-10-11-first-our-three-billion-heartbeats-sooner-we-thought"
     cat: "Bio Superphysics"
     color: "deeppink"
-    img: "/photos/psych/heart.jpg"
+    img: "/photos/bio/heart.jpg"
     title: "Heart Beats as soon as formed"
     sub: "Descartes said that the heart beats from the flow of animal spirits (chi) from the heart. This was just recently proven by the British Heart Foundation"
   - url: "/bio/solutions/sound-agriculture"
@@ -253,7 +253,7 @@ proofs:
     
   - title : "Superphysics: True Love"
     url : "https://www.youtube.com/watch?v:5alMsLDgc00"
-    img : "/photos/psych/heart.jpg"
+    img : "/photos/bio/heart.jpg"
     sub : "One of our members used aethereal techniques to find true love (2017)"
     cat: "Superphysics"
     color: "darkblue"

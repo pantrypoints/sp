@@ -2,8 +2,9 @@
 title: "Karl Marx vs Adam Smith"
 heading: "Opposing Labor Theories of Value"
 date: 2015-04-29
-a: "Karl Marx"
-c: "firebrick"
+# a: "Karl Marx"
+# c: "firebrick"
+image: /photos/medieval/marx.jpg
 description : "The ideas of Karl Marx are opposite that of Adam Smith despite both aiming for the good of society"
 writer:
   name: Juan

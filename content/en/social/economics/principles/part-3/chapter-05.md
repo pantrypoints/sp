@@ -3,7 +3,7 @@ heading: "Chapter 5"
 title: "The Resources Branch of Government"
 weight: 26
 date: 2022-01-07
-image: /photos/objects/gavel.jpg
+image: /photos/econ/pool.jpg
 description: "We propose a Fourth Branch of Government called the Resources branch to make procurement and audit more systematic"
 writer:
   name: Juan
@@ -33,6 +33,9 @@ This is why, although there might be legal justice, there is little avenue for p
 To complete the proper system of government, Supereconomics proposes a Resource branch to be the fourth independent branch of government. 
 
 This will mimic the role of a housewife in budgeting the family's expenses and in noting down the needs and condition of each child, which represents each citizen or group of citizens. 
+
+{{< i s="/photos/econ/pool.jpg" a="Logistics" >}}
+
 
 At the moment, such responsibilities are done by the Audit and Budget department or Treasuries of governments. These are usually as a separate statutory body or constitutional commission, which merely acts as an appendage instead of being an equal to the three branches.
 

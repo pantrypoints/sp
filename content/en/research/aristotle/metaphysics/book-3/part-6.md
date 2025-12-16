@@ -11,20 +11,72 @@ icon: "Aristotle"
 ---
 
 
+Why do we need to seek other things besides the sensible things and the intermediate things, such as Forms?
 
-But, altogether, one might raise the difficulty as to why one needs to seek other things besides the sensible things and the intermediate things, such as those we posit as Forms. 
+Some say we must seek them because the mathematical objects [numbers] are different [from abstract qualitative objects].
 
-For if [we must seek them] because the mathematical [15] objects differ from those here in some other respect, but in respect of there being many like individuals they do not differ at all, then their principles will not be numerically definite (just as the principles of the letters here are not numerically definite for all, but definite in form, unless one takes this particular syllable [20] or this particular sound: and of these they will also be numerically definite—and similarly also in the case of the intermediate things: for the like individuals are infinite there too). Therefore, if there are no other things besides the sensible and the mathematical objects, such as some say the Forms are, there will not be one substance numerically but in kind, nor will the principles of [25] existing things be some number numerically, but in kind.
+ <!-- from those here in some other respect, but in respect of there being  -->
 
-If, then, this is necessary, it is also necessary for this reason to posit that the Forms exist. For even if those who speak do not articulate well, at least this is what they want, and it is necessary for them to say these things: that each of the Forms is a certain substance and nothing by accident. [30]
+But the mathematical objects [numbers] do not differ at all in some cases when there are many like individuals [of the same type or quality]. 
 
-But if we are to posit that the Forms exist and that the principles are one numerically but not in kind, we have stated the impossible consequences that must follow.
+In this case, the principles behind mathematical objects [numbers] will not be numerically definite.
 
-Close to these is the difficulty as to whether the elements exist potentially or in some other way. For if in some other way, something else will be prior to the principles (prior [35] to...)
+{{< n n="For example, 0 1 2 3 4 5 6 7 8 9 are definite quantum objects which are definite in form (essence) and number. This is different when concatenated as 12 25 or 33" >}}
 
+This is similar to the principles of the letters which here are not numerically definite for all, but definite only in form. This is unless one takes this particular syllable or sound.
 
-[1003a1] for the power of that cause [the mover] is one, but what is potential is not necessarily all like that. But if the elements exist potentially, it is possible that none of the things that exist should be: for it is possible for what is not yet to be; for what is not comes into being, and nothing [5] comes into being of those things whose being is impossible.
+And then they will also be numerically definite.
 
-It is necessary, then, to raise these difficulties about the principles, and whether they are universal or as we say particular. For if they are universal, they will not be substances (for none of the common terms signifies a 'this something' but a 'such-like', but substance [10] is a 'this something': and if we are to posit that which is predicated in common is a 'this something' and one, Socrates will be many animals, both himself and Man and Animal, if each signifies a 'this something' and one).
+{{< n n="For example, a e i o u are definite quantum objects which are definite in form (essence) and number (as one sound each).  " >}}
 
-If, then, the principles are universal, these consequences follow: but if they are not universal, but as particulars, they will not be knowable (for knowledge is [15] universal for all things), so that there will be other principles prior to the principles—those that are predicated universally—if there is to be knowledge of them.
+Similarly, this applies to the intermediate things since the like individuals are infinite there too.
+
+Beyond the sensible and the mathematical objects, there are only the Forms.
+
+If so, then:
+- there will one substance in kind, but not numerically one. 
+- the principles of existing things will not be some number numerically, but in kind.*
+
+{{< n n="The Forms are abstract and are not discrete. This is beause discreteness starts at the spatial layer. This is the basis of our Qualimath" >}}
+
+<!-- If, then, this is necessary, it is also necessary for this reason to posit that the Forms exist. For even if those who speak do not articulate well, at least this is what they want, and it is necessary for them to say these things: that each of the Forms is a certain substance and nothing by accident. [30] -->
+
+But impossible consequences follow if:
+- the Forms exist
+- the principles are one numerically but not in kind
+
+One such consequence is the difficulty as to whether the elements exist potentially or in some other way.
+
+If they exist in some other way, something else will be prior to the principles (prior [35] to...).
+
+[1003a1] This is because the power of that cause [the mover] is one.
+- But what is potential is not necessarily all like that.
+
+But if the elements exist potentially, it is possible that:
+- none of the things that exist [physically] exist [metaphysically]
+- what is not yet existing [physically] to exist [metaphysically]
+
+This is because what does not exist [in physicality] comes into existence [in metaphysicality]. 
+
+Thus, being [metaphysical existence] and nothing [nonphysical existence] comes into being [existence] of those things whose being [physical existence] is impossible.
+
+<!-- It is necessary, then, to raise these difficulties about the principles. -->
+
+If so are the principles universal or particular?
+
+If they are universal, then the principles will not be substances since none of the common words signify a 'this something' but a 'such-like'.
+
+But substance is a 'this something'.*
+
+{{< n n="The Hindus call the subsance as Brahma or the 'totality'" >}}
+
+If that which is predicated in common is a 'this something' and one, then Socrates will be many animals, both himself and Man and Animal, if each signifies a 'this something' and one).
+
+{{< n n="Yes, the Brahma or Substance manifests as both human and animals and rock and everything that is existing" >}}
+
+If the principles are particulars, they will not be knowable.
+
+This is because knowledge is universal for all things).
+
+This means that there will be other principles prior to the principles—those that are predicated universally—if there is to be knowledge of them.
+

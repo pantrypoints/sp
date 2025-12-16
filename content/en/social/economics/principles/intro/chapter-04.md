@@ -3,7 +3,7 @@ heading: "Chapter 4"
 linkTitle: Chapter 4
 title: "Use Value"
 # date: 2022-03-26
-image: /graphics/econ/minimumrequirements.jpg
+image: /photos/social/pantry.jpg
 weight: 12
 description: "We replace Marginal Utility with Minimum Needs since use-value is subjective "
 writer:
@@ -81,7 +81,10 @@ Minimum needs are based on use value. This makes it easier to assess just as per
 All you need is the census of the population. From there, you can assess the minimum resources needed by that population. 
 
 Providing those resources, however, is a different issue as it requires logistics and planning. This is the job of the economic system. 
- 
+
+
+{{< i s="/photos/social/pantry.jpg" a="Free Food" >}}
+
 
 <!-- This value is called **use-value** or  in Economics. Superphysics allows sentimental value, but since the mechanism to objectively compare sentiments is not yet established*, we shall stick to use-value. 
 

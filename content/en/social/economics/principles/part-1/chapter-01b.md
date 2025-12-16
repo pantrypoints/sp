@@ -4,7 +4,8 @@ linkTitle: Chapter 1b
 title: "Fellow Economic Feeling or Common Economic Interest"
 weight: 7
 date: 2025-08-06
-image: /photos/meta/buddhism.jpg
+image: /photos/meta/heart.jpg
+# image: /photos/meta/buddhism.jpg
 description: ""
 writer:
   name: Juan

@@ -4,7 +4,7 @@ linkTitle: Chapter 3
 title: "The Force of Capital: Opportunity Cost"
 weight: 16
 date: 2023-11-03
-image: /photos/objects/gold.jpg
+image: /photos/social/leader.jpg
 description: "The Force of Capital pushes us to use our capital or value-producing assets."
 writer:
   name: Juan
@@ -20,7 +20,7 @@ This same passion pushes us to use our capital or skills, abilities, and  assets
 In Economics, this manifests as the opportunity cost which is defined as the potential forgone profit from a missed opportunity.
 
 
-{{< i s="/photos/meta/god.jpg" a="Opportunity" >}}
+{{< i s="/photos/social/leader.jpg" a="Executive" c="Executives don't waste time" >}}
 
 
 It necessarily leads to the concept of the time value of money which says that a sum of money is worth more now than the same sum will be at a future date, due to its earnings potential in the interim.

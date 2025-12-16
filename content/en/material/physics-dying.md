@@ -1,10 +1,11 @@
 ---
 title: "Why Physics is Dying"
 date: 2024-10-06
-image: /photos/objects/regicide.jpg
+image: /photos/physics/einstein.jpg
 description: "The Death of Physics is caused by Einstein"
 icon: "Material Superphysics"
 ---
+
 
 
 Sabine recenlty posted a video where she rants about the death of Physics.
@@ -44,6 +45,8 @@ On the other hand:
 ## The Root Cause: Relativity
 
 All these failures pf Physics have one thing in common: **they are rooted in Einstein's Special and General Relativity** which introduced the biggest fallacy that Electromagnetism is the supreme Element or Force in Nature.
+
+{{< i s="/photos/physics/einstein.jpg" a="Einstein burning" >}}
 
 This subtle fallacy then leads to the less subtle fallacy called the "Simultaneity of Time"*. 
 

@@ -1,5 +1,5 @@
 ---
-title: "Hesiod Parmenides"
+title: "Hesiod and Parmenides"
 heading: "Part 4"
 weight: 8
 c: "indigo"

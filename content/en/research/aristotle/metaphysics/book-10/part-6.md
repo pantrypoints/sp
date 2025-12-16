@@ -3,7 +3,7 @@ heading: "Part 6"
 title: "Few Versus Many"
 weight: 12
 c: "indigo"
-description: "One thing has one contrary. How is one opposed to the many? How is equal opposed to the big and the small?"
+description: "If the many are absolutely opposed to the one, certain impossible results follow. "
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -32,7 +32,7 @@ In this sense, even two is many-not, however, in the sense of a plurality which 
 
 But without qualification two is few; for it is first plurality which is deficient (for this reason Anaxagoras was not right in leaving the subject with the statement that 'all things were together, boundless both in plurality and in smallness'-where for 'and in smallness' he should have said 'and in fewness'; for they could not have been boundless in fewness), since it is not one, as some say, but two, that make a few.
 
-"The one is opposed then to the many in numbers as measure to thing measurable; and these are opposed as are the relatives which are not from their very nature relatives. We have distinguished elsewhere the two senses in which relatives are so called:
+The one is opposed then to the many in numbers as measure to thing measurable; and these are opposed as are the relatives which are not from their very nature relatives. We have distinguished elsewhere the two senses in which relatives are so called:
 
 1. As contraries
 2. As knowledge to thing known, a term being called relative because another is relative to it. 

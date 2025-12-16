@@ -4,7 +4,7 @@ linkTitle: Chapter 4
 title: "The Time Value of Life"
 date: 2025-08-10
 weight: 40
-image: /graphics/econ/absolute.png
+image: /photos/objects/time.jpg
 description: "Effective Demand is the actual demand of the people who are willing to pay for products or services"
 writer:
   name: Juan

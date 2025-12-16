@@ -3,7 +3,8 @@ heading: "Chapter 8b"
 title: "Ecommerce and XCommerce: Last Mile"
 date: 2024-11-20
 weight: 84
-image: /graphics/econ/ui.jpg
+image: /photos/econ/rider.jpg
+# image: /graphics/econ/ui.jpg
 description: "Historically, commerce involved both barter and money exchanges"
 writer:
   name: Juan
@@ -36,11 +37,10 @@ In time, money, as coins, replaced the barter system and the word "commerce" cam
 Supereconomics goes with the historical definition of commerce that allows both money and barter transactions. 
  -->
 
-Commerce involves 
+<!-- Commerce involves  -->
 
 
-
-
+{{< i s="/photos/econ/rider.jp" a="Rider" >}}
 
 
 

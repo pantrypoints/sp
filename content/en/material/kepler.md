@@ -1,8 +1,9 @@
 ---
 title: "Keplers's 450th Birthday"
 date: 2021-01-03
-a: "Kepler"
-c: "darkgoldenrod"
+# a: "Kepler"
+# c: "darkgoldenrod"
+image: /photos/physics/kepler.jpg
 description: "Last December 27, I came up with a draft theory of gravitational relativity derived entirely from Kepler's laws"
 writer:
   name: Juan

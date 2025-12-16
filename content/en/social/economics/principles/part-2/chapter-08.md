@@ -4,7 +4,7 @@ title: "Industry"
 # date: 2022-03-27
 date: 2022-01-15
 weight: 28
-image: /photos/tech/rbe.jpg
+image: /photos/econ/mine.jpg
 description: "In Book 2, Chapter 5 of the Wealth of Nations, Adam Smith explained the four industries for goods, as the four employments of capitals"
 writer:
   name: Juan
@@ -24,17 +24,26 @@ In Book 2, Chapter 5 of the Wealth of Nations, Adam Smith explained the four ind
 
 This includes agricultural, mining, and fishing. 
 
+{{< i s="/photos/econ/mine.jpg" a="Miner" >}}
+
 ## 2. Processing
 
 This includes manufacturing 
+
+{{< i s="/photos/econ/worker.jpg" a="Miner" >}}
 
 ## 3. Wholesale 
 
 This includes warehousing and logistics. Ecommerce allows consumers to buy good directly from the warehouse or supplier.
 
+{{< i s="/photos/econ/pool.jpg" a="Logistics" >}}
+
+
 ## 4. Retail
 
 This includes packaging and buying at the point of sale 
+
+{{< i s="/photos/econ/store.jpg" a="Store" >}}
 
 
 According to Adam Smith, extractive and processing are the better foundations of wealth than foreign trade. This is proven by ancient Egypt, China, and India.

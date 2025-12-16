@@ -1,10 +1,10 @@
 ---
 heading: "Part 2b"
-title: "Questions 4 to 5"
+title: "Does our investigation deal with substances alone or also with their attributes? "
 weight: 6
 
 c: "indigo"
-description: "Should the sciences investigate all the kinds of causes?"
+description: "Do sensible substances alone exist, or are there others besides these? "
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -13,18 +13,20 @@ icon: "Aristotle"
 
 
 
-> 5. Does our investigation deal with substances alone or also with their attributes? 
+## 5. Does our investigation deal with substances alone or also with their attributes? 
 
 If the solid is a substance and so are lines and planes, is it the business of the same science to know these and to know the attributes of each of these classes (the attributes about which the mathematical sciences offer proofs), or of a different science? If of the same, the science of substance also must be a demonstrative science, but it is thought that there is no demonstration of the essence of things.
 
 If of another, what will be the science that investigates the attributes of substance? This is a very difficult question.
 
 
-> 4. Further, must we say that sensible substances alone exist, or that there are others besides these? 
+## 4. Do sensible substances alone exist, or are there others besides these? 
 
 Are substances of one kind or are there in fact several kinds of substances, as those say who assert the existence both of the Forms and of the intermediates, with which they say the mathematical sciences deal?
 
-The sense in which we say the Forms are both causes and self-dependent substances has been explained in our first remarks about them; while the theory presents difficulties in many ways, the most paradoxical thing of all is the statement that there are certain things besides those in the material universe, and that these are the same as sensible things except that they are eternal while the latter are perishable. For they say there is a man-himself and a horse-itself and health-itself, with no further qualification,-a procedure like that of the people who said there are gods, but in human form. For they were positing nothing but eternal men, nor are the Platonists making the Forms anything other than eternal sensible things.
+The sense in which we say the Forms are both causes and self-dependent substances has been explained in our first remarks about them; while the theory presents difficulties in many ways, the most paradoxical thing of all is the statement that there are certain things besides those in the material universe, and that these are the same as sensible things except that they are eternal while the latter are perishable. 
+
+For they say there is a man-himself and a horse-itself and health-itself, with no further qualification,-a procedure like that of the people who said there are gods, but in human form. For they were positing nothing but eternal men, nor are the Platonists making the Forms anything other than eternal sensible things.
 
 If we are to posit besides the Forms and the sensibles the intermediates between them, we shall have many difficulties. 
 
@@ -45,4 +47,3 @@ For neither are perceptible lines such lines as the geometer speaks of (for no p
 It is not reasonable that this should be so only in the case of these intermediates, but clearly the Forms also might be in the perceptible things; for both statements are parts of the same theory. Further, it follows from this theory that there are two solids in the same place, and that the intermediates are not immovable, since they are in the moving perceptible things. And in general to what purpose would one suppose them to exist indeed, but to exist in perceptible things? 
 
 For the same paradoxical results will follow which we have already mentioned; there will be a heaven besides the heaven, only it will be not apart but in the same place; which is still more impossible.
-

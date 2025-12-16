@@ -3,8 +3,9 @@ title: "Why Quantitative Easing Failed"
 heading: "The Profit Motive Hijacked It"
 # Keynes Liquidity Preference Mistake and Our Alternative GR Model"
 date: 2020-09-24
-a: "John Maynard Keynes"
-c: "firebrick"
+image: /photos/econ/keynes.jpg
+# a: "John Maynard Keynes"
+# c: "firebrick"
 description: "QE failed because profit maximization prevents money from going to not-so-profitable activities and employment even if it would energize the economy"
 writer:
   name: Juan

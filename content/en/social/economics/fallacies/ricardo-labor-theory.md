@@ -2,8 +2,9 @@
 title: "Ricardo's Labor Theory of Value"
 heading: "Chapter 1: On Value, Section 1"
 date: 2017-08-13
-c: "firebrick"
-a: "David Ricardo"
+# c: "firebrick"
+# a: "David Ricardo"
+image: /photos/econ/ricardo.jpg
 description : "We expose the differences between Ricardo's Labor Theory of Value which is based on money-wages and Smith's which is based on grains"
 writer:
   name: Juan

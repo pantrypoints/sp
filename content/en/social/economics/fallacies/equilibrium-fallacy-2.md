@@ -5,7 +5,7 @@ description: We combine both curves to come up with a Supply and Demand model
 # date: 2015-08-21
 # date: 2021-10-14
 date: 2022-01-06
-image: "/photos/grains.jpg"
+image: "/graphics/econ/wrong.png"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

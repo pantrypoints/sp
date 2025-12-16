@@ -1,9 +1,9 @@
 ---
 heading: "Part 2"
-title: "Questions 1 to 3"
+title: "Should the sciences investigate all the kinds of causes? "
 weight: 4
 c: "indigo"
-description: "Should the sciences investigate all the kinds of causes?"
+description: "How could it belong to one science to recognize the principles if these are not contrary?"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

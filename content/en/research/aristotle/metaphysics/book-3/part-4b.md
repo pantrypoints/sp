@@ -1,19 +1,21 @@
 ---
 heading: "Part 4b"
-title: "Question 11: Are being and unity the substances of things?"
+title: "Are being and unity the substances of things?"
 weight: 12
 
 c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-description: "Is it the genera that should be taken as elements and principles, or rather the primary constituents of a thing?"
+description: "This is the hardest and most necessary inquiry for knowledge of the truth."
 icon: "Aristotle"
 ---
 
 
 
-## 11. The hardest and most necessary inquiry for knowledge of the truth is whether being and unity are the substances of things
+## 11. Are being and unity the substances of things?
+
+This is the hardest and most necessary inquiry for knowledge of the truth.
 
 Is each of them, without being anything else, is being or unity respectively? 
 

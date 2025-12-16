@@ -4,7 +4,7 @@ title: "Investment and Commercial Banking"
 # date: 2022-03-27
 date: 2022-01-15
 weight: 28
-image: /photos/objects/gold.jpg
+image: /photos/social/handshake.jpg
 description: "Investment Banking"
 writer:
   name: Juan
@@ -26,3 +26,5 @@ In the economic system:
 - fixed capital is usually addressed by investment banking and venture capitalists through investments
 - circulating capital is usually addressed by commercial banking through loans
 
+
+{{< i s="/photos/social/handshake.jpg" a="Handshake" >}}

@@ -1,7 +1,7 @@
 ---
 title: "Socio-economic Suggestions for the Tasmanian Economy"
 date: 2014-07-23
-image: "/photos/objects/money.jpg"
+image: "/photos/econ/mine.jpg"
 description : "Economics uses money both as a store of value and tool of trade. Superphysics uses three tools--money, points, and barter"
 writer:
   name: Juan
@@ -14,8 +14,8 @@ A few days ago, ABC reported that the [Tasmanian economy was showing signs of re
 - 'State final demand' has risen to 2.3% compared to 1.3% for the national average
 - Unemployment was down 0.2% compared to a 0.1% increase in the mainland
 
-![Woodchips](http://socioecons.files.wordpress.com/2014/07/woodchips.jpg)
-
+![Woodchips](/photos/econ/mine.jpg)
+<!-- http://socioecons.files.wordpress.com/2014/07/woodchips.jpg -->
 
 ## Tasmania's Economic Decline
 

@@ -2,7 +2,7 @@
 heading: Part 2
 title: "Smith’s Labor Theory of Value versus The Equilibrium of the Monetary Dogma"
 date: 2013-11-18
-image: /covers/smith.jpg
+image: /photos/econ/smith.jpg
 description : "The Circular Flow of Economics emphasizes Businesses. That of Superphysics emphasizes balance and the natural price"
 writer:
   name: Juan

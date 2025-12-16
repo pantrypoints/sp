@@ -2,7 +2,7 @@
 title: "Alternatives to Money as Store of Value"
 heading: "Grain-based Valuation"
 date: 2019-10-17
-image: "/photos/objects/money.jpg"
+image: "/photos/grains.jpg"
 description : "Economics uses money both as a store of value and tool of trade. Supereconomics uses three tools--money, points, and barter"
 writer:
   name: Lam

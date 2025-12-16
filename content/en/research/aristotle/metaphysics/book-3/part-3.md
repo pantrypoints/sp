@@ -1,10 +1,9 @@
 ---
 heading: "Part 3"
-title: "Question 6: Is the Genera the basis of principles?"
+title: "Should the genera be taken as elements and principles?"
 weight: 8
-
 c: "indigo"
-description: "Is it the genera that should be taken as elements and principles, or rather the primary constituents of a thing?"
+description: "If the genera are principles, is the first of the genera a principle"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -13,7 +12,7 @@ icon: "Aristotle"
 
 
 
-## 6. Is it the genera that should be taken as elements and principles, or rather the primary constituents of a thing?
+## 6. Should the genera be taken as elements and principles, or rather as the primary constituents of a thing?
 
 e.g. it is the primary parts of which articulate sounds consist that are thought to be elements and principles of articulate sound, not the common genus-articulate sound; and we give the name of 'elements' to those geometrical propositions, the proofs of which are implied in the proofs of the others, either of all or of most. 
 
@@ -24,7 +23,8 @@ Further, both those who say there are several elements of corporeal things and t
 "But, again, it is not possible to describe the principles in both ways. For the formula of the essence is one; but definition by genera will be different from that which states the constituent parts of a thing.
 
 
-## 7. Even if the genera are in the highest degree principles, should one regard the first of the genera as principles, or those which are predicated directly of the individuals? 
+ <!-- in the highest degree -->
+## 7. If the genera are principles, is the first of the genera a principle, or those which are predicated directly of the individuals? 
 
 This also admits of dispute. For if the universals are always more of the nature of principles, evidently the uppermost of the genera are the principles; for these are predicated of all things. 
 

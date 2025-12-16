@@ -1,9 +1,9 @@
 ---
-title: "Plato's Philosophy"
+title: "What is Essence?"
 heading: "Part 7"
 weight: 14
 c: "indigo"
-description: "Aristotle gives maximum importance to the sight over the other senses"
+description: "None of the early philosophers who speak about 'principle' and 'cause' mentioned any principle except those which have been distinguished in our work on nature. "
 icon: "Aristotle"
 writer:
   name: Aristotle 

@@ -1,7 +1,7 @@
 ---
 title: "Descartes and the Photo-Electric Effect and Double Slit Experiment"
 linkTitle: "Photo-Electric Effect"
-image: /graphics/physics/lightprops.jpg
+image: /photos/physics/light.jpg
 description: "Descartes explained the properties of light that matches the Photo-Electric Effect and Double Slit Experiment"
 date: "2020-01-01"
 writer:

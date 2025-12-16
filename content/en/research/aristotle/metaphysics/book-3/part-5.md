@@ -1,19 +1,18 @@
 ---
 heading: "Part 5"
-title: "Do forms exist?"
+title: "Are numbers, bodies, planes, and points substances?"
 weight: 14
-
 c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-description: "Are numbers, bodies, planes, and points substances?"
+description: "Modifications, movements, relations, dispositions, and ratios do not indicate the substance of anything. All are predicated of a subject, and none is a 'this'."
 icon: "Aristotle"
 ---
 
 
 
-14. Are numbers, bodies, planes, and points substances? 
+## 14. Are numbers, bodies, planes, and points substances? 
 
 If they are not, then what is being and what are the substances of things? 
 

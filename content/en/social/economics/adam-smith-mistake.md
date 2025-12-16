@@ -3,8 +3,9 @@ title: "Adam Smith's Mistakes in the Wealth of Nations"
 heading: "Trusting the Merchants too much"
 linkTitle: Smith's Mistakes
 date: 2015-01-01
-a: "Adam Smith"
-c: "firebrick"
+image: /photos/econ/smith.jpg
+# a: "Adam Smith"
+# c: "firebrick"
 description : "Adam Smith suggested some policies in the Wealth of Nations which produced bad effects"
 writer:
   name: Juan

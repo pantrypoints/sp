@@ -5,13 +5,14 @@ linkTitle: Liberalism
 # date: 2015-07-24
 date: 2025-01-02
 weight: 72
-image: /covers/rand.jpg
+image: /photos/econ/rand.jpg
 description: "These are the effects of Capitalism"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+icon: "Juan"
 ---
+
 
 
 Traders get revenue from circulating goods and services of which they get a cut from each transaction. 

@@ -3,7 +3,7 @@
 heading: Part 8
 title: "Small capitalized companies are better than giant corporations"
 date: 2013-11-18
-image: /covers/smith.jpg
+image: /photos/econ/smith.jpg
 description : "The Circular Flow of Economics emphasizes Businesses. That of Superphysics emphasizes balance and the natural price"
 writer:
   name: Juan
@@ -12,7 +12,6 @@ icon: "Supereconomics"
 weight: 16
 toc: false
 ---
-
 
 
 

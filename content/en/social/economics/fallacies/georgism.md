@@ -1,8 +1,8 @@
 ---
 title: "The Fallacy of Georgism"
 description: Did you know equlibrium is a mercantilist fallacy that was denounced by philosophers in the 18th century?
-date: 2022-01-06
-image: "/photos/grains.jpg"
+date: 2022-01-10
+image: "/photos/psych/fail.jpg"
 # heading: "How Economics Leads to Crises"
 writer:
   name: Juan

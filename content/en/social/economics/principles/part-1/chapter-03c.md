@@ -1,65 +1,110 @@
 ---
+title: "Pointization: Basic Points Revenue"
 heading: "Chapter 3c"
-linkTitle: Chapter 3c
-title: "Grains-based Valuation"
-date: 2022-08-24
-weight: 15
-image: /photos/grains.jpg
-description: "Grain-based Valuation pegs value to grains"
+linkTitle: Chapter 3d
+weight: 38
+date: 2020-08-20
+image: /photos/econ/bake.jpg
+description: "The points-based system is implemented as a points-for-food system that creates wealth by tapping the unemployed."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+icon: "Juan"
 ---
 
 
-The previous section explained using grains as the store of value in order to cure the problems associated with money.
+The previous section explained how points-valuation works by converting the money-price of things into a points-price. 
 
-- Money is controlled by either the central bank (wholesaler) and commercial banks (retailer) 
-- Grains are controlled by the people by growing or storing their own grains
+Points facilitate economic democracy by pegging value to the retail price of grains. 
 
-All ancient governments made grain farming, logistics, and storage as their top priority. 
+However, this creates short term, small-scale volatility since grain prices can change daily, but in small amounts. 
 
-Those who failed in this either failed or needed a policy of conquest to keep on raiding the grains of other countries. This made their civilization short-lived and consequently, their culture became insignificant relative to those who could last long.
+In contrast, interest rates, which set the value of money, can be pegged to a certain rate for a long time. 
 
+The supporters of the money system try to solve poverty through 2 systems that use money:
 
-Adam Smith explained grain-based valuation as real value that is based on wheat, as opposed to nominal value which is based on money as coins:
+1. Universal Basic Income (UBI)
 
-{{< q a="Adam Smith" c="Wealth of Nations, Book 1, Chapter 5" >}}
-The real value of a wheat is more stable from century to century than from year to year, compared to metal money.
+Studies have shown that this is not sustainable, as proven by UBI projects being stopped. 
 
-It is useful to have real and nominal prices for long term leases. But it is not useful in common transactions. **At the same time and place, the real and the nominal price of all commodities are exactly in proportion to each other.** 
+2. Microfinance
 
-Only at the same time and place is money the exact measure of the real exchangeable value of all commodities. At distant places, real and nominal prices will have differences. **The merchant considers only the nominal or money price.**
-{{< /q >}}
+Cambodia and India have shown that microfinance does not solve structural problems that cause poverty and so they end up worsening the lives of the poor through debt traps.
 
-
-We can say that wheat kept the subjectivity of prices, while coins made them objective. This is because the volume of wheat can change rapidly, whereas metals are more persistent. 
-
-But the advantage of persistence of metals is counteracted by the lack of freedom and circulation that happens from hoarding it. 
-- In contrast, grains cannot be hoarded for so long as they rot. This makes grain-based valuation more dynamic and flexible. 
+This is further explained in Chapter 9.
 
 
-## How it Works
+## Pointization Solution
 
-Assume that 1 kilo of rice is $1. 
+Instead of money based solutions to poverty, Supereconomics introduces bilaeral points, as barter credits. 
 
-Adam want to buy bread from Bob. 
+These points are created whenever there is an agreement by two parties.
+- This agreement is an effect of fellow-feeling. 
 
-The bread is work $1 a piece.
+For example, John can give his harvest of 1 kilogram of potatoes to Martha in exchange for 2 points (assuming that 1 kilogram of potatoes is worth 2 kilograms of wheat).
+- John will then have a right to claim those 2 points as whatever Martha is producing. 
+- If she is a baker, then John can claim bread worth 2 points from her in the future. 
 
-This creates a relation:
+Thus, **the points are not created by any bank, but by the people themselves judging the value of the goods and services of others relative to themselves and others.** 
 
-```
-1 kilo of rice : $1 : 1 piece of bread  
-```
+The points can only be created and destroyed as deposits and claims, similar to tags in a baggage counter. 
 
-Since 1 point is 1 kilo of rice, then the bread is worth 1 point. 
+As such, the points are not exchangeable and are not legal tender.
 
-If Adam doesn't have $1, he can give to Bob anything that Bob wants that is also worth 1 point. 
+So far, only the [take tags](https://moneylesssociety.com/)* of the Resource Based Economy (RBE) has a similar yet rudimentary idea of this.   
 
-In this way, both people can get what they want, without having to employ and bankers, financiers, or lawyers. 
 
-The most important ingredient in the transaction is their mutual agreement. 
+{{< n n="*These are different from a gift economy and a time-banking system.The flaw in RBE is that [they have no background on metaphysics](/social/economics/fallacies/resource-based-economy). This makes them focus on physical resources, different from Supereconomics which is based on fellow-feeling" >}}
 
 
 
+This service provides the following advantages:
+- Like UBI, it mobilizes productivity by letting people feed each other with points
+- Like conditional cash transfers, it imposes conditions between people based on their agreements
+- Like Microfinance, the points can be claimed regularly to see which point-producers are actually productive and reliable 
+
+
+When viewed on a macro level, the points-deposits represent an estimate of future productivity.
+
+This is different from money-deposits which represent actual productivity. Money-deposits are governed by interest rates as the 'time value of money', but points-deposits are governed by the moral sentiments* of the exchangers. 
+
+{{< n n="*This is why The Theory of Moral Sentiments is needed before The Wealth of Nations" >}}
+
+
+- 'Monetization' speeds up an economy by converting goods and services into money through sales
+- 'Pointization' is the opposite conversion of money into a promise of future resources. 
+
+Pointization thus saves companies and societies from a monetary crash, by facilitating a soft-landing.
+
+
+{{< img src="https://sorasystem.sirv.com/graphics/monetization.png" cap="Monetization converts real value into nominal value" >}}
+
+
+
+## Basic Points Revenue
+
+The points are very useful during crises. 
+
+During personal crises, the points manifest as 'Basic Points Revenue' or BPR. 
+
+It will convert anyone's productivity into points which can be exchanged for food or other basic needs to get through a crisis.
+
+This is similar to how the Inca established a nonmonetary economy using strings called *quipu* that represented an amount of food in the granary.
+
+{{< img src="/photos/econ/quipu.jpg" cap="Adam Smith cited the Inca and Mongol civilizations as proof that large economies do not need currency to survive. The Inca used strings to represent food assets stored in community-granaries which were then traded for military service. Instead of strings, we use points. Instead of granaries, we use community hubs" alt="Quipu strings" >}}
+
+A donor can jumpstart the economy by giving food to the poor in exchange for points which the donor can claim through the labor or produce of the poor. 
+
+For example, if the donor is the government, then:
+- it can provide food for the relief of the poor
+- The poor will then give back the points by being street sweepers or agricultural workers for the government when at their leisure.  
+
+{{< youtube Yh5uY0gJWus >}}
+
+In this way, BPR can create full employment witout being a debt-trap like microfinance, nor encourage idleness as what happens with UBI. 
+
+It can also be administered fully online, making it cheaper to run.
+
+<!-- 
+> *The problem is that humans creatures are often lazy in mind and body and so wealthy societies often abandon work (cause) and just focus on wealth (effect). They start outsourcing their work to poorer countries and gamble with existing wealth in an effort to multiply it with zero effort. In time, the gambling creates financial crises, while poorer countries start to become wealthier and outsell the wealthy countries who have long lost the desire for hard work and merely want everything to come easy. This happened with the Roman Empire and Song dynasty outsourcing their military work to German and Mongol barbarians respectively, only to find themselves being ruled by those "uncivilized" people later on. The fact that the Great Britain outsourced their work to the American colonies and that the modern Americans outsourced their work to Communist China proves that this human propensity is still in force, and thus, is a principle observable in the human species throughout time and space. The dynamics of this principle will be explained further in Social Superphysics.
+ -->

@@ -5,7 +5,7 @@ weight: 105
 # date: 2022-08-02
 # date: 2016-02-07
 description: "According to Adam Smith, Land Reform should focus on the productivity of the land"
-image: /photos/objects/egypt.jpg
+image: /photos/econ/land.jpg
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -30,6 +30,9 @@ These inequalities hurt the country in the long run as it reduced the productivi
 {{< q a="Adam Smith" >}}
 A great proprietor is seldom a great improver. He often did not have the inclination nor the needed abilities. He frequently had no stock to improve his lands because his expences frequently exceeded his revenue. If he was an economist, he generally found it more profitable to use his savings on new purchases than in improving his old estate. 
 {{< /q >}}
+
+
+{{< i s="/photos/econ/land.jpg" a="Rancher" >}}
 
 
 The period of Nationalism in the 20th century led to the redistribution of such lands to the people or to private interests. 

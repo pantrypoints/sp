@@ -2,7 +2,7 @@
 heading: "Chapter 4d"
 title: "Reality and Relational Collapse SOA3"
 # date: 2020-01-01
-image: "/photos/objects/rubik.jpg"
+image: "/photos/meta/god.jpg"
 description: "The Probability Layer is only theoretical"
 writer:
   name: Juan

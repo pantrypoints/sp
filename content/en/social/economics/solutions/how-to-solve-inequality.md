@@ -2,7 +2,7 @@
 title: "How to Solve Inequality"
 heading: "Taxation and Structural Reform to Protect the Lower Class from the Wealth Gap"
 date: 2018-12-30
-image: /photos/social/poverty.jpg
+image: /photos/econ/cocoa.jpg
 description : "We explain Socrates' solution to inequality"
 writer:
   name: Juan
@@ -29,7 +29,7 @@ The wealth gap rises because **the upper classes earn by profits while the middl
 <!-- Earner |  Volume of money   -->
 
 
-![Poor man on the street](/photos/social/poverty.jpg)
+![Poor man on the street](/photos/econ/cocoa.jpg)
 
 Suppliers can raise their prices bit by bit on a daily or weekly or monthly basis since they control the means of production. They only have to deal with the changes in:
 - the market demand that affects sales volume

@@ -1,13 +1,10 @@
 ---
 title: "The Damage Einstein Has Done" 
 description: "The damage that Einstein has done to humanity may be ranked as follows"
-image: /photos/physics/priest.jpg
+image: /photos/physics/einstein.jpg
+# image: /photos/physics/priest.jpg
 date: 2024-12-25
-# weight: 2
-# a: "Einstein"
-# c: "firebrick"
 ---
-
 
 
 The damage that Einstein has done to humanity may be ranked as follows:
@@ -24,6 +21,8 @@ Rank | Damage | Reason
 8 | Nukes | Use Physics to destroy your enemies before they destroy you
  <!-- (because you are peddling a scam) -->
 
+
+{{< i s="/photos/physics/einstein.jpg" a="Einstein burning" >}}
 
 
 ## The Einstein Scam

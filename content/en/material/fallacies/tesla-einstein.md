@@ -1,7 +1,8 @@
 ---
 title: "Why Tesla Bashed Einstein's Relativity"
 date: 2023-04-22
-c: "firebrick"
+# c: "firebrick"
+image: /photos/physics/tesla.jpg
 description: "Relativity is merely a test of equipment."
 writer:
   name: Juan

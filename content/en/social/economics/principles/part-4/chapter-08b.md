@@ -5,7 +5,7 @@ title: "Interest Rates and the GR Model"
 # date: 2021-12-20
 date: 2018-06-03
 weight: 58
-image: /photos/objects/money.jpg
+image: /graphics/econ/is.jpg
 description: "Quantitative easing failed because of 2 mistakes of the banking system. Those mistakes are caused by the profit maximization doctrine of Neoclassical economics"
 writer:
   name: Juan

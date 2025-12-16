@@ -57,9 +57,9 @@ However, such a system requires its government administrators to have a high deg
 
 Adam Smith says that the government can be in business as long as its people are responsible. This is proven by the success of China's state-owned corporations:
 
-{{< q a="Adam Smith" >}}
+{{< q a="Adam Smith" c="The Simple Wealth of Nations Book 5, Chapter 2" >}}
 Government management of mercantile projects like this requires orderly, vigilant, and parsimonious administration, like those in Venice and Amsterdam. But the government of England was never famous for good economy. In peacetime, she has been slothful and negligently profuse. This is perhaps natural to monarchies.
-<cite>The Simple Wealth of Nations Book 5, Chapter 2</cite>
+
 {{< /q >}}
 
 A well-run state capitalism* leads to less opportunities for private capitalism. This is why liberals say that governments have no business to be in business. They cherry-pick quotes from the Wealth of Nations to advocate deregulation and laissez faire, contrary to the original spirit of the book.
@@ -93,9 +93,8 @@ By defining capitalism, we can better filter out the economic policies that ensl
 
 Capitalism's birth in England and/or France can be narrowed down to after Smith's death in 1790 to before 1830 when its idea was already written about, as explained by Marx:
 
-{{< q a="marx" >}}
+{{< q a="Karl Marx" c="Capital, Preface" >}}
 Gustav von Gülich in his "Historical description of Commerce, Industry,"..in 1830, has examined at length the historical circumstances that prevented, in Germany, the development of the capitalist mode of production.. Thus the soil whence Political Economy springs was wanting. This "science" had to be imported from England and Franceas a ready-made article.. Since 1848 capitalist production has developed rapidly in Germany, and at the present time it is in the full bloom of speculation and swindling.
-<cite>Marx, Capital, Preface, emphasis added</cite>
 {{< /q >}}
 
 
@@ -111,9 +110,9 @@ The Netherlands and the Hanseatic league had weaker government support. This pre
 
 In fact, Thomas Mun wrote that the Dutch owed their commercial wealth to the British who empowered them to counteract the strength of Spain:
 
-{{< q >}}
+
+{{< q a="Thomas Mun" c="England's Treasure on Foreign Trade" >}}
 The Dutch Author of Mare Liberum cannot entitle the Dutch to fish in His Majesty's Seas.. But I am not saying that the Dutch should not be allowed to catch and carry them away from there without His Majesties licence. The fishing rights might be a good policy to keep them in league with England and in war against Spain.
-<cite>England's Treasure on Foreign Trade</cite>
 {{< /q >}}
 
 
@@ -138,7 +137,7 @@ The labourer, who receives wages, sells his labour for a day.. The manufacturer,
 
 
 
-{{< img alt="Stock price ticker" cap="Stocks and stock prices are inseparable from modern capitalism just as commodities and commodity prices were inseparable from mercantilism" src="https://socioecons.files.wordpress.com/2015/07/fm50.jpg" >}}
+{{< img alt="Stock price ticker" cap="Stocks and stock prices are inseparable from modern capitalism just as commodities and commodity prices were inseparable from mercantilism" src="/photos/econ/news.jpg" >}}
 
 
 <!-- Capitalism emphasizes **private ownership of property** and the means of production, with minimal state intervention. It relies on the profit motive, competition, and free markets to allocate resources and generate wealth.

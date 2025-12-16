@@ -1,6 +1,6 @@
 ---
 heading: "Part 4"
-title: "Question 8: How Can We Know The Infinite Individuals?"
+title: "How Can We Know The Infinite Individuals?"
 weight: 10
 
 c: "indigo"
@@ -22,11 +22,14 @@ If we admit in the fullest sense that something exists apart from the concrete t
 
 (A) If there is nothing apart from individuals, there will be no object of thought, but all things will be objects of sense, and there will not be knowledge of anything, unless we say that sensation is knowledge. 
 
-Nothing will be eternal or unmovable; for all perceptible things perish and are in movement. But if there is nothing eternal, neither can there be a process of coming to be; for there must be something that comes to be, i.e. from which something comes to be, and the ultimate term in this series cannot have come to be, since the series has a limit and since nothing can come to be out of that which is not. Further, if generation and movement exist there must also be a limit; for no movement is infinite, but every movement has an end, and that which is incapable of completing its coming to be cannot be in process of coming to be; and that which has completed its coming to be must he as soon as it has come to be. Further, since the matter exists, because it is ungenerated, it is a fortiori reasonable that the substance or essence, that which the matter is at any time coming to be, should exist; for if neither essence nor matter is to be, nothing will be at all, and since this is impossible there must be something besides the concrete thing, viz. the shape or form.
+Nothing will be eternal or unmovable; for all perceptible things perish and are in movement. But if there is nothing eternal, neither can there be a process of coming to be; for there must be something that comes to be, i.e. from which something comes to be, and the ultimate term in this series cannot have come to be, since the series has a limit and since nothing can come to be out of that which is not. Further, if generation and movement exist there must also be a limit; for no movement is infinite, but every movement has an end, and that which is incapable of completing its coming to be cannot be in process of coming to be; and that which has completed its coming to be must he as soon as it has come to be.
+
+Since the matter exists, because it is ungenerated, it is a fortiori reasonable that the substance or essence, that which the matter is at any time coming to be, should exist; for if neither essence nor matter is to be, nothing will be at all, and since this is impossible there must be something besides the concrete thing, viz. the shape or form.
 
 But again (B) if we are to suppose this, it is hard to say in which cases we are to suppose it and in which not. For evidently it is not possible to suppose it in all cases; we could not suppose that there is a house besides the particular houses.
 
 Besides this, will the substance of all the individuals, e.g. of all men, be one? This is paradoxical, for all the things whose substance is one are one. But are the substances many and different? This also is unreasonable.-At the same time, how does the matter become each of the individuals, and how is the concrete thing these two elements?
+
 
 ## 9. If they are one in kind only, nothing will be numerically one, not even unity-itself and being-itself; and how will knowing exist, if there is not to be something common to a whole set of individuals?
 
@@ -89,3 +92,4 @@ But-and this is the point we started from this at least is evident, that on his 
 But this is impossible, whether the process has a limit or proceeds to infinity. Further, how will perishable things exist, if their principles are to be annulled? But if the principles are imperishable, why will things composed of some imperishable principles be perishable, while those composed of the others are imperishable? 
 
 This is not probable, but is either impossible or needs much proof. Further, no one has even tried to maintain different principles; they maintain the same principles for all things. But they swallow the difficulty we stated first as if they took it to be something trifling.
+

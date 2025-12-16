@@ -5,7 +5,7 @@ title: "How Pointization Counteracts Inflation and Deflation"
 # date: 2022-03-27
 # date: 2022-08-10
 weight: 66
-image: /photos/econ/prices.jpg
+image: /photos/econ/cocoa.jpg
 # description: "Neoclassical Economics shallowly defines 'inflation' as a rise in prices, and 'deflation' as its decline"
 writer:
   name: Juan
@@ -180,3 +180,5 @@ System | Buyer Action | Seller Action
 --- | --- | ---
 Money System | Buy Tomorrow | Sell now
 Points System | REALLY Purchase Tomorrow | Sell now
+
+

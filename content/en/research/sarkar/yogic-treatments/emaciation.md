@@ -3,7 +3,7 @@ title: "Natural Remedies for Emaciation"
 weight: 22
 author: "PR Sarkar"
 description: "When due to poverty parents are unable to provide enough milk for their children and consequently they are fed rice and pulse or plain barley from their early childhood, their digestive organs and livers in particular become very weak, and such children normally turn out emaciated"
-image: "/photos/social/poverty.jpg"
+image: "/photos/econ/cocoa.jpg"
 icon: "PR Sarkar"
 ---
 
@@ -16,7 +16,7 @@ icon: "PR Sarkar"
 3. When due to poverty parents are unable to provide enough milk for their children and consequently they are fed rice and pulse or plain barley from their early childhood, their digestive organs and livers in particular become very weak, and such children normally turn out emaciated.
 4. If out of misguided love parents treat their children lavishly by feeding them ghee, butter, fish, meat and eggs right from baby-hood, or if due to poverty or due to some belief they feed their children non-vegetarian foods or spicy vegetable preparations instead of milk, fruits, roots, and other foods appropriate for children, then the livers and other digestive organs of their children, being overworked, lose their vitality and the children become thin.
 
-![Poverty](/photos/social/poverty.jpg)
+![Poverty](/photos/econ/cocoa.jpg)
 
 In adults emaciation usually comes about for the following reasons:
 1. Too much mental exertion;

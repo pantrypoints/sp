@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 7c"
-title: "DCTI and Historical Economic Problems"
+title: "DSIT and Historical Economic Problems"
 date: 2021-12-25
 weight: 34
 image: "https://www.superphysics.org/graphics/econ/fincrisis2008.jpg"
-description : "Here are Historical Economic Problems viewed according to the DCTI model"
+description : "Here are Historical Economic Problems viewed according to the DSIT model"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -12,7 +12,7 @@ icon: "Supereconomics"
 ---
 
 
-The DCTI shows that the imbalances of the real values in capital, industry, and trade, in relation to demand, result in economic problems:
+The DSIT shows that the imbalances of the real values in capital, industry, and trade, in relation to demand, result in economic problems:
 
 
 ## The Great Depression: High Value, Low Trade

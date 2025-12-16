@@ -1,6 +1,6 @@
 ---
 title: "The Invisible Hand of Dharma or the Tao"
-heading: "How Life-Purpose Can Replace the Utility-Motive"
+# heading: "How Life-Purpose Can Replace the Utility-Motive"
 # date: 2015-09-09
 date: 2021-09-09
 image: /photos/objects/hand.jpg

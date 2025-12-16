@@ -1,9 +1,9 @@
 ---
 heading: "Part 7"
-title: "Aristotle explains Whether and Plurality"
+title: "The Nature of Intermediates"
 weight: 14
 c: "indigo"
-description: "Aristotle gives maximum importance to the sight over the other senses"
+description: "Since contraries have an intermediate then intermediates are composed of the contraries. "
 icon: "Aristotle"
 writer:
   name: Aristotle 
@@ -12,7 +12,7 @@ writer:
 
 
 
-Since contraries admit of an intermediate and in some cases have it, intermediates must be composed of the contraries. 
+Since contraries have an intermediate then intermediates are composed of the contraries. 
 
 1. All intermediates are in the same genus as the things between which they stand.
 
@@ -55,4 +55,7 @@ This also, then, will come between the contraries. All the other intermediates a
 
 Since there are no other things prior to the contraries and homogeneous with the intermediates, all intermediates must be compounded out of the contraries. Therefore also all the inferior classes, both the contraries and their intermediates, will be compounded out of the primary contraries. 
 
-Clearly, then, intermediates are (1) all in the same genus and (2) intermediate between contraries, and (3) all compounded out of the contraries.
+Clearly, then, intermediates are:
+- all in the same genus
+- intermediate between contraries
+- all compounded out of the contraries

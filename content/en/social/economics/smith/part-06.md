@@ -2,7 +2,7 @@
 heading: Part 6
 title: "The Solution to the Flaws of Current Economics is Socio-econonics"
 date: 2013-11-18
-image: /covers/smith.jpg
+image: /photos/econ/smith.jpg
 description : "The Circular Flow of Economics emphasizes Businesses. That of Superphysics emphasizes balance and the natural price"
 writer:
   name: Juan

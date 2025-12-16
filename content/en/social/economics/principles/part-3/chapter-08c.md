@@ -5,7 +5,7 @@ description : "In such cases, the government needs to step in and spend to jumps
 weight: 42
 # orig date: 2016-01-01
 date: 2025-01-19
-image: /photos/objects/king.jpg
+image: /photos/social/lawmaker.jpg
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

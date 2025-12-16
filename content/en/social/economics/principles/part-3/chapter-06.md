@@ -4,7 +4,7 @@ title: "Targetted Economic Development"
 date: 2015-08-21
 # date: 2022-01-03
 weight: 28
-image: /photos/city.jpg
+image: /photos/econ/cocoa.jpg
 description: "The same maxims given by Adam Smith on economic development still apply today"
 writer:
   name: Juan
@@ -42,7 +42,7 @@ According to Smith, the natural and sustainable progress of economies is from ag
 
 For example, the Ivory coast exports cocoa. It should implement policies so that it will eventually make chocolates itself. This would solve child labour for good. However, this goes against the vested interests of chocolate corporations in richer countries which profit from the low cost of raw cocoa. 
 
-{{< img src="https://socioecons.files.wordpress.com/2015/08/chocolate-child-slavery-ivory-coast.jpg" alt="Cacao workers" cap="Campaigns against African child labour might succeed in small cases, but can never produce any sweeping change, since those campaigns urge African governments to bite the hand of business that feeds them with the taxes that they need." >}}
+{{< img src="/photos/econ/cocoa.jpg" alt="Cacao workers" cap="Campaigns against African child labour might succeed in small cases, but can never produce any sweeping change, since those campaigns urge African governments to bite the hand of business that feeds them with the taxes that they need." >}}
 
 
 {{< q a="Adam Smith" c="Wealth of Nations Book 4, Chapter 2" >}}

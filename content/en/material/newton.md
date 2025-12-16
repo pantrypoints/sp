@@ -4,6 +4,7 @@ heading: "Matter (Stuff) Versus Aether (Spirit)"
 date: 2024-11-23
 a: "Newton"
 c: "firebrick"
+image: /photos/physics/newton.jpg
 description: "In 1644, Descartes established a complete theory of gravity, saying that objects revolve around the sun at varying speeds based on their location or distance from the center vortex, represented by the sun"
 writer:
   name: Juan
@@ -11,6 +12,7 @@ writer:
 icon: "Juan"
 toc: false
 ---
+
 
 
 In 1644, Descartes established a complete theory of gravity, saying that objects revolve around the sun at varying speeds based on their location or distance from the center vortex, represented by the sun. 
@@ -21,6 +23,9 @@ In 1644, Descartes established a complete theory of gravity, saying that objects
 Each vortex is different from each other and so everything is relative depending on which vortex you use as the basis for measurement.  
 
 Newton debunks this in his Principia in 1685, saying that planets revolve according to their inertia and not their location.
+
+{{< i s="/photos/physics/newton.jpg " a="Newton" >}}
+
 
 This was validated when the outer planets were discovered, as well as comets coming back as predicted by Newton. 
 

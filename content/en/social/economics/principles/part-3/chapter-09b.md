@@ -4,7 +4,7 @@ title: "Pool Clearing and Clearing Funds"
 date: 2022-12-24
 # date: 2024-08-20
 weight: 46
-image: /photos/objects/money.jpg
+image: /photos/econ/pool.jpg
 description: "Instead of world trade being done in an unregulated way, all in US dollars, each country joins the global pool"
 writer:
   name: Juan
