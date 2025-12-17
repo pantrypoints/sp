@@ -2,9 +2,12 @@
 heading: Part 39-
 title: "Historical and Critical Dictionary"
 description: The Reformers, especially Luther, spoke sometimes as if they rejected philosophy, and deemed it inimical to faith
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
-weight: 16
+weight: 26
 ---
 
 

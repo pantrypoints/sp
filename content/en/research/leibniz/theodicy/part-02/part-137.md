@@ -3,7 +3,10 @@ heading: Part 120
 linkTitle: Part 120
 title: "Zoroaster and the Titans"
 description: The whole future is doubtless determined
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
 weight: 24
 ---

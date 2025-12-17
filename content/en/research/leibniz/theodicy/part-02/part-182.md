@@ -1,17 +1,22 @@
 ---
 heading: Part 182
-linkTitle: Part 182
 title: "God's Decrees"
 description: Christian Doctors teach that there are things which are just antecedently to God's decrees
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
-weight: 4
+weight: 84
 ---
+
 
 
 182. Bayle has inserted a special chapter in his Continuation of Divers Thoughts on the Comet (it is chapter 152) where he shows 'that the Christian Doctors teach that there are things which are just antecedently to God's decrees'. 
 
-Some theologians of the Augsburg Confession censured some of the Reformed who appeared to be of a different opinion; and this error was regarded as if it were a consequence of the absolute decree, which doctrine seems to exempt the will of God from any kind of reason, ubi stat pro ratione voluntas. But, as I have observed already on various occasions, Calvin himself acknowledged that the decrees of God are in conformity with justice and wisdom, although the reasons that might prove this conformity in detail are unknown to us. Thus, according to him, the rules of goodness and of justice are anterior to the decrees of God. M. Bayle, in the same place, quotes a passage from the celebrated M. Turretin which draws a [241]distinction between natural divine laws and positive divine laws. 
+Some theologians of the Augsburg Confession censured some of the Reformed who appeared to be of a different opinion; and this error was regarded as if it were a consequence of the absolute decree, which doctrine seems to exempt the will of God from any kind of reason, ubi stat pro ratione voluntas. But, as I have observed already on various occasions, Calvin himself acknowledged that the decrees of God are in conformity with justice and wisdom, although the reasons that might prove this conformity in detail are unknown to us. 
+
+Thus, to him, the rules of goodness and of justice are anterior to the decrees of God. M. Bayle, in the same place, quotes a passage from the celebrated M. Turretin which draws a distinction between natural divine laws and positive divine laws. 
 
 Moral laws are of the first kind and ceremonial of the second. Samuel Desmarests, a celebrated theologian formerly at Groningen, and Herr Strinesius, who is still at Frankfort on the Oder, advocated this same distinction; and I think that it is the opinion most widely accepted even among the Reformed. Thomas Aquinas and all the Thomists were of the same opinion, with the bulk of the Schoolmen and the theologians of the Roman Church. The Casuists also held to that idea: 
 

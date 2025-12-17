@@ -3,7 +3,10 @@ heading: Part 116
 linkTitle: Part 116
 title: "Bayle's 19 philosophic maxims"
 description: The whole future is doubtless determined
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
 weight: 8
 ---

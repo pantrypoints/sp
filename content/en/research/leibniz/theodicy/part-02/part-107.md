@@ -3,7 +3,10 @@ heading: Part 107
 linkTitle: Part 107
 title: "Determinism"
 description: The whole future is doubtless determined
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
 weight: 4
 ---

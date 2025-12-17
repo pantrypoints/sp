@@ -3,7 +3,10 @@
 # linkTitle: Part 3
 title: "What is the cause of moral evil?"
 description: What is the cause of moral evil?
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
 weight: 4
 ---

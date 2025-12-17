@@ -2,7 +2,10 @@
 heading: Part 1
 title: "The Truths of Reason"
 description: I begin with the preliminary question of the conformity of faith with reason, and the use of philosophy in theology
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
 weight: 6
 ---

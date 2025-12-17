@@ -1,10 +1,13 @@
 ---
 heading: Part 52
 title: "The Truths of Reason"
-description: I begin with the preliminary question of the conformity of faith with reason, and the use of philosophy in theology
-author: Leibniz
+description: All is therefore certain and determined beforehand in man, as everywhere else. 
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
-weight: 6
+weight: 36
 ---
 
 

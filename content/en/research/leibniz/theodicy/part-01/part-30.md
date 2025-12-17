@@ -1,16 +1,18 @@
 ---
 heading: Part 30
-linkTitle: Part 30
 title: "The Truths of Reason"
-description: I begin with the preliminary question of the conformity of faith with reason, and the use of philosophy in theology
-author: Leibniz
+description: The celebrated Kepler and Descartes have spoken of the 'natural inertia of bodies'
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
-weight: 6
+weight: 16
 ---
 
 
 
-30. The celebrated Kepler and Descartes (in his letters) after him have spoken of the 'natural inertia of bodies'
+30. The celebrated Kepler and Descartes have spoken of the 'natural inertia of bodies'
 
 It is something which may be regarded as a perfect image and even as a sample of the original limitation of creatures, to show that privation constitutes the formal character of the imperfections and disadvantages that are in substance as well as in its actions. 
 
@@ -79,4 +81,3 @@ All pleasures have within themselves some feeling of perfection. But when one is
 In general perfection is positive, it is an absolute reality; defect is privative, it comes from limitation and tends towards new privations.
 
 This saying is therefore as true as it is ancient: bonum ex causa integra, malum ex quolibet defectu; as also that [143]which states: malum causam habet non efficientem, sed deficientem. And I hope that the meaning of these axioms will be better apprehended after what I have just said.
-

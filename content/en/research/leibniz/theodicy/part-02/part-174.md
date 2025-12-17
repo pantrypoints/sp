@@ -1,12 +1,15 @@
 ---
 heading: Part 174
-linkTitle: Part 174
 title: "Ubi bene, nemo melius"
 description: One may say of M. Bayle, 'ubi bene, nemo melius', although one cannot say of him what was said of Origen, 'ubi male, nemo pejus
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
-weight: 4
+weight: 74
 ---
+
 
 
 174. One may say of M. Bayle, 'ubi bene, nemo melius', although one cannot say of him what was said of Origen, 'ubi male, nemo pejus'. 

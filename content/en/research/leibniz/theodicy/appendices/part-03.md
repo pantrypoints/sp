@@ -1,7 +1,10 @@
 ---
 title: "Reflexions On Mr. Hobbes Work On 'freedom, Necessity And Chance'"
 description: Some persons of discernment have wished me to make this addition. I have the more readily deferred to their opinion
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 icon: "Leibniz"
 c: "firebrick"
 weight: 18

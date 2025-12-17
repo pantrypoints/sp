@@ -6,7 +6,10 @@ c: "indigo"
 # date: 2023-02-15
 weight: 10
 icon: "Leibniz"
-contributors: ['Leibniz']
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 ---
 
 

@@ -2,7 +2,10 @@
 heading: Part 6
 title: "The Schoolmen and the Averroists"
 description: The question of the conformity of faith with reason has always been a great problem
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
 weight: 10
 ---

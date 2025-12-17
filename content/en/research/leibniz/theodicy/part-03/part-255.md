@@ -1,7 +1,10 @@
 ---
 title: "Bodily Sufferings"
 description:  PUBLISHED RECENTLY IN LONDON
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
 weight: 18
 ---

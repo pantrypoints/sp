@@ -1,11 +1,13 @@
 ---
 heading: Part 34
-linkTitle: Part 34
 title: "The Truths of Reason"
-description: I begin with the preliminary question of the conformity of faith with reason, and the use of philosophy in theology
-author: Leibniz
+description: The physical co-operation of God and of creatures with the will contributes also to the difficulties existing in regard to freedom.
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
-weight: 6
+weight: 26
 ---
 
 

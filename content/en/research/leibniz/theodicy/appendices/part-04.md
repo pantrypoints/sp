@@ -1,7 +1,10 @@
 ---
 title: "Observations On The Book 'the Origin Of Evil'"
 description: It was ublished recently in London
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 icon: "Leibniz"
 c: "firebrick"
 weight: 28

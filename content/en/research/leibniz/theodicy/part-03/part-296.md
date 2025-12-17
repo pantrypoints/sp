@@ -1,9 +1,12 @@
 ---
 title: "Human Knowledge"
 description: Distinct knowledge is intelligence. It occurs in the actual use of reason; but the senses supply us with confused thoughts
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
-weight: 20
+weight: 24
 ---
 
 

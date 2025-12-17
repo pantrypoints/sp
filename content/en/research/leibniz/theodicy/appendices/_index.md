@@ -2,7 +2,10 @@
 linkTitle: Appendices
 title: "Appendices"
 description: Appendices to Theodicy
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
 weight: 4
 ---

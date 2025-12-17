@@ -1,10 +1,14 @@
 ---
 title: "The Law Of Continuity"
 description: It says that one must be able to regard rest as a movement vanishing after having continually diminished
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
-weight: 28
+weight: 38
 ---
+
 
 
 <sup>347</sup> Matter is indifferent to motion and to rest. 

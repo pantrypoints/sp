@@ -1,7 +1,10 @@
 ---
 title: "Cicero"
 description: Cicero said in his book De Fato that Carneades had found something more subtle than the deviation of atoms
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
 weight: 28
 ---

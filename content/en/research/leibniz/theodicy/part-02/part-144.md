@@ -1,11 +1,13 @@
 ---
 heading: Part 120
-linkTitle: Part 120
 title: "The Pricniples of Zoroaster"
 description: Zoroaster looked on good and evil as 2 eternal principles opposed to each other, although there is reason to doubt this assumption
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
-weight: 4
+weight: 34
 ---
 
 
@@ -27,7 +29,9 @@ He confesses that the 'Dualists' (as with Mr. Hyde he calls them), that is, the 
 
 <sup>145</sup> He treats of the matter with abundant detail in his Dictionary, article 'Manichaeans', p. 2025, which we must examine a little, in order to throw greater light upon this subject: 'The surest and clearest ideas of order teach us', he says, 'that a Being who exists through himself, who is necessary, who is eternal, must be single, infinite, all powerful, and endowed with all kinds of perfections.' 
 
-This argument deserves to have been developed more completely. 'Now it is necessary to see', he goes on, 'if the phenomena of nature can be conveniently explained by the hypothesis of one single principle.' I have explained it sufficiently by showing that there are cases where some disorder in the part is necessary for producing the greatest order in the whole. But it appears that M. Bayle asks a little too much: he wishes for a detailed exposition of how evil is connected with the best possible scheme for the universe. That would be a complete explanation of the phenomena: but I do not undertake to give it; nor am I bound to do so, for there is no obligation to do that which is impossible for us in our existing state. It is sufficient for me to point out that there is nothing to prevent the connexion of a certain individual evil with what is the best on the whole. This incomplete explanation, leaving something to be discovered in the life to come, is sufficient for answering the objections, though not for a comprehension of the matter.
+This argument deserves to have been developed more completely. 'Now it is necessary to see', he goes on, 'if the phenomena of nature can be conveniently explained by the hypothesis of one single principle.' I have explained it sufficiently by showing that there are cases where some disorder in the part is necessary for producing the greatest order in the whole.
+
+But Bayle asks a little too much: he wishes for a detailed exposition of how evil is connected with the best possible scheme for the universe. That would be a complete explanation of the phenomena: but I do not undertake to give it; nor am I bound to do so, for there is no obligation to do that which is impossible for us in our existing state. It is sufficient for me to point out that there is nothing to prevent the connexion of a certain individual evil with what is the best on the whole. This incomplete explanation, leaving something to be discovered in the life to come, is sufficient for answering the objections, though not for a comprehension of the matter.
 
 
 <sup>146</sup> 'The heavens and all the rest of the universe', adds M. Bayle, 'preach the glory, the power, the oneness of God.' 

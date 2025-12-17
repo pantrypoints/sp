@@ -5,8 +5,10 @@ description: Scientists have had great difficulties over the origin of forms, en
 c: "indigo"
 # date: 2023-02-15
 weight: 28
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
 icon: "Leibniz"
-contributors: ['Leibniz']
 ---
 
 

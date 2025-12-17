@@ -1,11 +1,13 @@
 ---
 heading: Part 120
-linkTitle: Part 120
-title: "Bayle's 19 philosophic maxims"
-description: The whole future is doubtless determined
-author: Leibniz
+title: "The Things that do not Happen"
+description: Let us come now to the possibility of things that do not happen, and I will give the very words of M. Bayle, albeit they are somewhat discursive.
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
-weight: 4
+weight: 64
 ---
 
 

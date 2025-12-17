@@ -2,9 +2,12 @@
 heading: Part 62
 title: "Joshua Stegman"
 description: Bayle (p. 1002) is not satisfied with the opinion of Josua Stegman and of M. Turretin, Protestant theologians who teach that the Mysteries are contrary only to corrupt reason
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
-weight: 16
+weight: 46
 ---
 
 
@@ -109,7 +112,12 @@ But if they took the trouble to give to the objections the form these ought to h
 
 83. It is certain that M. Bayle can only be understood as meaning those ostensible maxims which must give way before the eternal verities; for he acknowledges that reason is not in reality contrary to faith. In these posthumous Dialogues he complains (p. 73, against M. Jacquelot) of being accused of the belief that our Mysteries are in reality against reason, and (p. 9, against M. le Clerc) of the assertion made that he who acknowledges that a doctrine is exposed to irrefutable objections acknowledges also by a necessary consequence the falsity of this doctrine. Nevertheless one would be justified in the assertion if the irrefutability were more than an outward appearance.
 
-84. It may be, therefore, that having long contended thus against M. Bayle on the matter of the use of reason I shall find after all that his opinions were not fundamentally so remote from mine as his expressions, which have provided matter for our considerations, have led one to believe. It is true that frequently he appears to deny absolutely that one can ever answer the objections of reason against faith, and that he asserts the necessity of comprehending, in order to achieve such an end, how the Mystery comes [121]to be or exists. Yet there are passages where he becomes milder, and contents himself with saying that the answers to these objections are unknown to him. Here is a very precise passage, taken from the excursus on the Manichaeans, which is found at the end of the second edition of his Dictionary: 'For the greater satisfaction of the most punctilious readers, I desire to declare here' (he says, p. 3148) 'that wherever the statement is to be met with in my Dictionary that such and such arguments are irrefutable I do not wish it to be taken that they are so in actuality. I mean naught else than that they appear to me irrefutable. That is of no consequence: each one will be able to imagine, if he pleases, that if I deem thus of a matter it is owing to my lack of acumen.' I do not imagine such a thing; his great acumen is too well known to me: but I think that, after having applied his whole mind to magnifying the objections, he had not enough attention left over for the purpose of answering them.
+
+84. It may be that having long contended thus against M. Bayle on the matter of the use of reason I shall find after all that his opinions were not fundamentally so remote from mine as his expressions, which have provided matter for our considerations, have led one to believe. 
+
+Frequently he appears to deny absolutely that one can ever answer the objections of reason against faith, and that he asserts the necessity of comprehending, in order to achieve such an end, how the Mystery comes [121]to be or exists. Yet there are passages where he becomes milder, and contents himself with saying that the answers to these objections are unknown to him.
+
+Here is a very precise passage, taken from the excursus on the Manichaeans, which is found at the end of the second edition of his Dictionary: 'For the greater satisfaction of the most punctilious readers, I desire to declare here' (he says, p. 3148) 'that wherever the statement is to be met with in my Dictionary that such and such arguments are irrefutable I do not wish it to be taken that they are so in actuality. I mean naught else than that they appear to me irrefutable. That is of no consequence: each one will be able to imagine, if he pleases, that if I deem thus of a matter it is owing to my lack of acumen.' I do not imagine such a thing; his great acumen is too well known to me: but I think that, after having applied his whole mind to magnifying the objections, he had not enough attention left over for the purpose of answering them.
 
 85. M. Bayle confesses, moreover, in his posthumous work against M. le Clerc, that the objections against faith have not the force of proofs. It is therefore ad hominem only, or rather ad homines, that is, in relation to the existing state of the human race, that he deems these objections irrefutable and the subject unexplainable. There is even a passage where he implies that he despairs not of the possibility that the answer or the explanation may be found, and even in our time. For here is what he says in his posthumous Reply to M. le Clerc (p. 35): 'M. Bayle dared to hope that his toil would put on their mettle some of those great men of genius who create new systems, and that they could discover a solution hitherto unknown.' It seems that by this 'solution' he means such an explanation of Mystery as would penetrate to the how: but that is not necessary for replying to the objections.
 

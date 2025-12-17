@@ -1,15 +1,19 @@
 ---
 heading: Part 120
-linkTitle: Part 120
-title: "Bayle's 19 philosophic maxims"
-description: The whole future is doubtless determined
-author: Leibniz
+title: "Bayle's principal objection against Me"
+description: Bayle's principal objection against me is complicated.
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
-weight: 4
+weight: 134
 ---
 
 
-218. I come now to the principal objection M. Bayle, after M. Arnauld, brings up against me. It is complicated: they maintain that God would be under compulsion, that he would act of necessity, if he were bound to create the best; or at least that he would have been lacking in power if he could not have found a better expedient for excluding sins and other evils. That is in effect denying that this universe is the best, and that God is bound to insist upon the best. I have met this objection adequately in more than one passage: I have proved that God cannot fail to produce the best; and from that assumption it follows that the evils we experience could not have been reasonably excluded from the universe, since they are there. Let us see, however, what these two excellent men bring up, or rather let us see what M. Bayle's objection is, for he professes to have profited by the arguments of M. Arnauld.
+218. Bayle's principal objection against me is complicated.
+
+They maintain that God would be under compulsion, that he would act of necessity, if he were bound to create the best; or at least that he would have been lacking in power if he could not have found a better expedient for excluding sins and other evils. That is in effect denying that this universe is the best, and that God is bound to insist upon the best. I have met this objection adequately in more than one passage: I have proved that God cannot fail to produce the best; and from that assumption it follows that the evils we experience could not have been reasonably excluded from the universe, since they are there. Let us see, however, what these two excellent men bring up, or rather let us see what M. Bayle's objection is, for he professes to have profited by the arguments of M. Arnauld.
 
 219. 'Would it be possible', he says, Reply to the Questions of a Provincial, vol. III, ch. 158, p. 890, 'that a nature whose goodness, holiness, wisdom, knowledge and power are infinite, who loves virtue supremely, and hates vice supremely, as our clear and distinct idea of him shows us, and as well-nigh every page of Scripture assures us, could have found in virtue no means fitting and suited for his ends? Would it be possible that vice alone had offered him this means? One would have thought on the contrary that nothing beseemed this nature more than to establish virtue in his work to the exclusion of all vice.' M. Bayle here exaggerates things. I agree that some vice was connected with the best plan of the universe, but I do not agree with him that God could not find in virtue any means suited for his ends. This objection would have been valid if there were no virtue, if vice took its place everywhere. He will say it suffices that vice prevails and that virtue is trifling in comparison. But I am far from agreeing with him there, and I think that in reality, properly speaking, there is incomparably more moral good than moral evil in rational creatures; and of these we have knowledge of but few.
 

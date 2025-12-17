@@ -1,12 +1,16 @@
 ---
 heading: Part 120
-linkTitle: Part 120
 title: "Bayle's 19 philosophic maxims"
 description: The whole future is doubtless determined
-author: Leibniz
+author: 
 c: "firebrick"
-weight: 4
+weight: 124
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 ---
+
 
 
 210. Let us now see the reverse of the medal in the altered M. Bayle. After having quoted in his Reply to the Questions of a Provincial (vol. III, ch. 155, p. 962) these words of M. Jacquelot, which are much to my liking: 'To change the order of the universe is something of infinitely greater consequence than the prosperity of a good man,' he adds: 'This thought has something dazzling about it: Father Malebranche has placed it in the best possible light; and he has persuaded some of his readers that a system which is simple and very productive is more consistent with God's wisdom than a system more composite and less productive in proportion, but more capable of averting irregularities. M. Bayle was one of those who believed that Father Malebranche in that way gave a wonderful solution.' (It is M. Bayle himself speaking.) 'But it is almost impossible to be satisfied with it after having read M. Arnauld's books against this system, and after having contemplated the vast and boundless idea of the supremely [260]perfect Being. This idea shows us that nothing is easier for God than to follow a plan which is simple, productive, regular and opportune for all creatures simultaneously.'

@@ -2,7 +2,10 @@
 heading: Part 22
 title: "Is Truth Above Reason?"
 description: The Reformers, especially Luther, spoke sometimes as if they rejected philosophy, and deemed it inimical to faith
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
 weight: 20
 ---

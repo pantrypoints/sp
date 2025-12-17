@@ -3,7 +3,10 @@ heading: Appendix 1
 linkTitle: Part 1
 title: "Summary Of The Controversy Reduced To Formal Arguments"
 description: Some persons of discernment have wished me to make this addition. I have the more readily deferred to their opinion
-author: Leibniz
+writer:
+  name: Leibniz
+  url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+icon: "Leibniz"
 c: "firebrick"
 icon: "Leibniz"
 weight: 4
