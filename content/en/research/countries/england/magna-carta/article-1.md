@@ -5,7 +5,9 @@ weight: 2
 description: The Magna Carta
 author: "King John"
 image: "/covers/magna.jpg"
-icon: /flags/gb.png
+icon: gb
+aliases:
+  - /research/england/magna-carta/article-1/
 ---
 
 

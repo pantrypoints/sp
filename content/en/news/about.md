@@ -5,7 +5,10 @@ c: "darkslategray"
 toc: false
 weight: 1
 icon: "Superphysics"
+aliases:
+  /about
 ---
+
 
 
 ## It Began with the Financial Crisis 
@@ -128,22 +131,28 @@ We are looking for:
 
  <!-- superphysicsorg@gmail.com.  -->
 
-{{< dc t="Team (click to expand)" >}}
-Who | Core Team 
---- | ---
-[Juan](https://www.linkedin.com/in/jundalisay/) | Founder of Superphysics and Pantrypoints. Started it in 2012 as an alternative economic science which ballooned into Superphysics. He has a "[Line of Intuition](/research/benham/palmistry/part-2/chapter-14b-intuition)" and "Solomon Ring" -- 2 components essential for this kind of work. He got samadhi in 2008. 
-[Lam](https://www.linkedin.com/in/baolamnguyen/) | Joined Juan in 2017 to build Pantrypoints. Like Juan, she has a "Line of Intuition" and "Solomon Ring". She is still trying to get samadhi.
- <!-- Pantrypoints then , likes to read and write about the works from the Enlightenment -->
-<!-- She writes about economics, business, and history -->
+<a href="/team">
+<div style="transition: transform 0.3s ease-in-out;" class="ani hover:scale-110 dark:bg-gray-800 bg-white rounded-lg overflow-hidden shadow-lg transition-shadow duration-200">
+    <div class="aspect-[16/9] w-full overflow-hidden relative">
+      <img loading="lazy" src="/photos/team.jpg" alt="Team" class="w-full h-full object-cover">
+      <div class="absolute inset-0 p-2 sm:p-3 md:p-4 flex flex-col justify-end">
+          <div style="background-color: black;" class="inline-block p-2 rounded">
+              <h3 class="text-white text-lg leading-none font-bold">
+                  The Team
+              </h3>
+              <p class="text-gray-200 leading-none text-sm md:text-base mt-1">
+         </p>
+          </div>
+      </div>
+    </div>
+</div>
+</a>
 
-Who | Rest of the Team
---- | ---
-Jose | An alternative medicine practitioner since the 2000s, focusing on homeopathy and naturopathy, though he has tried doing Chinese medicine. He has gotten samadhi a few times in India. 
-Jing | Vice-President of an agriculture association. He is a Catholic and does not care about samadhi. However, he is very keen on using Bio Superphysics for agriculture  
-Ehmil | Geologist. He is an Evangelical and also doesn't care about samadhi. But he is interested in Cartesian Physics for geological applications such as earthquake detection.
-Adrian | Mobile and Python developer. He has helped debug the Pantrypoints mobile apps.  
-Ngoc Anh | Early member who helped during the early days.
-{{< /dc >}}
+
+
+<!-- dc t="Team (click to expand)" >}}
+
+/dc >}} -->
 
 
 Feel free to contact us via email at pantrypoints@gmail.com

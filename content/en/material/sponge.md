@@ -1,7 +1,7 @@
 ---
 title: "The Universe as a Cosmic Sponge"
 date: 2025-05-13
-image: /graphics/physics/balloon.jpg
+image: /graphics/physics/sponge2.jpg
 description: ""
 writer:
   name: Juan
@@ -34,6 +34,9 @@ In this way, Physics and Biology use the same principles, making it easier to un
 This is still consistent with Newton's Physics where Newton assigned the cause of gravity to Spirit which is the same mechanism for the nerves.
 
 For example, the sponge pattern in the cosmos is explained by acoustic oscillations or bubbles. The more bubbles, the denser the sponge since these create its matter. 
+
+{{< i s="/graphics/physics/sponge2.jpg" a="Sponge" c="The visualization of NASA of the cosmic web matches Descartes' sponge" >}}
+
 
 It follows that the complexity of brain is caused by a lot of idea-objects bubbling in the aetherspace of the creature's brain. This then leads to more neural connections, and is why cognitive stimulation is encouraged during brain development.
 
