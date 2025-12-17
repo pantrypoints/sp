@@ -1,8 +1,8 @@
 ---
 heading: Chapter 23
-title: "Laws"
-description: "In the beginning, God created the heaven and the earth"
-weight: 4
+title: "Ammonite, Moabite, Edomite"
+description: "An Ammonite or Moabite shall not enter into the congregation of Enki."
+weight: 40
 c: "firebrick"
 ---
 
@@ -23,9 +23,7 @@ down, he shall come into the camp again.
 
 12 Thou shalt have a place also without the camp, whither you shalt go forth abroad: 13 And you shalt have a paddle upon your weapon; and it shall be, when thou wilt ease yourself abroad, you shalt dig therewith, and shalt turn back and cover that which cometh from you: 
 
-14 For Enki walks in the midst of your camp, to deliver you, and to give up thine enemies before you;
-therefore shall your camp be holy: that he see no unclean
-thing in you, and turn away from you. 
+14 For Enki walks in the midst of your camp, to deliver you, and to give up thine enemies before you; therefore shall your camp be holy: that he see no unclean thing in you, and turn away from you. 
 
 15 Do not deliver unto his master the servant which is escaped from his master unto you: 16 He shall dwell with you, [even] among you, in that place which he shall choose in one of your gates, where it liketh him best: you shalt not oppress him.
 
@@ -35,12 +33,11 @@ thing in you, and turn away from you.
 
 20 You may charge foreigners interest. But you must not charge interest on your brother Israelite so that Enki may bless you in all that you do in the land you are entering to possess.
 
-
 21 When you shalt vow a vow unto Enki your God, you shalt not slack to pay it: for Enki
 will surely require it of you; and it would be sin in you.
 
 22 But if you shalt forbear to vow, it shall be no sin in you. 23 That which is gone out of your lips you shalt keep and perform; [even] a free will offering, according as you hast vowed unto Enki, which you hast promised with your mouth.
 
-24 When you comest into your neighbour’s vineyard, then you mayest eat grapes your fill at thine own pleasure;
+24 If you enter your neighbor’s vineyard, you may eat all the grapes you want, but do not put any in your basket. 
 
-
+25 If you enter your neighbor’s grainfield, you may pick kernels with your hands, but you must not put a sickle to their standing grain.
