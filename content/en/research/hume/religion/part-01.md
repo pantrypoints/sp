@@ -1,5 +1,5 @@
 ---
-title: "Skepticism"
+title: "Skepticism amd Stoicism"
 heading: "Part 1"
 description: "The ancient philosophers conveyed most of their instruction in the form of dialogue. But dialogues have been little practised in later ages and have seldom succeeded when attempted"
 c: "indigo"
@@ -116,16 +116,24 @@ They resemble the STOICS even if they are perpetual antagonists.
 
 Both of them are based on this erroneous maxim that **what a man can perform sometimes, and in some dispositions, he can perform always, and in every disposition.**
 
-When the mind, by Stoical reflections, is elevated into a sublime enthusiasm of virtue, and strongly smit with any species of honour or public good, the utmost bodily pain and sufferings will not prevail over such a high sense of duty; and it is possible, perhaps, by its means, even to smile and exult in the midst of tortures. 
+Through Stoical reflections, they can elevate their minds into a sublime enthusiasm of virtue.
 
-If this sometimes may be the case in fact and reality, much more may a philosopher, in his school, or even in his closet, work himself up to such an enthusiasm, and support in imagination the acutest pain or most calamitous event which he can possibly conceive. 
+<!-- and strongly smit with any species of honour or public good, the utmost bodily pain and sufferings will not prevail over such a high sense of duty; and it is possible, perhaps, by its means, even  -->
 
-But how shall he support this enthusiasm itself? The bent of his mind relaxes, and cannot be recalled at pleasure; avocations lead him astray; misfortunes attack him unawares; and the philosopher sinks by degrees into the plebeian.
+This allows them to smile and exult in the midst of tortures. 
+
+<!-- If this sometimes may be the case in fact and reality, much more may a philosopher, in his school, or even in his closet, work himself up to such an enthusiasm, and support in imagination the acutest pain or most calamitous event which he can possibly conceive.  -->
+
+But how shall he support this enthusiasm itself? 
+
+<!-- The bent of his mind relaxes, and cannot be recalled at pleasure; avocations lead him astray; misfortunes attack him unawares; and the philosopher sinks by degrees into the plebeian. -->
 {{< /r >}}
 
 
 {{< l a="Philo" >}}
-In Stoicism, the mind cannot  support the highest flights of philosophy. Yet, even when it sinks lower, it still retains somewhat of its former disposition. The effects of the Stoic's reasoning will appear in his conduct in common life, and through the whole tenor of his actions. 
+In Stoicism, the mind cannot support the highest flights of philosophy. 
+
+Yet, even when it sinks lower, it still retains somewhat of its former disposition. The effects of the Stoic's reasoning will appear in his conduct in common life, and through the whole tenor of his actions. 
 
 The ancient schools, particularly that of ZENO, produced examples of virtue and constancy which seem astonishing to present times.
 
@@ -135,7 +143,9 @@ Pain, for a while, or anguish; and excite
 Fallacious Hope, or arm the obdurate breast
 With stubborn Patience, as with triple steel.
 
-In like manner, if a man has accustomed himself to sceptical considerations on the uncertainty and narrow limits of reason, he will not entirely forget them when he turns his reflection on other subjects; but in all his philosophical principles and reasoning, I dare not say in his common conduct, he will be found different from those, who either never formed any opinions in the case, or have entertained sentiments more favourable to human reason.
+Similarly, if a man has accustomed himself to sceptical considerations on the uncertainty and narrow limits of reason, he will not entirely forget them when he turns his reflection on other subjects.
+
+But in all his philosophical principles and reasoning, I dare not say in his common conduct, he will be found different from those, who either never formed any opinions in the case, or have entertained sentiments more favourable to human reason.
 
 To whatever length any one may push his speculative principles of scepticism, he must act, I own, and live, and converse, like other men; and for this conduct he is not obliged to give any other reason, than the absolute necessity he lies under of so doing. If he ever carries his speculations further than this necessity constrains him, and philosophises either on natural or moral subjects, he is allured by a certain pleasure and satisfaction which he finds in employing himself after that manner. 
 

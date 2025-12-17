@@ -8,61 +8,54 @@ icon: "Heritage Foundation"
 ---
 
 
-MISSION
+Mission
 
 OVERVIEW
 
-USAID was established during the presidency of John F. Kennedy pursuant
-to the Foreign Assistance Act of 19611 to promote the foreign policy, security, and
-national interests of the United States. At the height of the Cold War with the
-Soviet Union, it sought to halt the spread of Communism by assisting peoples in the
-developing world in their efforts to advance economically, socially, and politically.
-The agency helped to transition Central and Eastern Europe from socialism to
-free market–based democracies. Today, USAID leads the U.S. government’s global
-development and humanitarian disaster assistance responses.
-Over the years, USAID expanded the number of countries assisted, the scope
-and size of its activities, and especially its budget. The Trump Administration faced
+USAID was established during the presidency of John F. Kennedy pursuant to the Foreign Assistance Act of 1961 to promote the foreign policy, security, and
+national interests of the United States. 
 
-The U.S. Agency for International Development leads the U.S. government’s
-international development and disaster assistance programs. USAID helps com-
-munities to lead their own development journeys by reducing the impact of conflict;
-preventing hunger and the spread of pandemic disease; and counteracting the driv-
-ers of violence, instability, transnational crime, and other threats. In alignment
-with U.S. national security interests, the agency promotes American prosperity
-through initiatives that expand markets for U.S. exports; encourage innovation;
-create a level playing field for U.S. businesses; and support more stable, resilient,
-and democratic societies that are less likely to act against American interests and
-more likely to respect family, life, and religious liberty.﻿
+At the height of the Cold War, it sought to halt the spread of Communism by assisting peoples in the developing world in their efforts to advance economically, socially, and politically.
 
-an institution marred by bureaucratic inertia: programmatic incoherence; waste-
-ful spending; and dependence on huge awards to a self-serving and politicized aid
-industrial complex of United Nations agencies, international nongovernmental
-organizations (NGOs), and for-profit contractors. Once started, programs continue
-almost indefinitely—in many countries, for decades. USAID’s multibillion-dollar
-humanitarian programs that were once 80 percent in response to natural disasters
-are now 80 percent in response to violent, man-made crises and have become a
-permanent and immiserating feature of the global landscape.
-Under the Trump Administration, USAID focused on ending the need for for-
-eign aid by placing countries onto a Journey to Self-Reliance.2 The Administration
-restructured the agency to reflect this strategic approach to development, stream-
-lined procurement procedures to diversify its partner base, increased awards to
-cost-effective local (including faith-based) organizations, and improved inter-
-nal governance. It instituted pro-life and family-friendly policies. It promoted
-international religious freedom as a pillar of the agency’s work and built up an
-unprecedented genocide-response infrastructure.
+The agency helped to transition Central and Eastern Europe from socialism to free market–based democracies. Today, USAID leads the U.S. government’s global
+development and humanitarian disaster assistance responses. 
 
-The Biden Administration has deformed the agency by treating it as a global
-platform to pursue overseas a divisive political and cultural agenda that promotes
+Over the years, USAID expanded the number of countries assisted, the scope and size of its activities, and especially its budget. The Trump Administration faced an institution marred by:
+- bureaucratic inertia
+- programmatic incoherence
+- wasteful spending
+- dependence on huge awards to a self-serving and politicized aid industrial complex of:
+  - United Nations agencies
+  - international NGOs
+  - for-profit contractors
+ 
+Once started, programs continue almost indefinitely—in many countries, for decades.
+
+USAID’s multibillion-dollar humanitarian programs that were once 80 percent in response to natural disasters are now 80 percent in response to violent, man-made crises and have become a permanent and immiserating feature of the global landscape.
+
+Under the Trump Administration, USAID focused on ending the need for foreign aid by placing countries onto a Journey to Self-Reliance.
+
+The Administration  restructured the agency to reflect this strategic approach to development, streamlined procurement procedures to diversify its partner base, increased awards to cost-effective local (including faith-based) organizations, and improved internal governance.
+
+It instituted pro-life and family-friendly policies. It promoted international religious freedom as a pillar of the agency’s work and built up an unprecedented genocide-response infrastructure.
+
+The U.S. Agency for International Development leads the U.S. government’s international development and disaster assistance programs. USAID helps communities to lead their own development journeys by reducing the impact of conflict; preventing hunger and the spread of pandemic disease; and counteracting the drivers of violence, instability, transnational crime, and other threats.
+
+In alignment with U.S. national security interests, the agency promotes American prosperity through initiatives that expand markets for U.S. exports; encourage innovation;
+create a level playing field for U.S. businesses; and support more stable, resilient, and democratic societies that are less likely to act against American interests and
+more likely to respect family, life, and religious liberty.
+
+The Biden Administration has deformed the agency by treating it as a global platform to pursue overseas a divisive political and cultural agenda that promotes
 abortion, climate extremism, gender radicalism, and interventions against perceived
 systemic racism. It has dispensed with decades of bipartisan consensus on foreign
-aid and pursued policies that contravene basic American values and have antago-
-nized our partners in Asia, Africa, and Latin America. It has decoupled U.S. assistance
+aid and pursued policies that contravene basic American values and have antagonized our partners in Asia, Africa, and Latin America. It has decoupled U.S. assistance
 from free-market reforms that are the keystone of economic and political stability
 and has teamed with global institutions to impose central planning diktats on an
 unprecedented scale. Wasteful budget increases requested by the Administration
 and appropriated by Congress have outstripped USAID’s capacity to spend funds
 responsibly, and U.S. foreign aid has been transformed into a massive and open-
 ended global entitlement program captured by—and enriching—the progressive Left.
+
 The next conservative Administration should scale back USAID’s global foot-
 print by, at a minimum, returning to the agency’s 2019 pre–COVID-19 pandemic
 budget level. It should deradicalize USAID’s programs and structures and build

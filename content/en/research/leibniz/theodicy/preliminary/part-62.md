@@ -27,7 +27,7 @@ One needs neither any other criterion nor other arbitrator in questions of reaso
 Their course meets with no approval from the most expert, even in their own party: Calixtus and Daillé derided it as it deserved, and Bellarmine argued quite otherwise.
 
 
-63. M. Bayle says (p. 999) on the distinction we are concerned with: 'It seems to me that an ambiguity has crept into the celebrated distinction drawn between things that are above reason and things that are against reason. 
+63. Bayle says on the distinction: 'It seems to me that an ambiguity has crept into the celebrated distinction drawn between things that are above reason and things that are against reason. 
 
 The Mysteries of the Gospel are above reason, so it is usually said, but they are not contrary to reason. I think that the same sense is not given to the word reason in the first part of this axiom as in the second: by the first is understood rather the reason of man, or reason in concreto and by the second reason in general, or reason in abstracto. 
 
