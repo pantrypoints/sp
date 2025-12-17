@@ -8,10 +8,11 @@ c: "darkgoldenrod"
 ---
 
 
-### 3. Dr. S. Friedlaender / Halensee: Relativity Finally Refuted By Ernst Marcus
+## 3. Dr. S. Friedlaender @ Halensee
 
-<!-- [Note – Ernst Marcus developed a theory of aether -
-https://en.wikipedia.org/wiki/Ernst_Marcus_(philosopher) I don’t know Marcus’s theory so don’t
+### Relativity Finally Refuted By Ernst Marcus
+
+<!-- [Note – Ernst Marcus developed a theory of aether - https://en.wikipedia.org/wiki/Ernst_Marcus_(philosopher) I don’t know Marcus’s theory so don’t
 know what is being talked about in this section. ] -->
 
 According to the prevailing hypothesis of the propagation of light, the movement of light is independent of all movements of the physical world. It should therefore contrast against it.

@@ -13,29 +13,54 @@ icon: "David Hume"
 
 Money is not a subject of commerce. It is only the instrument which men have agreed upon to facilitate the exchange of one commodity for another.
 
-It is not the wheel of trade. It is the oil which renders the motion of the wheels more smooth and easy.
+Money is not the wheel of trade. It is the oil which renders the motion of the wheels more smooth and easy.
 
-The amount of money is of no consequence in any country since the prices of commodities are always proportional to the amount of money. A crown in Henry 7th’s time served the same purpose as a pound does at present.
+The amount of money is of no consequence in any country since the prices of commodities are always proportional to the amount of money. 
+- A crown in Henry 7th’s time served the same purpose as a pound does at present.
 
-It is only the public which draws any advantage from the greater plenty of money. They get this advantage only in their wars and negotiations with foreign states.
+It is only the public which draws any advantage from the greater plenty of money.
 
-All rich countries have employed mercenary troops from poorer neighbours. If they used their native subjects, it would be very expensive. Our small army of 20,000 men is maintained at as great expence as a French army twice the size. The English fleet during the late war needed as much money as all the imperial Roman legions, which ruled the known world.
+They get this advantage only in their wars and negotiations with foreign states.
 
-Most people and their industry are serviceable at home and abroad, in private, and in public. But money is very limited in its use. This limitation may even sometimes be a loss to a nation in its foreign commerce. This limitation naturally:
+All rich countries have employed mercenary troops from poorer neighbours.
+- If they used their native subjects, it would be very expensive.
+
+Our small army of 20,000 men is maintained at as great expence as a French army twice the size.
+
+The English fleet during the recent war needed as much money as all the imperial Roman legions, which ruled the known world.
+
+Most people and their industry are serviceable at home and abroad, in private, and in public.
+
+**But money is very limited in its use**.
+
+This limitation may even sometimes be a loss to a nation in its foreign commerce. This limitation naturally:
 - checks the growth of trade and riches
 - hinders them from being confined entirely to one people
 
 <!--  from the advantages of an established commerce. -->
-This confinement is naturally dreaded at first. If Nation X is ahead of Nation Y in trade, it is very difficult for Nation Y catch up because of the superior industry and skill of Nation X and the greater stocks of its merchants. These enable them to trade on smaller profits.
+
+This confinement is naturally dreaded at first. 
+
+If Nation X is ahead of Nation Y in trade, it is very difficult for Nation Y to catch up because of:
+- the superior industry and skill of Nation X 
+- the greater stocks of the merchants of Nation X 
+
+These enable them to trade on smaller profits.
 
 
 ## Natural Economic Development from the Price of Labour
 
-But these advantages are offset somewhat by the low price of labour in poor countries. This makes manufacturing gradually shift to poor countries. They leave those countries which they have already enriched to fly to others where they are enticed by the cheapness of provisions and labour until they have enriched these also. They are then again banished by the same causes.
+But these advantages are offset somewhat by the low price of labour in poor countries.
 
-In general, price inflation from the plenty of money is a disadvantage which attends an established commerce. It limits commerce in every country by enabling the poorer states to undersell the richer in all foreign markets.
+This makes manufacturing gradually shift to poor countries.
 
-This has made me doubt the benefit of banks and paper-credit, which are so generally esteemed advantageous to every nation.
+They leave those countries which they have already enriched to fly to others where they are enticed by the cheapness of provisions and labour until they have enriched these also. They are then again banished by the same causes.
+
+In general, price inflation from the plenty of money is a disadvantage which attends an established commerce.
+
+It limits commerce in every country by enabling the poorer states to undersell the richer in all foreign markets.
+
+**This has made me doubt the benefit of banks and paper-credit, which are so generally esteemed advantageous to every nation.**
 
 The dearness of the provisions and labour from the encrease of trade and money is:
 - an unavoidable inconvenience
@@ -43,9 +68,13 @@ The dearness of the provisions and labour from the encrease of trade and money i
 
 It is compensated by the advantages of us having metal money, which we can use in foreign wars and negotiations.
 
-But there is no reason to increase that inconvenience by a counterfeit money that foreigners will not accept. Any great disorder in the state will reduce counterfeit money to nothing.
+But there is no reason to increase that inconvenience by a counterfeit money that foreigners will not accept. 
 
-There are many rich people who prefer secure paper because it is easier and safer to transport. If the public does not provide a bank, private bankers will provide it.
+Any great disorder in the state will reduce counterfeit money to nothing.
+
+There are many rich people who prefer secure paper because it is easier and safer to transport.
+
+If the public does not provide a bank, private bankers will provide it.
 - Goldsmiths formerly did it in London
 - Bankers do it presently in Dublin
 
@@ -54,7 +83,9 @@ There are many rich people who prefer secure paper because it is easier and safe
 
 People think that a state-owned bank should give out loans to private people. <!--  should enjoy the benefit of that paper-credit. -->
 
-But no trading nation would have an interest to artificially try to increase such a credit because it would encrease money beyond its natural proportion to labour and commodities. It would lead to inflation from the merchant and manufacturer.
+But no trading nation would have an interest to artificially try to increase such a credit because it would encrease money beyond its natural proportion to labour and commodities. 
+
+It would lead to inflation from the merchant and manufacturer.
 
 Thus, the most advantageous bank is one that:
 - has locked up all the money it received, and
@@ -73,17 +104,19 @@ I will now explain two observations from our speculative politicians.
 
 Anacharsis The Scythian had never seen money in his own country. He shrewdly observed that the Greeks only used gold and silver to assist them in counting and arithmetic.
 
-> Speculative Observation 1: Money is nothing but the representation of labour and commodities.
+### Speculative Observation 1: Money is nothing but the representation of labour and commodities.
 
 It is a method of rating or estimating them. If coin were abundant, more of it will be needed to represent the same amount of goods.
 
-It would have the same effect to a nation as a change in a merchant’s books has an effect on his business. It would be the same as changing the numbering system from Roman into Arabic. The Arabic needs fewer characters than the Roman. Needing more money to do the same thing is as inconvenient as the Roman characters. It requires more trouble both to keep and transport it.
+It would have the same effect to a nation as a change in a merchant’s books has an effect on his business. It would be the same as changing the numbering system from Roman into Arabic. 
 
-
+The Arabic needs fewer characters than the Roman. Needing more money to do the same thing is as inconvenient as the Roman characters. It requires more trouble both to keep and transport it.
 
 Since the discovery of the American mines, industry has increased in all European nations, except in the nations that owned those mines.
 
-This increase in industry may justly be ascribed, amongst other reasons, to the encrease of gold and silver. In every kingdom where more money flows in, everything takes a new face:
+This increase in industry may justly be ascribed, amongst other reasons, to the encrease of gold and silver.
+
+In every kingdom where more money flows in, everything takes a new face:
 - Labour and industry gain life
 - The merchant becomes more enterprising
 - The manufacturer more diligent and skillful
@@ -92,7 +125,7 @@ This increase in industry may justly be ascribed, amongst other reasons, to the 
 - It obliges everyone to pay more of these yellow or white pieces for everything he buys.
 
 
-## How Inflation Happens
+### How Inflation Happens
 
 A great plenty of money is disadvantageous for foreign trade because it raises the price of labour. The high price of commodities is a necessary consequence of the encrease of gold and silver. 
 
@@ -141,7 +174,7 @@ If gold and silver are diminishing, this interval is as pernicious to industry a
 The poverty, beggary, and sloth, which must ensue, are easily foreseen.
 
 
-> Speculative Observation 2: Money is so scarce in some European countries that the landlord cannot get money from his tenants
+## Speculative Observation 2: Money is so scarce in some European countries that the landlord cannot get money from his tenants
 
 He is obliged to take his rent in kind, and either:
 - consume it himself, or

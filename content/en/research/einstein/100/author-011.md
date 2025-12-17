@@ -3,32 +3,33 @@ heading: "Authors 11-12"
 title: "Kuntz, Lasker"
 # date: 2024-12-12
 weight: 14
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+description: "Relativity, on the other hand, raises relativity itself to the absolute principle, with which itself contradicts. "
 c: "darkgoldenrod"
 ---
 
 
-### Dr. W. KUNTZ / SPANDAU
+### Dr. W. Kuntz @ Spandau
 
-EINSTEIN'S RELATIVITY CANCEL EVERY OBJECTIVE VALIDITY
+*Einstein's Relativity Cancels Every Objective Validity*
 
-Although human research will never reach a chimerical "absolute" , its history has proved that its
-progress is to replace the subjectivity and relativity of human conceptions with objective validity. It is
-precisely the liberation from relativity that is the measure of new insights. Relativity, on the other
-hand, raises relativity itself to the absolute principle, with which itself contradicts.
-Moreover, it proceeds unilaterally from the optical experience and neglects the knowledge of the
-sense of touch, which is more original than the sense of view, as it emerges from it that there aremany blind, but not completely touchless. The word "understanding" points conspicuously to this
-originality of the sense of touch.
-If the principles of RTH and relativism are transferred to other spiritual fields, any universal guideline
-for human striving becomes obsolete, and even the difference between error and correct knowledge
-continues.
-1 ) Cf. Gleich: "Einstein's Theories of Relativity and Physical Reality", Barth, Leipzig, 1930.
-19
+Although human research will never reach a chimerical "absolute", its history has proved that its progress is to replace the subjectivity and relativity of human conceptions with objective validity.
+
+It is precisely the liberation from relativity that is the measure of new insights. 
+
+Relativity, on the other hand, raises relativity itself to the absolute principle, with which itself contradicts. 
+
+Moreover, it proceeds unilaterally from the optical experience and neglects the knowledge of the sense of touch, which is more original than the sense of view, as it emerges from it that there aremany blind, but not completely touchless. 
+
+The word "understanding" points conspicuously to this originality of the sense of touch.
+
+If the principles of RTH and relativism are transferred to other spiritual fields, any universal guideline for human striving becomes obsolete, and even the difference between error and correct knowledge continues.
+
+1) Cf. Gleich: "Einstein's Theories of Relativity and Physical Reality", Barth, Leipzig, 1930. 19
 
 
-### Dr. EMANUEL LASKER/ BERLIN
+### Dr. Emanuel Lasker @ Berlin
 
-ANTINOMY OF RELATIVITY
+*Antinomy Of Relativity*
 
 Einstein's deduction overlooks the fact that the experience of empty space does not matter. By
 substituting the empirical value of about 300,000 km per second for c and arguing as if the

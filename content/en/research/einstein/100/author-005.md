@@ -8,7 +8,9 @@ c: "darkgoldenrod"
 ---
 
 
-5. ### Armin Gimmerthal / Bonn: Relativity Is Fake
+## 5. Armin Gimmerthal @ Bonn
+
+### Relativity Is Fake
 
 Factor | Grade
 --- | ---
@@ -34,7 +36,9 @@ principle of addition and the principle of relativity of classical mechanics;
 6. The Minkowski's "world" — a mathematical fantasy of this is in turn a forgery, and7. that the correctly understood mathematics of theory fully confirms all these accusations.
 
 
-### 6. Dr. Ludwig Gold Schmidt: Ignorance And Arbitrariness
+## 6. Dr. Ludwig Gold Schmidt
+
+### Ignorance And Arbitrariness
 
 My work refutes Einstein's assertions.
 
@@ -54,7 +58,9 @@ To really understand the error of their speculations, Einstein and Weyl will nee
 
 
 
-### 7. Professor Dr. A. H. De Hartog / Amsterdam: Philosophic Backgrounds
+## 7. Professor Dr. A. H. De Hartog @ Amsterdam
+
+### Philosophic Backgrounds
 
 Many believe that through his theory:
 - everything has become "relative"
@@ -78,3 +84,4 @@ The evaluation of these values is therefore not physical, but a metaphysical one
 4. Although these values should be relative, the human spirit nevertheless refers all, even these relative values, to the absolute, to the thought, the spirit, god or whatever word one may choose, in order to mean that unity is in- the midst of the multiplicity of science, wisdom and religion.
 
 5. Einstein's assertion of a finite universe is very suitable for making scientific, philosophical, and theological discussions about the spirit transcendent beyond this universe.
+

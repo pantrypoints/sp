@@ -3,12 +3,14 @@ heading: "Authors 14"
 title: "Professor Dr. P. F. Linke"
 # date: 2024-12-12
 weight: 18
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+description: "My opposition to Relativity begins as soon as it believes it can make philosophical and ideological statements"
 c: "darkgoldenrod"
 ---
 
 
-### Professor Dr. P. F. Linke / Jena: Relativity Theory And Psychological Time
+## Professor Dr. P. F. Linke @ Jena
+
+*Relativity Theory And Psychological Time*
 
 My opposition to Relativity begins as soon as it believes it can make philosophical and ideological statements.
 

@@ -1,6 +1,6 @@
 ---
 heading: "Author 4"
-title: "Geissler"
+title: "Dr. I. K. Geissler"
 # date: 2024-12-12
 weight: 8
 description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
@@ -8,7 +8,9 @@ c: "darkgoldenrod"
 ---
 
 
-### 4. Dr. I. K. GEISSLER / RINGGENBERG: ENOUGH WITH THE EINSTEIN - MISTAKE!
+### 4. Dr. I. K. Geissler @ Ringgenberg
+
+### Enough With The Einstein - Mistake!
 
 Factor | Grade
 --- | ---
@@ -82,8 +84,5 @@ One cannot jump over into the field of philosophy if one cannot think philosophi
 even the most extensive advertising does not help — except for people who understand the whole
 question only indepth or not at all.
 
-Whoever wants to judge here, including the who Einstein wants
-to prove right and revere him as a great physicist and philosopher must surely be able to think
-seriously and philosophically himself, or at least have heard the other side. Audiatur et altera pars
-[Latin translates as-> let the other party] - — and thoroughly, not just after a brief excerpt.
+Whoever wants to judge here, including the who Einstein wants to prove right and revere him as a great physicist and philosopher must surely be able to think seriously and philosophically himself, or at least have heard the other side. Audiatur et altera pars [Latin translates as-> let the other party] - — and thoroughly, not just after a brief excerpt.
 

@@ -43,14 +43,14 @@ But this breaks down as soon as we see that it is impossible to deduce the rate 
 
 The psychological time-preferences of an individual need two sets of decisions.
 
-1. The propensity to consume= This is his time-preference or the need for cash now
+1. The propensity to consume: This is his time-preference or the need for cash now
 
 How much money does he need now?
 
 <!-- This determines for each individual how much of his income he will consume and save. -->
 
 
-2. His liquidity preference= This is his need or love for cash in the future
+2. His liquidity preference: This is his need or love for cash in the future
 
 How much money does he *not* need now? 
 

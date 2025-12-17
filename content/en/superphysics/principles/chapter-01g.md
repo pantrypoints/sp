@@ -4,8 +4,8 @@ title: "Idea, Mind, and Life"
 date: 2024-12-28
 # 2020-01-04
 weight: 15
-image: /graphics/super/waves.jpg
-description: "Reality has 3 Operational Divisions"
+image: /photos/idea.jpg
+description: "In some areas, many waves intersect from various angles to create nodes. These acquire characteristics that are different from waves and become ideas."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

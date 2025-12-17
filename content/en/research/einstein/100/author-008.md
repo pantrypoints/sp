@@ -1,51 +1,42 @@
 ---
 heading: "Author 8"
-title: "Israel"
+title: "Dr. Hans Israel"
 # date: 2024-12-12
 weight: 12
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+description: "The mathematical calculation of Relativity by Einstein is so erroneous, that one can only express astonishment at it."
 c: "darkgoldenrod"
 ---
 
 
-Dr. HANS ISRAEL /BERLIN MATHEMATICAL PRESENTATION OF RELATIVITY THEORY
+## Dr. Hans Israel @ Berlin 
 
-The mathematical calculation of Relativity [that] has been carried out by Einstein [is] so erroneous,
-that one can only express astonishment at it. Some samples should suffice to prove the recklessness
-of his method:
+### Mathematical Presentation Of Relativity Theory
 
-1. Substitution x — vt = x' shall not apply to the reflected beam of light of the Michelson
-interferometer directed against earth translation. The coincidence of the dormant and moving
-mirror is achieved in this case by the substitution x + vt = x'. After that, the principle of relativity no
-longer applies in general terms. Einstein himself calculates in his differential equation the velocities
-c — v and c + v, which correspond to the substitutions above. So he refuted himself !
+The mathematical calculation of Relativity by Einstein is so erroneous, that one can only express astonishment at it.
 
-2. The relativistic shortening of results only in the middle interferometer mirror, while a
-completely different value can be calculated at the other two mirrors. But Einstein maintains
-relentlessly; After that, everything has been shortened evenly !
+Some samples should suffice to prove the recklessness of his method:
 
+1. Substitution x — vt = x' shall not apply to the reflected beam of light of the Michelson interferometer directed against earth translation. 
 
-3. The addition theorem of the velocities is obtained by Einstein only by the gross calculation error,
-two velocity systems c and w by the same coordinates
-and despite the new substitution
-to keep the factor c2 of the Lorentz transformation constant, instead of replacing c
-proportionally with w.
+The coincidence of the dormant and moving mirror is achieved in this case by the substitution x + vt = x'. 
 
-4. In calculating the relativity factor ß, Einstein overlooks the rotational pulse of the earth's surface
-of 426 m/sec, while tacitly executing the motion of the solar system according to the still image of
-Hercules of 19 km /sec the beam of light. This with sun-ether as the reference system, which results
-in a carrying [or entrainment] of the light beam in contrast to the relativity principle.
+After that, the principle of relativity no longer applies in general terms. Einstein himself calculates in his differential equation the velocities c — v and c + v, which correspond to the substitutions above. So he refuted himself ! 
 
-5. Since the aberration is a consequence of free aether-vibrations, while the Michelson interference
-occurs with earth-bound light, there is no reason at all that both light types behave identically.
+2. The relativistic shortening of results only in the middle interferometer mirror, while a completely different value can be calculated at the other two mirrors. But Einstein maintains relentlessly; After that, everything has been shortened evenly !
+
+3. The addition theorem of the velocities is obtained by Einstein only by the gross calculation error, two velocity systems c and w by the same coordinates
+and despite the new substitution to keep the factor c2 of the Lorentz transformation constant, instead of replacing c proportionally with w.
+
+4. In calculating the relativity factor ß, Einstein overlooks the rotational pulse of the earth's surface of 426 m/sec, while tacitly executing the motion of the solar system according to the still image of Hercules of 19 km /sec the beam of light. This with sun-ether as the reference system, which results in a carrying [or entrainment] of the light beam in contrast to the relativity principle. 
+
+5. Since the aberration is a consequence of free aether-vibrations, while the Michelson interference occurs with earth-bound light, there is no reason at all that both light types behave identically.
+
 Rather, earth light must be internally related to the earth's potential.
 
-6. By reshaping Maxwell's light wave equation: x2 + y2 +z2 -c2 t2 = 1, the t-coordinate acquires a
-certain position without resulting in a physical change or a fourth dimension.
+6. By reshaping Maxwell's light wave equation: x2 + y2 +z2 -c2 t2 = 1, the t-coordinate acquires a certain position without resulting in a physical change or a fourth dimension.
 
-7. The gravitational field cannot be replaced by an accelerated system because both systems are not
-equivalent. The substitution therefore does not give a coincidence of the
-gravitational field with the opposite accelerated system.
+7. The gravitational field cannot be replaced by an accelerated system because both systems are not equivalent. The substitution therefore does not give a coincidence of the
+gravitational field with the opposite accelerated system. 
 
 8. The Newtonian law of gravity finds Einstein only by the inadmissible substitution ds = dx4 = dt. It
 swaps categories of different senses and confuses mathematical equality with physical equivalence.
@@ -73,6 +64,5 @@ differently in terms of inertia. This admits that the difference is alogical one
 Since Einstein has taken note of the above errors of his work 1 ) without being able to refute them,
 he has thus admitted the fiasco of Relativity.
 
-1 ) See the v. 'Proof why Einstein's RTH should be put aside'. Hillman, Leipzig. Furthermore,
-"dissolution of Kant's doctrine of contradiction 4 . Schwetschke u. Sohn, Berlin.
-
+<!-- 1 ) See the v. 'Proof why Einstein's RTH should be put aside'. Hillman, Leipzig. Furthermore,
+"dissolution of Kant's doctrine of contradiction 4 . Schwetschke u. Sohn, Berlin. -->

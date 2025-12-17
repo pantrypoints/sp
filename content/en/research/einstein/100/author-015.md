@@ -3,14 +3,14 @@ heading: "Author 15"
 title: "Dr. Sten Lothigius"
 # date: 2024-12-12
 weight: 20
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+description: "The Classical Principle Of Relativity Is Valid For Physics As A Whole And [For] Large [Scale] And Also For The Optical - Electrical World"
 c: "darkgoldenrod"
 ---
 
 
-### Professor Dr. STEN LOTHIGIUS / STOCKHOLM
+## Professor Dr. Sten Lothigius @ Stockholm
 
-The Classical Principle Of Relativity Is Valid For Physics As A Whole And [For] Large [Scale] And Also For The Optical - Electrical World 1)
+The Classical Principle Of Relativity Is Valid For Physics As A Whole And [For] Large [Scale] And Also For The Optical - Electrical World 
 
 While physical theories are generally based on the principle of normal speed, the theory of the interference of light makes an exception. 
 
@@ -61,9 +61,4 @@ before one can get involved in dividing with the wavelength.
 If c is the speed of Achilles and w is the speed of turtles, since one turtle runs at the speed of W + V
 and another only runs at the speed of W - V, one will find the difference in path:
 
-If the expression is divided by the wavelength, one obtains numerically the displacement of
-the fringes of the interferences found by Fizeau through experimentation. This means a victory for
-the classical principle of relativity because it has been proven that the speed of light is changed by
-+/- v, which was the speed of the water flow.
-
-
+If the expression is divided by the wavelength, one obtains numerically the displacement of the fringes of the interferences found by Fizeau through experimentation. This means a victory for the classical principle of relativity because it has been proven that the speed of light is changed by +/- v, which was the speed of the water flow.

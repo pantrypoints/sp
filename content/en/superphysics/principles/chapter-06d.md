@@ -3,7 +3,7 @@ heading: "Chapter 6d"
 title: "Spin as Effort"
 date: 2025-10-05
 weight: 410
-image: "/photos/physics/quasar.jpg" 
+image: "/photos/physics/skates.jpg" 
 description: "Spin energy comes from outside"
 icon: "Juan"
 writer:
@@ -98,5 +98,3 @@ This is the foundation of our Theory of Dynamism.
 This theory aims to know the causes and effects of all change and movement, whether physical or metaphysical. 
 
 This is to harness such movement and dynamism in order to reach our goals, such as to solve problems that are unsolved by Physics and Science. -->
-
-

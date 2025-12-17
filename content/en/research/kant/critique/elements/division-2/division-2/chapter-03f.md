@@ -9,13 +9,41 @@ icon: "Kant"
 ---
 
 
-Both of the above arguments are transcendental; in other words, they do not proceed upon empirical principles.
+Both of the above arguments are transcendental -- they do not proceed on empirical principles.
 
-For, although the cosmological argument professed to lay a basis of experience for its edifice of reasoning, it did not ground its procedure upon the peculiar constitution of experience, but upon pure principles of reason—in relation to an existence given by empirical consciousness; utterly abandoning its guidance, however, for the purpose of supporting its assertions entirely upon pure conceptions. 
+The cosmological argument is based on experience. But it did not ground its procedure on the peculiar constitution of experience.
 
-What is the cause, in these transcendental arguments, of the dialectical, but natural, illusion, which connects the conceptions of necessity and supreme reality, and hypostatizes that which cannot be anything but an idea? What is the cause of this unavoidable step on the part of reason, of admitting that some one among all existing things must be necessary, while it falls back from the assertion of the existence of such a being as from an abyss? And how does reason proceed to explain this anomaly to itself, and from the wavering condition of a timid and reluctant approbation—always again withdrawn—arrive at a calm and settled insight into its cause?
+Instead it grounded it on pure [metaphysical] principles of reason -- it is in relation to an existence given by empirical consciousness.
+- The cosmological argument utterly abandons the guidance of experience in favor entirely on pure [metaphysical] conceptions. 
 
-It is something very remarkable that, on the supposition that something exists, I cannot avoid the inference that something exists necessarily. Upon this perfectly natural—but not on that account reliable—inference does the cosmological argument rest. But, let me form any conception whatever of a thing, I find that I cannot cogitate the existence of the thing as absolutely necessary, and that nothing prevents me—be the thing or being what it may—from cogitating its non-existence. I may thus be obliged to admit that all existing things have a necessary basis, while I cannot cogitate any single or individual thing as necessary. In other words, I can never complete the regress through the conditions of existence, without admitting the existence of a necessary being; but, on the other hand, I cannot make a commencement from this being.
+The natural dialectical illusion:
+- connects the conceptions of necessity and supreme reality
+- hypostatizes a mere idea
+
+In these transcendental arguments, what is the cause of this illusion?
+
+Reason admits that some one among all existing things is necessary.
+- Yet it falls back from the assertion of the existence of such a being as from an abyss.
+
+What is the cause of this?
+
+Reason explains this anomaly to itself.
+
+How does it do this?
+<!-- , and from the wavering condition of a timid and reluctant approbation—always again withdrawn—arrive at a calm and settled insight into its cause? -->
+
+ 
+
+Whenever I suppose that something exists, I cannot avoid the inference that that something exists necessarily. 
+- This is very remarkable.
+
+This is perfectly natural but not reliable.
+
+Inference does the cosmological argument rest.
+
+But, let me form any conception whatever of a thing, I find that I cannot cogitate the existence of the thing as absolutely necessary, and that nothing prevents me—be the thing or being what it may—from cogitating its non-existence. I may thus be obliged to admit that all existing things have a necessary basis, while I cannot cogitate any single or individual thing as necessary.
+
+In other words, I can never complete the regress through the conditions of existence, without admitting the existence of a necessary being; but, on the other hand, I cannot make a commencement from this being.
 
 If I must cogitate something as existing necessarily as the basis of existing things, and yet am not permitted to cogitate any individual thing as in itself necessary, the inevitable inference is that necessity and contingency are not properties of things themselves—otherwise an internal contradiction would result; that consequently neither of these principles are objective, but merely subjective principles of reason—the one requiring us to seek for a necessary ground for everything that exists, that is, to be satisfied with no other explanation than that which is complete a priori, the other forbidding us ever to hope for the attainment of this completeness, that is, to regard no member of the empirical world as unconditioned. In this mode of viewing them, both principles, in their purely heuristic and regulative character, and as concerning merely the formal interest of reason, are quite consistent with each other. The one says: "You must philosophize upon nature," as if there existed a necessary primal basis of all existing things, solely for the purpose of introducing systematic unity into your knowledge, by pursuing an idea of this character—a foundation which is arbitrarily admitted to be ultimate; while the other warns you to consider no individual determination, concerning the existence of things, as such an ultimate foundation, that is, as absolutely necessary, but to keep the way always open for further progress in the deduction, and to treat every determination as determined by some other. But if all that we perceive must be regarded as conditionally necessary, it is impossible that anything which is empirically given should be absolutely necessary.
 
@@ -32,4 +60,3 @@ These remarks will have made it evident to the reader that the ideal of the Supr
 We cannot, at the same time, avoid regarding, by a transcendental subreptio, this formal principle as constitutive, and hypostatizing this unity. Precisely similar is the case with our notion of space. 
 
 Space is the primal condition of all forms, which are properly just so many different limitations of it; and thus, although it is merely a principle of sensibility, we cannot help regarding it as an absolutely necessary and self-subsistent thing—as an object given a priori in itself. In the same way, it is quite natural that, as the systematic unity of nature cannot be established as a principle for the empirical employment of reason, unless it is based upon the idea of an ens realissimum, as the supreme cause, we should regard this idea as a real object, and this object, in its character of supreme condition, as absolutely necessary, and that in this way a regulative should be transformed into a constitutive principle. This interchange becomes evident when I regard this supreme being, which, relatively to the world, was absolutely (unconditionally) necessary, as a thing per se. In this case, I find it impossible to represent this necessity in or by any conception, and it exists merely in my own mind, as the formal condition of thought, but not as a material and hypostatic condition of existence.
-

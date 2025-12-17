@@ -5,7 +5,7 @@ title: "Life: Living Things as Expressive Minds"
 date: 2020-12-10
 weight: 450
 tags: ["life", "mind", "soul"]
-image: /graphics/super/node.jpg
+image: /photos/psych/free.jpg
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:
   name: Juan

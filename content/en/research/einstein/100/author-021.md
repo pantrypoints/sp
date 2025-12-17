@@ -1,6 +1,6 @@
 ---
 heading: "Authors 21"
-title: "Reuterdahl"
+title: "Dr. Arvid Reuterdahl"
 # date: 2024-12-12
 weight: 28
 description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
@@ -9,7 +9,9 @@ c: "darkgoldenrod"
 
 
 
-### Dr. Arvid Reuterdahl / St. Paul, Minn., U. S.A: Einsteinism /Its Faults And Deceptions
+### Dr. Arvid Reuterdahl @ St. Paul, Minn. USA
+
+*Einsteinism: Its Faults and Deceptions*
 
 <!-- (Translated by Dr. E. Ruckhaber) -->
 
@@ -137,7 +139,8 @@ All of Einstein's problems can be solved without recourse to his fantastic mathe
 
 Hence, his argument that his theories are true because they are supposed to be the only ones falls into the water.
 
-The delusions, of Einsteinism.
+
+### The delusions, of Einsteinism
 
 1. Bombastic advertising.
 

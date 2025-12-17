@@ -3,8 +3,8 @@ heading: "Chapter 1e"
 title: "Four Wave Properties: Commonality, Density, Strength, Spread"
 date: 2025-10-04
 weight: 13
-image: /graphics/super/waveprops.jpg
-description: "Reality has 3 Operational Divisions"
+image: /photos/physics/waves.jpg
+description: "The laws of Nature, from thermodynamics, the stages of life, and social cycles all show the wave properties of Existence which we can distill into 4"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

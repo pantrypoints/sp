@@ -67,9 +67,12 @@ I know of no other.
 
 And the liker the better, insisted PHILO. 
 
+
 To be sure, said CLEANTHES.
 
-Now, CLEANTHES, said PHILO, with an air of alacrity and triumph, mark the consequences. 
+
+{{< l a="Philo" >}}
+Now, CLEANTHES, mark the consequences. 
 
 First, By this method of reasoning, you renounce all claim to infinity in any of the attributes of the Deity. For, as the cause ought only to be proportioned to the effect, and the effect, so far as it falls under our cognisance, is not infinite; what pretensions have we, upon your suppositions, to ascribe that attribute to the Divine Being? You will still insist, that, by removing him so much from all similarity to human creatures, we give in to the most arbitrary hypothesis, and at the same time weaken all proofs of his existence.
 
@@ -81,11 +84,13 @@ And what shadow of an argument, continued PHILO, can you produce, from your hypo
 
 To multiply causes without necessity, is indeed contrary to true philosophy: but this principle applies not to the present case. Were one deity antecedently proved by your theory, who were possessed of every attribute requisite to the production of the universe; it would be needless, I own, (though not absurd,) to suppose any other deity existent. But while it is still a question, Whether all these attributes are united in one subject, or dispersed among several independent beings, by what phenomena in nature can we pretend to decide the controversy? Where we see a body raised in a scale, we are sure that there is in the opposite scale, however concealed from sight, some counterpoising weight equal to it; but it is still allowed to doubt, whether that weight be an aggregate of several distinct bodies, or one uniform united mass. And if the weight requisite very much exceeds any thing which we have ever seen conjoined in any single body, the former supposition becomes still more probable and natural. An intelligent being of such vast power and capacity as is necessary to produce the universe, or, to speak in the language of ancient philosophy, so prodigious an animal exceeds all analogy, and even comprehension.
 
-But further, CLEANTHES: men are mortal, and renew their species by generation; and this is common to all living creatures. The two great sexes of male and female, says MILTON, animate the world. Why must this circumstance, so universal, so essential, be excluded from those numerous and limited deities? Behold, then, the theogony of ancient times brought back upon us.
+But men are mortal, and renew their species by generation; and this is common to all living creatures. The two great sexes of male and female, says MILTON, animate the world. Why must this circumstance, so universal, so essential, be excluded from those numerous and limited deities? Behold, then, the theogony of ancient times brought back upon us.
 
 And why not become a perfect Anthropomorphite? Why not assert the deity or deities to be corporeal, and to have eyes, a nose, mouth, ears, &c.? EPICURUS maintained, that no man had ever seen reason but in a human figure; therefore the gods must have a human figure. And this argument, which is deservedly so much ridiculed by CICERO, becomes, according to you, solid and philosophical.
 
 In a word, CLEANTHES, a man who follows your hypothesis is able perhaps to assert, or conjecture, that the universe, sometime, arose from something like design: but beyond that position he cannot ascertain one single circumstance; and is left afterwards to fix every point of his theology by the utmost license of fancy and hypothesis. This world, for aught he knows, is very faulty and imperfect, compared to a superior standard; and was only the first rude essay of some infant deity, who afterwards abandoned it, ashamed of his lame performance: it is the work only of some dependent, inferior deity; and is the object of derision to his superiors: it is the production of old age and dotage in some superannuated deity; and ever since his death, has run on at adventures, from the first impulse and active force which it received from him. You justly give signs of horror, DEMEA, at these strange suppositions; but these, and a thousand more of the same kind, are CLEANTHES's suppositions, not mine. From the moment the attributes of the Deity are supposed finite, all these have place. And I cannot, for my part, think that so wild and unsettled a system of theology is, in any respect, preferable to none at all.
+{{< /l >}}
+
 
 {{< r a="Cleanthes" >}}
 These suppositions I absolutely disown. They strike me with no horror.

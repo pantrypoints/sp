@@ -8,20 +8,17 @@ c: "darkgoldenrod"
 ---
 
 
-LOTHAR MITIS / VIENNA
+## Lothar Mitis @ Vienna
 
-FACTS AND EINSTEIN
+*Facts And Einstein*
 
 The facts incorrectly presented by Einstein are:
 
-1. All normal natural phenomena, whether they are understood energetically or materially, are
-without exception subject to the most powerful of all monisms, gravity, they are heavy. These
-include the sound medium [as] air and the light medium [as] ether.
+1. All normal natural phenomena, whether they are understood energetically or materially, are without exception subject to the most powerful of all monisms, gravity, they are heavy. These include the sound medium [as] air and the light medium [as] ether.
 
-2. Apart from the bare nature of their means of reproduction, there are also numerous extensive
-analogies for sound and light: Both phenomena are vibrations into which their media are caused by
-vibrating or shining bodies. Under otherwise the same circumstances, both cover the same distances
-at the same time, so they need a certain amount of time to reproduce. In the same medium, they
+2. Apart from the bare nature of their means of reproduction, there are also numerous extensive analogies for sound and light: Both phenomena are vibrations into which their media are caused by vibrating or shining bodies.
+
+Under otherwise the same circumstances, both cover the same distances at the same time, so they need a certain amount of time to reproduce. In the same medium, they
 propagate in a straight line. Both are reflected or otherwise distracted. Both move in waves. For
 their perception, organs of their own have developed in the sensitive living beings. And so on. The
 analogy relating to the barik* of the media of sound and light is almost a matter of course. The same
@@ -29,9 +26,8 @@ result follows from Planck's theorem that wave movement always coincides with co
 movement, also according to Broglie, who also assumes physical waves for light.
 [*-don’t know translation.]
 
-3. The etheric gravity must therefore normally also manifest itself in the fact that the light beam is at
-least curved by attraction when it approaches a gravity field. Such a curvature was also noted by
-Eddington.
+
+3. The etheric gravity must therefore normally also manifest itself in the fact that the light beam is at least curved by attraction when it approaches a gravity field. Such a curvature was also noted by Eddington.
 
 4. As a result of the heaviness of the air, nobody should come up with the idea of wanting to detect
 the earth's movement acoustically by assuming, for example, that the speed of the sound waves
@@ -46,9 +42,8 @@ is heavy.
 How does Einstein react to all these insights, which to the sober philosopher, physicist and
 astronomer are presented as plain truisms?
 He denies point 1 (ethereal weight). For him, light is a purely abstract, immaterial and therefore
-Abarian* miracle thing.
+Abarian* miracle thing. [*- don’t know translation.]
 
-[*- don’t know translation.]
 
 He evades point 2 (analogy for sound and light). Nor does he draw any, or at least not the relevant,
 conclusions from the sentences of Planck and Broglie.He also treats point 3 (baric* curvature of the light rays) by eliminating gravitation. 
@@ -81,24 +76,15 @@ observers are unequal (sometimes larger, sometimes smaller).
 
 This RTH is the sick product of a sick time.
 
-See d. V. "Einstein's fundamental error". Hillmann, Leipzig 1930.
-35
-
 [Note “Abarian” – don’t know what means. Suspect words can’t translate here refer to “barbarian” in some way. ]
 
 
+## Dr. VINCENZ NACHREINER / NEUSTADT a. d. Haardt
 
+AGAINST EINSTEIN'S RELATIVITY THEORY Philosophy
 
-
-
-
-
-Dr. VINCENZ NACHREINER / NEUSTADT a. d. Haardt
-AGAINST EINSTEIN'S RELATIVITY THEORY
-Philosophy: The "spacetime thing" of the RTH contradicts the undoubted Kant-Schopenhauer theory
+The "spacetime thing" of the RTH contradicts the undoubted Kant-Schopenhauer theory
 of space, time and matter.
 Analytical mechanics: When changing the law of gravitation, even for spherical celestial bodies, the
 masses cannot be taken into account as being concentrated in the center.
-
-
 

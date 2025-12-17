@@ -32,8 +32,13 @@ Consider what it is you assert when you represent the Deity as similar to a huma
 What is the soul of man? A composition of various faculties, passions, sentiments, ideas; united, indeed, into one self or person, but still distinct from each other. 
 {{< /r >}}
 
+
 {{< r a="Demea" >}}
-When it reasons, the ideas, which are the parts of its discourse, arrange themselves in a certain form or order; which is not preserved entire for a moment, but immediately gives place to another arrangement. New opinions, new passions, new affections, new feelings arise, which continually diversify the mental scene, and produce in it the greatest variety and most rapid succession imaginable. How is this compatible with that perfect immutability and simplicity which all true Theists ascribe to the Deity? 
+When it reasons, the ideas, which are the parts of its discourse, arrange themselves in a certain form or order; which is not preserved entire for a moment, but immediately gives place to another arrangement. 
+
+New opinions, new passions, new affections, new feelings arise, which continually diversify the mental scene, and produce in it the greatest variety and most rapid succession imaginable. 
+
+How is this compatible with that perfect immutability and simplicity which all true Theists ascribe to the Deity? 
 
 By the same act, say they, he sees past, present, and future: His love and hatred, his mercy and justice, are one individual operation: He is entire in every point of space; and complete in every instant of duration. No succession, no change, no acquisition, no diminution. What he is implies not in it any shadow of distinction or diversity. And what he is this moment he ever has been, and ever will be, without any new judgement, sentiment, or operation.
 
@@ -41,11 +46,28 @@ He stands fixed in one simple, perfect state: nor can you ever say, with any pro
 {{< /r >}}
 
 
-I can readily allow, said CLEANTHES, that those who maintain the perfect simplicity of the Supreme Being, to the extent in which you have explained it, are complete Mystics, and chargeable with all the consequences which I have drawn from their opinion. They are, in a word, Atheists, without knowing it. For though it be allowed, that the Deity possesses attributes of which we have no comprehension, yet ought we never to ascribe to him any attributes which are absolutely incompatible with that intelligent nature essential to him. A mind, whose acts and sentiments and ideas are not distinct and successive; one, that is wholly simple, and totally immutable, is a mind which has no thought, no reason, no will, no sentiment, no love, no hatred; or, in a word, is no mind at all. It is an abuse of terms to give it that appellation; and we may as well speak of limited extension without figure, or of number without composition.
+{{< r a="Cleanthes" >}}
+Those who maintain the perfect simplicity of the Supreme Being, to the extent in which you have explained it, are complete Mystics.
 
-Pray consider, said PHILO, whom you are at present inveighing against. You are honouring with the appellation of Atheist all the sound, orthodox divines, almost, who have treated of this subject; and you will at last be, yourself, found, according to your reckoning, the only sound Theist in the world. But if idolaters be Atheists, as, I think, may justly be asserted, and Christian Theologians the same, what becomes of the argument, so much celebrated, derived from the universal consent of mankind?
+They are chargeable with all the consequences which I have drawn from their opinion. They are Atheists without knowing it.
 
-But because I know you are not much swayed by names and authorities, I shall endeavour to show you, a little more distinctly, the inconveniences of that Anthropomorphism, which you have embraced; and shall prove, that there is no ground to suppose a plan of the world to be formed in the Divine mind, consisting of distinct ideas, differently arranged, in the same manner as an architect forms in his head the plan of a house which he intends to execute.
+For though it be allowed, that the Deity possesses attributes of which we have no comprehension, yet ought we never to ascribe to him any attributes which are absolutely incompatible with that intelligent nature essential to him. A mind, whose acts and sentiments and ideas are not distinct and successive; one, that is wholly simple, and totally immutable, is a mind which has no thought, no reason, no will, no sentiment, no love, no hatred; or, in a word, is no mind at all. It is an abuse of terms to give it that appellation; and we may as well speak of limited extension without figure, or of number without composition.
+{{< /r >}}
+
+
+
+{{< l a="Philo" >}}
+You are honouring as Atheist all the sound, orthodox divines who have treated of this subject.
+
+This makes you the only sound Theist in the world.
+
+It is just to say that idolaters are Atheists. 
+
+<!-- But if so, then Christian Theologians are the same, what becomes of the argument, so much celebrated, derived from the universal consent of mankind? -->
+
+But because I know you are not much swayed by names and authorities, I shall endeavour to show you, a little more distinctly, the inconveniences of that Anthropomorphism, which you have embraced.
+
+and shall prove, that there is no ground to suppose a plan of the world to be formed in the Divine mind, consisting of distinct ideas, differently arranged, in the same manner as an architect forms in his head the plan of a house which he intends to execute.
 
 It is not easy, I own, to see what is gained by this supposition, whether we judge of the matter by Reason or by Experience. We are still obliged to mount higher, in order to find the cause of this cause, which you had assigned as satisfactory and conclusive.
 
@@ -60,11 +82,18 @@ To say, that the different ideas which compose the reason of the Supreme Being, 
 We have, indeed, experience of ideas which fall into order of themselves, and without any known cause. But, I am sure, we have a much larger experience of matter which does the same; as, in all instances of generation and vegetation, where the accurate analysis of the cause exceeds all human comprehension. We have also experience of particular systems of thought and of matter which have no order; of the first in madness, of the second in corruption. Why, then, should we think, that order is more essential to one than the other? And if it requires a cause in both, what do we gain by your system, in tracing the universe of objects into a similar universe of ideas? The first step which we make leads us on for ever. It were, therefore, wise in us to limit all our inquiries to the present world, without looking further. No satisfaction can ever be attained by these speculations, which so far exceed the narrow bounds of human understanding.
 
 It was usual with the PERIPATETICS, you know, CLEANTHES, when the cause of any phenomenon was demanded, to have recourse to their faculties or occult qualities; and to say, for instance, that bread nourished by its nutritive faculty, and senna purged by its purgative. But it has been discovered, that this subterfuge was nothing but the disguise of ignorance; and that these philosophers, though less ingenuous, really said the same thing with the sceptics or the vulgar, who fairly confessed that they knew not the cause of these phenomena. In like manner, when it is asked, what cause produces order in the ideas of the Supreme Being; can any other reason be assigned by you, Anthropomorphites, than that it is a rational faculty, and that such is the nature of the Deity? But why a similar answer will not be equally satisfactory in accounting for the order of the world, without having recourse to any such intelligent creator as you insist on, may be difficult to determine. It is only to say, that such is the nature of material objects, and that they are all originally possessed of a faculty of order and proportion. These are only more learned and elaborate ways of confessing our ignorance; nor has the one hypothesis any real advantage above the other, except in its greater conformity to vulgar prejudices.
+{{< /l >}}
+
 
 You have displayed this argument with great emphasis, replied CLEANTHES: You seem not sensible how easy it is to answer it. Even in common life, if I assign a cause for any event, is it any objection, PHILO, that I cannot assign the cause of that cause, and answer every new question which may incessantly be started? And what philosophers could possibly submit to so rigid a rule? philosophers, who confess ultimate causes to be totally unknown; and are sensible, that the most refined principles into which they trace the phenomena, are still to them as inexplicable as these phenomena themselves are to the vulgar. The order and arrangement of nature, the curious adjustment of final causes, the plain use and intention of every part and organ; all these bespeak in the clearest language an intelligent cause or author. The heavens and the earth join in the same testimony: The whole chorus of Nature raises one hymn to the praises of its Creator. You alone, or almost alone, disturb this general harmony. You start abstruse doubts, cavils, and objections: You ask me, what is the cause of this cause? I know not; I care not; that concerns not me. I have found a Deity; and here I stop my inquiry. Let those go further, who are wiser or more enterprising.
 
-I pretend to be neither, replied PHILO: And for that very reason, I should never perhaps have attempted to go so far; especially when I am sensible, that I must at last be contented to sit down with the same answer, which, without further trouble, might have satisfied me from the beginning. If I am still to remain in utter ignorance of causes, and can absolutely give an explication of nothing, I shall never esteem it any advantage to shove off for a moment a difficulty, which, you acknowledge, must immediately, in its full force, recur upon me. Naturalists indeed very justly explain particular effects by more general causes, though these general causes themselves should remain in the end totally inexplicable; but they never surely thought it satisfactory to explain a particular effect by a particular cause, which was no more to be accounted for than the effect itself. An ideal system, arranged of itself, without a precedent design, is not a whit more explicable than a material one, which attains its order in a like manner; nor is there any more difficulty in the latter supposition than in the former.
 
+
+{{< l a="Philo" >}}
+I pretend to be neither. That is why I should never have gone so far. 
+
+This is especially when I am sensible, that I must at last be contented to sit down with the same answer, which, without further trouble, might have satisfied me from the beginning. If I am still to remain in utter ignorance of causes, and can absolutely give an explication of nothing, I shall never esteem it any advantage to shove off for a moment a difficulty, which, you acknowledge, must immediately, in its full force, recur upon me. Naturalists indeed very justly explain particular effects by more general causes, though these general causes themselves should remain in the end totally inexplicable; but they never surely thought it satisfactory to explain a particular effect by a particular cause, which was no more to be accounted for than the effect itself. An ideal system, arranged of itself, without a precedent design, is not a whit more explicable than a material one, which attains its order in a like manner; nor is there any more difficulty in the latter supposition than in the former.
+{{< /l >}}
 
 
 

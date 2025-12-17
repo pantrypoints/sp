@@ -8,23 +8,14 @@ c: "darkgoldenrod"
 ---
 
 
-### Professor Dr. HJ. MELLIN / HELSINGFORS
+## Professor Dr. HJ MELLIN @ HELSINGFORS
 
-THE UNSUSTAINABILITY OF RELATIVITY THEORY
+*The Unsustainability Of Relativity Theory*
 
 For an expert in logical matters, the untenability of Relativity can be explained very briefly and simply.
 
 Because the concept of simultaneity and the equally central concept of existence
-- both of the indefinable ultimate givens or basic concepts
-
-1) The thought of Fresnel deals with different densities. In my private sense, I assume that if you
-have a carafe of water on the table and then walk around the room with the carafe, the water will
-have the same density in both cases. Fresnel was of the opinion that part of the ether remained and
-another part was carried away - it is a daring and somewhat arbitrary arithmetic operation, the
-arithmetic average number from the struggle to pull to calculate between these two “ethers.
-
-
-belong, without which no thinking is possible - are so inextricably linked that with simultaneity also
+- both of the indefinable ultimate givens or basic concepts belong, without which no thinking is possible - are so inextricably linked that with simultaneity also
 the existence of certain things is thought and asserted: in mathematics the existence of thought
 things, in physics the existence of real things. Conversely, existence without absolutely simultaneous
 things is also absolute nothing. Since Relativity denies absolute simultaneity, it (unconsciously) denies
@@ -33,6 +24,8 @@ untenability of this “theory” can be made so fabulously short and simple.
 The core point in the immense relativistic confusion of terms deserves to be explained in more detail
 in connection with other fundamental terms. Without the two basic concepts just mentioned, no
 thinking is possible, as I said.
+
+1) The thought of Fresnel deals with different densities. In my private sense, I assume that if you have a carafe of water on the table and then walk around the room with the carafe, the water will have the same density in both cases. Fresnel was of the opinion that part of the ether remained and another part was carried away - it is a daring and somewhat arbitrary arithmetic operation, the arithmetic average number from the struggle to pull to calculate between these two “ethers.
 
 The core point in the immense relativistic confusion of terms deserves to be explored in more detail
 in connection with other fundamental terms. Without the two basic concepts just mentioned, no
@@ -43,8 +36,7 @@ simultaneity, there can be no talk of uniformity, non-uniformity, speed and acce
 consider the most general case where two bodies or points P and Q move along their
 respective trajectories from the starting positions P_0, Q_0 at the same time. 
 
-The trajectories may
-[be at] rest in relation to one another or move as they like. In any case, we say that the movement of
+The trajectories may be at rest in relation to one another or move as they like. In any case, we say that the movement of
 P is uniform with respect to that of Q, if the ratio of the simultaneously travelled distances ([along]
 railway lines) P0 P: Q0 Q constantly maintains the same constant value C at every instant (time) (or
 shorter: if any but the same distances covered by Q always correspond to the same proportional
@@ -105,4 +97,3 @@ Further explanations can be found in my following works:
 - "The ether and the ether tension" 'ibid XXX (45 p.).
 - "The ether and the ether tension", ibid XXX (10 p.). 
 - "The world structure in the light of the ether tension", ibid XXX (36 S.)-- Separate: Academic Bookshop, Helsingfors.
-

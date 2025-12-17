@@ -124,7 +124,7 @@ Subdivision |  Phenomena | Superphysics Branch
 5 Layers | Non-Living | Material
 
 
-## Static is 3, Dynamic if 4 
+## Static if 3, Dynamic if 4 
 
 The 3 divisions arises from the static view of a symmetric thing: it will have  a center and 2 extremes.
 - These 2 extremes are represened by the Negative and Positive Forces.

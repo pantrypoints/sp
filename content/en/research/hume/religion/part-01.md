@@ -17,72 +17,111 @@ DEMEA gave compliments to CLEANTHES on:
 - the great care which he took of my education
 - his unwearied perseverance and constancy in all his friendships. 
 
-He said that the father of PAMPHILUS was your intimate friend. The son is your pupil which can even be  regarded as your adopted son.
+He said that the father of PAMPHILUS was your intimate friend. The son is your pupil which can even be regarded as your adopted son.
 <!-- , were we to judge by the pains which you bestow in conveying to him every useful branch of literature and science.  -->
-
-You are no more wanting, I am persuaded, in prudence, than in industry. I shall, therefore, communicate to you a maxim, which I have observed with regard to my own children, that I may learn how far it agrees with your practice. 
-
-The method I follow in their education is founded on the saying of an ancient, "That students of philosophy ought first to learn logics, then ethics, next physics, last of all the nature of the gods." [Chrysippus apud Plut: de repug: Stoicorum] 
-
-This science of natural theology, according to him, being the most profound and abstruse of any, required the maturest judgement in its students; and none but a mind enriched with all the other sciences, can safely be entrusted with it.
-
-
-{{< l a="Philo" >}}
-Are you so late in teaching your children the principles of religion? 
-
-Is there no danger of their neglecting, or rejecting altogether those opinions of which they have heard so little during the whole course of their education? 
-{{< /l >}}
 
 
 {{< r a="Demea" >}}
-It is only as a science subjected to human reasoning and disputation, that I postpone the study of Natural Theology. 
+You are no more wanting, I am persuaded, in prudence, than in industry.
 
-To season their minds with early piety, is my chief care; and by continual precept and instruction, and I hope too by example, I imprint deeply on their tender minds an habitual reverence for all the principles of religion. While they pass through every other science, I still remark the uncertainty of each part; the eternal disputations of men; the obscurity of all philosophy; and the strange, ridiculous conclusions, which some of the greatest geniuses have derived from the principles of mere human reason. Having thus tamed their mind to a proper submission and self-diffidence, I have no longer any scruple of opening to them the greatest mysteries of religion; nor apprehend any danger from that assuming arrogance of philosophy, which may lead them to reject the most established doctrines and opinions.
+I shall therefore tell you a maxim which I have observed with my own children so that I may learn how far it agrees with your practice. 
+
+I follow an ancient method in their education: "Students of philosophy shold first learn logics, then ethics, next physics, last of all the nature of the gods." [Chrysippus apud Plut: de repug: Stoicorum] 
+
+This science of natural theology is the most profound and abstruse. It requires the maturest judgement in its students.
+
+Only a mind enriched with all the other sciences can safely be entrusted with it.
 {{< /r >}}
 
 
 {{< l a="Philo" >}}
-Your precaution of seasoning your children's minds early with piety, is very reasonable; and no more than is requisite in this profane and irreligious age. 
-
-I admire your method of drawing advantage from the very principles of philosophy and learning, which, by inspiring pride and self-sufficiency, have commonly, in all ages, been found so destructive to the principles of religion. 
-
-The vulgar we may remark, who are unacquainted with science and profound inquiry, observing the endless disputes of the learned, have commonly a thorough contempt for philosophy; and rivet themselves the faster, by that means, in the great points of theology which have been taught them. 
-
-Those who enter a little into study and inquiry, finding many appearances of evidence in doctrines the newest and most extraordinary, think nothing too difficult for human reason; and, presumptuously breaking through all fences, profane the inmost sanctuaries of the temple. But CLEANTHES will, I hope, agree with me, that, after we have abandoned ignorance, the surest remedy, there is still one expedient left to prevent this profane liberty. 
-
-Let DEMEA's principles be improved and cultivated: Let us become thoroughly sensible of the weakness, blindness, and narrow limits of human reason: Let us duly consider its uncertainty and endless contrarieties, even in subjects of common life and practice: 
-
-Let the errors and deceits of our very senses be set before us; the insuperable difficulties which attend first principles in all systems; the contradictions which adhere to the very ideas of matter, cause and effect, extension, space, time, motion; and in a word, quantity of all kinds, the object of the only science that can fairly pretend to any certainty or evidence. 
-
-When these topics are displayed in their full light, as they are by some philosophers and almost all divines; who can retain such confidence in this frail faculty of reason as to pay any regard to its determinations in points so sublime, so abstruse, so remote from common life and experience? When the coherence of the parts of a stone, or even that composition of parts which renders it extended; when these familiar objects, I say, are so inexplicable, and contain circumstances so repugnant and contradictory; with what assurance can we decide concerning the origin of worlds, or trace their history from eternity to eternity?
+Why so late in teaching your children the principles of religion? 
+<!-- Is there no danger of their neglecting, or rejecting altogether those opinions of which they have heard so little during the whole course of their education?  -->
 {{< /l >}}
 
 
-While PHILO pronounced these words, I could observe a smile in the countenance both of DEMEA and CLEANTHES. That of DEMEA seemed to imply an unreserved satisfaction in the doctrines delivered: But, in CLEANTHES's features, I could distinguish an air of finesse; as if he perceived some raillery or artificial malice in the reasonings of PHILO.
+{{< r a="Demea" >}}
+<!-- It is only as a science subjected to human reasoning and disputation, that I postpone the study of Natural Theology.  -->
+
+My chief care is to season their minds with early piety.
+
+By continual precept, instruction, and example, I hope to imprint deeply on their tender minds a reverence for the principles of religion.
+
+While they pass through every other science, I still remark the:
+- uncertainty of the disputes of men
+- obscurity of all philosophy
+- strange, ridiculous conclusions, which some of the greatest geniuses have derived from the principles of mere human reason. 
+
+<!--
+Having thus tamed their mind to a proper submission and self-diffidence, I have no longer any scruple of opening to them the greatest mysteries of religion; nor apprehend any danger from that assuming arrogance of philosophy, which may lead them to reject the most established doctrines and opinions. -->
+{{< /r >}}
+
+
+{{< l a="Philo" >}}
+<!-- Your precaution of seasoning your children's minds early with piety, is very reasonable; and no more than is requisite in this profane and irreligious age. 
+
+I admire your method of drawing advantage from the very principles of philosophy and learning, which, by inspiring pride and self-sufficiency, have commonly, in all ages, been found so destructive to the principles of religion.  -->
+
+The vulgar are unacquainted with science and profound inquiry. They observe the endless disputes of the learned. And so they have commonly a contempt for philosophy.
+
+ <!-- and rivet themselves the faster, by that means, in the great points of theology which have been taught them.  -->
+
+Those who enter a little into study and inquiry find many appearances of evidence in the newest and most extraordinary doctrines.
+
+ <!-- think nothing too difficult for human reason; and, presumptuously breaking through all fences, profane the inmost sanctuaries of the temple.  -->
+
+But CLEANTHES will, I hope, agree with me, that, after we have abandoned ignorance, the surest remedy, there is still one expedient left to prevent this profane liberty. 
+
+Let DEMEA's principles be improved and cultivated. Let us become thoroughly sensible of the weakness, blindness, and narrow limits of human reason.
+
+<!--  Let us duly consider its uncertainty and endless contrarieties, even in subjects of common life and practice: 
+
+Let the errors and deceits of our very senses be set before us; the insuperable difficulties which attend first principles in all systems; the contradictions which adhere to the very ideas of matter, cause and effect, extension, space, time, motion; and in a word, quantity of all kinds, the object of the only science that can fairly pretend to any certainty or evidence. 
+
+When these topics are displayed in their full light, as they are by some philosophers and almost all divines; who can retain such confidence in this frail faculty of reason as to pay any regard to its determinations in points so sublime, so abstruse, so remote from common life and experience?
+
+When the coherence of the parts of a stone, or even that composition of parts which renders it extended; when these familiar objects, I say, are so inexplicable, and contain circumstances so repugnant and contradictory; with what assurance can we decide concerning the origin of worlds, or trace their history from eternity to eternity? -->
+{{< /l >}}
+
+
+<!-- While PHILO pronounced these words, I could observe a smile in the countenance both of DEMEA and CLEANTHES. That of DEMEA seemed to imply an unreserved satisfaction in the doctrines delivered: But, in CLEANTHES's features, I could distinguish an air of finesse; as if he perceived some raillery or artificial malice in the reasonings of PHILO. -->
 
 
 {{< r a="Cleanthes" >}}
-You propose then, PHILO, to erect religious faith on philosophical scepticism. You think, that if certainty or evidence be expelled from every other subject of inquiry, it will all retire to these theological doctrines, and there acquire a superior force and authority. 
+You propose then, PHILO, to erect religious faith on philosophical scepticism.
 
-Whether your scepticism be as absolute and sincere as you pretend, we shall learn by and by, when the company breaks up: We shall then see, whether you go out at the door or the window; and whether you really doubt if your body has gravity, or can be injured by its fall; according to popular opinion, derived from our fallacious senses, and more fallacious experience. And this consideration, DEMEA, may, I think, fairly serve to abate our ill-will to this humorous sect of the sceptics. If they be thoroughly in earnest, they will not long trouble the world with their doubts, cavils, and disputes: If they be only in jest, they are, perhaps, bad raillers; but can never be very dangerous, either to the state, to philosophy, or to religion.
+You think that if evidence were expelled from every other subject of inquiry, it will all retire to these theological doctrines which would thenacquire a superior force and authority.
+
+<!-- Whether your scepticism be as absolute and sincere as you pretend, we shall learn by and by, when the company breaks up: We shall then see, whether you go out at the door or the window; and whether you really doubt if your body has gravity, or can be injured by its fall; according to popular opinion, derived from our fallacious senses, and more fallacious experience. 
+
+I think, DEMEA, this may abate our ill-will to this humorous sect of the sceptics. -->
+
+If the Sceptics are earnest, they will not trouble the world with their doubts, cavils, and disputes.
+
+<!-- If they be only in jest, they are, perhaps, bad raillers; but can never be very dangerous, either to the state, to philosophy, or to religion. -->
 
 After intense reflection on the many contradictions of human reason, a man might renounce all belief and opinion.
 
 But it is impossible for him to persevere in this total scepticism for a few hours. 
 
-External objects press in upon him; passions solicit him; his philosophical melancholy dissipates; and even the utmost violence upon his own temper will not be able, during any time, to preserve the poor appearance of scepticism. And for what reason impose on himself such a violence? 
+This is because external objects press in on him.
 
-This is a point in which it will be impossible for him ever to satisfy himself, consistently with his sceptical principles. 
+<!--  passions solicit him; his philosophical melancholy dissipates; and even the utmost violence upon his own temper will not be able, during any time, to preserve the poor appearance of scepticism. And for what reason impose on himself such a violence? 
 
-So that, upon the whole, nothing could be more ridiculous than the principles of the ancient PYRRHONIANS; if in reality they endeavoured, as is pretended, to extend, throughout, the same scepticism which they had learned from the declamations of their schools, and which they ought to have confined to them.
+This is a point in which it will be impossible for him ever to satisfy himself, consistently with his sceptical principles.  -->
 
-In this view, there appears a great resemblance between the sects of the STOICS and PYRRHONIANS, though perpetual antagonists; and both of them seem founded on this erroneous maxim, That what a man can perform sometimes, and in some dispositions, he can perform always, and in every disposition. When the mind, by Stoical reflections, is elevated into a sublime enthusiasm of virtue, and strongly smit with any species of honour or public good, the utmost bodily pain and sufferings will not prevail over such a high sense of duty; and it is possible, perhaps, by its means, even to smile and exult in the midst of tortures. 
+And so the principles of the ancient PYRRHONIANS are most ridiculous.
+
+They resemble the STOICS even if they are perpetual antagonists.
+
+Both of them are based on this erroneous maxim that **what a man can perform sometimes, and in some dispositions, he can perform always, and in every disposition.**
+
+When the mind, by Stoical reflections, is elevated into a sublime enthusiasm of virtue, and strongly smit with any species of honour or public good, the utmost bodily pain and sufferings will not prevail over such a high sense of duty; and it is possible, perhaps, by its means, even to smile and exult in the midst of tortures. 
 
 If this sometimes may be the case in fact and reality, much more may a philosopher, in his school, or even in his closet, work himself up to such an enthusiasm, and support in imagination the acutest pain or most calamitous event which he can possibly conceive. 
 
 But how shall he support this enthusiasm itself? The bent of his mind relaxes, and cannot be recalled at pleasure; avocations lead him astray; misfortunes attack him unawares; and the philosopher sinks by degrees into the plebeian.
 {{< /r >}}
-
 
 
 {{< l a="Philo" >}}
@@ -118,5 +157,3 @@ But whenever our arguments lose this advantage, and run wide of common life, tha
 
 The mind must remain in suspense between them; and it is that very suspense or balance, which is the triumph of scepticism.
 {{< /l >}}
-
-

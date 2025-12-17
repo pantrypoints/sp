@@ -67,5 +67,3 @@ But a limit of determinability is not a limit of ideal gratitude; and limits of 
 
 8. Relatvity only deals with the practical scientific operation of mathematical physics, which
 encounters certain obstacles; but it has no ideological significance at all.
-
-

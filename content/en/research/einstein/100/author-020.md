@@ -3,15 +3,15 @@ heading: "Authors 20"
 title: "Rauschenberger"
 # date: 2024-12-12
 weight: 26
-description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
+description: "There is no fundamental problem in Michelson's experiment."
 c: "darkgoldenrod"
 ---
 
 
 
-### Dr. WALTHER RAUSCHENBERGER / FRANKFURT
+## Dr. Walther Rauschenberger @ Frankfurt
 
-ANTI-EINSTEIN
+**Anti-Einstein**
 
 1. There is no fundamental problem in Michelson's experiment.
 
@@ -72,3 +72,4 @@ The recognition of Relativity is one of the strangest aberrations of the human m
 <!-- See d. V. “The absolute in motion”, Archive f, System. Philos., Vol. 29, Issue 3/4; “To the RTH”, Leipz.
 Daybl. 1922; "To the RTH", Frankf. University newspaper,
 December 31, 1921. -->
+
