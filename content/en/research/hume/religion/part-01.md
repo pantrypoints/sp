@@ -133,9 +133,13 @@ But how shall he support this enthusiasm itself?
 {{< l a="Philo" >}}
 In Stoicism, the mind cannot support the highest flights of philosophy. 
 
-Yet, even when it sinks lower, it still retains somewhat of its former disposition. The effects of the Stoic's reasoning will appear in his conduct in common life, and through the whole tenor of his actions. 
+Yet, even when it sinks lower, it still retains its former disposition.
+
+ <!-- The effects of the Stoic's reasoning will appear in his conduct in common life, and through the whole tenor of his actions.  -->
 
 The ancient schools, particularly that of ZENO, produced examples of virtue and constancy which seem astonishing to present times.
+{{< /l >}}
+
 
 Vain Wisdom all and false Philosophy.
 Yet with a pleasing sorcery could charm
@@ -143,11 +147,17 @@ Pain, for a while, or anguish; and excite
 Fallacious Hope, or arm the obdurate breast
 With stubborn Patience, as with triple steel.
 
-Similarly, if a man has accustomed himself to sceptical considerations on the uncertainty and narrow limits of reason, he will not entirely forget them when he turns his reflection on other subjects.
 
-But in all his philosophical principles and reasoning, I dare not say in his common conduct, he will be found different from those, who either never formed any opinions in the case, or have entertained sentiments more favourable to human reason.
+{{< l a="Philo" >}}
+Similarly, if a man is frequently sceptical on the uncertainty and narrow limits of reason, he will not entirely forget them when reflects on other subjects.
 
-To whatever length any one may push his speculative principles of scepticism, he must act, I own, and live, and converse, like other men; and for this conduct he is not obliged to give any other reason, than the absolute necessity he lies under of so doing. If he ever carries his speculations further than this necessity constrains him, and philosophises either on natural or moral subjects, he is allured by a certain pleasure and satisfaction which he finds in employing himself after that manner. 
+But in his philosophical principles, he will be the same as those who either:
+- never formed any opinions in the case, or
+- favour human reason.
+
+To whatever length any one may push his speculative principles of scepticism, he must act, I own, and live, and converse, like other men;
+
+For this conduct, he is not obliged to give any other reason, than the absolute necessity he lies under of so doing. If he ever carries his speculations further than this necessity constrains him, and philosophises either on natural or moral subjects, he is allured by a certain pleasure and satisfaction which he finds in employing himself after that manner. 
 
 He considers besides, that every one, even in common life, is constrained to have more or less of this philosophy; that from our earliest infancy we make continual advances in forming more general principles of conduct and reasoning; that the larger experience we acquire, and the stronger reason we are endued with, we always render our principles the more general and comprehensive; and that what we call philosophy is nothing but a more regular and methodical operation of the same kind. To philosophise on such subjects, is nothing essentially different from reasoning on common life; and we may only expect greater stability, if not greater truth, from our philosophy, on account of its exacter and more scrupulous method of proceeding.
 

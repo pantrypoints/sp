@@ -1,7 +1,7 @@
 ---
-title: "Pamphilus To Hermippus"
+title: "The Misery of Life"
 heading: "Part 10"
-description: "The ancient philosophers conveyed most of their instruction in the form of dialogue. But dialogues have been little practised in later ages and have seldom succeeded when attempted"
+description: "I think that each man feels the truth of religion within his own breast from a consciousness of his imbecility and misery, rather than from any reasoning,"
 c: "indigo"
 weight: 42
 writer:
@@ -29,15 +29,26 @@ The best, and only method of bringing every one to a due sense of religion, is b
 {{< /l >}}
 
 
-The people, indeed, replied DEMEA, are sufficiently convinced of this great and melancholy truth. The miseries of life; the unhappiness of man; the general corruptions of our nature; the unsatisfactory enjoyment of pleasures, riches, honours; these phrases have become almost proverbial in all languages. And who can doubt of what all men declare from their own immediate feeling and experience?
+
+{{< r a="Demea" >}}
+The people are convinced of this great and melancholy truth. The miseries of life; the unhappiness of man; the general corruptions of our nature; the unsatisfactory enjoyment of pleasures, riches, honours; these phrases have become almost proverbial in all languages. And who can doubt of what all men declare from their own immediate feeling and experience?
+{{< /r >}}
 
 
 {{< l a="Philo" >}}
-In this point, the learned are perfectly agreed with the vulgar; and in all letters, sacred and profane, the topic of human misery has been insisted on with the most pathetic eloquence that sorrow and melancholy could inspire. The poets, who speak from sentiment, without a system, and whose testimony has therefore the more authority, abound in images of this nature. From Homer down to Dr. Young, the whole inspired tribe have ever been sensible, that no other representation of things would suit the feeling and observation of each individual.
+In this point, the learned are perfectly agreed with the vulgar; and in all letters, sacred and profane, the topic of human misery has been insisted on with the most pathetic eloquence that sorrow and melancholy could inspire. The poets, who speak from sentiment, without a system, and whose testimony has therefore the more authority, abound in images of this nature. 
+
+From Homer down to Dr. Young, the whole inspired tribe have ever been sensible, that no other representation of things would suit the feeling and observation of each individual.
 {{< /l >}}
 
 
-As to authorities, replied DEMEA, you need not seek them. Look round this library of CLEANTHES. I shall venture to affirm, that, except authors of particular sciences, such as chemistry or botany, who have no occasion to treat of human life, there is scarce one of those innumerable writers, from whom the sense of human misery has not, in some passage or other, extorted a complaint and confession of it. At least, the chance is entirely on that side; and no one author has ever, so far as I can recollect, been so extravagant as to deny it.
+{{< r a="Demea" >}}
+You do not need to seek authorities. 
+
+Look round this library of CLEANTHES. 
+
+Except for authors of particular sciences, such as chemistry or botany, who have no occasion to treat of human life, there is scarce one of those innumerable writers, from whom the sense of human misery has not, in some passage or other, extorted a complaint and confession of it. At least, the chance is entirely on that side; and no one author has ever, so far as I can recollect, been so extravagant as to deny it.
+{{< /r >}}
 
 
 {{< l a="Philo" >}}
@@ -45,17 +56,25 @@ LEIBNIZ has denied it; and is perhaps the first [That sentiment had been maintai
 {{< /l >}}
 
 
+
+{{< r a="Demea" >}}
 And by being the first, replied DEMEA, might he not have been sensible of his error? For is this a subject in which philosophers can propose to make discoveries especially in so late an age? And can any man hope by a simple denial (for the subject scarcely admits of reasoning), to bear down the united testimony of mankind, founded on sense and consciousness?
 
 And why should man, added he, pretend to an exemption from the lot of all other animals? The whole earth, believe me, PHILO, is cursed and polluted. A perpetual war is kindled amongst all living creatures. Necessity, hunger, want, stimulate the strong and courageous: Fear, anxiety, terror, agitate the weak and infirm. The first entrance into life gives anguish to the new-born infant and to its wretched parent: Weakness, impotence, distress, attend each stage of that life: and it is at last finished in agony and horror.
+{{< /r >}}
 
 
 {{< l a="Philo" >}}
-Observe too the curious artifices of Nature, in order to embitter the life of every living being. The stronger prey upon the weaker, and keep them in perpetual terror and anxiety. The weaker too, in their turn, often prey upon the stronger, and vex and molest them without relaxation. Consider that innumerable race of insects, which either are bred on the body of each animal, or, flying about, infix their stings in him. These insects have others still less than themselves, which torment them. And thus on each hand, before and behind, above and below, every animal is surrounded with enemies, which incessantly seek his misery and destruction.
+Observe too the curious artifices of Nature, in order to embitter the life of every living being. The stronger prey upon the weaker, and keep them in perpetual terror and anxiety.
+
+The weaker too, in their turn, often prey upon the stronger, and vex and molest them without relaxation. Consider that innumerable race of insects, which either are bred on the body of each animal, or, flying about, infix their stings in him. These insects have others still less than themselves, which torment them. And thus on each hand, before and behind, above and below, every animal is surrounded with enemies, which incessantly seek his misery and destruction.
 {{< /l >}}
 
 
-Man alone, said DEMEA, seems to be, in part, an exception to this rule. For by combination in society, he can easily master lions, tigers, and bears, whose greater strength and agility naturally enable them to prey upon him.
+{{< r a="Demea" >}}
+Man alone is an exception to this rule. For by combination in society, he can easily master lions, tigers, and bears, whose greater strength and agility naturally enable them to prey upon him.
+{{< /r >}}
+
 
 {{< l a="Philo" >}}
 On the contrary, it is here chiefly that the uniform and equal maxims of Nature are most apparent. Man, it is true, can, by combination, surmount all his real enemies, and become master of the whole animal creation: but does he not immediately raise up to himself imaginary enemies, the demons of his fancy, who haunt him with superstitious terrors, and blast every enjoyment of life? His pleasure, as he imagines, becomes, in their eyes, a crime: his food and repose give them umbrage and offence: his very sleep and dreams furnish new materials to anxious fear: and even death, his refuge from every other ill, presents only the dread of endless and innumerable woes. Nor does the wolf molest more the timid flock, than superstition does the anxious breast of wretched mortals.
@@ -64,7 +83,9 @@ Besides, consider, DEMEA: This very society, by which we surmount those wild bea
 {{< /l >}}
 
 
+{{< r a="Demea" >}}
 But though these external insults, said DEMEA, from animals, from men, from all the elements, which assault us, form a frightful catalogue of woes, they are nothing in comparison of those which arise within ourselves, from the distempered condition of our mind and body. How many lie under the lingering torment of diseases? Hear the pathetic enumeration of the great poet.
+{{< /r >}}
 
 
 Intestine stone and ulcer, colic-pangs,
@@ -77,7 +98,13 @@ And over them triumphant death his dart
 Shook: but delay'd to strike, though oft invok'd
 With vows, as their chief good and final hope.
 
-The disorders of the mind, continued DEMEA, though more secret, are not perhaps less dismal and vexatious. Remorse, shame, anguish, rage, disappointment, anxiety, fear, dejection, despair; who has ever passed through life without cruel inroads from these tormentors? How many have scarcely ever felt any better sensations? Labour and poverty, so abhorred by every one, are the certain lot of the far greater number; and those few privileged persons, who enjoy ease and opulence, never reach contentment or true felicity. All the goods of life united would not make a very happy man; but all the ills united would make a wretch indeed; and any one of them almost (and who can be free from every one?) nay often the absence of one good (and who can possess all?) is sufficient to render life ineligible.
+
+{{< r a="Demea" >}}
+The disorders of the mind are more secret. But they are not perhaps less dismal and vexatious.
+
+Remorse, shame, anguish, rage, disappointment, anxiety, fear, dejection, despair; who has ever passed through life without cruel inroads from these tormentors? How many have scarcely ever felt any better sensations? 
+
+Labour and poverty, so abhorred by every one, are the certain lot of the far greater number; and those few privileged persons, who enjoy ease and opulence, never reach contentment or true felicity. All the goods of life united would not make a very happy man; but all the ills united would make a wretch indeed; and any one of them almost (and who can be free from every one?) nay often the absence of one good (and who can possess all?) is sufficient to render life ineligible.
 
 Were a stranger to drop on a sudden into this world, I would show him, as a specimen of its ills, a hospital full of diseases, a prison crowded with malefactors and debtors, a field of battle strewed with carcasses, a fleet foundering in the ocean, a nation languishing under tyranny, famine, or pestilence. To turn the gay side of life to him, and give him a notion of its pleasures; whither should I conduct him? to a ball, to an opera, to court? He might justly think, that I was only showing him a diversity of distress and sorrow.
 
@@ -91,9 +118,14 @@ This is the secret chain, say I, that holds us. We are terrified, not bribed to 
 It is only a false delicacy, he may insist, which a few refined spirits indulge, and which has spread these complaints among the whole race of mankind. . . . And what is this delicacy, I ask, which you blame? Is it any thing but a greater sensibility to all the pleasures and pains of life? and if the man of a delicate, refined temper, by being so much more alive than the rest of the world, is only so much more unhappy, what judgement must we form in general of human life?
 
 Let men remain at rest, says our adversary, and they will be easy. They are willing artificers of their own misery. . . . No! reply I: an anxious languor follows their repose; disappointment, vexation, trouble, their activity and ambition.
+{{< /r >}}
+
+
 
 I can observe something like what you mention in some others, replied CLEANTHES: but I confess I feel little or nothing of it in myself, and hope that it is not so common as you represent it.
 
+
+{{< r a="Demea" >}}
 If you feel not human misery yourself, cried DEMEA, I congratulate you on so happy a singularity. Others, seemingly the most prosperous, have not been ashamed to vent their complaints in the most melancholy strains. Let us attend to the great, the fortunate emperor, CHARLES V, when, tired with human grandeur, he resigned all his extensive dominions into the hands of his son. In the last harangue which he made on that memorable occasion, he publicly avowed, that the greatest prosperities which he had ever enjoyed, had been mixed with so many adversities, that he might truly say he had never enjoyed any satisfaction or contentment. But did the retired life, in which he sought for shelter, afford him any greater happiness? If we may credit his son's account, his repentance commenced the very day of his resignation.
 
 CICERO's fortune, from small beginnings, rose to the greatest lustre and renown; yet what pathetic complaints of the ills of life do his familiar letters, as well as philosophical discourses, contain? And suitably to his own experience, he introduces CATO, the great, the fortunate CATO, protesting in his old age, that had he a new life in his offer, he would reject the present.
@@ -105,6 +137,8 @@ And from the dregs of life, hope to receive
 What the first sprightly running could not give.
 
 Thus at last they find (such is the greatness of human misery, it reconciles even contradictions), that they complain at once of the shortness of life, and of its vanity and sorrow.
+{{< /r >}}
+
 
 {{< l a="Philo" >}}
 Is it possible, CLEANTHES that after all these reflections, and infinitely more, which might be suggested, you can still persevere in your Anthropomorphism, and assert the moral attributes of the Deity, his justice, benevolence, mercy, and rectitude, to be of the same nature with these virtues in human creatures? His power we allow is infinite: whatever he wills is executed: but neither man nor any other animal is happy: therefore he does not will their happiness. His wisdom is infinite: He is never mistaken in choosing the means to any end: But the course of Nature tends not to human or animal felicity: therefore it is not established for that purpose. Through the whole compass of human knowledge, there are no inferences more certain and infallible than these. In what respect, then, do his benevolence and mercy resemble the benevolence and mercy of men?

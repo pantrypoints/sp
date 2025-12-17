@@ -1,7 +1,7 @@
 ---
-title: "Pamphilus To Hermippus"
+title: "The Universe"
 heading: "Part 11"
-description: "The ancient philosophers conveyed most of their instruction in the form of dialogue. But dialogues have been little practised in later ages and have seldom succeeded when attempted"
+description: "I suspect that the frequent repetition of the word 'infinite', which we meet with in all theological writers, are more for flattery than philosophy."
 c: "indigo"
 weight: 46
 writer:
@@ -11,7 +11,7 @@ icon: "David Hume"
 --- 
 
 
-{{< l a="Cleanthes" >}}
+{{< r a="Cleanthes" >}}
 I suspect that the frequent repetition of the word 'infinite', which we meet with in all theological writers, are more for flattery than philosophy. 
 
 Any purposes of reasoning, and even of religion, would be better served, were we to rest contented with more accurate and more moderate expressions. 
@@ -19,10 +19,10 @@ Any purposes of reasoning, and even of religion, would be better served, were we
 The terms, admirable, excellent, superlatively great, wise, and holy; these sufficiently fill the imaginations of men; and any thing beyond, besides that it leads into absurdities, has no influence on the affections or sentiments. 
 
 Thus, in the present subject, if we abandon all human analogy, as seems your intention, DEMEA, I am afraid we abandon all religion, and retain no conception of the great object of our adoration.
-{{< /l >}}
-
 
 If we preserve human analogy, we must for ever find it impossible to reconcile any mixture of evil in the universe with infinite attributes; much less can we ever prove the latter from the former. But supposing the Author of Nature to be finitely perfect, though far exceeding mankind, a satisfactory account may then be given of natural and moral evil, and every untoward phenomenon be explained and adjusted. A less evil may then be chosen, in order to avoid a greater; inconveniences be submitted to, in order to reach a desirable end; and in a word, benevolence, regulated by wisdom, and limited by necessity, may produce just such a world as the present. You, PHILO, who are so prompt at starting views, and reflections, and analogies, I would gladly hear, at length, without interruption, your opinion of this new theory; and if it deserve our attention, we may afterwards, at more leisure, reduce it into form.
+{{< /r >}}
+
 
 My sentiments, replied PHILO, are not worth being made a mystery of; and therefore, without any ceremony, I shall deliver what occurs to me with regard to the present subject. It must, I think, be allowed, that if a very limited intelligence, whom we shall suppose utterly unacquainted with the universe, were assured, that it were the production of a very good, wise, and powerful Being, however finite, he would, from his conjectures, form beforehand a different notion of it from what we find it to be by experience; nor would he ever imagine, merely from these attributes of the cause, of which he is informed, that the effect could be so full of vice and misery and disorder, as it appears in this life. Supposing now, that this person were brought into the world, still assured that it was the workmanship of such a sublime and benevolent Being; he might, perhaps, be surprised at the disappointment; but would never retract his former belief, if founded on any very solid argument; since such a limited intelligence must be sensible of his own blindness and ignorance, and must allow, that there may be many solutions of those phenomena, which will for ever escape his comprehension. But supposing, which is the real case with regard to man, that this creature is not antecedently convinced of a supreme intelligence, benevolent, and powerful, but is left to gather such a belief from the appearances of things; this entirely alters the case, nor will he ever find any reason for such a conclusion. He may be fully convinced of the narrow limits of his understanding; but this will not help him in forming an inference concerning the goodness of superior powers, since he must form that inference from what he knows, not from what he is ignorant of. The more you exaggerate his weakness and ignorance, the more diffident you render him, and give him the greater suspicion that such subjects are beyond the reach of his faculties. You are obliged, therefore, to reason with him merely from the known phenomena, and to drop every arbitrary supposition or conjecture.
 

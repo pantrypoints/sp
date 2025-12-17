@@ -32,14 +32,9 @@ the ESF sell dollars forward.
 
 If gold sales are used to deliver dollars into the forward contracts, it will likely satisfy the statutory requirement of reducing national debt. There are other means of structuring the ESF transaction as
 a form of debt contract to comply with the law. While this is probably statutorily permissible, selling national gold
-reserves to buy foreign exchange instruments could be politically costly, and changes the asset composition of the
-22 https://home.treasury.gov/system/files/206/ESF-June-2024-FS-Trunc-Notes.pdf
-23 USC 31 §5302(b) authorizes the Secretary to deal in “instruments of credit and securities the Secretary considers necessary.”
+reserves to buy foreign exchange instruments could be politically costly, and changes the asset composition of the USG’s balance sheet.
 
-24 USC 31 §5116(a)(1)(A).
-A User’s Guide to Restructuring the Global Trading System
-33
-USG’s balance sheet. Still, because gold pays no interest, selling it for positive-yielding foreign debt should result in
+Still, because gold pays no interest, selling it for positive-yielding foreign debt should result in
 income for the U.S. Government.
 
 The other means of building a reserve portfolio is to use the Federal Reserve’s System Open Market Account, since

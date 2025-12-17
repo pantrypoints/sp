@@ -32,29 +32,21 @@ adjustments do not.
 
 These considerations suggest several consequences:
 
-1) There is good reason to be more cautious with changes to dollar policy than with changes to tariffs.
+1. There is good reason to be more cautious with changes to dollar policy than with changes to tariffs.
 
-2) Steps to strengthen undervalued currencies will likely not be taken until risks can be mitigated. The Administration will likely wait for more confidence that inflation and deficits are lower, to limit potentially harmful increases in long yields that could accompany a change to dollar policy. Waiting for turnover at
-the Federal Reserve increases the likelihood that the Fed will voluntarily cooperate to help accommodate
-changes in currency policy.
+2. Steps to strengthen undervalued currencies will likely not be taken until risks can be mitigated.
 
-3) Tariffs are a tool for negotiating leverage as much as for revenue and fairness. Tariffs will likely precede any
-shift to soft dollar policy that requires cooperation from trade partners for implementation, since the terms
-of any agreement will be more beneficial if the United States has more negotiating leverage. Last time,
-tariffs led to the Phase 1 agreement with China. Next time, maybe they will lead to a broader multilateral
-currency accord.
+The Administration will likely wait for more confidence that inflation and deficits are lower, to limit potentially harmful increases in long yields that could accompany a change to dollar policy. Waiting for turnover at the Federal Reserve increases the likelihood that the Fed will voluntarily cooperate to help accommodate changes in currency policy.
 
-4) Therefore, I expect policy to be dollar-positive before it becomes dollar negative.
-While tariffs are now decently understood—tariffs will cause some dollar appreciation, though the extent of that
-appreciation is debatable—the contours of currency policy are less well understood, in part because it hasn’t
-changed in decades. That also argues for more caution on currency changes than tariff changes.
+3. Tariffs are a tool for negotiating leverage as much as for revenue and fairness. Tariffs will likely precede any shift to soft dollar policy that requires cooperation from trade partners for implementation, since the terms of any agreement will be more beneficial if the United States has more negotiating leverage. 
 
-There is another potential use of the leverage provided by tariffs: an alternative form of Mar-a-Lago Accord that sees
-the removal of tariffs in exchange for significant industrial investment in the United States by our trading partners,
-China chief among them. Such an exchange was critical in resolving trade conflicts during the Reagan Administration
-(and spearheaded in part by Robert Lighthizer). In comments in July, President Trump indicated he would welcome
-China building, among other things, auto factories in the United States.26 While such an agreement is possible, there
-are some reasons for caution.
+Last time, tariffs led to the Phase 1 agreement with China. Next time, maybe they will lead to a broader multilateral currency accord.
+
+4. Therefore, I expect policy to be dollar-positive before it becomes dollar negative. 
+
+While tariffs are now decently understood—tariffs will cause some dollar appreciation, though the extent of that appreciation is debatable—the contours of currency policy are less well understood, in part because it hasn’t changed in decades. That also argues for more caution on currency changes than tariff changes.
+
+There is another potential use of the leverage provided by tariffs: an alternative form of Mar-a-Lago Accord that sees the removal of tariffs in exchange for significant industrial investment in the United States by our trading partners, China chief among them. Such an exchange was critical in resolving trade conflicts during the Reagan Administration (and spearheaded in part by Robert Lighthizer). In comments in July, President Trump indicated he would welcome China building, among other things, auto factories in the United States.26 While such an agreement is possible, there are some reasons for caution.
 
 First, China does not have a good record abiding by trade deals it makes with the
 U.S., and the memory of Phase 1 is still fresh. The U.S. ougbt to therefore demand some security—for instance, China’s

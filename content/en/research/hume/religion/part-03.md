@@ -1,7 +1,7 @@
 ---
-title: "Pamphilus To Hermippus"
+title: "Cleanthes' 2 Suppositions"
 heading: "Part 3"
-description: "The ancient philosophers conveyed most of their instruction in the form of dialogue. But dialogues have been little practised in later ages and have seldom succeeded when attempted"
+description: "Your objections are like the cavils of those philosophers who denied motion. They should be refuted in the same way by illustrations, examples, and instances, rather than by serious argument and philosophy."
 c: "indigo"
 weight: 16
 writer:
@@ -41,17 +41,31 @@ When we hear a voice in the dark, we infer that a man is there.
 
 This extraordinary voice, by its loudness, extent, and flexibility to all languages, bears so little analogy to any human voice, that we have no reason to suppose any analogy in their causes.
 
-Consequently, that a rational, wise, coherent speech proceeded, you know not whence, from some accidental whistling of the winds, not from any divine reason or intelligence? You see clearly your own objections in these cavils, and I hope too you see clearly, that they cannot possibly have more force in the one case than in the other.
+<!-- Consequently, that a rational, wise, coherent speech proceeded, you know not whence, from some accidental whistling of the winds, not from any divine reason or intelligence? You see clearly your own objections in these cavils, and I hope too you see clearly, that they cannot possibly have more force in the one case than in the other. -->
 
 I shall make 2 suppositions:
 
-1. Suppose that there is a natural, universal, invariable language, common to every individual of human race; and that books are natural productions, which perpetuate themselves in the same manner with animals and vegetables, by descent and propagation.
+1. Suppose that:
+- there is a natural, universal, invariable language common to the human race
+- books are natural productions which perpetuate themselves like animals and vegetables, by descent and propagation.
 
-Several expressions of our passions contain a universal language: all brute animals have a natural speech, which, however limited, is very intelligible to their own species. And as there are infinitely fewer parts and less contrivance in the finest composition of eloquence, than in the coarsest organised body, the propagation of an Iliad or Aeneid is an easier supposition than that of any plant or animal.
+Several expressions of our passions contain a universal language.
 
-2. Suppose, therefore, that you enter into your library, thus peopled by natural volumes, containing the most refined reason and most exquisite beauty; could you possibly open one of them, and doubt, that its original cause bore the strongest analogy to mind and intelligence? When it reasons and discourses; when it expostulates, argues, and enforces its views and topics; when it applies sometimes to the pure intellect, sometimes to the affections; when it collects, disposes, and adorns every consideration suited to the subject; could you persist in asserting, that all this, at the bottom, had really no meaning; and that the first formation of this volume in the loins of its original parent proceeded not from thought and design? Your obstinacy, I know, reaches not that degree of firmness: even your sceptical play and wantonness would be abashed at so glaring an absurdity.
+All brute animals have a natural speech is intelligible to their own species.
 
-But if there be any difference, PHILO, between this supposed case and the real one of the universe, it is all to the advantage of the latter. The anatomy of an animal affords many stronger instances of design than the perusal of LIVY or TACITUS.
+<!-- And as there are infinitely fewer parts and less contrivance in the finest composition of eloquence, than in the coarsest organised body, the propagation of an Iliad or Aeneid is an easier supposition than that of any plant or animal. -->
+
+
+2. Suppose that you enter into your library peopled by natural volumes.
+
+They contain the most refined reason and most exquisite beauty. Could you open one of them and doubt that its original cause bore the strongest analogy to mind and intelligence? 
+
+<!-- When it reasons and discourses; when it expostulates, argues, and enforces its views and topics; when it applies sometimes to the pure intellect, sometimes to the affections; when it collects, disposes, and adorns every consideration suited to the subject; could you persist in asserting, that all this, at the bottom, had really no meaning; and that the first formation of this volume in the loins of its original parent proceeded not from thought and design? Your obstinacy, I know, reaches not that degree of firmness: even your sceptical play and wantonness would be abashed at so glaring an absurdity. -->
+
+
+But if there is any difference between this supposed case and the real one of the universe, it is all to the advantage of the latter. 
+
+The anatomy of an animal affords many stronger instances of design than the perusal of LIVY or TACITUS.
 
 Any objection which you start in the former case, by carrying me back to so unusual and extraordinary a scene as the first formation of worlds, the same objection has place on the supposition of our vegetating library. 
 

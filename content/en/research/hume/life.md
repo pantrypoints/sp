@@ -1,8 +1,19 @@
+---
+title: "The Life Of David Hume"
+# heading: "Part 0"
+description: ""
+image: /photos/medieval/hume.jpg
+c: "indigo"
+weight: 4
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: "David Hume"
+--- 
 
-THE LIFE OF DAVID HUME, ESQ.
-WRITTEN BY HIMSELF.
 
-MY OWN LIFE.
+
+<!-- MY OWN LIFE. -->
 
 It is difficult for a man to speak long of himself without vanity; therefore I shall be short. It may be thought an instance of vanity that I pretend at all to write my life; but this narrative shall contain little more than the history of my writings; as, indeed, almost all my life has been spent in literary pursuits and occupations. The first success of most of my writings was not such as to be an object of vanity.
 
@@ -46,10 +57,10 @@ In spring, 1775, I was struck with a disorder in my bowels, which at first gave 
 
 To conclude historically with my own character: I am, or rather was, (for that is the style I must now use in speaking of myself, which imboldens me the more to speak my sentiments;) I was, I say, a man of mild disposition, of command of temper, of an open, social, and cheerful humor, capable of attachment, but little susceptible of enmity, and of great moderation in all my passions. Even my love of literary fame, my ruling passion, never soured my temper, notwithstanding my frequent disappointments. My company was not unacceptable to the young and careless, as well as to the studious and literary; and as I took a particular pleasure in the company of modest women, I had no reason to be displeased with the reception I met with from them. In a word, though most men, anywise eminent, have found reason to complain of Calumny, I never was touched, or even attacked, by her baleful tooth; and though I wantonly exposed myself to the rage of both civil and religious factions, they seemed to be disarmed in my behalf of their wonted fury. My friends never had occasion to vindicate any one circumstance of my character and conduct; not but that the zealots, we may well suppose, would have been glad to invent and propagate any story to my disadvantage, but they could never find any which they thought would wear the face of probability. I cannot say there is no vanity in making this funeral oration of myself, but I hope it is not a misplaced one; and this is a matter of fact which is easily cleared and ascertained.
 
+
+
+<!-- LETTER FROM ADAM SMITH, LL. D. TO WILLLIAM STRAHAN, ESQ.
 April 18, 1776.
-
-LETTER FROM ADAM SMITH, LL. D. TO WILLLIAM STRAHAN, ESQ.
-
 Kirkaldy, Fifeshire, Nov. 9, 1778.[**]
 
 DEAR SIR,
@@ -115,4 +126,4 @@ I ever am, dear sir,
 Most affectionately yours,
 
 ADAM SMITH.
-
+ -->

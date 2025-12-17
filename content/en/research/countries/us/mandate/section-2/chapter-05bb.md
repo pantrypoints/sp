@@ -13,34 +13,18 @@ administering the legal immigration and certain temporary visa programs.
 
 #### Needed Reforms
 
-Since January 2021, USCIS’s priorities have been misaligned, and this has trans-
-formed it into an open-borders agency, ignoring the critical role that it plays in
-national security, public safety, and safeguarding the integrity of our immigration
-system. USCIS should be returned to operating as a screening and vetting agency.
-Regulatory efforts have focused on easing asylum eligibility in a manner that is
-guaranteed to exacerbate asylum fraud as people surge at the border. Emphasis
-also has been placed on removing legal barriers to immigration, such as the use
-of public benefits. These actions violate statutes, erode congressional intent, and
-provide a significant magnet for continued illegal immigration.
+Since January 2021, USCIS’s priorities have been misaligned, and this has transformed it into an open-borders agency, ignoring the critical role that it plays in national security, public safety, and safeguarding the integrity of our immigration system.
 
-Additionally, USCIS resources have been misappropriated to focus more on
-creating and expanding large-scale parole and temporary status programs that
-violate the law and are otherwise contrary to congressional intent instead of focus-
-ing on a more secure and efficient process for those who are seeking benefits. The
-ever-increasing number of applications filed has made it difficult to vet applica-
-tions adequately for eligibility, fraud, and specific national security and public
+USCIS should be returned to operating as a screening and vetting agency. 
+
+Regulatory efforts have focused on easing asylum eligibility in a manner that is guaranteed to exacerbate asylum fraud as people surge at the border. 
+
+Emphasis also has been placed on removing legal barriers to immigration, such as the use of public benefits. These actions violate statutes, erode congressional intent, and provide a significant magnet for continued illegal immigration.
+
+Additionally, USCIS resources have been misappropriated to focus more on creating and expanding large-scale parole and temporary status programs that violate the law and are otherwise contrary to congressional intent instead of focusing on a more secure and efficient process for those who are seeking benefits. The ever-increasing number of applications filed has made it difficult to vet applications adequately for eligibility, fraud, and specific national security and public
 safety problems.
 
-The Fraud Detection and National Security Directorate (FDNS) is currently a
-small directorate with assigned officers reporting through the chain of command in
-the field, and this has led to stovepiping, lack of coordination in national policy, and
-inconsistencies throughout the agency. To prioritize vetting and fraud detection,
-FDNS should undergo a structural shift focused on direct reporting from the field
-to headquarters, reclassification of leadership, and FDNS directives taking prece-
-dence over those of other component entities. Correcting the current misalignment
-of agency priorities and resources should begin with this primary shift in focus to
-vetting and fraud detection. These actions would reform the agency, returning it
-to its screening and vetting mission in protecting the homeland.
+The Fraud Detection and National Security Directorate (FDNS) is currently a small directorate with assigned officers reporting through the chain of command in the field, and this has led to stovepiping, lack of coordination in national policy, and inconsistencies throughout the agency. To prioritize vetting and fraud detection, FDNS should undergo a structural shift focused on direct reporting from the field to headquarters, reclassification of leadership, and FDNS directives taking prece- dence over those of other component entities. Correcting the current misalignment of agency priorities and resources should begin with this primary shift in focus to vetting and fraud detection. These actions would reform the agency, returning it to its screening and vetting mission in protecting the homeland.
 
 Other structural changes should include reimplementation of the USCIS denat-
 uralization unit—an effort to maintain integrity in the system by identifying and
@@ -178,12 +162,12 @@ when backlogs in that category become excessive. Once USCIS adjudicators can
 decrease that caseload to a manageable number, application intake should resume.
 
 
-#### Personnel
+### Personnel
 
 USCIS should be classified as a national security–sensitive agency, and all of
-its employees should be classified as holding national security–sensitive posi-
-tions. Leaks must be investigated and punished as they would be in a national
-security agency, and the union should be decertified. Any employees who cannot
+its employees should be classified as holding national security–sensitive positions.
+
+Leaks must be investigated and punished as they would be in a national security agency, and the union should be decertified. Any employees who cannot
 accept that change and cannot conform their behavior to the standards required
 by such an agency should be separated. USCIS’s D.C. personnel presence should
 be skeletal, and agency employees with operational or security roles should be

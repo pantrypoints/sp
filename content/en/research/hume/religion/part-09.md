@@ -1,7 +1,7 @@
 ---
-title: "Pamphilus To Hermippus"
+title: "The Nature of the Deity"
 heading: "Part 9"
-description: "The ancient philosophers conveyed most of their instruction in the form of dialogue. But dialogues have been little practised in later ages and have seldom succeeded when attempted"
+description: "Whatever exists must have a cause or reason of its existence."
 c: "indigo"
 weight: 38
 writer:
@@ -12,7 +12,13 @@ icon: "David Hume"
 
 
 
-But if so many difficulties attend the argument a posteriori, said DEMEA, had we not better adhere to that simple and sublime argument a priori, which, by offering to us infallible demonstration, cuts off at once all doubt and difficulty? By this argument, too, we may prove the infinity of the Divine attributes, which, I am afraid, can never be ascertained with certainty from any other topic. For how can an effect, which either is finite, or, for aught we know, may be so; how can such an effect, I say, prove an infinite cause? The unity too of the Divine Nature, it is very difficult, if not absolutely impossible, to deduce merely from contemplating the works of nature; nor will the uniformity alone of the plan, even were it allowed, give us any assurance of that attribute. Whereas the argument a priori ...
+{{< r a="Demea" >}}
+But if so many difficulties attend the argument a posteriori, had we not better adhere to that simple and sublime argument a priori, which, by offering to us infallible demonstration, cuts off at once all doubt and difficulty? 
+
+By this argument, too, we may prove the infinity of the Divine attributes, which, I am afraid, can never be ascertained with certainty from any other topic. For how can an effect, which either is finite, or, for aught we know, may be so; how can such an effect, I say, prove an infinite cause? 
+
+The unity too of the Divine Nature, it is very difficult, if not absolutely impossible, to deduce merely from contemplating the works of nature; nor will the uniformity alone of the plan, even were it allowed, give us any assurance of that attribute. Whereas the argument a priori ...
+{{< /r >}}
 
 
 {{< r a="Cleanthes" >}}
@@ -20,7 +26,17 @@ You seem to reason, DEMEA as if those advantages and conveniences in the abstrac
 {{< /r >}}
 
 
-The argument, replied DEMEA, which I would insist on, is the common one. Whatever exists must have a cause or reason of its existence; it being absolutely impossible for any thing to produce itself, or be the cause of its own existence. In mounting up, therefore, from effects to causes, we must either go on in tracing an infinite succession, without any ultimate cause at all; or must at last have recourse to some ultimate cause, that is necessarily existent: Now, that the first supposition is absurd, may be thus proved. In the infinite chain or succession of causes and effects, each single effect is determined to exist by the power and efficacy of that cause which immediately preceded; but the whole eternal chain or succession, taken together, is not determined or caused by any thing; and yet it is evident that it requires a cause or reason, as much as any particular object which begins to exist in time. The question is still reasonable, why this particular succession of causes existed from eternity, and not any other succession, or no succession at all. If there be no necessarily existent being, any supposition which can be formed is equally possible; nor is there any more absurdity in Nothing's having existed from eternity, than there is in that succession of causes which constitutes the universe. What was it, then, which determined Something to exist rather than Nothing, and bestowed being on a particular possibility, exclusive of the rest? External causes, there are supposed to be none. Chance is a word without a meaning. Was it Nothing? But that can never produce any thing. We must, therefore, have recourse to a necessarily existent Being, who carries the REASON of his existence in himself, and who cannot be supposed not to exist, without an express contradiction. There is, consequently, such a Being; that is, there is a Deity.
+{{< r a="Demea" >}}
+Whatever exists must have a cause or reason of its existence.
+
+It is impossible for anything to produce itself, or be the cause of its own existence.
+
+In mounting up, therefore, from effects to causes, we must either go on in tracing an infinite succession, without any ultimate cause at all; or must at last have recourse to some ultimate cause, that is necessarily existent: Now, that the first supposition is absurd, may be thus proved. In the infinite chain or succession of causes and effects, each single effect is determined to exist by the power and efficacy of that cause which immediately preceded; but the whole eternal chain or succession, taken together, is not determined or caused by any thing; 
+
+And yet it is evident that it requires a cause or reason, as much as any particular object which begins to exist in time. The question is still reasonable, why this particular succession of causes existed from eternity, and not any other succession, or no succession at all. If there be no necessarily existent being, any supposition which can be formed is equally possible; nor is there any more absurdity in Nothing's having existed from eternity, than there is in that succession of causes which constitutes the universe. What was it, then, which determined Something to exist rather than Nothing, and bestowed being on a particular possibility, exclusive of the rest? External causes, there are supposed to be none.
+
+Chance is a word without a meaning. Was it Nothing? But that can never produce any thing. We must, therefore, have recourse to a necessarily existent Being, who carries the REASON of his existence in himself, and who cannot be supposed not to exist, without an express contradiction. There is, consequently, such a Being; that is, there is a Deity.
+{{< /r >}}
 
 
 {{< r a="Cleanthes" >}}
@@ -38,6 +54,22 @@ In such a chain, too, or succession of objects, each part is caused by that whic
 {{< /r >}}
 
 
-Though the reasonings which you have urged, CLEANTHES, may well excuse me, said PHILO, from starting any further difficulties, yet I cannot forbear insisting still upon another topic. It is observed by arithmeticians, that the products of 9, compose always either 9, or some lesser product of 9, if you add together all the characters of which any of the former products is composed. Thus, of 18, 27, 36, which are products of 9, you make 9 by adding 1 to 8, 2 to 7, 3 to 6. Thus, 369 is a product also of 9; and if you add 3, 6, and 9, you make 18, a lesser product of 9. To a superficial observer, so wonderful a regularity may be admired as the effect either of chance or design: but a skilful algebraist immediately concludes it to be the work of necessity, and demonstrates, that it must for ever result from the nature of these numbers. Is it not probable, I ask, that the whole economy of the universe is conducted by a like necessity, though no human algebra can furnish a key which solves the difficulty? And instead of admiring the order of natural beings, may it not happen, that, could we penetrate into the intimate nature of bodies, we should clearly see why it was absolutely impossible they could ever admit of any other disposition? So dangerous is it to introduce this idea of necessity into the present question! and so naturally does it afford an inference directly opposite to the religious hypothesis!
 
-But dropping all these abstractions, continued PHILO, and confining ourselves to more familiar topics, I shall venture to add an observation, that the argument a priori has seldom been found very convincing, except to people of a metaphysical head, who have accustomed themselves to abstract reasoning, and who, finding from mathematics, that the understanding frequently leads to truth through obscurity, and, contrary to first appearances, have transferred the same habit of thinking to subjects where it ought not to have place. Other people, even of good sense and the best inclined to religion, feel always some deficiency in such arguments, though they are not perhaps able to explain distinctly where it lies; a certain proof that men ever did, and ever will derive their religion from other sources than from this species of reasoning.
+{{< l a="Philo" >}}
+<!-- Though the reasonings which you have urged, CLEANTHES, may well excuse me, said PHILO, from starting any further difficulties, yet I cannot forbear insisting still upon another topic. It is observed by  -->
+
+Arithmeticians observe that the products of 9, compose always either 9, or some lesser product of 9, if you add together all the characters of which any of the former products is composed.
+
+Thus, of 18, 27, 36, which are products of 9, you make 9 by adding 1 to 8, 2 to 7, 3 to 6. Thus, 369 is a product also of 9; and if you add 3, 6, and 9, you make 18, a lesser product of 9.
+
+To a superficial observer, so wonderful a regularity may be admired as the effect either of chance or design: but a skilful algebraist immediately concludes it to be the work of necessity, and demonstrates, that it must for ever result from the nature of these numbers. 
+
+Is it not probable, I ask, that the whole economy of the universe is conducted by a like necessity, though no human algebra can furnish a key which solves the difficulty? And instead of admiring the order of natural beings, may it not happen, that, could we penetrate into the intimate nature of bodies, we should clearly see why it was absolutely impossible they could ever admit of any other disposition? 
+
+So dangerous is it to introduce this idea of necessity into the present question! and so naturally does it afford an inference directly opposite to the religious hypothesis!
+
+But dropping all these abstractions, continued PHILO, and confining ourselves to more familiar topics, I shall venture to add an observation, that the argument a priori has seldom been found very convincing, except to people of a metaphysical head, who have accustomed themselves to abstract reasoning, and who, finding from mathematics, that the understanding frequently leads to truth through obscurity, and, contrary to first appearances, have transferred the same habit of thinking to subjects where it ought not to have place. 
+
+Other people, even of good sense and the best inclined to religion, feel always some deficiency in such arguments, though they are not perhaps able to explain distinctly where it lies; a certain proof that men ever did, and ever will derive their religion from other sources than from this species of reasoning.
+{{< /l >}}
+

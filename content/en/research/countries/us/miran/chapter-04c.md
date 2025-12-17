@@ -34,13 +34,7 @@ Some of these nations are not as friendly as the Europeans were during the Cold 
 Moreover, a large fraction of the U.S. debt is held by private sector investors, both institutional and retail. These
 investors will not be convinced to term out their Treasury holdings as part of some sort of accord. 
 
-A run by these
-investors out of USD assets has potential to overwhelm the bid for duration coming from a term out from the foreign
-official sector. The extent to which private sector assets flee the dollar will depend on the price sensitivity of those
-investors. Assets held for reserve purposes are less likely to flee than assets held for wealth maximization.
-The difficulty in persuading trading partners to agree to such an approach is a good reason for currency tools to be
-used after tariffs, which provide additional leverage in negotiations. If a currency agreement is reached, removing
-tariffs can be a big part of the incentive.
+A run by these investors out of USD assets has potential to overwhelm the bid for duration coming from a term out from the foreign official sector. The extent to which private sector assets flee the dollar will depend on the price sensitivity of those investors. Assets held for reserve purposes are less likely to flee than assets held for wealth maximization. The difficulty in persuading trading partners to agree to such an approach is a good reason for currency tools to be used after tariffs, which provide additional leverage in negotiations. If a currency agreement is reached, removing tariffs can be a big part of the incentive.
 
 
 

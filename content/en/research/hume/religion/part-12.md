@@ -1,7 +1,7 @@
 ---
-title: "Pamphilus To Hermippus"
+title: "Galen"
 heading: "Part 12"
-description: "The ancient philosophers conveyed most of their instruction in the form of dialogue. But dialogues have been little practised in later ages and have seldom succeeded when attempted"
+description: "A purpose, an intention, a design, strikes every where the most careless, the most stupid thinker, No man can be so hardened in absurd systems, as at all times to reject it"
 c: "indigo"
 weight: 50
 writer:
@@ -13,6 +13,7 @@ icon: "David Hume"
 
 
 After DEMEA left, CLEANTHES and PHILO continued the conversation. 
+
 
 {{< l a="Philo" >}}
 I am less cautious on the subject of Natural Religion than on any other because:
