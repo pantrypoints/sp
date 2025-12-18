@@ -4,7 +4,7 @@ title: "Shapes amd Flexibility of the Thumb"
 # date: 1767
 weight: 14
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "The base phalanx of the thumb (see plate 14, TH-C) governs affection and the  senses."
 ---
 

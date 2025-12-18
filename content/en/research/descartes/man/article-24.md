@@ -4,7 +4,7 @@ title: "The Momentum of Animal Spirits"
 # date: 2022-01-29
 weight: 36
 description: "How do the animal spirits move in the ventricles of the brain and its pores?"
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

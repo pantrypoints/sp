@@ -4,7 +4,7 @@ title: "The Mercury Finger"
 # date: 1767
 weight: 12
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "The fourth, or little finger, is called the finger of Mercury"
 ---
 

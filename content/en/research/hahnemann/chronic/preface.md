@@ -3,7 +3,7 @@ title: "Preface"
 description: "We have no means of sensing the life processes inside a man"
 author: Samuel Hahnemann
 weight: 4
-c: "deeppink"
+c: "#DE3163"
 ---
 
 

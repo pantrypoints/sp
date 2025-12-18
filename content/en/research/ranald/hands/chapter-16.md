@@ -3,7 +3,7 @@ heading: Chapter 16
 title: "The Structure Of The Hand"
 weight: 46
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: ""
 draft: true
 ---

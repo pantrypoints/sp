@@ -5,7 +5,7 @@ weight: 4
 description: "The leaders of more solid doctrine have long complained that simple and clear Truth has been obscured and overshadowed by obscure, intricate, and thorny subtleties, through a sort of misplaced diligence. "
 writer:
   name: Florentius Schuyl
-c: "deeppink"
+c: "#DE3163"
 ---
 
 

@@ -3,7 +3,7 @@ heading: Chapter 4
 title: "The Palm"
 weight: 16
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "THE palm itself, its shape and consistency, aside from the markings upon it, tells much about the person whose hand you are studying"
 ---
 

@@ -5,7 +5,7 @@ description: "The length of the Mercury line adds to the power of the line and i
 weight: 66
 author: "Benham"
 icon: "William Benham"
-c: "deeppink"
+c: "#DE3163"
 ---
 
 

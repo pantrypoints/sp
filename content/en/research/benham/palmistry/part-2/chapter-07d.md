@@ -2,7 +2,7 @@
 title: "How to Read The Line of Life"
 heading: "Chapter 7d"
 weight: 43
-c: "deeppink"
+c: "#DE3163"
 description: "There are so many possible combinations in Life lines"
 author: "Benham"
 icon: "William Benham"

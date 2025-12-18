@@ -1,5 +1,5 @@
 ---
 title: "Human Body"
-c: "deeppink"
+c: "#DE3163"
 weight: 21
 ---

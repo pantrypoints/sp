@@ -2,7 +2,7 @@
 title: Degradation and Simplification in the Organic Structure 
 heading: Chapter 6
 description: 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 31
 ---

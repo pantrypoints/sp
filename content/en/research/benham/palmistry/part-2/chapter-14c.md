@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 14c"
 title: "Racettes and Lines of Travel "
-c: "deeppink"
+c: "#DE3163"
 description: "The line of Mars rises on the lower Mount of Mars and runs inside of the Life line and very close beside it"
 weight: 74
 author: "Benham"

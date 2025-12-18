@@ -2,7 +2,7 @@
 title: Insects
 heading: Chapter 6j
 description: These are animals undergoing transformations of form with 2 eyes and 2 antennae on the head, 6 limbs, and 2 trachea extending throughout the entire body
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 43
 ---

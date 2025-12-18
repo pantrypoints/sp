@@ -2,7 +2,7 @@
 heading: Tractatus 3
 title: "How They Come To Us And Become Visible To Us"
 description: "All that God has created, he reveals to man and lets come before him, so that man has and attains knowledge of all happenings of the creatures"
-c: "deeppink"
+c: "#DE3163"
 weight: 14
 date: 2024-02-28
 writer:

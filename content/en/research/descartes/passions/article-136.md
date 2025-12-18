@@ -3,7 +3,7 @@ heading: Articles 136-137
 title: The Use of the 5 Passions
 weight: 40
 description: What is Passion in relation to one subject is always Action in another respect.
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

@@ -2,7 +2,7 @@
 title: "The Weak Line of Life"
 heading: "Chapter 7c "
 weight: 42
-c: "deeppink"
+c: "#DE3163"
 description: "The thin Life line indicates a lack of robust, muscular vitality and great endurance."
 author: "Benham"
 icon: "William Benham"

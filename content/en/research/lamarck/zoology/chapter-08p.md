@@ -2,7 +2,7 @@
 title: "Class 14: Mammals"
 heading: Chapter 8p
 description:
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 129
 writer:

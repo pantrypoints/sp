@@ -5,7 +5,7 @@ description: "In every case, the Girdle will indicate some degree of nervousness
 weight: 70
 author: "Benham"
 icon: "William Benham"
-c: "deeppink"
+c: "#DE3163"
 ---
 
 

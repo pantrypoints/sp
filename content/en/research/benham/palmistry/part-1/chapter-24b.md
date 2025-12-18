@@ -3,7 +3,7 @@ heading: "Chapter 24b"
 title: "Flabby Luna"
 description: "His realm is the world of imagination. He keeps humanity from becoming too material, and enables us to see with the mind's eye"
 weight: 126
-c: "deeppink"
+c: "#DE3163"
 author: "Benham"
 icon: "William Benham"
 ---

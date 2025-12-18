@@ -6,7 +6,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-c: "deeppink"
+c: "#DE3163"
 description: "Verbs must necessarily have been coëval with the very first attempts towards the formation of language"
 ---
 

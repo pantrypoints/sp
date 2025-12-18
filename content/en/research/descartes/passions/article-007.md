@@ -4,7 +4,7 @@ linkTitle: Articles 7-9
 title: The Parts of the Body
 weight: 5
 description: The food we eat goes down into the stomach and intestines.
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

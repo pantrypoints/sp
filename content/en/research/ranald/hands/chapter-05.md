@@ -3,7 +3,7 @@ heading: Chapter 5
 title: "The Mounts amd their Attributes"
 weight: 20
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "These swellings are known as the mounts of the hand."
 ---
 

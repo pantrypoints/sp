@@ -2,7 +2,7 @@
 heading: Chapter 3c
 title: "Square, Fork, Dot, Chain"
 weight: 12
-c: "deeppink"
+c: "#DE3163"
 description: "This is an individual sign. Old palmists use it to indicate protection from some impending danger."
 author: "Benham"
 icon: "William Benham"

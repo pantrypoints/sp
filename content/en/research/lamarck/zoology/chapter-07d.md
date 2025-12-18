@@ -3,7 +3,7 @@ title: Favourable times and circumstances
 heading: Chapter 7d
 description: Favourable times and circumstances are the 2 main means employed by nature to bring into existence all her productions. 
 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 54
 ---

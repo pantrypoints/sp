@@ -2,7 +2,7 @@
 title: "Path of Line"
 heading: "Chapter 5c"
 weight: 19
-c: "deeppink"
+c: "#DE3163"
 description: "It is this minute analysis of a line that gives its complete history as applied to the subject, the events that go with it, as well as the ages at which they occur."
 author: "Benham"
 icon: "William Benham"

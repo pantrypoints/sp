@@ -2,7 +2,7 @@
 title: The Influence of Circumstances on the Actions and Habits of Animals
 heading: Chapter 1
 description: There are 3 'artistic parts in the natural sciences'
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 icon: Lamarck
 weight: 4

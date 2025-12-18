@@ -5,7 +5,7 @@ title: "Animal Spirits and Digestion"
 # date: 2022-01-29
 weight: 38
 description: "The spirits can exist at different times, in greater or lesser abundance"
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

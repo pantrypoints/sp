@@ -3,7 +3,7 @@ title: The Importance of Considering Affinities
 heading: Chapter 2b
 description: 
 icon: Lamarck
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 9
 ---

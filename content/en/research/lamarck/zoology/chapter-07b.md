@@ -2,7 +2,7 @@
 title: Modifications in Plants
 heading: Chapter 7b
 description: 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 49
 ---

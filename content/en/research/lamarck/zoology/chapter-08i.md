@@ -2,7 +2,7 @@
 title: "Class 7: Crustaceans"
 heading: Chapter 8i
 description: 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 91
 writer:

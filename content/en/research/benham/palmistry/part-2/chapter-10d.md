@@ -4,7 +4,7 @@ title: "Breaks in the Saturn Line "
 weight: 57
 author: "Benham"
 icon: "William Benham"
-c: "deeppink"
+c: "#DE3163"
 description: "All defects found in the beginning of the Saturn line refer to the childhood of the subject"
 ---
 

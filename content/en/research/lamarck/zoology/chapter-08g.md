@@ -2,7 +2,7 @@
 title: "Class 5: Insects"
 heading: Chapter 8g
 description: 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 86
 writer:

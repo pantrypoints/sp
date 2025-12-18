@@ -4,7 +4,7 @@ linkTitle: Articles 42-44
 title: How We Remember Things
 weight: 15
 description: Example of the Movements of the Body That Accompany Passions and Do Not Depend on the Soul
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

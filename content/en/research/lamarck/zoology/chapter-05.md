@@ -3,7 +3,7 @@ title: The Distribution and Classification of Animals
 heading: Chapter 5
 description: Why do we need to distribute and classify animals?
 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 23
 ---

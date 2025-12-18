@@ -2,7 +2,7 @@
 title: Definition of Animals and Plants
 heading: Chapter 4b
 description: Animals are living organic bodies, endowed with permanently irritable parts.
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 21
 ---

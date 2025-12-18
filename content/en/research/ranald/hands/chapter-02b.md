@@ -3,7 +3,7 @@ heading: Chapter 2b
 title: "The Phalanxes"
 weight: 11
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "The divisions of the fingers are the 3 joints or phalanxes."
 ---
 

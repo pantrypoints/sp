@@ -3,7 +3,7 @@ heading: Chapter 13
 title: "The Line of Health or Hepatica"
 weight: 38
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "THE line of health or Hepatica runs down the hand in a diagonal direction, normally from the mount of Mercury toward the line of life, and is classed among the major lines"
 ---
 

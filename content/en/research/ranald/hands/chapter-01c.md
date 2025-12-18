@@ -4,7 +4,7 @@ title: "The Pointed Hand"
 # date: 1767
 weight: 8
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "The most beautiful hand is the intuitive or pointed one."
 ---
 

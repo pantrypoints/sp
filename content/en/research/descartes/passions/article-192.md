@@ -3,7 +3,7 @@ heading: Articles 192-196
 title: Gratitude and Indignation
 weight: 88
 description: We must reject the common notion that there exists outside of us a Fortune which causes things to happen according to its pleasure
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

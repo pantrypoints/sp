@@ -3,7 +3,7 @@ heading: Chapter 15b
 title: "The Triangle"
 weight: 44
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "The triangle is usually found on one of the mounts. It points  the special talents associated with that mount or with the finger of the same name."
 ---
 

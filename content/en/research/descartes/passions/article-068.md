@@ -4,7 +4,7 @@ linkTitle: Articles 68-73
 title: The 6 Primitive Passions
 weight: 22
 description: There are only 6 Primitive Passions
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

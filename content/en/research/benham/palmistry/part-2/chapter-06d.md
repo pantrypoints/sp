@@ -2,7 +2,7 @@
 title: "Defects of the Head Line"
 heading: "Chapter 6d"
 weight: 32
-c: "deeppink"
+c: "#DE3163"
 description: "A downward deflection of the Head line can reveal when a person will be impressed with psychic phenomena and spiritism"
 author: "Benham"
 icon: "William Benham"

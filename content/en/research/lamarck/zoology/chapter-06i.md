@@ -2,7 +2,7 @@
 title: Arachnids 9th Rank
 heading: Chapter 6i
 description: They have so many affinities with the crustaceans, that we are always compelled to bring them close together.
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 41
 ---

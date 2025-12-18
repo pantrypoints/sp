@@ -3,7 +3,7 @@ heading: Articles 202-206
 title: Glory and Shame
 weight: 92
 description: Glory is a kind of joy, based on self-love.
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

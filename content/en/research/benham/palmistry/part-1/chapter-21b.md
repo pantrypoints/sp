@@ -3,7 +3,7 @@ heading: "Chapter 21b"
 title: "The Characteristics of an Apollonian"
 description: "From every point of view the Apollonian is brilliant, full of the love of beauty, art, color, and form."
 weight: 113
-c: "deeppink"
+c: "#DE3163"
 author: "Benham"
 icon: "William Benham"
 ---

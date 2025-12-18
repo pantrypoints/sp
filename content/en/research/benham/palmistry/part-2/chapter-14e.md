@@ -1,7 +1,7 @@
 ---
 heading: Chapter 14e
 title: "Via Lascivia"
-c: "deeppink"
+c: "#DE3163"
 description: "This line is a sister line to the line of Mercury"
 weight: 79
 author: "Benham"

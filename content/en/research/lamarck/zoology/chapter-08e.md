@@ -2,7 +2,7 @@
 title: "Class 3: Radiates"
 heading: Chapter 8e
 description: 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 79
 ---

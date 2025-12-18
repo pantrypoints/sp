@@ -3,7 +3,7 @@ title: Personal Conclusion
 heading: Chapter 7f
 description: My Personal Conclusion is that  Nature produces in succession all the animal species.
 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 64
 ---

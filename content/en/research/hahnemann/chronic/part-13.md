@@ -4,7 +4,7 @@ title: "Cases of Itch"
 description: ""
 author: Samuel Hahnemann
 weight: 32
-c: "deeppink"
+c: "#DE3163"
 ---
 
 

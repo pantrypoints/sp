@@ -3,7 +3,7 @@ heading: "Chapter 6g"
 title: "The Color and Defects of the Head line"
 # date: 2021-11-20
 weight: 36
-c: "deeppink"
+c: "#DE3163"
 description: "The color of the Head line must always be noted"
 author: "Benham"
 icon: "William Benham"

@@ -2,7 +2,7 @@
 title: PRELIMINARY DISCOURSE
 # heading: Chapter 1
 description: 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 3
 ---

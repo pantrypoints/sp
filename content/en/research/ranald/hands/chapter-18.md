@@ -3,7 +3,7 @@ heading: Chapter 18
 title: "The Conformation And Shape Of The Hand And Its Significance In Medicine"
 weight: 50
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: ""
 draft: true
 ---

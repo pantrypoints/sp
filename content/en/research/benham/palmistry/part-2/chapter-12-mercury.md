@@ -2,7 +2,7 @@
 heading: "Chapter 12"
 title: "The Mercury Line"
 description: "THE line of Mercury has been called the line of Health, the line of Liver, and the Hepatica"
-c: "deeppink"
+c: "#DE3163"
 weight: 64
 author: "Benham"
 icon: "William Benham"

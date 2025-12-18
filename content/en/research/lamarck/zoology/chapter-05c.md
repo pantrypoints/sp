@@ -3,7 +3,7 @@ title: Distribution of Animals Established by Linnaeus
 heading: Chapter 5c
 description: 
 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 27
 ---

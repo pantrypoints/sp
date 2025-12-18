@@ -3,7 +3,7 @@ heading: Chapter 12
 title: "The Liness of Sex Influence"
 weight: 36
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "These lines do not show the number of times you have married or will marry."
 ---
 

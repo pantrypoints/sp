@@ -5,7 +5,7 @@ description: "The second basis is that the dual mind exists and operates as has 
 weight: 3
 author: "Benham"
 icon: "William Benham"
-c: "deeppink"
+c: "#DE3163"
 ---
 
 

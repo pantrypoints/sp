@@ -3,7 +3,7 @@ title: The Present Classification of Animals
 heading: Chapter 5b
 description: 
 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 25
 ---

@@ -3,7 +3,7 @@ title: Disappearing Ears and Legs
 heading: Chapter 7e
 description: Sound is set in motion by the shock or the vibration of bodies 
 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 55
 ---

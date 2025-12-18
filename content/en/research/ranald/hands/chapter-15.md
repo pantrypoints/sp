@@ -3,7 +3,7 @@ heading: Chapter 15
 title: "Special Markings In The Palm"
 weight: 44
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "The star (see plate 55) is, with only two exceptions, one of the most fortunate signs to have."
 # draft: true
 ---

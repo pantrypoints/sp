@@ -4,7 +4,7 @@ title: "The Functions of the Bodily Machine"
 date: 2024-12-12
 weight: 62
 description: "The functions of the body are made possible by the heart"
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

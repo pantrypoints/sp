@@ -3,7 +3,7 @@ heading: Chapter 22b
 title: "ADULT VOCATIONAL GUIDANCE"
 weight: 70
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: ""
 draft: true
 ---

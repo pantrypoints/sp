@@ -3,7 +3,7 @@ title: "Class 4: Worms"
 description: General Distribution of Animals
 heading: Chapter 8f
 description: 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 82
 ---

@@ -5,7 +5,7 @@ description: "As single signs, or in combination with each other, the star, tria
 weight: 104
 author: "Benham"
 icon: "William Benham"
-c: "deeppink"
+c: "#DE3163"
 ---
 
 Are strong determination and reason back of Jupiterian desires and ambitions?

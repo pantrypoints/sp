@@ -3,7 +3,7 @@ heading: Chapter 9
 title: "The Lines of Heart"
 weight: 30
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "This line must be read in conjunction with the indications of hand as a whole and particularly in relation to the line of head"
 ---
 

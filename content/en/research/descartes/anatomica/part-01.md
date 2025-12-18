@@ -7,7 +7,7 @@ description: "Rene Descartes starts to doubt all of his beliefs"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "deeppink"
+c: "#DE3163"
 icon: "Rene Descartes"
 ---
 

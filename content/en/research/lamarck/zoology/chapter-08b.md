@@ -2,7 +2,7 @@
 title: The 6 Stages
 heading: Chapter 8b
 description: Following the order which conforms most closely to the order of nature
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 72
 ---

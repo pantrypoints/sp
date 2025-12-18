@@ -2,7 +2,7 @@
 title: "Breaks in the Heart Line"
 heading: "Chapter 5g"
 weight: 24
-c: "deeppink"
+c: "#DE3163"
 description: "Breaks are always serious even though small. When wide or when the ends of the broken line are far apart and unrepaired, they become serious enough to warrant the reading of probable fatality"
 icon: "/avatars/blank.png"
 author: "Benham"

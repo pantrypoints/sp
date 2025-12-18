@@ -1,7 +1,7 @@
 ---
 heading: Chapter 14c
 title: "Line of Intuition"
-c: "deeppink"
+c: "#DE3163"
 description: "The line of Intuition lies at the side of the hand near the percussion"
 weight: 76
 author: "Benham"

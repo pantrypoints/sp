@@ -3,7 +3,7 @@ heading: "Chapter 22"
 title: "The Mount Of Luna"
 description: "His realm is the world of imagination. He keeps humanity from becoming too material, and enables us to see with the mind's eye"
 weight: 124
-c: "deeppink"
+c: "#DE3163"
 author: "Benham"
 icon: "William Benham"
 ---

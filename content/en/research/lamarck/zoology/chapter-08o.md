@@ -2,7 +2,7 @@
 title: "Class 13: Birds"
 heading: Chapter 8o
 description: 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 125
 writer:

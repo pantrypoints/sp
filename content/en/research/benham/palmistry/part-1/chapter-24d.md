@@ -3,7 +3,7 @@ heading: "Chapter 24d"
 title: "The Bad Aspects of the Mount Of Luna"
 description: "With yellow color we find gouty and rheumatic troubles pre-liable, as shown on the middle third of the Mount"
 weight: 130
-c: "deeppink"
+c: "#DE3163"
 author: "Benham"
 icon: "William Benham"
 ---

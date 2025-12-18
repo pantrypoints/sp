@@ -3,7 +3,7 @@ heading: Chapter 23
 title: "Notable Hands"
 weight: 72
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: ""
 draft: true
 ---

@@ -4,7 +4,7 @@ title: "Ideas and Memory"
 # date: 2022-01-29
 weight: 46
 description: "That obliquity serves the formation of the ideas of objects which strike the senses"
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

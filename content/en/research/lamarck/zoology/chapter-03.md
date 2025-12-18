@@ -6,7 +6,7 @@ writer:
   name: Jean-Baptiste Lamarck
   url: https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck
 icon: "Lamarck"
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight:  11
 ---

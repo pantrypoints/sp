@@ -3,7 +3,7 @@ heading: Chapter 3
 title: "The Thumb"
 weight: 12
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "Professor G. Elliot Smith determined that the Peking Man was human and not an ape by looking at its thumb"
 ---
 

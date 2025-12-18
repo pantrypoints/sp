@@ -6,7 +6,7 @@ description: "As single signs, or in combination with each other, the star, tria
 weight: 114
 author: "Benham"
 icon: "William Benham"
-c: "deeppink"
+c: "#DE3163"
 ---
 
 

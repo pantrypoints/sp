@@ -4,7 +4,7 @@ linkTitle: Articles 17-26
 title: What is Perception?
 weight: 8
 description: Descartes gives 4 Precepts on Math and Logic
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

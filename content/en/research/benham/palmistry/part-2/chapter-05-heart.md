@@ -2,7 +2,7 @@
 title: "The Heart Line"
 heading: "Chapter 5"
 weight: 16
-c: "deeppink"
+c: "#DE3163"
 description: "The line of Heart rises from some point under or near the finger of Jupiter, and traces its way across the hand under the Mounts, ending on the percussion."
 author: "Benham"
 icon: "William Benham"

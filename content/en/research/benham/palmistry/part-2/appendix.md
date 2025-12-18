@@ -3,7 +3,7 @@ heading: "Chapter 34--Aristotle's system"
 title: "Showing The Various Judgments Drawn From The Hand"
 description: "Here is Aristotle's chapter on Palmistry written around 350 B.C."
 weight: 100
-c: "deeppink"
+c: "#DE3163"
 author: "Benham"
 icon: "William Benham"
 ---

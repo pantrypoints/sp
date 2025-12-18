@@ -4,7 +4,7 @@ linkTitle: Articles 53-67
 title: The Order and Enumeration of the Passions
 weight: 19
 description: What is The Order and Enumeration of the Passions?
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

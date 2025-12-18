@@ -5,7 +5,7 @@ description: "The Girdle of Venus is found on many hands, the palm being crossed
 weight: 68
 author: "Benham"
 icon: "William Benham"
-c: "deeppink"
+c: "#DE3163"
 ---
 
 

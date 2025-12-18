@@ -2,7 +2,7 @@
 heading: Tractatus 2
 title: "Their Abode"
 description: "Their regions are divided into their parts. The water people have no intercourse with the mountain people, nor the mountain people with them, nor the salamanders"
-c: "deeppink"
+c: "#DE3163"
 weight: 11
 date: 2024-03-20
 writer:

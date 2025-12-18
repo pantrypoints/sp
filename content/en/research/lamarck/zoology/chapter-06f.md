@@ -2,7 +2,7 @@
 title: Fish
 heading: Chapter 6f
 description: Animals with only 1 ventricle in the heart and still possessing a respiratory lung, but an incomplete one.
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 37
 ---

@@ -3,7 +3,7 @@ heading: "Chapter 20b"
 title: "The Qualities of a Saturnian"
 description: "The Saturnian is the represser"
 weight: 107
-c: "deeppink"
+c: "#DE3163"
 author: "Benham"
 icon: "William Benham"
 ---

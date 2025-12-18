@@ -2,7 +2,7 @@
 heading: Tractatus 6
 title: "The Causes Of Such Creatures"
 description: "God has set guardians over nature, for all things. He left nothing unguarded"
-c: "deeppink"
+c: "#DE3163"
 weight: 28
 date: 2024-02-28
 writer:

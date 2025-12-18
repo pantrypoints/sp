@@ -2,7 +2,7 @@
 title: "The Problems with Aristotle and the Stoics"
 heading: "Chapter 3"
 # date: 2020-01-31
-c: "deeppink"
+c: "#DE3163"
 description: "Adam Smith explains the errors of Aristotle"
 icon: "Adam Smith"
 writer:
@@ -35,7 +35,7 @@ His sensible world owed its origin to its author’s free will and bounty. This 
 - not much rested on
 - not attempted to be very particularly and distinctly explained
 
-It requires no great precision in the ideas and passes through the indolent imagination, accustomed to substitute words in the room of ideas. Upon an attentive consideration, it= 
+It requires no great precision in the ideas and passes through the indolent imagination, accustomed to substitute words in the room of ideas. Upon an attentive consideration, it:
 - vanishes
 - becomes altogether incomprehensible
 - eludes the imagination’s grasp

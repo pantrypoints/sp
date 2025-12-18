@@ -3,7 +3,7 @@ heading: Chapter 8
 title: "The Line of the Head"
 weight: 28
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "THE line of the head (see plate 27, number 2), shows mental balance, control, interests, depth, and concentration"
 ---
 

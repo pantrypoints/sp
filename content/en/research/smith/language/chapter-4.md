@@ -6,7 +6,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-c: "deeppink"
+c: "#DE3163"
 description: "The French language is compounded of the Latin and the ancient Franks language. Italian is compounded of Latin and the ancient Lombards language"
 ---
 

@@ -2,7 +2,7 @@
 title: Mammals
 heading: Chapter 6b
 description: Animals with mammary glands, having four articulated limbs and all the essential organs of the most perfect animals; with hair on some parts of the body
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 33
 ---

@@ -6,7 +6,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-c: "deeppink"
+c: "#DE3163"
 description: "Language becomes simpler in its principles, just as it grows more complex in its composition"
 ---
 

@@ -2,7 +2,7 @@
 title: Cirrhipedes And Annelids
 heading: Chapter 6g
 description: We know only 4 genera of cirrhipedes.
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 38
 ---

@@ -2,7 +2,7 @@
 title: "The philosophies of Plato and Aristotle"
 heading: "Chapter 2"
 # date: 2020-01-31
-c: "deeppink"
+c: "#DE3163"
 description: "Adam Smith explains the philosophies of Plato and Aristotle"
 icon: "Adam Smith"
 writer:

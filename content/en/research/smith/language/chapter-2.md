@@ -6,7 +6,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-c: "deeppink"
+c: "#DE3163"
 description: "Every preposition denotes some relation considered in concrete with the co-relative object"
 ---
 

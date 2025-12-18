@@ -3,7 +3,7 @@ heading: Chapter 21
 title: "The Hand as Vocational Guide"
 weight: 56
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: ""
 draft: true
 ---

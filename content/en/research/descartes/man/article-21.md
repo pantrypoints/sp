@@ -4,7 +4,7 @@ title: "Hunger and Thirst"
 # date: 2022-01-29
 weight: 35
 description: "Rene Descartes explains how hunger and thirst are generated"
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

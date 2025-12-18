@@ -3,7 +3,7 @@ heading: "Chapter 25b"
 title: "The Qualities of a Venusian"
 description: "The Venusian is often the victim of rogues, who, knowing his sympathetic nature and generosity, impose upon him with ease"
 weight: 134
-c: "deeppink"
+c: "#DE3163"
 author: "Benham"
 icon: "William Benham"
 ---

@@ -2,7 +2,7 @@
 title: The Natural Order of animals
 heading: Chapter 8
 description: 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 69
 writer:

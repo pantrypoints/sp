@@ -2,7 +2,7 @@
 title: General Observations on Animals; Extinct Species
 heading: Chapter 3c
 description: 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 15
 writer:

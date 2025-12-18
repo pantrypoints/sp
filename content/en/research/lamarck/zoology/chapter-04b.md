@@ -2,7 +2,7 @@
 title: Nature achieves through step by step
 heading: Chapter 4b
 description:
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 20
 writer:

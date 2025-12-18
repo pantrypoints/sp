@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 14"
 title: "The Line of Mars: Vitality"
-c: "deeppink"
+c: "#DE3163"
 description: "The line of Mars rises on the lower Mount of Mars and runs inside of the Life line and very close beside it"
 weight: 72
 author: "Benham"

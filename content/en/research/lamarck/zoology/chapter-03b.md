@@ -2,7 +2,7 @@
 title: Lamarck's Principles
 heading: Chapter 3b
 description: "In order to give the idea of species has some real foundation, let us look at following points"
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 13
 writer:

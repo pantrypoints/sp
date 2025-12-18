@@ -3,7 +3,7 @@ heading: "Chapter 1"
 title: "The 7 Mount Types"
 description: "The science of Palmistry is founded on the shape of the hand"
 weight: 1
-c: "deeppink"
+c: "#DE3163"
 author: "Benham"
 icon: "William Benham"
 ---

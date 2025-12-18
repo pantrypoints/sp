@@ -3,7 +3,7 @@ title: "Defects on the Lines of Influence"
 heading: "Chapter 8b"
 # date: 2021-11-20
 weight: 49
-c: "deeppink"
+c: "#DE3163"
 description: "These tell about factors outside of the subject himself, forming a part of his environment"
 author: "Benham"
 icon: "William Benham"

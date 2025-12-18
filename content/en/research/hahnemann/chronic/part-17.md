@@ -4,7 +4,7 @@ title: "The miasma of itch"
 description: ""
 author: Samuel Hahnemann
 weight: 40
-c: "deeppink"
+c: "#DE3163"
 ---
 
 

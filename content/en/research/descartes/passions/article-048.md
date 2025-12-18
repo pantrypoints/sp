@@ -4,7 +4,7 @@ linkTitle: Articles 48-50
 title: We can train our souls to conquer our passions 
 weight: 17
 description: Knowing the Strength or Weakness of Souls and the Ill of the Weakest
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

@@ -3,7 +3,7 @@ heading: Chapter 6b
 title: "The Quality of the Palm"
 weight: 24
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "The continuity of line is of great significance"
 ---
 

@@ -2,7 +2,7 @@
 title: "Changes in the Heart Line"
 heading: "Chapter 5d"
 weight: 20
-c: "deeppink"
+c: "#DE3163"
 description: "Every variation in the path of the Heart line means a change in the qualities for which it stands."
 icon: "/avatars/blank.png"
 author: "Benham"

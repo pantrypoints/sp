@@ -4,7 +4,7 @@ title: "The Endings of the Saturn Line"
 weight: 59
 author: "Benham"
 icon: "William Benham"
-c: "deeppink"
+c: "#DE3163"
 description: "The Saturn line is frequently called the line of Fate."
 ---
 

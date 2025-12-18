@@ -2,7 +2,7 @@
 title: "Proclus Diadochus"
 heading: Part 1
 description: "We must seek the causes of the harmonic proportions in the divisions of a circle into equal aliquot parts, which are made geometrically"
-c: "deeppink"
+c: "#DE3163"
 weight: 3
 writer:
   name: Johannes Kepler

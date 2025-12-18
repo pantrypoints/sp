@@ -3,7 +3,7 @@ title: "Age As Indicated On The Lines"
 heading: "Chapter 4 "
 # date: 2021-11-20
 weight: 14
-c: "deeppink"
+c: "#DE3163"
 description: "As age comes on the skin grows less fresh looking, takes on a satiny, glossy appearance, and gets darker, often becoming brown in spots"
 author: "Benham"
 icon: "William Benham"

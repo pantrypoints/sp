@@ -4,7 +4,7 @@ heading: "Chapter 11b"
 weight: 61
 author: "Benham"
 icon: "William Benham"
-c: "deeppink"
+c: "#DE3163"
 description: "THE line of Apollo is a vertical line rising from the upper part of the Mount of Moon or higher in the hand, running towards the Mount of Apollo"
 ---
 

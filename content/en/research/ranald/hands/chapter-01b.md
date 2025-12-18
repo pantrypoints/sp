@@ -4,7 +4,7 @@ title: "The Square Hand"
 # date: 1767
 weight: 6
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "The square, or realistic opposite of the conic"
 ---
 

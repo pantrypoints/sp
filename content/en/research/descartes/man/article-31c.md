@@ -4,7 +4,7 @@ title: "Distance Perception"
 # date: 2022-01-29
 weight: 48
 description: "The pineal gland is composed of a very soft material"
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

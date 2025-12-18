@@ -2,7 +2,7 @@
 title: "Head Line Drooping to Luna"
 heading: "Chapter 6e"
 weight: 33
-c: "deeppink"
+c: "#DE3163"
 description: "In very many hands, the Head line slopes towards the Mount of the Moon"
 author: "Benham"
 icon: "William Benham"

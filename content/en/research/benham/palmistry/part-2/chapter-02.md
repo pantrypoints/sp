@@ -4,7 +4,7 @@ title: "The Electric Current"
 description: "No two hands are exactly alike because no two people are exactly alike in character, temperament, or in any other way"
 # date: 2020-01-17
 weight: 4
-c: "deeppink"
+c: "#DE3163"
 author: "Benham"
 icon: "William Benham"
 ---

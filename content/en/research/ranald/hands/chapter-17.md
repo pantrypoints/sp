@@ -3,7 +3,7 @@ heading: Chapter 17
 title: "The Nails"
 weight: 48
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: ""
 draft: true
 ---

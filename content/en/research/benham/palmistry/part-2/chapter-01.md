@@ -5,7 +5,7 @@ description: "The soul contains in itself the event that shall presently befall 
 weight: 2
 author: "Benham"
 icon: "William Benham"
-c: "deeppink"
+c: "#DE3163"
 ---
 
 

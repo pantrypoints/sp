@@ -2,7 +2,7 @@
 title: General Observations of Animals
 heading: Chapter 4
 description:
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 19
 writer:

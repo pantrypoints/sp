@@ -3,7 +3,7 @@ heading: Chapter 11
 title: "The Line of Apollo"
 weight: 34
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: "The line of Apollo (see plate 27, number 5) is not present in every hand nor even in the majority."
 ---
 

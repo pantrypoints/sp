@@ -3,7 +3,7 @@ heading: "Chapter 25"
 title: "The Mount Of Venus"
 description: "Dealing as it does with love and the sexual passions, there is needed much perception and a lofty attitude of mind in the practitioner"
 weight: 132
-c: "deeppink"
+c: "#DE3163"
 author: "Benham"
 icon: "William Benham"
 ---

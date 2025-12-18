@@ -5,7 +5,7 @@ description: "Often, the Girdle is composed of broken fragments"
 weight: 71
 author: "Benham"
 icon: "William Benham"
-c: "deeppink"
+c: "#DE3163"
 ---
 
 

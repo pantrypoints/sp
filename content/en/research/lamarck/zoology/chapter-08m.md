@@ -2,7 +2,7 @@
 title: "Class 11: Fish"
 heading: Chapter 8m
 description: 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 98
 writer:

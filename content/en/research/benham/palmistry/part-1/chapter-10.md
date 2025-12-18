@@ -3,7 +3,7 @@ heading: "Chapter 10"
 title: "The Hand as a Whole"
 description: "The 3 worlds are based on aether, material, base"
 weight: 8
-c: "deeppink"
+c: "#DE3163"
 author: "Benham"
 icon: "William Benham"
 ---

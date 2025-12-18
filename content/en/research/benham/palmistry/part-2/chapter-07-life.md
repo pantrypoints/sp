@@ -2,7 +2,7 @@
 heading: "Chapter 7 "
 title: "The Line of Life"
 weight: 38
-c: "deeppink"
+c: "#DE3163"
 description: "The Saturn line is frequently called the line of Fate."
 author: "Benham"
 icon: "William Benham"

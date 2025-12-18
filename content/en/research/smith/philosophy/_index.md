@@ -2,7 +2,7 @@
 title: "The Principles of Philosophical Enquiries Simplified"
 linkTitle: Principles
 description: "Adam Smith explains the history of Philosophy and Logic of Pythagoras, Plato, and Aristotle"
-c: "deeppink"
+c: "#DE3163"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

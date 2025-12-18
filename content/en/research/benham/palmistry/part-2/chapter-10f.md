@@ -4,7 +4,7 @@ title: "The Saturn Line Defects Between 30-45"
 weight: 58
 author: "Benham"
 icon: "William Benham"
-c: "deeppink"
+c: "#DE3163"
 description: "The Saturn line is frequently called the line of Fate."
 ---
 

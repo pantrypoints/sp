@@ -4,7 +4,7 @@ heading: "Chapter 11c"
 weight: 62
 author: "Benham"
 icon: "William Benham"
-c: "deeppink"
+c: "#DE3163"
 description: "If the line be alternating deep and thin (439) the subject will have a series of successes and failures, but there will be no even, steady operation of a strong line"
 ---
 

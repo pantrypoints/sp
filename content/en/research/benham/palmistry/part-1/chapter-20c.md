@@ -5,7 +5,7 @@ description: "By reason of his love for digging and exploring in the earth, he h
 weight: 108
 author: "Benham"
 icon: "William Benham"
-c: "deeppink"
+c: "#DE3163"
 ---
 
 

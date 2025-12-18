@@ -3,7 +3,7 @@ heading: Chapter 20
 title: "Types Of Fingerprints"
 weight: 54
 contributors: ['Ranald']
-c: "deeppink"
+c: "#DE3163"
 description: ""
 draft: true
 ---

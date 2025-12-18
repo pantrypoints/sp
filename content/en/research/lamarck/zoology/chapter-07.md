@@ -3,7 +3,7 @@ title: The Influence of Circumstances
 # on the Actions and Habits of Animals
 heading: Chapter 7
 description: 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 52
 ---

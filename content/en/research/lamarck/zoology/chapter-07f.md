@@ -3,7 +3,7 @@ title: The Laws of Evolution of Lamarck
 heading: Chapter 7f
 description: "There are 2 laws of nature which observation has always confirmed"
 
-c: "deeppink"
+c: "#DE3163"
 date: 2025-09-16
 weight: 56
 ---

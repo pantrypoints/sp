@@ -2,7 +2,7 @@
 title: "The Splits of the Line of Life"
 heading: "Chapter 7g"
 weight: 46
-c: "deeppink"
+c: "#DE3163"
 description: "The thin Life line indicates a lack of robust, muscular vitality and great endurance."
 author: "Benham"
 icon: "William Benham"

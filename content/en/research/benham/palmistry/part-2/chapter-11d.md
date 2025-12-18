@@ -4,7 +4,7 @@ heading: "Chapter 11d"
 weight: 63
 author: "Benham"
 icon: "William Benham"
-c: "deeppink"
+c: "#DE3163"
 description: ""
 ---
 
