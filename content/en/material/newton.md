@@ -24,7 +24,7 @@ Each vortex is different from each other and so everything is relative depending
 
 Newton debunks this in his Principia in 1685, saying that planets revolve according to their inertia and not their location.
 
-{{< i s="/photos/physics/newton.jpg " a="Newton" >}}
+{{< i s="/photos/physics/newton.jpg" a="Newton" >}}
 
 
 This was validated when the outer planets were discovered, as well as comets coming back as predicted by Newton. 
