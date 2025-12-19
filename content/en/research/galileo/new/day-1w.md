@@ -1,10 +1,11 @@
 ---
 heading: Day 1w
-title: "Sounds"
+title: "Harmonies"
 # date: 2025-05-15
 weight: 50
 description: ""
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei
@@ -43,6 +44,7 @@ Since it is impossible to count the vibrations of a sounding string on account o
 {{< /r >}}
 
 
+
 {{< l a="Salviati" >}}
 This is a beautiful experiment enabling us to distinguish individually the waves which are produced by the vibrations of a sonorous body, which spread through the air, bringing to the tympanum of the ear a stimulus which the mind translates into sound. 
 
@@ -66,13 +68,31 @@ Among the strings of the spinet 2 which were in unison with two of the tones pro
 
 Upon measuring the distance between the markings produced by the two scrapings it was found that the space which contained 45 of one contained 30 of the other, which is precisely the ratio assigned to the fifth.
 
-But now before proceeding any farther I want to call your attention to the fact that, of the three methods for sharpening a tone, the one which you refer to as the fineness of the string should be attributed to its weight. So long as the material of the string is unchanged, the size and weight vary in the same ratio. Thus in the case of gut-strings, we obtain the octave by making one string 4 times as large as the other; so also in the case of brass one wire must have 4 times the size of the other; but if now we wish to obtain the octave of a gut-string, by use of brass wire, we must make it, not four times as large, but four times as heavy as the gut-string: as regards size therefore the metal string is not four times as big but four times as heavy. The wire may therefore be even thinner than the gut notwithstanding the fact that the latter gives the higher note. Hence if two spinets are strung, one with gold wire the other with brass, and if the corresponding strings each have the same length, diameter, and tension it follows that the instrument strung with gold will have a pitch about one-fifth lower than the other because gold has a density almost twice that of brass. And here it is to be noted that it is the weight rather than the size of a moving body which offers resistance to change of motion [velocità del moto] contrary to what one might at first glance think. For it seems reasonable to believe that a body which is large and light should suffer greater retardation of motion in thrusting aside the medium than would one which is thin and heavy; yet here exactly the opposite is true.
+Of the 3 methods for sharpening a tone, the fineness of the string should be attributed to its weight.
 
-Returning now to the original subject of discussion, I assert that the ratio of a musical interval is not immediately determined either by the length, size, or tension of the strings but rather by the ratio of their frequencies, that is, by the number of pulses of air waves which strike the tympanum of the ear, causing it also to vibrate with the same frequency. This fact established, we may possibly explain why certain pairs of notes, differing in pitch produce a pleasing sensation, others a less pleasant effect, and still others a disagreeable sensation. Such an explanation would be tantamount to an explanation of the more or less perfect consonances and of dissonances. The unpleasant sensation produced by the latter arises, I think, from the discordant vibrations of two different tones which strike the ear out of time [sproporzionatamente]. Especially harsh is the dissonance between notes whose frequencies are incommensurable; such a case occurs when one has two strings in unison and sounds one of them open, together with a part of the other which bears the same ratio to its whole length as the side of a square bears to the diagonal; this yields a dissonance similar to the augmented fourth or diminished fifth [tritono o semidiapente].
+So long as the material of the string is unchanged, the size and weight vary in the same ratio. Thus in the case of gut-strings, we obtain the octave by making one string 4 times as large as the other; 
+
+So also in the case of brass one wire must have 4 times the size of the other; but if now we wish to obtain the octave of a gut-string, by use of brass wire, we must make it, not four times as large, but four times as heavy as the gut-string: as regards size therefore the metal string is not four times as big but four times as heavy. The wire may therefore be even thinner than the gut notwithstanding the fact that the latter gives the higher note. Hence if two spinets are strung, one with gold wire the other with brass, and if the corresponding strings each have the same length, diameter, and tension it follows that the instrument strung with gold will have a pitch about one-fifth lower than the other because gold has a density almost twice that of brass.
+
+It is the weight rather than the size of a moving body which offers resistance to change of motion [velocità del moto] contrary to what one might at first glance think. For it seems reasonable to believe that a body which is large and light should suffer greater retardation of motion in thrusting aside the medium than would one which is thin and heavy; yet here exactly the opposite is true.
+
+Returning now to the original subject of discussion, I assert that the ratio of a musical interval is not immediately determined either by the length, size, or tension of the strings but rather by the ratio of their frequencies, that is, by the number of pulses of air waves which strike the tympanum of the ear, causing it also to vibrate with the same frequency. 
+
+This fact established, we may possibly explain why certain pairs of notes, differing in pitch produce a pleasing sensation, others a less pleasant effect, and still others a disagreeable sensation. Such an explanation would be tantamount to an explanation of the more or less perfect consonances and of dissonances.
+
+The unpleasant sensation produced by the latter arises, I think, from the discordant vibrations of two different tones which strike the ear out of time [sproporzionatamente]. 
+
+Especially harsh is the dissonance between notes whose frequencies are incommensurable; such a case occurs when one has two strings in unison and sounds one of them open, together with a part of the other which bears the same ratio to its whole length as the side of a square bears to the diagonal; this yields a dissonance similar to the augmented fourth or diminished fifth [tritono o semidiapente].
 
 Agreeable consonances are pairs of tones which strike the ear with a certain regularity; this regularity consists in the fact that the pulses delivered by the two tones, in the same interval of time, shall be commensurable in number, so as not to keep the ear drum in perpetual torment, bending in two different directions in order to yield to the ever-discordant impulses.
 
-The first and most pleasing consonance is, therefore, the octave since, for every pulse given to the tympanum by the lower string, the sharp string delivers two; accordingly at every other vibration of the upper string both pulses are delivered simultaneously so that one-half the entire number of pulses are delivered in unison. But when two strings are in unison their vibrations always coincide and the effect is that of a single string; hence we do not refer to it as consonance. The fifth is also a pleasing interval since for every two vibrations of the lower string the upper one gives three, so that considering the entire number of pulses from the upper string one-third of them will strike in unison, i. e., between each pair of concordant vibrations there intervene two single vibrations; and when the interval is a fourth, three single vibrations intervene. In case the interval is a second where the ratio is 9/8 it is only every ninth vibration of the upper string which reaches the ear simultaneously with one of the lower; all the others are discordant and produce a harsh effect upon the recipient ear which interprets them as dissonances.
+The first and most pleasing consonance is, therefore, the octave since, for every pulse given to the tympanum by the lower string, the sharp string delivers two; accordingly at every other vibration of the upper string both pulses are delivered simultaneously so that one-half the entire number of pulses are delivered in unison. 
+
+But when two strings are in unison their vibrations always coincide and the effect is that of a single string; hence we do not refer to it as consonance. 
+
+The fifth is also a pleasing interval since for every two vibrations of the lower string the upper one gives three, so that considering the entire number of pulses from the upper string one-third of them will strike in unison, i. e., between each pair of concordant vibrations there intervene two single vibrations; and when the interval is a fourth, three single vibrations intervene. 
+
+In case the interval is a second where the ratio is 9/8 it is only every ninth vibration of the upper string which reaches the ear simultaneously with one of the lower; all the others are discordant and produce a harsh effect upon the recipient ear which interprets them as dissonances.
 {{< /l >}}
 
 

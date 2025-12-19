@@ -5,6 +5,7 @@ title: "Motions through the air"
 weight: 106
 description: "You Venetians display constant activity in your famous arsenal. It is a great way to learn about mechanics."
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei
@@ -18,7 +19,10 @@ Air resistance exhibits itself in 2 ways:
 
 Regarding the first of these, consider the case of two balls having the same dimensions, but one weighing ten or twelve times as much as the other; one, say, of lead, the other of oak, both allowed to fall from an elevation of 150 or 200 cubits.
 
-Experiment shows that they will reach the earth with slight difference in speed, showing us that in both cases the retardation caused by the air is small; for if both balls start at the same moment and at the same elevation, and if the leaden one be slightly retarded and the wooden one greatly retarded, then the former ought to reach the earth a considerable distance in advance of the latter, since it is ten times as heavy. But this does not happen; indeed, the gain in distance of one over the other does not amount to the hundredth part of the entire fall. And in the case of a ball of stone weighing only a third or half as much as one of lead, the difference in their times of reaching the earth will be scarcely noticeable. Now since the speed [impeto] acquired by a leaden ball in falling from a height of 200 cubits is so great that if the motion remained uniform the ball would, in an interval of time equal to that of the fall, traverse 400 cubits, and since this speed is so considerable in comparison with those which, by use of bows or other machines except fire arms, we are able to give to our projectiles, it follows that we may, without sensible error, regard as absolutely true those propositions which we are about to prove without considering the resistance of the medium.
+Experiment shows that they will reach the earth with slight difference in speed, showing us that in both cases the retardation caused by the air is small; for if both balls start at the same moment and at the same elevation, and if the leaden one be slightly retarded and the wooden one greatly retarded, then the former ought to reach the earth a considerable distance in advance of the latter, since it is ten times as heavy. But this does not happen; indeed, the gain in distance of one over the other does not amount to the hundredth part of the entire fall.
+
+In the case of a ball of stone weighing only a third or half as much as one of lead, the difference in their times of reaching the earth will be scarcely noticeable. Now since the speed [impeto] acquired by a leaden ball in falling from a height of 200 cubits is so great that if the motion remained uniform the ball would, in an interval of time equal to that of the fall, traverse 400 cubits, and since this speed is so considerable in comparison with those which, by use of bows or other machines except fire arms, we are able to give to our projectiles, it follows that we may, without sensible error, regard as absolutely true those propositions which we are about to prove without considering the resistance of the medium.
+
 
 2. by offering greater resistance to a body in rapid motion than to the same body in slow motion.
 

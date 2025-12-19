@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2c"
+heading: "Section 2b"
 title: "The Macro-Aetherspace and the 7 Dimensions"
 # date: 2024-07-22
 weight: 6
@@ -9,7 +9,10 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /material/principles/part-2/chapter-02c
 ---
+
 
 
 In Material Superphysics, which is based on Cartesian Physics, the macro-aetherspace is part of the spatial layer that is above spacetime, but below timespace.

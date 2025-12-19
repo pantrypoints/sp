@@ -5,6 +5,7 @@ title: "Sounds"
 weight: 46
 description: ""
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei

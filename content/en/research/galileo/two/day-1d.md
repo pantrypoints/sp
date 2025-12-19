@@ -5,6 +5,7 @@ title: "The Earth is the Same as the Celestial Bodies"
 weight: 11
 description:
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei

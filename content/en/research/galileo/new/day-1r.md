@@ -5,6 +5,7 @@ title: "Lead Versus Harmony"
 weight: 38
 description: ""
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei

@@ -12,11 +12,7 @@ writer:
 
 
 
-The continuance of the organised body, on the contrary, just depends
-upon continual movement and the constant reception of external
-influences. As soon as these are wanting and the movement in
-it stops it is dead, and thereby ceases to be organic, although
-the trace of the organism that has been still remains for a while.
+The continuance of the organised body, on the contrary, just depends on continual movement and the constant reception of external influences. As soon as these are wanting and the movement in it stops it is dead, and thereby ceases to be organic, although the trace of the organism that has been still remains for a while.
 
 Therefore the talk, which is so much affected in our own day, of the life of what is unorganised, indeed of the globe itself, and that it, and also the planetary system, is an organism, is entirely inadmissible. The predicate life belongs only to what is organised. Every organism, however, is throughout organised,[037] is so in all its parts; and nowhere are these, even in their smallest particles, composed by aggregation of what is unorganised. Thus if the earth were an organism, all mountains and rocks, and the whole interior of their mass, would necessarily be organised, and accordingly really nothing unorganised would exist; and therefore the whole conception of it would be wanting.
 

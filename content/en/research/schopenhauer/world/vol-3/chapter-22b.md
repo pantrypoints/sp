@@ -14,32 +14,32 @@ writer:
 
 Thus knowledge and multiplicity, or individuation, stand and fall together, for they reciprocally condition each other. Hence it must be inferred that, beyond the phenomenon in the true being of all things, to which time and space, and consequently also multiplicity, must be foreign, there can also be no knowledge. 
 
-Buddhism defines this as Pratschna Paramita, i.e., that which is beyond all knowledge (J. J. Schmidt, “On the Maha-Jana and Pratschna Paramita”). A “knowledge of things in themselves,” in the strictest sense of the word, would accordingly be already impossible from the fact that where the thing in itself begins knowledge ceases, and all knowledge is essentially concerned only with phenomena.
+Buddhism defines this as Pratschna Paramita, i.e., that which is beyond all knowledge (J. J. Schmidt, “On the Maha-Jana and Pratschna Paramita”).
+
+A “knowledge of things in themselves,” in the strictest sense of the word, would accordingly be already impossible from the fact that where the thing in itself begins knowledge ceases, and all knowledge is essentially concerned only with phenomena.
 
 For it springs from a limitation, by which it is made necessary, in order to extend the limits.
 
-For the objective consideration the brain is the efflorescence of the organism; therefore only where the latter has attained its highest perfection and complexity does the brain appear in its greatest
-development. 
+For the objective consideration the brain is the efflorescence of the organism; therefore only where the latter has attained its highest perfection and complexity does the brain appear in its greatest development. 
 
 But in the preceding chapter we have recognised the organism as the objectification of the will; therefore the brain
 also, as a part of it, must belong to this objectification. 
 
-Further, from the fact that the organism is only the visibility of the will, thus in itself is the will, I have deduced that every affection of the organism at once and directly affects the will, i.e., is felt as agreeable or painful. Yet, with the heightening of sensibility, in the higher development of the nervous system, the possibility arises that in the nobler, i.e., the objective, organs of sense (sight and hearing) the exquisitely delicate affections proper to them are perceived without in themselves and directly affecting the will, that is, without being either painful or agreeable,
-and that therefore they appear in consciousness as indifferent, merely perceived, sensations. But in the brain this heightening of sensibility reaches such a high degree that upon received impressions of sense a reaction even takes place, which does not proceed directly from the will, but is primarily a spontaneity of the function of understanding, which makes the transition from the directly perceived sensation of the senses to its cause; and since the brain then at once produces the form of space, there thus arises the perception of an external object. 
+Further, from the fact that the organism is only the visibility of the will, thus in itself is the will, I have deduced that every affection of the organism at once and directly affects the will, i.e., is felt as agreeable or painful. 
 
-We may therefore regard the point at which the understanding makes the transition from the mere sensation upon the retina, which is still a mere affection of the body and therefore of the will, to the cause of that sensation, which it projects by means of its form of space,
-as something external and different from its own body, as the
-boundary between the world as will and the world as idea, or as the birthplace of the latter. In man, however, the spontaneity of the activity of the brain, which in the last instance is certainly
-conferred by the will, goes further than mere perception and
-immediate comprehension of causal relations. It extends to the
-construction of abstract conceptions out of these perceptions, and
-to operating with these conceptions, i.e., to thinking, as that in
-which his reason consists. Thoughts are therefore furthest re-
-moved from the affections of the body, which, since the body is
-the objectification of the will, may, through increased intensity,
-pass at once into pain, even in the organs of sense. Accordingly
-idea and thought may also be regarded as the efflorescence of
-the will, because they spring from the highest perfection and
+Yet, with the heightening of sensibility, in the higher development of the nervous system, the possibility arises that in the nobler, i.e., the objective, organs of sense (sight and hearing) the exquisitely delicate affections proper to them are perceived without in themselves and directly affecting the will, that is, without being either painful or agreeable, and that therefore they appear in consciousness as indifferent, merely perceived, sensations. 
+
+But in the brain this heightening of sensibility reaches such a high degree that upon received impressions of sense a reaction even takes place, which does not proceed directly from the will, but is primarily a spontaneity of the function of understanding, which makes the transition from the directly perceived sensation of the senses to its cause; and since the brain then at once produces the form of space, there thus arises the perception of an external object. 
+
+We may therefore regard the point at which the understanding makes the transition from the mere sensation upon the retina, which is still a mere affection of the body and therefore of the will, to the cause of that sensation, which it projects by means of its form of space, as something external and different from its own body, as the
+boundary between the world as will and the world as idea, or as the birthplace of the latter. 
+
+In man, however, the spontaneity of the activity of the brain, which in the last instance is certainly conferred by the will, goes further than mere perception and immediate comprehension of causal relations. 
+
+It extends to the construction of abstract conceptions out of these perceptions, and to operating with these conceptions, i.e., to thinking, as that in
+which his reason consists. Thoughts are therefore furthest removed from the affections of the body, which, since the body is
+the objectification of the will, may, through increased intensity, pass at once into pain, even in the organs of sense. Accordingly
+idea and thought may also be regarded as the efflorescence of the will, because they spring from the highest perfection and
 development of the organism; but the organism, in itself and
 apart from the idea, is the will. Of course, in my explanation, the
 existence of the body presupposes the world of idea; inasmuch
@@ -271,4 +271,3 @@ diate existence is subjective: the objective existence is in the
 consciousness of another, thus only for this other, consequently
 quite indirect. Through the grade of consciousness beings are as different as through the will they are alike, for the will is what is
 common to them all.
-

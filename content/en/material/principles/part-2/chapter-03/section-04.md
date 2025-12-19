@@ -9,7 +9,10 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /material/principles/part-2/chapter-03e
 ---
+
 
 
 While the aetherspace (mos2) is tasked with separating identities, virtual space particles (mos3) are tasked with facilitating movement between those aetherspaces. 
@@ -41,6 +44,19 @@ Liquid Nature of Space Particles | Gravitational Waves
 Liquid Nature of Space Particles | Equivalence and Weak Equivalence Principles
 
 
+In a nutshell, this gives us 3 matter-gravities:
+
+1. Material 
+2. Fine
+3. Rotational or Vortex
+
+This is different from radiant-gravities as magnetism, and aetherspace-gravities as inter/intramolecular and contat forces and strong force 
+
+Physics usually calls:
+- radiant-gravities as forces such as magnetic force 
+- aetherspace-gravities as bonds such as the hydrogen bond
+
+
 
 ## Rotational Gravity: How Vortices Form in Space
 
@@ -65,5 +81,23 @@ Newtonian Physics bases its principles on material effects.
 Cartesian Physics bases its principles on aethreal causes. 
 
 It is more solid to create a science based on causes instead of effects.
+
+
+
+## Replacing Inertial Mass and Gravitational Mass with Rotational and Material Gravity
+
+Physics began with Newton who did not have the concept of invisible space particles. 
+
+And so he could only base his dyanmics on visible matter. This led to the his theory of matter-based gravity which we call material gravity. 
+
+He used the simplistic concept of inertia to explain rotational gravity since he had no concept of spinning vortices which requires the concept of the 2 Forces. 
+
+
+Einstein discovered Rotational or Vortex Gravity by adopting Mach's Principle. 
+
+<!-- The innovation of Einstein was to -->
+
+
+
 
 

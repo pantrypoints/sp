@@ -9,7 +9,10 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /material/principles/part-2/chapter-03b
 ---
+
 
 
 Timespace is the highest and most subtle sublayer of the Spatial layer. 

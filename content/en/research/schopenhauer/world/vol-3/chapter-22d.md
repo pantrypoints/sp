@@ -1,7 +1,7 @@
 ---
 heading: Chapter 22d
 title: "The objectivity of Knowledge"
-description: ""
+description: "The objectivity of knowledge"
 date: 2025-10-05
 weight: 16
 icon: Schopenhauer
@@ -12,32 +12,39 @@ writer:
 
 
 
-The original inner force of nature, without knowledge and working in the dark, which, if it has worked its way up to self-consciousness, reveals itself to this as will,
-attains to this grade only by the production of an animal brain
-and of knowledge, as its function, whereupon the phenomenon
-of the world of perception arises in this brain. But to explain
-this mere brain phenomenon, with the conformity to law which
-is invariably connected with its functions, as the objective inner
-nature of the world and the things in it, which is independent of
-the brain, existing before and after it, is clearly a spring which nothing warrants us in making. From this mundus phœnomenon, however, from this perception which arises under such a variety
-of conditions, all our conceptions are drawn. They have all their
-content from it, or even only in relation to it. Therefore, as Kant
-says, they are only for immanent, not for transcendental, use; that
+The original inner force of nature works without knowledge and in the dark.
+
+It works its way up to self-consciousness and reveals itself to it as will.
+
+This inner force attains to this grade only by the production of:
+- an animal brain
+- the knowledge as the function of that brain
+
+This lets the brain create the world of perception. 
+
+<!-- But to explain this mere brain phenomenon, with the conformity to law which is invariably connected with its functions, as the objective inner nature of the world and the things in it, which is independent of the brain, existing before and after it, is clearly a spring which nothing warrants us in making. -->
+
+All our conceptions are drawn from this perception which arises under such a variety of conditions.
+<!-- this mundus phœnomenon, however, from , .  -->
+
+They have all their content from it, or even only in relation to it.
+
+ Therefore, as Kant says, they are only for immanent, not for transcendental, use; that
 is to say, these conceptions of ours, this first material of thought,
-and consequently still more the judgments which result from [025]
-their combination, are unfitted for the task of thinking the nature
+and consequently still more the judgments which result from their combination, are unfitted for the task of thinking the nature
 of things in themselves, and the true connection of the world and
 existence; indeed, to undertake this is analogous to expressing
-the stereometrical content of a body in square inches. For our in-
-tellect, originally only intended to present to an individual will its
-paltry aims, comprehends accordingly mere relations of things,
-and does not penetrate to their inner being, to their real nature.
-It is therefore a merely superficial force, clings to the surface
-of things, and apprehends mere species transitivas, not the true
+the stereometrical content of a body in square inches. 
+
+For our intellect, originally only intended to present to an individual will its paltry aims, comprehends accordingly mere relations of things,
+and does not penetrate to their inner being, to their real nature. 
+
+It is therefore a merely superficial force, clings to the surface of things, and apprehends mere species transitivas, not the true
 being of things. From this it arises that we cannot understand and
-comprehend any single thing, even the simplest and smallest,
-through and through, but something remains entirely inexplicable
-to us in each of them. Just because the intellect is a product of
+comprehend any single thing, even the simplest and smallest, through and through, but something remains entirely inexplicable
+to us in each of them. 
+
+Just because the intellect is a product of
 nature, and is therefore only intended for its ends, the Christian
 mystics have very aptly called it “the light of nature,” and driven
 it back within its limits; for nature is the object to which alone
@@ -212,30 +219,4 @@ which on every occasion their thought hastens in a direct line,
 and at which their understanding at once finds welcome rest. For
 thinking is as unendurable to the weak head as the lifting of a burden to the weak arm; therefore both hasten to set it down. 
 
-The
-objectivity of knowledge, and primarily of perceptive knowledge, has innumerable grades, which depend upon the energy
-of the intellect and its separation from the will, and the highest
-of which is genius, in which the comprehension of the external
-world becomes so pure and objective that to it even more reveals
-itself directly in the individual thing than the individual thing
-itself, namely, the nature of its whole species, i.e., its Platonic
-Idea; which is brought about by the fact that in this case the will
-entirely vanishes from consciousness. Here is the point at which
-the present investigation, starting from physiological grounds,
-connects itself with the subject of our third book, the metaphysics
-of the beautiful, where æsthetic comprehension proper, which,
-in a high degree, is peculiar to genius alone, is fully considered
-as the condition of pure, i.e., perfectly will-less, and on that
-account completely objective knowledge. According to what has
-been said, the rise of intelligence, from the obscurest animal
-consciousness up to that of man, is a progressive loosening of the
-intellect from the will, which appears complete, although only as
-an exception, in the genius. Therefore genius may be defined as
-the highest grade of the objectivity of knowledge. The condition
-of this, which so seldom occurs, is a decidedly larger measure
-of intelligence than is required for the service of the will, which
-constitutes its basis; it is accordingly this free surplus which first
-really properly comes to know the world, i.e., comprehends it
-perfectly objectively, and now paints pictures, composes poems,
-and thinks in accordance with this comprehension.
-
+The objectivity of knowledge, and primarily of perceptive knowledge, has innumerable grades, which depend upon the energy of the intellect and its separation from the will, and the highest of which is genius, in which the comprehension of the external world becomes so pure and objective that to it even more reveals itself directly in the individual thing than the individual thing itself, namely, the nature of its whole species, i.e., its Platonic Idea; which is brought about by the fact that in this case the will entirely vanishes from consciousness. Here is the point at which the present investigation, starting from physiological grounds, connects itself with the subject of our third book, the metaphysics of the beautiful, where æsthetic comprehension proper, which, in a high degree, is peculiar to genius alone, is fully considered as the condition of pure, i.e., perfectly will-less, and on that account completely objective knowledge. According to what has been said, the rise of intelligence, from the obscurest animal consciousness up to that of man, is a progressive loosening of the intellect from the will, which appears complete, although only as an exception, in the genius. Therefore genius may be defined as the highest grade of the objectivity of knowledge. The condition of this, which so seldom occurs, is a decidedly larger measure of intelligence than is required for the service of the will, which constitutes its basis; it is accordingly this free surplus which first really properly comes to know the world, i.e., comprehends it perfectly objectively, and now paints pictures, composes poems, and thinks in accordance with this comprehension.

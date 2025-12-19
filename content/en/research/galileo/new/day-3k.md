@@ -5,6 +5,7 @@ title: "Small Scale Versus Large Scale"
 weight: 99
 description: "You Venetians display constant activity in your famous arsenal. It is a great way to learn about mechanics."
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei
@@ -114,9 +115,15 @@ From this it is clear that the distance sought is bounded at each end by portion
 
 Given 2 horizontal planes cut by a vertical line, it is required to find a point on the upper part of the vertical line from which bodies may fall to the horizontal planes and there, having their motion deflected into a horizontal direction, will, during an interval equal to the time of fall, traverse distances which bear to each other any assigned ratio of a smaller quantity to a larger.
 
-Let CD and BE be the horizontal planes cut by the vertical ACB, and let the ratio of the smaller quantity to the larger be that of N to FG. It is required to find in the upper part of the vertical line, AB, a point from which a body falling to the plane CD and there having its motion deflected along this plane, will traverse, during an interval equal to its time of fall a distance such that if another body, falling from this same point to the plane BE, there have its motion deflected along this plane and continued during an interval equal to its time of fall, will traverse a distance which bears to the former distance the ratio of FG to N. 
+Let CD and BE be the horizontal planes cut by the vertical ACB.
 
-Lay off GH equal to N, and select the point L so that FH:HG=BC:CL. Then, I say, L is the point sought. For, if we lay off CM equal to twice CL, and draw the line LM cutting the plane BE at O, then BO will be equal to twice BL. And since FH:HG=BC:CL, we have, componendo et convertendo, HG:GF=N:GF=CL:LB=CM:BO. 
+Let the ratio of the smaller quantity to the larger be that of N to FG.
+
+It is required to find in the upper part of the vertical line, AB, a point from which a body falling to the plane CD and there having its motion deflected along this plane, will traverse, during an interval equal to its time of fall a distance such that if another body, falling from this same point to the plane BE, there have its motion deflected along this plane and continued during an interval equal to its time of fall, will traverse a distance which bears to the former distance the ratio of FG to N. 
+
+Lay off GH equal to N, and select the point L so that FH:HG=BC:CL.
+
+Then, I say, L is the point sought. For, if we lay off CM equal to twice CL, and draw the line LM cutting the plane BE at O, then BO will be equal to twice BL. And since FH:HG=BC:CL, we have, componendo et convertendo, HG:GF=N:GF=CL:LB=CM:BO. 
 
 Since `CM` is double the distance `LC`, the space `CM` is that which a body falling from `L` through `LC` will traverse in the plane `CD`.
 
@@ -128,16 +135,20 @@ q. e. f.
 Fig. 105
 
 
+
 {{< r a="Sagredo" >}}
-I think we may concede to our Academician, without flattery, his claim that in the principle [principio, i. e., accelerated motion] laid down in this treatise he has established a new science dealing with a very old subject. 
+<!-- I think we may concede to our Academician, without flattery, his claim that in the principle [principio, i. e., accelerated motion] laid down in this treatise he has established a new science dealing with a very old subject.  -->
 
 Observing with what ease and clearness he deduces from a single principle the proofs of so many theorems, I wonder not a little how such a question escaped the attention of Archimedes, Apollonius, Euclid and so many other mathematicians and illustrious philosophers, especially since so many ponderous tomes have been devoted to the subject of motion.
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-There is a fragment of Euclid which treats of motion, but in it there is no indication that he ever began to investigate the property of acceleration and the manner in which it varies with slope. So that we may say the door is now opened, for the first time, to a new method fraught with numerous and wonderful results which in future years will command the attention of other minds.
+There is a fragment of Euclid which treats of motion, but in it there is no indication that he ever began to investigate the property of acceleration and the manner in which it varies with slope.
+
+So that we may say the door is now opened, for the first time, to a new method fraught with numerous and wonderful results which in future years will command the attention of other minds.
 {{< /l >}}
+
 
 {{< r a="Sagredo" >}}
 The few properties of the circle proven by Euclid in Elements Book 3 lead to many others more recondite, so the principles which are set forth in this little treatise will, when taken up by speculative minds, lead to many another more remarkable result.
@@ -148,4 +159,4 @@ During this long and laborious day, I have enjoyed these simple theorems more th
 {{< /r >}}
 
 
-end of the third day.
+End of the third day.

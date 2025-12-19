@@ -5,6 +5,7 @@ date: 2025-09-25
 weight: 60
 description: ""
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei
@@ -72,11 +73,12 @@ Given a cylinder AC in which moment and resistance [bending strength] are relate
 
 Using Fig. 25 in the same manner as above, we may say that, since the moment of the cylinder FE is to the moment of the portion DG as the square of ED is to the square of FG, that is, as the length DE is to I; and since the moment of the cylinder FG is to the moment of the cylinder AC as the square of FD is to the square of AB, or, as the square of ED is to the square of I, or, as the square of I is to the square of M, that is, as the length I is to O; it follows, ex æquali, that the moment of the cylinder FE is to the moment of the cylinder AC as the length DE is to O, that is, as the cube of DE is to the cube of I, or, as the cube of FD is to the cube of AB, that is, as the resistance of the base FD is to the resistance of the base AB; which was to be proven.
 
-From what has already been demonstrated, you can plainly see the impossibility of increasing the size of structures to vast dimensions either in art or in nature; likewise the impossibility of building ships, palaces, or temples of enormous size in such a way that their oars, yards, beams, iron-bolts, and, in short, all their other parts will hold together; nor can nature produce trees of extraordinary size because the branches would break down under their own weight; so also it would be impossible to build up the bony structures of men, horses, or other animals so as to hold together and perform their normal functions if these animals were to be increased enormously in height; for this increase in height can be accomplished only by employing a material which is harder and stronger than usual, or by enlarging the size of the bones, thus changing their shape until the form and appearance of the animals suggest a monstrosity. This is perhaps what our wise Poet had in mind, when he says, in describing a huge giant:
+From this you can see the impossibility of increasing the size of structures to vast dimensions either in art or in nature; likewise the impossibility of building ships, palaces, or temples of enormous size in such a way that their oars, yards, beams, iron-bolts, and, in short, all their other parts will hold together; nor can nature produce trees of extraordinary size because the branches would break down under their own weight; so also it would be impossible to build up the bony structures of men, horses, or other animals so as to hold together and perform their normal functions if these animals were to be increased enormously in height; for this increase in height can be accomplished only by employing a material which is harder and stronger than usual, or by enlarging the size of the bones, thus changing their shape until the form and appearance of the animals suggest a monstrosity.
+
+This is perhaps what our wise Poet had in mind, when he says, in describing a huge giant:
 
 “Impossible it is to reckon his height
 “So beyond measure is his size.”
-
 
 I have sketched a bone whose natural length has been increased 3 times. Its thickness has been multiplied until, for a correspondingly large animal, it would perform the same function which the small bone performs for its small animal. 
 

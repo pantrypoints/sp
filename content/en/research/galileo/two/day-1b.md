@@ -4,6 +4,7 @@ title: "Aristotle's Motions"
 weight: 6
 description: ""
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei

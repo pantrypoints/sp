@@ -1,10 +1,11 @@
 ---
 heading: "Day 1n"
-title: "Polygons"
+title: "Cylinders"
 # date: 2025-05-15
 weight: 30
 description: ""
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei

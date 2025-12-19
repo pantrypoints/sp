@@ -5,6 +5,7 @@ title: "The Revolution of the Earth"
 weight: 80
 description: ""
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei

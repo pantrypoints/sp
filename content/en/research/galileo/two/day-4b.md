@@ -5,6 +5,7 @@ title: "The Cause of the Tides"
 weight: 78
 description: ""
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei

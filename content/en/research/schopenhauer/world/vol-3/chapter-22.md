@@ -18,32 +18,34 @@ There are 2 different ways of regarding the intellect:
 
 1. Subjective
 
-This starts from within and taking the consciousness as the given, shows us by what mechanism the world exhibits itself
-in it, and how, out of the materials which the senses and the
-understanding provide, it constructs itself in it. 
+This starts from within and taking the consciousness as the given. This shows us how:
+- the world exhibits itself in it
+- the intellect constructs itself in the world out of the materials provided by the senses and the understanding 
 
-We must look upon Locke as the originator of this method of consideration;
-Kant brought it to incomparably higher perfection; and our first
-book also, together with its supplements, are devoted to it.
+Locke is the originator of this method.
 
-The method of considering the intellect which is opposed to
-this is the objective, which starts from without, takes as its object
-not our own consciousness, but the beings given in outward
-experience, conscious of themselves and of the world, and now
-investigates the relation of their intellect to their other qualities,
-how it has become possible, how it has become necessary, and
-what it accomplishes for them. The standpoint of this method of
-consideration is the empirical. It takes the world and the animal
-existences present in it as absolutely given, in that it starts from
-them. 
+Kant brought it to a higher perfection.
 
-It is accordingly primarily zoological, anatomical, phys-
-iological, and only becomes philosophical by connection with
-that first method of consideration, and from the higher point of[006]
-view thereby attained. The only foundations of this which as yet
-have been given we owe to zootomists and physiologists, for the
-most part French. Here Cabanis is specially to be named, whose
-excellent work, “Des rapports du physique au moral,” is initiatory of this method of consideration on the path of physiology.
+ <!-- and our first book also, together with its supplements, are devoted to it. -->
+
+2. Objective
+
+This starts from the outside. It takes as its object the beings given in outward experience, not our own consciousness.
+
+Those beings are conscious of themselves and of the world.
+
+The intellect investigates:
+- the relation of their intellect to their other qualities
+- how it has become possible
+- how it has become necessary
+- what it accomplishes for them
+
+The takes the empirical standpoint. It takes the world and the animal existences present in it as absolutely given, in that it starts from them.
+
+It is accordingly primarily zoological, anatomical, physiological, and only becomes philosophical by connection with that first method of consideration, and from the higher point of view thereby attained.
+
+The only foundations of this which as yet have been given we owe to zootomists and physiologists, for the
+most part French. Here Cabanis is specially to be named, whose excellent work, “Des rapports du physique au moral,” is initiatory of this method of consideration on the path of physiology.
 
 The famous Bichat was his contemporary, but his theme was a much more comprehensive one. Even Gall may be named here,
 although his chief aim was missed. Ignorance and prejudice have
@@ -68,12 +70,8 @@ those under the heading “Vergleichende Anatomie,” are devoted
 to it, the following exposition of its results in general will be by
 no means superfluous. -->
 
-We become most vividly conscious of the glaring contrast
-between the two methods of considering the intellect opposed to
-each other above if we carry the matter to the extreme and realise
-that what the one, as reflective thought and vivid perception,
-directly assumes and makes its material is for the other noth-
-ing more than the physiological function of an internal organ, [007]
+We become most vividly conscious of the glaring contrast between the 2 methods of considering the intellect opposed to each other above if we carry the matter to the extreme and realise that what the one, as reflective thought and vivid perception,
+directly assumes and makes its material is for the other nothing more than the physiological function of an internal organ, [007]
 the brain; nay, that we are justified in asserting that the whole
 objective world, so boundless in space, so infinite in time, so
 unsearchable in its perfection, is really only a certain movement

@@ -5,6 +5,7 @@ date: 2025-09-25
 weight: 66
 description: "You Venetians display constant activity in your famous arsenal. It is a great way to learn about mechanics."
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei
@@ -26,11 +27,19 @@ The circumscribed shape is composed of areas which bear to each other the same r
 
 Note also that the rectangle CP is made up of an equal number of areas each equal to the largest and each equal to the rectangle OB. Consequently, according to the lemma of Archimedes, the circumscribed figure is larger than a third part of the rectangle CP; but it was also smaller, which is impossible. Hence the “mixed triangle” is not less than a third part of the rectangle CP.
 
-Likewise, I say, it cannot be greater. For, let us suppose that it is greater than a third part of the rectangle CP and let the area X represent the excess of the triangle over the third part of the rectangle CP; subdivide the rectangle into equal rectangles and continue the process until one of these subdivisions is smaller than the area X. Let BO represent such a rectangle smaller than X. Using the above figure, we have in the “mixed triangle” an inscribed figure, made up of the rectangles VO, TN, SM, RL, and QK, which will not be less than a third part of the large rectangle CP.
+Likewise, it cannot be greater.
+
+Let is be greater than 1/3 of the rectangle `CP` and let the area `X` be the excess of the triangle over the third part of the rectangle CP; subdivide the rectangle into equal rectangles and continue the process until one of these subdivisions is smaller than the area X. 
+
+Let `BO` represent such a rectangle smaller than X.
+
+Using the above figure, we have in the “mixed triangle” an inscribed figure, made up of the rectangles VO, TN, SM, RL, and QK, which will not be less than a third part of the large rectangle CP.
 
 For the “mixed triangle” exceeds the inscribed figure by a quantity less than that by which it exceeds the third part of the rectangle CP; to see that this is true we have only to remember that the excess of the triangle over the third part of the rectangle CP is equal to the area X, which is less than the rectangle BO, which in turn is much less than the excess of the triangle over the inscribed figure. 
 
-For the rectangle BO is made up of the small rectangles AG, GE, EF, FH, HI, and IB; and the excess of the triangle over the inscribed figure is less than half the sum of these little rectangles. Thus since the triangle exceeds the third part of the rectangle CP by an amount X, which is more than that by which it exceeds the inscribed figure, the latter will also exceed the third part of the rectangle, CP. But, by the lemma which we have assumed, it is smaller. For the rectangle CP, being the sum of the largest rectangles, bears to the component rectangles of the inscribed figure the same ratio which the sum of all the squares of the lines equal to the longest bears to the squares of the lines which have a common difference, after the square of the longest has been subtracted.
+For the rectangle BO is made up of the small rectangles AG, GE, EF, FH, HI, and IB; and the excess of the triangle over the inscribed figure is less than half the sum of these little rectangles.
+
+Thus since the triangle exceeds the third part of the rectangle CP by an amount X, which is more than that by which it exceeds the inscribed figure, the latter will also exceed the third part of the rectangle, CP. But, by the lemma which we have assumed, it is smaller. For the rectangle CP, being the sum of the largest rectangles, bears to the component rectangles of the inscribed figure the same ratio which the sum of all the squares of the lines equal to the longest bears to the squares of the lines which have a common difference, after the square of the longest has been subtracted.
 
 Therefore, as in the case of squares, the sum total of the largest rectangles, i. e., the rectangle CP, is greater than three times the sum total of those having a common difference minus the largest; but these last make up the inscribed figure. Hence the “mixed triangle” is neither greater nor less than the third part of rectangle CP; it is therefore equal to it.
 {{< /l >}}
@@ -127,9 +136,8 @@ But the resistance of the cylinder `IN` is to that of the cylinder `RM` as the c
 Therefore, ex æquali, the resistance [bending strength] of the tube AE bears to the resistance of the cylinder RM the same ratio as the length AB to `V`.
 {{< /l >}}
 
-
 q. e. d.
 
 Fig. 39
 
-end of second day.
+End of second day.

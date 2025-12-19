@@ -1,10 +1,11 @@
 ---
 heading: Day 3b
-title: "Small Scale Versus Large Scale"
+title: "Movement Speed"
 # date: 2025-05-15
 weight: 70
 description: "You Venetians display constant activity in your famous arsenal. It is a great way to learn about mechanics."
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei
@@ -13,7 +14,9 @@ writer:
 
 ## Theorem 2, Proposition 2
 
-If a moving particle traverses two distances in equal intervals of time, these distances will bear to each other the same ratio as the speeds. And conversely if the distances are as the speeds then the times are equal.
+If a moving particle traverses 2 distances in equal intervals of time, these distances will bear to each other the same ratio as the speeds. 
+
+Conversely if the distances are as the speeds then the times are equal.
 
 Referring to Fig. 40, let AB and BC represent the two distances traversed in equal time-intervals, the distance AB for instance with the velocity DE, and the distance BC with the velocity EF. 
 

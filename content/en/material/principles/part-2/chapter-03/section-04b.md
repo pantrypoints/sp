@@ -9,6 +9,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /material/principles/part-2/chapter-03h
 ---
 
 
@@ -65,12 +67,12 @@ The `g` of earth is different from the `g` of Jupiter because their som and qost
 
 From this we can see how material gravity is from space wanting to reduce the displacements and keep everything neat and flat. 
 
+
+
+
 <!-- youtube C7ipQX4YptA >}} -->
 
-
-
 <!-- It follows that the `G` of the Milky way can be different from the `G` of other galaxies. This gives the diversity of galaxy colors and forms.  -->
-
 
 <!-- Cartesian Spacetime Mechanics: Material Gravity
 

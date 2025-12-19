@@ -4,6 +4,7 @@ title: "The Two Chief World Systems"
 weight: 36
 description: ""
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei

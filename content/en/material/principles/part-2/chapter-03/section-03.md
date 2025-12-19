@@ -9,6 +9,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /material/principles/part-2/chapter-03d
 ---
 
 
@@ -76,3 +78,5 @@ This is why Cartesian Physics had Classical and Quantum unified from the start:
 
 - spacetime facilitates local motion and classical Physics
 - the aetherspace facilitates true motion and quantum Physics
+
+

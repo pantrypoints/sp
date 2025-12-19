@@ -1,10 +1,11 @@
 ---
 heading: Day 2d
-title: "Propositions 5"
+title: "Cylinders and Prisms"
 date: 2025-09-25
 weight: 58
 description: ""
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei
@@ -47,7 +48,9 @@ Fig. 23
 
 
 {{< r a="Simplicio" >}}
-This proposition strikes me as both new and surprising: at first glance it is very different from anything which I myself should have guessed: for since these figures are similar in all other respects, I should have certainly thought that the forces [momenti] and the resistances of these cylinders would have borne to each other the same ratio.
+<!-- This proposition strikes me as both new and surprising: at first glance it is very different from anything which I myself should have guessed: for since  -->
+
+These figures are similar in all other respects, I should have certainly thought that the forces [momenti] and the resistances of these cylinders would have borne to each other the same ratio.
 {{< /r >}}
 
 

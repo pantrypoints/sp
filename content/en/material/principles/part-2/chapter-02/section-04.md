@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2b"
+heading: "Section 2"
 title: "The Properties of Space"
 # date: 2023-11-27
 weight: 5
@@ -10,6 +10,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /material/principles/part-2/chapter-02b
 ---
 
 

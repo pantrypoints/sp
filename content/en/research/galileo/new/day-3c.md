@@ -1,10 +1,11 @@
 ---
 heading: Day 3c
-title: "Small Scale Versus Large Scale"
+title: "Freely Falling Bodies"
 # date: 2025-05-15
 weight: 72
-description: "You Venetians display constant activity in your famous arsenal. It is a great way to learn about mechanics."
+description: "I doubt Galileo's definitions on freely falling bodies. "
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei
@@ -37,9 +38,11 @@ So that if that speed which it had at the end of the fourth beat was such that, 
 
 
 {{< l a="Salviati" >}}
-I also had that difficulty at the beginning. But it was solved by the experiment.
+<!-- I also had that difficulty at the beginning. But it was solved by the experiment. -->
 
-You say the experiment appears to show that immediately after a heavy body starts from rest it acquires a very considerable speed: and I say that the same experiment makes clear the fact that the initial motions of a falling body, no matter how heavy, are very slow and gentle. 
+You say the experiment shows that immediately after a heavy body starts from rest it acquires a very considerable speed.
+
+I say that the same experiment shows that the initial motions of a falling body, no matter how heavy, are very slow and gentle. 
 
 Place a heavy body on a yielding material. Leave it there without any pressure except its own weight.
 
@@ -124,7 +127,12 @@ Galileo investigated and demonstrated some of the properties of accelerated moti
 
 
 {{< r a="Sagredo" >}}
-The definition might have been put a little more clearly perhaps without changing the fundamental idea, namely, uniformly accelerated motion is such that its speed increases in proportion to the space traversed; so that, for example, the speed acquired by a body in falling four cubits would be double that acquired in falling two cubits and this latter speed would be double that acquired in the first cubit. Because there is no doubt but that a heavy body falling from the height of six cubits has, and strikes with, a momentum [impeto] double that it had at the end of three cubits, triple that which it had at the end of one.
+The definition might have been put a little more clearly without changing 
+
+The fundamental idea is that uniformly accelerated motion has an increasing speed in proportion to the space traversed.
+- The speed acquired by a body in falling 4 cubits would be double that acquired in falling 2 cubits.
+- This latter speed would be double that acquired in the first cubit.
+
+A heavy body falling from the height of 6 cubits has, and strikes with, a momentum [impeto] double that it had at the end of three cubits.
+- It will be triple that which it had at the end of one.
 {{< /r >}}
-
-

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3b"
+heading: "Section 2"
 title: "Identity Space: Medium of Aether 2"
 # # date: 2020-01-31
 date: 2024-12-09
@@ -8,9 +8,12 @@ description: "The Identity Space houses the gravitational signature"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 10
+weight: 16
 icon: "Juan"
+aliases:
+  /material/principles/part-1/chapter-03b
 ---
+
 
 
 ## Separtion Leading to Identity

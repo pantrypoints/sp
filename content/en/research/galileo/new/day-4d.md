@@ -1,10 +1,11 @@
 ---
 heading: Day 4d
-title: "Theorem 3"
+title: "Momentum"
 # date: 2025-05-15
 weight: 110
-description: "You Venetians display constant activity in your famous arsenal. It is a great way to learn about mechanics."
+description: "We can only talk about motions and their velocities or momenta [movimenti e lor velocità o impeti] whether uniform or naturally accelerated if we have established a measure for speed and time."
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei
@@ -23,7 +24,7 @@ Galileo considers the speed of a freely falling body adapted to this purpose, si
 
 Thus for instance the speed acquired by a leaden ball of a pound weight starting from rest and falling vertically through the height of, say, a spear's length is the same in all places; it is therefore excellently adapted for representing the momentum [impeto] acquired in the case of natural fall. 
 
-How can we measure momentum in the case of uniform motion in such a way that all who discuss the subject will form the same conception of its size and velocity [grandezza e velocità].  
+How can we measure momentum in the case of uniform motion in such a way that all who discuss the subject will form the same conception of its size and velocity [grandezza e velocità].
 
 This will prevent one person from imagining it larger, another smaller, than it really is; so that in the composition of a given uniform motion with one which is accelerated different men may not obtain different values for the resultant.  In order to determine and represent such a momentum and particular speed [impeto e velocità particolare] our Author has found no better method than to use the momentum acquired by a body in naturally accelerated motion.
 

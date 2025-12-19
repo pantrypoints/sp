@@ -1,10 +1,11 @@
 ---
 heading: Day 3d
-title: "Small Scale Versus Large Scale"
+title: "Uniformly Accelerated Motion"
 # date: 2025-05-15
 weight: 74
-description: "You Venetians display constant activity in your famous arsenal. It is a great way to learn about mechanics."
+description: "Uniformly accelerated motion is motion that is equally accelerated when, starting from rest, its momentum receives equal increments in equal times."
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei

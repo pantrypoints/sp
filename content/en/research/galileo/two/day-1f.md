@@ -5,6 +5,7 @@ title: "Trust the Senses over Theory"
 weight: 16
 description: ""
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei

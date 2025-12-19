@@ -13,47 +13,83 @@ writer:
 
 <!-- 3 This chapter is connected with § 23 of the first volume. -->
 
-That the will which we find within us does not proceed, as
-philosophy has hitherto assumed, first from knowledge, and
-indeed is a mere modification of it, thus something secondary,
-derived, and, like knowledge itself, conditioned by the brain;
-but that it is the prius of knowledge, the kernel of our nature,
-and that original force itself which forms and sustains the animal
-body, in that it carries out both its unconscious and its conscious
-functions;—this is the first step in the fundamental knowledge
-of my metaphysics. Paradoxical as it even now seems to many
-that the will in itself is without knowledge, yet the scholastics
+Philosophy has hitherto assumed that the our will does not come from knowledge.
+
+Instead, the will:
+- is a mere modification of it
+- is secondary, derived conditioned by the brain like knowledge itself
+
+
+
+### First Step to Schopenhauer's Metaphysics: Have Will
+
+The animal body is formed and sustained by:
+- the prius of knowledge
+- the kernel of our nature
+- that original force itself
+
+This force carries out both its unconscious and its conscious functions.
+
+This is the first step in the fundamental knowledge of my metaphysics. 
+
+<!-- Paradoxical as it even now seems to many
+that  -->
+
+The will in itself is ignorant. 
+
+<!--  without knowledge, yet the scholastics
 in some way already recognised and confessed it; for Jul. Cæs.
 Vaninus (that well-known sacrifice to fanaticism and priestly
 fury), who was thoroughly versed in their philosophy, says in his
 “Amphitheatro,” p. 181: “Voluntas potentia cœca est, ex scho-
-lasticorum opinione.” 
+lasticorum opinione.”  -->
 
-That, further, it is that same will which
-in the plant forms the bud in order to develop the leaf and the
-flower out of it; nay, that the regular form of the crystal is only
-the trace which its momentary effort has left behind, and that in
-general, as the true and only ±≈ƒøº±ƒøΩ, in the proper sense of
-the word, it lies at the foundation of all the forces of unorganised
-nature, plays, acts, in all their multifarious phenomena, imparts
-power to their laws, and even in the crudest mass manifests itself
-as gravity;—this insight is the second step in that fundamental
-knowledge, and is brought about by further reflection. But[033]
-it would be the grossest misunderstanding to suppose that this
-is a mere question of a word to denote an unknown quantity.
+
+This same will in a plant forms the bud in order to develop the leaf and its flower.
+
+<!--  nay, that the regular form of the crystal is only
+the trace which its momentary effort has left behind. -->
+
+<!-- As the true and only ±≈ƒøº±ƒøΩ, it lies -->
+
+This will:
+- is at the foundation of all the forces of unorganised nature.
+- plays, acts, in all their multifarious phenomena
+- imparts power to their laws
+- manifests as gravity in the crudest mass
+
+<!-- ;—this insight is the second step in that fundamental
+knowledge, and is brought about by further reflection. --> -->
+
+
+### Second Step to Schopenhauer's Metaphysics: Know the Nature of Will
+
+<!-- But it would be the grossest misunderstanding to suppose that this is a mere question of a word to denote an unknown quantity.
+
 It is rather the most real of all real knowledge which is here
-expressed in language. For it is the tracing back of that which
-is quite inaccessible to our immediate knowledge, and therefore in its essence foreign and unknown to us, which we denote by
-the words force of nature, to that which is known to us most
+expressed in language.  -->
+
+
+Knowing the nature of the will is the tracing back of that which is inaccessible to our immediate knowledge.
+
+<!-- and therefore in its essence foreign and unknown to us, which we denote by
+the words  -->
+
+We call the will as a force of nature.
+
+<!--  to that which is known to us most
 accurately and intimately, but which is yet only accessible to
 us in our own being and directly, and must therefore be carried
-over from this to other phenomena. It is the insight that what is
+over from this to other phenomena.  -->
+
+It is the insight that what is
 inward and original in all the changes and movements of bodies,
 however various they may be, is in its nature identical; that yet
 we have only one opportunity of getting to know it more closely
 and directly, and that is in the movements of our own body. In
-consequence of this knowledge we must call it will. It is the
-insight that that which acts and strives in nature, and exhibits
+consequence of this knowledge we must call it will. 
+
+It is the insight that that which acts and strives in nature, and exhibits
 itself in ever more perfect phenomena, when it has worked itself
 up so far that the light of knowledge falls directly upon it, i.e.,
 when it has attained to the state of self-consciousness—exists
@@ -64,6 +100,8 @@ thing in itself so far as this can ever be reached by knowledge.
 Consequently it is that which must express itself in some way in
 everything in the world, for it is the inner nature of the world and
 the kernel of all phenomena.
+
+
 As my essay, “Ueber den Willen in der Natur,” specially refers
 to the subject of this chapter, and also adduces the evidence of
 unprejudiced empiricists in favour of this important point of my
@@ -121,6 +159,7 @@ He does not know that all feeling is essentially subjective, and all
 that is objective is, on the other hand, perception, and therefore
 a product of the understanding. Yet this does not detract at all
 from the truth and importance of what he says.
+
 In fact, in the life of plants the truth that will can exist without
 knowledge is apparent—one might say palpably recognisable.
 For here we see a decided effort, determined by wants, modified
@@ -132,6 +171,7 @@ about it. As soon, on the other hand, as in the series of existences
 knowledge appears the organs of generation are transferred to
 a hidden part. Man, however, with whom this is again less the
 case, conceals them intentionally: he is ashamed of them.
+
 Primarily, then, the vital force is identical with the will, but
 so also are all other forces of nature; though this is less apparent.
 If, therefore, we find the recognition of a desire, i.e., of a will, [036]
@@ -147,8 +187,7 @@ certain crystallisations display an external form resembling the
 vegetable, yet even between the smallest lichen, the lowest fungus, and everything unorganised there remains a fundamental
 and essential difference. 
 
-In the unorganised body that which is
-essential and permanent, thus that upon which its identity and
+In the unorganised body that which is essential and permanent, thus that upon which its identity and
 integrity rests, is the material, the matter; what is unessential and
 changing is, on the other hand, the form. With the organised
 body the case is exactly reversed; for its life, i.e., its existence

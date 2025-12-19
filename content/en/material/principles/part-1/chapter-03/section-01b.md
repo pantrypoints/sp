@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3c"
+heading: "Section 1b"
 title: "Densities and Dimensions"
 # # date: 2020-01-31
 date: 2024-12-09
@@ -10,7 +10,10 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 14
 icon: "Juan"
+aliases:
+  /material/principles/part-1/chapter-03c
 ---
+
 
 
 The clash of the 2 Forces leads to:

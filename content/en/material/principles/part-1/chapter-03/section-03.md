@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3d"
+heading: "Section 3"
 title: "Perception Space: Medium of Aether 3"
 # # date: 2020-01-31
 date: 2024-12-09
@@ -8,10 +8,11 @@ description: "The Identity Space houses the gravitational signature"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 16
+weight: 18
 icon: "Juan"
 aliases:
   /material/principles/aethereal-relativity/
+  /material/principles/part-1/chapter-03d
 ---
 
 

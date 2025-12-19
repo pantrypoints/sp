@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3"
+heading: "Section 1"
 title: "Existence Space: Media of Aether 1"
 # # date: 2020-01-31
 date: 2024-12-09
@@ -8,9 +8,12 @@ description: "The Media of Aether or Moas facilitate the effects of the aetherea
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 8
+weight: 11
 icon: "Juan"
+aliases:
+  /material/principles/part-1/chapter-03
 ---
+
 
 
 The Media of Aether or Moas facilitate the effects of the aethereal layer. These have 3 kinds, based on the sublayers:

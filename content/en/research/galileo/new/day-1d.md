@@ -5,6 +5,7 @@ title: "Water Pressure"
 weight: 9
 description: "On what depends the resistance to breaking, other than that of void?"
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei

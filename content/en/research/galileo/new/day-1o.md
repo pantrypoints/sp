@@ -5,6 +5,7 @@ title: "What Causes Contraction and Expansion?"
 weight: 32
 description: ""
 c: "darkgoldenrod"
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei
@@ -124,4 +125,3 @@ Here again you are in error, Simplicio, because it is not true that the smaller 
 This is, indeed, quite beyond my comprehension.
 
  -->
-

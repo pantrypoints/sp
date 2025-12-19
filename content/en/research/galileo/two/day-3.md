@@ -5,6 +5,7 @@ weight: 64
 description: ""
 c: "darkgoldenrod"
 icon: Galileo
+icon: Galileo
 writer:
   name: Galileo
   url: https://en.wikipedia.org/wiki/Galileo_Galilei

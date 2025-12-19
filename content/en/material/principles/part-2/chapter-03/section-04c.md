@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3g"
+heading: "Chapter 4b"
 title: "Surface Tension"
 date: 2023-12-11
 weight: 16
@@ -9,6 +9,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /material/principles/part-2/chapter-03h
 ---
 
 
