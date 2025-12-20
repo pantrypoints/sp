@@ -14,7 +14,7 @@ aliases:
 
 
 
-{{< n n="Fire is produced from matter when spacetime exits instantly, leaving only matter and radiance. We replace 3rd Element with earth-aether" >}}
+{{< n n="Fire is produced from matter when spacetime exits instantly, leaving only matter and radiance. We replace 3rd Element with earth-aether, and 2nd Element with air-aether" >}}
 
 
 ## 80. The nature of fire and its distinction from air
@@ -23,20 +23,26 @@ How can flame be ignited in these cavities? What is the nature of fire?
 
 <!-- Terrestrial particles -->
 
-**The earth-aether, regardless of their size or shape, take the form of fire when they are separated from one another**. 
+**When the earth-aether particles are separated from one another, regardless of their size or shape, they are surrounded by the fire-aether and so must follow their course.** 
+- **This makes them take the form of fire just as they take on the form of air when floating among the air-aether globules, imitating their movement.**
 
-Thus, they get surrounded by the fire-aether and must follow their course, just as they take on the form of air when floating among the air-aether globules, imitating their movement.
-
-Therefore, the primary and principal difference between physical air and fire is that **fire particles move faster than air particles**
-- This is consistent with the fire-aether being more agitated than the-aether.
+Therefore, the first and main difference between physical air and fire is that **fire [earth-aether + fire-aether] particles move faster than air [earth-aether + air-aether] particles**
+- This is consistent with the fire-aether being much more agitated than air-aether.
 
 The secondary difference is that:
-- the largest parts of earth-aether bodies can best preserve and nourish fire.
+- the largest particles of earth-aether can best preserve and nourish fire.
 - the smallest particles of earth-aether can best retain the form of air.
 
-The largest earth-aether, like quicksilver, can also receive the air-aether when they are very agitated by heat.
+Quicksilver particles are among the largest earth-aether particles.
+- These can also receive the air-aether when they are very agitated by heat.
 - But they lose it afterwards when this agitation diminishes.
-- This makes them descebd due to gravity.
+- Their weight causes them to descend
+
+<!-- This makes them descend due to gravity. -->
+
+
+{{< i s="/photos/objects/mercury.jpg" a="Mercury" >}}
+
 
 
 <!-- - **the motion of the fire-aether is much faster than that of the air-aether**
@@ -53,13 +59,19 @@ However, fire cannot exist without somewhat denser earth-aether particles, from 
 
 ## 81. How fire is first ignited
 
-The air-aether globules:
-- occupy all the spaces around the earth-aether large enough to contain them.
-- are so crowded there that they touch each other and support each other
-  - If one moves, its neighbors also move unless that motion was a rotation
+The air-aether globules occupy all the spaces:
+- around the Earth
+- in the Earth's pores that are large enough to receive them
+
+These globules are so crowded in the pores that they touch each other and support each other.
+- If one moves, its neighbors also move unless that motion was a rotation
 
 The fire-aether fills all the gaps left by these globules and moves very rapidly within them. 
-- But these still cannot carry the earth-aether particles with them because they are surrounded by the air-aether
+- But these still cannot carry the earth-aether particles with them because the earth-aether are surrounded by the air-aether
+
+Consequently the fire-aether cannot give the form of fire to the earth-aether because the earth-aether:
+- all support one another
+- are supported by the air-aether around them
 
 <!-- The air-aether cannot generate enough force in those places to carry away the earth-aether particles, which are all supported by:
 - each other and
@@ -67,10 +79,12 @@ The fire-aether fills all the gaps left by these globules and moves very rapidly
 This is why the air-aether globules cannot generate fire.
  -->
 
-To generate fire, **the air-aether globules must be expelled from the gaps between some earth-aether particles.** 
+To generate fire, **the air-aether globules must be expelled by force from the gaps between some earth-aether particles.** 
 
-This frees up the earth-aether particles to follow the fire-aether in various directions.
 
+This will prevent the earth-aether from supporting each other. 
+- This will isolate each earth-aether particles so that they can be surrounded by the fire-aether
+- This isolation with the fire-aether will make the earth-aether follow the course of the fire-aether in various directions.
 
 
 ## 82. How is Fire Sustained?

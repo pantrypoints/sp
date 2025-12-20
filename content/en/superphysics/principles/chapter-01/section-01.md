@@ -1,6 +1,6 @@
 ---
 title: "The Two Domains"
-heading: "Chapter 1"
+heading: "Section 1"
 date: 2019-01-01
 weight: 5
 image: /photos/meta/ghost.jpg

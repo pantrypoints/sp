@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2"
+heading: "Section 1"
 title: "The 5 Elements as the 5 Layers of Reality"
 # date: 2015-09-09
 date: 2020-12-03
@@ -12,6 +12,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Superphysics"
 ---
+
 
 <!-- The Microlayers are the quantum subdivisions within the aethereal layer -->
 

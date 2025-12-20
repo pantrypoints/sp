@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1c"
+heading: "Section 2b"
 title: "The Correct Natural View of Reality"
 date: 2025-10-04
 weight: 8
@@ -9,7 +9,10 @@ icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /superphysics/principles/chapter-01c
 ---
+
 
 
 {{< b >}}

@@ -1,6 +1,6 @@
 ---
 title: "The Materialist View of Reality"
-heading: "Chapter 1b"
+heading: "Section 2"
 date: 2025-10-04
 weight: 6
 image: /photos/meta/adam.jpg
@@ -9,7 +9,10 @@ icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /superphysics/principles/chapter-01b
 ---
+
 
 
 {{< b >}}
