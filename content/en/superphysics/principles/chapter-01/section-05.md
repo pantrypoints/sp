@@ -1,15 +1,18 @@
 ---
-heading: "Chapter 1e"
+heading: "Section 5"
 title: "Four Wave Properties: Commonality, Density, Strength, Spread"
 date: 2025-10-04
-weight: 13
-image: /photos/physics/waves.jpg
+weight: 23
+image: /graphics/super/waveprops.jpg
 description: "The laws of Nature, from thermodynamics, the stages of life, and social cycles all show the wave properties of Existence which we can distill into 4"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /superphysics/principles/chapter-01e
 ---
+
 
 
 

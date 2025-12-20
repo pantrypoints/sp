@@ -1,10 +1,10 @@
 ---
-heading: "Chapter 1f"
+heading: "Section 6"
 title: "The 4 Rules of Motion"
 date: 2024-12-28
 # 2020-01-04
-weight: 15
-image: /photos/physics/punch.jpg
+weight: 25
+image: /photos/bio/horse.jpg
 description: "There are 4 Rules of Motion based on the 4 Properties of Waves"
 writer:
   name: Juan
@@ -12,6 +12,7 @@ writer:
 icon: "Juan"
 aliases:
   /motion
+  /superphysics/principles/chapter-01f
 ---
 
 
@@ -94,4 +95,3 @@ Rules 1 and 4 are related to each other just as Rule 2 and 3 are related.
 We call:
 - Rules 1 and 4 as feminine
 - Rules 2 and 3 as masculine
-

@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 1g"
+heading: "Section 8"
 title: "The 3 Operational Divisions of Reality"
 date: 2024-12-28
 # 2020-01-04
-weight: 17
+weight: 37
 image: /graphics/super/operative.svg
 description: "Reality has 3 Operational Divisions"
 writer:

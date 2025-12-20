@@ -12,6 +12,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Superphysics"
+aliases:
+  /superphysics/principles/chapter-02b
 ---
 
 
@@ -108,5 +110,3 @@ Spiritual Superphysics | Aethereal Stratum | As the dynamics of the Crown, 3rd E
 2. Bio Superphysics - this studies the nature of the Mind of a living being
 3. Social Superphysics - this studies the nature of the Mind of society
 4. Spiritual Superphysics - this studies the techniques to reach the Supreme or pure Positivity -->
-
-

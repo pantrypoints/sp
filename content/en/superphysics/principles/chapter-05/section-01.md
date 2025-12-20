@@ -1,17 +1,15 @@
 ---
-heading: "Chapter 3"
-title: "Pre-Existence and the Formless Absolute Entity"
-# Desire and the Two Force Propelled by Feelings
+heading: "Section 1"
+title: "The Nature of Idea"
 date: 2020-01-02
-weight: 100
-image: /photos/meta/occult.jpg
-description: "Everything in existence is created by the two forces"
-icon: "Superphysics"
+weight: 12
+image: /photos/idea.jpg
+description: ""
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
-
 
 
 ## Eternal Existence

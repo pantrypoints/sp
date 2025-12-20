@@ -91,6 +91,7 @@ We bring back the natural, holistic paradigm and discipline of natural philosoph
 - In this way, being called 'pseudoscience' doesn't mean anything just as calling Islam as pseduo-Christian (just because it also has Jesus) doesn't mean anything since Islam is totally different and was never a fork of Christianity (though Christanity is a fork of Judaism).
  <!-- belief system from  -->
 
+![Boxing match](/photos/physics/punch.jpg)
 
 Natural Philosophy 2.0 means:
 
@@ -139,6 +140,8 @@ Natural Philosophy 1.0 | Empedocles, Socrates, Aristotle, Democritus, etc.
 Natural Philosophy 1.5 | Erasistratus, Ptolemy, Descartes
 Natural Philosophy 2.0 | Superphysics 1.0
 Natural Philosophy 3.0 | Superphysics 2.0
+Natural Philosophy 4.0 | Humans become non physical and so knowledge wouldn't need to be assembled into science anymore
+
 
 In this way, other people can make their own version of Natural Philosophy 2.0 that might not agree with the core principles of Superphysics. 
 

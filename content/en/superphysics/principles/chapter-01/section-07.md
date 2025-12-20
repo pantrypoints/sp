@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 1f"
+heading: "Seciton 7"
 title: "Idea, Mind, and Life"
 date: 2024-12-28
 # 2020-01-04
-weight: 15
+weight: 35
 image: /photos/idea.jpg
 description: "In some areas, many waves intersect from various angles to create nodes. These acquire characteristics that are different from waves and become ideas."
 writer:
@@ -12,6 +12,7 @@ writer:
 icon: "Juan"
 aliases:
   /superphysics/principles/mind
+  /superphysics/principles/chapter-01g
 ---
 
 
