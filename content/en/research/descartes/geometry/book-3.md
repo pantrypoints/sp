@@ -52,17 +52,17 @@ It is often best to consider them in this way.
 
 ### How many roots there can be in each equation?
 
-In every equation, the number of different roots—that is, values of the unknown quantity—can be as many as the degree (or dimension) of that unknown quantity. 
+In every equation, the number of different roots is an unknown value. 
 
-For example, if we suppose:
+These roots can be as many as the degree (or dimension) of that unknown value. 
 
-x = 2, or x − 2 = 0;
+For example, we have:
 
-x = 3, or x − 3 = 0;
+x − 2 = 0, and x − 3 = 0
 
-If we multiply these 2 equations:
+We then multiply them to get 
 
-x − 2 = 0 and x − 3 = 0
+(x − 2 = 0) * (x − 3 = 0)
 
 we get:
 

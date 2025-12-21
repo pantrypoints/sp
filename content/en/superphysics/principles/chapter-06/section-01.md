@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 6"
+heading: "Section 1"
 title: "Gravitational Signatures"
 # The Equation for Everything: The Eagle
 date: 2020-12-26
-weight: 400
+weight: 10
 # date: 2021-06-23
 image: "/photos/psych/mirror.jpg"
 description: "The Gravitational Signature is svadharma"

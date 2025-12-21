@@ -4,6 +4,18 @@
 
 
 
+
+Einstein clearly wrote in the 1920 edition: "We have defined time essentially with a CLOCK at rest in a stationary system. On account of its adaptability to the stationary system, we call the time defined in this way as "time of the stationary system."
+
+The 1905 edition is the same: "It is essential to have time defined by means of stationary CLOCKS in the stationary system"
+
+If you complain about errors in translation then the German original 1905 is: Wesentlich ist, daß wir die Zeit mittels im ruhenden System ruhender UHREN definiert haben; wir nennen die eben definierte Zeit wegen dieser Zugehörigkeit zum ruhenden System die Zeit des ruhenden Systems".
+
+So he is referring to clocks (physical change), not time (mental conception of the sequence of those changes). 
+
+He is referring to clocks, not time. 
+
+
 logistics 
 disruption forecasting
 predictive maintenance

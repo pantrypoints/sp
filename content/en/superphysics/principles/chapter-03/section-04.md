@@ -1,14 +1,16 @@
 ---
-heading: "Chapter 3d"
+heading: "Sectopm 4"
 title: "The Great Loop from Desire to Experience"
 date: 2020-01-02
-weight: 130
+weight: 13
 image: /graphics/super/cycle.svg
 description: "The Supreme Entity begins the existence of something by having an idea of it"
 icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /superphysics/principles/chapter-03d
 ---
 
 

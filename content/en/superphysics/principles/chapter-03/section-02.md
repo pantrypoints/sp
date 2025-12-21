@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3b"
+heading: "Section 2"
 title: "Existence-Consciousness"
 date: 2020-01-02
 weight: 120
@@ -9,8 +9,9 @@ icon: "Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /superphysics/principles/chapter-03b  
 ---
-
 
 
 <!-- Consciousness is merely the perception of existence. To test it, you have to test existence. But existence is just an effect of the perception of the perceiver. So the only way to test consciousness is for the tester to test himself. The study is problematic because its postulates to test consciousness is based on consciousness itself. For example, the first postulate requires the system to have 'information'. But a thing will only be 'information' if consciousness decides it to be so. Its second postulate sets a phi as a measure of integrated information which, in essence, is a measure assigned arbitrarily by the researcher's consciousness. If the subjective consciousness of the researcher were removed, then a hard drive would technically be conscious, since it has information and can integrate and manipulate it. In reality, a hard drive or a robot is not 'conscious' because it does not match our own idea of consciousness or our way of self-perceiving. -->
@@ -150,3 +151,4 @@ Whenever we say “existence”, we automatically infer a consciousness behind t
 <!-- Similarly, space and time were seen as separate because our location is more obvious and common to us than time (i.e we usually wear watches to remind us of the time instead of carrying maps or GPS devices to remind us where we are). 
 
 This was until experiments showed that space and time were one entity. -->
+

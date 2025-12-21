@@ -17,7 +17,7 @@ icon: "Rene Descartes"
 
 The sum of an equation which contains several roots can always be divided by a binomial composed of the unknown quantity minus the value of one of the true roots—whichever it may be—or plus the value of one of the false roots; by this means, its degree is reduced accordingly.
 
-And conversely, if the sum of an equation cannot be divided by a binomial composed of the unknown quantity plus or minus some other quantity, this shows that the other quantity is not the value of any of its roots. 
+Conversely, if the sum of an equation cannot be divided by a binomial composed of the unknown quantity plus or minus some other quantity, this shows that the other quantity is not the value of any of its roots. 
 
 ...
 
@@ -29,8 +29,8 @@ As in the last case, because after +x4+x4 there is −4x3−4x3 (a change from +
 
 Moreover, it is easy to make all the roots that were false become true, and likewise make all the ones that were true become false, by changing all the + or − signs that are in the second, fourth, sixth, or other places indicated by even numbers, without changing those in the first, third, fifth, and similar positions indicated by odd numbers.
 
-
 Instead of
+
 +x4−4x3−19x2+106x−120=0,
 
 we write
@@ -71,7 +71,7 @@ If, on the other hand, it is desired to diminish by 3 the roots of the same equa
 So that instead of x⁴ + 4x³ − 19x² − 106x − 120 = 0, we have
 
 y⁴ + 12y³ + 54y² + 108y + 81
-+ 4y³ + 36y² + 108y + 108
++4y³ + 36y² + 108y + 108
 − 19y² − 114y − 171
 − 106y − 318
 − 120
@@ -79,23 +79,19 @@ y⁴ + 12y³ + 54y² + 108y + 81
 y⁴ + 16y³ + 71y² − 4y − 420 = 0.
 
 
-Increasing the true roots of an equation
-diminishes the false roots by the same amount; and on the contrary
-diminishing the true roots increases the false roots; while diminishing
-either a true or a false root by a quantity equal to it makes the root
-zero; and diminishing it by a quantity greater than the root renders
-a true root false or a false root true. Thus by increasing the true
-root 5 by 3, we diminish each of the false roots, so that the root pre-
-viously 4 is now only 1, the root previously 3 is zero, and the root
-previously 2 is now a true root, equal to 1, since −2+3 = +1. This
-explains why the equation y²−8y²−y+8 = 0 has only three roots,
+Increasing the true roots of an equation reduces the false roots by the same amount
+
+Reducing the true roots increases the false roots
+
+Reducing either a true or a false root by a quantity equal to it makes the root zero
+
+Reducing it by a quantity greater than the root renders a true root false or a false root true.
+
+Thus by increasing the true root 5 by 3, we diminish each of the false roots, so that the root previously 4 is now only 1, the root previously 3 is zero, and the root previously 2 is now a true root, equal to 1, since −2+3 = +1. 
+
+This explains why the equation y²−8y²−y+8 = 0 has only 3 roots,
 
 ...
-
-
-
-
-
 
 
 

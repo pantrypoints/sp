@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3c"
+heading: "Section 3"
 title: "The 2 Forces: Positive and Negative"
 date: 2020-01-02
 weight: 125
@@ -9,7 +9,10 @@ icon: "Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /superphysics/principles/chapter-03c
 ---
+
 
 
 ## Everything Starts from Desire

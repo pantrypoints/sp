@@ -27,10 +27,44 @@ And we can also, following from this, express the roots of all equations up to t
 
 ## Why solid problems cannot be constructed without conic sections, nor those which are more complex without some other more complex curves.
 
-It is true that I have not yet explained the reasons upon which I base myself in daring to assert whether a thing is possible or not. But if one considers how, by the method I use, everything that falls under the consideration of geometers is reduced to a single kind of problem—which is to find the value of the roots of some equation—one will understand that it is not difficult to make an enumeration of all the ways by which they can be found, sufficient to demonstrate that one has chosen the most general and the simplest.
+<!-- It is true that I have not yet explained the reasons upon which I base myself in daring to assert whether a thing is possible or not. But if one considers how, by the method I use, everything that falls under the consideration of -->
 
-And particularly regarding solid problems, which I have said cannot be constructed without using some curve more complex than the circle, this is something one can quite clearly see from the fact that they all reduce to two constructions: in one of them, it is necessary to have at the same time the two points which determine two mean proportionals between two given lines; and in the other, the two points which divide a given arc into three equal parts. For since the curvature of the circle depends only on a simple ratio of all its parts to the point that is its center, it can only be used to determine a single point between two extremes—as in finding a single mean proportional between two given straight lines, or dividing a given arc into two. 
+All of geometery can be reduced to a single kind of problem of finding the value of the roots of some equation.
 
-Whereas the curvature of conic sections, which always depends on two different factors, can be used to determine two distinct points.
+It is easy to enumerate all the ways by which they can be found.
 
-But for the same reason, it is impossible that any of the problems that are of a degree more complex than the solid ones—such as those that presuppose the invention of four mean proportionals, or the division of an angle into five equal parts—can be constructed by any of the conic sections. That is why I believe I will do the best possible in this regard if I provide a general rule for constructing them, using the curve traced by the intersection of a parabola and a straight line, in the manner explained above. For I dare to assert that there is no simpler one in nature that can serve the same purpose. And you have seen how it follows immediately after the conic sections in that much-sought question of the ancients, whose solution teaches in order all the curved lines that ought to be accepted in geometry.
+ <!-- sufficient to demonstrate that one has chosen the most general and the simplest. -->
+
+Solid problems can only be constructed by using some curve more complex than the circle.
+
+This is seen in 2 constructions:
+
+ <!-- something one can quite clearly see from the fact that they all reduce to two   -->
+
+1. This has 2 points which determine 2 mean proportionals between 2 given lines
+2. This has 2 points which divide a given arc into 3 equal parts
+
+A circle's curvature depends only on a simple ratio of all its parts to its center.
+
+This can only be used to determine a single point between 2 extremes, such as in:
+- finding a single mean proportional between 2 given straight lines, or
+- dividing a given arc into two. 
+
+Whereas the curvature of conic sections always depends on 2 different factors.
+- This can be used to determine 2 distinct points.
+
+These are a degree more complex than solid problems:
+- the invention of 4 mean proportionals
+- the division of an angle into 5 equal parts
+
+<!-- For the same reason, it is impossible that any of  -->
+
+These problems cannot be constructed [without?] by any of the conic sections. 
+
+<!-- That is why I believe I will do the best possible in this regard if  -->
+
+I shall provide a general rule for constructing them, using the curve traced by the intersection of a parabola and a straight line, in the manner explained above. 
+
+I assert that this is the simplest one in nature that can serve the same purpose.
+
+And you have seen how it follows immediately after the conic sections in that much-sought question of the ancients, whose solution teaches in order all the curved lines that should be accepted in geometry.
