@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2b"
+heading: "Section 2"
 title: "The Aether"
 # Element or Layer: Substance
 # date: 2015-09-09

@@ -45,7 +45,7 @@ Its base or core is Asian philosophy since the Hindus, Buddhists, Taoists alread
 
 Its external implementation is Western science since the West already knows how physical things work as the **effects**. This mastery of cause and effect, East and West, makes it a tool for solving anything.
 
-It is divided into five:
+It is divided into four:
 
 {{< dc t="Material Superphysics (click to expand)" >}}
 Material Superphysics implements the principles of Superphysics in order to overhaul Newtonian Physics and put it under the Physics or Descartes and Spinoza. This introduces the aethereal monad as the smallest particle in existence.  
@@ -66,24 +66,34 @@ Basic Goal | Put Alternative Medicine on a level with Western Medicine
 Target Output | Automated Natural Intelligence (ANI) for predicting health issues, Using sound for agriculture, Testing agriculture in seawater
 {{< /dc >}}
 
-{{< dc t="Supersociology (click to expand)" >}}
-Supersociology implements the principles of Superphysics to solve chronic problems in politics and society.
+{{< dc t="Social Superphysics (click to expand)" >}}
+Social Superphysics implements the principles of Superphysics to solve chronic problems society. It is divided into Supersociology, Supereconomics, Superhistory
+
+## Supersociology 
+
+This handles the abstract parts of society such as politics, crime, war, etc.
 
 What | Details
 --- | --- 
 Basic Goal | Replace current Sociology with Socrates and Ibn Khaldun
 Target Output | Confirmation Elections, Constitutional Virtues, World Constitution, National Constitution Template for a unified political system, Automated Natural Intelligence (ANI) for predicting social cycles 
-{{< /dc >}}
 
 
-{{< dc t="Supereconomics (click to expand)" >}}
-Supereconomics implements the principles of Superphysics to solve chronic problems in the economy, business, and labor.
+## Supereconomics
+
+This implements the principles of Superphysics to solve practical aspects such as chronic problems in the economy, business, and labor.
 
 What | Details
 --- | --- 
 Basic Goal | Replace Neoclassical Economics with Socrates-Smith Economics
 Target Output | Moneyless Economy, Pool Clearing (free trade system), Replace GDP with NDP, Automated Natural Intelligence (ANI) for coordinating an economy in real-time
+
+
+## Superhistory
+
+This plots the history of the human species, as split into societies. This serves as training data for social cycles predictions.
 {{< /dc >}}
+
 
 {{< dc t="Spiritual Superphysics (click to expand)" >}}
 Spiritual Superphysics implements the principles of Superphysics to systematize philosophy, religion, and spirituality

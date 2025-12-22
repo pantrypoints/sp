@@ -4,7 +4,7 @@ description: "Electromagnetism is caused by channels, not by length contraction"
 date: 2024-12-02
 # weight: 32
 image: "/graphics/physics/em.jpg"
-icon: "/icons/spmat.png"
+icon: "Juan"
 weight: 
 writer:
   name: Juan

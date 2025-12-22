@@ -9,11 +9,11 @@ image: /covers/solutions.png
 
 _ | _
 --- | ---
-![Juan](/photos/juan.jpg) | [Juan](https://www.linkedin.com/in/jundalisay/) is the founder of Superphysics and Pantrypoints. Started it in 2012 as an alternative economic science which ballooned into Superphysics. He has a "[Line of Intuition](/research/benham/palmistry/part-2/chapter-14b-intuition)" and "Solomon Ring" -- 2 components essential for this kind of work. He got samadhi in 2008. 
+![Juan](/photos/juan.jpg) | [Juan](https://www.linkedin.com/in/jundalisay/) is the founder of Superphysics and Pantrypoints. Started it in 2012 as an alternative economic science which ballooned into Superphysics. He has a "[Line of Intuition](/research/benham/palmistry/part-2/chapter-14d-intuition/)" and "Solomon Ring" -- 2 components essential for this kind of work. He got samadhi in 2008.
 ![Lam](/photos/lam.jpg) | [Lam](https://www.linkedin.com/in/baolamnguyen/) joined Juan in 2017 to build Pantrypoints. Like Juan, she has a "Line of Intuition" and "Solomon Ring". She is still trying to get samadhi.
 
 
- <!-- Pantrypoints then , likes to read and write about the works from the Enlightenment -->
+<!-- Pantrypoints then , likes to read and write about the works from the Enlightenment -->
 <!-- She writes about economics, business, and history -->
 
 

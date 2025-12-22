@@ -1,9 +1,9 @@
 ---
-heading: "Sectopm 4"
+heading: "Section 4"
 title: "The Great Loop from Desire to Experience"
 date: 2020-01-02
-weight: 13
-image: /graphics/super/cycle.svg
+weight: 17
+image: /photos/psych/eat.jpg
 description: "The Supreme Entity begins the existence of something by having an idea of it"
 icon: "Juan"
 writer:

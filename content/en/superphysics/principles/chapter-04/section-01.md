@@ -1,113 +1,147 @@
 ---
 heading: "Section 1"
-title: "Pre-Existence and the Formless Absolute Entity"
-# Desire and the Two Force Propelled by Feelings
-date: 2020-01-02
-weight: 10
-image: /photos/meta/occult.jpg
-description: "Everything in existence is created by the two forces"
-icon: "Superphysics"
+title: "Spacetime Slices and the 8 Dimensions"
+date: 2022-06-22
+image: "/graphics/physics/aetherspaceall.jpg"
+description: "The separation of nodes leads to Spacetime Slices and the 8 Dimensions"
+weight: 200
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+icon: "Superphysics"
 ---
 
 
 
-## Eternal Existence
+## Planck Length as the Gap Between Perceptions
 
-The 5 Elements model showed that space and time, as the Air Element, are beneath the Aether Element which we defined as the substance of ideas, feelings, and the abstract mind that has those ideas and feelings. 
+Chapter 1 explained that identities, ideas, and minds are nodes formed from concentrations of both subtle and crude waves which come from the Aether Element.
 
-This is why:
-- space and time are relative
-- the metaphysical components that make up physical things are eternal in nature
+These are created by the Negative Force as it cuts up the Supreme Entity into parts. 
 
-This means that the universe is eternal and had no beginning.
+But at the same time, the Positive stitches those parts together. 
 
-The idea of the universe having a beginning only arises when people neglect the existence of the aether or the substance of their own ideas i.e. they don't know how they get their ideas or feelings. 
+These makes the nodes separated by perception gaps which we call timespan.
+- This is from the Negative Force which is imparted by the Air Element or Spatial Layer which facilitates space and time.
+- The Positive Force glues these nodes together to create a single consistent experience.
 
+This operation is similar to your screen being made up of pixels that are separated by a distance called a *pixel pitch*.
+- The smallness of the gaps makes them imperceptible
 
-Yet still, we need to explain what is the origin of the aether that makes up the core of Existence.
-
-<!-- The Sequence of Creation in Chapter 2 explained that our universe is a result of the Creator having an aethereal idea of a universe that eventually materialized by going down the 5 Layers. 
-
-But how does the Creator create ideas from nothing?
-
-And how did It push those ideas down to turn them into physical reality? -->
+{{< i s="/graphics/tech/pitch.jpg" a="Pixel Pitch" c="The gap between metaphysical objects is like the gap between pixels" >}}
 
 
-## Pre-Existence and the Absolute Entity
-
-The only way to think what came before actual Existence is to create the idea of potential Existence, which we call Pre-Existence. 
-
-
-{{< q a="Aristotle" c="The Heavens, Book 3" >}}
-It is possible for one body to be generated out of another. Air for instance is generated out of fire. But in the absence of any pre-existing mass, generation is impossible. That which is potentially a body may become such in actuality. But if the potential body was not already in actuality then some other kind of body, as a void, must exist.
+{{< q a="Timaeus" c="Timaeus by Plato Simplified, Chapter 4" >}}
+The Creator rejoiced when He saw his creation moving and living..The nature of the creation's Idea-being was everlasting. But it is impossible to make creation everlasting. So He resolved to have a moving image of eternity. When He set the order of the heaven, He made this image eternal but moving according to number, while eternity itself rests in unity. This image is what we call time.
 {{< /q >}}
 
 
-Before Existence began, the Supreme Entity had nothing, not even the medium of the aether, to create ideas with. 
+In Modern Physics, this gap is called the Planck length which is a very small distance: 1.616255 × 10−35 meters 
 
-We call this state Pre-Existence and refer to the Supreme Entity in this state as the Absolute Entity to imply Its Nothingness.
 
-Since it is beyond Existence then both **Pre-Existence and the Absolute Entity do not exist and are merely theoretical**. 
+## Spacetime Slices
 
-Since these do not exist we can say that Existence is in a potential state.
+We plug these gaps into our wave model of nodes, vortices, and ideas to create the concept of spacetime slices. 
 
-- In Hinduism, this is called Nirguna Brahma
-- In Buddhism, this is called Sunyata or Emptiness
-- In Greek philosophy, this is called the One by Parmenides
+<!-- Chapter 2 explained that the role of the Air Element is to separate objects. This is why all physical and biological forces are sourced from it.  -->
 
-{{< q a="Buddha" c="Heart Sutra" >}}
-Form is emptiness, emptiness is surely form. Emptiness is not different from form, form is not different from emptiness. Whatever form there is, that is emptiness; whatever emptiness there is, that is form. The same for feelings, perceptions, volitional processes and consciousness.
+Each spacetime slice is a collection or group of waves that have a common quality either in frequency, strength, speed,  or thickness (subtle versus crude). 
+
+Their affinity with the observing mind, which is also a node but more subtle, makes them perceivable. 
+
+These are then stitched together by the Positive Force that influences that mind to create the structure of reality for that mind.
+
+{{< i s="/graphics/super/nodes.svg" a="Slices" >}}
+
+
+In other words, each of our perceptions is in am aethereal cognition-slice called spacetime. These slices are glued together by the flow of our aethereal minds, creating our fluid reality. 
+
+**This means that only the present perception is the basis or anchor for all our other perceptions.** 
+
+{{< i s="/graphics/flipbook.gif" a="Flipbook about a cat" c="Reality is made of independent slices like an animation" >}}
+
+
+
+This was best explained by Rene Descartes:
+
+
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 1, Article 21" >}}
+The parts of timespan are not mutually dependent and are never co-existent. We exist now. But it does not follow that we will exist in the next moment unless the cause of our existence keeps on sustaining us. We know that:
+- we have no inherent power to keep our existence persisting in every moment
+- another being has so much power to keep our existence out of himself
+
+This means that that being, as God, preserves himself.
 {{< /q >}}
 
 
-{{< q a="Parmenides" >}}
-If there is one thing, then it cannot be many and cannot have parts. If it cannot have parts, then it cannot be a whole.. and will have neither beginning, middle, nor end, for these would be parts of it. Thus, the One has no beginning nor end. It is unlimited and therefore formless.
+And by David Hume:
+
+{{< q a="David Hume" c="Treatise of Human Nature, Book 1, Part 1, Section 3" >}}
+If you wheel around a burning coal rapidly, it will appear as an image of a circle of fire. There will seem no gap of time between its revolutions because our perceptions cannot succeed each other as fast as its rotation. Wherever we have no successive perceptions, we have no notion of time, even though there is a real succession in the objects.
 {{< /q >}}
 
 
-We create such a theoretical state in order to prevent minds from thinking of what came before the universe was created. Doing so will open up paradoxes and infinities that will waste mental energy.
+The common fallacy is to believe that our perceptions happen within space and time. In reality, it is the other way around.
 
-Therefore, our concept of Pre-Existence serves as an instant “sink” that will positively absorb and nullify that thinking effort (as opposed to a wall which blocks the thinking tendency and is therefore negative).
-
-{{< i s="/graphics/super/exist.jpg" a="Existence" c="The Absolute can be viewed as the holder for Existence, or the central point of Existence, with Existence being the Supreme Entity" >}}
+Space and time are merely effects of our successive perceptions which in turn caused by the fact that waves are continuous and recurring. 
 
 
-{{< q a="Rene Descartes" c="Principia Philosophia Part 1, Article 26" >}}
-We will thus never enter disputes about the infinite. This is because we are finite. It would be absurd for us to try to determine the infinite.
+{{< i s="/graphics/super/time.jpg" a="Spacetime slices" c="In Superphysics, time and space are effects of perception. This allows objects and minds to go back in time" >}}
+
+
+
+### The Slices are the Basis for Dimensions
+
+Past, present, and future are therefore the arrangement of the spacetime slices according to the aethereal flow of cognition. 
+
+- Space is regarded as the 3rd dimension, which is really 2 dimensions stitched together by the same flow of cognition. 
+- Time is regarded as the 4th dimension when the 3rd dimension is stitched together according to the changes in itself. 
+
+{{< i s="/graphics/physics/aetherspaceall.jpg" a="Dimensions" c="The 6th dimension is a universe as the collective of the 5th dimension as alternate realities" >}}
+
+
+From this we can say that:
+
+- The 5th dimension is the 4th dimension stitched with probabilities, as alternate realities
+- The 6th dimension is the 5th dimension stitched with different laws, as different universes
+- The 7th dimension is the 6th dimension stitched with a total perspective, as the total reality
+- The 8th dimension is the 7th dimension as one object, as perfection or void
+
+{{< youtube ANmq24cJFc0 >}}
+
+{{< q a="Kepler" c="The Harmony of the World, Introduction" >}}
+By doubling the sides of the first Tetractys, another Pythagorean Tetractys is constructed, of the number 36, the most famous and in all respects the most useful which they possessed, that is the triangle of numbers of which the
+base is the Eightfold.
 {{< /q >}}
 
 
+## The Upgrade of the Dimensions from the Upgrade of the Human Mind
+
+The universe that we see is just a limited 4th dimension version of our 6th dimension universe.
+
+{{< i s="/graphics/super/density.jpg" a="Density" c="The expansion of the universe mirrors the expansion of human cognition" >}}
+
+When human cognition was at a caveman level, the universe was static, with the Earth at the center of a 3-dimensional universe. 
+
+This was revised into a heliocentric universe when cognition expanded beyond the Earth. 
+
+This was further expanded when humans decided to build large telescopes leading to the cognition of the 4th dimension as time.
+- This led to galaxy clusters, as a cosmic web.  
+
+This was expanded further with quantum mechanics with light showing wave-particle duality which proved a 5th dimension as alternate realities superimposed on each other.
+
+The 6th dimension is a combination of the 5th dimension being compared to each other. This can be achieved when humans reach other star systems through teleportation. 
 
 
-## What Came Before Pre-Existence?
+We summarize the 8 dimensions below:
 
-The concept of pre-existence absorbs all ideas. 
-
-So if a person asks 'what came before pre-existence?', then there is no need to create another concept called 'Pre-pre-Existence' just to stabilize that curiosity. 
-
-This is because it is really the **desire** to know that is causing such a curiosity. 
-
-So it would be better to deal with the asker's desire -- why does he want to know what existed before Existence? 
-
-It could be a sign that:
-- he has too much time on his hands
-- he has no control of his thoughts or desires, or 
-- his Luna mount on his palm is too strong, etc. 
-
-The usefulness of the idea of Pre-Existence is therefore to **prevent the waste of real time and mental effort** in thinking about what goes on beyond or before Existence.
-- This waste afflicts Theoretical Physics the most.
-
-
-
-## Concepts Emerging from Existence and Pre-Existence
-
-The concept of Existence and Pre-Existence leads to the following concepts:
-
-1. Existence-Consciousness
-2. 2 Forces
-3. Cycle of Creation
-4. Operational Divisions of Reality
-5. The 5 Elements of Reality
+Dimension | Name | Manifestation
+--- | --- | ---
+1 | Existential | Identity
+2 | Planar | 2-dimensional space
+3 | Spatial | 3-dimensional space
+4 | Temporal | Time
+5 | Lateral | Alternate Realities
+6 | Multiversal | Universes in the Multiverse
+7 | Causal | Ultimate Cause
+8 | Void | Void

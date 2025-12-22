@@ -4,6 +4,7 @@ heading: Capra
 author: "Capra"
 weight: 20
 description: "Physicist talking about Taoism."
+draft: true
 c: "firebrick"
 ---
 

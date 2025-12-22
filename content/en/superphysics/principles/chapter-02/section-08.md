@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2h"
+heading: "Section 8"
 title: "The 5 Elements for Goal-Setting"
 # date: 2015-09-09
 date: 2023-03-19

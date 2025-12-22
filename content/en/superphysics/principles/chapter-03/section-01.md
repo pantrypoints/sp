@@ -3,7 +3,7 @@ heading: "Section 1"
 title: "Pre-Existence and the Formless Absolute Entity"
 # Desire and the Two Force Propelled by Feelings
 date: 2020-01-02
-weight: 100
+weight: 10
 image: /photos/meta/occult.jpg
 description: "Everything in existence is created by the two forces"
 icon: "Superphysics"

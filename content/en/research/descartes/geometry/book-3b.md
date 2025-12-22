@@ -93,10 +93,3 @@ This explains why the equation y²−8y²−y+8 = 0 has only 3 roots,
 
 ...
 
-
-
-
-
-
-
-

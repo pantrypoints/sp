@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2g"
+heading: "Section 7"
 title: "The 3 Influences or Gunas"
 date: 2023-12-27
 weight: 70

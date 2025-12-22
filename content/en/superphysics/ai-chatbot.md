@@ -1,9 +1,9 @@
 ---
 title: "AI Chatbot Rundown"
 date: 2025-12-13
-image: /covers/kant.jpg
+image: /photos/objects/mobile.jpg
 c: firebrick
-# description: "David Hume's philosophy is the opposite of that of Kant. Hume already said that there was no such thing as a priori knowledge, but Kant refuted this"
+description: "We rank the different AI in terms of image generation, coding, and translation. "
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

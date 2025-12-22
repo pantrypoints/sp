@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2c"
+heading: "Section 3"
 title: "The Air Element or Layer: Space and Time"
 # date: 2015-09-09
 date: 2020-12-03

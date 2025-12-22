@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2d"
+heading: "Section 4"
 title: "Fire: Light and Heat"
 # date: 2015-09-09
 date: 2020-12-03

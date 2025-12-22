@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2f"
+heading: "Section 6"
 title: "The Earth Element"
 date: 2024-06-22
 image: "/photos/physics/earth.jpg"

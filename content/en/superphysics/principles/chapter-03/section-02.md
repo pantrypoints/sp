@@ -2,7 +2,7 @@
 heading: "Section 2"
 title: "Existence-Consciousness"
 date: 2020-01-02
-weight: 120
+weight: 12
 image: /graphics/physics/exist.jpg
 description: "Everything in existence is created by the two forces"
 icon: "Superphysics"
@@ -10,7 +10,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 aliases:
-  /superphysics/principles/chapter-03b  
+  /superphysics/principles/chapter-03b
 ---
 
 

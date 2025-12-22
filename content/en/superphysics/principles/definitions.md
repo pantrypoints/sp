@@ -1,12 +1,14 @@
 ---
 title: "Superphysics Definitions"
 date: 2021-12-13
-c: "steelblue"
+image: /photos/econ/writer.jpg
+# c: "steelblue"
 description : "Superphysics relies on precise defintions which can be eventually followed by future artificially-intelligent systems"
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
 weight: 900
+icon: Lam
 aliases:
   /definitions
 ---
