@@ -1,5 +1,5 @@
 ---
-heading: Chapter 6f
+heading: Section 6
 title: "Constants"
 date: 2025-10-05
 weight: 430

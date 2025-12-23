@@ -2,7 +2,7 @@
 title: "The Connection of Ideas"
 heading: "Chapter 5c"
 date: 2024-02-24
-weight: 310
+weight: 10
 image: /graphics/meta/ideas.jpg
 description: "We explain the rules of Bullet-Style Writing"
 toc: false

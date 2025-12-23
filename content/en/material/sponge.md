@@ -49,3 +49,26 @@ Moerver, this means that the expansion of the mind leads to the expansion of the
 - When humans invented space telescopes, the universe started to variably expand 
 
 Hopefully, the mountain of evidence for Cartesian Physics will expose the utter stupidity of Einstein's scam Relativity that is keeping humans stuck on a burning Earth.
+
+
+<!-- In 1644, Descartes published his Principia which explained how the universe works. Its completeness held back Newton's Principia (published in 1687) for many years. 
+
+This was until Halley's comet in 1758 validated Newton over Descartes, since Descartes comet predictions were for linear interstellar comets and not orbital intrastellar ones.
+(Comet 3I/ATLAS counter-validates Descartes over Newton since Newtonian Physics cannot explain its anomalies which makes Avi Loeb resort to aliens for explanation). 
+
+To put Descartes' system beyond all doubt we bring back his Sponge Model of the universe, in Part 2 Article 4, which matches NASA's cosmic web which is based on real data. 
+
+Descartes compares the universe to a sponge that expands as it is filled with water, with the water representing the 2nd Element which we now call dark matter and dark energy. 
+
+The expansion does not affect the volume of the sponge-material which is represented by matter which he called the 3rd Element. 
+
+Unlike Newton's system which makes matter superior, Descartes' system makes space superior as the aether which limits light to c, and controls the expansion or contraction of the universe. 
+
+This means that the matter-based Big Bang is FALSE. 
+
+This is why James Webb keeps on finding "impossible galaxies" which are very distant yet already well-formed. In reality, they are merely of the same age as ours and not from the beginning of time. 
+
+Yet physicists have indoctrinated themselves in the wrong Physics and so are puzzled by the evidence they get. 
+
+Instead of throwing away the Big Bang, they merely request for more funding to send more expensive satellites that merely come up with the same findings as seen Planck and WMAP duplicating the findings of COBE (i.e. COBE was already sufficient no need to waste money on the same thing)
+ -->

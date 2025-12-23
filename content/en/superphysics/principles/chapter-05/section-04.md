@@ -2,7 +2,7 @@
 heading: "Section 4"
 title: "The Geometry of Ideas"
 date: 2020-01-02
-weight: 350
+weight: 13
 image: "/graphics/super/hex.jpg"
 description: "Ideas have a geometry"
 icon: "Superphysics"

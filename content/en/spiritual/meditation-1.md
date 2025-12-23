@@ -82,7 +82,7 @@ The mentality of: "If I can't win, then we all lose" or "If I can't have it, no 
 India and China are the birthplaces of advanced spiritual philosophies such as Hinduism, Buddhism, and Taoism which suppress the ego and train it to be one with Nature. 
 
 
-{{< img src="/photos/meta/kindness.jpg" alt="Kindness" >}}
+{{< img src="/photos/social/pantry.jpg" alt="Kindness" >}}
 
 
 Their solution to the limitations of the 5 senses is to cultivate the 6th sense which Patanjali calls the state of "True Wisdom" (rtambhara tatra prajna).

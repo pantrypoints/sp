@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 6b"
+heading: "Section 2"
 title: "Action"
 date: 2025-10-05
 weight: 405
-image: "/photos/meta/kindness.jpg"
+image: "/photos/social/pantry.jpg"
 description: "Action is the effect of Relational Spin"
 icon: "Juan"
 writer:

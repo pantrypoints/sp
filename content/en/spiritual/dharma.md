@@ -2,7 +2,7 @@
 title: "Dharma as Order"
 # heading: "My Meditation Journey Part 1"
 date: 2024-09-08
-image: "/photos/meta/kindness.jpg"
+image: "/photos/social/pantry.jpg"
 description: "The universe is very fast, and is just one in the multiverse of infinite, arbitrary universes."
 writer:
   name: Lam

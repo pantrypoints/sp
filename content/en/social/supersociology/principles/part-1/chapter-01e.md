@@ -2,7 +2,7 @@
 title: "The Essentials of a Civilization"
 heading: "Chapter 1e"
 # image: "/photos/social/protests.jpg"
-image: "/photos/meta/kindness.jpg"
+image: "/photos/social/pantry.jpg"
 date: 2021-07-01
 weight: 8
 description: "A society is three or more entities working towards a common interest or goal"

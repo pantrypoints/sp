@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 6d"
+heading: "Section 4"
 title: "Spin as Effort"
 date: 2025-10-05
 weight: 410

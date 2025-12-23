@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 6e"
+heading: "Section 5"
 title: "Relationality"
 date: 2020-12-26
 weight: 415

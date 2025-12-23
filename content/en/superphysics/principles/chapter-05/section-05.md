@@ -2,7 +2,7 @@
 heading: "Section 5"
 title: "The Law of Conservation of Idea"
 date: 2020-12-29
-weight: 360
+weight: 16
 image: "/photos/objects/apples2.jpg"
 description: "Why you only have 1 idea at a time"
 icon: "Superphysics"

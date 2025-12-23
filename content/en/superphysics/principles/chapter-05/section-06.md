@@ -2,7 +2,7 @@
 heading: "Section 6"
 title: "The Conservation Laws"
 date: 2025-10-05
-weight: 365
+weight: 18
 image: "/photos/objects/balls.jpg"
 description: ""
 icon: "Juan"

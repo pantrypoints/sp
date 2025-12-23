@@ -2,7 +2,7 @@
 heading: "Chapter 4b"
 title: "The Sponge Universe"
 date: 2025-11-22
-image: "/graphics/physics/balloon.jpg"
+image: "/graphics/physics/sponge2.jpg"
 description: "we replace the Big Bang with the Sponge Universe of Descartes"
 writer:
   name: Juan
