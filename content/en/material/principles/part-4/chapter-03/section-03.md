@@ -11,7 +11,10 @@ writer:
 weight: 20
 icon: "Juan"
 toc: false
+aliases:
+  /material/principles/part-4/chapter-04c
 ---
+
 
 
 {{< n n="This uses our Modified Periodic Table of Elements, explained in Part 5">}}

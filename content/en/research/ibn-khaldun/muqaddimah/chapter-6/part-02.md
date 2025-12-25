@@ -1,14 +1,15 @@
 ---
-title: "Human Intellect"
+title: "The World that Exists Through Action Materializes through Thinking."
 description: "God distinguished man from all the other animals by an ability to think"
 c: "seagreen"
 icon: "Ibn Khaldun"
-heading: "Parts 1-3"
-weight: 12
+heading: "Part 2"
+weight: 8
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
+
 
 
 ## 2. The world of the things that come into being as the result of action, materializes through thinking.
@@ -102,4 +103,3 @@ Others are unable to do that because their mind is not good enough for it.
 This example is not quite to the point, because (the knowledge of) chess is a habit, whereas the knowledge of causal chains is something natural. 
 
 However, it is an example the student may use to gain an intellectual understanding of the basic facts mentioned here.
-

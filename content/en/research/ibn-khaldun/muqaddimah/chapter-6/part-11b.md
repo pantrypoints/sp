@@ -4,7 +4,7 @@ description: "People have considered it difficult to comment on the Sahih and ha
 c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 11b"
-weight: 24
+weight: 23
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun

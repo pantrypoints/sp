@@ -3,8 +3,8 @@ title: "Human Intellect"
 description: "God distinguished man from all the other animals by an ability to think"
 c: "seagreen"
 icon: "Ibn Khaldun"
-heading: "Parts 1-3"
-weight: 12
+heading: "Part 1"
+weight: 6
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun

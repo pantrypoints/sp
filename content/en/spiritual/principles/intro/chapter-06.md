@@ -2,7 +2,7 @@
 heading: "Chapter 5"
 title: "Organization of Chapters"
 date: 2024-07-11
-image: "/photos/meta/kindness.jpg"
+image: "/photos/social/pantry.jpg"
 description: "The 10 virtues are based on Yama and Niyama"
 writer:
   name: Lam

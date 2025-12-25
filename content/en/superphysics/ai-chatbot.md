@@ -27,6 +27,19 @@ Gemini Nano Banana | Sora
 ![Woman](/photos/objects/mobile.jpg) | ![Woman](/photos/objects/mobilesora.jpg)
 
 
+## Image to Video
+
+Meta AI and Grok Imagine lets you generate video for free
+
+AI | Video
+--- | ---
+Gemini Veo3 | 
+Sora |
+Grok Imagine |
+Meta AI | 
+
+
+
 ## Translations
 
 We use AI to translate a key chapter in Categories to see which one closely aligns with our interpretation. We find that Grok and Claude are more correct than the rest as they do not shallowly translate *differentiae* into *differences*. 

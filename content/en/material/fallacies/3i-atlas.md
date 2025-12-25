@@ -20,7 +20,10 @@ This ignorance is shown in the lack of anti gravity technology and in the myster
 More recently, the ignorance is seen in Physics being unable to explain the dynamics of the Comet 3I Atlas. 
 
 
-Avi Loeb gave 15 anomalies of 3I Atlas:
+Avi Loeb gave 15 anomalies of 3I Atlas which we classify under their causal mechanisms:
+
+
+### External Vortex Mechanics
 
 1. Retrograde Trajectory: Moves opposite to planet orbits.
 2. Fine-Tuned Arrival: Arrived perfectly to pass near Jupiter, Mars, & Venus.
@@ -29,6 +32,9 @@ Avi Loeb gave 15 anomalies of 3I Atlas:
 2. Ecliptic Alignment: Its orbit is nearly parallel to the ecliptic plane (0.2% chance).
 10. Arrival direction aligns with the mysterious "Wow!" signal source.
 
+
+### Internal Vortex Mechanics
+
 4. Tightly Collimated Jet: The gas jet is focused like a narrow beam.
 6. Stable Jet Direction: Maintains a consistent direction despite rotation.
 11. No Dust Coma: Lacks the usual dusty haze of a typical comet.
@@ -36,9 +42,11 @@ Avi Loeb gave 15 anomalies of 3I Atlas:
 15. Unusual Brightness: Fluctuations don't fit standard models; it brightened rapidly.
 4. Long Sunward Jet: Ejects material towards the Sun, not away.
 
+
+### Matter
+
 11. Gas Composition (Nickel/Cyanide): High nickel/cyanide ratio, unlike other comets.
 12. Rocky Massive Low Water Content: Only 4% water by mass (comets usually have dominant water).
-
 13. Color Change: Plume changed from red to green after perihelion (C2 molecule presence).
 
 

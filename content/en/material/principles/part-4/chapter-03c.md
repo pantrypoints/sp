@@ -29,6 +29,7 @@ Atomic gravity is from the virtual space particles that pushes lesser atomic mas
 
 
 
+
 ## Ionic
 
 This is when an electron (qor1) is *transferred* from one atom to another, creating oppositely charged ions that stick together by electrostatic attraction.

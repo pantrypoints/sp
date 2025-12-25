@@ -1,6 +1,6 @@
 ---
 title: "?"
-image: "/photos/meta/kindness.jpg"
+image: "/photos/social/pantry.jpg"
 description: "The universe is very fast, and is just one in the multiverse of infinite, arbitrary universes."
 writer:
   name: Lam

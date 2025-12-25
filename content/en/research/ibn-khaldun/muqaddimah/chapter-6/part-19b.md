@@ -3,12 +3,13 @@ title: "Algebra of al-Khuwarizmi"
 description: "Another subdivision of arithmetic is algebra. This discovers the unknown from the known data, if there exists a relationship between them requiring it"
 c: "seagreen"
 icon: "Ibn Khaldun"
-heading: "Part 19"
-weight: 60
+heading: "Part 19b"
+weight: 61
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun
 ---
+
 
 
 {{< img src="/covers/algebra.jpg" alt="Algebra" >}}
@@ -127,3 +128,5 @@ The Imam alHaramayn wrote works on the subject according to the school of ash-Sh
 They attest to his great scholarly capability and his firm grounding in scholarship. 
 
 The Hanafites and the Hanbalites also (wrote works on the subject). The positions of scholars in scholarship vary. 651
+
+

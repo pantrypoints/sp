@@ -155,10 +155,9 @@ So when it became clear to him, he said:
 {{< r a="Abraham" >}}
 I know that Enki has power over all things.
 {{< /r >}}
-{{< s v="260">}} 
 
 {{< r a="Abraham" >}}
-My Lord, show me how You give life to the dead.
+<sup>260</sup> My Lord, show me how You give life to the dead.
 {{< /r >}}
 
 <!-- He said, “Have you not believed?” 

@@ -54,7 +54,8 @@ gods | entities that represent beings more advanced than humans with correspondi
 Gravitational Signature | the unique code or idea that is the basis for the discrete entity. In a living body, this manifests as its DNA
 Humor | Ability to make connections from seemingly unconnected things (Bashar)
 Idea | a node created by metaphysical waves that bunch up and persist together (from the netaphysical point of view)
-Ideology | a system of beliefs built around a centeral idea
+Ideation | a reflection on the structure of the compound emotion into its components in order to get the whole picture or understanding of being
+Ideology | a system of beliefs built around a central idea
 Identity | A discrete resultant perception separate from other perceptions or a mass of perceptions
 Immoral | the qualities of actions that will lead to negative feelings in the largest spacetime conceivable. Also generally adharmic since Existence is Positive.
 Instant | The minimum moment of time (Descartes, Principles of Philosophy)
@@ -109,6 +110,7 @@ Virtue | A specific feeling that is dharmic
 Yoga | Union created by the Positive Force
 <!-- natural flow of the evolution or mechanics of a discrete identity -->
 <!-- a ideology that is centered around God (as Enki or Enlil for Judeo-Christian Religions) or gods (as more advanced beings) -->
+
 
  <!-- An original metaphysical object created by the Supreme that is accessed by abstract minds; a product of Ideation (accessing pre-existing ideas) -->
 

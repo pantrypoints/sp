@@ -4,7 +4,6 @@ title: "The Experimental Intellect"
 description: "The experimental intellect comes into One who knows why man is political by nature"
 c: "seagreen"
 icon: "Ibn Khaldun"
-heading: "Parts 1-3"
 weight: 12
 writer:
   name: Ibn Khaldun
