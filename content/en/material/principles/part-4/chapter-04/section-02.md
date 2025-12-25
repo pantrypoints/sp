@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 4b"
+heading: "Section 2"
 title: "Substance of Conversion 2: Neutrons"
 # linkTitle: "Acids and Bases"
 # # date: 2024-03-17

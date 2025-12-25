@@ -1,9 +1,8 @@
 ---
 title: "Assembly Unifies Natural selection with Physics"
-# heading: Unenlightened like Aristotle
 weight: 8
 description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-image: "/covers/assembly.png"
+c: firebrick
 ---
 
 

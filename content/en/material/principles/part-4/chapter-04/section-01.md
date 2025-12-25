@@ -1,5 +1,5 @@
 ---
-heading: Chapter 4
+heading: Section 1
 title: "The Substance of Conversion 1: High Energy Neutrinos"
 # date: 2024-07-14
 image: /photos/physics/quasar.jpg

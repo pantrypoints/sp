@@ -1,9 +1,9 @@
 ---
 title: "Assembly Theory in Chemistry"
-layout: '/src/layouts/article.astro'
+# layout: '/src/layouts/article.astro'
 weight: 4
 description: "In chemistry, molecular ~~AT~~ Historical Evolution (HE) treats bonds as the elementary operations that creates molecules"
-image: "/covers/assembly.png"
+c: firebrick
 ---
 
 

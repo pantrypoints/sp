@@ -1,30 +1,61 @@
 ---
-heading: Chapter 4
-title: "The Substance of Conversion 1: High Energy Neutrinos"
-# date: 2024-07-14
-image: /photos/physics/quasar.jpg
-description: "Neutrons are the Substance of Convertibility"
-weight: 16
+heading: Chapter 3
+linkTitle: Media
+title: "The Medium of Convertibility: Decay and Chemical Forces"
+date: 2025-09-10
+image: /photos/physics/sparks.jpg 
+description: "W and Z Bosons and intramolecular and intramolecular forces are the media for the convertible layer"
+icon: "Juan"
+weight: 6
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Juan"
-toc: false
 ---
 
 
-High energy neutrinos are the substance of conversion. These are emitted from quasars. 
 
-- Neutrinos change the structure of the universe by transferring energy to matter
-
-<!-- responsible for the conversion of elements from one to another. 
-- made up of 3 quarks (qom) -->
+The Media of Convertibility facilitates the changes in the material layer most commonly as chemical changes through intermolecular and intramolecular forces:
 
 
-<!-- Coulomb collisions. 
+Sublayer | Example
+--- | ---
+Upper | W Z Bosons
+Mid | Intramolecular 
+Lower | Intermolecular
 
-Beta decay.  -->
 
-## High Energy Neutrinos 
+Convertible Relationality explains how the Convertible Layer changes particles. In Physics, this is done by the Feynman diagrams. 
 
+
+## Weak Bosons
+
+Weak bosons facilitate the decay of particles. 
+
+Sublayer | Name | Used in 
+--- | --- | ---
+Upper | Gamma | sterilization  
+Mid | Beta | medical imaging
+Lower | Alpha | smoke detectors
+
+
+## Intramolecular Forces
+
+These manifest as strong chemical bonds leading to specific chemical behavior such as acid-base reactions.
+
+Sublayer | Name | Description
+--- | --- | --- 
+Upper | Ionic | between metal and nonmetal
+Mid | Covalent | Polar and nonpolar
+Lower | Metallic | Gives Metals their characteristics
+
+
+## Intermolecular Forces
+
+These are weak attractions such as hydrogen bonds that keep molecultes together.
+
+Sublayer | Name | Examples
+--- | --- | ---
+Upper | London Dispersion Forces | Protein folding
+Mid | Dipole–Dipole Forces | Hydrogen Bonding 
+Lower | Ion–Dipole Forces | boiling poin
 

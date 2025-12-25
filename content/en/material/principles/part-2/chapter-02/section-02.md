@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2c"
+heading: "Chapter 2"
 title: "The Properties of Time"
 # date: 2023-03-10
 weight: 6

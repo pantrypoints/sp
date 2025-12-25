@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3"
+heading: "Section 1"
 title: "The Media of the Spatial Layer"
 # date: 2023-11-27
 weight: 10

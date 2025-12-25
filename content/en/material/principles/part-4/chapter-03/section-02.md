@@ -1,50 +1,118 @@
 ---
-heading: "Chapter 4b"
-title: "Substance of Conversion 2: Neutrons"
-# linkTitle: "Acids and Bases"
-# # date: 2024-03-17
-image: /photos/physics/elec.jpg
-description: "Neutrons facilitate Decay and atomic change"
+heading: "Section 2"
+title: "The Forces for Particle Decay"
+date: 2025-09-10
+image: /photos/physics/nuke.jpg
+description: "The Weak Force is most known by Modern Physics for particle decay."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 18
+weight: 7
 icon: "Juan"
 toc: false
+aliases:
+  /material/principles/part-4/chapter-03b
 ---
 
 
 
-Neutrons are the main substance of conversion (SOC2) mirroring the Proton which is the main substance of matter (SOM2). 
-
-They change matter via decay just as protons make atoms and elements persist.
-
-These are made up of 3 quarks.
+The Weak Force is most known by Modern Physics for particle decay. 
 
 
-{{< youtube i1c07TuLqeg >}}
+Sublayer | Name | Used in 
+--- | --- | ---
+Upper | Gamma | sterilization  
+Mid | Beta | medical imaging
+Lower | Alpha | smoke detectors
 
 
-### Neutron Stars
+These are present in nuclear fission and fusion primarily through Beta decay. 
 
-A neutron star is created when the internal fusion of a normal star stops, causing its gravity to collapse. 
 
-This is because the spatial layer is superior to the radiant. This then makes the star's particles merge. 
+## Radioactive Beta Decay
 
-- Electrons merge with the protons in the atomic nuclei, creating neutrons 
-- In the process of merging, the star produces a lot of neutrinos
-- After extreme collapse, the star explodes as a supernova in a stream of neutrinos
-- This leaves behind a neutron star where the star was
+A nucleon decays in 3 ways:
 
-Physics believes that a collapsing star will:
-- turn into a neutron star or
-- turn into a black hole  
+1. Alpha
 
-As a neutron star, it can turn into a pulsar if the vortex energy is still strong. 
+This happens when a particle emits alpha particles, as 2 soms (protons) and 2 socs (neutrons). These have low penetration power and so they are easily stopped. 
 
-Young, energetic neutron stars are not so much affected by neighboring stars. These emit xrays and radiowaves. 
+It damages the DNA such as the reduction of white blood cells which weakens the body's immunity. 
 
-Magnetars are pulsars that are very energyetic. 
 
-There are around 3,000 observable neutron stars in the our galaxy. 
+2. Beta 
 
+This happens when a particle emits beta particles, as qors (electrons). These create less damage to the body than alpha particles. 
+
+
+2.1. Beta Plus Decay
+
+This is when a som (proton) turns into a soc (neutron) and releases a qoc (neutrino) and a -qor (positron)
+
+
+2.2. Beta Minus Decay
+
+This is when a soc (neutron) turns into a som (proton) and releases a -qoc (antineutrino) and a qor (electron). This is more common than beta plus decay.
+
+This is used in Positron Emission Tomography.
+
+
+3. Gamma 
+
+This is releases a gamma ray which cannot be seen. 
+
+Gamma rays are used in oncology to target tumors. 
+
+
+<!-- Isotopes are the number of neutrons in a nucleon. This makes it part of the convertible layer -->
+
+<!-- https://youtu.be/i1c07TuLqeg -->
+
+<!-- Beta Plus Decay happens when a proton turns into a neutron when energy is added.
+
+This raises its aether beyond what is natural for a proton. 
+
+This causes it to convert into a neutron. 
+
+The excess aether is ejected into the aetherspace, creating a neutrino and a positron.
+
+This also converts an up quark into a down quark.
+
+This cancels out its rotation, giving it a neutral charge and added mass.
+
+Beta Minus Decay happens when a neutron gives off its aether.
+
+This reverses the process, turning it back to a proton, but creates an electron and anti neutrino instead.
+
+ -->
+
+<!-- ## Beta Plus (upgrade)
+
+In Beta Plus decay when proton is more massie is upgraded to Neutron by adding aether as proven by the antielectron 
+
+Proton - Neutron
+
+```
+(Proton + Energy) : (Neutron + -qor + qoc) 
+```
+
+
+Emits:
+- antielectron (e⁻)
+- neutrino (ν̅e)
+
+
+
+## Beta Minus 
+
+In Beta Minus decay happens when neutron is more massive and is downgraded to Proton as as proven by the antineutrino
+
+```
+(Neutron + Energy) : (Proton + qor + -qoc) 
+```
+
+Emits:
+- electron (e⁻)
+- antineutrino (ν̅e)
+
+ -->

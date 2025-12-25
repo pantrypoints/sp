@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 4b"
+heading: "Section 4c"
 title: "Surface Tension"
 date: 2023-12-11
 weight: 16

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3d"
+heading: "Section 3"
 title: "The Aetherspace: Gradual (Local) and Sudden (True) Motion"
 # date: 2023-03-10
 weight: 13

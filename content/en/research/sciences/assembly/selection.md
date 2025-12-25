@@ -2,11 +2,8 @@
 title: "Selection within assembly spaces"
 weight: 6
 description: "Historical Evolution (HE) lets us understand how selection and historical contingency impose constraints on what can be made in the future"
-image: "/covers/assembly.png"
+c: firebrick
 ---
-
-
-<!-- /covers/assembly.png -->
 
 
 

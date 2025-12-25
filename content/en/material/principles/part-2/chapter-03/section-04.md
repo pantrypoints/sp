@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3e"
+heading: "Section 4"
 title: "Virtual Space Particles and Vortices"
 # date: 2024-07-22
 weight: 14

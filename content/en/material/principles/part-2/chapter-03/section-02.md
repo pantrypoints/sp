@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3b"
+heading: "Section 2"
 title: "Timespace as Holder of Gravitational Signatures"
 # date: 2024-07-22
 weight: 11

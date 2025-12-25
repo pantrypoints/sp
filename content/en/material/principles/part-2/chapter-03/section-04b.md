@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3h"
+heading: "Section 4b"
 title: "Material Gravity: Gravitational Constant"
 date: 2024-12-11
 weight: 17

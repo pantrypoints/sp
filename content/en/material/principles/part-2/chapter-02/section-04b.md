@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2d"
+heading: "Section 4b"
 title: "Distance and Second"
 # date: 2023-03-10
 weight: 7

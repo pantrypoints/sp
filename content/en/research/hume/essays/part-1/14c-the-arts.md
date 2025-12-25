@@ -8,6 +8,8 @@ writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
 icon: "David Hume"
+aliases:
+  /research/hume/essays/part-1/14b-the-arts/
 --- 
 
 

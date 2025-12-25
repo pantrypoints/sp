@@ -1,5 +1,5 @@
 ---
-heading: "Section 2b"
+heading: "Section 3"
 title: "The Macro-Aetherspace and the 7 Dimensions"
 # date: 2024-07-22
 weight: 6

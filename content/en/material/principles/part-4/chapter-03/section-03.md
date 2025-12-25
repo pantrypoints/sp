@@ -1,99 +1,89 @@
 ---
-heading: "Chapter 4c"
-title: "Substance of Conversion 3: Acids and Bases "
-linkTitle: "Acids and Bases (SOC3)"
-# date: 2024-03-17
-image: /graphics/physics/acids.jpg
-description: "Acids are Female, Bases are Male"
+heading: "Section 3"
+title: "Intramolecular Forces"
+date: 2025-09-10
+image: /photos/physics/neutronstar.jpg
+description: "Intramolecular Forces."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 20
+weight: 9
 icon: "Juan"
 toc: false
 aliases:
-  /material/principles/part-4/chapter-04c
+  /material/principles/part-4/chapter-03c
 ---
 
 
 
-{{< n n="This uses our Modified Periodic Table of Elements, explained in Part 5">}}
+These manifest as strong chemical bonds leading to specific chemical behavior such as acid-base reactions.
 
-
-
-Acids and Bases are the lower substance of conversion (SOC3). 
-
-Part 3 explained that particles can have a male or female charge which replace the negative and positive charges of Physics. 
-
-When combined as liquid molecules, these become bases or acids respectively. This is classified under the Convertible Layer because acids and bases require water. The Convertible Layer was historically called the Water element. 
-
-
-<!-- as Male and Female Effects
-image: /photos/physics/elec.jpg -->
-
-## Bases
-
-<!-- Carbon Dioxide e6e8(2) six-eight-duo
-H2) 1duoeight
-Sodium Chloride e11e17 eleven-seventeen -->
-
-<!-- Bronsted Lowry -->
-
-A base emits male charge (electron in Physics) or absorbs a female charge. We can say that acids are male. 
-
-An example is Sodium Hydroxide (NaOH) which we notate as `11-8-1`. 
-
-It disolves in water `1(2)-8` to form:
-- `11(1♀)`
-- `8-1(1♂)`
-
-The resulting qor (electron) cancels out the existing som (proton). This then raises the pH of water.
-
-Common bases are:
-
-Name | Notation | Use
---- | --- | ---
-Sodium Hydroxide | 11-8-1 | Caustic Soda
-Calcium Hydroxide | 20-8-1 | Cement
-Ammonia | 7-1(3) | Cleaners
-
-
-
-The more males there are per unit, the stronger the base. 
-
- <!-- :  A common base that dissolves in water to form Na+ and OH- ions. The OH- ions react with H+ ions, neutralizing their effect and raising the pH. -->
-
-
-## Acids
-
-An acid emits a female charge (proton in Physics) or absorbs a male charge. We can say that acids are female. 
-
-An example is Hydrochloric acid (1-17) which dissociates in water into:
-- `1(1♀)`
-- `17(1♂)`
-
-This reacts with dissociated Sodium hydroxide `11(1♀)` and `8-1(1♂)` to create salt and water.
-
-
-
-Molecule | Component 1 | Component 2
+Sublayer | Name | Description
 --- | --- | --- 
-Sodium Hydroxide | 11(1♀) | 8-1(1♂)
-Hydrochloric acid | 17(1♂)  | 1(1♀)
-= | = | =  
-Result | 11-17 or NaCl  | 1(2)-8 or H2O
+Upper | Ionic | between metal and nonmetal
+Mid | Covalent | Polar and nonpolar
+Lower | Metallic | Gives Metals their characteristics
 
 
-The more females there are per unit, the stronger the acid. Common acids are:
+## Atomic Gravity instead of Electronegativity
 
-Name | Notation | Use
---- | --- | ---
-Hydrochloric acid | 1-17 | Digestion
-Nitric acid | 1-7-8(3) | Fertilizers
-Carbonic acid | 1(2)-6-8(3) | Softdrinks
+Atomic gravity is from the virtual space particles that pushes lesser atomic masses towards larger ones. 
 
-Acids and Bases are extremely important in the physical aspects of Bio Superphysics since living things, especially humans, are mostly made up of water. 
- 
 
-<!-- hydrogen ion
-m001(1sor -->
+
+
+## Ionic
+
+This is when an electron (qor1) is *transferred* from one atom to another, creating oppositely charged ions that stick together by electrostatic attraction.
+
+This happens typically between:
+- a "low electronegativity" metal that loses electrons
+- a "high electronegativity" non-metal that gains electrons
+
+An Example is Sodium chloride (NaCl).
+- Na♀ or v11♀ loses electrons and becomes feminine
+- Cl♂ or v17♂ gains electrons and so becomes masculine
+
+Na♀Cl♂ or v11♀v17♂ attract each other in a crystal lattice.
+
+Properties:
+- Strong bonds
+- High melting/boiling points
+- Often soluble in water.
+- Conducts electricity only when molten or dissolved (ions are free to move).
+
+
+## Covalent
+
+This is when atoms *share* electrons so both achieve stable electron configurations (often an octet).
+
+This happens typically with 2 nonmetals with similar electronegativities.
+
+An example is Water H₂O or v1(2)v8
+- Each H or v1 shares an electron with O or v8.
+- O or v8 ends up with 8 valence electrons (stable), each H with 2 (stable).
+
+Properties:
+- Can form gases, liquids, or solids
+- Lower melting/boiling points than ionic
+- Poor conductors (no free charges, unless polar and dissolved)
+- Directional (bond forms at specific angles, leading to shapes like tetrahedra, bent, linear).
+
+
+
+## Metallic
+
+Positive metal ions are arranged in a lattice, surrounded by a “sea of delocalized electrons” that move freely.
+
+This happens to Metals with low electronegativity.
+
+An example is rust: Copper (Cu), Iron (Fe).
+- Each atom contributes valence electrons to the “sea.”
+
+Electrons can move, giving metals their unique properties.
+
+Properties:
+- Conduct heat and electricity well (mobile electrons).
+- Malleable and ductile (ions can slide while the sea of electrons keeps bonding intact).
+- Shiny (electrons reflect light). 
+

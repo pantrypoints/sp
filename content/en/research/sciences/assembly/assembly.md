@@ -1,10 +1,11 @@
 ---
 title: "Assembly theory explains and quantifies selection and evolution Simplified"
-# heading: Unenlightened like Aristotle
 layout: '/src/layouts/article.astro'
 weight: 2
 description: "We simplify the Assembly Theory by replacing its scientific-sounding jargon with plain English to expose that it is merely a philosophical Theory of Change"
-image: "/covers/assembly.png"
+c: firebrick
+aliases:
+  /research/cronin/assembly/
 ---
 
 

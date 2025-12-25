@@ -1,5 +1,5 @@
 ---
-heading: "Section 2"
+heading: "Section 4"
 title: "The Properties of Space"
 # date: 2023-11-27
 weight: 5

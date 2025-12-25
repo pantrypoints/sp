@@ -5,7 +5,10 @@ description: "The US will preserve and promote extensive, close, and friendly co
 c: "teal"
 author: UN
 weight: 4
+aliases:
+  /research/modern/communique/
 ---
+
 
 
 Shanghai, People’s Republic of China

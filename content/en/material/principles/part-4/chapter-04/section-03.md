@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 4c"
+heading: "Section 3"
 title: "Substance of Conversion 3: Acids and Bases "
 linkTitle: "Acids and Bases (SOC3)"
 # date: 2024-03-17
