@@ -266,9 +266,11 @@ Column VI.
 One whose strength [is the greatest, (the length and breadth) of the country],
 [Like to a double of Anu's own self his] strength is enormous.
 [(Now), since thou] to thy breast didst hold him [the way of a woman],
+
 5.[This is a sign that] thou art the one he will [never] abandon:
 [This] of thy dream is the [meaning].’
-                                      [Again he spake] to his mother,
+
+[Again he spake] to his mother,
 ‘[Mother], a second dream [did I] see: [Into Erech, the high-wall'd],
 10.Hurtled an axe, and they gather’d about it: [the meanwhile, from Erech]
 [People] were standing about it, [the people] (all) thronging before it,
@@ -288,3 +290,12 @@ One whose strength is the [greatest (the length and breadth) of the country],
 p. 16
 
 (The Assyrian Edition of the seventh century has three more lines on the First Tablet, which correspond with Column II, l. 3 of the Second Tablet of the Old Babylonian Edition. This latter has already begun with the episode of the two dreams, approximately Column V, l. 24 of the Assyrian First Tablet, and the text is so similar in both that I have not repeated it here. The Old Babylonian Edition here takes up the story, repeating one or two details).
+
+
+
+
+
+
+
+
+

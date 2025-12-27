@@ -1,11 +1,12 @@
 ---
+draft: true
 heading: Chapter 2g
 title: "The Absolute and Relative Force"
 date: 2025-03-20
 weight: 4
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
-c: "darkgoldenrod"
+c: "firebrick"
 ---
 
 

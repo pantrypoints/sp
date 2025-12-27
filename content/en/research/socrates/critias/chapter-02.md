@@ -61,9 +61,17 @@ In the first place the Acropolis was not as now.
 
 A single night of excessive rain washed away the earth and laid bare the rock; at the same time there were earthquakes, and then occurred the extraordinary inundation, which was the third before the great destruction of Deucalion. 
 
-But in primitive times the hill of the Acropolis extended to the Eridanus and Ilissus, and included the Pnyx on one side, and the Lycabettus as a boundary on the opposite side to the Pnyx, and was all well covered with soil, and level at the top, except in one or two places. Outside the Acropolis and under the sides of the hill there dwelt artisans, and such of the husbandmen as were tilling the ground near; the warrior class dwelt by themselves around the temples of Athene and Hephaestus at the summit, which moreover they had enclosed with a single fence like the garden of a single house. 
+But in primitive times the hill of the Acropolis extended to the Eridanus and Ilissus, and included the Pnyx on one side, and the Lycabettus as a boundary on the opposite side to the Pnyx.
 
-On the north side they had dwellings in common and had erected halls for dining in winter, and had all the buildings which they needed for their common life, besides temples, but there was no adorning of them with gold and silver, for they made no use of these for any purpose; they took a middle course between meanness and ostentation, and built modest houses in which they and their children's children grew old, and they handed them down to others who were like themselves, always the same.
+It was all well covered with soil, and level at the top, except in one or two places.
+
+Outside the Acropolis and under the sides of the hill there dwelt artisans, and such of the husbandmen as were tilling the ground near.
+
+The warrior class dwelt by themselves around the temples of Athene and Hephaestus at the summit, which moreover they had enclosed with a single fence like the garden of a single house. 
+
+On the north side they had dwellings in common and had erected halls for dining in winter, and had all the buildings which they needed for their common life, besides temples, but there was no adorning of them with gold and silver, for they made no use of these for any purpose;
+
+They took a middle course between meanness and ostentation, and built modest houses in which they and their children's children grew old, and they handed them down to others who were like themselves, always the same.
 
 But in summer-time they left their gardens and gymnasia and dining halls, and then the southern side of the hill was made use of by them for the same purpose. Where the Acropolis now is there was a fountain, which was choked by the earthquake, and has left only the few small streams which still exist in the vicinity, but in those days the fountain gave an abundant supply of water for all and of suitable temperature in summer and in winter. 
 

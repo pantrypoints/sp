@@ -1,7 +1,7 @@
 ---
 title: "Chakras"
 weight: 8
-c: "indigo"
+c: "#DE3163"
 description: "How does one free the mind and make it light? How does one free the mind from worldly impurities?"
 icon: "PR Sarkar"
 writer:

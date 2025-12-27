@@ -5,7 +5,7 @@ writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Alternative pesticides like neem paste pesticide should be used"
-c: "indigo"
+c: "#DE3163"
 icon: "PR Sarkar"
 ---
 

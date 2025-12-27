@@ -5,7 +5,7 @@ writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 # description: "Most pulses are high in protein but have varying degrees of fat. They are easier to digest than casein, but less substantial"
-c: "indigo"
+c: "#DE3163"
 icon: "PR Sarkar"
 ---
 

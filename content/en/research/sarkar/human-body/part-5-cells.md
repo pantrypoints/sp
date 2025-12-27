@@ -3,7 +3,7 @@ heading: "Part 5"
 title: "Food, Cells, Physical and Mental Development"
 # date: 2021-11-20
 weight: 19
-c: "indigo"
+c: "#DE3163"
 description: "The human body is composed of countless cells of 2 kinds"
 icon: "PR Sarkar"
 ---

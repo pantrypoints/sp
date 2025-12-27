@@ -5,11 +5,13 @@ date: 2025-03-20
 weight: 4
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
-c: "darkgoldenrod"
+c: "firebrick"
+draft: true
 ---
 
 
-PROPOSITION 95.
+## PROPOSITION 95.
+
 Problem.
 
 856. If a body moving on a surface is acted on by any forces, to define the normal forces,

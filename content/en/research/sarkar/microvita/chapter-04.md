@@ -114,5 +114,3 @@ You should know this, and you should propagate this supreme psychic future of hu
 
 
 30 May 1987 RU, Anandanagar
-
-

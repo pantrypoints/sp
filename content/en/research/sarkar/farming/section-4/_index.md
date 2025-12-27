@@ -1,7 +1,7 @@
 ---
 heading: "Section 4" 
 title: "PROUT"
-c: "indigo"
+c: "#DE3163"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

@@ -3,7 +3,7 @@ heading: Part 1
 title: "The Human Body Is a Biological Machine"
 # date: 2021-11-20
 weight: 2
-c: "indigo"
+c: "#DE3163"
 description: "Karma or action is a form of Brahma or the totaliity of existence"
 icon: "PR Sarkar"
 ---

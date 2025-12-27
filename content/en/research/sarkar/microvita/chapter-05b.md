@@ -1,6 +1,6 @@
 ---
 title: "Tantric Yaksinii Sadhana"
-heading: "Chapter 5"
+heading: "Chapter 5b"
 description: "Formerly, some people used to perform yakśińii sádhaná according to the prescribed Tantric rituals"
 c: "indigo"
 writer:

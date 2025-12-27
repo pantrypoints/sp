@@ -3,7 +3,7 @@ title: "Asanas List"
 weight: 2
 author: "PR Sarkar"
 description: ""
-image: "/photos/med/heartburn.jpg"
+image: "/photos/meta/yoga.jpg"
 icon: "PR Sarkar"
 ---
 

@@ -1,6 +1,6 @@
 ---
 heading: "Section 3"
 title: "Water Conservation"
-c: "indigo"
+c: "#DE3163"
 weight: 8
 ---

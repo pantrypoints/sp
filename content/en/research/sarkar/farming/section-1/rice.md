@@ -5,7 +5,7 @@ writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "There are many uses for rice and its by-products"
-c: "indigo"
+c: "#DE3163"
 icon: "PR Sarkar"
 ---
 

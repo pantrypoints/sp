@@ -2,7 +2,7 @@
 heading: Part 3
 title: "Glands and Sub-Glands"
 weight: 6
-c: "indigo"
+c: "#DE3163"
 description: "There are many underdeveloped creatures which have no nerve cells or nerve fibres and behave according to their instincts only."
 ---
 

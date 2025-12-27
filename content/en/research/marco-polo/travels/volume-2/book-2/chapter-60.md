@@ -128,22 +128,47 @@ The city brings in a great revenue to the Great Kaan.{2}
 
 ## CHAPTER 64. The City of Siju, and the Great River Caramoran
 
-When you leave Piju you travel towards the south for two days, through beautiful districts abounding in everything, and in which you find quantities of all kinds of game.
+When you leave Piju you travel towards the south for 2 days, through beautiful districts abounding in everything, and in which you find quantities of all kinds of game.
 
-At the end of those two days you reach the city of Siju, a great, rich, and noble city, flourishing with trade and manufactures. The people are Idolaters, burn their dead, use paper-money, and are subjects of the Great Kaan. They possess extensive and fertile plains producing abundance of wheat and other grain.{1} But there is nothing else to mention, so let us proceed and tell you of the countries further on.
+At the end of those 2 days you reach the city of Siju, a great, rich, and noble city, flourishing with trade and manufactures. 
 
-On leaving Siju you ride south for three days, constantly falling in with fine towns and villages and hamlets and farms, with their cultivated lands. There is plenty of wheat and other corn, and of game also; and the people are all Idolaters and subjects of the Great Kaan.
+The people:
+- are Idolaters
+- burn their dead
+- use paper-money
+- are subjects of the Great Kaan
 
-At the end of those three days you reach the great river Caramoran, which flows hither from Prester John’s country. It is a great river, and more than a mile in width, and so deep that great ships can navigate it. It abounds in fish, and very big ones too.
+They possess extensive and fertile plains producing abundance of wheat and other grain.
 
-In this river there are some 15,000 vessels, all belonging to the Great Kaan, and kept to transport his troops to the Indian Isles whenever there may be occasion; for the sea is only one day distant from the place we are speaking of. And each of these vessels, taking one with another, will require 20 mariners, and will carry 15 horses with the men belonging to them, and their provisions, arms, and equipments.{2}
+<!-- But there is nothing else to mention, so let us proceed and tell you of the countries further on. -->
 
-Hither and thither, on either bank of the river, stands a town; the one facing the other. The one is called Coiganju and the other Caiju; the former is a large place, and the latter a little one. And when you pass this river you enter the great province of Manzi. So now I must tell you how this province of Manzi was conquered by the Great Kaan.{3}
+On leaving Siju you ride south for 3 days, constantly falling in with fine towns and villages and hamlets and farms, with their cultivated lands.
+
+There is plenty of wheat and other corn, and game. The people are all Idolaters and subjects of the Great Kaan.
+
+At the end of those 3 days you reach the great river Caramoran, which flows hither from Prester John’s country. 
+
+It is a great river, and more than a mile in width, and so deep that great ships can navigate it. It abounds in fish, and very big ones too.
+
+In this river there are some 15,000 vessels, all belonging to the Great Kaan, and kept to transport his troops to the Indian Isles whenever there may be occasion; for the sea is only 1 day away from here.
+
+Each of these vessels will require 20 mariners, and will carry 15 horses with the men belonging to them, and their provisions, arms, and equipments.
+
+On either bank of the river, stands a town; the one facing the other.
+
+The one is called Coiganju, larger than the other called Caiju.
+
+When you pass this river you enter the great province of Manzi.
+
+<!-- So now I must tell you how this province of Manzi was conquered by the Great Kaan.{3} -->
 
 
-## CHAPTER 65. How the Great Kaan conquered the Province of Manzi.
 
-The great territory of Manzi had a great king who was styled Facfur. He was so great and puissant a prince, that for vastness of wealth and number of subjects and extent of dominion, there was hardly a greater in all the earth except the Great Kaan himself.
+## CHAPTER 65. How the Great Kaan conquered the Province of Manzi
+
+The great territory of Manzi had a great king who was styled Facfur. 
+
+He was so great and puissant a prince, that for vastness of wealth and number of subjects and extent of dominion, there was hardly a greater in all the earth except the Great Kaan himself.
 
 But the people of his land were anything rather than warriors; all their delight was in women, and nought but women.
 
@@ -151,29 +176,43 @@ And so it was above all with the King himself, for he took thought of nothing el
 
 In all his dominion there were no horses; nor were the people ever inured to battle or arms, or military service of any kind. 
 
-Yet the province of Manzi is very strong by nature, and all the cities are encompassed by sheets of water of great depth, and more than an arblast-shot in width; so that the country never would have been lost, had the people but been soldiers. But that is just what they were not; so lost it was.
+Yet the province of Manzi is very strong by nature. All its cities are encompassed by sheets of deep water, and more than an arblast-shot in width.
+
+The country never would have been lost had the people been soldiers.
+
+<!-- But that is just what they were not; so lost it was. -->
 
 In 1268, the Kublai Kaan despatched there a Baron Bayan Chincsan meaning “Bayan Hundred Eyes.” 
 
 The King of Manzi had found in his horoscope that he never should lose his Kingdom except through a man that had an hundred eyes.
 
-So he held himself assured in his position, for he could not believe that any man in existence could have an hundred eyes. There, however, he deluded himself, in his ignorance of the name of Bayan.{3}
+So he held himself assured in his position, for he could not believe that any man in existence could have an hundred eyes.
+
+There, however, he deluded himself, in his ignorance of the name of Bayan.
 
 This Bayan had an immense force of horse and foot entrusted to him by the Great Kaan, and with these he entered Manzi.
 
 He also had many boats to carry both horse and food when need should be.
 
-And when he, with all his host, entered the territory of Manzi and arrived at this city of Coiganju—whither we now are got, and of which we shall speak presently—he 146summoned the people thereof to surrender to the Great Kaan; but this they flatly refused. 
+And when he, with all his host, entered the territory of Manzi and arrived at this city of Coiganju—whither we now are got, and of which we shall speak presently—he summoned the people thereof to surrender to the Great Kaan; but this they flatly refused. 
 
-On this Bayan went on to another city, with the same result, and then still went forward; acting thus because he was aware that the Great Kaan was despatching another great host to follow him up.{4}
+On this Bayan went on to another city, with the same result, and then still went forward; acting thus because he was aware that the Great Kaan was despatching another great host to follow him up.
 
 He advanced to 5 cities in succession, but got possession of none of them.
 
-For he did not wish to engage in besieging them and they would not give themselves up. But when he came to the sixth city he took that by storm, and so with a second, and a third, and a fourth, until he had taken twelve cities in succession. And when he had taken all these he advanced straight against the capital city of the kingdom, which was called Kinsay, and which was the residence of the King and Queen.
+For he did not wish to engage in besieging them and they would not give themselves up. 
 
-And when the King beheld Bayan coming with all his host, he was in great dismay, as one unused to see such sights. So he and a great company of his people got on board a thousand ships and fled to the islands of the Ocean Sea, whilst the Queen who remained behind in the city took all measures in her power for its defence, like a valiant lady.
+But when he came to the sixth city he took that by storm, and so with a second, and a third, and a fourth, until he had taken twelve cities in succession.
 
-Now it came to pass that the Queen asked what was the name of the captain of the host, and they told her that it was Bayan Hundred-Eyes. So when she wist that he was styled Hundred-Eyes, she called to mind how their astrologers had foretold that a man of an hundred eyes should strip them of the kingdom.
+When he had taken all these he advanced straight against the capital city of the kingdom, which was called Kinsay, and which was the residence of the King and Queen.
+
+When the King beheld Bayan coming with all his host, he was in great dismay, as one unused to see such sights.
+
+So he and a great company of his people got on board a thousand ships and fled to the islands of the Ocean Sea, whilst the Queen who remained behind in the city took all measures in her power for its defence, like a valiant lady.
+
+The Queen asked what was the name of the captain of the host. They told her that it was Bayan Hundred-Eyes.
+
+So when she wist that he was styled Hundred-Eyes, she called to mind how their astrologers had foretold that a man of an hundred eyes should strip them of the kingdom.
 
 Wherefore she gave herself up to Bayan, and surrendered to him the whole kingdom and all the other cities and fortresses, so that no resistance was made. And in sooth this was a goodly conquest, for there was no realm on earth half so wealthy.
 
@@ -200,5 +239,3 @@ The Queen was conducted to the Great Kaan, who gave her an honourable reception,
 But as for the King her husband, he never more did quit the isles of the sea to which he had fled, but died there.
 
 <!-- So leave we him and his wife and all their concerns, and let us return to our story, and go on regularly with our account of the great province of Manzi and of the manners and customs of its people. And, to begin at the beginning, we must go back to the city of Coiganju, from which we digressed to tell you about the conquest of Manzi. -->
-
-

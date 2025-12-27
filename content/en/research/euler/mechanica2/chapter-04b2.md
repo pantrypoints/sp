@@ -5,19 +5,17 @@ date: 2025-03-20
 weight: 4
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
-c: "darkgoldenrod"
+c: "firebrick"
+draft: true
 ---
 
 
 
-PROPOSITION 95. Problem.
+## PROPOSITION 95. Problem.
 
-856. If a body moving on a surface is acted on by any forces, to define the normal forces,
-evidently the normal force pressing [on the surface], the deflecting force [in the tangent
-plane normal to the curve], and the force along the tangent, with all arising from
-resolution.
+856. If a body moving on a surface is acted on by any forces, to define the normal forces, evidently the normal force pressing [on the surface], the deflecting force [in the tangent plane normal to the curve], and the force along the tangent, with all arising from resolution.
 
-Solution.
+### Solution
 
 Whatever the forces acting should be,
 these can be reduced to three forces, the

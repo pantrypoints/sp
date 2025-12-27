@@ -2,7 +2,7 @@
 heading: "Part 4"
 title: "Socio-Economic Theories and Communism"
 weight: 14
-c: "indigo"
+c: "#DE3163"
 description: "Communism must go immediately or be removed without any delay"
 icon: "PR Sarkar"
 ---

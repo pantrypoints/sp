@@ -1,14 +1,135 @@
 ---
+heading: Tablet 3
 title: "The Expedition Against Humbaba"
 weight: 4
 c: "darkslategray"
 description: "Here we simplify Enuma Elish The Epic Of Creation"
-draft: true
 --- 
   
 
-<!-- THE THIRD TABLET. -->
 
+The Elders spoke to Gilgamesh, saying:
+
+
+{{< r a="Elders" >}}
+Gilgamesh, do not put your trust in just your vast strength. Keep a sharp eye out, make each blow strike in mark!
+
+'The one who goes on ahead saves the comrade."
+'The one who knows the route protects his friend.'
+
+Let Enkidu go ahead of you -- he knows the road to the Cedar Forest. He has seen fighting, has experienced battle.
+
+Enkidu will protect the friend, will keep the comrade safe.
+
+Let his body urge him back to the wives.
+
+In our Assembly we have entrusted the King to you (Enkidu), and on your return you must entrust the King back to us!
+{{< /r >}}
+
+
+{{< l a="Gilgamesh" >}}
+[to Enkidu] Come, my friend, let us go to the Egalmah Temple, to Ninsun, the Great Queen. Ninsun is wise, all-knowing. She will put the advisable path at our feet.
+{{< /l >}}
+
+Taking each other by the hand, Gilgamesh and Enkidu walked to the Egalmah ("Great Palace"), to Ninsun, the Great Queen.
+
+Gilgamesh arose and went to her.
+
+
+{{< l a="Gilgamesh" >}}
+Ninsun, (even though) I am extraordinarily strong (!)...
+I must now travel a long way to where Humbaba is,
+I must face fighting such as I have not known,
+and I must travel on a road that I do not know!
+Until the time that I go and return,
+until I reach the Cedar Forest,
+until I kill Humbaba the Terrible,
+and eradicate from the land something baneful that Shamash hates,
+intercede with Shamash on my behalf' (!)
+If I kill Humbaba and cut his Cedar
+let there be rejoicing all over the land ,
+and I will erect a monument of the victory (?) before you!"
+{{< /l >}}
+
+
+The... words of Gilgamesh, her son,
+grieving, Queen Ninsun heard over and over.
+
+Ninsun went into her living quarters.
+
+She washed herself with the purity plant,
+she donned a robe worthy of her body,
+she donned jewels worthy of her chest,
+she donned her sash, and put on her crown.
+She sprinkled water from a bowl onto the ground.
+She went up to the roof.
+
+She went up to the roof and set incense in front of Shamash.
+
+She offered fragrant cuttings, and raised her arms to Shamash.
+
+
+{{< r a="Ninsun" >}}
+Why have you inflicted a restless heart on my son, Gilgamesh!
+
+Now you have touched him so that he wants to travel a long way to where Humbaba is!
+
+He will face fighting such as he has not known, and will travel on a road that he does not know!
+
+Until he goes away and returns, until he reaches the Cedar Forest, until he kills Humbaba the Terrible,
+and eradicates from the land something baneful that you hate,
+on the day that you see him on the road(?)
+may Aja, the Bride, without fear remind you,
+and command also the Watchmen of the Night,
+the stars, and at night your father, Sin."
+{{< /r >}}
+
+
+...
+
+
+She banked up the incense and uttered the ritual words.'
+She called to Enkidu and would give him instructions:
+
+
+{{< r a="Ninsun" >}}
+Enkidu, you are not of my son. But now I speak to you along with the sacred votaries of Gilgamesh, the high priestesses, the holy women, the temple servers."
+{{< /r >}}
+
+
+She laid a pendant(?) on Enkidu's neck,
+the high-priestesses took...
+and the "daughters-of-the-gods" ...
+"I have taken ... Enkidu...
+
+Enkidu to... Gilgamesh I have taken."
+"Until he goes and returns,
+until he reaches the Cedar Forest,
+be it a month ...
+be it a year.. ."
+
+
+[About 11 lines are missing here, and the placement of the following fragment is uncertain.]
+
+... the gate of cedar...
+Enkidu ... in the Temple of Shamash,
+(and) Gilgamesh in the Egalmah.
+
+He made an offering of cuttings ...
+... the sons of the king(!) ...
+
+[Perhaps some 60 lines are missing here.]
+
+"Enkidu will protect the friend, will keep the comrade safe,
+Let his body urge him back to the wives (?).
+In our Assembly we have entrusted the King to you,
+
+and on your return you must entrust the King back to us!"
+Enkidu spoke to Gilgamesh saying:
+"My Friend, turn back!...
+The road...
+
+<!-- 
 
 (About a column and a half of the beginning of the Old Babylonian version on the Yale tablet are so broken that almost all the text is lost. Gilgamish and Enkidu have now become devoted friends, thus strangely stultifying the purpose for which Enkidu was created, and now is set afoot the great expedition against the famous Cedar Forest guarded by the Ogre Humbaba. The courtesan has now for a brief space left the scene, having deserted Enkidu, much to his sorrow. The mutilated Assyrian Version gives a hint that the mother of Gilgamish is now describing the fight to one of her ladies(?) Rishat-Nin . . . and where her recital becomes connected the story runs thus).
 
@@ -520,3 +641,4 @@ He the night-watches . . . . .”
 Enkidu [open'd] his mouth [and spake unto Gilgamish, saying]:
 “Turn, O my friend . . . . a road not . . . .
 
+ -->

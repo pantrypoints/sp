@@ -3,7 +3,7 @@ heading: Part 3d
 title: "The Other Chakras"
 heading: "Part 3d"
 weight: 9
-c: "indigo"
+c: "#DE3163"
 description: "The mańipura area is the primary location of dehágni [bodily fire], the main sphere of vitality"
 icon: "PR Sarkar"
 ---

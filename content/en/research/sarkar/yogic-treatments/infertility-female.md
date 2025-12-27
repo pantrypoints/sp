@@ -4,7 +4,7 @@ weight: 40
 author: "PR Sarkar"
 icon: "PR Sarkar"
 description: "Many people think that infertility can occur due to leucorrhoea or displacement of the uterus. But this impression is not entirely correct"
-image: "/photos/psych/sad.jpg"
+image: "/photos/med/sperm.jpg"
 ---
 
 

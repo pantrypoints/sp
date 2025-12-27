@@ -1,5 +1,5 @@
 ---
-title: "THE MEETING OF GILGAMISH AND ENKIDU"
+title: "The Meeting Of Gilgamish And Enkidu"
 weight: 4
 c: "darkslategray"
 description: "Here we simplify Enuma Elish The Epic Of Creation"
@@ -10,8 +10,11 @@ draft: true
 2.  While Gilgamish (thus) is the vision revealing
 Enkidu sitteth before the hetaera, and she [displaying 2 her] bosom,
 5.Shewing [her beauty (?)], the place of his birth he 3 forgetteth.
-                                         (So) Enkidu dallied
+
+(So) Enkidu dallied
+
 (Thus) for six days, seven nights, with the courtesan-girl in his mating.
+
 10.Broke into [speech] then, the nymph, and (thus) unto Enkidu spake she:
 “(Yea, as) I view thee, (e’en) like a god, O Enkidu, shalt be,
 Why with the beasts (of the field) dost thou (ever) range over the desert?
@@ -137,7 +140,7 @@ The days of humans are numbered. Whatever they keep trying to achieve is but the
 Now you are afraid of death-what has become of your bold strength! 
   
     
-  
+<!--   
 I   
   will  
   go    
@@ -174,3 +177,4 @@ Should
   my    
   fame. 
   
+ -->

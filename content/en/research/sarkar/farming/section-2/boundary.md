@@ -5,7 +5,7 @@ writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "To ensure the maximum utilization of every inch of land, plants are used in the boundary areas of all schools, farms, orchards, homes, etc"
-c: "indigo"
+c: "#DE3163"
 icon: "PR Sarkar"
 ---
 

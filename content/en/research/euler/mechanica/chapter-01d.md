@@ -1,11 +1,12 @@
 ---
+draft: true
 heading: Chapter 1d
 title: "What is Speed?"
 date: 2025-03-20
 weight: 6
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
-c: "darkgoldenrod"
+c: "firebrick"
 ---
 
 
@@ -53,7 +54,7 @@ The element Mm is taken from M, that has been considered to be traversed with th
 uniform speed c [p.14]. With the element Mm to be called ds,
 ds the time in which the element is traversed is equal to c (29).
 Therefore by integration, the time is obtained in which the
-ds
+ds 
 whole arc is completed, to equal ∫ c . To the integral a
 constant of such a kind should be added, which restores this time to zero, when s = 0,
 following the known rules of integration. Q. E. I.

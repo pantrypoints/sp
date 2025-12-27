@@ -1,6 +1,6 @@
 ---
 title: "Ideal Farming Summary"
-c: "indigo"
+c: "#DE3163"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

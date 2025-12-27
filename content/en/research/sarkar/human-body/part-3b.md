@@ -2,7 +2,7 @@
 heading: Part 3b
 title: "Asanas"
 weight: 7
-c: "indigo"
+c: "#DE3163"
 description: "There are many underdeveloped creatures which have no nerve cells or nerve fibres and behave according to their instincts only."
 ---
 

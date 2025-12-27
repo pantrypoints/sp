@@ -4,7 +4,7 @@ title: "The Chakras"
 # "Under the Shelter of the Guru"
 heading: "Part 3b"
 weight: 8
-c: "indigo"
+c: "#DE3163"
 description: "There are 9 cakras [plexi] in humans"
 icon: "PR Sarkar"
 ---

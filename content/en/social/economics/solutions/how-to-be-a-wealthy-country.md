@@ -9,7 +9,7 @@ writer:
 icon: "Supereconomics"
 ---
 
-{{< i s="/photos/econ/smithstatue.jpg" a="Adam Smith" >}}
+{{< i s="/photos/econ/smith.jpg" a="Adam Smith" >}}
 
 ## 3 Requirements for a Wealthy Country
 

@@ -3,7 +3,7 @@ heading: Part 2
 title: "The Scope of Bio-Psychology"
 # date: 2021-11-20
 weight: 4
-c: "indigo"
+c: "#DE3163"
 description: "Karma or action is a form of Brahma or the totaliity of existence"
 icon: "PR Sarkar"
 ---

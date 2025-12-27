@@ -96,7 +96,7 @@ After this is done, the Emperor is off and away.{7}
 
 <!-- But I must now tell you a strange thing that hitherto I have forgotten to mention.  -->
 
-During the 3 months of every year that the Lord resides at that place, if there is bad weather, there are certain crafty enchanters and astrologers in his train. .
+During the 3 months of every year that the Lord resides at that place, if there is bad weather, there are certain crafty enchanters and astrologers in his train.
 
 They are such adepts in necromancy and the diabolic arts, that they are able to prevent any cloud or storm from passing over the spot on which the Emperor’s Palace stands. 
 

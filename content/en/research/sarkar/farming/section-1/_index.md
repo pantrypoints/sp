@@ -1,7 +1,7 @@
 ---
 heading: "Section 1"
 title: "Important Vegetables"
-c: "indigo"
+c: "#DE3163"
 weight: 4
 ---
 

@@ -2,7 +2,7 @@
 heading: Part 3d
 title: "The Guru Chakra and Gurusakásha"
 weight: 11
-c: "indigo"
+c: "#DE3163"
 description: "There are 9 cakras [plexi] in humans"
 icon: "PR Sarkar"
 ---

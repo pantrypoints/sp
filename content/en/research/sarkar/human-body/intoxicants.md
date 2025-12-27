@@ -2,7 +2,7 @@
 heading: Part 6
 title: "Intoxicants"
 weight: 200
-c: "indigo"
+c: "#DE3163"
 description: ""
 icon: "PR Sarkar"
 ---

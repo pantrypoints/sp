@@ -2,7 +2,7 @@
 title: "The VC Game"
 heading: "Buy low sell high"
 date: 2015-01-01
-image: /photos/econ/smithstatue.jpg
+image: /photos/econ/smith.jpg
 description : "Adam Smith suggested some policies in the Wealth of Nations which produced bad effects"
 youtube: "rVP73TV2X0s"
 writer:
