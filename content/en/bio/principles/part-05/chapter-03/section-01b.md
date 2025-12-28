@@ -1,5 +1,5 @@
 ---
-heading: Chapter x
+heading: Section 1b
 title: "The Importance of Fasting"
 description: "Here we list common diseases and Natural Remedies"
 date: 2020-01-25

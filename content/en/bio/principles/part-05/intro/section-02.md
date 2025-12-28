@@ -1,5 +1,5 @@
 ---
-heading: Chapter 2
+heading: Section 2
 title: "The Hierarchy of Needs"
 description: "The Bio-Superphysics Hierarchy of Needs aligns with the 5 Layers"
 # date: "2020-01-01"

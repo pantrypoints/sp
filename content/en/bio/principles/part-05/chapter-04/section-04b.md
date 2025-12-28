@@ -1,11 +1,12 @@
 ---
-heading: Chapter 6
+heading: Section 4b
 title: "The War Star"
 description: "The War Star is regularly creates war on Earth"
 date: 2024-07-07
 weight: 27
 image: "/graphics/bio/war.jpg"
 icon: "Bio Superphysics"
+# was bio/principles/chapter6b
 ---
 
 

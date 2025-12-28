@@ -1,5 +1,5 @@
 ---
-heading: Chapter 7b
+heading: Section 6
 title: "Amok Syndrome"
 # linkTitle: "Five Strata"
 description: "Amok Syndrome manifests as mass-shootings in the West"
@@ -12,6 +12,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Bio Superphysics"
 ---
+
 
 
 In Southeast Asia, the Amok Syndrome is the condition where people become instantly become aggressive after being put under psychological pressure. 

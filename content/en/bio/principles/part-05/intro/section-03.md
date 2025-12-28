@@ -1,5 +1,5 @@
 ---
-heading: Section 2
+heading: Section 3
 title: "The 5 Medical Paradigms"
 linkTitle: "Five Paradigms"
 description: "Bio Superphysics uses 5 medical paradigms which are aligned with the 5 layers of Superphysics"
@@ -12,7 +12,6 @@ aliases:
   /medical/principles/chapter-03/
   /bio/principles/chapter-03/  
 ---
-
 
 
 

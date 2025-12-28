@@ -1,7 +1,6 @@
 ---
-heading: Chapter 3b
+heading: Section 4b
 title: "How Acupuncture and Acupressure Work"
-# linkTitle: "Five Paradigms"
 description: "Traditional Chinese Medicine deals with chronic pain and emotional stress through acupunture and acupressure"
 # date: "2020-01-01"
 date: 2024-09-05
@@ -9,7 +8,10 @@ weight: 11
 image: "/photos/bio/acu.jpg"
 tags: ["Acupuncture, Acupressure"]
 icon: "Bio Superphysics"
+aliases:
+  /bio/principles/part-05/chapter-03c
 ---
+
 
 
 Traditional Chinese Medicine deals with chronic pain and emotional stress through acupunture and acupressure. 

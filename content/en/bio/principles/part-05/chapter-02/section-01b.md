@@ -1,5 +1,5 @@
 ---
-heading: Chapter 1
+heading: Section 1b
 title: "Abortion"
 # linkTitle: "Five Strata"
 description: "The Human Experience is set by the human oversoul"
