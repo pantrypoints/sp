@@ -34,7 +34,8 @@ Another sponge structure is the brain which also has these 2 spaces: the normal 
 
 In this way, Physics and Biology use the same principles, making it easier to understand how Nature works. 
 
-This is still consistent with Newton's Physics where Newton assigned the cause of gravity to Spirit which is the same mechanism for the nerves.
+This is still consistent with Newton's Physics where Newton assigned the cause of gravity to Spirit which is the same mechanism for the nerves. This is why we are fundamentally against Einstein, but not fundamentally against Newton, since his "Spirit" can be easily equated to Descartes' aether or Substance, or the "chi" of Taoist Physics.
+
 
 {{< q a="Newton" c="Principia Mathematica, General Scholium" >}}
 A Spirit pervades and lies hidden in all gross bodies. Its action and force causes the particles of bodies to:

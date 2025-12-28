@@ -3,7 +3,7 @@ heading: "Section 1"
 title: "The 3 Actions of the Mind"
 date: 2020-12-06
 image: /photos/meta/read.jpg
-weight: 480
+weight: 4
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:
   name: Juan

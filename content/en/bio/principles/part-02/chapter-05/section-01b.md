@@ -1,6 +1,6 @@
 ---
 title: "Evolution and Jumping Genes"
-heading: Chapter 2b
+heading: Section 1b
 date: 2020-01-27
 weight: 12
 image: /photos/med/sperm.jpg

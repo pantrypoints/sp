@@ -1,10 +1,10 @@
 ---
-heading: Chapter 1
-title: "Elementals"
-description: We explain the engineering of the human body
-image: "/photos/econ/singer.jpg"
+heading: "Chapter 4"
+title: "Chakra 4: Heart"
+description: We explain the heart
+image: "/photos/meta/heart.jpg"
 # date: 2022-10-21
-weight: 8
+weight: 12
 ---
 
  

@@ -2,7 +2,7 @@
 heading: "Section 7"
 title: "The Eagle"
 date: 2020-12-27
-weight: 50
+weight: 508
 image: "/graphics/super/egl.jpg"
 description: "The harmony or disharmony between spins leads to attraction and cohesion, or repulsion and disintegration"
 icon: "Juan"

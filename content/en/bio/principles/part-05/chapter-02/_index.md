@@ -1,10 +1,10 @@
 ---
-heading: Chapter 1
+heading: Chapter 2
 title: "Chakra 2: Growth"
-description: We explain the engineering of the human body
-image: "/photos/econ/singer.jpg"
+description: We explain growth
+image: "/photos/bio/plant.jpg"
 # date: 2022-10-21
-weight: 8
+weight: 5
 ---
 
 

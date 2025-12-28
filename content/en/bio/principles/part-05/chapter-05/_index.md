@@ -1,10 +1,10 @@
 ---
-heading: Chapter 1
-title: "Elementals"
-description: We explain the engineering of the human body
-image: "/photos/econ/singer.jpg"
+heading: Chapter 5
+title: "Chakra 5: Immunity"
+description: We explain the immune system
+image: "/photos/medieval/spartan.jpg"
 # date: 2022-10-21
-weight: 8
+weight: 18
 ---
 
  

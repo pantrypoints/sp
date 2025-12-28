@@ -6,7 +6,7 @@ title: "The Circulatory System"
 # date: "2020-10-15"
 date: 2024-07-08
 weight: 2
-image: "/photos/meta/chakras.jpg"
+image: "/photos/bio/bloodlet.jpg"
 icon: "Bio Superphysics"
 ---
 

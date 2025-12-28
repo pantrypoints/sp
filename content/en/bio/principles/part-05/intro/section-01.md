@@ -140,3 +140,4 @@ Spatial | Ears | Sense of Balance
 Radiant | Eyes, Heart | Sight, Temperature
 Convertible | Tongue, Nose | Taste, Smell 
 Material | Skin, Heart | Tactility  -->
+

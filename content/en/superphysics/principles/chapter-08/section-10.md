@@ -2,7 +2,7 @@
 heading: "Section 10"
 title: "What is Socratic Dialectics?"
 date: 2019-01-02
-weight: 52
+weight: 520
 image: "/photos/medieval/socrates.jpg"
 description: "The Dialectics of Socrates unifies metaphysics and science into a single body of understanding"
 writer:

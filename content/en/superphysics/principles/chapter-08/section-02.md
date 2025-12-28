@@ -3,7 +3,7 @@ heading: "Chapter 8b"
 title: "The 4 Operations of Thinking"
 date: 2020-12-06
 image: /photos/psych/think.jpg
-weight: 484
+weight: 8
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:
   name: Juan

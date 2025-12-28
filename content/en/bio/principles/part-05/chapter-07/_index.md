@@ -1,10 +1,10 @@
 ---
-heading: Chapter 1
-title: "Elementals"
-description: We explain the engineering of the human body
-image: "/photos/econ/singer.jpg"
+heading: Chapter 7
+title: "Chakra 7: Aether"
+description: We explain the aether
+image: "/photos/meta/occult.jpg"
 # date: 2022-10-21
-weight: 8
+weight: 48
 ---
 
  
