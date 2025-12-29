@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 7e"
+heading: "Section 9"
 title: "Advanced Alien Life"
 date: 2025-10-06
 weight: 470

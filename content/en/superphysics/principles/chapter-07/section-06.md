@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 7f"
+heading: "Section 6"
 title: "Animals"
 date: 2025-10-06
 weight: 467
@@ -14,7 +14,9 @@ aliases:
 ---
 
 
-This will explain the classification of Lamarck
+This will explain the classification of Lamarck.
+
+It will also explain why some Elemental have animals shapes, such as half-human, half-horse or elk.
 
 
 {{< i s="/photos/bio/peacock.jpg" a="Peacock" c="" >}}

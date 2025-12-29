@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8b"
+heading: "Section 2"
 title: "The 4 Operations of Thinking"
 date: 2020-12-06
 image: /photos/psych/think.jpg

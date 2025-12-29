@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 7d"
+heading: "Section 4"
 title: "Elementals"
 date: 2025-10-06
 weight: 460

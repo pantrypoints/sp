@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3"
+heading: "Section 1"
 title: "Technologies from Qosts"
 # date: 2020-01-31
 image: "/photos/physics/phoenix.jpg"
@@ -10,6 +10,7 @@ writer:
 weight: 48
 icon: "Juan"
 ---
+
 
 
 Spacetime technologies are those that use the Spacetime Layer as its main mechanism. That mechanism uses invisible spacetime particles caled 'qosts' or **q**uanta **o**f **s**pace-**t**ime.

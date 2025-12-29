@@ -2,7 +2,7 @@
 heading: "Section 8"
 title: "Critical Feeling as Empathy"
 date: 2023-12-08
-weight: 616
+weight: 618
 image: /photos/psych/consult.jpg
 # image: /graphics/psych/peace.jpg
 description: "Critical feeling is done by the heart as a sixth or intuitional sense to catch the ego (the feeling of the self)"

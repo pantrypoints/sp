@@ -2,7 +2,7 @@
 heading: "Section 7"
 title: "Chi and the Animal Spirits"
 date: 2023-12-08
-weight: 614
+weight: 617
 image: /photos/meta/yoga.jpg
 description: "The animal spirits are called chi in Taoism and Vayu in Himduism"
 writer:

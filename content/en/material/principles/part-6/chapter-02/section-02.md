@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2c"
+heading: "Section 2"
 title: "Cheaper Way to Produce Antimatter"
 # date: 2024-08-01
 image: /photos/physics/neutronstar.jpg

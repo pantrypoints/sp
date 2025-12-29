@@ -3,7 +3,7 @@ heading: "Section 3"
 title: "Karma, Samskara, and the Loop of Cause and Effect"
 date: 2020-04-12
 weight: 407
-image: /graphics/meta/boomerang.jpg
+image: /photos/meta/boomerang.jpg
 description: The Sanskrit word karma implies a complete loop from cause and effect
 # description: "Moral Consequentialism is the effect of actions that are made obscure by fleeting human memory because of the passage of time"
 icon: "Superphysics"
@@ -107,6 +107,10 @@ The difference between Physics and Superphysics is that the latter has the Sansk
 Science is aware of physical action and physical reaction. 
 
 However, there are often many cases wherein such action and reaction are made up of a long chain of intervening-actions and intervening-reactions that might escape the immediate observation of the mind.
+
+{{< i s="/photos/meta/boomerang.jpg" a="Boomerang" >}}
+
+
 
 For example, the floodings from global warming is made up of a long chain of cause and effect*:
 1. The burning of fossil fuels adds carbon dioxide in the air -- This is the action

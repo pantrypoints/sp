@@ -1,6 +1,5 @@
 ---
-heading: "Chapter 2"
-linkTitle: Chapter 2
+heading: "Section 2"
 title: "The Soul of Society"
 date: 2022-03-27
 image: /photos/social/family.jpg
@@ -68,5 +67,3 @@ Workers | Communism, Socialism, Liberalism
 Warriors | Divine Rule, Military Rule, Conservatism
 Thinkers | Theocracy, Technocracy, Scientism
 Traders | Oligarchy, Neoliberalism, Mercantilism
-
-

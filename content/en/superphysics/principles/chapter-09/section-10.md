@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 9j"
+heading: "Chapter 10"
 title: "The Personality Structure"
 date: 2020-12-15
 weight: 660

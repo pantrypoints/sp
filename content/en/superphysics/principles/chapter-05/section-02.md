@@ -1,6 +1,6 @@
 ---
 title: "Ideas are Static Particles, Feelings are Dynamic Waves"
-heading: "Chapter 5b"
+heading: "Section 2"
 date: 2024-01-24
 weight: 6
 image: /graphics/flip.jpg

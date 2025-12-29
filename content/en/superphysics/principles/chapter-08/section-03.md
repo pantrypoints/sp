@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8c"
+heading: "Section 3"
 title: "Critical Thinking is from the Upper Part of the Lower Mind"
 date: 2020-12-27
 weight: 490

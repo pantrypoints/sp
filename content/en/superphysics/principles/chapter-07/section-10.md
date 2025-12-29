@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 7f"
+heading: "Section 10"
 title: "Desire-based Evolution"
 date: 2025-10-06
 weight: 474

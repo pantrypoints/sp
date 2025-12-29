@@ -1,5 +1,5 @@
 ---
-heading: Chapter 2
+heading: Section 2
 title: "Techniques from Material Superphysics"
 # date: 2020-01-27
 image: /graphics/physics/bob.jpg

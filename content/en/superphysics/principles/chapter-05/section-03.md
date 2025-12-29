@@ -1,6 +1,6 @@
 ---
 title: "The Connection of Ideas"
-heading: "Chapter 5c"
+heading: "Section 3"
 date: 2024-02-24
 weight: 10
 image: /graphics/meta/ideas.jpg

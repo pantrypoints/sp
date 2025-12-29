@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 7e"
+heading: "Section 5"
 title: "Plants"
 date: 2025-10-06
 weight: 464

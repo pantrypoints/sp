@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 13b"
+heading: "Chapter 3b"
 title: "Descartes' Quantum Tunneling and Nuclear Fusion"
 # date: 2023-10-31
 image: "/graphics/physics/tunnel.jpg"

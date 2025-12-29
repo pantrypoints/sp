@@ -1,6 +1,5 @@
 ---
-heading: Chapter 1
-linkTitle: Chapter 1
+heading: Section 1
 title: "Proposed Applications and Technologies from Material Superphysics"
 # date: 2020-01-27
 image: /graphics/physics/drone.jpg
