@@ -2,7 +2,7 @@
 heading: "Chapter 1"
 title: Plant Abilities
 date: 2020-01-31
-weight: 22
+weight: 2
 image: "/photos/bio/plant.jpg"
 description: Maximized Farming is based on the 5 Layers as they apply to agriculture.
 writer:

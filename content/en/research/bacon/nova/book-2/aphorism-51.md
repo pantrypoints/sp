@@ -1,11 +1,14 @@
 ---
 title: "27: Magical Instances"
-heading: Chapter 18
+heading: Aphorism 51
+# heading: Chapter 18
 weight: 78
 description: "In this, the matter or efficient agent is scanty or small compared with the grandeur of the effect produced"
 c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
+aliases:
+  /research/bacon/nova/book-2/chapter-18
 ---
 
 

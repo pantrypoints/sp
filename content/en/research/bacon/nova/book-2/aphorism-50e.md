@@ -6,7 +6,10 @@ description: "The effects produced by harmony and aversion"
 c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
+aliases:
+  /research/bacon/nova/book-2/chapter-17e
 ---
+
 
 
 6. The effects produced by harmony and aversion
@@ -58,10 +61,11 @@ For some bodies readily and willingly mix, and are incorporated, others tardily 
 Nor are these instances of readiness and aversion to mixture to be alone collected, but others, also, of the collocation, distribution, and digestion of the parts when mingled, and the predominance after the mixture is complete.
 
 
-7. The alternation and interchange of the other six
 
-but of this, it will not be the right time to offer any examples, until some deeper investigation shall have taken place of each of the others.
+### 7. The alternation and interchange of the other six
 
-The series, or chain of this alternation, in its mode of application to separate effects, is no less powerful in its operation than difficult to be traced.
+Examples of this can be given only after deeper investigations of the previous 6 are done.
 
-But men are possessed with the most extreme impatience, both of such inquiries, and their practical application, although it be the clew of the labyrinth in all greater works. Thus far of the generally useful instances.
+A chain of this alternation, adapted to particular effects, is difficult to discover but very powerful in its usefulness.
+
+But men are utterly impatient both with inquiry and practice and so there are few generally useful instances.

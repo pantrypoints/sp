@@ -2,9 +2,9 @@
 title: "Newton Versus Descartes"
 heading: "Matter (Stuff) Versus Aether (Spirit)"
 date: 2024-11-23
-a: "Newton"
-c: "firebrick"
-image: /photos/physics/newton.jpg
+# a: "Newton"
+# c: "firebrick"
+image: /photos/people/descartes.jpg
 description: "In 1644, Descartes established a complete theory of gravity, saying that objects revolve around the sun at varying speeds based on their location or distance from the center vortex, represented by the sun"
 writer:
   name: Juan
@@ -78,3 +78,4 @@ These vortices act on space particles called the 2nd Element, causing dark-matte
 {{< i s="/graphics/physics/train.jpg" a="Trainwreck Cluster" >}}
 
 Had people stuck with Cartesian Physics, anti gravity technology would have been developed much sooner, likely in the 1940s-1960s since it requires electricity and electronics. 
+

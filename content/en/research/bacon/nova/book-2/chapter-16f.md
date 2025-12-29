@@ -72,3 +72,16 @@ The rules of such instances of predominance as occur should be collected: such a
 The motion of connection, for instance, which relates to the intercourse of the parts of the universe, is more powerful than that of gravity, which relates to the intercourse of dense bodies only. 
 
 Again, the desire of a private good does not in general prevail against that of a public one, except where the quantities are small. Would that such were the case in civil matters!
+
+
+
+
+## 25. Suggesting Instances
+
+{{< s v="49" >}} These point out, that which is advantageous to mankind.
+
+Bare power and knowledge in themselves exalt rather than enrich human nature.
+
+We must, therefore, select from the general store such things as are most useful to mankind.
+
+<!-- We shall have a better opportunity of discussing these when we treat of the application to practice; besides, in the work of interpretation, we leave room, on every subject, for the human or optative chart; for it is a part of science to make judicious inquiries and wishes. -->

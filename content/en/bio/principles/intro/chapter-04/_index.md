@@ -4,6 +4,6 @@ title: The Subtle and Convertible
 image: "/photos/physics/water.jpg"
 # description: The Radiant and Astral layer
 # date: 2020-10-31
-weight: 12
+weight: 14
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "4: Detention in a suitable place"
-heading: Chapter 17d
+heading: Aphorism 50d
 weight: 75
 description: "These point out, that which is advantageous to mankind."
 c: "steelblue"
@@ -10,7 +10,10 @@ author: "Francis Bacon"
 
 
 
-4. This is the very steward and almoner of nature.
+4. Detention in a suitable place
+
+
+This is the very steward and almoner of nature.
 
 <!-- by continuance -->
 

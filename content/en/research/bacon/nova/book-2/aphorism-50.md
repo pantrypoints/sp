@@ -1,43 +1,43 @@
 ---
 title: "25: Suggesting Instances"
-heading: Chapter 17
+heading: Aphorism 50
 weight: 72
 description: "These point out, that which is advantageous to mankind."
 c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
+aliases:
+  /research/bacon/nova/book-2/chapter-1
 ---
-
-
-## 25. Suggesting Instances
-
-{{< s v="49" >}} These point out, that which is advantageous to mankind.
-
-Bare power and knowledge in themselves exalt rather than enrich human nature. We must, therefore, select from the general store such things as are most useful to mankind. We shall have a better opportunity of discussing these when we treat of the application to practice; besides, in the work of interpretation, we leave room, on every subject, for the human or optative chart; for it is a part of science to make judicious inquiries and wishes.
 
 
 
 ## 26. Generally Useful instances
 
-{{< s v="50" >}} These relate to various points. 
+<!-- s v="50" >}}  -->
 
-These frequently occur, sparing by that means considerable labor and new trials.
+These frequently occur, making them easy to prove.
+- These already are in our current arts that we already use . 
 
-The proper place for treating of instruments and contrivances, will be that in which we speak of the application to practice, and the methods of experiment. 
+
+<!-- The proper place for treating of instruments and contrivances, will be that in which we speak of the application to practice, and the methods of experiment. 
 
 All that has hitherto been ascertained, and made use of, will be described in the particular history of each art.
 
-I will subjoin a few general examples of the instances in question.
+I will subjoin a few general examples of the instances in question. -->
 
-Man acts on natural bodies (besides merely bringing them together or removing them) by 7 principal methods:
 
-1. The exclusion of all that impedes and disturbs
+
+Man acts on natural bodies (besides merely bringing them together or removing them) by 7 main ways:
+
+1. by excluding all that impedes and disturbs
 2. by compression, extension, agitation, and the like
 3. by heat and cold
 4. by detention in a suitable place
 5. by checking or directing motion
 6. by peculiar harmonies
 7. by a seasonable and proper alternation, series, and succession of all these, or, at least, of some of them.
+
 
 
 ### 1. Exclusion
@@ -72,10 +72,12 @@ Another advantage of the careful and hermetical closing of bodies is this—not 
 
 For any one operating on natural bodies must be certain as to their quantity, and that nothing has evaporated or escaped, since profound alterations take place in bodies, when art prevents the loss or escape of any portion, while nature prevents their annihilation. 
 
-With regard to this circumstance, a false idea has prevailed (which if true would make us despair of preserving quantity without diminution), namely, that the spirit of bodies, and air when rarefied by a great degree of heat, cannot be so kept in by being inclosed in any vessel as not to escape by the small pores. Men are led into this idea by the common experiments of a cup inverted over water, with a candle or piece of lighted paper in it, by which the water is drawn up, and of those cups which, when heated, draw up the flesh. For they think that in each experiment the rarefied air escapes, and that its quantity is therefore diminished, by which means the water or flesh rises by the motion of connection. This is, however, most incorrect. 
+With regard to this circumstance, a false idea has prevailed (which if true would make us despair of preserving quantity without diminution), namely, that the spirit of bodies, and air when rarefied by a great degree of heat, cannot be so kept in by being inclosed in any vessel as not to escape by the small pores.
 
-The air is not diminished in quantity, but contracted in dimensions,[161] nor does this motion of the rising of the water[273] begin till the flame is extinguished, or the air cooled, so that physicians place cold sponges, moistened with water, on the cups, in order to increase their attraction.
+Men are led into this idea by the common experiments of a cup inverted over water, with a candle or piece of lighted paper in it, by which the water is drawn up, and of those cups which, when heated, draw up the flesh.
+
+For they think that in each experiment the rarefied air escapes, and that its quantity is therefore diminished, by which means the water or flesh rises by the motion of connection. This is, however, most incorrect. 
+
+The air is not diminished in quantity, but contracted in dimensions, nor does this motion of the rising of the water begin till the flame is extinguished, or the air cooled, so that physicians place cold sponges, moistened with water, on the cups, in order to increase their attraction.
 
 There is, therefore, no reason why men should fear much from the ready escape of air: for although it be true that the most solid bodies have their pores, yet neither air, nor spirit, readily suffers itself to be rarefied to such an extreme degree; just as water will not escape by a small chink.
-
-

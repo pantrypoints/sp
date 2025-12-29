@@ -1,6 +1,6 @@
 ---
 title: "3: Heat and Cold"
-heading: Chapter 17c
+heading: Aphorism 50c
 weight: 74
 description: "These point out, that which is advantageous to mankind."
 c: "steelblue"
@@ -9,17 +9,28 @@ author: "Francis Bacon"
 ---
 
 
-3. Here, man’s power limps with one leg.
 
-We have the heat of fire, which is infinitely more powerful and intense than that of the sun as it reaches us, and that of animals. 
+## 3. Heat and Cold 
 
-But we want cold,[162] except such as we can obtain in winter, in caverns, or by surrounding objects with snow and ice, which, perhaps, may be compared in degree with the noontide heat of the sun in tropical countries, increased by the reflection of mountains and walls. 
+Here, we are deficient.
 
-This degree of heat and cold can be borne for a short period only by animals, yet it is nothing compared with the heat of a burning furnace, or the corresponding degree of cold.[163] Everything with us has a tendency to become rarefied, dry and wasted, and nothing[276] to become condensed or soft, except by mixtures, and, as it were, spurious methods.
+The heat of our artificial fire is more intense than:
+- the heat of the sun that we feel
+- the warmth from animals
 
-Instances of cold, therefore, should be searched for most diligently, such as may be found by exposing bodies upon buildings in a hard frost, in subterraneous caverns, by surrounding bodies with snow and ice in deep places excavated for that purpose, by letting bodies down into wells, by burying bodies in quicksilver and metals, by immersing them in streams which petrify wood, by burying them in the earth (which the Chinese are reported to do with their china, masses of which, made for that purpose, are said to remain in the ground for forty or fifty years, and to be transmitted to their heirs as a sort of artificial mine) and the like.
+But we still cannot product cold artificially that is colder than the winter or than surrounding objects with snow and ice.
 
-The condensations which take place in nature, by means of cold, should also be investigated, that by learning their causes, they may be introduced into the arts; such as are observed in the exudation of marble and stones, in the dew upon the panes of glass in a room toward morning after a frosty night, in the formation and the gathering of vapors under the earth into water, whence spring fountains and the like.
+<!-- , which, perhaps, may be compared in degree with the noontide heat of the sun in tropical countries, increased by the reflection of mountains and walls.  -->
+
+<!-- This degree of heat and cold can be borne for a short period only by animals, yet it is nothing compared with the heat of a burning furnace, or the corresponding degree of cold.[163] Everything with us has a tendency to become rarefied, dry and wasted, and nothing[276] to become condensed or soft, except by mixtures, and, as it were, spurious methods. -->
+
+Instances of cold, therefore, should be searched for most diligently.
+
+<!-- such as may be found by exposing bodies upon buildings in a hard frost, in subterraneous caverns, by surrounding bodies with snow and ice in deep places excavated for that purpose, by letting bodies down into wells, by burying bodies in quicksilver and metals, by immersing them in streams which petrify wood, by burying them in the earth (which the Chinese are reported to do with their china, masses of which, made for that purpose, are said to remain in the ground for forty or fifty years, and to be transmitted to their heirs as a sort of artificial mine) and the like. -->
+
+The condensations which take place in nature, by means of cold, should also be investigated by learning their causes so that they may be introduced into the arts.
+
+ <!-- such as are observed in the exudation of marble and stones, in the dew upon the panes of glass in a room toward morning after a frosty night, in the formation and the gathering of vapors under the earth into water, whence spring fountains and the like. -->
 
 Besides the substances which are cold to the touch, there are others which have also the effect of cold, and condense; they appear, however, to act only upon the bodies of animals, and scarcely any further. Of these we have many instances, in medicines and plasters. 
 
@@ -62,4 +73,3 @@ Crystal is formed slowly, while glass is blown immediately.
 Stones increase slowly, while bricks are baked immediately, etc. In the meantime (with regard to our present subject) every different species of heat should, with its peculiar effects, be diligently collected and inquired into; that of the heavenly bodies, whether their rays be direct, reflected, or refracted, or condensed by a burning-glass; that of lightning, flame, and ignited charcoal; that of fire of different materials, either open or confined, straitened or overflowing, qualified by the different forms of the furnaces, excited by the bellows, or quiescent, removed to a greater or less distance, or passing through different media; moist heats, such as the balneum Mariæ, and the dunghill; the external and internal heat of animals; dry heats, such as the heat of ashes, lime, warm sand; in short, the nature of every kind of heat, and its degrees.
 
 We should, however, particularly attend to the investigation and discovery of the effects and operations of heat, when made to approach and retire by degrees, regularly, periodically, and by proper intervals of space and time. For this systematical inequality is in truth the daughter of heaven and mother of generation, nor can any great result be expected from a vehement, precipitate, or desultory heat. For this is not only most evident in vegetables, but in the wombs of animals also there arises a great inequality of heat, from the motion, sleep, food, and passions of the female. The same inequality prevails in those subterraneous[281] beds where metals and fossils are perpetually forming, which renders yet more remarkable the ignorance of some of the reformed alchemists, who imagined they could attain their object by the equable heat of lamps, or the like, burning uniformly. Let this suffice concerning the operation and effects of heat; nor is it time for us to investigate them thoroughly before the forms and conformations of bodies have been further examined and brought to light. When we have determined upon our models, we may seek, apply, and arrange our instruments.
-

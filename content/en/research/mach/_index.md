@@ -2,7 +2,7 @@
 title: "Mach, Ernst"
 heading: Unenlightened
 description: German Relativity
-c: "darkorange"
+c: firebrick
 weight: 130
-draft: true
+a: Mach
 ---

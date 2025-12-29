@@ -1,5 +1,5 @@
 ---
-heading: Chapter 1
+# heading: Chapter 1
 title: "Introduction"
 description: We explain the engineering of the human body
 image: "/photos/bio/muscle.jpg"

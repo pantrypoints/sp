@@ -12,6 +12,8 @@ aliases:
 
 In the video "Something Strange Happens When You Keep Squaring" Derek of Veritasium claims that he can turn 0.9999 to 1.
 
+{{< youtube tRaq4aYPzCc >}}
+
 His first step is convert 0.9999 to a variable k.
 
 Then he multiplies it by 10 to make 9.9999 = 10k.
@@ -34,6 +36,8 @@ Then 0.9999 is subtracted from both sides, as the main part of the scam, leaving
 
 In effect, the 0.9999 was converted to 1 by arbitrarily stripping away the decimal under the cover of whole variable.
 
+{{< i s="/photos/psych/fail.jpg" a="Scam" >}}
+
 There are so many math paradoxes caused by such intellectual scams.
 
 In fact, there is a Millennium Prize for such scam math problems. They are impossible or very difficult to solve because they are scams.
@@ -46,6 +50,15 @@ This is consistent with him lamenting the ethical standards in mathematics, purp
 
 This is the same complaint by Sabine Hossenfelder who blames math for theories that don't match evidence.
 
+
+## Update Dec 2025: The Ramanujan summation
+
+Recently a [Facebook video](https://www.facebook.com/reel/1661617388141315) showed another math scam called the The Ramanujan summation which uses the same scam by ARBITRARILY converting an *infinite* summation process into a *finite* variable in order to hack the infinite into the finite. 
+
+This scam summation leads to the Riemann Zeta Function which is part of the non-problem called Riemann hypothesis of the Millennium Prize, which strengthens our earlier assertion that the Millennium Prize is for scams. 
+
+
+
 <!-- https://www.facebook.com/share/v/1C6ExPQ8Jr/
 
 Our solution is a math that doesn't hide behind variables. For example, instead of 0.9999 = k we will use 0.9999 = repeating_decimal 
@@ -57,3 +70,4 @@ https://youtu.be/tRaq4aYPzCc?si=SRScsbFbdDa2udhu&t=271
 non-abelian Lie group
 
  -->
+ 

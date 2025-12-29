@@ -1,6 +1,6 @@
 ---
 title: "Bacteria"
-heading: Chapter 3b
+heading: Section 1
 date: 2020-01-27
 weight: 21
 image: /photos/bio/bacteria.jpg

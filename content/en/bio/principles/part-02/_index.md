@@ -5,6 +5,6 @@ image: /photos/objects/dna.jpg
 # title: The DNA and Genes
 # image: /photos/objects/dna.jpg
 date: 2020-10-31
-weight: 43
+weight: 4
 ---
 
