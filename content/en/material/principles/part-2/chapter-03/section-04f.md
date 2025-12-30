@@ -1,5 +1,5 @@
 ---
-heading: "Section 4d"
+heading: "Section 4f"
 title: "Fine Gravity: Van Der Waals Force"
 date: 2024-12-11
 weight: 18
@@ -108,25 +108,5 @@ Since G is a constant, then there is a limited weight that reverse gravity can k
 This is opposed to the electromagnetic-space family like electricity, magnetism, and microlensing
 
 Microlensing wrongly uses G and so it fails when there is no mass, leading to the false idea of dark matter -->
-
-
-
-This greatly simplifies the concept of gravity:
-
-
-Material Superphysics | Physics
---- | ---
-Material Gravity | Newtonian Gravity
-Material Gravity | Coulomb's Law
-Material Gravity | Inverse Square Law
-Fine Gravity | Van der Waals Force
-Fine Gravity | Surface Tension
-Fine Gravity | Dzhanibekov Effect
-Rotational Gravity | Dark Matter 
-Rotational Gravity | Einstein's warping of Spacetime
-Aetherspace Expansion-Contraction | Dark Energy
-Aetherspace | Strong Force
-Liquid Nature of Space Particles | Gravitational Waves
-Liquid Nature of Space Particles | Equivalence and Weak Equivalence Principles
 
 

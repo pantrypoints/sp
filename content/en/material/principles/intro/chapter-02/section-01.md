@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2"
+heading: "Section 1"
 title: "Polarities"
 # date: 2024-01-02
 image: "/photos/meta/yinyang.jpg"

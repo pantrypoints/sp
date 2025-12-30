@@ -1,6 +1,5 @@
 ---
-heading: "Chapter 2b"
-linkTitle: Sublayers
+heading: "Section 2"
 title: "The Sublayers and the Internal Boundary"
 # date: 2023-11-02
 image: /graphics/super/layers.jpg
@@ -11,6 +10,7 @@ writer:
 weight: 7
 icon: "Juan"
 ---
+
 
 
 {{< dc t="Principles (click to expand)" >}}
@@ -206,3 +206,5 @@ Such information is esssential to make a teleportation map that is already used 
 
 So you only constrain neutrino mass when you need to make a teleportation map in real-time. We explain here: https://www.youtube.com/shorts/0tCcUN9T4oQ
  -->
+
+ 

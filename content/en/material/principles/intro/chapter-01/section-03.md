@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1c"
+heading: "Section 3"
 title: "Chapter Arrangement"
 date: 2025-09-11
 image: "/photos/meta/read.jpg"
@@ -9,6 +9,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 5
 icon: "Superphysics"
+# 1c
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1"
+heading: "Section 1"
 title: "The Five Layers of Material Superphysics"
 # date: 2020-01-01
 image: "/graphics/physics/layers.jpg"

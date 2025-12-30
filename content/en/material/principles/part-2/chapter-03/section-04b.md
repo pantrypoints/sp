@@ -1,6 +1,6 @@
 ---
 heading: "Section 4b"
-title: "Material Gravity: Gravitational Constant"
+title: "Micro D Gravity: Gravitational Constant"
 date: 2024-12-11
 weight: 17
 image: /graphics/physics/grav.jpg

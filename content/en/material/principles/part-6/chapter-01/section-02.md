@@ -4,7 +4,7 @@ title: "Techniques from Material Superphysics"
 # date: 2020-01-27
 image: /graphics/physics/bob.jpg
 description: "Material Superphysics will lead to so many new techniques"
-weight: 2
+weight: 4
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

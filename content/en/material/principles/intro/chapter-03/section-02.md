@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3b"
+heading: "Section 2"
 title: "The Medium-Substance-Quantum MSQ Model"
 # date: 2023-11-26
 image: "/graphics/physics/msq.svg"
@@ -9,7 +9,10 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 9
 icon: "Juan"
+aliases:
+  /material/principles/intro/chapter-03b
 ---
+
 
 
 <!-- {{< dc t="Principles" >}}
@@ -285,3 +288,4 @@ som3 (lower proton) | Indestructible metals (Essassani)
     </tbody>
   </table>
 </div>
+

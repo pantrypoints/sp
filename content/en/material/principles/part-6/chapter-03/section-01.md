@@ -1,9 +1,9 @@
 ---
 heading: "Section 1"
-title: "Technologies from Qosts"
+title: "Technologies from Space Particles"
 # date: 2020-01-31
 image: "/photos/physics/phoenix.jpg"
-description: "The practical use of qosts is to enable levitation and teleportation technologies"
+description: "The practical use of qoses is to enable levitation and teleportation technologies"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -13,9 +13,11 @@ icon: "Juan"
 
 
 
-Spacetime technologies are those that use the Spacetime Layer as its main mechanism. That mechanism uses invisible spacetime particles caled 'qosts' or **q**uanta **o**f **s**pace-**t**ime.
+Spacetime technologies are those that use the Spacetime Layer as its main mechanism. That mechanism uses invisible spacetime particles caled 'qos' or **q**uanta **o**f **s**pace**.
 
-The practical use of qosts is to enable levitation and teleportation technologies that do not rely on lower layers such as the Radiant layer as electromagnetism (EM) or the Materal Layer as material combustion. This will lead to cheaper and faster spacetravel that is impossible with the current combustion-based technology as used by SpaceX and the Atlas rocket.
+The practical use of qoses is to enable levitation and teleportation technologies that do not rely on lower layers such as the Radiant layer as electromagnetism (EM) or the Materal Layer as material combustion. 
+
+This will lead to cheaper and faster spacetravel that is impossible with the current combustion-based technology as used by SpaceX and the Atlas rocket.
 
  <!-- which is based on the material and transformative layers. -->
 
@@ -24,9 +26,9 @@ The practical use of qosts is to enable levitation and teleportation technologie
 ![Gravity](https://sorasystem.sirv.com/graphics/grav.jpg)
 
 
-In addition, the perpetual creation or division of qosts leads to their mutual repulsion which can be tapped as a source of reliable energy. The proper control of qosts* will help make [nuclear fusion controllable](/material/principles/part-2/chapter-02).
+In addition, the perpetual creation or division of qoses leads to their mutual repulsion which can be tapped as a source of reliable energy. The proper control of qoses* will help make [nuclear fusion controllable](/material/principles/part-2/chapter-02).
 
-{{< n n="*The qosts are subordinate to the aethereal layer and so they can be controlled from that layer" >}}
+{{< n n="*The qoses are subordinate to the aethereal layer and so they can be controlled from that layer" >}}
 
 
 
@@ -69,4 +71,4 @@ It would be like cavemen preferring that all humans stay as cavemen instead of u
 
 This would happen if such caveman preferred easy skills such as hunting, gathering, and idol worship over advanced skills acquired many years from from preschool to university. 
 
-The skillset for qost and aetherial technologies require much more education than what is currently available -- it would require everyone to learn both Western and Eastern philosophy (subjective aspects of reality), on top of data science and all the fields of maths (objective aspects).
+The skillset for qos and aetherial technologies require much more education than what is currently available -- it would require everyone to learn both Western and Eastern philosophy (subjective aspects of reality), on top of data science and all the fields of maths (objective aspects).

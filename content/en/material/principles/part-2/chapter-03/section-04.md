@@ -1,6 +1,6 @@
 ---
 heading: "Section 4"
-title: "Virtual Space Particles and Vortices"
+title: "Virtual Space Particles: Displacement and Cohesion"
 # date: 2024-07-22
 weight: 14
 image: /photos/physics/whitehole.jpg
@@ -26,31 +26,53 @@ This means that all forces come from the spatial layer:
 
 ## Simplification of Gravity Effects
 
-This lets us reduce the number of concepts to the following:
+This lets us reduce dynamic gravity to 2 kinds:
+
+1. Displacement Gravity
+
+This is from the matter occupying space and displacing space particles that were in it.
+- This is from the 1st Rule of Motion as the No Void Rule
+- This drags matter towards matter as the space particles go outward in straight lines
+
+
+2. Cohesion Gravity
+
+This is from free space particles moving around in empty space in straight lines. Matter and obstacles make them switch to a collective circular motion. This is because a sphere is the shortest distance or path for straight lines. 
+- For example, a sphere on a table occupies the least contact area with the table. 
+
+
+### Versions of Gravity
+
+We create 6 gravities in accordance to the 3 gunas:
 
 Material Superphysics | Physics
 --- | ---
-Material Gravity | Newtonian Gravity
-Material Gravity | Coulomb's Law
-Material Gravity | Inverse Square Law
-Fine Gravity | Van der Waals Force
-Fine Gravity | Surface Tension
-Fine Gravity | Dzhanibekov Effect
-Rotational Gravity | Dark Matter 
+Micro Displacement Gravity | Newtonian Gravity, Inverse Square Law
+Displacement Gravity | Dark Matter
+Macro Displacement Gravity | Dark Energy, Baryonic Acoustic Oscillations
+Micro Cohesion Gravity | Van der Waals Force, Surface Tension, Dzhanibekov Effect
+Cohesion Gravity | Orbits, Galaxy Arms
+Macro Cohesion Gravity | Galaxy Clusters
+
+For brevity, we shall call them:
+- Micro D Gravity, D Gravity, Macro D Gravity
+- Micro C Gravity, C Gravity, Macro C Gravity
+
+
+<!-- Displacement Gravity | Coulomb's Law
 Rotational Gravity | Einstein's warping of Spacetime
 Aetherspace Expansion-Contraction | Dark Energy
-Aetherspace | Strong Force
-Liquid Nature of Space Particles | Gravitational Waves
-Liquid Nature of Space Particles | Equivalence and Weak Equivalence Principles
+Aetherspace | Strong Force -->
+
+The properties of space particles also give the following phenoemena:
+
+Property | Physics
+--- | ---
+Liquid Nature of Space Particles | Gravitational Waves, Equivalence and Weak Equivalence Principles
+Straight Line Motion | 
 
 
-In a nutshell, this gives us 3 matter-gravities:
-
-1. Material 
-2. Fine
-3. Rotational or Vortex
-
-This is different from radiant-gravities as magnetism, and aetherspace-gravities as inter/intramolecular and contat forces and strong force 
+These 2 gravities are different from radiant-gravities as magnetism, and aetherspace-gravities as inter/intramolecular and contat forces and strong force 
 
 Physics usually calls:
 - radiant-gravities as forces such as magnetic force 
@@ -84,11 +106,11 @@ It is more solid to create a science based on causes instead of effects.
 
 
 
-## Replacing Inertial Mass and Gravitational Mass with Rotational and Material Gravity
+## Replacing Inertial Mass and Gravitational Mass with Rotational and Displacement Gravity
 
 Physics began with Newton who did not have the concept of invisible space particles. 
 
-And so he could only base his dyanmics on visible matter. This led to the his theory of matter-based gravity which we call material gravity. 
+And so he could only base his dyanmics on visible matter. This led to the his theory of matter-based gravity which we call Displacement Gravity. 
 
 He used the simplistic concept of inertia to explain rotational gravity since he had no concept of spinning vortices which requires the concept of the 2 Forces. 
 
