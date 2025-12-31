@@ -3,7 +3,7 @@ heading: "Chapter 8"
 linkTitle: Relationalities
 title: "Convertible Relationalities"
 date: 2024-11-17
-image: /photos/psych/face.jpg
+image: /graphics/physics/feynman.jpg
 description: ""
 # . Here, we explain how reality reflects our feelings through the Physics concept of particle-spin
 writer:

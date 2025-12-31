@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 4c"
+heading: "Section 1b"
 linkTitle: Particle Shaking
 title: "Particle Shaking Versus Smashing"
 # date: 2023-10-14

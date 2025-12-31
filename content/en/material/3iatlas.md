@@ -1,6 +1,6 @@
 ---
 title: "Why 3I/ATLAS Can Revive Descartes' Physics"
-date: 2022-04-13
+date: 2025-12-20
 image: /photos/physics/comet.jpg
 description: ""
 writer:

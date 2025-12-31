@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 6"
+heading: "Section 1"
 title: "The Actions of the Material Layer"
 date: 2025-03-14
 image: /photos/physics/punch.jpg
@@ -22,27 +22,3 @@ Higher | Identity
 Middle | Solidity
 Lower | Stability
 
-
-
-<!-- ---
-heading: Chapter 6
-title: "The Fine and Hyperfine Structure of the Atom"
-# date: 2024-07-14
-image: /graphics/physics/hyperfine.jpg
-description: "The Fine"
-weight: 24
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-icon: "Juan"
-toc: false
-draft: true
----
-
-
-The Fine and Hyperfine Structure of the Atom is about its aetherspace.
-
-
-### Electron SHells as Aetherspace Orbits
-
- -->

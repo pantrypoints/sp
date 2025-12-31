@@ -1,5 +1,5 @@
 ---
-heading: Chapter 9
+heading: Section 2
 title: "The Fine and Hyperfine Structure of the Atom"
 # date: 2024-07-14
 image: /graphics/physics/hyperfine.jpg

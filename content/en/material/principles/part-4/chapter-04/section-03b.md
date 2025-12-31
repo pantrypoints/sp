@@ -1,5 +1,5 @@
 ---
-heading: "Section 2b"
+heading: "Section 3b"
 title: "The Strong CP Problem"
 date: 2025-12-24
 image: /photos/physics/elec.jpg

@@ -1,6 +1,5 @@
 ---
 heading: Chapter 1
-linkTitle: Chapter 1
 title: "The Material Layer of Superphysics"
 # date: 2020-01-27
 image: /graphics/physics/periodictable.png

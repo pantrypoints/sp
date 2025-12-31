@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1b"
+heading: "Section 4"
 title: "Contact Forces"
 # date: 2023-12-10
 image: /photos/physics/push.jpg

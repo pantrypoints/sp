@@ -1,13 +1,15 @@
 ---
-heading: Chaoter 4
-title: "Substances of the Material Layer"
-linkTitle: Material Substance
-description: "The Material Layer is the crudest layer in Existence and manifests as solid objects"
-# youtube: "0jVMiF4nKoA"
-image: "/photos/physics/push.jpg"
+heading: "Chapter 7"
+title: "The Actions of the Material Layer"
+date: 2025-03-14
+image: /photos/physics/punch.jpg
+description: "The actions of the Material Layer are "
+# . Here, we explain how reality reflects our feelings through the Physics concept of particle-spin
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-# # date: 2020-10-31
-weight: 12
+weight: 62
+icon: "Juan"
+toc: false
 ---
+

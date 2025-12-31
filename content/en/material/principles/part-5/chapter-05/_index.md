@@ -1,13 +1,14 @@
 ---
-heading: Chaoter 4
-title: "Substances of the Material Layer"
-linkTitle: Material Substance
-description: "The Material Layer is the crudest layer in Existence and manifests as solid objects"
-# youtube: "0jVMiF4nKoA"
-image: "/photos/physics/push.jpg"
+heading: "Chapter 5"
+title: "Quantum of Matter: Quarks"
+# date: 2023-10-14
+image: /graphics/physics/quark.jpg
+description: "Quarks are the quantum of matter"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-# # date: 2020-10-31
-weight: 12
+weight: 38
+icon: /icons/spmat.pn
+toc: false
 ---
+
