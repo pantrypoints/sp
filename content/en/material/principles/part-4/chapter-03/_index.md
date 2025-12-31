@@ -1,15 +1,12 @@
 ---
-heading: Part 4
-title: "The Convertible Layer (Weak Conversion Force)"
-linkTitle: Convertible
-description: "The Convertible Layer converts particles into elements and is mainly used in chemistry and nuclear physics"
-image: "/photos/physics/lab.jpg"
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-# # date: 2020-10-31
-youtube: "vPeCy4A0Cpg"
-weight: 10
+heading: Chapter 3
+linkTitle: Media
+title: "The Medium of Convertibility: Decay and Chemical Forces"
+date: 2025-09-10
+image: /photos/physics/sparks.jpg 
+description: "W and Z Bosons and intramolecular and intramolecular forces are the media for the convertible layer"
+icon: "Juan"
+weight: 6
 ---
 
 

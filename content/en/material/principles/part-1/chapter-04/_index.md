@@ -1,9 +1,13 @@
 ---
-heading: Chapter 4
-title: "The Media of the Aethereal Layer"
-linkTitle: Media
-description: "The aethereal layer is the highest and most subtle layer of reality"
-image: "/photos/idea.jpg"
-youtube: "ZM1gapf2np0"
-weight: 8
+heading: "Chapter 4"
+title: "The Substance of Aether: Nonliving Existence (SOA1)"
+# # date: 2020-01-31
+image: "/photos/physics/galaxy.jpg"
+description: "A universe is a substance of the aether"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
+weight: 12
+icon: "Juan"
 ---
+

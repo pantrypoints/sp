@@ -1,15 +1,12 @@
 ---
-heading: Part 4
-title: "The Convertible Layer (Weak Conversion Force)"
-linkTitle: Convertible
-description: "The Convertible Layer converts particles into elements and is mainly used in chemistry and nuclear physics"
-image: "/photos/physics/lab.jpg"
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-# # date: 2020-10-31
-youtube: "vPeCy4A0Cpg"
-weight: 10
+heading: "Chapter 3"
+linkTitle: Radiant Media
+title: "The Media of Radiance: Light, Magnetism, Heat"
+# # date: 2020-01-31
+# date: 2023-03-01
+weight: 6
+image: /photos/objects/magnet.jpg
+description: "The Medium of Radiance facilitates the dynamics of the radiant layer"
+icon: "Juan"
 ---
-
 

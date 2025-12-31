@@ -1,13 +1,14 @@
 ---
-heading: Chaoter 4
-title: "Substances of the Material Layer"
-linkTitle: Material Substance
-description: "The Material Layer is the crudest layer in Existence and manifests as solid objects"
-# youtube: "0jVMiF4nKoA"
-image: "/photos/physics/push.jpg"
+heading: "Chapter 3"
+linkTitle: Media of the Convertible Layer
+title: "The Media of Matter: Solid, Liquid, Gas"
+# date: 2023-12-10
+image: /photos/physics/sparks.jpg
+description: "The main media of the material layer are the contact forces that bind material molecules together as solid, liquid, gas"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-# # date: 2020-10-31
-weight: 12
+weight: 9
+icon: "Juan"
 ---
+

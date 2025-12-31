@@ -1,8 +1,8 @@
 ---
 heading: "Section 1"
-title: "Aethereal Layer Properties: Quantum Fields"
+title: "Actions of the Aether"
 date: 2024-12-10
-weight: 46
+weight: 23
 image: /graphics/physics/fabric.jpg
 description: "Aethereal Territory is the equivalent of the quantum fields in Modern Physics"
 icon: /icons/spmat.pn
@@ -10,6 +10,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
+
+
 
 
 In Modern Physics, a quantum field is a mathematical construct that exists throughout space and time.

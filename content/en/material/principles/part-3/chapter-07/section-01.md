@@ -1,17 +1,34 @@
 ---
 heading: "Section 1"
-title: "Electron Shells and Magnetic Fields"
+title: "Actions of the Radiant Layer"
 # date: 2024-07-22
+date: 2025-03-14
 weight: 26
-image: /graphics/physics/klm.jpg
-description: "Radiant Territories are the electromagentic fields of Physics."
-icon: /icons/spmat.pn
+image: /graphics/physics/waveflow.jpg
+# image: /graphics/physics/klm.jpg
+description: "Radiant Actions"
+icon: Juan
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
+
+
+The Radiant Layer has actions for each sublayer
+
+Sublayer | Action
+--- | ---
+Higher | Information
+Middle | Spread, entanglement
+Lower | Movement (straight, bending, bouncing, stopping or polarization)
+
+
+
+
+
+<!-- Electron Shells and Magnetic Fields
 
 The territory of the Radiant Layer can be divided into micro and macro.
 
@@ -35,7 +52,7 @@ These have subshells based on the how many electrons they can hold: s, p, d, f, 
 ### Magnetic Fields
 
 The interaction of virtual photons and electrons create a magnetic field.
-
+ -->
 
 <!-- som
 --- |

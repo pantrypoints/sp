@@ -1,15 +1,14 @@
 ---
-heading: Part 4
-title: "The Convertible Layer (Weak Conversion Force)"
-linkTitle: Convertible
-description: "The Convertible Layer converts particles into elements and is mainly used in chemistry and nuclear physics"
-image: "/photos/physics/lab.jpg"
+heading: "Chapter 7"
+title: "The Actions of the Spatial Layer"
+date: 2025-03-14
+image: /graphics/physics/waveflow.jpg
+description: "The actions of the c Layer are 3"
+# . Here, we explain how reality reflects our feelings through the Physics concept of particle-spin
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-# # date: 2020-10-31
-youtube: "vPeCy4A0Cpg"
-weight: 10
+weight: 26
+icon: "Juan"
+toc: false
 ---
-
-

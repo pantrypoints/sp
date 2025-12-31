@@ -23,7 +23,7 @@ Both in classical mechanics and in special relativity, we differentiate between:
 - viewpoints `K` [man outside the box]  where the laws of nature can hold relatively [affected by c]
 - viewpoints `K` [man inside the box] where those laws cannot hold relatively [insignificant to c] <!-- to which these laws do not hold -->
 
-![WTF](/graphics/wtf.png)
+![WTF](/graphics/wtf.jpg)
 
 <!-- But no person whose mode of thought is logical can rest satisfied with this condition of things. He asks=  --> 
 

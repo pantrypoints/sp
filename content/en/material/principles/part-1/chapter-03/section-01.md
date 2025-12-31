@@ -1,61 +1,83 @@
 ---
 heading: "Section 1"
-title: "Existence Space: Media of Aether 1"
+title: "Densities and Dimensions"
 # # date: 2020-01-31
 date: 2024-12-09
-image: "/photos/meta/yinyang.jpg"
-description: "The Media of Aether or Moas facilitate the effects of the aethereal layer"
+image: "/photos/meta/ghost.jpg"
+description: "Densities are the variations of wavelengths in Identity Space"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 11
+weight: 10
 icon: "Juan"
 aliases:
-  /material/principles/part-1/chapter-03
+  /material/principles/part-1/chapter-03c
 ---
 
 
 
-The Media of Aether or Moas facilitate the effects of the aethereal layer. These have 3 kinds, based on the sublayers:
+The clash of the 2 Forces leads to:
+- the 2 domains
+- the 5 layers 
+- the 3 gunas or sublayers within those layers
 
-Medium | Hindu | Buddhist | Description
+
+## The 8 Densities
+
+The gravitational signature within the identity space has differences from other signatures. These differences can be grouped into 7 as the 7 densities, with the 8th density being the totality. 
+
+Domain | Density | Name | Examples
 --- | --- | --- | ---
-Existence Space (moa1) | Mahat | Vijnana | Connects to the 5 Strata
-Identity Space (moa2) | Aham | Manas | Facilitates the continuous perceptions as qualification (e.g. feelings)
-Perception Space (moa3) | Citta | Citta | Facilitates discrete perceptions as quantification 
+Physical | 1 | Identity | quarks, photons, point-particles
+Physical | 2 | Self | rocks, asteroids
+Physical | 3 | Collective | plants, animals
+Quasi-Physical | 4 | Lower Mind | humans, intelligent beings
+Metaphysical | 5 | Higher Mind | advanced beings
+Metaphysical | 6 | Soul | spiritual beings
+Metaphysical |  7 | Brahma or Oversoul | The Supreme
+Void |  8 | Pre-Existential | The Absolute
 
 
-Unlke the lower layers where forces and particles are easily distinguishable, the media and substances in the aethereal layer is commonly mixed up. It needs more mental diligence to separate them for analysis.  
+These densities are the range that the Supreme can assume. Therefore, all identities in Existence must have a density, which is really their inherent aethereal frequency. 
+
+Material Superhysics extends only up to the 4th density as the universe itself being a lower mind or physical aspect of the Supreme.
+
+Bio Superhysics begins from the lower mind which has independent expression. 
 
 
 
-## Medium of Aether 1: Existence Space
-
-Physical perceptions are made possible by physical existence. Conversely, physical perceptions prove physical existence.
-
-Superphysics allows 2 domains, a metaphysical and a physical. 
-
-{{< i s="/graphics/super/operative.svg" a="Strata" >}}
-
-The Physical Domain is where the Negative Force dominates. This results in the limited expressiveness that we see in non-living things. 
-
-The rocks, planets, stars, and galaxies are all agents of the spatial vortices (black hole) that make up their galaxy or cluster, in the sense that they express for those vortices. 
-
-This is different from living things which express for themselves. This is  explained by Bio Superphysics.
-
-Existence space is the abstract space that includes all physical (non-independent) identities and perceptions, which includes:
-- the Identity Space
-- the Perception Space
-
-This is analogous to Mahat in Yogic philosophy and Vijnana in Buddhism.
-
-Existence space also links to:
-- the lowest Elements of Bio Superphysics
-- the lowest Strata of Spiritual Superphysics
-
-Ironically, this is not detectable by sound or any medium that has an analogy in physicality. Instead, it is only detected by the soul through knowledge or the match between the vibration of the soul and the Supreme Entity. 
 
 
-{{< d t="Update: Aug 26 2025" >}}
-Overhauled to the Existence, Identity, Perception Spaces 
-{{< /d >}}
+## The 8 Dimensions
+
+Identities with similar densities interact with each other through their relational links. 
+
+These links create an abstract strucuture that we call dimensions of reality.
+
+Since the links are dependent on density, as the vibration of the identity, then dimensions depend on density. 
+
+The subtler the density, the more dimensions are possible since the links can connect to the crude and to the subtle and everything in between.
+
+A crude density on the other hand has a very limited set of connections, leading to fewer dimensions.
+
+<!-- Dimensions are the relations of these densities with each other.  -->
+
+Dimension | Name | Manifestation
+--- | --- | ---
+1 | Existential | Identity
+2 | Planar | 2-dimensional space
+3 | Spatial | 3-dimensional space
+4 | Temporal | Time
+5 | Lateral | Alternate Realities
+6 | Multiversal | Universes in the Multiverse
+7 | Causal | Ultimate Cause
+8 | Void | Void
+
+
+For example, a rock is 2nd density and so it can experience the 3rd dimension.
+
+Living things are 3rd density and so can experience time as the 4th dimension. 
+
+Humans are 4th density and so can experience 5th dimension as alternate realities, validated through deja vu, clairvoyance, clairsentience, bilocation, telekinesis, etc. 
+
+Advanced beings, such as the Essassani, are 5th density and so can experience different universes including non physical ones. 

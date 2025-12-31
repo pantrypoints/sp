@@ -29,7 +29,7 @@ Without light, the whole universe would be black, though we could still touch so
 <!-- In terms of creation, this layer is the third layer that spreads across the space created by the spacetime layer. -->
 
 
-Attribute | Quality
+Attribute | Quality 
 --- | ---
 Name | **Radiance** (Entropy in Physics)
 Physics Name | Electromagnetism

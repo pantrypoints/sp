@@ -1,180 +1,191 @@
 ---
 heading: "Section 2"
-title: "The Sponge Universe"
-date: 2025-11-22
-image: "/graphics/physics/sponge2.jpg"
-description: "We replace the Big Bang with the Sponge Universe of Descartes"
+title: "The Multiverse as Nonliving Physical Existence (soa1)"
+# # date: 2020-01-31
+image: "/photos/physics/galaxy.jpg"
+description: "A universe is a substance of the aether"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 20
+weight: 8
 icon: "Juan"
-aliases:
-  /material/principles/part-1/chapter-04b
 ---
 
 
-Material Superphysics is based on the Aether, from Descartes' Physics (or Empedocles, or Vedic philosophy of India).
-
-This is opposite of Physics which is based on Matter, from Newton's Physics (or Democritus, or Carvaka philosophy of India. 
-
-This leads to different and opposing models for the universe.
-
-The aether is the substance of ideas, feelings, and the soul and abstract mind that has those ideas and feelings. 
-
-This means that the universe is an idea of the Supreme Mind. 
-- Ideas have a spin, as proven by the word "spin doctor"
-- Galaxies, Quasars, pulsars, stars, planets, etc are therefore big and small ideas of the Supreme
 
 
-_ | Physics | Material Superphysics 
+The idea of the totality of Physical Existence is highest part of the 5 Layers model.
+- Therefore, it is the end of Material Superphysics and the start of Spiritual Superhysics (since we associate the paranormal with spirits).
+- This links laterally with the 5 Strata of the living domain of Bio Superphysics. 
+
+{{< i s="/graphics/super/operative.svg" a="" >}}
+
+The connection of this sublayer to the metaphysical domain allows it the possibility of different ideas of universes, leading to the concept of the multiverse.  Rather, the multiverse is the material part of the Supreme Entity or Brahma or the Totality of Existence (which includes the immaterial parts).
+
+**So the mechanism for shifting into different universes lies in the upper aethereal sublayer.**
+
+This will allow a mind-identity (jiva) in one universe to shift or transfer into a different universe by using the strata in the Metaphysical Domain as a birdge. 
+
+This can be done by ships that have artificial intelligence that can tap into the subtlifying quantum (qoa1). 
+
+
+## Physical Existence is the Totality of all Physical Waves
+
+All the Media and Substances of the 5 Layers are actually waves of differnt qualities. These are all merged in soa1.
+
+- Flowing waves are from the Positive Force which always expands, unifies (connects), and goes out of itself to learn and know
+- Particles are waves that are cut or are interfered with by the Negative Force which always separates and breaks apart what the Positive puts together
+
+The eternal belligerence of the Positive and Negative creates the 4 properties of waves:
+
+
+n | Property | Force 
 --- | --- | ---
-Theory | Big Bang | Sponge 
-Element | Matter | Aether
-Mechanism | Material Gravity | Space Particles or 2nd Element
-Space | Finite | Infinite 
-Time | 13.8 billion years | Eternal 
+1 | Continuity | Positive
+2 | Density | Negative
+3 | Limit  | Negative
+4 | Forward Movement or Spread (Radiance) | Positive
 
 
-## The Fallacy of the Big Bang
+This manifests in:
 
-The Newtonian belief that gravity comes from matter leads to the idea of a material Big Bang. 
+Science | Name
+--- | ---
+Material Superhysics | 4 Laws of Thermodynamics
+Bio Superphysics | 4 Stages of life
+Supersociology | 4 Social Cycles
+Supereconomics | 4 Laws of Value
+Spiritual Superphysics | 4 Paths (bhakta, karma, jnana, raja)
 
-This was postulated by the priest George Lemaitre after atomic theory was established. 
 
-{{< q a="Georges Lemaitre" c="The Primeval Atom">}}
-In this first phase of the expansion of space, starting asymptotically with a zero radius, we have particles of enormous velocities immersed in radiation.
-{{< /q >}}
+<!-- Chapter 2 explained that the aether was split into two parts:
 
+1. Crude 
 
-This was later apparently "proven" by the cosmic microwave background which was detected many years later. 
+This is made up of moa3 as the effect of the Negative Force
 
-However, since Newton did not know the cause of gravity, then the cause of the Big Bang was also unknown. And so physicists could only guess how the universe began and how it will end. 
+2. Subtle
 
-{{< q a="Newton" c="Principia Mathematica, Book 1, Definitions" >}}
-The quantities of these centripetal forces can be called accelerative, motive, absolute.. I do not bother to know where such an absolute force come from. I just want to give them a mathematical form.
-{{< /q >}}
+This is made up of moa1 and moa2 as the effect of the Positive
 
 
-The Fallacy of the Big Bang was later seen through:
-- The Hubble Tension where the expansion of the universe was measured to have different speeds
-- James Webb Space Telescope finding 'impossible' galaxies
+Since the aether has a wave-nature, this division gives 2 properties to waves:
 
+1. Waves as crude identities
 
-## The Solution: A Sponge Universe
+As identities, we call it particles.
 
-In 1644, Descartes published his expansion theory with an analogy of a sponge:
+2. Waves as subtle flows
 
-{{< q a="Rene Descartes" c="Principia Philosophia, Part 2, Article " >}}
-A sponge full of water is different from a dry sponge because the wet sponge has wider pores. This makes its body more diffused over a larger physical space. But this does not mean that each sponge-particle has greater metaphysical space when wet than when dry. 
-{{< /q >}}
+As a flow, we call it energy. 
 
+However, to keep the proper demarcation between the physical and metaphysical domains, we call energy in the aethereal layer as "effort".  
 
-This matches the current expansion of the universe which Physics compares to a balloon expanding.
+{{< i s="/graphics/super/egl.jpg" a="Effort" c="We call aethereal energy as Effort" >}} -->
 
-{{< youtube ZvcdkNKxxoQ >}}
+<!--  which can manifest as:
+- heat
+- light
+- sound
+- feelings, etc.  -->
 
-However, we stick to a sponge analogy because the balloon analogy causes matter to expand as well. 
 
-{{< i s="/graphics/meta/space.jpg" a="Sponge" >}}
+<!-- Energy has 4 Laws based on its flow. This now manifests as the 4 Laws of Thermodynamics. Supersociology and Supereconomics use the same principle: -->
 
+<!-- to plot the cycles of society -->
 
-An expanding sponge keeps the matter of the sponge at the same density while matching the look of the cosmic web.
-- The dark holes are made up of the 2nd Element called aetherspace
-- The bright sopts and filaments are made up of the 3rd Element called matter, with the 2nd Element called space particles.
+<!-- Thermodynamics Law | Supersociology/economics Law | Meaning
+--- | --- | ---
+3rd Law | 1st Law | The wave has a base
+1st Law | 2nd Law | The wave maintains its wave-ness instead of fizzling out. This leads to our perceptions (and matter) persisting instead of vanishing instantly
+0th Law | 3rd Law (zero energy) | The wave having regular wavelengths instead of random ones. This is consistent with the previous law
+2nd Law (entropy) | 4th Law | The wave going forward. This creates the concept of linear time or perceptions coming at a sequence -->
 
-{{< i s="/graphics/physics/balloon.jpg" a="Sponge" >}}
 
-This also emphasizes the liquid property of space which manifests as:
-- gravitational waves as proven by LIGO
-- acoustic bubbles as proven by DESI as baryonic acoustic oscillations
+{{< i s="/graphics/physics/waveflow.jpg" a="Flow" >}}
 
-The sponge universe has always existed and does not have a material start. 
 
-<!-- Descartes explained that gravity comes from the aether which is the substance of ideas and souls or abstract minds. -->
+<!-- Property | Thermodynamics | Supersociology | Supereconomics 
+--- | --- | --- | ---
+Continuity or Balance | 0th law | Thinker | 3rd Law 
+Conservation | 1st law | Warrior | 2nd Law
+Spread | 2nd law  | Traders | 4th Law
+Measure or Range | 3rd law  | Worker | 1st Law -->
 
 
-## Dark Energy
 
-Instead of a material singularity, the matter in the universe comes from the energy of space. This is proven by quarks that emerge out of space as a result of excessive imposition of energy.
+{{< youtube eEGJY4F6QKw >}}
 
-The expansion is caused by 'dark energy' which we call the aetherspace which binds spacetime. 
-- These are bubbles that pop up everywhere and manifests as baryonic acoustic oscillations (BAOs).  
-- Bob Lazar calls them as Gravity-A waves, in contrast to Gravity-B which are space particles
 
-This aetherspace facilitates both large-scale phenomena as well as quantum effects, unifying Classical and Quantum Mechanics.
+<!-- - The 2nd and 1st law of thermodynamics refer to the external aspects of the wave
+- The 3rd and 0th laws refer to the internal aspects
 
+In Superphysics, the internals are the cause of the externals and so the internals are more important.
 
-{{< i s="/photos/physics/bao.jpg" a="BAOs" >}}
+In Social Superphysics, this is why the Intellectual (Thinking) and Working classes are more important than the Business (Trading) and Warrior Classes.
 
 
-## Heat Particles Solve the Hubble Tension
+### Waves as Sound The Octave vs the Pentatonic Scale
 
-<!-- The CMB as local heat of cluster/s -->
+The ancients classified these waves into 5 depending on their shapes (which represent their frequency) which will be discussed in full in the next chapter.
 
-The Hubble Tension is the difference in the expansion speed of the universe measured through red shift at 73 kilometers per second per megaparsec (measured by James Webb) and through the CMB at 67 (measured by Planck Satellite). 
+Each of the 5 layers has a sound which represents the wave of that layer. 
 
-This is easily solved through the concept of heat particles which have a shorter range than light particles. This is obviously seen in a lightbulb 300 meters away -- we can see the light, but we cannot feel its heat. 
+{{< img src="/graphics/physics/doremi.jpg" alt="Universal sounds" >}}
 
-This means that the Cosmic Microwave Background (CMB) is the heat from galaxies and space within or near our galactic cluster.
-- The CMB has a short range
-- Red shifted stars have a much longer range
+This gives us frequencies:
 
-This difference causes the Hubble Tension. 
+Element | Layer | Note | Frequency
+--- | --- | --- | ---
+Aether | Aether | Ti | ?
+Air | Spacetime | La | ? 
+Fire | Radiant | Sol | ?
+Water | Convertible | Fa | ?
+Earth | Material | Do | 130.81
 
-<!-- This is because heat particles have a shorter range than light particles because they are larger.  -->
 
+The question-marks above will test whether the following notes to impact the corresponding layer. We only could do tests on material objects and so we can set 130 Hz as the base for the rest. 
 
-This matches the findings of DESI that shows expansion is faster in the distant universe which Physics wrongly interprets as going back in time!
+The totality of the universe, combining the physical and metaphysical, have 8 tones as the octave of the Greeks and the Bagua of the Chinese.
 
-This is further consistent with the James Webb Space Telescope that found very distant galaxies already well-formed. This proves that those very distant galaxies are not ancient, but rather just very distant.
 
+These tones manifest as waves such as pulse. 
 
+By checking a patient's pulse, the traditional Chinese doctor checks the wave of that person through his own feelings. Likewise, the homeopath checks this wave through the electrical current that he runs through his patient.  -->
 
-The cause of these surprises was the false materialist belief called the [Big Bang Theory](/material/fallacies/big-bang) which says that the universe began as a primeval atom or singularity that exploded to create spacetime and the current galaxies. 
+<!-- The Greeks on the other hand, used eight sounds to represent the five layers. Three, do-re-mi (C-D-E), are for the lower three layers, while fa-so-la-ti-do (F-G-A-B) are for the spatial and aethereal layers. C and G were common in Western Classical Music.   -->
 
-Such a theory would lead to the following predictions:
-- There should be more galaxies at a certain region of the universe compared to others
-- Old galaxies should be bigger than new ones
-- Gravitational waves should be present because there was a huge singularity that created ripples in the fabric of space
-- There should be more temperature differences because of the expansion
+<!-- This sound or wave system is the only way to judge and measure the aethereal layer, as well as give the complete picture of the spatial layer. This is because light and sight are useless in the invisible aethereal layer and not 100% useful in the spatial layer.
 
-Such assumptions were destroyed by the findings of:
-- the **James Webb Space Telescope** which detected galaxies at the early universe being large instead of small
-- the **Planck satellite** which detected no gravitational waves in the CMB
-- **DESI** detecting variations in the acceleration of the expansion of space
+For example, Galileo demonstrated that two objects with different weights *visually* fall to the ground at the same time, at the same speed. However, those two objects *make different sounds*. The difference of their resulting sounds then will indicate the differences in the nature of their gravitational signature. 
 
+Layer | Transition
+--- | ---
+Aethereal | Idea into Aethereal Wave
+Spacetime | Aethereal Wave into Physical Wave
+Radiant (Electromagnetic) | Physical Wave into Emitted Particles
+Convertible | Emitted Particles into Matter
+Material | Matter into Identity
 
 
-Since the aether or 5th Element is above spacetime or the 2nd Element, then the aether is not affected by space and time. 
+The gravitational signatures can then be manipulated through particle dialectics in order to create actions. -->
 
-This means that the universe is eternal and infinite. 
 
+<!-- In Physics, this identity is known as 'unit'. 
 
-<!-- He described the expansion of space to be caused by the increase in space particles in an area without increasing the volume of matter. 
+A quantum is the smallest unit. 
 
-This forms a sponge or a web that can expand or contract. 
-- Spacetime is the dense part of the universal sponge that contains matter and light
-- The aetherspace is the thin dark part that fills the gaps -->
+And so the aether is really a quantum, leading to Quantum Physics. 
 
-<!-- i s="/graphics/physics/balloon.jpg" a="Sponge Universe" c="The data from James Webb, DESI, and the Planck satellites jointly prove the dual nature of the 2nd Element or Spatial Layer" -->
+The 3 types of Physics fits into our 5 Layer Model:
 
+Layer | Physics
+--- | ---
+Aether | Quantum Physics 
+Radiant | Einstein Physics
+Material | Classical Physics
 
-<!-- The properties of the media of the spatial layer, as space and aetherspace, lead to an eternal and infinite sponge universe. -->
-
-
-
-<!-- ## The Corruption in the Sciences
-
-The corrupted assumptions of Physics, just like the corrupted ones of Economics, create theoretical absurdities that lead to real problems.
-
-- The corrruption of Economics is the obsession with money
-- The corrruption of Physics is the obsession with visible things
-
-Physics is unable to process invisible things like spirit and mind, calling them pseudo-science. This forces them into simplistic theories that are based on visible effects instead of invisible causes:
-
-- The universe needing to have a starting day is an idea from the Bible, proposed by the priest Lemaitre as the hypothesis of the primeval atom
-
-- The force of gravity being based on matter is from Newton's ignorance on the cause of gravity
-
-These dogmas combined leads to the Big Bang theory which has been disproven by the recent data.
+However, we use the term aether in order to separate our system from the assumptions in Quantum Physics. 
+ -->
+ 
+ 

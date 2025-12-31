@@ -1,15 +1,15 @@
 ---
-heading: Part 4
-title: "The Convertible Layer (Weak Conversion Force)"
-linkTitle: Convertible
-description: "The Convertible Layer converts particles into elements and is mainly used in chemistry and nuclear physics"
-image: "/photos/physics/lab.jpg"
+heading: "Chapter 7"
+title: "Actions of the Radiant Layer"
+# date: 2024-07-22
+date: 2025-03-14
+weight: 26
+image: /graphics/physics/waveflow.jpg
+# image: /graphics/physics/klm.jpg
+description: "Radiant Actions"
+icon: Juan
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-# # date: 2020-10-31
-youtube: "vPeCy4A0Cpg"
-weight: 10
 ---
-
 

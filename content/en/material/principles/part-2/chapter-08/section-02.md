@@ -1,82 +1,104 @@
 ---
 heading: "Section 2"
-title: "Comets and Climate Change"
-# date: 2024-06-15
-image: "/graphics/physics/comets.jpg"
-description: "Here we explain how comets can lead to climate change"
-weight: 41
+title: "Radiant-Radiant Relationality"
+date: 2024-12-19
+weight: 43
+image: /graphics/physics/light.gif
+description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
 icon: "Juan"
-# linked to public
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /material/principles/part-2/chapter-09b  
 ---
 
 
+<!-- ### The Changing of Spacetime Slices Leads to Time Dilation and Length Contraction -->
 
-[Comets](https://en.wikipedia.org/wiki/Comet) are small objects that traverse a stellar system with or without an orbit, producing a 'tail' from 'outgassing'. 
+The mechanism for Radiant-Radiant relationality is the timespace which is in the moving body, with reference to the speed of light. 
 
-These are opposed to:
-- asteroids which are objects that orbit between Mars and Jupiter
-- meteors which are objects that break off from those comets and asteroids
+The constant speed of light is based on the emission source. After it is emitted, it stays constant until it hits something that can slow it down. 
 
-<!-- In Principia Mathematica, Isaac Newton tried to debunk Descartes' vortex theory by saying that the eccentricity and irregularity of a comet's orbit is not accounted for by vortex rotation:
+The big complication in Physics is that **the emission sources also move**. This leads to 2 movements:
 
+1. Movement by light from the Emission source
 
-It's clear that Newton had a deficient understanding of Descartes' 2nd Element Vortices (qosts to Superphysics) and only knows 3rd Element Vortices (qom to Superphysics which manifests as Newtonian mass). Those latter vortices are the physical masses that are already in our solar system.   -->
+This happens in the radiant layer.
 
-Both Cartesian and Newtonian Physics base the eccentricity of a comet's orbit on the comet's momentum -- there is no disagreement in that regard. We superimpose the 2 beliefs on the orbits of known comets Halley and Hayakutake below. 
+2. Movement by the Emission Source
 
-{{< img src="/graphics/physics/comets.jpg" alt="Comets Newton vs Descartes" cap="The warping of General Relativity is the bending caused by the vortex. In other words, Cartesian Physics unites Newton and Einstein into a single set of coherent principles" >}}
+This happens in the material layer. These 2 movements create a ratio between each other. 
+- This ratio is the `√(1-0.5c)2/c2` that adjusts the apparent length of the moving source. 
 
+This phenomena is called **invariance** by Modern Physics.
+- This invariance is the foundation of our timespace particle which is determined by the emitter or observer.  
 
-
-Somehow, Newton attacks the Cartesian system by imagining that a Spacetime Vortex (represented by our solar system) will force a comet into a circular orbit instead of an elliptical one.
-
-{{< q a="Newton" c="Principia Mathematica, General Scholium" >}}
-The motions of the comets are exceedingly regular, are governed by the same laws with the motions of the planets, and can by **no means** be accounted for by the hypothesis of vortices.
-
-Comets are carried with **very eccentric** motions through all parts of the heavens indifferently, with a freedom that is incompatible with the notion of a vortex.  
-{{< /q >}}
-
-
-But that will be the logic of someone who does not know that **the comet's entry momentum into Solar System 1 is dictated by the Solar System 2 where it exited**. 
+This can be visualized by 2 flashlights, both 1 meter, emitting light in empty space.
+- Flashlight 1 is stationary
+- Flashlight 2 is moving at half the speed of light
+  - This makes it seem that it is trying to catch up with the light that it emitted
 
 
-## How a Comet Traverses Solar Systems
 
-When comet `2` (along orange line below) enters `Stellar System F`, its momentum comes from the qosts that push it from `Solar System S` that it just exited. 
+{{< i s="/graphics/physics/length.jpg" a="Length contraction" >}}
 
-{{< img src="/graphics/physics/vortices.jpg" alt="Comets in Solar Systems" cap="The a single set of coherent principles" >}}
+This gives an apparent length of 0.866 meters to flashlight 2 
 
-This literally adds matter, as mass, to `Stellar System F` and reduces them in `Solar System S`. This creates gravitational changes in both systems because there is no void either. 
+{{< i s="/graphics/physics/light.gif" a="Length contraction" >}}
 
-- The comet will either pass through `Solar System 1` if the momentum from its speed is strong enough to resist the speed of the qosts from `Stellar System F`.
-- The comet will fall into an eccentric orbit if its speed is not faster than those of `Stellar System F`. This is similar to failing the escape velocity in a planet. 
+<!-- {{< youtube 9jVyoe8tiCI >}} -->
 
+<!-- A key component of Einstein's Relativity is time dilation and length contraction.
 
-## Climate Change
-
-The entry of a comet increases:
-- the mass within a solar system in proportion to the comet's size
-- the gravitational displacement, from the displaced qost, in proportion to the comet's speed.
-  - A fast bowling ball can topple more pins than a very slow one 
-
-Atmospheric events are primarily affected by gravitational effects of the spatial layer and only secondarily affected by the heat and magnetism of the radiant layer.  
-
-In fact, it is gravity from mosts that keeps our atmosphere where it is. 
-- The atmosphere of Mars was taken away by planetary bodies, such as large asteroids or planetoids, that passed near it.  
+We define:
+- space as the gap within perception 
+- distance as the gap between 2 identities 
+- timespan as the gap between 2 perceptions
+- time as the gap between perceptions in general 
+- time dilation as the increase of timespan within time 
+- length contraction as the decrease of distance within space
 
 
-A comet coming near a planet will alter its atmospheric conditions. 
+We take the variables L, v, and c. 
+
+`L-UFO` is the length or space occupied by a very fast moving body per unit of time. 
+
+`L-you` is its occupied space from your non-moving perspective.
+
+`v` is its velocity.
+
+`c` is the maximum speed within physical spacetime.
+
+The square root of this ratio is then applied to the occupied space that you see.
+
+The faster it is, the less its occupied space because the more it assumes the nature of the upper elements as light, spacetime, or the aether.
+
+This means that there are many things moving faster than light that are not material nor electromagnetic. 
+
+We put these into our relation.
+
+We put the length from its material perspective. Then add its velocity ratio squared. 
+
+Then impose that spacetime onto the object to get the contracted length. -->
 
 
-<!-- This is a problem because all spacetime in that solar system **has to rearrange to accomodate the increase**. 
+### Special Relativity as the Changing of Spacetime Slices Listed in Francis Bacon Tables
 
-This means that planets get an extremely tiny added push since gravity is a push-force from external spacetime. 
+Physics judges things based on their speed and movement. However, Superhysics judges speed and movement based on their layer.
 
-This added push might be enough to affect a planet's atmosphere which is the first planetary region affected by the push.  -->
+In the future, anti-gravity technology will be available and a ship will find itself moving through space with various objects moving at different speeds.
 
-This then might lead to changes in weather or climate while that comet is within the solar system. This is why comets are associated with climate change more than asteroids or meteorites since the latter are not "foreigners" to the solar system.
+This is similar to video games. However, a video game crash is not fatal, but a real crash is. So the physics that enables anti-gravity via spatial relationality should also reduce the chances of fatal crashes. 
 
-This is possibly how the [Great Comet of 1472](https://en.wikipedia.org/wiki/Great_Comet_of_1472) could have contributed to the cold spell from 1430s and how those of 1556 and 1577 caused that of the 1560s. 
+For this, we suggest a machine learning system that plots the relationalities in real-time, as Francis Bacon Tables.
 
-Newton and Einstein did not know the mechanics of space particles and so could not connect comets to climate change.
+
+<!-- The sequential speed of light is the maximum speed achievable by the Radiant Layer. 
+
+The maximum speed of the Convertible Layer is a bit slower and that of the Material Layer is the slowest.  
+
+For example, the max speed of light is 300,000,000 m/s. But the max speed of a proton in an actual collider is only 31,400,000 m/s.
+
+So length contraction and time dilation are not effects of speed, but of the Element of the identity.  -->
 

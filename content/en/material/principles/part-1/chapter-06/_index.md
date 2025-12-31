@@ -1,9 +1,12 @@
 ---
-heading: Chapter 4
-title: "The Media of the Aethereal Layer"
-linkTitle: Media
-description: "The aethereal layer is the highest and most subtle layer of reality"
-image: "/photos/idea.jpg"
-youtube: "ZM1gapf2np0"
-weight: 8
+heading: "Chapter 6"
+title: "The Conservation of Idea or Identity"
+# date: 2024-08-01
+weight: 17
+image: /graphics/physics/layers.png
+description: "Each of the 5 Layers implements a Conservation Law in order to maintain the balance in the universe"
+icon: "Juan"
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 ---

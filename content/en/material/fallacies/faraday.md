@@ -2,7 +2,7 @@
 # heading: "Chapter 7b"
 title: "Faraday's Paradox"
 date: 2025-01-26
-image: "/graphics/physics/induction.jpg"
+image: "/photos/physics/electricity.jpg"
 description: "Quantum Tunneling and Nuclear Fusion are made possible by the most3"
 writer:
   name: Juan
@@ -33,6 +33,9 @@ Cartesian Physics explains that:
 This is why the speed and angle of the wire relative to the magnet are important.
 
 Faraday's ignorance of virtual photons and channels led to Faraday's Paradox, which is easily resolved by Cartesian channels
+
+![Wire](/photos/physics/electricity.jpg) 
+
 
 You would think that Maxwell would fix it by adding the concept of either [vortices](https://en.wikipedia.org/wiki/Quantum_vortex) or channels, something that is now standard in superconductors. 
 

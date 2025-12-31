@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 6b"
+heading: "Section 2"
 title: "Vortex Spin"
 # date: 2024-08-01
 weight: 44

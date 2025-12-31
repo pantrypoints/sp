@@ -3,7 +3,7 @@ title: "The Fallacy of Special Relativity for Electromagnetism"
 description: "Electromagnetism is caused by channels, not by length contraction"
 date: 2024-12-02
 # weight: 32
-image: "/graphics/physics/em.jpg"
+image: "/photos/objects/superconductor.jpg"
 icon: "Juan"
 weight: 
 writer:
@@ -61,6 +61,9 @@ But in Cartesian paradigm, electromagnetism is created by electricity creating s
 This principle is most obvious in superconductors wherein straight channels are created by removing the heat that usually agitates and de-aligns particles (freezing does not create relativistic length contraction).
 
 Since straight channels, and not length contraction, is the key to magnetism, then cheaper superconductors can be created by aligning particles through the aether instead of through the lack of heat.
+
+{{< i s="/photos/objects/superconductor.jpg" a="Superconductor" >}}
+
 
 It is really the recent idea of virtual particles, as an consequence of quantum mechanics, that explained the cause of electromagnetism.
 - Descartes called this virtual particle as striated 1st Element matter.

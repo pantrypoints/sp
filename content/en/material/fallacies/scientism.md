@@ -2,7 +2,7 @@
 title: "Science Versus Scientism"
 date: 2024-09-06
 # weight: 2
-image: /graphics/wtf.png
+image: /graphics/wtf.jpg
 description: "Science is pure objectiveness. The problem is that the universe is subjective and its core is actually paradoxical"
 writer:
   name: Juan

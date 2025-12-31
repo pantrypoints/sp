@@ -21,7 +21,7 @@ Most people comment that we are crackpots and our posts are pseudoscience even i
 So we dissect the Crackpot Index that Redditors claim is the basis for such brandings. Basically it gives points for each statement that does not align with the current dogma of the religion of Physics, just as Galileo did not align with Catholic dogma.
 
 
-{{< i s="/photos/physics/priest.jpg" a="Priest" c="A common pattern with Physics-defenders is their blind admiration for Einstein even if he was the one who caused Physics to get stuck in the first place with his Simultaneity of Time scam" >}}
+{{< i s="/photos/people/einstein.jpg" a="Priest" c="A common pattern with Physics-defenders is their blind admiration for Einstein even if he was the one who caused Physics to get stuck in the first place with his Simultaneity of Time scam" >}}
 
 <!-- ![Einstein Priest](/photos/physics/priest.jpg) -->
 

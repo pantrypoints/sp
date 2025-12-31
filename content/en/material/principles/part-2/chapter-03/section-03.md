@@ -41,7 +41,7 @@ There is only local motion*. Local motion is the action by which a body migrates
 This leads to Cartesian Relativity. 
 
 
-2. Sudden or Teleportative or sTrue Motion
+2. Sudden or Teleportative or True Motion
 
 This is sudden or arbitrary motion. 
 

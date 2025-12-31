@@ -55,7 +55,7 @@ admit that  -->
 
 ![Einstein Con-man](/icons/einbla.png)
 
-![WTF](/graphics/wtf.png)
+![WTF](/graphics/wtf.jpg)
 
 {{< n n="WTF!!! Gravity is not equivalent to the Second or Third Law of Newton! When our car moves forward and we are pushed back by inertia, we never say that there was gravity behind the car! " >}}
 

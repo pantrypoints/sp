@@ -22,12 +22,3 @@ Electron | 0.5 MeV
 Muon | 105.66 MeV
 Tau | 1.777 MeV 
 
-
-### The Radiant Internal Boundary: Higgs Field
-
-The Higgs Field gives electromagnetic potential to radiant particles. 
-
-Physics says that this gives mass to particles. However, in Material Superphysics, this cannot be because mass is the amount of matter in a body and is from the aetherspace around quarks.
-
-Rather, the Higgs Field condenses radiant waves into non-media particles such as into electrons. 
-

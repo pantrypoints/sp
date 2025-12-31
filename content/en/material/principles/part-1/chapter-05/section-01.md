@@ -1,217 +1,175 @@
 ---
-heading: "Chapter 4"
-title: "The Substance of Aether: Nonliving Existence (SOA1)"
-# # date: 2020-01-31
-image: "/photos/physics/galaxy.jpg"
-description: "A universe is a substance of the aether"
+heading: "Section 1"
+title: "The Quantum of Aether: Monads"
+# date: 2023-12-10
+date: 2014-08-01
+weight: 2
+image: /graphics/physics/monad.jpg
+description: "The Quantum of Aether is divided into 3 groups"
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 18
-icon: "Juan"
 ---
 
 
-The substance of the aether is identity which is within existence. Identities put together creates relations between identities. This leads to the 3 sublayers of the substance of the aether:
+
+{{< youtube ZM1gapf2np0 >}}
+
+The Quantum of aether (qoa) is the monad. It is the smallest unit of an aethereal substance which takes the form of the universe.
+
+The best explanation for a qoa is the Prime Radiant of the alien race called the Essassani. However, many people are allergic to the idea of aliens, so we use humans sources as:
+- Leibniz
+- Pythagoras
+- Kepler 
 
 
-Name | Quality
+According to Pythagoras and Kepler, motion is sourced from an invisible, immaterial "monad".
+
+
+{{< q a="Diogenes" >}}
+According to Pythagoras, the monad was the beginning of everything. From the monad proceeds an indefinite duad, which is subordinate to the monad. From the monad and the indefinite duad proceed numbers. From numbers proceed signs. From signs come lines which make up plane shapes. From plane shapes come solid bodies. From solid bodies come sensible bodies. These have 4 elements: fire, water, earth, and air.
+{{< /q >}}
+
+
+Pythagoras | Material Superphysics
 --- | ---
-Physical Existence `soa1` | This is the idea of nonliving physical existence (as opposed to living existence of Bio and Social Superphysics)
-Identity `soa2` | This leads to particle shapes
-Relation `soa3` | This leads to action and forces
-
-<!-- Everything that we perceive, from the lower mind, or conceive, from the higher mind, is an aethereal object which can be either be dynamic or static. 
-- If it is dynamic then it is a medium. Dynamism comes from the relations of identities.
-- If it is static then it is idea or content. Staticity comes from identity, as separation by the Negative Force
- -->
-
-In a nutshell:
-- The idea of Existence is the unity of all ideas
-- The idea of Identity is the individualization of ideas
-  - This individualization or separation is caused by the Negative Force just as the merging is from the Positive Force
-  - We can say that making an effort to organize all ideas into a system or science is from the Positive Force just as ignorance of unity or organization is from the Negative 
-- Relations are the connections between ideas
+monad | monad
+duad | 2 domains (dualistic existence)
+numbers | identity
+signs | timespace
+lines and shapes | aetherspace (Cartesian extension)
+solid bodies | spacetime
 
 
-The Existence is theoretical as Pre-Existence. 
-
-It becomes actual existence as SOA3 or reality.
+{{< i s="/graphics/physics/monad.jpg" a="Monad" >}}
 
 
-## The Multiverse as Nonliving Physical Existence (soa1)
 
-The idea of the totality of Physical Existence is highest part of the 5 Layers model.
-- Therefore, it is the end of Material Superphysics and the start of Spiritual Superhysics (since we associate the paranormal with spirits).
-- This links laterally with the 5 Strata of the living domain of Bio Superphysics. 
+### The 3 Gunas 
 
-{{< i s="/graphics/super/operative.svg" a="" >}}
-
-The connection of this sublayer to the metaphysical domain allows it the possibility of different ideas of universes, leading to the concept of the multiverse.  Rather, the multiverse is the material part of the Supreme Entity or Brahma or the Totality of Existence (which includes the immaterial parts).
-
-**So the mechanism for shifting into different universes lies in the upper aethereal sublayer.**
-
-This will allow a mind-identity (jiva) in one universe to shift or transfer into a different universe by using the strata in the Metaphysical Domain as a birdge. 
-
-This can be done by ships that have artificial intelligence that can tap into the subtlifying quantum (qoa1). 
+We combine this with Asian philosophy to say that monads vibrate in 3 ways according to the 3 influences or gunas:
 
 
-## Physical Existence is the Totality of all Physical Waves
-
-All the Media and Substances of the 5 Layers are actually waves of differnt qualities. These are all merged in soa1.
-
-- Flowing waves are from the Positive Force which always expands, unifies (connects), and goes out of itself to learn and know
-- Particles are waves that are cut or are interfered with by the Negative Force which always separates and breaks apart what the Positive puts together
-
-The eternal belligerence of the Positive and Negative creates the 4 properties of waves:
-
-
-n | Property | Force 
---- | --- | ---
-1 | Continuity | Positive
-2 | Density | Negative
-3 | Limit  | Negative
-4 | Forward Movement or Spread (Radiance) | Positive
-
-
-This manifests in:
-
-Science | Name
+Influence | Position 
 --- | ---
-Material Superhysics | 4 Laws of Thermodynamics
-Bio Superphysics | 4 Stages of life
-Supersociology | 4 Social Cycles
-Supereconomics | 4 Laws of Value
-Spiritual Superphysics | 4 Paths (bhakta, karma, jnana, raja)
+Subtlifying | Above the gravitational signature
+Transformative | Within the gravitational signature
+Crudifying | Below the gravitational signature
 
 
-<!-- Chapter 2 explained that the aether was split into two parts:
-
-1. Crude 
-
-This is made up of moa3 as the effect of the Negative Force
-
-2. Subtle
-
-This is made up of moa1 and moa2 as the effect of the Positive
+These monads then make up the aether particles as the substance of the aethereal layer. The quality of these monads then build the strength, dynamism, and size of the particles in the layers below the aethereal. 
 
 
-Since the aether has a wave-nature, this division gives 2 properties to waves:
-
-1. Waves as crude identities
-
-As identities, we call it particles.
-
-2. Waves as subtle flows
-
-As a flow, we call it energy. 
-
-However, to keep the proper demarcation between the physical and metaphysical domains, we call energy in the aethereal layer as "effort".  
-
-{{< i s="/graphics/super/egl.jpg" a="Effort" c="We call aethereal energy as Effort" >}} -->
-
-<!--  which can manifest as:
-- heat
-- light
-- sound
-- feelings, etc.  -->
+{{< q a="Rene Descartes" c="The World Simplified" >}}
+Every substance has one principal attribute.
+- Mind-substances have thinking as their one principal attribute.
+- Body-substances have extension as their one principal attribute.
+Thus:
+- extension in length, width, and depth, constitutes the nature of corporeal substance.
+- thought is the nature of thinking substance
+{{< /q >}}
 
 
-<!-- Energy has 4 Laws based on its flow. This now manifests as the 4 Laws of Thermodynamics. Supersociology and Supereconomics use the same principle: -->
+In ancient natural philosophy, the aether was called the 'substance' that filled all of Existence. 
 
-<!-- to plot the cycles of society -->
+Since it is two layers above the radiant layer which facilitates sight and touch, then it is not visible nor tangible.
 
-<!-- Thermodynamics Law | Supersociology/economics Law | Meaning
---- | --- | ---
-3rd Law | 1st Law | The wave has a base
-1st Law | 2nd Law | The wave maintains its wave-ness instead of fizzling out. This leads to our perceptions (and matter) persisting instead of vanishing instantly
-0th Law | 3rd Law (zero energy) | The wave having regular wavelengths instead of random ones. This is consistent with the previous law
-2nd Law (entropy) | 4th Law | The wave going forward. This creates the concept of linear time or perceptions coming at a sequence -->
+It is detected in 2 ways:
 
+1. Directly through intution
 
-{{< i s="/graphics/physics/waveflow.jpg" a="Flow" >}}
+Intuitional detection of the aether is explained by Bio Superphysics. 
 
+2. Indirectly through patterns from the visible layers 
 
-<!-- Property | Thermodynamics | Supersociology | Supereconomics 
---- | --- | --- | ---
-Continuity or Balance | 0th law | Thinker | 3rd Law 
-Conservation | 1st law | Warrior | 2nd Law
-Spread | 2nd law  | Traders | 4th Law
-Measure or Range | 3rd law  | Worker | 1st Law -->
+This will be done in Material Superphysics through Qualimath.
+
+{{< q a="Leibniz" c="Monadology, Part 1">}}
+Monads must have some qualities otherwise they would not be beings at all.. Every monad is necessarily different from every other monad.. Created monads have within themselves a certain perfection and self-sufficiency which makes them the source of their internal actions and incorporeal automata.
+{{< /q >}}
 
 
+<!-- Kepler lists 5 kinds of monads: 2 are of the immaterial category and 3 are material. Instead of calling them cube, tetrahedron, etc we call them do, re, mi, sol, la, as Pythagoras' "sesquialter" and the Chinese pentatonic scale. 
 
-{{< youtube eEGJY4F6QKw >}}
+"Do" is the monad of planets, "Sol" is the monad of stars such as our sun. Thus, "La" is the monad of galaxies.
 
+Kepler calls the gravity between the monads as "kinship". -->
 
-<!-- - The 2nd and 1st law of thermodynamics refer to the external aspects of the wave
-- The 3rd and 0th laws refer to the internal aspects
+<!-- Instead of using light as a yardstick, Kepler uses the gravitational relativity between two monads. There are 20, such as:
+- Do-Do
+- Do-Re
+- Do-Mi
+- etc. 
 
-In Superphysics, the internals are the cause of the externals and so the internals are more important.
+Newton's Gravity is therefore `Do-Do` and `Do-Sol`. 
 
-In Social Superphysics, this is why the Intellectual (Thinking) and Working classes are more important than the Business (Trading) and Warrior Classes.
+Einstein's Special Relativity is `Mi-Mi` and `Mi-Re`. 
 
+General Relativity is `Mi-Do` and `Mi-Sol`.
 
-### Waves as Sound The Octave vs the Pentatonic Scale
+Identities are created as an effect of the Negative Force splitting up waves into discrete quanta.
 
-The ancients classified these waves into 5 depending on their shapes (which represent their frequency) which will be discussed in full in the next chapter.
+This is to facilitate a clearer perception of that identity or part of Nature as separate and unique from other parts. 
 
-Each of the 5 layers has a sound which represents the wave of that layer. 
-
-{{< img src="/graphics/physics/doremi.jpg" alt="Universal sounds" >}}
-
-This gives us frequencies:
-
-Element | Layer | Note | Frequency
---- | --- | --- | ---
-Aether | Aether | Ti | ?
-Air | Spacetime | La | ? 
-Fire | Radiant | Sol | ?
-Water | Convertible | Fa | ?
-Earth | Material | Do | 130.81
+This means that the uniqueness of everything in the universe is caused by Negativity. 
 
 
-The question-marks above will test whether the following notes to impact the corresponding layer. We only could do tests on material objects and so we can set 130 Hz as the base for the rest. 
+## Gravitational Signatures
 
-The totality of the universe, combining the physical and metaphysical, have 8 tones as the octave of the Greeks and the Bagua of the Chinese.
+This uniquness of each identity is embodied in its gravitational signatures, which are inherently negative. 
 
+Uniqueness creates differences which usually become belligerent or fricitional against each other, unless the Positive Force dominates.
 
-These tones manifest as waves such as pulse. 
+With the Positive Force, the uniqueness is harmonized with those of others. This then leads to diversity. 
 
-By checking a patient's pulse, the traditional Chinese doctor checks the wave of that person through his own feelings. Likewise, the homeopath checks this wave through the electrical current that he runs through his patient.  -->
-
-<!-- The Greeks on the other hand, used eight sounds to represent the five layers. Three, do-re-mi (C-D-E), are for the lower three layers, while fa-so-la-ti-do (F-G-A-B) are for the spatial and aethereal layers. C and G were common in Western Classical Music.   -->
-
-<!-- This sound or wave system is the only way to judge and measure the aethereal layer, as well as give the complete picture of the spatial layer. This is because light and sight are useless in the invisible aethereal layer and not 100% useful in the spatial layer.
-
-For example, Galileo demonstrated that two objects with different weights *visually* fall to the ground at the same time, at the same speed. However, those two objects *make different sounds*. The difference of their resulting sounds then will indicate the differences in the nature of their gravitational signature. 
-
-Layer | Transition
---- | ---
-Aethereal | Idea into Aethereal Wave
-Spacetime | Aethereal Wave into Physical Wave
-Radiant (Electromagnetic) | Physical Wave into Emitted Particles
-Convertible | Emitted Particles into Matter
-Material | Matter into Identity
+For example, without harmonization, hydrogen stays alone. But thanks to harmonization, there can exist various compounds such as:
+- Water (H2O)
+- Hydrochloric acid (HCl)
+- Methane (CH4)
 
 
-The gravitational signatures can then be manipulated through particle dialectics in order to create actions. -->
+
+## Monads make up an Aether particle and the Gravitational Signature
+
+Gravitational signatures are made up of monads just like a QR code is made up of black ink on paper or pixels on the screen.
+
+![QR Code](/icons/qr.png)
+
+- If the black ink is the monad as moa3, then its paper is physical existence or moa1
+- If the pixels are the monad, then its background is physical existence
 
 
-<!-- In Physics, this identity is known as 'unit'. 
+Since monads are subjective and not objective, they are explained by Superphysics, not by Material Superphysics.
 
-A quantum is the smallest unit. 
+The only concept that we need to know is that a monad makes up an aether particle. It is the aether that makes up all other particles. 
 
-And so the aether is really a quantum, leading to Quantum Physics. 
 
-The 3 types of Physics fits into our 5 Layer Model:
+Layer | Aether Content
+--- | --- |
+Aethereal | 5
+Spatial | 4
+Radiant | 3
+Convertible | 2
+Material | 1
 
-Layer | Physics
---- | ---
-Aether | Quantum Physics 
-Radiant | Einstein Physics
-Material | Classical Physics
+This is why we call the Aether as the 5th Element or Layer, and Matter as the 1st. 
+- The waves more obviously take on a particle-shape and behavior from the Radiant Layer to the Material.
+- The waves stay as waves in the Aethereal and Spatial Layers.
 
-However, we use the term aether in order to separate our system from the assumptions in Quantum Physics. 
- -->
- 
+
+### The Gravitational Signatures or Dharma as the center of the Sublayers 
+
+Each particle represents a wave. Each wave moves up and down, as amplitude, from its zero level.
+
+We call this zero or average level as the **central signature or dharma** for that wave.
+
+This means that a wave has 3 kinds depending on its relation to that central signature. It can be:
+- above that level
+- within that level
+- below that level 
+
+{{< i s="/graphics/physics/sub.jpg" alt="Sublayers" c="The material waves are most obvious to humans which are also made up of material bodies" >}}
+
+These lead to 3 subelements or sublayers for each Element or Layer.
+-->

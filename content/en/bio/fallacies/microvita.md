@@ -32,7 +32,7 @@ enzymes are able to control biochemical reactions forwards-in-time (from real pa
 
 To which we say:
 
-![WTF!](/graphics/wtf.png)
+![WTF!](/graphics/wtf.jpg)
 
 
 For some reason, the authors adopt the Aristotlean and Einsteinian way of thinking to allow time to go backwards. They then impose it on PR Sarkar's Microvita theory. 

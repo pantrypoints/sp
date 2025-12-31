@@ -1,15 +1,14 @@
 ---
-heading: Part 4
-title: "The Convertible Layer (Weak Conversion Force)"
-linkTitle: Convertible
-description: "The Convertible Layer converts particles into elements and is mainly used in chemistry and nuclear physics"
-image: "/photos/physics/lab.jpg"
+heading: "Chapter 2"
+# linkTitle: Sublayers
+title: "The Upper, Middle, and Lower Radiance"
+# date: 2023-12-10
+image: /graphics/physics/magnetboat.jpg
+description: "The Upper Radiant is the realm of the multiverse."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-# # date: 2020-10-31
-youtube: "vPeCy4A0Cpg"
-weight: 10
+weight: 4
+icon: "Juan"
 ---
-
 

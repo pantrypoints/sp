@@ -8,6 +8,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 # weight: 40
+image: "/photos/people/einstein.jpg"
 icon: "Juan"
 ---
 
