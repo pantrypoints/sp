@@ -3,6 +3,9 @@ heading: Chapter 17
 title: "The Institution Of Government"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 68
 date: 2025-01-11
 icon: Rousseau

@@ -3,6 +3,9 @@ heading: Chapter 18
 title: "How To Check The Usurpations Of Government"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 84
 date: 2025-01-11
 icon: Rousseau

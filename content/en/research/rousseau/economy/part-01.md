@@ -3,6 +3,9 @@ heading: Part 1
 title: "What is Economy?"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 6
 date: 2025-01-11
 ---

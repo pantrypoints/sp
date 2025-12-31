@@ -3,6 +3,9 @@ heading: Chapter 8
 title: "All Forms Of Government Do Not Suit All Countries"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 19
 date: 2025-01-11
 icon: Rousseau

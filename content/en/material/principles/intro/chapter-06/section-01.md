@@ -1,127 +1,96 @@
 ---
 heading: "Section 1"
-title: "Polarities"
+title: "The Conservation Laws"
 # date: 2024-01-02
-image: "/photos/meta/yinyang.jpg"
-description: "The 2 Forces of Positive and Negative create a duality in the physical domain"
+image: "/graphics/physics/layers.png"
+description: "Each identity has a gravitational signature which explains its purpose or use in Nature"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 6
+weight: 20
 icon: "Juan"
 ---
 
 
-{{< dc t="Principles" >}}
-Principles | Assertions
+Each of the 5 Layers (Elements in Cartesian Physics) implements a Conservation Law in order to maintain the balance in the universe because:
+- our universe is really one Supreme Entity, as a single unit
+- a change in one aspect or part affects the whole  
+
+
+{{< q a="Rene Descartes" c="Principia Philosophia, Article 42" >}}
+[The 2nd Rule of movement] proves immutability of God's operation, conserving the world now with the same action with which He once created it. God from the start moved its various particles in different ways and arranged them so that some particles would impel others and transfer their motions to them. He conserves motion by letting those motions pass from one to another as they encounter each other. Thus, this continuous alteration of creatures itself is an argument for the immutability of God.
+{{< /q >}}
+
+
+This leads to 5 Conservation Laws, 1 for each Layer.
+
+Layer | Conservation Law
 --- | ---
-The 2 Forces in Physical Reality | This manifests as polarities in the 5 Layers
-{{< /dc >}}
+Aethereal | Idea or Identity
+Spatial | Momentum
+Radiant | Energy 
+Convertible | Aether 
+Material | Mass
 
+{{< i s="/graphics/physics/layers.png" a="Conservation Laws" >}}
 
-The 2 Forces act on each layer to create internal polarities
+Each law has its implementing rules which will be discussed in each Part for each layer. 
 
-This leads to vibrational waves that manifests as vortex rotation.
+In summary:
+- the singleness of the Supreme means that a change in one part *affects* all others.
+- this affecting of parts is called relationality
+- the job of relationality is to conserve the singleness of the unit
 
-These vibrations lead to 3 states as positive, netural, and negative.
+Modern Physics sees the Conservation Laws as the effect of Symmetry. 
+- Physics is therefore wrongly seeing the effect as the cause. 
 
-An identity can spin independently of others, or have its spin match those of others. 
+In contrast, Material Superphysics sees physical constants and the fundamental forces (i.e. Standard Model) as the Effect of Conservation Laws which in turn are the effect of the Supreme Entity being a single entity. 
 
-- If it spins dependently, then it sticks with the collective
-- If it spins independently, then it stands out and is perceptible out of the mass or collective that it is in
-
-If it spins independently, then it can either:
-- dominate the collective, or
-- be booted out
-
-If it dominates then it makes the collective subservient to it. This will make them revolve around its spin. In the large scale this manifests as quasars.
-
-It can also dominate others while keeping the same spin direction. This manifests as galaxies in the large scale .
-
-
-{{< youtube cQtvHmgQtng >}}
-
-If booted out, then it will naturally settle in a place where it can harmonize with its surrounding particles. In the spatial layer, this facilitates the expansion of the universe.
-
-It follows that a vortex is formed from energy imbalance, when one particle is stronger than the rest.
-
-This means not all phenoena has vortices. The Positive and Negative thus express themselves differently when there is a vortex or no vortex.
-
-<!-- This is described by the 4th Rule of Cartesian Motion which is about the presence of absence of vortices. 
-
-This allows us an easier way to classify the polarities in phenomena so that all phenomena happen:
-
-1. Independently
-
-This is when the identity is alone. This leads to vortex-less phenoemena. This is Negative.
-
-2. Dependently
-
-This is when the identity is not alone. This leads to vortex phenoemena. This is Positive. -->
-
-
-Layer | Positive | Negative
---- | --- | ---
-Probability | Existing | Non-Existing
-Aethereal Vortex | Dharmic | Adharmic
-Aethereal Vortexless | Dynamic | Static 
-Spatial Vortex |  Anticlockwise Rotation | Clockwise Rotation
-Spatial Vortexless | High Pressure | Low Pressure
-Radiant Vortex | Male Charge | Female Charge
-Radiant Vortexless | Particle Spin 1/2 | Particle Spin 1 or 0 
-Convertible Vortex | Left-Handed | Right-Handed
-Convertible Vortexless | Reaction | Non-Reaction
-Material Vortex | Matter | Antimatter
-Material Vortexless | Gas | Solid
+{{< i s="/graphics/physics/symmetry.svg" a="Physics vs Superphysics" >}}
 
 
 
-{{< i s="/graphics/physics/neutralcharge.gif" a="Positive and Negative" >}}
+## The Law of Conservation of Identity
+
+This is the Material Superphysics version of the Law of Conservation of Idea of Superphysics.
+
+This operates in the aethereal layer and is the foundation of the gravitational signature which this law says must be unique. 
+
+This then leads to movement as those signatures adhere to this law in the physical domain.
 
 
-In the Probability Layer, this manifests as the possibility of being perceived or non-being perceived.
+## The Law of Conservation of Momentum 
 
-<!-- > e.g. "Unicorns do not exist. Horses do." -->
+This operates in the spatial layer and is the foundation of Descartes' 4 Rules of Motion which are the implementing rules for this law.
 
-
-In the Aethereal Layer, this manifests as:
-- creative or destructive.
-- energetic or non-energetic.
-
-<!-- > e.g. "Evolution speeds up the more aether that you have." -->
+We can say that the rules of motion are the implementing rules for this law. 
 
 
-In the Spatial Layer, this manifests as:
-- clockwise supermassive blackholes called quasars and anticlockwise ones as galaxies
-- gravity and lack of gravity
+## The Law of Conservation of Energy
 
-<!-- > e.g. "A quasar is brighter than a galaxy" -->
+This operates in the radiant layer and is already well known in Physics. Energy is the crudified and more obvious version of momentum.
 
-
-In the Radiant Layer, this manifests as:
-- a male charge for the negative charge in Physics, and female charge for the positive charge
-- particle spin 0 and 1, versus 1/2, 3/2, 5/2
+This actually changes the energy from electromagnetic to material motion. For example, a generator converts electromagnetic force into physical motions. 
 
 
-<!-- > e.g. "Like charges (male and male, female and female) repel." -->
+## The Law of Conservation of Aether 
+<!-- Substance -->
+
+This operates in the convertible layer which facilitates chemical changes and "flavor changing" which then creates the diversity of the material layer below it. 
+
+This is because the Conversion layer converts matter into energy and vice versa. 
+
+Flavor changing is a good and natural word for this layer because traditionally this was called the Water Element. 
+
+It is the wetness of water and liquids that allows both:
+- the perception of tastes by our tongue
+- the detection of neutrinos by large liquid detectors
 
 
-In the Convertible Layer, this manifests as:
-- left- and right-handed helicity
-- reaction and non-reaction
+## The Law of Conservation of Mass
 
-<!-- . This is required in 'weak' interaction or flavor changing which we call conversion. 
+This operates in the material layer and is already well known in Physics. 
 
-> e.g. "All neutrinos are left-handed and undergo flavor changing." -->
+Matter is facilitated by the static aetherspace and is the most crudified version of the aether. 
 
 
-In the Material Layer, this manifests as:
-- matter versus antimatter
-- solids versus gases
-
-<!--  color charge and anti-color charge. This is required for antimatter. 
-
-> e.g. "Matter is annihilated when it meets antimatter." -->
-
-
-The details of each duality will be explained in each Part. 

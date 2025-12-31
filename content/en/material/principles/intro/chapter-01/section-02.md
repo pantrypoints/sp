@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1b"
+heading: "Section 2"
 title: "Active and Passive Detection"
 date: 2025-01-31  
 image: "/photos/objects/apples2.jpg"

@@ -1,8 +1,7 @@
 ---
-heading: "Chapter 7"
-title: "Actions of the Layers"
+heading: "Section 1"
+title: "Spin or Effort"
 # date: 2022-01-03
-# image: /graphics/physics/gr.jpg
 image: /graphics/super/impact.jpg
 description: "In Superphysics, each layer has specific actions"
 writer:
@@ -12,6 +11,8 @@ weight: 24
 icon: "Juan"
 toc: false
 ---
+
+
 
 
 ## Spin or Effort
@@ -106,3 +107,4 @@ But this material force is not so relevant to radiant objects such as light whic
 {{< d t="Update: Sept 11, 2025" >}}
 Overhauled action to connect to relationality, impact, and force
 {{< /d >}}
+

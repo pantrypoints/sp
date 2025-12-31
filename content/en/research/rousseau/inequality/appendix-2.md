@@ -3,6 +3,9 @@ heading: Appendix 2
 title: "Luxury is the greatest of all evils"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 34
 date: 2025-01-11
 ---

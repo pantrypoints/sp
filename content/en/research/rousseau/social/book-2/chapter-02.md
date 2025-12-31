@@ -3,6 +3,9 @@ heading: Chapter 2
 title: "Sovereignty Is Inalienable"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 6
 date: 2025-01-11
 ---

@@ -3,6 +3,9 @@ heading: Chapter 10
 title: "The People"
 description: "By the social compact we have given the body politic existence and life."
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 16
 date: 2025-01-11
 ---

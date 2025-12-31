@@ -3,6 +3,9 @@ heading: Chapter 3
 title: "The Right of the Strongest"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 8
 date: 2025-01-11
 icon: Rousseau

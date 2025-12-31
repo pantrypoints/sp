@@ -1,11 +1,18 @@
 ---
-heading: Chapter 1
+heading: Chapters 1-3
 title: "The General Will Is Indestructible"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 4
 date: 2025-01-11
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 ---
+
 
 
 
@@ -77,7 +84,8 @@ There are two general rules that may serve to regulate this relation. First, the
 [2] At Genoa, the word Liberty may be read over the front of the prisons and on the chains of the galley-slaves. This application of the device is good and just It is indeed only malefactors of all estates who prevent the citizen from being free. In the country in which all such men were in the galleys, the most perfect liberty would be enjoyed.
 
 
-### CHAPTER 3: ELECTIONS
+
+## CHAPTER 3: ELECTIONS
 
 In the elections of the prince and the magistrates, which are, as I have said, complex acts, there are two possible methods of procedure, choice and lot. Both have been employed in various republics, and a highly complicated mixture of the two still survives in the election of the Doge at Venice.
 

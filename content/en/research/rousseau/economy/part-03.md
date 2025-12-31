@@ -3,6 +3,9 @@ heading: Rule 2
 title: "Rule 2: Make the Particular Wills Conform with the General Will"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 12
 date: 2025-01-11
 ---

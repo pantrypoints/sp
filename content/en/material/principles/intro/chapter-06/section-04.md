@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 6c"
+heading: "Section 4"
 title: "Gravitational Signatures"
 # date: 2022-01-03
 image: /graphics/super/egl.jpg
@@ -10,8 +10,8 @@ writer:
 weight: 23
 icon: "Juan"
 toc: false
-# aliases:
-#   /material/signature
+aliases:
+  /signature
 ---
 
 

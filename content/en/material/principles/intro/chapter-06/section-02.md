@@ -1,210 +1,85 @@
 ---
 heading: "Section 2"
-title: "The Sublayers and the Internal Boundary"
-# date: 2023-11-02
-image: /graphics/super/layers.jpg
-description: "The Sublayers are due to the 3 influences"
+title: "Constants as Ratios Between Layers"
+# date: 2022-01-03
+image: /photos/physics/neutrino.jpg
+description: "Constants as Ratios Between Layers"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 7
+weight: 22
 icon: "Juan"
+# was 6b
 ---
 
 
 
-{{< dc t="Principles (click to expand)" >}}
-Principles | Assertions
---- | ---
-There are 5 Layers in Reality | Each Layer has 3 Sublayers Representing 3 Influences 
-{{< /dc >}}
+The constants in Nature are the fixed ratios between the 5 Layers. 
 
 
-Chapter 1 explained that the universe is made up of waves categorized into 5 layers. 
 
-Each wave moves up and down, as a result of the belligerence of the Positive and Negative Forces, from its zero level.
+## The Internal Boundary Constant: 241,056
 
-We call this zero or average level as the **central signature or dharma** for that wave.
+The easiest ratios are for the internal boundaries and the highest quantum for each layer which we peg to approximately 241,056:
 
-This means that a wave has 3 kinds depending on its relation to that central signature. It can be:
-- above that level -- we call this the subtlifying influence (sattvaguna)
-- within that level -- we call this the transformative influence (rajoguna)
-- below that level -- we call this the crudifying influence (tamoguna)
+Bondary (value) | Quantum (value) | Ratio
+--- | --- | --- 
+Edge of Universe (93b light years) | Average Size of Galaxy (300m light years) | approx 310,000 
+Higgs Boson (125.35 GeV) | Electron (0.511 MeV) | 245,303 (5131355 base 6)
+X17 (17 MeV) | Electron Neutrino (0.07 MeV) |242,857 (511,2201)
 
-{{< i s="/graphics/physics/sub.jpg" alt="Sublayers" c="The material waves are most obvious to humans which are also made up of material bodies" >}}
+<!-- converter 241,056 -->
 
-These [3 influences](/superphysics/principles/chapter-06b/) produce the 3 sublayers:
-- upper
-- middle
-- lower
+<!-- 9,192,631,770 : 299,792,458 gives ratio 30.6633189885 -->
 
 
-For example, the Material layer will have 3 sublayers with each with its own force or media, and quantum:
+## Spatial-Radiant: 30.6633
 
-Layer | Sublayer | Medium | Quantum
---- | --- | --- | ---
-Aethereal | Upper | mom1 (gas, bose condensate) | qom1 (Up-Down Quarks)
-. | Middle | mom2 (liquid) |  qom2 (Strange-Down Quark)
-. | Lower | mom3 (solid) | qom3 (Top-Bottom Quark)
+For example, a well-known constant is the speed of light (Radiant) which is the distance that it travels in 1 second (Spatial) which is really 9,192,631,770 vibrations of the Cesium 55 atom. 
 
+This gives a ratio of 30.6633
 
-{{< img src="/graphics/physics/msq.svg" alt="Layers and sublayers in the MSQ table" cap="Each Layer is subdivided into 3 sublayers" >}}
+Here, the choice of time length is arbitrary, which is really based on the rotation of the Earth divided into seconds.
 
+<!-- So the higher layer is the Spatial which is used to judge the Radiant, as light, as it moves in 1 unit of time.  -->
 
-## The Internal Boundary
 
-Within the sublayers is an internal boundary that separates the upper from the middle and lower sublayers. 
+## Material-Spatial
 
-- Above the boundary, the sublayer has more quasi-physical than physical properties. 
-- Below the boundary, the sublayer has more physical ones. 
+Subordinate movemment leads to circles and curves from a central point. This leads to circular ratios:
 
-For example, a well known boundary is the Higgs Field which we regard as the internal boundary within the Radiant Layer.
+<!-- 1 second is based on a constant of oscillations of the Cesium atom (Material) when put under microwave radiation (Radiant). 
 
-- Below the Higgs Field, particles acquire measurable **potential energy**, called mass in Modern Physics, in Million electron Volts or MeV.  
-- Above the Higgs Field, particles such as photons and 'gravitons' have no mass. This is because particles above the boundary are kinetic instead of potential. 
+And so the Physics measure for the universe is based on the Material Layer.  -->
 
+Constant | Value | Meaning
+--- | --- | --- 
+Pi | 3.14.. | Vortex
+Golden Ratio | 1.618 | Loose Vortex
+Gravity | (6.6743 ± 0.00015) × 10−11 m3 kg−1 s−2 | Material-Spatial
+Fine Structure Constant | 0.00729927007 | Radiant-Aetherspace
 
-This gives us 5 Boundaries:
+<!-- Speed of light | 299,792,458 | | Radiant-Spatial 
+Second | 9,192,631,770 Hz | | Radiant-Material -->
 
-Boundary | Physics Name | Description
---- | --- | ---
-Aethereal Internal Boundary (aib) | Edge of Identity | Separates aethereal identities that can be split up
-Spatial Internal Boundary (sib) | Edge of Universe | Separates space from aetherspace
-Radiant Internal Boundary (rib) | Higgs Field | Separates identities with potential energy
-Convertible Internal Boundary (cib) | X17 | Separates left-hand-interacting identities 
-Material Internal Boundary (mib) | ? | Separates "protons" from "mesons"
+<!-- Beam of Cesium Atoms:
+    Cesium atoms are heated and passed through a vacuum chamber.
 
+Microwave Field Exposure:
 
-<!-- identities with can be further split up (manifesting as splitting up)  that can be split up by antimatter -->
-<!-- 
-Energy and the 2 Forces manifest via Media differently in the 5 layers and each of the sublayers.
+    The atoms are exposed to microwaves at different frequencies.
+If the frequency exactly matches the natural resonance of cesium, atoms will absorb energy and transition between energy states.
 
-Sublayer | Quantum | Media | 2 Forces
---- | --- | --- | ---
-Upper Aethereal | Mind  | Sound | Existence or Nonexistence
-Middle Aethereal | Qoa (Idea) | Sound | Consonance or Dissonance
-Lower Aethereal | Thought | Sound | Consonance or Dissonance
-Upper Spatial | Metaphysical Spacetime (Multiverses) |  |  
-Middle Spatial | Galactic Qost | Universe | Fast or slow
-Lower Spatial | Qost | Space and time within a universe | Gravity or Anti-gravity
-Upper Radiant | Muon | Mor1 (Infrared) | Bright or Dark
-Middle Radiant | Electron | Mor2 (Visible Light) | Energetic or non-energetic
-Lower Radiant | Tau | Mor3 (UV Light) | Magnetic or Nonmagnetic
-Upper Convertible | Z Boson |  |  
-Middle Convertible | W- Boson | Radioactivity | Persistence or Decay
-Lower Convertible | W+ Boson |  | 
-Upper Material | Up Quark | Gas | Persistence | Blue Charge
-Middle Material | Down Quark | Liquid | Persistence | Green Charge
-Lower Material | Strange Quark | Solid | Persistence | Red Charge
- -->
+Detecting the Transition:
 
-<!-- Layer | Energy | Manifestation
---- | --- | ---
-Upper Aethereal | Strength of idea or feeling | 
-Lower Aethereal | Strength of idea or feeling | Sound
-Upper Spatial | Strength of a vortex (black hole) | Gravity
-Lower Spatial | Strength of a vortex (black hole) | Gravity
-Upper Radiant | Energy in a photon or electron | Heat and Light
-Lower Radiant | Energy in a photon or electron | Heat and Light
-Upper Convertible | Energy in a W Z boson | Stability
-Convertible | Energy in a W Z boson | Stability
-Material | Energy in an atomic nucleus | Identity -->
+    A magnetic filter removes atoms that didn’t transition.
 
+    A detector counts how many atoms changed states.
 
-## The Hierarchy of the Layers
+    The experiment is repeated at slightly different frequencies until the maximum transition is observed.
 
-From the Medium-Substance-Quantum (MSQ) Table in Chapter 3, we can deduce that everything in existence has varying degrees of the following qualities:
+Finding the Exact Frequency:
 
-Layer | Quality
---- | --- 
-Aethereal | Audibility or Harmony 
-Spatial | Contact
-Radiant | Visible Form
-Convertible | Stability
-Material | Identifiability
+    The frequency that causes the maximum transition is determined to be 9,192,631,770 Hz.
 
-
-The layers work in a hierarchy.
-- The aether is the most superior and subtle
-- Matter is the most inferior and crude. 
-
-This hierarchy explains why gravity affects light and heat, but light and heat does not affect gravity. 
-
-For example, adding heat to a rock will not make it float. Shining light on a rock will reveal its identity, but not make it heavier or lighter.
-
-<!-- In Social Superphysics, this is why those who know the 5 Layers (or 5 Elements) tend to be non-democratic. This is because, in order to full utilize or maximize the benefits of Nature's hierarchy, wild democracy has to be stamped out. This increases the chances for 'Golden Ages' in a civilization.
-
-In Bio Superphysics, this hierarchy principle manifests as Homeopathy or Chinese medicine having less bad side effects than Western Medicine.  -->
-
-
-### Cleaning Up The Sciences
-
-Science was created by the Europeans who built knowledge from the bottom material layer -- the most inferior but most obvious one. 
-
-From the bottom, they worked their way up:
-
-Layer | European Discovery
---- | ---
-Matter | Contact Forces, Monetary Systems
-Convertible | Chemistry and Nuclear Reactions
-Radiant | Electricity, International Finance
-
-
-This led to a messy, fragmented, and non-intuitive system of knowledge. For example:
-- Physics is now split into Particle Physics and Quantum Physics
-- Medicine is split into Western Medicine and Alternative Medicine 
-- Economics is split into Microeconomics, Macroeconomics, Behavioral Economics, Welfare Economics, etc. 
-
-We clean up this mess by:
-- putting all knowledge into the 5 Layers, and
-- adding the 2 Forces as its operators.
-
-These then create everything in reality.
-
-
-
-## Organization of the 5 Layers in This Work
-
-The principles of Material Superphysics is organized under the following headings which become Chapters.
-
-
-Chapter | Description
---- | ---
-1 | Intro
-2 | Sublayers
-3 | Medium
-4 | Substance
-5 | Quantum
-6 | Conservation, Spin
-7 | Action
-8 | Relationality
-
-
-<!-- planet rotation speed = inherent vortex
-atmosphere rotation speed = sun's vortex 
-magnetic field core --> 
-
-<!-- https://www.youtube.com/watch?v=C2rNu_PfItk
-
-The error begins in 7:00 when neutrinos are equated to hot dark matter. 
-
-In Cartesian Physics, neutrinos would be the Water Element now called Weak Force. This is why neutrinos are revealed by liquids. 
-
-CDM are space particles of 2nd Element or Air, now called Gravitation. 
-
-CDM and neutrinos go together in Flamingo simulations because water needs air. 
-
-The aether 5th Element has a liquid nature. This is why there is an association with variable dark energy with variable neutrino mass, as opposed to material and electromagnetic masses which are fixed. 
-
-Rather, it is better to say that the mass of neutrinos are irrelevant, and so constraining their mass is useless. 
-
-This is because neutrinos use their 'mass' to propel themselves within the 2nd Element. 
-
-The main purpose of neutrinos is to provide supplementary information to photon information. This is consistent with the ANITA neutrinos. 
-
-Such information is esssential to make a teleportation map that is already used by UFOs. 
-
-So you only constrain neutrino mass when you need to make a teleportation map in real-time. We explain here: https://www.youtube.com/shorts/0tCcUN9T4oQ
- -->
-
- 
+    This means one second is defined as the time it takes for cesium-133 to oscillate exactly 9,192,631,770 times. -->

@@ -3,6 +3,9 @@ heading: Chapter 5
 title: "Aristocracy"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 14
 date: 2025-01-11
 icon: Rousseau

@@ -3,6 +3,9 @@ heading: Chapter 1
 title: "Dedication To The Republic Of Geneva"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 2
 date: 2025-01-11
 ---

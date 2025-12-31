@@ -3,6 +3,9 @@ heading: Chapter 10
 title: "The Abuse Of Government And Its Tendency To Degenerate"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 27
 date: 2025-01-11
 ---

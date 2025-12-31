@@ -3,6 +3,9 @@ heading: Chapter 7
 title: "Mixed Governments"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 16
 date: 2025-01-11
 icon: Rousseau

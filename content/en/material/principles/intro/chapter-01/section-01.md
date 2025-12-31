@@ -2,7 +2,7 @@
 heading: "Section 1"
 title: "The Five Layers of Material Superphysics"
 # date: 2020-01-01
-image: "/graphics/physics/layers.jpg"
+image: "/photos/meta/5elements.jpg"
 description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
 writer:
   name: Juan

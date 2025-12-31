@@ -3,6 +3,9 @@ heading: Chapter 9
 title: "The Marks Of A Good Government"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 24
 date: 2025-01-11
 ---

@@ -3,6 +3,9 @@ heading: Chapter 4
 title: "The Limits Of The Sovereign Power"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 10
 date: 2025-01-11
 ---

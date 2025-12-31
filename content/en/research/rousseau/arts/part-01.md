@@ -3,6 +3,9 @@ heading: Part 1
 title: "Has The Restoration Of The Arts And Sciences Had A Purifying Effect on Morals?"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 4
 date: 2025-01-11
 ---

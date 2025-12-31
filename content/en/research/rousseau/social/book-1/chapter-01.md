@@ -3,6 +3,9 @@ heading: Chapters 1-2
 title: "Men are Slaves"
 description: "Man is born free yet everywhere he is in chains."
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 6
 date: 2025-01-11
 icon: Rousseau

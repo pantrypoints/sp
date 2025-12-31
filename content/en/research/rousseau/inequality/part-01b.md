@@ -3,6 +3,9 @@ heading: Part 1b
 title: "Savage Man"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 8
 date: 2025-01-11
 ---

@@ -3,6 +3,9 @@ heading: Chapter 16
 title: "The Institution Of Government Is Not A Contract"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 64
 date: 2025-01-11
 ---

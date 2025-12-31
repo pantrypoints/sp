@@ -1,8 +1,11 @@
 ---
-heading: Chapter 5
+heading: Chapter 7
 title: "The Censorship"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 14
 date: 2025-01-11
 ---

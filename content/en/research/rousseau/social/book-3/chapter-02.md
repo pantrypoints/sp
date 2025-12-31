@@ -3,6 +3,9 @@ heading: Chapter 2
 title: "The Constituent Principle In The Various Forms Of Government"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 8
 date: 2025-01-11
 icon: Rousseau

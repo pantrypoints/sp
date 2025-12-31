@@ -3,6 +3,9 @@ heading: Part 2
 title: "We Must Always Go Back To A First Convention"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 10
 date: 2025-01-11
 ---

@@ -1,13 +1,13 @@
 ---
-heading: "Chapter 4"
-title: "Technologies from the Spatial Layer"
-# date: 2023-12-10
-image: "/photos/physics/gauge.jpg"
-description: "The practical use of qors is to light-based technologies"
+heading: "Chapter 3"
+title: "Density and Dimension"
+# date: 2023-11-26
+date: 2025-12-05
+image: "/photos/objects/balls.jpg"
+description: "Heat particles are of medium size. Like virtual photons, this allows them to piggy back on space particles whith are larger and cause spatial forces."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 28
+weight: 11
 icon: "Juan"
 ---
-

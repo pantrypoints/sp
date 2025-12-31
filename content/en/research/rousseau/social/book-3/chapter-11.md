@@ -3,6 +3,9 @@ heading: Chapter 11
 title: "The Death Of The Body Politic"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 34
 date: 2025-01-11
 ---

@@ -3,6 +3,9 @@ heading: Chapter 8
 title: "Civil Religion"
 description: ""
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 19
 date: 2025-01-11
 ---

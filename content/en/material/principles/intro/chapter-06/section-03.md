@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 6b"
+heading: "Section 4"
 title: "Constants as Ratios Between Layers"
 # date: 2022-01-03
 image: /photos/physics/neutrino.jpg
@@ -9,6 +9,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 22
 icon: "Juan"
+# was 6b
 ---
 
 The constants in Nature are the fixed ratios between the 5 Layers. 

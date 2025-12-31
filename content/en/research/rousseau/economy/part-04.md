@@ -3,6 +3,9 @@ heading: Part 4
 title: "Rule 3: Provide for the public wants"
 description: "Provision for the public wants is an obvious inference from the general will"
 c: "firebrick"
+writer:
+  name: Rousseau
+  url: https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 weight: 14
 date: 2025-01-11
 ---
