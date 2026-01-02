@@ -37,7 +37,7 @@ pagerSize = 24
       ]
     [languages.en.params]
       flag = "/flags/gb.png"
-      title = "Superphysics: Science Merged with Metaphysics"
+      title = "Superphysics: Natural Science Merged with Metaphysics"
       subtitle = "A New Science Based on Waves, Socratic Dialectics, and Cartesian Physics for Solving Problems"
       youtube = "mNwyj7WHKKo"
 

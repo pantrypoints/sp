@@ -138,7 +138,7 @@ Mycenaeans). However, he never did discover the real name of
 these people, and, as mentioned, it remains unknown to this day
 —despite more than a century of continuous excavation not only
 at Knossos but at numerous other sites on Crete as well.17
-48
+
 Evans uncovered numerous imports from Egypt and the Near
 East at Knossos, including an alabaster lid inscribed in
 hieroglyphs with “the good god, Seweserenre, son of Re,
@@ -146,6 +146,8 @@ Khyan.”18 Khyan, one of the best-known Hyksos kings, ruled
 during the early years of the sixteenth century BC. His objects
 have been found across the ancient Near East, but how this lid got
 to Crete is still a mystery.
+
+
 Of additional interest is an Egyptian alabaster vase found
 many years later during another archaeologist’s excavation in a
 tomb at the site of Katsamba on Crete, one of the port cities on

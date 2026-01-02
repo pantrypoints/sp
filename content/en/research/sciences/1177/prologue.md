@@ -1,8 +1,9 @@
+---
+title: Prologue
+weight: 4
+c: darkslategray
+---
 
-
-PROLOGUE
-THE COLLAPSE OF CIVILIZATIONS:
-1177 BC
 
 The warriors entered the world scene and moved rapidly,
 leaving death and destruction in their wake. Modern scholars
@@ -413,5 +414,3 @@ coalesced to create a “perfect storm” that brought this age to an
 end. However, in order to understand the enormity of the events
 that took place around 1177 BC, we have to begin three centuries
 earlier.
-
-

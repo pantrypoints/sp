@@ -1,15 +1,13 @@
 ---
 heading: Chapter 1
-title: 
+title: "Act I Of Arms And The Man: The Fifteenth Century Bc"
 weight: 4
 # author: Cronin
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
 
-ACT I OF ARMS AND THE MAN: THE FIFTEENTH CENTURY BC
 
 In about the year 1477 BC, in the city of Peru-nefer in the Nile delta of Lower Egypt, quite close to the Mediterranean Sea, Pharaoh Thutmose III ordered the construction of a grand palace with elaborate frescoes.
 
@@ -95,29 +93,13 @@ their towns and burned their homes to reddened ruin-heaps forever, because of th
 themselves to hearken to the call of the Asiatics, (who) had forsaken Egypt their
 mistress!6
 
-And, with that, the Egyptians expelled the Hyksos from the
-land. They fled back to Retenu (one of the ancient Egyptian names
+With that, the Egyptians expelled the Hyksos from the land. They fled back to Retenu (one of the ancient Egyptian names
 for modern-day Israel and Syria, the same general area also
 known to the Egyptians as Pa-ka-na-na, or Canaan). The
 Egyptians, meanwhile, established the Eighteenth Dynasty, begun
 by Kamose’s brother Ahmose, which initiated what we now call
 the New Kingdom period in Egypt.
 
-Avaris and the rest of Egypt were rebuilt during this period,
-and Avaris itself was renamed. By the time of Hatshepsut and
-Thutmose III some sixty years later, ca. 1500 BC, it was once
-again a flourishing city, this time known as Peru-nefer, with
-palaces decorated with Minoan-style frescoes depicting bullleaping and other scenes more clearly at home on Crete in the
-Aegean than in Egypt proper. One archaeologist has speculated
-that there may even have been a royal marriage between an
-Egyptian ruler and a Minoan princess.7 There are certainly a
-number of later Eighteenth and Nineteenth Dynasty Egyptian
-pharaohs who married foreign princesses, primarily to cement
-diplomatic bonds or a treaty with a foreign power, as we shall see
-below, but it is not necessary to invoke politically instigated
-marriages to explain the occurrence of Minoan wall paintings in
-Egypt, since there is other independent evidence for contacts
-between the Eastern Mediterranean, Egypt, and, in this case, the
-Aegean.
+Avaris and the rest of Egypt were rebuilt during this period, and Avaris itself was renamed. By the time of Hatshepsut and Thutmose III some sixty years later, ca. 1500 BC, it was once again a flourishing city, this time known as Peru-nefer, with palaces decorated with Minoan-style frescoes depicting bullleaping and other scenes more clearly at home on Crete in the Aegean than in Egypt proper.
 
-
+One archaeologist has speculated that there may even have been a royal marriage between an Egyptian ruler and a Minoan princess.7 There are certainly a number of later Eighteenth and Nineteenth Dynasty Egyptian pharaohs who married foreign princesses, primarily to cement diplomatic bonds or a treaty with a foreign power, as we shall see below, but it is not necessary to invoke politically instigated marriages to explain the occurrence of Minoan wall paintings in Egypt, since there is other independent evidence for contacts between the Eastern Mediterranean, Egypt, and, in this case, the Aegean.

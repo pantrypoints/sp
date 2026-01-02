@@ -1,25 +1,26 @@
+---
+heading: Epilogue
+title: "The Aftermath"
+weight: 400
+# author: Cronin
+# description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
+# image: "/covers/assembly.png"
+c: darkslategray
+---
 
 
 
-EPILOGUE THE AFTERMATH
+
 
 For more than 300 years during the Late Bronze Age—from about the time of Hatshepsut’s reign beginning about 1500 BC until the time that everything collapsed
-after 1200 BC—the Mediterranean region played host to a
-complex international world in which Minoans, Mycenaeans,
-Hittites, Assyrians, Babylonians, Mitannians, Canaanites,
-Cypriots, and Egyptians all interacted, creating a cosmopolitan
-and globalized world system such as has only rarely been seen
-before the current day.
+after 1200 BC—the Mediterranean region played host to a complex international world in which Minoans, Mycenaeans, Hittites, Assyrians, Babylonians, Mitannians, Canaanites, Cypriots, and Egyptians all interacted, creating a cosmopolitan and globalized world system such as has only rarely been seen before the current day.
 
-It may have been this very
-internationalism that contributed to the apocalyptic disaster that
-ended the Bronze Age. The cultures of the Near East, Egypt, and
-Greece seem to have been so intertwined and interdependent by
-1177 BC that the fall of one ultimately brought down the others,
+This very internationalism that contributed to the apocalyptic disaster that ended the Bronze Age. The cultures of the Near East, Egypt, and
+Greece seem to have been so intertwined and interdependent by 1177 BC that the fall of one ultimately brought down the others,
 as, one after another, the flourishing civilizations were destroyed
 by acts of man or nature, or a lethal combination of both.
-However, even after all that has been said, we must
-acknowledge our inability to determine with certainty the precise
+
+However, even after all that has been said, we must acknowledge our inability to determine with certainty the precise
 cause (or multitude of causes) for the collapse of civilizations and
 the transition from the end of the Late Bronze Age to the Iron Age
 in the Aegean and Eastern Mediterranean, or even to definitively

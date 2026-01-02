@@ -1,3 +1,14 @@
+---
+heading: Chapter 1
+title: "Flashback: Mesopotamia And The Minoans"
+weight: 4
+# author: Cronin
+# description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
+# image: "/covers/assembly.png"
+c: darkslategray
+---
+
+
 CHAPTER THREE
 
 ACT III FIGHTING FOR GODS AND COUNTRY: THE THIRTEENTH CENTURY BC
