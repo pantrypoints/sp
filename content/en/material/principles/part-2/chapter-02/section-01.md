@@ -18,9 +18,9 @@ The upper sublayer is quasi-physical, while the lower is physical.
 
 Sublayer | Physicality | Medium | Substance | Quantum 
 --- | --- | --- | --- | ---
-Upper | Quasi-physical | Timespace | Time | Universal Black Hole
-Mid | Physical | Aetherspace | Black Holes |  Galactic Black Holes (Dark Matter)
-Lower | Physical | Spacetime | Space | Stellar Black Hole (Orbital Gravity and Surface Tension)
+Upper | Quasi-physical | Timespan | Time | Universal Black Hole
+Mid | Physical | Aetherspace | Black Holes |  Galactic Black Holes
+Lower | Physical | Spacespan (Distance) | Space | Stellar Black Hole
 
 
 The Upper Spatial is not purely physical as it is the realm of:
@@ -32,7 +32,22 @@ The Middle Spatial is the non-observed physical, as the aetherspace. Examples ar
 - the dark areas of the cosmic web
 - the probabilistic space inside an electron and proton 
 
-The Lower Spatial is the realm that we can see as spacetime
+The Lower Spatial is the realm that we can see as spacespan or distance 
+- **Distance** is created by our minds when we see an object. 
+- If we don't see any object (for example in total darkness) then we don't see distance (mos3). Instead, we see space (sos3)
+
+This physical distance manifests as 2 kinds:
+
+1. The distance between objects
+2. The distance within objects, as size
+
+Descartes and Hume called this "extension".
+
+{{< q a="Rene Descartes" c="Principles of Philosophy Part 1 Article 51" >}}
+Extension in length, width, and depth, constitutes the nature of corporeal substance.
+{{< /q >}}
+
+
 - This leads to matter having length, width, and height that does not change so easily.
 - It is also the one that "glues" subatomic particles of the Material Layer together. 
 

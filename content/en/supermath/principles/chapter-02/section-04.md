@@ -1,4 +1,5 @@
 ---
+heading: "Section 4"
 title: "Fractals"
 date: 2025-11-06
 image: "/photos/objects/fractal.jpg"

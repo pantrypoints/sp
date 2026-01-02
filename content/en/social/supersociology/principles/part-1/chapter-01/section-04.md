@@ -1,7 +1,7 @@
 ---
 title: "What is a Society, Nation, State, Civilization?"
-linkTitle: Society, Nation, State
-heading: "Chapter 1d"
+linkTitle: Society
+heading: "Section 4"
 date: 2015-08-15
 weight: 6
 image: "/photos/objects/egypt.jpg"
@@ -10,6 +10,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+# 1d
 ---
 
 

@@ -2,7 +2,7 @@
 title: "The Development of Society"
 heading: "Chapter 2b"
 date: 2019-12-17
-weight: 10
+weight: 18
 image: "/photos/tech/phone.jpg"
 description: "Societies develop in different stages"
 draft: true

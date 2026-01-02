@@ -1,6 +1,6 @@
 ---
 title: "The Society Organism"
-heading: "Chapter 1"
+heading: "Section 1"
 image: "/graphics/meta/ideas.jpg"
 date: 2021-07-01
 weight: 3

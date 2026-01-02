@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3"
+heading: "Section 1"
 title: "The Common Interest as The Conscience of Society"
 date: 2019-12-17
 weight: 12

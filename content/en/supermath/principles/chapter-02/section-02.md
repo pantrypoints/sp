@@ -1,9 +1,10 @@
 ---
+heading: "Section 2"
 title: "Base 6 Constants and Chemistry"
 date: 2025-03-18
 image: "/graphics/super/vortex.jpg"
 description: "Vortex numbers are base-5 instances that can make geometry easier and less irrational"
-weight: 6
+weight: 16
 # was chapter 2b
 ---
 

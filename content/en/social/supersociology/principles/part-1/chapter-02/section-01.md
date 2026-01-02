@@ -1,7 +1,7 @@
 ---
 title: "The Culture of Society"
 linkTitle: Culture
-heading: "Chapter 2"
+heading: "Section 1"
 date: 2019-12-17
 weight: 9
 image: "/photos/countries/vn/fan.jpg"

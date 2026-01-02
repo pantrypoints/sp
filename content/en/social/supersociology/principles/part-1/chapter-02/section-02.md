@@ -1,6 +1,6 @@
 ---
 title: "Language as Social Expression"
-heading: "Chapter 2b"
+heading: Section 2
 date: 2024-11-17
 weight: 11
 image: "/graphics/social/lang.png"

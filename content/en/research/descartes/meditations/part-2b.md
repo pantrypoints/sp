@@ -57,37 +57,88 @@ What do ‘flexible’ and ‘changeable’ mean here?
 
 I can imagine this wax changing from round to square, from square to triangular, and so on. 
 
-But that is not what changeability is. In knowing that the wax is changeable I understand that it can go through endlessly many changes of that kind, far more than I can depict in my imagination; so it isn’t my imagination that gives me my grasp of the wax as flexible and changeable.
+**But that is not what changeability is.** 
+
+The wax can flex and change in more ways that I can imagine. 
+- So it is not my imagination that makes me know that the wax is flexible and changeable.
+
+<!-- In knowing that the wax is changeable I understand that it can go through endlessly many changes of that kind, far more than I can depict in my imagination; 
+gives me my grasp of  -->
 
 What does ‘extended’ mean? Is the wax’s extension also unknown? 
 
-It increases if the wax melts, and increases again if it boils; the wax can be extended in many more ways (that is, with many more shapes) than I will ever bring before my imagination. I am forced to conclude that the nature of this piece of wax isn’t revealed by my imagination, but is perceived by the mind alone. (I am speaking of this particular piece of wax; the point is even clearer with regard to wax in general.) 
+It:
+- increases if the wax melts
+- then increases again if it boils.
 
-This wax that is perceived by the mind alone is, of course, the same wax that I see, touch, and picture in my imagination – in short the same wax I thought it to be from the start. But although my perception of it seemed to be a case of vision and touch and imagination, it isn’t so and it never was. 
+The wax can be extended in many more ways (with many more shapes) than I can imagine.
 
-Rather, it is purely a perception by the mind alone – formerly an imperfect and confused one, but now clear and distinct because I am now concentrating carefully on what the wax consists in.
+**This means that the nature of this wax is not revealed by my imagination, but is perceived by the mind alone.**
 
-I have realized how prone to error my mind is. I use words to think all this out within myself. But those words can lead me astray. 
+<!-- (I am speaking of this particular piece of wax; the point is even clearer with regard to wax in general.)  -->
 
-When the wax is in front of us, we say that we see it, not that we judge it to be there from its colour or shape. 
+<!-- This wax that is perceived by the mind alone is the same wax that  -->
 
-This might make me think that knowledge of the wax comes from the eye rather than from the mind's perception alone. 
+I see, touch, and picture this wax in my imagination **only because it is perceived by the mind.**
+- It is the same wax I thought it to be from the start.
+
+My perception of it seemed to come from:
+- vision
+- touch
+- imagination
+
+But this is not correct.
+
+ <!-- it isn’t so and it never was.  -->
+
+Rather, **it is purely a perception by the mind alone.**
+- Initially, it was an imperfect and confused perception.
+- But now, it is clear and distinct because I am now concentrating carefully on what the wax consists in.
+
+I have realized how prone to error my mind is.
+
+I use words to think all this out within myself. But those words can lead me astray. 
+
+When the wax is in front of us, we say that we see it.
+- We do not say that we judge it to be there from its colour or shape. 
+
+This makes us think that knowledge of the wax comes from the eye rather than only from the mind's perception. 
 
 But this is clearly wrong, as the following example shows. 
 
-If I look out of the window and see men crossing the square, as I have just done, I say that I see the men themselves, just as I say that I see the wax; yet do I see any more than hats and coats that could conceal robots? I judge that they are men.
+I see men outside crossing the square.
+- I say that I see them just as I say that I saw the wax. 
 
-Something that I thought I saw with my eyes, therefore, was really grasped solely by my mind’s faculty of judgment. However, someone who wants to know more than the common crowd should be ashamed to base his doubts on ordinary ways of talking. 
+But they might be robots in reality. But I judge that they are men.
 
-When was my perception of the wax’s nature more perfect and clear? 
+<!-- yet do I see any more than hats and coats that could conceal robots?  -->
 
-Was it when I first looked at the wax, and thought I knew it through my senses? 
+<!-- Something that I thought I saw with my eyes,  -->
 
-Or is it now, after I have enquired more carefully into the wax’s nature and into how it is known?
+Therefore, **we really grasp solely by the mind’s faculty of judgment.**
 
-It would be absurd to hesitate in answering the question; for what clarity and sharpness was there in my earlier perception of the wax?
+However, someone who wants to know more than the common crowd should be ashamed to base his doubts on ordinary ways of talking. 
 
-Was there anything in it that a lower animal couldn’t have? But when I consider the wax apart from its outward forms – take its clothes off, so to speak, and consider it naked – then although my judgment may still contain errors, at least I am now having a perception of a sort that requires a human mind.
+
+When did my perception of the wax’s nature become more perfect and clear? 
+
+Was it when I first looked at it and thought that I knew it through my senses?
+
+ <!-- the wax, and thought   -->
+
+Or is it now, after I have enquired more carefully into:
+- the wax’s nature
+- how it is known?
+
+<!-- It would be absurd to hesitate in answering the question; for what clarity and sharpness was there in my earlier perception of the wax? -->
+
+Was there anything in the wax that a lower animal couldn’t have? 
+
+If I remove the outward form of the wax and look into its true nature just as I would have taken off the clothes of the men outside, then my judgment might still have errors.
+- But that judgement will lean closer to the human mind [than to the senses].
+
+
+<!-- But when I consider the wax apart from its outward forms – take its clothes off, so to speak, and consider it naked – then although my , at least I am now having a perception of a sort that requires a human mind. -->
 
 But what am I to say about this mind, or about myself? (So far, remember, I don’t admit that there is anything to me except a mind.) What, I ask, is this ‘I’ that seems to perceive the wax so clearly? 
 

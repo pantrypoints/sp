@@ -1,6 +1,6 @@
 ---
 title: "The Ego Separates the Union of Souls"
-heading: "Chapter 1b"
+heading: "Section 2"
 image: "/graphics/meta/mirror.jpg"
 date: 2021-07-01
 weight: 4
@@ -9,6 +9,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+# 1b
 aliases:
   /social/supersociology/principles/social-networkism/
 ---

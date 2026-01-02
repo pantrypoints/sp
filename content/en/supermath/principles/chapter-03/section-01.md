@@ -1,4 +1,5 @@
 ---
+heading: Section 1
 title: "Basic Operations"
 date: 2025-03-18
 image: "/graphics/super/vortex.jpg"

@@ -43,6 +43,8 @@ The excess fire-aether go around the air-aether and return towards the centers o
 
 This is because the air-aether already occupies all the other, more distant places. 
 
+
+
 ## The Inverse Square Law Comes From Circular Motion
 
 At those centers, the remaining fire-aether must compose perfectly liquid and subtle round bodies [as stars]. 
@@ -159,7 +161,59 @@ This makes the orbits `KK`, `LL`, etc mark the edges of the agitated area of the
 
 
 
-104
+
+<!-- **How in the World described above, a Sun and Stars will be formed.**
+
+104. Whatever inequalities and whatever confusions we may suppose God placed at the beginning among the parts of matter, it must follow, according to the laws He imposed on nature, that they should afterwards be reduced almost all to a medium size and a medium motion, and thus have taken the form of the second Element, such as I have explained above.
+
+105. For to consider this matter in the state it could have been before God began to move it, one must imagine it as the hardest and most solid body in the world. And as one could not push any part of such a body without also pushing or pulling all the others by the same means, so one must think that the action or force of moving and of dividing, which was first placed in some of its parts, spread out and distributed itself to all the others at the same instant, as equally as possible. It is true that this equality could not be totally perfect. For first, because there is no void at all in this new World, it was impossible for all the parts of matter to move in a straight line:
+
+106. But being roughly equal and able to be diverted almost as easily one as the other, they must have all agreed together to some circular movements. However, because we suppose God moved them diversely at first, we must not think they all agreed to turn around a single center, but around several different ones, which we can imagine as diversely situated relative to each other.
+
+107. Following which, one can conclude that they must naturally have been less agitated or smaller, or both together, in the places nearest to these centers, than in those farther away. For all having an inclination to continue their movement in a straight line, it is certain that the strongest, that is to say, the largest among those which were equally agitated, and the most agitated among those which were equally large, must have described the largest circles, as being those which most closely approached a straight line. And the matter contained between three or more of these circles could at first find itself much less divided and less agitated than all the rest. Moreover, because
+
+108. we suppose God placed at the beginning all sorts of inequality between the parts of this matter, we must think that there were then parts of all sorts of size and figure, and disposed to move or not to move in all ways and in all directions. But this does not prevent them from afterwards becoming almost all quite equal, especially those which remained at the same distance from the centers, around which they revolved. 
+
+For not being able to move one without the others, it was necessary that the most agitated communicated their motion to those which were less so, and that the largest 109. broke and divided, in order to be able to pass through the same places as those which preceded them, or else that they rose higher: 
+
+Thus they arranged themselves all in order in a short time, in such a way that each found itself more or less distant from the center, around which it took its course, according as it was more or less large and agitated, in comparison with the others.
+
+Even because size is always opposed to the speed of movement, one must think that those farthest from each center were those which, being a little smaller than the nearest, were also much more agitated. 
+
+In the same way 110. for their figures; although we suppose they were at the beginning of all sorts, and that most had several angles and several sides, like the pieces that break off from a stone when it is shattered: 
+
+After moving and striking against one another, they must have gradually broken off the small points of their angles, and blunted the corners of their sides, until they rendered themselves almost all round, as are grains of sand and pebbles, when they roll with the water of a river. So that there can now be no notable difference between those which are close enough 111. together, nor even between those which are very far apart, except in that they can move a little faster, and be a little smaller or larger one than the other.
+
+This does not prevent one from attributing to them all the same form: only we must except some which, having been from the beginning much larger than the others, could not so easily divide, or which having very irregular and obstructive figures, rather joined several together than broke to become round; and thus they retained the form of the third Element, and served to compose the Planets and the Comets, as I will tell you later.
+
+112. The matter which issued from around the parts of the second Element, as they broke off and blunted the small points of their angles to become round, must necessarily have acquired a movement much faster than theirs, and together a facility to divide and to change figure at every moment, to accommodate itself to that of the places where it found itself: and thus that it took the form of the Element which I explained above as the very first. I say it must have acquired a movement much faster than theirs, and the reason is evident.
+
+113. For having to issue sideways and through very narrow passages, out of the small spaces which are between them as they were about to meet frontally, it had much more distance to travel in the same time.
+
+It is also necessary to note that whatever there is of this first Element more than is needed to fill the small intervals which the round parts of the second necessarily leave around themselves, must withdraw towards the centers, around which they turn, because they occupy all the other more distant places: 114. and that there it must compose bodies perfectly liquid and subtle, which, turning incessantly much faster, and in the same direction as the parts of the second Element which surround them, have the force to increase the agitation of those nearest to them, and even to push them all from all sides, drawing from the center towards the circumference, just as they also push one another by an action which I will shortly explain as exactly as I can.
+
+This is what we will take here for Light. As we will also take, if you please, these round bodies composed of the matter of the first Element all pure, one for the Sun, and the others for the fixed Stars of the new 115. World that I describe to you, and the matter of the second Element which turns around them, for the Heavens. 
+
+Imagine for example that the points S, E, e, A are the centers of which I speak, and that all the matter contained in the space F G G F is a Heaven which turns around the Sun marked S, and all that of the space H G G H another which turns around the Star marked e, and so for the others: 
+
+So that there are as many diverse Heavens as there are Stars, the number of which is indefinite, and that the Firmament is nothing other than the surface without thickness, which separates all the Heavens from one another.
+
+117. The second Element particles which are towards F or G are more agitated than those which are towards K or L.
+- Their speed diminishes little by little from the exterior circumference of each Heaven, up to a certain place, for example up to the Sphere K around the Sun, and up to the Sphere L around the Star e.
+- From there it increases little by little up to the centers of these Heavens, because of the agitation of the stars which are found there. 
+
+So that while the parts of the second Element which are towards K have the leisure to describe an entire circle around the Sun, those which are towards T, which I suppose to be ten times closer, have not 118. only had the leisure to describe ten there, as they would if they moved only equally fast; but perhaps more than thirty. 
+
+And again, those which are towards F or towards G, which I suppose to be two or three thousand times more distant, can perhaps describe more than sixty. 
+
+This is why the Planets which are the highest, must move more slowly than the lowest or those closest to the Sun: And together more slowly than the comets which are nevertheless farther from it.
+
+119. As for the size of each of the parts of the second Element, one can think that it is equal in all those which are from the exterior circumference of the Heaven F G G F up to the circle K, or even that the highest among them are somewhat smaller than the lowest, provided one does not suppose the difference in their size greater in proportion than that of their speed: but one must think on the contrary that from the circle K up to the Sun, it is the lowest which are the smallest, and even that the difference in their size is greater or at least as great in proportion, as that of their speed. For otherwise these lowest, being the strongest because of their agitation, would go occupy the place of the highest.
+ 
+120. Finally, note that given the manner in which I have said the Sun and the other fixed Stars are formed, their bodies can be so small relative to the Heavens which contain them, that even all the circles K, L, and similar ones, which mark how far their agitation advances the course of the matter of the second Element, will be considerable in comparison to these Heavens only as points marking their center. Just as the new Astronomers consider almost as a point the whole Sphere of Saturn, in comparison to the Firmament. -->
+
+
+<!-- 104
 
 Comment dans le Monde aupara vant décrit, il fe formera un Soleil des Etoiles.
 Velques inegalitez & quelques confufions que nous puiffios fuppofer que Dieu aît mifes au comencement entre les parties de la matiere,il faut fui-vat les loixqu'il a impofées à la nature, qu'elles fe foient aprés reduites prefque toutes à une groffeur, & à un mouvement mediocre, & ainfi qu'elles ayent pris la forme du fecond Element, telle que ie l'ay icy-deffus expliquée.
@@ -232,3 +286,4 @@ Pour la groffeur de chacune des parties du fecond Element, on peut penfer qu'ell
 
 Enfin remarquez que vû la façon dont j'ay dir que le Soleil & les autres Etoiles fixes fe formoient,leurs corps peuvent eftre fi petits à l'égard des Cieux qui les contiennent, que méme tous les cercles K. L. & femblables qui marquent jufques où leur agitation fait avancer le cours de la matiere du fecond Element, ne feront confiderables à comparaifon de ces Cieux, que comme des points qui marquent leur centre. Ainfi que les nouveaux Aftronomes ne confiderent quafi que comme un point toute la Sphere de Saturne, à comparaifon du Firmament.
 
+ -->

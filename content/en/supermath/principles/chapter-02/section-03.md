@@ -1,57 +1,32 @@
 ---
+heading: "Section 3"
 title: "Imaginary Numbers as Unit Void"
 date: 2025-12-27
 image: "/graphics/super/vortex.jpg"
 description: ""
-weight: 6
+weight: 26
 ---
 
 
-<!-- 
-And why would I care? Descartes is no better than Newton, and neither one is valid at relativistic speeds. The fact of the matter is that velocity is an imaginary number. Newton is an approximation, because as velo city increases it gets more and more imaginary. The Newtonian part doesn't get smaller, it just becomes less significant. We all know that Newtonian momentum diverges from relativistic momentum. The implication is that the approximation fails at high speeds. That is wrong. The Newtonian component is the cosine projection of the relativistic momentum at any speed. The angle of the cosine term is defined by the measured velocity: v = c sin(angle), where sin(angle) = tanh(boost) of the Lorentz transformation that maps coordinates between the two frames of reference. But as speed increases, the imaginary component becomes more dominant. Breakpoint analysis indicates that this transition takes place at a 45 degree angle, where v = 70.7%c. Above that, imaginary components dominate, and way above that, real components are insignificant, much like way below that, real components dominate and imaginary components are insignificant. All Newtonian physics (and Descartes') takes place near v = 0. Even escape velocity is only 0.000037c, and Newton never launched anything into orbit, so all of his data and theories are derived from much slower velocities. Really 17th century. Might I remind you that this is the 21st century now?
+The History of Imaginary Numbers
 
-
-
-Imaginary Numbers began with Al Khwarizmi
-
-### **1545: The Reluctant Birth** 
-- **Gerolamo Cardano** publishes *Ars Magna*, solving depressed cubic equations
-- **Example:** $x^3 = 15x + 4$ yields solution containing $\sqrt{-121}$
-- Cardano called these results "as subtle as they are useless" and ignored them
-
-### **1572: First Serious Treatment**
-- **Rafael Bombelli** publishes *L'Algebra*
-- Develops rules for manipulating "plus of minus" ($+i$) and "minus of minus" ($-i$)
-- Shows that $\sqrt[3]{2+\sqrt{-121}} + \sqrt[3]{2-\sqrt{-121}} = 4$, proving imaginary expressions could yield real results
-
-### **1637: The Derisive Label**
-- **René Descartes** coins term "imaginary" in *La Géométrie*
-- Calls them "imaginary" because they were "neither nothing, nor greater than nothing, nor less than nothing"
-
-### **18th Century: Gradual Acceptance**
-- **Leonhard Euler (1748)** introduces notation $i$ for $\sqrt{-1}$
-- **Euler's formula:** $e^{i\theta} = \cos\theta + i\sin\theta$ (1740s)
-- **Gauss (1799)** proves Fundamental Theorem of Algebra, requiring complex numbers
-- Gauss: "The true metaphysics of $\sqrt{-1}$ is elusive"
-
----
-
-## **Phase 2: Geometric Interpretation (19th Century)**
-
-### **1797: Visualization**
-- **Caspar Wessel** (Norway) first plots complex numbers as points in plane
-- **Jean-Robert Argand (1806)** independently develops same idea
-- **Carl Friedrich Gauss (1831)** publishes comprehensive geometric interpretation
-- Complex numbers become **2D vectors**: $a + bi = (a, b)$
+Year | Event
+--- | ---
+1545 | Gerolamo Cardano publishes *Ars Magna*, solving depressed cubic equations. He called these results "as subtle as they are useless" and ignored them
+1572 | First Serious Treatment when Rafael Bombelli publishes *L'Algebra*. He develops rules for manipulating "plus of minus" ($+i$) and "minus of minus" ($-i$) and proving imaginary expressions could yield real results
+1637 | **René Descartes** coins term "imaginary" in *La Géométrie* because they were "neither nothing, nor greater than nothing, nor less than nothing"
+1748 | Leonhard Euler introduces notation $i$ for $\sqrt{-1}$
+1799 | Gauss proves Fundamental Theorem of Algebra, requiring complex numbers. Gauss: "The true metaphysics of $\sqrt{-1}$ is elusive"
+1797 | Caspar Wessel(Norway) first plots complex numbers as points in plane
+1806 | Jean-Robert Argand independently develops same idea
+1831 | Carl Friedrich Gauss  publishes comprehensive geometric interpretation. Complex numbers become **2D vectors**: $a + bi = (a, b)$
 
 ### **Application Boom**
 - **Fluid dynamics:** Complex potentials for incompressible flow (d'Alembert, Euler)
 - **Electromagnetism:** Complex notation simplifies Maxwell's equations
 - **Pure mathematics:** Complex analysis becomes richest branch of analysis
 
----
-
-## **Phase 3: Quantum Mechanics Revolution (1920s)**
+<!-- # **Phase 3: Quantum Mechanics Revolution (1920s)**
 
 ### **1925: The Essential Role**
 - **Werner Heisenberg** develops matrix mechanics — real matrices suffice initially
@@ -131,7 +106,7 @@ Imaginary Numbers began with Al Khwarizmi
 - **Theoretical physics:** No known consistent quantum theory without complex structure
 
 ---
-
+ -->
 ## **Timeline Summary**
 
 | Year | Development | Significance |
@@ -147,7 +122,7 @@ Imaginary Numbers began with Al Khwarizmi
 | 1984 | Calabi-Yau compactification | Complex geometry essential for strings |
 | 1990s | Mirror symmetry | Deep connections in complex geometry |
 
----
+<!-- ---
 
 ## **Conclusion**
 
@@ -160,4 +135,4 @@ The journey of $i$ from "useless subtlety" (Cardano) to fundamental physical ent
 
 The complex numbers turned out to be not "imaginary" in the sense of "unreal," but rather **the language in which quantum reality is written** — a remarkable vindication of Bombelli's intuition that these "impossible" numbers must mean something.
 
-As Freeman Dyson noted: "Schrödinger put the square root of minus one into the equation, and suddenly it made sense. Suddenly it became a wave equation instead of a heat conduction equation... And that square root of minus one means that nature works with complex numbers and not with real numbers." -->
+As Freeman Dyson noted: "Schrödinger put the square root of minus one into the equation, and suddenly it made sense. Suddenly it became a wave equation instead of a heat conduction equation... And that square root of minus one means that nature works with complex numbers and not with real numbers." --> -->

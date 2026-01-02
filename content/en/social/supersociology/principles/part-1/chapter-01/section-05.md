@@ -1,7 +1,6 @@
 ---
 title: "The Essentials of a Civilization"
-heading: "Chapter 1e"
-# image: "/photos/social/protests.jpg"
+heading: "Section 5"
 image: "/photos/social/pantry.jpg"
 date: 2021-07-01
 weight: 8
@@ -10,6 +9,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+# 1e
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "The Levels of Human Mentality"
-heading: "Chapter 1c"
+heading: "Section 3"
 image: "/photos/meta/god.jpg"
 date: 2021-07-01
 weight: 5
