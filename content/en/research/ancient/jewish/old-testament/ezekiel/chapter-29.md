@@ -10,19 +10,19 @@ c: "firebrick"
 <sup>1</sup> In year 10, month 10, day 12 the word of Enki came to me, saying:
 
 {{< l a="Enki" >}}
-2 Son of man, set your face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt.
+<sup>2</sup> Son of man, set your face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt.
 
-3 Say: Enki says: Behold, I [am] against you, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river [is] mine own, and I have made [it] for myself.
+<sup>3</sup> Say: Enki says: Behold, I [am] against you, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river [is] mine own, and I have made [it] for myself.
 {{< /l >}}
 
 
-4 But I will put hooks in your jaws, and I will cause the fish of your rivers to stick unto your scales, and I will bring you up out of the midst of your rivers, and all the fish of your rivers shall stick unto your scales. 
+<sup>4</sup> But I will put hooks in your jaws, and I will cause the fish of your rivers to stick unto your scales, and I will bring you up out of the midst of your rivers, and all the fish of your rivers shall stick unto your scales. 
 
-5 I will leave you [thrown] into the wilderness, you and all the fish of your rivers: you shalt fall upon the open fields; you shalt not be brought together, nor gathered: I have given you for meat to the beasts of the field and to the fowls of the heaven. 
+<sup>5</sup> I will leave you [thrown] into the wilderness, you and all the fish of your rivers: you shalt fall upon the open fields; you shalt not be brought together, nor gathered: I have given you for meat to the beasts of the field and to the fowls of the heaven. 
 
-6 All the inhabitants of Egypt shall know that I am the Lord, because they have been a staff of reed to the Israelites. 
+<sup>6</sup> All the inhabitants of Egypt shall know that I am the Lord, because they have been a staff of reed to the Israelites. 
 
-7 When they took hold of you by your hand, you didst break, and rend all their shoulder: and when they leaned upon you, you brakest, and madest all their loins to be at a stand.
+<sup>7</sup> When they took hold of you by your hand, you didst break, and rend all their shoulder: and when they leaned upon you, you brakest, and madest all their loins to be at a stand.
 
 <sup>8</sup> Therefore thus saith Enki; Behold, I will bring a sword upon you, and cut off man and beast out of you. 
 
@@ -55,4 +55,3 @@ Every head was made bald, and every shoulder [was] peeled: yet had he no wages, 
 <sup>20</sup> I have given him the land of Egypt [for] his labour wherewith he served against it, because they wrought for me, saith Enki.
 
 <sup>21</sup> In that day will I cause the horn of the house of Israel to bud forth, and I will give you the opening of the mouth in the midst of them; and they shall know that I am the Lord.
-

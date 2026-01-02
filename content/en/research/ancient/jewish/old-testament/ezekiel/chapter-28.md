@@ -18,19 +18,20 @@ He has set his heart as the heart of God [alien].
 
 <sup>4</sup> With his wisdom and understanding he has gotten riches, gold and silver as treasures. 
 
-5 By his great wisdom and traffic his riches have increased, and his heart is made arrogant by his riches.
+<sup>5</sup> By his great wisdom and traffic his riches have increased, and his heart is made arrogant by his riches.
 {{< /l >}}
 
 <!-- Because you hast set thine heart as the heart of God; -->
-6-7 And so I will bring terrible foreigners to him. They shall draw their swords against the beauty of his wisdom and defile his brightness. 
 
-8 They shall bring him down to the pit, and you shalt die the deaths of [them that are] slain in the midst of the seas. 
+<sup>6-7</sup> And so I will bring terrible foreigners to him. They shall draw their swords against the beauty of his wisdom and defile his brightness. 
+
+<sup>8</sup> They shall bring him down to the pit, and you shalt die the deaths of [them that are] slain in the midst of the seas. 
 
 <sup>9</sup> Will you yet say before him that slayeth you, I [am] God? but you [shalt be] a man, and no God, in the hand of him that slayeth you. 
 
 <sup>10</sup> You shalt die the deaths of the uncircumcised by the hand of strangers: for I have spoken [it,]
 
-11-12 Son of man, take up a lamentation upon the king of Tyrus, and say unto him, Thus saith Enki; Thou sealest up the sum, full of wisdom, and perfect in beauty. 
+<sup>11-12</sup> Son of man, take up a lamentation upon the king of Tyrus, and say unto him, Thus saith Enki; Thou sealest up the sum, full of wisdom, and perfect in beauty. 
 
 <sup>13</sup> You have been in Eden the garden of God.
 
@@ -72,4 +73,3 @@ LORD.
 <sup>26</sup> They shall dwell safely therein, and shall build houses, and plant vineyards.
 
 They shall dwell with confidence, when I have executed judgments upon all those that despise them round about them; and they shall know that I am the Lord their [alien] God.
-

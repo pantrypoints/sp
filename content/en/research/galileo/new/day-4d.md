@@ -125,14 +125,19 @@ All that has been said above concerning the amount of momentum in the projectile
 
 
 {{< r a="Sagredo" >}}
-Your having mentioned these blows and shocks recalls to my mind a problem, or rather a question, in mechanics of which no author has given a solution or said anything which diminishes my astonishment or even partly relieves my mind. 
+<!-- Your having mentioned these blows and shocks recalls to my mind a problem, or rather a question, in mechanics of which no author has given a solution or said anything which diminishes my astonishment or even partly relieves my mind.  -->
 
-My difficulty and surprise consist in not being able to see whence and upon what principle is derived the energy and immense force [energia e forza immensa] which makes its appearance in a blow; for instance we see the simple blow of a hammer, weighing not more than 8 or 10 lbs. , overcoming resistances which, without a blow, would not yield to the weight of a body producing impetus by pressure alone, even though that body weighed many hundreds of pounds.  I would like to discover a method of measuring the force [forza] of such a percussion.  I can hardly think it infinite, but incline rather to the view that it has its limit and can be counterbalanced and measured by other forces, such as weights, or by levers or screws or other mechanical instruments which are used to multiply forces in a manner which I satisfactorily understand. 
+The energy and immense force in the blow is based on what principle?
+
+A 10 lbs hammer blows and overcomes resistances which, without a blow, would not yield to the weight of a body producing impetus by pressure alone, even though that body weighed many hundreds of pounds.
+
+How can we measure the force of such a percussion?
+
+<!-- I can hardly think it infinite, but incline rather to the view that it has its limit and can be counterbalanced and measured by other forces, such as weights, or by levers or screws or other mechanical instruments which are used to multiply forces in a manner which I satisfactorily understand.  -->
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
 I was confused until I met Galileo. He told me he had arrived at some notions which very different from our earlier ideas.
-
-And since now I know that you would gladly hear what these novel ideas are I shall not wait for you to ask but promise that, as soon as our discussion of projectiles is completed, I will explain all these fantasies, or if you please, (272) vagaries, as far as I can recall them from the words of our Academician.  In the meantime we proceed with the propositions of the author. 
+<!-- And since now I know that you would gladly hear what these novel ideas are I shall not wait for you to ask but promise that, as soon as our discussion of projectiles is completed, I will explain all these fantasies, or if you please, (272) vagaries, as far as I can recall them from the words of our Academician.  In the meantime we proceed with the propositions of the author.  -->
 {{< /l >}}

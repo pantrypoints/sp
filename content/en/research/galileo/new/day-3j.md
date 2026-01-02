@@ -1,6 +1,6 @@
 ---
 heading: Day 3j
-title: "Small Scale Versus Large Scale"
+title: "Theorem 21"
 # date: 2025-05-15
 weight: 94
 description: "You Venetians display constant activity in your famous arsenal. It is a great way to learn about mechanics."

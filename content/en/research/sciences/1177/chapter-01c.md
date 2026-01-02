@@ -1,3 +1,5 @@
+
+
 BACK TO EGYPT
 
 We must keep in mind that the goods mentioned above represent
@@ -17,13 +19,14 @@ identified in written texts or by depiction in wall paintings that
 have survived to the present. Such paintings, inscriptions, and
 literary references can serve as less ambiguous guides to contacts
 between peoples, provided that they are interpreted correctly.
-Thus, the representations of foreign peoples in a number of
-50
-painted Egyptian tombs dating to the reigns of New Kingdom
+
+
+Thus, the representations of foreign peoples in a number of painted Egyptian tombs dating to the reigns of New Kingdom
 pharaohs, from Hatshepsut through Amenhotep III, are invaluable
 as concrete attestations to diplomatic, commercial, and
 transportation networks functioning during the fifteenth and
 fourteenth centuries BC.22
+
 It is during Hatshepsut’s reign, in the fifteenth century BC,
 that the first of the tombs was built in which Aegean peoples are
 actually shown in wall paintings. In these tombs, we frequently

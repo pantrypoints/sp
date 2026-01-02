@@ -1,6 +1,6 @@
 ---
 heading: Day 4e
-title: "Projectiles"
+title: "How to Measure Force"
 # date: 2025-05-15
 weight: 116
 description: "You Venetians display constant activity in your famous arsenal. It is a great way to learn about mechanics."
@@ -25,7 +25,8 @@ If a body falls from rest at this point e, and if the momentum acquired at the p
 
 Since a body falling from e, during the time ea, will, owing to the momentum acquired at a, traverse at uniform speed a horizontal distance which is twice ea, it follows that, the body will if impelled by the same momentum, during the time-interval ag traverse a distance equal to twice ag which is the half of bh.  This is true because, Fig 116(273) in the case of uniform motion, the spaces traversed vary directly as the times.  And likewise if the motion be vertical and start from rest, the body will describe the distance ah in the [294] time ag.  Hence the amplitude bh and the altitude ah are traversed by a body in the same time.  Therefore the parabola ab will be described by a body falling from the sublimity of e.  Q.E.F. 
 
-COROLLARY
+
+### COROLLARY
 
 Hence it follows that half the base, or amplitude, of the semi-parabola (which is one-quarter of the entire amplitude) is a mean proportional between its altitude and the sublimity from which a falling body will describe this same parabola. 
 
@@ -57,21 +58,47 @@ Fig 118
 
 Select a point l such that hg:gk =gk:gl.  Then from a preceding proposition [V], it follows that gl will be the (275) height from which a body must fall in order to describe the parabola gd. 
 
-Let gm be a mean proportional between ab and gl; then gm will [Prop.  IV] represent the time and momentum acquired at g by a fall from l; for ab has been assumed as a measure of both time and momentum.  Again let gn be a mean proportional between bc and cg; it will then represent the time and momentum which the body acquires at c in falling from g.  If now we join m and n, this line mn will represent the momentum at d of the projectile traversing the parabola dg, which momentum is, I say, greater than that of the projectile travelling along the parabola bd whose measure was given by ae.  For since gn has been taken as a mean proportional between bc and gc; and since bc is equal to be and also to kg (each of them being the half of dc) it follows that cg:gn = gn:gk, and as cg or (hg) is to gk so is ng2 to gk2: but by construction hg:gk = gk:gl.  Hence ng2:gk2 = gk:gl.  But gk:gl = gk2:gm2, since gm is a mean proportional between kg and gl.  Therefore the three squares ng, kg, mg form a continued proportion, gn2:gk2 = gk2:gm2.  And the sum of the two extremes which is equal to the square of mn is greater than twice the square of gk; but the square of ae is double the square of gk.  Hence the square of mn is greater than the square of ae and the length mn is greater than the length ae.  Q. E. D.  [296]
+Let gm be a mean proportional between ab and gl; then gm will [Prop.  IV] represent the time and momentum acquired at g by a fall from l; for ab has been assumed as a measure of both time and momentum.  Again let gn be a mean proportional between bc and cg; it will then represent the time and momentum which the body acquires at c in falling from g.  
 
-COROLLARY
+If now we join m and n, this line mn will represent the momentum at d of the projectile traversing the parabola dg, which momentum is, I say, greater than that of the projectile travelling along the parabola bd whose measure was given by ae.  For since gn has been taken as a mean proportional between bc and gc; and since bc is equal to be and also to kg (each of them being the half of dc) it follows that cg:gn = gn:gk, and as cg or (hg) is to gk so is ng2 to gk2: but by construction hg:gk = gk:gl.  
 
-Conversely it is evident that less momentum will be required to send a projectile from the terminal point d along the parabola bd than along any other parabola having an elevation greater or less than that of the parabola bd, for which the tangent at d makes an angle of 45° with the horizontal.  From which it follows that if projectiles are fired from the terminal point d, all having the same speed, but each having a different elevation, the maximum range, i.e., amplitude of the semi-parabola or of the entire parabola, will be obtained when the elevation is 45°: the (276) other shots, fired at angles greater or less will have a shorter range. 
+Hence ng2:gk2 = gk:gl.  But gk:gl = gk2:gm2, since gm is a mean proportional between kg and gl.  Therefore the three squares ng, kg, mg form a continued proportion, gn2:gk2 = gk2:gm2.
 
-SAGR.   The force of rigid demonstrations such as occur only in mathematics fills me with wonder and delight.  From accounts given by gunners, I was already aware of the fact that in the use of cannon and mortars, the maximum range, that is the one in which the shot goes farthest, is obtained when the elevation is 45° or, as they say, at the sixth point of the quadrant; but to understand why this happens far outweighs the mere information obtained by the testimony of others or even by repeated experiment. 
+The sum of the two extremes which is equal to the square of mn is greater than twice the square of gk; but the square of ae is double the square of gk.  Hence the square of mn is greater than the square of ae and the length mn is greater than the length ae.  Q. E. D.  [296]
 
-SALV.   What you say is very true.  The knowledge of a single fact acquired through a discovery of its causes prepares the mind to understand and ascertain other facts without need of recourse to experiment, precisely as in the present case, where by argumentation alone the Author proves with certainty that the maximum range occurs when the elevation is 45°.  He thus demonstrates what has perhaps never been observed in experience, namely, that of other shots those which exceed or fall short of 45° by equal amounts have equal ranges; so that if the balls have been fired one at an elevation of 7 points, the other at 5, they will strike the level at the same distance: the same is true if the shots are fired at 8 and at 4 points, at 9 and at 3, etc.  Now let us hear the demonstration of this.  [297]
 
-THEOREM.  PROPOSITION VIII
+
+### COROLLARY
+
+Conversely, less momentum will be required to send a projectile from the terminal point d along the parabola bd than along any other parabola having an elevation greater or less than that of the parabola bd, for which the tangent at d makes an angle of 45° with the horizontal.
+
+It follows that if projectiles are fired from the terminal point d, all having the same speed, but each having a different elevation, the maximum range, i.e., amplitude of the semi-parabola or of the entire parabola, will be obtained when the elevation is 45°: the (276) other shots, fired at angles greater or less will have a shorter range. 
+
+
+{{< r a="Sagredo" >}}
+The force of rigid demonstrations such as occur only in mathematics fills me with wonder and delight.
+
+From accounts given by gunners, I was already aware of the fact that in the use of cannon and mortars, the maximum range, that is the one in which the shot goes farthest, is obtained when the elevation is 45° or, as they say, at the sixth point of the quadrant; but to understand why this happens far outweighs the mere information obtained by the testimony of others or even by repeated experiment. 
+{{< /r >}}
+
+
+{{< l a="Salviati" >}}
+Very true. The knowledge of a single fact acquired through a discovery of its causes prepares the mind to understand and ascertain other facts without need of recourse to experiment, precisely as in the present case, where by argumentation alone the Author proves with certainty that the maximum range occurs when the elevation is 45°.  He thus demonstrates what has perhaps never been observed in experience, namely, that of other shots those which exceed or fall short of 45° by equal amounts have equal ranges; so that if the balls have been fired one at an elevation of 7 points, the other at 5, they will strike the level at the same distance: the same is true if the shots are fired at 8 and at 4 points, at 9 and at 3, etc.  Now let us hear the demonstration of this.
+{{< /l >}}
+
+
+
+### THEOREM.  PROPOSITION VIII
 
 The amplitudes of two parabolas described by projectiles fired with the same speed, but at angles of elevation which exceed and fall short of 45° by equal amounts, are equal to each other. 
 
-In the triangle mcb let the horizontal side bc and the vertical cm, which form a right angle at c, be equal to each other; then the angle mbc will be a semi-right angle; let the line cm be prolonged to d, such a point that the two angles at b, namely mbe an mbd, one above and the other below the diagonal mb, shall be equal.  It is now to be proved that in the case of two parabolas (277) described by two projectiles fired from b with the same speed, one at the angle of ebc, the other at the angle of dbc, their amplitudes will be equal.  Now since the external angle bmc is equal to the sum of the internal angles mdb and dbm we may also equate to them the angle mbc; but if we replace the angle dbm by mbe, then this same angle mbc is equal to the two mbe and bdc: and if we subtract from each side of this equation the angle mbe, we have the remainder bdc equal to the remainder ebc.  Hence the two triangles dcb and bce are similar.  Bisect the straight lines dc and ec in the points h and f: and draw the lines hi and fg parallel to the horizontal cb, and choose l such that dh:hi = ih:hl.  Then the triangle ihl will be similar to ihd, and also to the egf; and since ih and gf are equal, each being half of bc, it follows that hl is equal to fe and also to fc; and if we add to each of these the common part fh, it will be seen that ch is equal to fl. 
+In the triangle mcb let the horizontal side bc and the vertical cm, which form a right angle at c, be equal to each other; then the angle mbc will be a semi-right angle; let the line cm be prolonged to d, such a point that the two angles at b, namely mbe an mbd, one above and the other below the diagonal mb, shall be equal.
+
+In the case of two parabolas (277) described by two projectiles fired from b with the same speed, one at the angle of ebc, the other at the angle of dbc, their amplitudes will be equal.
+
+Since the external angle bmc is equal to the sum of the internal angles mdb and dbm we may also equate to them the angle mbc; but if we replace the angle dbm by mbe, then this same angle mbc is equal to the two mbe and bdc: and if we subtract from each side of this equation the angle mbe, we have the remainder bdc equal to the remainder ebc. 
+
+Hence the two triangles dcb and bce are similar.  Bisect the straight lines dc and ec in the points h and f: and draw the lines hi and fg parallel to the horizontal cb, and choose l such that dh:hi = ih:hl.  Then the triangle ihl will be similar to ihd, and also to the egf; and since ih and gf are equal, each being half of bc, it follows that hl is equal to fe and also to fc; and if we add to each of these the common part fh, it will be seen that ch is equal to fl. 
 
 Fig 119
 

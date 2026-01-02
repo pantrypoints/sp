@@ -34,9 +34,9 @@ Tell them that Enki said to the shepherds: Woe be to the shepherds of Israel tha
 
 <sup>13</sup> I will bring them out from the people, and gather them from the countries, and will bring them to their own land, and feed them upon the mountains of Israel by the rivers, and in all the inhabited places of the country.
 
-14 I will feed them in a good pasture, and upon the high mountains of Israel shall their fold be: there shall they lie in a good fold, and [in] a fat pasture shall they feed upon the mountains of Israel.
+<sup>14</sup> I will feed them in a good pasture, and upon the high mountains of Israel shall their fold be: there shall they lie in a good fold, and [in] a fat pasture shall they feed upon the mountains of Israel.
 
-15 I will feed my flock, and I will cause them to lie down, saith Enki. 
+<sup>15</sup> I will feed my flock, and I will cause them to lie down, saith Enki. 
 
 16 I will seek that which was lost, and bring again that which was driven away, and will bind up [that which was] broken, and will strengthen that which was sick: but I will destroy the fat and the strong; I will feed them with judgment. 
 
@@ -62,8 +62,8 @@ And to have drunk of the deep waters, but you must foul the residue with your fe
 
 28 They shall no more be a prey to the heathen, neither shall the beast of the land devour them; but they shall dwell safely, and none shall make [them] afraid.
 
-29. I will raise up for them a plant of renown, and they shall be no more consumed with hunger in the land, neither bear the shame of the heathen any more.
+<sup>29</sup> I will raise up for them a plant of renown, and they shall be no more consumed with hunger in the land, neither bear the shame of the heathen any more.
 
-30 Thus shall they know that I Enki their God am with them and that they even the house of Israel, are my people
+<sup>30</sup> Thus shall they know that I Enki their God am with them and that they even the house of Israel, are my people
 
 <sup>31</sup> You my flock, the flock of my pasture, [are] men, [and] I [am] your God, said Enki.

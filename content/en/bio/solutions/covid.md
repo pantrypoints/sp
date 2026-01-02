@@ -129,6 +129,18 @@ May 2021 |  The high cases and new mutation in India, the biggest producer of va
 July 2021 | The effectivity of Chinese medicine against even the delta variant is proven by the low cases in China and Taiwan despite Taiwan having low vaccination rates. It is how the Chinese in Indonesia prevent death, since Indonesia also has low vaccination rates.
 March 2022 | The BA2 and XE variant (found in the UK) matches our theory of Covid emerging in a 'Covid Line'
 March 2023 | The decline of Covid from Jan 2023 after Brazil's Lula assumes office is consistent with our assertion that the destruction of the Amazon is the root cause of Covid ![Covid chart](/charts/covid.jpg)
-Oct 2025 | The US is able to arbitrarily and quicky send its Navy against drug operations in South America. This proves that a similar operation against deforstation could have been done back in 2020 https://www.youtube.com/watch?v=ykWQogAzlY4
 {{< /b >}}
 
+
+
+## Update Oct 2025: NATO was destined for South America instead of Ukraine
+
+Had NATO focused on Brazil and South America, COVID would not have been so brutal.
+
+But instead, NATO went to acquire Ukraine which then triggered the totally unnecessary Russia Ukraine war. 
+
+Instead of hitting 2 birds with 1 stone, Western policy actually created 2 stones and killed the bird, leading to our messed-up world!
+
+The fact that the US was able to arbitrarily and quickly send its Navy against drug operations in South America proves that such a quick attack against deforestation was possible when it was critically needed. 
+
+It also proves that a few parts of that ideal reality where NATO went to South America can leech into the currrent reality, since all realities are connected.

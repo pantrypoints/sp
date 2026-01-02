@@ -60,9 +60,9 @@ They only were made and formed. They had no mother and no father. They were not 
 
 ## The Deluge
 
-The most advanced humans were the Atlanteans who were located in the Bahamas, and were split between good and bad.
+The most advanced humans were the Atlanteans who were located in the Bahamas, and had Aztec culture. They were split between good and bad.
 
-The bad Atlanteans wanted to dominate the world and defeat the Anunnaki who were headquartered in the Middle East. 
+According to Critias and Timaeus by Plato, the bad Atlanteans wanted to dominate the world and defeat the Anunnaki who were headquartered in the Middle East. 
 
 Greece was the last Anunnaki stronghold before reaching the Middle East. And so the Anunnaki decided to build a fort at Athens. 
 
@@ -71,6 +71,8 @@ Greece was the last Anunnaki stronghold before reaching the Middle East. And so 
 A goddess founded your city Athens 1,000 years before ours in order to repulse the invasion from Atlantis receiving from the Earth and Hephaestus the seed of your race.
 {{< /q >}}
 
+
+The Essassani clarify that the Minoan civilization was actually an Atlanetan colony. 
 
 
 Because of this aggression from humans, the Anunnaki leader Enlil decided to destroy the human species. 
@@ -81,8 +83,8 @@ The Essassani clarify that:
 - these comets were the Taurid meteor showers which hit the earth twice a year for 20 years around 10,800 BC
 - the comet that crashed was a bigger version of comet Encke
 
-
-The Atlanteans were mentioned as the Atra-Hasis in The Epic of Gilgamesh.
+We assume that Atra-Hasis in the Epic of Atra-Hasis means Atlantis. 
+ <!-- were mentioned as the  in The Epic of Gilgamesh. -->
 
 
 ## What We Do With This
@@ -91,4 +93,7 @@ We can look at the postive aspects of humans as a genetic engineering product.
 
 For example, instead of focusing on the human lust for gold and material objects, we can focus on the ability of humans to follow instructions and work for the benefit of others. 
 
+This is consistent with the Epic of Gilgamesh where Gilgamesh wanted to attain the spiritual development of Noah. 
+
+Noah tells him to meditate without falling asleep. But Gilgamesh fails and falls asleep immediately. 
 

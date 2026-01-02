@@ -9,9 +9,10 @@ c: "firebrick"
 
 <sup>1</sup> The word of Enki came unto me, saying:
 
+
 <sup>2</sup> You son of man, the end is come upon the four corners of the land. 
 
-<sup>3</sup> Now is the end come upon you. I will send mine anger on you, and will judge you according to your ways, and will recompense upon you all thine abominations. 
+<sup>3</sup> Now the end is upon you. I will send mine anger on you, and will judge you according to your ways, and will recompense upon you all thine abominations. 
 
 <sup>4</sup> I shall not spare you, neither will I have pity.
 
@@ -25,20 +26,32 @@ But I will recompense your ways upon you, and thine abominations shall be in the
 
 The time is come, the day of trouble [is] near, and not the sounding again of the mountains.
 
-<sup>8</sup> Now will I shortly pour out my fury upon you, and accomplish mine anger upon you: and I will judge you according to your ways, and will recompense you for all thine abominations. 
+<sup>8</sup> Now I will shortly:
+- pour out my fury on you and accomplish my anger on you
+- judge you according to your ways
+- recompense you for all your abominations
 
-<sup>9</sup> And mine eyou shall not spare, neither will I have pity: I will recompense you according to your ways and thine
-abominations [that] are in the midst of you; and you shall know that I am the Lord that smiteth. 
+<sup>9</sup> I will not spare not, neither will I have pity.
 
-<sup>10</sup> Behold the day, behold, it is come: the morning is gone forth; the rod hath blossomed, pride hath budded. 7:11} Violence is risen up into a rod of wickedness: none of them [shall remain,] nor of their multitude, nor of any of theirs: neither [shall there be] wailing for them. 
+I will recompense you according to your ways and your abominations [that] are in your midst.
 
-<sup>12</sup> The time is come, the day draweth near: let not the buyer rejoice, nor the seller mourn: for wrath [is] upon all the multitude thereof. 
+You shall know that I am the Lord that smites.
+
+<sup>10</sup> Behold the day, it is come. The morning is gone forth; the rod has blossomed, pride hath budded. 
+
+<sup>11</sup> Violence is risen up into a rod of wickedness: none of them [shall remain,] nor of their multitude, nor of any of theirs: neither [shall there be] wailing for them. 
+
+<sup>12</sup> The time is come, the day draws near: let not the buyer rejoice, nor the seller mourn: for wrath [is] upon all the multitude thereof. 
 
 <sup>13</sup> The seller shall not return to that which is sold, although they were yet alive: for the vision [is] touching the whole multitude thereof, [which] shall not return; neither shall any strengthen himself in the iniquity of his life. 
 
-<sup>14</sup> They have blown the trumpet, even to make all ready; but none goeth to the battle: for my wrath [is] upon all the multitude thereof.
+<sup>14</sup> They have blown the trumpet, even to make all ready.
 
-<sup>15</sup> The sword [is] without, and the pestilence and the famine within: he that [is] in the field shall die with the sword; and he that [is] in the city, famine and pestilence shall devour him.
+But none goes to the battle: for my wrath [is] on all the multitude thereof.
+
+<sup>15</sup> The sword [is] without, and the pestilence and the famine within.
+- He that [is] in the field shall die with the sword.
+- He that [is] in the city, famine and pestilence shall devour him.
 
 <sup>16</sup> But they that escape of them shall escape, and shall be on the mountains like doves of the valleys, all of them mourning, every one for his iniquity. 
 
@@ -46,7 +59,9 @@ abominations [that] are in the midst of you; and you shall know that I am the Lo
 
 <sup>18</sup> They shall also gird [themselves] with sackcloth, and horror shall cover them; and shame [shall be] upon all faces, and baldness upon all their heads. 
 
-<sup>19</sup> They shall cast their silver in the streets, and their gold shall be removed: their silver and their gold shall not be able to deliver them in the day of the wrath of Enki: they shall not satisfy their souls, neither fill their bowels: because it is the stumblingblock of their iniquity.
+<sup>19</sup> They shall cast their silver in the streets, and their gold shall be removed.
+
+Their silver and their gold shall not be able to deliver them in the day of the wrath of Enki: they shall not satisfy their souls, neither fill their bowels: because it is the stumblingblock of their iniquity.
 
 <sup>20</sup> As for the beauty of his ornament, he set it in majesty: but they made the images of their abominations [and] of their detestable things therein: therefore have I set it far from them.
 
@@ -65,3 +80,4 @@ abominations [that] are in the midst of you; and you shall know that I am the Lo
 <sup>27</sup> The king shall mourn, and the prince shall be clothed with desolation, and the hands of the people of the land shall be troubled.
 
 I will do unto them after their way, and according to their deserts will I judge them; and they shall know that I am the Lord.
+
