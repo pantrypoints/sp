@@ -1,7 +1,7 @@
 ---
-heading: Chapter 
-title: "THE ASSUWA REBELLION IN ANATOLIA"
-weight: 4
+heading: Chapter 1f
+title: "The Assuwa Rebellion In Anatolia"
+weight: 26
 # author: Cronin
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 # image: "/covers/assembly.png"

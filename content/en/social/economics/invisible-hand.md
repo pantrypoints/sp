@@ -11,7 +11,10 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 toc: false
+aliases:
+  /social/economics/principles/invisible-hand/
 ---
+
 
 
 The invisible hand concept by Adam Smith is one of the most important ideas of Supereconomics, making up [the Third Law of Value](/social/economics/principles/part-2/chapter-01). 

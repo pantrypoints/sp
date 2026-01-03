@@ -4,7 +4,10 @@ c: "indigo"
 heading: "Appendix A3"
 weight: 708
 description: ""
+aliases:
+  /research/indian/gospel/appendix/a3/
 ---
+
 
 
 Maya will not allow us to know the will of God. On account of God's maya:

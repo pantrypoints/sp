@@ -5,6 +5,8 @@ c: "indigo"
 weight: 2
 author: "Swāmi Nikhilānanda"
 description: "Sri Ramakrishna was born at Kāmārpukur, a village in the Hooghly District in rural Bengāl."
+aliases:
+  /research/indian/gospel/intro/part-01/
 ---
 
 

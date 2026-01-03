@@ -1,7 +1,7 @@
 ---
 heading: Chapter 4
-title: "ACT IV THE END OF AN ERA: THE TWELFTH CENTURY BC"
-weight: 4
+title: "Act 4: The End Of An Era: The Twelfth Century Bc"
+weight: 64
 # author: Cronin
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 # image: "/covers/assembly.png"
@@ -60,9 +60,9 @@ that they have spawned a cottage industry of modern scholarship
 known as Ugaritic studies, include not only the archives and
 correspondence of the merchants and the king, but also examples
 of literature, mythology, history, religion, and other elements
-belonging to a thriving civilization aware of its own legacy. The
-151
-result is that we can reconstruct the city of Ugarit from its ruins
+belonging to a thriving civilization aware of its own legacy. 
+
+The result is that we can reconstruct the city of Ugarit from its ruins
 and can reconstitute as well, from its texts, the daily life and belief
 systems of its inhabitants. For example, it is clear that they
 worshipped a pantheon of deities, among whom El and Baal
@@ -76,5 +76,3 @@ also from the larger kingdom of the Hittites, in dynastic marriages
 complete with dowries that were quite literally fit for a king,
 though at least one of these marriages ended in a bitter divorce
 that dragged on in the courts for years.5
-
-

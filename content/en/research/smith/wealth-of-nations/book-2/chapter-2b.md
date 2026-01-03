@@ -27,7 +27,7 @@ The money which circulates the society's revenue among its members is also not i
 
 This power is the goods which can be bought with it.
 
-When we say that England's circulating money is £18 million, we only mean the amount of metal pieces which circulate in England. But when we say that a man is worth £50-100 a year, we mean= 
+When we say that England's circulating money is £18 million, we only mean the amount of metal pieces which circulate in England. But when we say that a man is worth £50-100 a year, we mean:
 - the amount of the metal pieces annually paid to him, and
 - the value of the goods he can annually buy.
 

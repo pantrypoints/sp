@@ -1,9 +1,22 @@
-## ECONOMIC AND COMMERCIAL CONNECTIONS OF UGARIT AND ITS MERCHANTS
+---
+heading: Chapter 4b
+title: "Economic And Commercial Connections Of Ugarit And Its Merchants"
+weight: 4
+# author: Cronin
+# description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
+# image: "/covers/assembly.png"
+c: darkslategray
+---
+
+
 
 The citizens and kings of Ugarit carried on lively trade relations
 throughout the lifetime of the city. It was clearly an international
 entrepôt, with ships of many nations arriving in the harbor of
-Minet el-Beida. It may have owed allegiance to Egypt during the
+Minet el-Beida. 
+
+
+It may have owed allegiance to Egypt during the
 first half of the fourteenth century BC, but was definitely a vassal
 of the Hittites from the second half of that century onward, after
 Suppiluliuma conquered the area, ca. 1350–1340 BC. Texts at the
@@ -38,7 +51,9 @@ the twelfth century—thanks to additional tablets, many of which
 have been found in recent decades within their houses, and some
 of which have changed our understanding of the city’s probable
 end.10 One such house is known as the “House of Yabninu,”
-located near the southern part of the royal palace. The house itself
+located near the southern part of the royal palace. 
+
+The house itself
 has still not been completely excavated, but is already known to
 have covered at least one thousand square meters, so Yabninu
 must have been a reasonably successful merchant. The sixty or
@@ -48,7 +63,8 @@ include documents written in Akkadian, Ugaritic, and the as-yetundeciphered lang
 the island of Cyprus but also found inscribed on vessels at Tiryns
 on the Greek mainland. The texts written on the tablets, as well as
 the imported objects found within the house, document that Yabninu’s mercantile activities included connections with Cyprus,
-the Levantine coast farther to the south, Egypt, and the Aegean.11
+the Levantine coast farther to the south, Egypt, and the Aegean.
+
 Another set of tablets was found within the so-called House of
 Rapanu, which was excavated in 1956 and 1958. The tablets,
 more than two hundred of them, were quickly studied and then
@@ -62,7 +78,8 @@ Cyprus (Alashiya), written at the time that the Sea Peoples
 threatened both. There are also letters exchanged with the king of
 nearby Carchemish and with the more-distant Egyptian pharaoh;
 the latter set are concerned with some sort of incident involving
-Canaanites on the Levantine coast.12
+Canaanites on the Levantine coast.
+
 One of the letters deals with trade in oil between Ugarit and
 Cyprus. It is from Niqmaddu III, the penultimate king of Ugarit,
 and was sent to the king of Alashiya, whom he calls his “father,”
@@ -77,12 +94,11 @@ mentioned: the one describing the coming of enemy ships to
 Ugarit, which Schaeffer thought had been found in a kiln, being
 baked before its dispatch to the king of Cyprus. We will discuss
 this text further below.
+
 Some of the most recently discovered tablets are those in the
 so-called House of Urtenu. This residence was initially uncovered
 by accident in the southern part of the site during the construction
-of a modern military bunker in 1973. The archaeologists were
-154
-allowed to dig through the spoil heap created by the digging of
+of a modern military bunker in 1973. The archaeologists were allowed to dig through the spoil heap created by the digging of
 the bunker, which incidentally destroyed the center of the house,
 and found a number of tablets, all of which have now been
 published. The newer tablets have come from the careful
@@ -96,7 +112,8 @@ possibly Tyre.14 One of the oldest was apparently sent by a king of
 Assyria, probably Tukulti-Ninurta I, to a king of Ugarit, perhaps
 Ammistamru II or Ibirana, and concerns the battle in which
 Tukulti-Ninurta and the Assyrians defeated Tudhaliya IV and the
-Hittites.15
+Hittites.
+
 As one of the excavators has pointed out, the tablets indicate
 that Urtenu was active at the beginning of the twelfth century BC,
 and that he had a high social status. He was apparently an agent
@@ -113,29 +130,24 @@ governors of the island and, intriguingly, a letter from an Ugaritic
 scribe who was actually living in Cyprus at the time. These five
 letters now join the other four from Alashiya that had previously
 been found in Rapanu’s house.17
+
 There are two additional letters in the house that contain
 references to two “Hiyawa-men,” who were reportedly waiting in
-the Lukka lands (later known as Lycia), in southwestern Anatolia,
-155
-for a ship to arrive from Ugarit. The letters were sent to
+the Lukka lands (later known as Lycia), in southwestern Anatolia, for a ship to arrive from Ugarit. The letters were sent to
 Ammurapi, the last king of Ugarit, by a Hittite king, probably to
 be identified as Suppiluliuma II, and one of his top officials. These
 are the first known references to Aegean people in the Ugarit
 archives, for “Hiyawa” is undoubtedly related to the Hittite word
 “Ahhiyawa,” which, as we have seen, is taken by most scholars to
-mean the Mycenaeans and the Bronze Age Aegean.18
-Fig. 9. Royal letters in Urtenu’s archive at Ugarit (illustrative
-rather than exhaustive; nodes = individuals sending or receiving
-letter(s); edges/lines = pairs between whom letter(s) sent; size of
-circles = number of letters; created by D. H. Cline).
+mean the Mycenaeans and the Bronze Age Aegean.
+
+
 There is also a letter from Pharaoh Merneptah of Egypt,
 responding to a request from the king of Ugarit—either Niqmaddu
 III or Ammurapi—for a sculptor to be sent, so that a statue of the
 pharaoh could be created and set up in the city, specifically in
 front of a temple to Baal. At the same time as the pharaoh denies
-this request in the letter, he gives a long list of luxury goods that
-156
-were being sent from Egypt to Ugarit. The goods were being
+this request in the letter, he gives a long list of luxury goods that were being sent from Egypt to Ugarit. The goods were being
 loaded onto a ship destined for Ugarit, he said, and included more
 than a hundred textiles and pieces of clothing, plus assorted other
 goods such as ebony wood and plaques of red, white, and blue
@@ -144,6 +156,7 @@ perishable and will not have survived in the archaeological record.
 It is a good thing that they are mentioned in this text, therefore;
 otherwise we might never have known that they once existed and
 were exchanged between Egypt and Ugarit.
+
 Another letter in this archive is from a
 messenger/representative named Zu-Aštarti, discussing the ship on
 which he had sailed from Ugarit. He states that he was detained
@@ -155,8 +168,8 @@ held up. May my brother know this…. Say to the king: ‘If they
 have received the horses which the king gave to the messenger of
 the land of Alashiya, then a colleague of the messenger will come
 to you. May they give those horses into his hand.’ ”
-20 It is not
-completely clear why he was “held up” in Ušnatu or even why the
+
+It is not completely clear why he was “held up” in Ušnatu or even why the
 letter is in Urtenu’s archives, though it is possible that horse
 trading was a state-protected industry in Ugarit at that time. A
 contemporary letter from the Hittite king Tudhaliya IV to

@@ -1,7 +1,7 @@
 ---
-heading: Chapter 1
-title: "BACK TO EGYPT"
-weight: 4
+heading: Chapter 1c
+title: "Back To Egypt"
+weight: 12
 # author: Cronin
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 # image: "/covers/assembly.png"
@@ -74,19 +74,19 @@ dating specifically to the time of Thutmose III, we often see
 depictions of foreigners presenting diplomatic gifts, delivering
 annual dues, or participating in a royally commissioned
 expedition that Thutmose III sent to Lebanon in order to acquire
-cedar.27
+cedar.
+
 Keftiu, Keftiu-men, and Keftiu-boats are mentioned in a variety
 of other contexts in Egypt from this period, including inscriptions
 on temples and notations on papyri. Among the most interesting
 of these is a papyrus from Thutmose III’s thirtieth year (about
-1450 BC) that mentions several “Keftiu-ships” in the context of the
-52
-importation of materials for the Egyptian navy: “Given to
+1450 BC) that mentions several “Keftiu-ships” in the context of the importation of materials for the Egyptian navy: “Given to
 craftsman [man’s name], this sheathing-timber for the Keftiuship”; “Today given to craftsman Tity for the other Keftiu-ship on
 his commission”; and “Given to craftsman Ina for the other …
 Keftiu-ship.”28 Similarly, an inscription on a wall of the Temple of
 Amun at Karnak from Thutmose III’s thirty-fourth year also
 mentions Keftiu-ships.29
+
 Although it is still unclear whether these ships are from Keftiu
 (that is, Minoan ships) or are capable of going to Keftiu (that is,
 Egyptian ships), it is clear that there was contact, and probably
@@ -101,6 +101,7 @@ also possible to go in a counterclockwise motion from Egypt to
 Canaan and Cyprus, thence to Anatolia and Rhodes, and from
 there to Crete, the Cycladic islands, and the Greek mainland, then
 back to Crete and south to Egypt.
+
 It is clear from the painting and inscription in the tomb of
 Menkheperreseneb, first prophet of Amun,30 that the Egyptians
 knew about Minoan royalty and understood them to be on a par
@@ -113,12 +114,11 @@ in each case.31 The picture presented seems to indicate that such
 royalty visited Egypt upon occasion, including perhaps a very
 special occasion. Did they all come at the same time (possibly a
 different perspective on the same event depicted in Rekhmire’s
-tomb?) or on separate occasions? We cannot be certain, but it is
-53
-interesting to consider the possibility of the principal figures of
+tomb?) or on separate occasions? We cannot be certain, but it is interesting to consider the possibility of the principal figures of
 the Late Bronze Age gathering together for some great event in
 Egypt, much as dignitaries gather today for a British royal
 wedding or a G-8 conference.
+
 The same term, wr (Prince or Chief), is also used elsewhere by
 Thutmose III, in the entry for the forty-second year of his Annals,
 where he mentions the “Prince of Tanaja,” the Egyptian
@@ -132,5 +132,3 @@ exchanging “gifts” with equals (or near equals) was perfectly
 acceptable. We will discuss this further in the next chapter, in the
 context of international trade conducted in the guise of gift giving
 during the fourteenth century BC.
-
-

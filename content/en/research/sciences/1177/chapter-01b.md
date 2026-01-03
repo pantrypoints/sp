@@ -1,7 +1,7 @@
 ---
-heading: Chapter 1
+heading: Chapter 1b
 title: "Flashback: Mesopotamia And The Minoans"
-weight: 4
+weight: 8
 # author: Cronin
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 # image: "/covers/assembly.png"
@@ -186,5 +186,3 @@ various sites on Crete in Middle and Late Bronze Age contexts,
 while Minoan pottery and other finished objects, or at least
 mentions of them, have been found in countries stretching from
 Egypt, Israel, Jordan, and Cyprus to Syria and Iraq.
-
-

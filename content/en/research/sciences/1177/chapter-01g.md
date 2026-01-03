@@ -1,11 +1,11 @@
 ---
 heading: Chapter 1g
 title: "The Assuwa Rebellion And The Ahhiyawa Question"
-weight: 4
-# author: Cronin
+weight: 32
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 c: darkslategray
 ---
+
 
 
 In 1430 BC the Hittites and their king Tudhaliya I/II were dealing with a coalition of renegade states collectively known as Assuwa.

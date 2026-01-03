@@ -1,8 +1,7 @@
 ---
-heading: Chapter
-title: "EGYPT AND CANAAN AT THE BATTLE OF MEGIDDO, 1479 BC"
-weight: 4
-# author: Cronin
+heading: Chapter 1e
+title: "Egypt And Canaan At The Battle Of Megiddo, 1479 Bc"
+weight: 24
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 # image: "/covers/assembly.png"
 c: darkslategray
@@ -85,7 +84,8 @@ Allenby proved that the opposite could be true as well—those
 who study history can successfully repeat it, if they choose to do
 so.43
 
-EGYPT AND MITANNI
+
+## EGYPT AND MITANNI
 
 Thutmose III also led campaigns to northern Syria, against the
 Mitannian kingdom that had come into existence in this area by
@@ -146,5 +146,5 @@ mid-fourteenth century BC, relations between Egypt and Mitanni
 were so cordial that Amenhotep married not one but two
 Mitannian princesses.
 
-Mitanni, Assyria, Egyptians. The world was already growing
-more interconnected, even if sometimes only in war.
+Mitanni, Assyria, Egyptians. The world was already growing more interconnected, even if sometimes only in war.
+

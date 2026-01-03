@@ -1,15 +1,12 @@
 ---
-heading: Chapter 1
-title: "Flashback: Mesopotamia And The Minoans"
-weight: 4
-# author: Cronin
+heading: Chapter 1d
+title: "Hatshepsut And Thutmose 3Rd"
+weight: 15
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
 # image: "/covers/assembly.png"
 c: darkslategray
 ---
 
-
-HATSHEPSUT AND THUTMOSE III
 
 Hatshepsut’s reign, just prior to that of Thutmose III, saw
 interactions not only with the Aegean but also with other areas of
@@ -19,6 +16,7 @@ global prestige, using diplomacy rather than war. She was of fully
 royal blood, the daughter of Pharaoh Thutmose I and Queen
 Ahmose—though it should be noted that her father had achieved
 royal status only by marrying into the family.
+
 Hatshepsut married her own half brother, Thutmose II, in an
 arrangement meant to help out the young man since he was only
 half-royal, for his mother was a minor royal wife rather than the
@@ -78,8 +76,8 @@ protruding—thighs and buttocks). There are also palm trees,
 exotic animals, and other details showing the distant locale, and
 depictions of the ships that transported the Egyptians to and from
 Punt, complete down to the masts and rigging.
-In the thirty-third year of his rule, sometime after 1450 BC,
-Thutmose III sent his own trade delegation to the land of Punt.
+
+In year 33 of his rule, sometime after 1450 BC, Thutmose III sent his own trade delegation to the land of Punt.
 This is duly recorded in his Annals, as is another expedition to the
 same area, sent in Year 38.38 These are some of the few instances,
 along with the expeditions he sent to Lebanon to acquire cedar,
@@ -87,6 +85,7 @@ where we can actually point to ongoing trade between Egypt and
 a foreign area during Thutmose III’s reign, though we suspect that
 much of the “tribute” (inw) depicted in the tomb scenes of the
 nobles from his reign is actually traded goods.
+
 Among the far-flung areas with which Egypt under Thutmose
 III was apparently trading, and from which he recorded receiving
 inw on three separate occasions, was a region known to the
@@ -97,9 +96,7 @@ during the Bronze Age. Thutmose’s scribes mention Isy at least
 four times in various inscriptions, including along-side Keftiu in
 his “Poetic Stele/Hymn of Victory”: “I have come to let You smite
 the West, Keftiu and Isy being in awe, and I let them see Your
-Majesty as a young bull, firm of heart, sharp of horns, whom one
-56
-cannot approach.”39 In the Annals of his ninth campaign, in Year
+Majesty as a young bull, firm of heart, sharp of horns, whom one cannot approach.”39 In the Annals of his ninth campaign, in Year
 34 (1445 BC), the “Chief of Isy” is said to have brought inw
 consisting of raw materials: pure copper, blocks of lead, lapis
 lazuli, an ivory tusk, and wood. Similarly, in the record for his

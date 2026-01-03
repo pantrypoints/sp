@@ -163,10 +163,6 @@ We perceive bodies only by the faculty of understanding within us, and not by im
 
 We know them not because we see or touch them, but only because we conceive them through thought. And so they help me know my own mind.
 
-
 <!-- Intellect alone perceives anything by being understood, not by the senses nor I now know that even bodies are perceived not by the senses or by imagination. This helps me perceive my own mind more easily than anything else. -->
 
 The grip of old opinions is hard to shake off. I must pause and meditate for a while on this new knowledge of mine, fixing it more deeply in my memory.
-
-
-

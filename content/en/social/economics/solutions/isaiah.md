@@ -7,7 +7,10 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
+aliases:
+  /superphysics/solutions/isaiah/
 ---
+
 
 
 <!-- In Supereconomics, we achieve this by setting its base valuation to the common grain of the country that it is measuring
@@ -79,3 +82,4 @@ _ | Superphysics paradigm | End Goal
 Economic data | Supereconomics | Real Prices, [Clearing Fund Rates](/research/schumacher/pool-clearing/part-1)
 Health data |  [Bio Superphysics](/medical) | Disease prediction
 Historical data | [Supersociology](/social/supersociology) | Social and political predictions 
+

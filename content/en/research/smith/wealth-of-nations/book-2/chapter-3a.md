@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 c: "seagreen"
 description: "Productive labour adds value while unproductive labour does not. The labour of a manufacturer adds to the value of the materials which he works on"
-icon:  "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

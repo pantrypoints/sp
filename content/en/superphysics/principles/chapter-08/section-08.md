@@ -12,6 +12,7 @@ weight: 510
 icon: "Juan"
 aliases:
   /superphysics/principles/chapter-08h
+  /superphysics/fallacies/red-herring/
 ---
 
 

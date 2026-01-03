@@ -5,7 +5,10 @@ date: 2025-03-08
 image: "/graphics/math/math.jpg"
 description: "Supermath"
 weight: 4
+aliases:
+  /supermath/chapter-01/
 ---
+
 
 
 
