@@ -8,36 +8,32 @@ c: darkslategray
 ---
 
 
+1. Keftiu (Crete) and
+2. Tanaja (mainland Greece)
 
+3. Knossos and its port city of Amnisos
+4. Phaistos and Kydonia, listed in an order that goes from east to west
 
+All of these either had Minoan palaces or, in the case of Amnisos, functioned as a port for a
+nearby Minoan palace.
 
-In the years since then, a number of scholars have worked on
-deciphering the names on the list and the meaning behind their
-appearance. The German scholar Elmar Edel published the first
-thorough consideration of all five statue base lists in 1966; a
-second edition, updated and with revisions and emendations, was published just a few years ago, forty years later, in 2005. In that
-interval, many other scholars devoted much thought and ink to
-the possible interpretations of the list.4 
-
-First on the list, after the headnames of Keftiu (Crete) and
-Tanaja (mainland Greece) come a few names of important
-Minoan sites on Crete, including Knossos and its port city of
-Amnisos, followed by Phaistos and Kydonia, listed in an order
-that goes from east to west. All of these either had Minoan
-palaces or, in the case of Amnisos, functioned as a port for a
-nearby Minoan palace. Next on the list comes the island of
-Kythera, positioned midway between Crete and mainland Greece,
+Next on the list comes the island of Kythera, positioned midway between Crete and mainland Greece,
 and then important Mycenaean sites and regions on mainland
 Greece, including Mycenae and its port city of Nauplion, the
 region of Messenia, and perhaps the city of Thebes in Boeotia.
 Last on the list are more names from Minoan Crete, this time in
 order from west to east and including Amnisos again.
+
 The list looks suspiciously like an itinerary of a round-trip
-voyage from Egypt to the Aegean and back again. According to
+voyage from Egypt to the Aegean and back again.
+
+According to
 the order of the names, the voyagers from Egypt went first to
 Crete, perhaps to visit the Minoan royalty and merchants with
 whom, by this point, the Egyptians had been familiar for almost a
-century. They then continued, via Kythera, to mainland Greece to
+century.
+
+They then continued, via Kythera, to mainland Greece to
 visit the Mycenaeans—the new power on the scene, who were
 taking over the trade routes to Egypt and the Near East from the
 Minoans about this time. And then they returned to Egypt via
@@ -108,6 +104,7 @@ Mesopotamia. Their presumed purpose was to ensure that the
 gods and future generations would know the identity and
 generosity of the donor/builder, and the date when the building,
 statue, or other construction was completed.
+
 What makes these plaques at Mycenae unique is simply that—
 they are unique in the Aegean. Actually, they are exclusive to
 Mycenae, out of all the places in the entire ancient Mediterranean
@@ -135,8 +132,6 @@ with which Egypt was in contact during this period, the
 correlation of these objects with the names on the Aegean List
 suggests that something unusual in terms of international contact
 had probably taken place during Amenhotep III’s reign.
-Fig. 6. Faience plaque of Amenhotep III, found at Mycenae
-(photograph by E. H. Cline).
 
 
 The imported Egyptian and Near Eastern objects found in the
@@ -153,24 +148,4 @@ previous centuries. If Egyptian and Minoan envoys and traders
 dominated the routes to the Aegean during the earlier periods,
 they were now most likely either joined, or even replaced, by
 others from Canaan and Cyprus.
-This more complex international situation continued
-throughout the next two centuries, but there is a shift in the
-importation of foreign goods into the Aegean as early as the end
-of the fourteenth century BC. At the same time that there is a
-sudden drop in the number of imports on Crete, there is a large
-increase on the Greek mainland. If this shift in the magnitude of
-importation—from Crete to mainland Greece—is real, it seems
-possible (although decidedly conjectural) that the decrease and
-ultimate cessation of Orientalia arriving in Crete might be linked
-to the destruction of Knossos in about 1350 BC, and to a
-Mycenaean takeover of the trade routes to Egypt and the Near
-East soon thereafter.8
-Amenhotep III’s Aegean List possibly records such a situation,
-for the sites listed on the statue base include both Minoan sites on
-Crete and Mycenaean sites on the Greek mainland. If an Egyptian
-embassy had been sent to the Aegean during the reign of
-Amenhotep III, it might have had a dual mission: to affirm
-connections with an old and valued trading partner (the Minoans)
-and to establish relations with a new rising power (the
-Mycenaeans).9
 

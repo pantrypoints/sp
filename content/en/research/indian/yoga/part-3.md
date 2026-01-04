@@ -8,6 +8,36 @@ weight: 8
 
 
 
+<!-- ॥ २.१८ ॥ samkya
+Sanskrit: प्र॒का॒शक्रि॒यास्थि॑तिशी॒लं भू॒तेन्द्रियात्म॒कं
+भो॒गापवर्गा॒र्थं दृ॒श्यम् ॥
+Romanization (IAST):
+prakāśa-kriyā-sthiti-śīlaṃ bhūtendriyātmakaṃ
+bhogāpavargārthaṃ dṛśyam
+Word-by-Word Meaning:
+
+prakāśa = illumination, sentience, light (guna of sattva)
+
+kriyā = activity, dynamism (guna of rajas)
+
+sthiti = stability, inertia (guna of rajas)
+
+śīlam = having the nature of, characterized by
+
+bhūta-indriya-ātmakam = composed of the elements and the senses
+
+bhoga = experience (of pleasure and pain)
+
+apavarga = liberation, release
+
+artham = for the purpose of
+
+dṛśyam = the seen, the object of perception (i.e., Prakṛti)
+
+English Translation:
+"The seen (objective universe, Prakṛti) has the nature of illumination, activity, and inertia. It is composed of the elements and the senses, and it exists for the twofold purpose of providing experience and facilitating liberation." -->
+
+
 <sup>1</sup> Mental focus binds the mind into a single point.
 
 <sup>2</sup> Dhyana is focusing all of the mind's perceptual flow into one object <sup>3</sup> so that the mind sheds its own form and attains samadhi with that object. 

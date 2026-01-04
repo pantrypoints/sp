@@ -71,22 +71,32 @@ Movement in physical space comes from space particles of the Air Element which M
 
 ### Rule 1: No Void
 
-> No identity moves into the place of another body unless at the same time that other body moves into the place of another identity.
+> No identity moves into the place of another identity unless at the same time that other identity moves into the place of another identity.
 
-This is the most important rule as it also manifests in Biology.
+This is taken from Spinoza's Principles of Cartesian Philosophy Part 2, Proposition 7 and is the most important rule as it manifests in all the sciences, even Economics.
 
 
 ### Rule 2: Straight or Circular 
 
 > Every moving identity moves in a straight line when alone, and in a curve or a circle when moving with others. When in a circle, it moves away from the center.
 
+This is taken from Spinoza's Principles of Cartesian Philosophy Part 2, Proposition 15-17
+
+
 ### Rule 3: Collisions
 
 > When a weaker identity hits a stronger, it will be deflected. When a stronger hits a weaker, it will transfer some of its force to the weaker
 
+This is taken from Spinoza's Principles of Cartesian Philosophy Part 2, Proposition 20
+
+
+
 ### Rule 4: State Continuity
 
 Each identity remains as much as it can always in the same state. It is never changed except by external causes.
+
+This is taken from Spinoza's Principles of Cartesian Philosophy Part 2, Proposition 14
+
 
 
 

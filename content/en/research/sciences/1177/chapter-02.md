@@ -1,6 +1,6 @@
 ---
 heading: Chapter 2
-title: "Act Ii An (Aegean) Affair To Remember: The Fourteenth Century BC"
+title: "Act 2: An Aegean Affair To Remember: 14th Century BC"
 weight: 38
 # author: Cronin
 # description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
@@ -48,7 +48,9 @@ Each of the five bases, as well as many of the others, is inscribed
 with a series of topographical names carved into the stone within
 what the Egyptians called a “fortified oval”—an elongated oval
 carved standing upright, with a series of small protrusions all
-along its perimeter. This was meant to depict a fortified city,
+along its perimeter.
+
+This was meant to depict a fortified city,
 complete with defensive towers (hence the protrusions). Each
 fortified oval was placed on, or rather replaced, the lower body of
 a bound prisoner, portrayed with his arms behind his back and
@@ -61,43 +63,19 @@ to conquering them, they still wrote the names within such
 “fortified ovals” as an artistic and political convention, perhaps as
 symbolic domination.
 
-Together the names on these statue bases formed a series of
-geographical lists that designated the world known to the
-Egyptians of Amenhotep III’s time, in the early fourteenth century
-BC. Some of the most important peoples and places in the Near
-East at that time were named on the lists, including the Hittites in
-the north, the Nubians in the south, and the Assyrians and Babylonians to the east. Taken as a whole, the lists were unique
-in the history of Egypt.
+These statue bases had a list of geographical names, as an “Aegean List”, showing the world known to during Amenhotep III’s time, in the early fourteenth century BC.
 
-But what immediately strikes us is that the list carved by the
-stonemason on the fifth statue base contained names never before
-mentioned in Egyptian inscriptions. They were the names of cities
+The list has names never before mentioned in Egyptian inscriptions.
+
+They were the names of cities
 and places located to the west of Egypt—strange names, such as
 Mycenae, Nauplion, Knossos, Kydonia, and Kythera, written on
 the left front and left side of the base, and with two more names
 written separately on the right front side of the base, as if they
 were titles placed at the head of the list: Keftiu and Tanaja.
 
-What was the meaning of this list and what did the names
-represent? For the past forty years, modern archaeologists and
-Egyptologists have been debating the significance of the fifteen
-names found on this statue base, now commonly referred to as
-the “Aegean List.”
+What was the meaning of this list and their names?
 
-
-German archaeologists originally excavated the statue base,
-and its companions, in the 1960s, but sometime in the 1970s it
-was accidentally destroyed. According to one unverified story,
-members of a local Bedouin tribe built a fire under the base and
-poured cold water onto it in an attempt to crack off the inscribed
-panels, in order to sell them on the antiquities market. The
-official version is that wildfires in the area caused the damage.
-Whoever, or whatever, the culprit, the entire base was shattered
-into nearly a thousand pieces. Until recently, only a few color
-photographs of the original base were left for archaeologists,
-which was most unfortunate, for the names on the list are so
-distinctive that thirteen of the fifteen had never previously been
-seen in Egypt … and never would be again.
 What modern tourists to the site now see (usually as they are
 passing by the ruins in an air-conditioned bus on their way to the
 nearby Valley of the Kings) are the statue bases, and the statues
@@ -113,24 +91,11 @@ reconstructing and restoring them. The eight hundred pieces from
 the Aegean List alone took more than five years to piece
 together.2
 
-Only two of the names on the Aegean List were already
-familiar to the Egyptian scribes and to modern Egyptologists—the
-two that seem to be the names used as titles at the top of the list:
-Keftiu, which was the Egyptian word for the island of Crete, and
-Tanaja, which seems to have been the Egyptian word for
-mainland Greece. These two names began to appear in Egyptian
-texts during the time of Hatshepsut and Thutmose III, nearly a
-century earlier, but never in the company of specific toponyms of
-individual cities and areas in the Aegean.
 
-The other names on this statue base list were so unusual, and
-yet almost instantly recognizable, that the first Egyptologist to
-publish them in English, the eminent professor Kenneth Kitchen
-of the University of Liverpool, was initially hesitant to suggest a
-translation for them, for fear of scholarly ridicule. In his first
-short note on the statue base inscription, which was only a few
-pages long in the 1965 issue of the scholarly journal Orientalia,
-Kitchen remarked cautiously: “I hardly like to put the following
-idea on record; readers may ignore it if they wish. The two names ‘Amnisa and Kunusa look uncomfortably like Amniso(s) and …
-Knossos, famous ancient settlements on the north coast of Crete.”3
+Only two of the names were familiar:
+
+1. Keftiu or Crete
+2. Tanaja or mainland Greece
+
+The two names ‘Amnisa and Kunusa look uncomfortably like Amniso(s) andKnossos, famous ancient settlements on the north coast of Crete.
 

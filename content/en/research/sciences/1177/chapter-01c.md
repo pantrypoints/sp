@@ -10,7 +10,7 @@ c: darkslategray
 
 
 
-The goods mentioned above represent only a tiny portion of those that once crossed the Mediterranean Sea, for many of the goods traded during the Late Bronze Age
+<!-- The goods mentioned above represent only a tiny portion of those that once crossed the Mediterranean Sea, for many of the goods traded during the Late Bronze Age
 were perishable and would be unlikely to leave much in the way
 of identifiable remains today. Grain, wine, spices, perfumes,
 wood, and textiles almost certainly have long since disappeared.
@@ -25,17 +25,16 @@ the existence of perishable trade goods can sometimes be
 identified in written texts or by depiction in wall paintings that
 have survived to the present. Such paintings, inscriptions, and
 literary references can serve as less ambiguous guides to contacts
-between peoples, provided that they are interpreted correctly.
+between peoples, provided that they are interpreted correctly. -->
 
 
-Thus, the representations of foreign peoples in a number of painted Egyptian tombs dating to the reigns of New Kingdom
+<!-- Thus, the representations of foreign peoples in a number of painted Egyptian tombs dating to the reigns of New Kingdom
 pharaohs, from Hatshepsut through Amenhotep III, are invaluable
 as concrete attestations to diplomatic, commercial, and
 transportation networks functioning during the fifteenth and
-fourteenth centuries BC.22
+fourteenth centuries BC.22 -->
 
-It is during Hatshepsut’s reign, in the fifteenth century BC,
-that the first of the tombs was built in which Aegean peoples are
+During Hatshepsut’s reign, in the fifteenth century BC, that the first of the tombs was built in which Aegean peoples are
 actually shown in wall paintings. In these tombs, we frequently
 see Minoans depicted, often with their goods and with
 inscriptions that identify them in unequivocal terms as coming
@@ -43,6 +42,7 @@ from the island of Crete. For instance, in the tomb of Senenmut,
 Hatshepsut’s architect, adviser, and perhaps paramour, an
 embassy from the Aegean is pictured, with six men carrying metal
 vases of general Aegean manufacture.23
+
 In another painting, within the tomb of Rekhmire, vizier to
 Thutmose III (ca. 1450 BC), we see men dressed in typical
 Aegean-style kilts and carrying specifically Aegean objects. Next

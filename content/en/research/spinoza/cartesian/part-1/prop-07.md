@@ -13,6 +13,7 @@ weight: 13
 ## Proposition 7: The existence of God is also proved from the fact that we ourselves exist while having the idea of him.
 
 <!-- I would be of such a nature that I would involve necessary existence -->
+
 Proof: If I had the force to preserve myself, then I would exist (Lemma 2). 
 
 Therefore (Corollary Lemma 1), my nature would contain all perfections.
@@ -27,7 +28,9 @@ Therefore, I have no force to preserve myself.
 
 This would be inconsistent with Lemma 1, and with my imperfections (Ax. 5).
 
-I cannot now exist, while I am existing, without being preserved either by myself- if indeed I have that force-or by something else that does have that force (Axioms 10 and I I ). 
+I cannot exist while I am existing without being preserved either:
+- by myself (if indeed I have that force) or
+- by something else that has that force (Axioms 10 and I I )
 
 But I exist (Scholium Prop. 4) even if I do not have the force to preserve myself. 
 
@@ -37,13 +40,14 @@ But I exist (Scholium Prop. 4) even if I do not have the force to preserve mysel
 
 <!-- ; that is (Lemma 2), something whose nature involves necessary existence; that is (Corollary Lemma I ), something that contains  that I clearly understand to pertain to a supremely perfect being.  -->
 
-Therefore, a supremely perfect being exists (Def. 8), God exists. Q.E.D.
+**Therefore, a supremely perfect being exists (Def. 8), God exists.** Q.E.D.
 
-Scholium: To demonstrate this proposition Descartes assumes 2 axioms:
 
-1. That which can effect what is greater or more difficult can also effect what is less.
+Scholium: Descartes demonstrates this through 2 axioms:
 
-2. It is a greater thing to create or (Ax. 10) to preserve substance than the attributes or properties of substance.
+1. Whatever can effect something greater or more difficult can also effect what is less.
+
+2. Creating or (Ax. 10) preserving substance is greater than the attributes or properties of that substance.
 
 I do not know what he means by these axioms. 
 
@@ -58,19 +62,45 @@ So one thing can be easy and difficult at the same time in respect of different 
 
 <!-- 1 36 Principles of Cartesian Philosophy -->
 
-Now if, of things that can be effected by the same cause, he calls those difficult that need great effort and those easy that need less (e.g., the force that can raise 50 pounds can raise 25 pounds twice as easily) then surely the axiom is not absolutely true, nor can he prove from it what he aims to prove. 
+If he means that
+- a cause creates many effects
+- the more difficult ones that need great effort than the easy ones
 
-For when he says, "If I had the force to preserve myself, I should also have the force to give myself all the perfections that I lack" (because this latter does not require as much power), I would grant him that the strength that I expend on preserving myself could effect many other thing.
+Then the axiom is not absolutely true
 
-Far more easily had I not needed it to preserve myself, but I deny that, as long as I am using it to preserve myself,36 I can direct it to effecting other things however much easier, as can clearly be seen in our example.
+<!-- (e.g., the force that can raise 50 pounds can raise 25 pounds twice as easily) then surely , nor can he prove from it what he aims to prove.  -->
 
-The difficulty is not removed by saying that, because I am a thinking thing, I must necessarily know whether I am expending all my strength in preserving myself, and whether this is also the reason why I do not give myself the other perfections. 
+He says:
 
-For-apart from the fact that this point is not at issue, but only how the necessity of this proposition follows from this axiom- if I knew this, I should be a greater being and perhaps require greater strength than I have so as to preserve myself in that greater perfection. 
+"If I had the force to preserve myself, I should also have the force to give myself all the perfections that I lack"
 
-I do not know whether it is a greater task to create or preserve substance than to create or preserve its attributes. 
+But I think that the power to preserve and perfect are different. 
 
-That is, to speak more clearly and in more philosophic terms, I do not know whether a substance, so as to preserve its attributes, does not need the whole of its virtue and essence with which it may be preserving itself.
+<!--  it does not follow that the ability to preserve 
+The force that I expend to preserve myself could effect many other thing. -->
+
+ <!-- (because this latter does not require as much power), I would grant him that the strength that I expend on  -->
+
+<!-- Far more easily had I not needed it to preserve myself, but I deny that, as long as I am using it to preserve myself, I can direct it to effecting other things however much easier, as can clearly be seen in our example. -->
+
+Descartes could say that I am a thinking thing so I use this thinking to:
+- preserve myself
+- not make myself perfect
+
+ <!-- must necessarily know whether I am expending all my strength in preserving myself, and whether this is also the reason why I do not give myself the other perfections.  -->
+
+But this cannot be proven.
+
+<!-- For-apart from the fact that this point is not at issue, but only how the necessity of this proposition follows from this axiom- if I knew this, I should be a greater being and perhaps require greater strength than I have so as to preserve myself in that greater perfection.  -->
+
+**I do not know whether it is a greater task to create or preserve substance than to create or preserve its attributes.** 
+
+{{< n n='The creation of attributes is different from creation. This shows how Descartes is a dualist, but Spinoza is a non dualist >}}
+
+
+<!-- That is, to speak more clearly and in more philosophic terms,  -->
+
+I do not know whether a substance, so as to preserve its attributes, does not need the whole of its virtue and essence with which it may be preserving itself.
 
 <!-- But let us leave this and examine further what our noble Author here intends;
 that is,  -->
@@ -83,7 +113,9 @@ I do not think he means:
 - 'easy' as that which does not imply any contradiction 
 <!-- (and therefore can readily be conceived as coming into being) -although  -->
 
-In the "Third Meditation" he seems at first glance to mean this when he says: "Nor should I think that those things that I lack are more difficult to acquire than those that are already in me. For on the contrary it is obvious that it was far more difficult for me, a thinking thing or substance, to emerge from nothing than ... ", etc. 37 
+In the "Third Meditation" he seems at first glance to mean this when he says: 
+
+"Nor should I think that those things that I lack are more difficult to acquire than those that are already in me. For on the contrary it is obvious that it was far more difficult for me, a thinking thing or substance, to emerge from nothing than ... ", etc. 37 
 
 This would not be consistent with the Author's words nor would it smack of his genius. 
 

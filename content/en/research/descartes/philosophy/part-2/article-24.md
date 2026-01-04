@@ -65,12 +65,17 @@ Body or matter is everything which is transported together as a unit.
 Motion is a property of the moving body. It is not a substance.
 
 This is similar to how:
-- shape is a property of a shaped thing
-- rest is the property of a thing at rest.
+- shape is a property [vibrational aspect] of a shaped thing
+- rest is the property [vibrational aspect] of a thing at rest.
 
-
-Motion is merely a mode of the body just as:
+Motion is merely a mode [vibrational aspect] of the body just as:
 - shape is the mode or property of a shaped thing
 - rest is the mode or property of a resting thing.
 
 **Motion is not an inherent property.**
+
+
+
+<!-- motion is the transportation of one part of matter, or of one body, from the vicinity of those bodies that immediately touch it and which we regard as being at rest, into the vicinity of others. By a body, or a part of matter, I mean all that which is transported together, even though it may perhaps be composed of many parts which themselves have their own agitation producing other motions. And I say that it is the transportation, and not the force or the action that transports, in order to show that motion is always in the mobile and not in the mover; for it seems to me that these two things are not usually distinguished carefully enough. 
+
+Motion is a property of the moving body and not a substance, just as shape is a property of a shaped thing, and rest is a property of the thing that is at rest. -->

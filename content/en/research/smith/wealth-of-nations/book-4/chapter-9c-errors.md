@@ -105,7 +105,7 @@ However, in the political body, nature's wisdom has fortunately made ample provi
 
 {{< s v="29" >}} The capital error of this system was in representing the artificers, manufacturers, and merchants as unproductive.
 
-The following show this error= 
+The following show this error:
 
 
 {{< s v="30" >}} 1. This class annually reproduces the value of its own annual consumption.
@@ -286,7 +286,7 @@ The most distinct and best connected account of this doctrine is found in The Na
 
 For some time, he was Intendant of Martinico.
 
-![Quesnay portrait](https= //socioecons.files.wordpress.com/2014/11/quesnay_portrait.jpg?w=238)
+![Quesnay portrait](https://socioecons.files.wordpress.com/2014/11/quesnay_portrait.jp)
 
 
 Mr. Quesnay was a very modest and simple man. The admiration of his sect for him is not inferior to the admiration of ancient philosophers for the founders of their respective systems.
