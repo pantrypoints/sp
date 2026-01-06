@@ -27,14 +27,10 @@ Egypt, Cyprus, Assyria, the Hittites, Carchemish, Tyre, Beirut,
 Amurru, and Mari. Most recently, the Aegean has been added to
 this list as well.6
 
-The tablets also specifically mention the exportation from
-Ugarit of perishable goods, including dyed wool, linen garments, oil, lead, copper, and bronze objects, especially to the Assyrians,
-located far to the east in Mesopotamia, as well as extensive trade
+The tablets mention the exportation from Ugarit of perishable goods, including dyed wool, linen garments, oil, lead, copper, and bronze objects, especially to the Assyrians, located far to the east in Mesopotamia, as well as extensive trade
 connections with Beirut, Tyre, and Sidon on the Phoenician coast.
 
-Objects imported from the Aegean, Egypt, Cyprus, and
-Mesopotamia have been found at Ugarit itself, including
-Mycenaean vessels, a bronze sword inscribed with the name of the
+Objects imported from the Aegean, Egypt, Cyprus, and Mesopotamia have been found at Ugarit itself, including Mycenaean vessels, a bronze sword inscribed with the name of the
 Egyptian pharaoh Merneptah, hundreds of fragments of alabaster
 jars, and other luxury items.8 These, and other more mundane
 goods, such as wine, olive oil, and wheat, reached Ugarit through
@@ -53,8 +49,7 @@ of which have changed our understanding of the city’s probable
 end.10 One such house is known as the “House of Yabninu,”
 located near the southern part of the royal palace. 
 
-The house itself
-has still not been completely excavated, but is already known to
+The house itself has still not been completely excavated, but is already known to
 have covered at least one thousand square meters, so Yabninu
 must have been a reasonably successful merchant. The sixty or
 more tablets that were discovered within the ruins of this house
@@ -160,8 +155,9 @@ were exchanged between Egypt and Ugarit.
 Another letter in this archive is from a
 messenger/representative named Zu-Aštarti, discussing the ship on
 which he had sailed from Ugarit. He states that he was detained
-en route. Some scholars have wondered whether he had perhaps
-even been kidnapped, but he writes only: “On the sixth day I was
+en route. 
+
+Some scholars have wondered whether he had perhaps even been kidnapped, but he writes only: “On the sixth day I was
 at sea. As a wind took me, I reached the territory of Sidon. From
 Sidon to the territory of Ušnatu it bore me, and in Ušnatu I am
 held up. May my brother know this…. Say to the king: ‘If they

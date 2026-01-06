@@ -33,7 +33,9 @@ The Sun radiates to all members of its solar system or gravitational theory. The
 This mirrors the Hindu concept of Karma. We put it in the Convertible Layer which decides whethere particle interact or not.   -->
 
 
-## 5. Nothing Changes Except the Four Laws 
+## 5. Everything Changes Except the Four Laws 
+
+This was only added by the Essassani after noticing that the first 4 laws were not enough for some civilizations. 
 
 
 <!-- (Material Layer)

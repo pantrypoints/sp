@@ -8,13 +8,12 @@ c: darkslategray
 ---
 
 
-
-For the Trojan War, and the city of Troy, about 1250 BC, we have
+<!-- For the Trojan War, and the city of Troy, about 1250 BC, we have
 a plethora of data, even if it is still inconclusive. However, for the
 other event that is said to have taken place at about this same
 time, we have much less evidence, and what we have is even
 more inconclusive. This relates to the Exodus of the Hebrews from
-Egypt, the tale of which is told in the Hebrew Bible.
+Egypt, the tale of which is told in the Hebrew Bible. -->
 
 
 The book of Exodus says that the Israelites had been in Egypt for 400 years following their initial arrival during the lifetime of Jacob, one of the biblical patriarchs, probably in about the seventeenth century BC. If so, they would have arrived in Egypt during the time of the

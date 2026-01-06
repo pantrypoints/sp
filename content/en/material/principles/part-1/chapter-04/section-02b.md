@@ -38,9 +38,9 @@ Time | 13.8 billion years | Eternal
 
 ## The Fallacy of the Big Bang
 
-The Newtonian belief that gravity comes from matter leads to the idea of a material Big Bang. 
+The Post-Newtonian belief that gravity comes from matter leads to the idea of a material Big Bang. Note that Newton writes in the General Scholium that gravity comes from the Spirit of God, which is consistent with the Aether, and so we are not totally anti-Newtonian, rather just anti post-Newtonian, which includes the scammer Einstein.
 
-This was postulated by the priest George Lemaitre after atomic theory was established. 
+This was matter-based universe was postulated by the priest George Lemaitre after atomic theory was established. 
 
 {{< q a="Georges Lemaitre" c="The Primeval Atom">}}
 In this first phase of the expansion of space, starting asymptotically with a zero radius, we have particles of enormous velocities immersed in radiation.
@@ -49,7 +49,8 @@ In this first phase of the expansion of space, starting asymptotically with a ze
 
 This was later apparently "proven" by the cosmic microwave background which was detected many years later. 
 
-However, since Newton did not know the cause of gravity, then the cause of the Big Bang was also unknown. And so physicists could only guess how the universe began and how it will end. 
+However, since Newton did not know the cause of gravity or how the "Spirit of Lord God" operates, then the cause of the Big Bang was also unknown. And so physicists could only guess how the universe began and how it will end. 
+
 
 {{< q a="Newton" c="Principia Mathematica, Book 1, Definitions" >}}
 The quantities of these centripetal forces can be called accelerative, motive, absolute.. I do not bother to know where such an absolute force come from. I just want to give them a mathematical form.
@@ -65,7 +66,7 @@ The Fallacy of the Big Bang was later seen through:
 
 In 1644, Descartes published his expansion theory with an analogy of a sponge:
 
-{{< q a="Rene Descartes" c="Principia Philosophia, Part 2, Article " >}}
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 2, Article 6" >}}
 A sponge full of water is different from a dry sponge because the wet sponge has wider pores. This makes its body more diffused over a larger physical space. But this does not mean that each sponge-particle has greater metaphysical space when wet than when dry. 
 {{< /q >}}
 

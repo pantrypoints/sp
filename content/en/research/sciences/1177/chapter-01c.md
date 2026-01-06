@@ -34,19 +34,23 @@ as concrete attestations to diplomatic, commercial, and
 transportation networks functioning during the fifteenth and
 fourteenth centuries BC.22 -->
 
-During Hatshepsut’s reign, in the fifteenth century BC, that the first of the tombs was built in which Aegean peoples are
-actually shown in wall paintings. In these tombs, we frequently
-see Minoans depicted, often with their goods and with
+Hatshepsut’s reign was in the 15th century BC, that the first of the tombs was built in which Aegean peoples are
+actually shown in wall paintings. 
+
+In these tombs, we frequently see Minoans depicted, often with their goods and with
 inscriptions that identify them in unequivocal terms as coming
-from the island of Crete. For instance, in the tomb of Senenmut,
+from the island of Crete. 
+
+For instance, in the tomb of Senenmut,
 Hatshepsut’s architect, adviser, and perhaps paramour, an
 embassy from the Aegean is pictured, with six men carrying metal
 vases of general Aegean manufacture.23
 
 In another painting, within the tomb of Rekhmire, vizier to
 Thutmose III (ca. 1450 BC), we see men dressed in typical
-Aegean-style kilts and carrying specifically Aegean objects. Next
-to them is written (in part), “Coming in peace by the chiefs of
+Aegean-style kilts and carrying specifically Aegean objects. 
+
+Next to them is written (in part), “Coming in peace by the chiefs of
 Keftiu and ‘Islands in the Midst of the Sea,’ bowing down and
 bending the head to the might of his Majesty the King of Upper
 and Lower Egypt.”24 This is clearly a representation of an Aegean
@@ -59,14 +63,13 @@ next to each. Although unproven, it seems likely that we are
 looking here at a depiction of some major event that took place
 during Thutmose III’s reign, and that the delegates or merchants
 from the Aegean are just one part of the multinational crowd that
-has gathered or been summoned. If so, this would most likely be
-the Sed (or Jubilee) festival, first celebrated by a pharaoh after
+has gathered or been summoned.
+
+If so, this would most likely be the Sed (or Jubilee) festival, first celebrated by a pharaoh after
 thirty years of rule and then irregularly thereafter; in Thutmose III’s case, we know that he held at least three such festivals,
 which is not surprising since he ruled for fifty-four years.25
 
-
-In all, there are about fourteen tombs dating from
-Hatshepsut’s reign and/or that of Thutmose III, all belonging to
+There are about 14 tombs dating from Hatshepsut’s reign and/or that of Thutmose III, all belonging to
 high-ranking officials and advisers, that depict delegations of
 foreigners visiting Egypt, including Aegean peoples, Nubians, and
 Canaanites, all carrying foreign products.26 In the nine tombs
@@ -102,13 +105,15 @@ Canaan and Cyprus, thence to Anatolia and Rhodes, and from
 there to Crete, the Cycladic islands, and the Greek mainland, then
 back to Crete and south to Egypt.
 
-It is clear from the painting and inscription in the tomb of
-Menkheperreseneb, first prophet of Amun,30 that the Egyptians
-knew about Minoan royalty and understood them to be on a par
+Menkheperreseneb was the first prophet of Amun.
+
+The Egyptians knew about Minoan royalty and understood them to be on a par
 with those from other foreign areas. On the walls of the tomb we
 can see the “Prince of Keftiu” (Crete) in the company of the Prince
 of the Hittites (from Anatolia), the Prince of Tunip (probably in
-Syria), and the Prince of Qadesh (in Syria). The title used to
+Syria), and the Prince of Qadesh (in Syria). 
+
+The title used to
 identify the figures, wr, meaning “Prince” or “Chief,” is the same
 in each case.31 The picture presented seems to indicate that such
 royalty visited Egypt upon occasion, including perhaps a very
@@ -124,7 +129,9 @@ Thutmose III, in the entry for the forty-second year of his Annals,
 where he mentions the “Prince of Tanaja,” the Egyptian
 designation for mainland Greece. Here he lists objects from the
 Aegean, including a silver vessel in Keftiuan workmanship and
-four bowls with handles of silver. Interestingly, he calls them inw,
+four bowls with handles of silver.
+
+Interestingly, he calls them inw,
 a term usually translated as “tribute,” but which more likely
 means “gift” in this context.32 Engaging in “regular” trade may
 have been considered beneath the dignity of the king, whereas

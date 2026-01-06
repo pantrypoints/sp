@@ -13,15 +13,17 @@ From the Amarna Letters that date specifically to the time of
 Akhenaten, we know that Egypt’s international contacts expanded
 during his reign to include the rising power of Assyria, under its
 king Assur-uballit I, who had come to the throne in the decade
-before Amenhotep III died. There are also eight letters to and
-from the king of the island of Cyprus, known to the Egyptians and
+before Amenhotep III died.
+
+There are also eight letters to and from the king of the island of Cyprus, known to the Egyptians and
 others of the ancient world as Alashiya, which provide confirmation of contact with Egypt.
 
 These letters sent to and from Cyprus, which probably date to
 the time of Akhenaten rather than Amenhotep III, are of great
 interest, in part of because of the staggering amount of raw
-copper mentioned in one of the letters. Cyprus was the primary
-source of copper for most of the major Aegean and Eastern
+copper mentioned in one of the letters. 
+
+Cyprus was the primary source of copper for most of the major Aegean and Eastern
 Mediterranean powers during the Late Bronze Age, as is made
 clear by the discussions found in the letters, including that in
 which the king of Alashiya apologizes for sending only five
@@ -34,8 +36,7 @@ the Amarna Letter would have consisted of some thirty thousand
 pounds of copper—an amount for which the Cypriot king is
 (ironically?) apologetic because it is so small!
 
-As for Assyria, there are two letters in the Amarna archive
-from Assur-uballit I, who ruled that kingdom from ca. 1365 to
+As for Assyria, there are two letters in the Amarna archive from Assur-uballit I, who ruled that kingdom from ca. 1365 to
 1330 BC. It is not clear to which Egyptian pharaoh these two
 letters were addressed, for one simply begins, “Say to the King of
 Egypt,” while the name given in the other is unclear and the

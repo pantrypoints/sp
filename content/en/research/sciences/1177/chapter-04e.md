@@ -9,22 +9,15 @@ c: darkslategray
 
 
 
-Lachish, another site in modern Israel, also suffered two destructions during this approximate time period, if David Ussishkin, who excavated at the site from 1973 to 1994, is correct.48 Here, at this multilayered site located south of Jerusalem, the seventh and sixth cities (Strata VII and VI) are identified as the last Canaanite cities, based on the material remains found during the excavations. 
+Lachish, another site in modern Israel, also suffered 2 destructions during this period.
 
-This was a period of great prosperity for Lachish, during the period of Egyptian control of the region. It was one of the largest cities in all of Canaan at that time, with some six thousand people living in its territory, and large temples and public buildings within the city itself.49
+Here the seventh and sixth cities (Strata VII and VI) are identified as the last Canaanite cities, based on the material remains found during the excavations. 
 
+This was a period of great prosperity for Lachish, during the period of Egyptian control of the region.
 
-The Stratum VII city is thought to have been destroyed by fire
-in about 1200 BC, but the excavators have not speculated as to the
-nature of the destruction or who might have been responsible. In
-part, this is because it is unclear how much of the city was
-actually destroyed. At the moment, evidence for a fiery
-destruction has been found in only the remains of one temple (the
-so-called Fosse III Temple) and the domestic quarter in Area S.50 It
-is conceivable that the destruction could have been caused by the
-first wave of Sea Peoples, who came through the region in
-approximately 1207 BC, but there is no proof for such an
-attribution.
+It was one of the largest cities in all of Canaan at that time, with some six thousand people living in its territory, and large temples and public buildings within the city itself.49
+
+The Stratum VII city is thought to have been destroyed by fire in about 1200 BC, but the excavators have not speculated as to the nature of the destruction or who might have been responsible. In part, this is because it is unclear how much of the city was actually destroyed. At the moment, evidence for a fiery destruction has been found in only the remains of one temple (the so-called Fosse III Temple) and the domestic quarter in Area S.50 It is conceivable that the destruction could have been caused by the first wave of Sea Peoples, who came through the region in approximately 1207 BC, but there is no proof for such an attribution.
 
 The Stratum VI city has been the major focus of scholarly
 attention to date. It appears that the survivors of the Stratum VII

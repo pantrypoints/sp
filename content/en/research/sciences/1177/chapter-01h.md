@@ -16,7 +16,9 @@ Assuwa during its rebellion against the Hittites, then what can we
 conclude? The letter itself, and all of those relating to the Assuwa
 Rebellion, date to 1430 BC, some two hundred years before the
 generally accepted date for the Trojan War (usually placed
-between 1250 BC and 1175 BC). All of the data presented above,
+between 1250 BC and 1175 BC). 
+
+All of the data presented above,
 including the Mycenaean sword with the Akkadian inscription
 found at Hattusa, might be simply a series of unrelated
 phenomena. However, they may possibly be interpreted as
@@ -110,15 +112,16 @@ Kingdom period.
 
 However, as we shall see next, this was only the beginning of
 what would become a “Golden Age” of internationalism and
-globalization during the following fourteenth century BC. For
-instance, the combination of Thutmose III’s numerous years of
+globalization during the following fourteenth century BC. 
+
+For instance, the combination of Thutmose III’s numerous years of
 campaigning and diplomacy, hard on the heels of Hatshepsut’s
-peaceful trading expeditions and military exploits of her own,72
-took Egypt to a pinnacle of international power and prosperity
-that had rarely, if ever, been seen before in the country. As a
+peaceful trading expeditions and military exploits of her own, took Egypt to a pinnacle of international power and prosperity
+that had rarely, if ever, been seen before in the country. 
+
+As a
 result, Egypt established itself as one of the great powers for the
 rest of the Late Bronze Age, along with the Hittites, Assyrians, and
 Kassites/Babylonians, in addition to assorted other players such as
 the Mitannians, Minoans, Mycenaeans, and Cypriots, more of
 whom we shall meet in the next chapter and following.
-

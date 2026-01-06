@@ -26,11 +26,12 @@ ten thousand Assuwan soldiers, six hundred teams of horses and
 their Assuwan charioteers, and “the conquered population, oxen,
 sheep, [and] the possessions of the land” were taken back to
 Hattusa as prisoners and booty.57 Included among these were the
-Assuwan king and his son Kukkuli, along with a few other
-members of the Assuwan royalty and their families. Eventually,
-Tudhaliya appointed Kukkuli as king of Assuwa and reestablished
+Assuwan king and his son Kukkuli, along with a few other members of the Assuwan royalty and their families. 
+
+Eventually, Tudhaliya appointed Kukkuli as king of Assuwa and reestablished
 Assuwa as a vassal state to the Hittite kingdom. However, Kukkuli
 then promptly rebelled, only to be defeated again by the Hittites.
+
 Kukkuli was put to death, and the coalition of Assuwa was
 destroyed and vanished from the face of the earth. Its legacy lives
 on primarily in the modern name “Asia,” but also possibly in the
@@ -38,7 +39,6 @@ story of the Trojan War, for the names Wilusiya and Taruisa bear a
 strong resemblance, according to scholars, to the Bronze Age
 names for the city of Troy—also known as Ilios—and its
 surrounding area, the Troad.
-
 
 The sword found at Hattusa, with the
 inscription left by Tudhaliya I/II, comes into play, for, as
@@ -49,11 +49,13 @@ imitation of one). Why such a sword was being used in the
 Assuwa Rebellion is a good question whose answer we do not
 know; was it wielded by an Assuwan soldier, or a Mycenaean
 mercenary, or someone else entirely?
+
 There are five other Hittite tablets that mention Assuwa
 and/or the rebellion, besides the primary one with the longest
 account. One, for instance, confirms the entire event, beginning with the simple statement “Thus speaks … Tudhaliya, the Great
-King: When I had destroyed Assuwa and returned to Hattusa . .
-.”58 The most interesting is a fragmentary letter that is
+King: When I had destroyed Assuwa and returned to Hattusa.”
+
+The most interesting is a fragmentary letter that is
 tantalizingly incomplete but which manages to mention the king
 of Assuwa twice and Tudhaliya once, refers also to a military
 campaign, and mentions as well the land of Ahhiyawa, the king of
@@ -61,7 +63,8 @@ Ahhiyawa, and islands belonging to the king of Ahhiyawa. The
 letter is damaged and incomplete, so it is dangerous to read too
 much into the occurrence of both Assuwa and Ahhiyawa within
 the same text, but it seems to indicate that Assuwa and Ahhiyawa
-were associated in some manner at this time.59
+were associated in some manner at this time.
+
 The letter—known as KUB XXVI 91 from its initial German
 publication—was long thought to have been sent by the Hittite
 king to the king of Ahhiyawa, but it has recently been suggested
@@ -81,18 +84,19 @@ Greece and the Mycenaeans.61 Again, we must make a brief
 excursus, this time to meet the Mycenaeans, before continuing the
 story.
 
-DISCOVERY AND OVERVIEW OF THE MYCENAEANS
 
-The Mycenaean civilization first came to the attention of the
-general public nearly 150 years ago, in the mid- to late eighteenth
-century, courtesy of Heinrich Schliemann—the so-called Father of
-Mycenaean Archaeology. He is the man whom modern
-archaeologists love to hate, in part because of his primitive
-digging methods and in part because it’s never clear how much he
-and his reports can be trusted. Following his excavations in the
-early 1870s at Hisarlik in northwest Anatolia, which he identified
+
+## Discovery Of The Mycenaeans
+
+The Mycenaean civilization first came to public attention in the mid-to late 18th century, courtesy of Heinrich Schliemann—the so-called Father of Mycenaean Archaeology. 
+
+Modern archaeologists love to hate him because of:
+- his primitive digging methods 
+- the trustworthiness of his reports
+
+Following his excavations in the early 1870s at Hisarlik in northwest Anatolia, which he identified
 as Troy, Schliemann decided that, since he had found the Trojan
-side of the Trojan War (as we shall discuss), it was only fitting
+side of the Trojan War, it was only fitting
 that he now find the Mycenaean side.
 
 He had a decidedly easier time finding Mycenae on mainland
@@ -100,42 +104,50 @@ Greece than he had had in finding Troy in Anatolia, for portions
 of the ancient site of Mycenae were still protruding from the
 ground, including the top of the famous Lion Gate, which had
 already been discovered and partially reconstructed several
-decades before. The locals in the nearby village of Mykenai
-readily led Schliemann to the site when he arrived to begin
+decades before. 
+
+The locals in the nearby village of Mykenai readily led Schliemann to the site when he arrived to begin
 excavating in the mid-1870s. He didn’t have an excavation
 permit, but that had never stopped him before, and it didn’t stop
-him now. Soon he unearthed a number of shaft graves filled with
+him now. 
+
+Soon he unearthed a number of shaft graves filled with
 skeletons, weapons, and gold beyond his greatest dreams. He
 broke the news by sending a telegram to the king of Greece,
 reportedly declaring that he “had gazed upon the face of
 Agamemnon.”62
 
 Of course, Schliemann—who was dramatically wrong even
-when he was right—had misdated the graves and remains. We
-now know that these shaft graves (of which there are two great
+when he was right—had misdated the graves and remains. 
+
+We now know that these shaft graves (of which there are two great
 circles at Mycenae) date to near the beginning of the city’s and
 the civilization’s greatness, from 1650–1500 BC, rather than from
 the time of Agamemnon and Achilles (ca. 1250 BC). He may have
 been off by four centuries, but at least he was digging at the
-correct city. Schliemann was by no means the only archaeologist
-to be investigating these Bronze Age remains—other scholars,
-69
-such as Christos Tsountas and James Manatt, were also busy
+correct city.
+
+Schliemann was by no means the only archaeologist to be investigating these Bronze Age remains—other scholars, such as Christos Tsountas and James Manatt, were also busy
 excavating and were doing better work than Schliemann—but he
 was the one who had the attention of the public because of his
 previous announcements regarding Troy and the Trojan War, as
-we shall see below.63
+we shall see below.
+
 Schliemann dug at Mycenae, and at the nearby site of Tiryns
 and elsewhere as well, for a few more seasons before returning to
 Troy to conduct additional excavations in 1878 and in the 1880s.
+
+
 He also attempted to dig at Knossos on Crete, but without success.
 It was left to others, fortunately for the field of archaeology, to
 continue the investigations of the Mycenaeans. Two of the
 greatest were an American from the University of Cincinnati
-named Carl Blegen and an Englishman from Cambridge named
-Alan Wace. They eventually joined forces to lay out the
+named Carl Blegen and an Englishman from Cambridge named Alan Wace.
+
+They eventually joined forces to lay out the
 groundwork for defining the civilization and its growth from
 beginning to end.
+
 Wace was in charge of the British excavations at Mycenae for
 several decades, beginning in the 1920s, while Blegen not only
 excavated at Troy from 1932 to 1938 but also dug at Pylos in
@@ -162,9 +174,7 @@ Akkadian. Simply put, archaeological remains combined with
 textual inscriptions have allowed modern scholars to reconstruct
 ancient history.
 
-We now know that the Mycenaean civilization essentially
-began in the seventeenth century BC, at approximately the same
-time as the Minoans on Crete were recovering from the dramatic
+The Mycenaean civilization began in the 17th century BC, at approximately the same time as the Minoans on Crete were recovering from the dramatic
 earthquake that marks (according to archaeological terminology)
 the transition from the First to the Second Palatial period on the
 island. Wace and Blegen christened the chronological periods
@@ -174,12 +184,11 @@ centuries BC and Late Helladic III divided into three sections: IIIA
 to the fourteenth century, IIIB to the thirteenth century, and IIIC
 to the twelfth century BC.65
 
-The reasons underlying the rise of the Mycenaean civilization
-are still a matter of discussion among archaeologists. One early
-suggestion was that they helped the Egyptians oust the Hyksos
-from Egypt, but this is not a commonly accepted view today. If
-objects found in the Shaft Graves at Mycenae are any indication,
+The rise of the Mycenaean civilization is thought to come from them helping the Egyptians oust the Hyksos from Egypt.
+
+If objects found in the Shaft Graves at Mycenae are any indication,
 then some of the earliest influences at Mycenae came from Crete.
+
 In fact, Evans thought that the Minoans had invaded the Greek
 mainland, but Wace and Blegen later reversed this argument; all
 scholars accept their position today. It is now clear that when the

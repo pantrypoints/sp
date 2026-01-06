@@ -9,29 +9,15 @@ c: darkslategray
 
 
 
-We should probably not be surprised at the existence of the
-Aegean List, or the other lists also in the temple, which together
-catalog the world as known to the Egyptians in the fourteenth
-century BC, for we know from other evidence that Amenhotep III
-recognized the importance of creating relationships with external
-powers, particularly with the kings of the lands of diplomatic and
-mercantile importance to Egypt. He concluded treaties with many
-of these kings, and married several of their daughters to cement
-those treaties. We know this from his correspondence with these
-kings—left to us as an archive inscribed on clay tablets that was
-first found in 1887.
+An archive of royal records of Amenhotep III was found in Tell el-Amarna, which contains the ruins of the city once called Akhetaten (meaning “Horizon of the Solar Disk”).10 
 
-The generally accepted story concerning the discovery of this
-archive is that it was found by a peasant woman who had been
-gathering either fuel or soil at the modern site of Tell el-Amarna,
-which contains the ruins of the city once called Akhetaten
-(meaning “Horizon of the Solar Disk”).10 Amenhotep III’s heretic
-son, Amenhotep IV, better known to the world as Akhenaten, had
-built it in the mid-fourteenth century BC as a new capital city.
+Amenhotep III’s heretic son, Amenhotep IV, better known as Akhenaten, had built it in the mid-fourteenth century BC as a new capital city.
+
 Akhenaten was Amenhotep III’s successor, probably serving as
 coruler with his father for a few years before Amenhotep died in
-1353 BC. Soon after assuming sole power, Akhenaten
-implemented what is now called the “Amarna Revolution.” He
+1353 BC.
+
+Soon after assuming sole power, Akhenaten implemented what is now called the “Amarna Revolution.” He
 closed down the temples belonging to Ra, Amun, and other major
 deities, seized their vast treasuries, and generated for himself
 unrivaled power, as the head of the government, military, and
@@ -46,7 +32,9 @@ essentially two gods: Aten and Akhenaten, for the people were
 allowed to pray only to Akhenaten; he then prayed to Aten on
 their behalf. Akhenaten may have been a religious heretic, and
 perhaps even a fanatic to a certain degree, but he was also
-calculating and a powermonger rather than a zealot. His religious
+calculating and a powermonger rather than a zealot.
+
+His religious
 revolution may actually have been a shrewd political and
 diplomatic move, designed to restore the power of the king:
 power that had slowly been lost to the priests during the reigns of

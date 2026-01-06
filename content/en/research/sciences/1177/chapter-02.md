@@ -2,9 +2,6 @@
 heading: Chapter 2
 title: "Act 2: An Aegean Affair To Remember: 14th Century BC"
 weight: 38
-# author: Cronin
-# description: "Assembly Theory allows a unified language for describing selection and the generation of newness."
-# image: "/covers/assembly.png"
 c: darkslategray
 ---
 
@@ -17,8 +14,9 @@ stone blocks and slowly crumbled into dust, the two huge statues
 standing at the entrance to Amenhotep III’s mortuary temple at
 Kom el-Hetan were, and still are, erroneously called the Colossi of
 Memnon as a result of a mistaken identification with Memnon, a
-mythological Ethiopian prince killed at Troy by Achilles. Each
-statue depicts a seated Amenhotep III, pharaoh of Egypt from
+mythological Ethiopian prince killed at Troy by Achilles. 
+
+Each statue depicts a seated Amenhotep III, pharaoh of Egypt from
 1391 to 1353 BC. In part because of this erroneous identification,
 the Colossi were already famous two thousand years ago, visited
 by ancient Greek and Roman tourists familiar with Homer’s Iliad

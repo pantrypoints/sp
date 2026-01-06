@@ -10,47 +10,39 @@ c: darkslategray
 
 
 
-This is the moment for which we have been waiting: the climax of the play and the dramatic beginning of the end to three hundred and more years of the globalized economy that had been the hallmark of the Late Bronze Age in the Aegean and Eastern Mediterranean. The twelfth century BC, as we will see in this final act, is marked more by tales of woe and destruction than by stories of trade and international relations, although we can begin on the high note of the latter.
+
+The 12th century BC is marked more by tales of woe and destruction than by trade and international relations.
 
 
 ## THE DISCOVERY OF UGARIT AND MINET EL-BEIDA
 
-Chance is said to favor the prepared spirit, but in some cases even
-the unprepared spirit is so favored. For it was an accidental
-discovery by a peasant, presumably untutored in the ways of
-archaeology, that led to the discovery of the city and kingdom of
-Ugarit, located on the coast of north Syria. 
-
 In 1929, French archaeologists excavated a tomb and port city at Minet el-Beida Bay, now referred to as Minet el-Beida. 
 
-800 meters farther inland, within a modern mound called Ras Shamra, the capital city of Ugarit was brought to light soon afterward.1
+800 meters farther inland, within a modern mound called Ras Shamra, the capital city of Ugarit was discovered afterward.
 
-Both Ugarit and Minet el-Beida have been under almost continuous French excavation ever since, first by Claude Schaeffer
-from 1929 onward and, most recently, from 1978 to 1998, by
-Marguerite Yon. Since 1999, a joint Franco-Syrian team has
-conducted the excavations.2 These, all together, have revealed the
-remnants of a functioning, busy, and prosperous commercial city
-and port, which were suddenly destroyed and abandoned soon
-after the beginning of the twelfth century BC. Within the ruins,
-products from all over the Eastern Mediterranean and Aegean
-have been found; a warehouse in Minet el-Beida, for example, still
-held eighty Canaanite storage jars. Unfortunately, these were
-found in the 1930s, so rigorous scientific analyses of the contents
-were not conducted.3
+It was a busy, and prosperous commercial city and port, which were suddenly destroyed and abandoned soon after the beginning of the 12th century BC.
+
+Within the ruins, products from all over the Eastern Mediterranean and Aegean have been found.
+
+A warehouse in Minet el-Beida, for example, still held 80 Canaanite storage jars. Unfortunately, these were found in the 1930s, so rigorous scientific analyses of the contents
+were not conducted.
 
 Within the private houses and the royal palace at Ugarit, a
 number of important archives have been recovered since the
 1950s, documenting the economic activities of several merchants,
-as well as of Ugarit’s royal family. The letters and other items in
-these archives were written on clay tablets, as was usual in the
+as well as of Ugarit’s royal family.
+
+The letters and other items in these archives were written on clay tablets, as was usual in the
 Bronze Age, but in this case tablets were found inscribed with
 different languages: sometimes Akkadian, sometimes Hittite,
 sometimes Egyptian, and sometimes other less widely used
 languages, such as Hurrian.
 
-Additionally, there was one other language that scholars had
+There was one other language that scholars had
 never previously seen. It was deciphered fairly rapidly and is now
-called Ugaritic. It used one of the earliest alphabetic scripts yet
+called Ugaritic.
+
+It used one of the earliest alphabetic scripts yet
 known—except that there were actually two alphabetic scripts in
 the texts, one with twenty-two signs like the Phoenician alphabet
 and the other with an additional eight signs.4
@@ -66,12 +58,15 @@ The result is that we can reconstruct the city of Ugarit from its ruins
 and can reconstitute as well, from its texts, the daily life and belief
 systems of its inhabitants. For example, it is clear that they
 worshipped a pantheon of deities, among whom El and Baal
-figured prominently. And we know the names of their kings, from
+figured prominently.
+
+We know the names of their kings, from
 Ammistamru I and Niqmaddu II, whose letters to Amenhotep III
 and Akhenaten are in the Amarna archive in Egypt, to the very
 last king, Ammurapi, who ruled in the first decade of the twelfth
-century BC. We also know that the kings of Ugarit married
-princesses from the neighboring polity of Amurru, and probably
+century BC.
+
+The kings of Ugarit married princesses from the neighboring polity of Amurru, and probably
 also from the larger kingdom of the Hittites, in dynastic marriages
 complete with dowries that were quite literally fit for a king,
 though at least one of these marriages ended in a bitter divorce

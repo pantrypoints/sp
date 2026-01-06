@@ -125,6 +125,7 @@ There are other feelings associated with these major feelings. For examples:
 - tanumot́ana (relaxation of the physical body)
 - diirghashvása (deep breathing)
 
+
 The probability of such signs is very little in the case of vácanika and upáḿshu japa. 
 
 That expression is very natural in case of those who have learned the correct process of sádhaná. 
@@ -160,7 +161,9 @@ But in addition, do not miss the opportunity of collective Iishvara prańidhá
 
 **The indomitable mental force aroused as a result of collective Iishvara prańidhána will help you solve any problem, great or small, on this earth.**
 
-It is for this reason that you should always be zealous to attend weekly dharmacakra regularly.
+This is why you should always be zealous to attend weekly dharmacakra regularly.
+
+
 
 Ánanda Púrńimá 1957, Jamalpur
 

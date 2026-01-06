@@ -10,16 +10,14 @@ c: darkslategray
 
 
 
-Egypt in particular was sought after as a trading partner by the
-kings of other countries. This was not only because Egypt was
-among the Great Powers of the time, but also because of the gold
-that the Egyptians commanded, courtesy of the mines in Nubia.
-More than one king wrote to Amenhotep III and Akhenaten,
-requesting shipments of gold while acting as if it were nothing
+Egypt had gold from the mines in Nubia.
+
+More than one king wrote to Amenhotep III and Akhenaten, requesting shipments of gold while acting as if it were nothing
 out of the ordinary—the refrain “gold is like dust in your land,”
 and similar phrases, are seen again and again in the Amarna
-Letters. In one letter, Tushratta of Mitanni invokes the family
-relationship and asks Amenhotep III to “send me much more gold
+Letters.
+
+In one letter, Tushratta of Mitanni invokes the family relationship and asks Amenhotep III to “send me much more gold
 than he [you] did to my father,” for, as he says, “in my brother’s
 country, gold is as plentiful as dirt.”29
 
@@ -32,8 +30,9 @@ Burna-Buriash II, similarly wrote in one letter to Amenhotep III’s
 successor, Akhenaten: “Certainly my brother [the king of Egypt]
 did not check the earlier (shipment of) gold that my brother sent
 to me. When I put the 40 minas of gold that were brought to me
-into a kiln, not (even) 10 minas, I swear, appeared.” In another
-letter, he said: “The 20 minas of gold that were brought here
+into a kiln, not (even) 10 minas, I swear, appeared.” 
+
+In another letter, he said: “The 20 minas of gold that were brought here
 were not all there. When they put it into the kiln, not 5 minas of
 gold appeared. The (part) that did appear, on cooling off looked
 like ashes. Was the gold ever identified (as gold)?”31

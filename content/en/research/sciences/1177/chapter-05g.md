@@ -10,22 +10,22 @@ c: darkslategray
 
 
 
-Sometimes a civilization cannot recover from invaders or an earthquake, or survive a drought or a rebellion,
+<!-- Sometimes a civilization cannot recover from invaders or an earthquake, or survive a drought or a rebellion,
 but at the moment, for lack of a better explanation, it looks as
 though the best solution is to suggest that all of these factors
 together contributed to the collapse of what had been the
 dominant Late Bronze Age kingdoms and societies in these
-regions. 
+regions.  -->
 
-Based on the evidence presently available, therefore, we
-may be seeing the result of a systems collapse that was caused by
-a series of events linked together via a “multiplier effect,” in
-which one factor affected the others, thereby magnifying the
-effects of each. Perhaps the inhabitants could have survived one
+I think that systems collapsed by a series of events linked together via a “multiplier effect” in which one factor affected the others, thereby magnifying the
+effects of each. 
+
+Perhaps the inhabitants could have survived one
 disaster, such as an earthquake or a drought, but they could not
 survive the combined effects of earthquake, drought, and
-invaders all occurring in rapid succession. A “domino effect” then
-ensued, in which the disintegration of one civilization led to the
+invaders all occurring in rapid succession. 
+
+A “domino effect” then ensued, in which the disintegration of one civilization led to the
 fall of the others. Given the globalized nature of their world, the
 effect upon the international trade routes and economies of even
 one society’s collapse would have been sufficiently devastating
@@ -35,22 +35,25 @@ case, they were not too big to fail.
 However, despite my comments above, systems collapse might
 be just too simplistic an explanation to accept as the entire reason
 for the ending of the Late Bronze Age in the Aegean, Eastern
-Mediterranean, and Near East.103 It is possible that we need to
-turn to what is called complexity science, or, perhaps more
+Mediterranean, and Near East.
+
+It is possible that we need to turn to what is called complexity science, or, perhaps more
 accurately, complexity theory, in order to get a grasp of what
 may have led to the collapse of these civilizations.
+
 Complexity science or theory is the study of a complex system
 or systems, with the goal of explaining “the phenomena which
 emerge from a collection of interacting objects.” 
 
-It has been used
-in attempts to explain, and sometimes solve, problems as diverse
+It has been used in attempts to explain, and sometimes solve, problems as diverse
 as traffic jams, stock market crashes, illnesses such as cancer, environmental change, and even wars, as Neil Johnson of Oxford
 University has recently written.104 While it has made its way from
 the realm of mathematics and computational science to
 international relations, business, and other fields over the past
 several decades, it has only rarely been applied in the field of
-archaeology. Intriguingly, and perhaps presciently, Carol Bell
+archaeology. 
+
+Intriguingly, and perhaps presciently, Carol Bell
 explored the topic briefly in her 2006 book on the evolution of,
 and changes in, long-distance trading relationships in the Levant
 from the Late Bronze Age to the Iron Age. She noted that it was a
@@ -63,7 +66,9 @@ theory approach, Johnson states that it has to involve a system
 that “contains a collection of many interacting objects or
 ‘agents’.”106 In our case, those would be the various civilizations
 active during the Late Bronze Age: the Mycenaeans, Minoans,
-Hittites, Egyptians, Canaanites, Cypriots, and so on. In one aspect
+Hittites, Egyptians, Canaanites, Cypriots, and so on. 
+
+In one aspect
 of complexity theory, behavior of those objects is affected by
 their memories and “feedback” from what has happened in the
 past. They are able to adapt their strategies, partly on the basis of
@@ -71,7 +76,9 @@ their knowledge of previous history. Automobile drivers, for
 example, are generally familiar with the traffic patterns in their
 home area and are able to predict the fastest route to take to
 work or back home again. If a traffic jam arises, they are able to
-take alternative routes to avoid the problem.107 Similarly, toward
+take alternative routes to avoid the problem.
+
+Similarly, toward
 the end of the Late Bronze Age, seafaring merchants from Ugarit
 or elsewhere might have taken steps to avoid enemy ships or
 areas in which such ships and marauders were frequently based,
@@ -99,7 +106,9 @@ routes discussed above.
 
 The most important premise, we might argue, is that Johnson
 asserts that such a system exhibits phenomena that “are generally
-surprising, and may be extreme.” As he says, this “basically
+surprising, and may be extreme.” 
+
+As he says, this “basically
 means that anything can happen—and if you wait long enough, it
 generally will.” For example, as he notes, all stock markets will
 eventually have some sort of crash, and all traffic systems will
@@ -131,7 +140,8 @@ Mediterranean are examples of complex systems. She therefore
 cited the work of Ken Dark, of the University of Reading, who
 noted that “as such systems become more complex, and the
 degree of interdependence between their constituent parts grows,
-keeping the overall system stable becomes more difficult.”111
+keeping the overall system stable becomes more difficult.”
+
 Known as “hyper-coherence,” this occurs, as Dark says, “when
 each part of the system becomes so dependent upon each other
 that change in any part produces instability in the system as a
