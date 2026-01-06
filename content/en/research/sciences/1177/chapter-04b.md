@@ -10,62 +10,42 @@ c: darkslategray
 
 
 
-The citizens and kings of Ugarit carried on lively trade relations
-throughout the lifetime of the city. It was clearly an international
-entrepôt, with ships of many nations arriving in the harbor of
-Minet el-Beida. 
+Ugarit was clearly an international entrepôt, with ships of many nations arriving in the harbor of Minet el-Beida. 
 
-
-It may have owed allegiance to Egypt during the
-first half of the fourteenth century BC, but was definitely a vassal
-of the Hittites from the second half of that century onward, after
-Suppiluliuma conquered the area, ca. 1350–1340 BC. Texts at the
-site, found in the various archives, most of which date to the last
-half century of the city’s existence, document connections between
+It was was a vassal of the Hittites from the 2nd half of the 14th century onward, after Suppiluliuma conquered the area, ca. 1350–1340 BC. Texts at the
+site, found in the various archives, most of which date to the last half century of the city’s existence, document connections between
 Ugarit and numerous other polities both large and small, including
 Egypt, Cyprus, Assyria, the Hittites, Carchemish, Tyre, Beirut,
-Amurru, and Mari. Most recently, the Aegean has been added to
-this list as well.6
+Amurru, and Mari. Most recently, the Aegean has been added to this list as well.
 
 The tablets mention the exportation from Ugarit of perishable goods, including dyed wool, linen garments, oil, lead, copper, and bronze objects, especially to the Assyrians, located far to the east in Mesopotamia, as well as extensive trade
 connections with Beirut, Tyre, and Sidon on the Phoenician coast.
 
 Objects imported from the Aegean, Egypt, Cyprus, and Mesopotamia have been found at Ugarit itself, including Mycenaean vessels, a bronze sword inscribed with the name of the
-Egyptian pharaoh Merneptah, hundreds of fragments of alabaster
-jars, and other luxury items.8 These, and other more mundane
-goods, such as wine, olive oil, and wheat, reached Ugarit through
-the efforts of merchants like Sinaranu, whom we met earlier in
+Egyptian pharaoh Merneptah, hundreds of fragments of alabaster jars, and other luxury items.8 These, and other more mundane
+goods, such as wine, olive oil, and wheat, reached Ugarit through the efforts of merchants like Sinaranu, whom we met earlier in
 these pages, whose ship went to Crete and back during the midfourteenth century BC. We know that the Ugaritians were
 sufficiently well-off financially to send the Hittites tribute each
 year, consisting of five hundred shekels of gold, dyed wool, and
 garments, in addition to gold and silver cups for the Hittite king,
-queen, and high officials.9
+queen, and high officials.
 
-We now know of other Ugaritic merchants who were active
-later—at the time of the destruction of Ugarit at the beginning of
-the twelfth century—thanks to additional tablets, many of which
-have been found in recent decades within their houses, and some
-of which have changed our understanding of the city’s probable
-end.10 One such house is known as the “House of Yabninu,”
-located near the southern part of the royal palace. 
+The “House of Yabninu” located near the southern part of the royal palace had some tablets. 
+- It was 1,000 square meters, so Yabninu must have been a reasonably successful merchant Yabninu. 
 
-The house itself has still not been completely excavated, but is already known to
-have covered at least one thousand square meters, so Yabninu
-must have been a reasonably successful merchant. The sixty or
+The sixty or
 more tablets that were discovered within the ruins of this house
 are thought to have originally been kept on the second floor, and
 include documents written in Akkadian, Ugaritic, and the as-yetundeciphered language known as Cypro-Minoan, chiefly used on
 the island of Cyprus but also found inscribed on vessels at Tiryns
-on the Greek mainland. The texts written on the tablets, as well as
-the imported objects found within the house, document that Yabninu’s mercantile activities included connections with Cyprus,
-the Levantine coast farther to the south, Egypt, and the Aegean.
+on the Greek mainland.
 
-Another set of tablets was found within the so-called House of
-Rapanu, which was excavated in 1956 and 1958. The tablets,
-more than two hundred of them, were quickly studied and then
+The House of Rapanu was excavated in 1956 and 1958. The tablets, more than two hundred of them, were quickly studied and then
 published a decade later, in 1968. They indicate that Rapanu was
 a scribe and high-ranking adviser to the king of Ugarit, most likely
-Ammistamru II (ca. 1260–1235 BC). Rapanu was apparently
+Ammistamru II (ca. 1260–1235 BC). 
+
+Rapanu was apparently
 involved in some sensitive negotiations at the highest levels, as the
 contents of the archive indicate. The texts include a number of
 letters exchanged between the king of Ugarit and the king of
@@ -78,7 +58,9 @@ Canaanites on the Levantine coast.
 One of the letters deals with trade in oil between Ugarit and
 Cyprus. It is from Niqmaddu III, the penultimate king of Ugarit,
 and was sent to the king of Alashiya, whom he calls his “father,”
-referring to himself as “your son.”13 Unless the Ugaritic king had
+referring to himself as “your son.”
+
+Unless the Ugaritic king had
 married a Cypriot princess, which is not out of the question, it
 seems that the use of the word “father” follows the general
 terminology of the time in attempting to establish a familial
@@ -90,8 +72,7 @@ Ugarit, which Schaeffer thought had been found in a kiln, being
 baked before its dispatch to the king of Cyprus. We will discuss
 this text further below.
 
-Some of the most recently discovered tablets are those in the
-so-called House of Urtenu. This residence was initially uncovered
+Some of the most recently discovered tablets are those in the so-called House of Urtenu. This residence was initially uncovered
 by accident in the southern part of the site during the construction
 of a modern military bunker in 1973. The archaeologists were allowed to dig through the spoil heap created by the digging of
 the bunker, which incidentally destroyed the center of the house,

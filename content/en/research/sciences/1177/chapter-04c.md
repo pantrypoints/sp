@@ -10,53 +10,40 @@ c: darkslategray
 
 
 
-The textual evidence from the various archives and houses at
-Ugarit indicate that international trade and contact was going
-strong in the city right up until the last possible moment. 
+The letters from the House of Urtenu showed that there was very little indication of trouble, apart from the mention of enemy ships in one letter, and that the trade routes seemed to be open right up until the end.
 
-In fact, one of the scholars publishing the letters from the House of Urtenu
-noted almost twenty years ago that there was very little indication
-of trouble, apart from the mention of enemy ships in one letter,
-and that the trade routes seemed to be open right up until the
-end.22 The same was true in Emar, on the Euphrates River far to
-the east in inland Syria, where it has been noted that “the scribes
+The same was true in Emar, on the Euphrates River far to the east in inland Syria, where it has been noted that “the scribes
 were conducting normal business until the end.”23
 
 However, Ugarit was destroyed, apparently quite violently,
 during the reign of King Ammurapi, most likely between 1190 and
-1185 BC. It was not reoccupied until the Persian period,
-approximately 650 years later.24 The excavators report “evidence
-of destruction and fire throughout the city,” including “collapsed
-walls, burnt pisé plaster, and heaps of ashes,” with a destruction
-level that reached two meters high in places. Marguerite Yon, the
-most recent director of the excavations, says that the ceilings and
-terraces in the residential quarters were found collapsed, and that
-elsewhere the walls were “reduced to a shapeless heap of rubble.”
-She believes that the destruction was caused by enemy attack
-rather than an earthquake, as had previously been suggested by
+1185 BC.
+
+It was not reoccupied until the Persian period, approximately 650 years later.24 The excavators report “evidence
+of destruction and fire throughout the city,” including “collapsed walls, burnt pisé plaster, and heaps of ashes,” with a destruction
+level that reached two meters high in places.
+
+
+The destruction is believed to be caused by enemy attack rather than an earthquake, as had previously been suggested by
 Schaeffer, and that there was violent fighting in the city, including
-street fighting. This, she says, is indicated by “the presence of
+street fighting. 
+
+This, she says, is indicated by “the presence of
 numerous arrowheads dispersed throughout the destroyed or
 abandoned ruins,” as well as the fact that the inhabitants—eight
 thousand, more or less—fled in haste and did not return, not even
 to collect the hoards of valuables that some had buried before
-leaving.25
+leaving.
 
-The exact date when all of this transpired has been the focus of
-recent debate. The most conclusive evidence is a letter found in
-1986 within the House of Urtenu. The letter was sent to
-Ammurapi, the king of Ugarit, by an Egyptian chancellor named
-Bey who, we know from Egyptian sources, was executed in the
-fifth year of Pharaoh Siptah. Siptah was the penultimate pharaoh
+The most conclusive evidence of the date was a letter found within the House of Urtenu. The letter was sent to Ammurapi, the king of Ugarit, by an Egyptian chancellor named
+Bey who, we know from Egyptian sources, was executed in the fifth year of Pharaoh Siptah. Siptah was the penultimate pharaoh
 of the Nineteenth Dynasty in Egypt, who ruled ca. 1195–1189 BC,
 that is, just a few years before Ramses III of the Twentieth Dynasty.
 
-The letter can therefore be dated with some certainty,
-specifically before Bey was executed in 1191 BC, which means
-that the destruction of the city cannot have taken place before this
-date. Thus, the destruction of the city is usually dated to 1190–
-1185 BC, though technically it could have been even later.26 A
-recent article has pointed out that this date can now be
+The letter is dated before Bey was executed in 1191 BC, which means that the destruction of the city cannot have taken place before this
+date. Thus, the destruction of the city is usually dated to 1190–1185 BC, though technically it could have been even later.
+
+A recent article has pointed out that this date can now be
 corroborated, on the basis of an astronomical observation found
 on another tablet at Ugarit. This records an eclipse of the sun that
 can be dated to January 21, 1192 BC, which also means that the
@@ -173,3 +160,4 @@ Peoples incursions in the fifth year of Merneptah, back in 1207
 BC.
 
 
+Oh my life is you. But you cancelled me. So please just wish me success in next life with you, as my current life is a total fail now without you

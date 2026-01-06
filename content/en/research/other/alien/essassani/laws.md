@@ -17,6 +17,8 @@ You cannot change the fact that you exist. You cannot not exist.
 <!-- (Aethereal Layer) -->
 
 ## 2. Everything is Here and Now 
+
+This was added on in between the 1st and 3rd laws. i.e. there were only 3 laws originally. Law 2 was a subset of Laws 1 and 3, Law 5 was a subset of 4 laws.
  
 <!-- Here and Now relates to Space and Time.  -->
 

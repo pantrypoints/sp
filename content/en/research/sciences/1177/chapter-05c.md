@@ -9,93 +9,32 @@ c: darkslategray
 
 
 
+Some scholars have suggested that internal rebellions may have contributed to the turmoil at the end of the Late Bronze Age.
 
+Such a scenario might be invoked to explain the destruction at Hazor in Canaan, where there is no evidence for an earthquake, nor is there specific evidence for warfare or invaders.
 
-Some scholars have suggested that internal rebellions may have
-contributed to the turmoil at the end of the Late Bronze Age.
-Such revolts could have been triggered by famine, whether
-caused by drought or otherwise, or earthquakes or other natural
-disasters, or even a cutting of the international trade routes, any
-and all of which could have dramatically impacted the economy
-in the affected areas and led dissatisfied peasants or lower classes
-to rebel against the ruling class, in a revolution akin to that in
-1917 czarist Russia.
+Sharon Zuckerman has suggested that the destruction of Hazor Stratum IA, dating somewhere between 1230 and the early decades of the twelfth century BC, was caused by an internal rebellion of the city’s inhabitants, rather than an invasion by external peoples.
 
-Such a scenario might be invoked to explain the destruction
-seen, for instance, at Hazor in Canaan, where there is no evidence
-for an earthquake, nor is there specific evidence for warfare or
-invaders. Although Yadin and Ben-Tor, two of the primary
-excavators of the site, have both suggested a destruction by
-warfare, probably at the hands of the Israelites, the other
-codirector of the current excavations, Sharon Zuckerman of
-Hebrew University in Jerusalem, has recently suggested that the
-destruction of Hazor Stratum IA, dating somewhere between
-1230 and the early decades of the twelfth century BC, was caused
-by an internal rebellion of the city’s inhabitants, rather than an
-invasion by external peoples. As she states simply, “there is no
-archaeological evidence of warfare, such as human victims or
-weapons, anywhere in the site … the view of the final destruction
-of the LBA city of Hazor as a sudden unexpected attack on a
-strong flourishing kingdom does not concur with the
-archaeological evidence.”42 She suggests instead that “mounting
-internal conflicts and gradual decline, culminating in the final
-assault on the major political and religious foci of the city’s elite, provides the most plausible alternative framework for the
-explanation of the destruction and abandonment of Hazor.”
-
-Although there is no doubting the destructions observable at
-the various Mycenaean palatial centers and Canaanite cities, there
-is, quite frankly, no way to tell whether revolting peasants were
-responsible. It thus remains a plausible, but unproven,
-hypothesis. And again, many civilizations have successfully
-survived internal rebellions, often even flourishing under a new
-regime. Thus, on its own, the hypothesis of internal rebellions is
-not enough to account for the collapse of the Late Bronze Age
+On its own, the hypothesis of internal rebellions is not enough to account for the collapse of the Late Bronze Age
 civilizations in the Aegean and Eastern Mediterranean.
 
 
+## Invaders And The Collapse Of International Trade
 
+Even if an internal rebellion were not the outcome, the cutting of the trade routes could have had a severe, and immediate, impact upon Mycenaean kingdoms such as Pylos, Tiryns, and Mycenae, which needed to import both the copper and the tin needed to produce bronze, and which seem to have imported substantial quantities of additional raw materials as well, including gold, ivory, glass, ebony wood, and the terebinth
+resin used in making perfume. 
 
-## (POSSIBLE) INVADERS AND THE COLLAPSE OF INTERNATIONAL TRADE
-
-Among events that could have led to an internal rebellion, we
-have just glimpsed the specter of outside invaders cutting the
-international trade routes and upsetting fragile economies that
-might have been overly dependent upon foreign raw materials.
-Carol Bell’s comparison of the strategic importance of tin in the
-Bronze Age to that of crude oil in today’s world might be
-particularly apt in this hypothetical situation.44
-
-However, even if an internal rebellion were not the outcome,
-the cutting of the trade routes could have had a severe, and
-immediate, impact upon Mycenaean kingdoms such as Pylos,
-Tiryns, and Mycenae, which needed to import both the copper
-and the tin needed to produce bronze, and which seem to have
-imported substantial quantities of additional raw materials as
-well, including gold, ivory, glass, ebony wood, and the terebinth
-resin used in making perfume. While natural disasters such as
-earthquakes could cause a temporary disruption in trade,
-potentially leading to higher prices and perhaps to what we today
-would call inflation, more permanent disruptions would more
-likely have been the result of outside invaders targeting the
+While natural disasters such as earthquakes could cause a temporary disruption in trade, potentially leading to higher prices and perhaps to what we today
+would call inflation, more permanent disruptions would more likely have been the result of outside invaders targeting the
 affected areas. However, who would these invaders have been?
 
 Or is this where we invoke the Sea Peoples?
 
-Rather than the Sea Peoples, the ancient Greeks—ranging
-from historians like Herodotus and Thucydides in fifth-century BC
-Athens to the much-later traveler Pausanias—believed that a
-group known as the Dorians had invaded from the north at the
-end of the Bronze Age, thereby initiating the Iron Age.
+Rather than the Sea Peoples, the ancient Greeks—ranging from historians like Herodotus and Thucydides in fifth-century BC Athens to the much-later traveler Pausanias—believed that a group known as the Dorians had invaded from the north at the end of the Bronze Age, thereby initiating the Iron Age.
 
+This concept was once much discussed by archaeologists and ancient historians of the Bronze Age Aegean; among their considerations was a new type of pottery called “Handmade Burnished Ware” or “Barbarian Ware.” 
 
-This concept was once much discussed by archaeologists and ancient
-historians of the Bronze Age Aegean; among their considerations
-was a new type of pottery called “Handmade Burnished Ware” or
-“Barbarian Ware.” 
-
-However, in recent decades it has become
-clear that there was no such invasion from the north at this time
-and no reason to accept the idea of a “Dorian Invasion” bringing
+However, in recent decades it has become clear that there was no such invasion from the north at this time and no reason to accept the idea of a “Dorian Invasion” bringing
 the Mycenaean civilization to an end. 
 
 Despite the traditions of the

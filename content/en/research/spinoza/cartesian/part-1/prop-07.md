@@ -95,7 +95,7 @@ But this cannot be proven.
 
 **I do not know whether it is a greater task to create or preserve substance than to create or preserve its attributes.** 
 
-{{< n n='The creation of attributes is different from creation. This shows how Descartes is a dualist, but Spinoza is a non dualist >}}
+{{< n n="The creation of attributes is different from creation. This shows how Descartes is a dualist, but Spinoza is a non dualist" >}}
 
 
 <!-- That is, to speak more clearly and in more philosophic terms,  -->

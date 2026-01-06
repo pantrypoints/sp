@@ -66,8 +66,7 @@ and Akhenaten are in the Amarna archive in Egypt, to the very
 last king, Ammurapi, who ruled in the first decade of the twelfth
 century BC.
 
-The kings of Ugarit married princesses from the neighboring polity of Amurru, and probably
-also from the larger kingdom of the Hittites, in dynastic marriages
+The kings of Ugarit married princesses from the neighboring polity of Amurru, and probably also from the larger kingdom of the Hittites, in dynastic marriages
 complete with dowries that were quite literally fit for a king,
 though at least one of these marriages ended in a bitter divorce
 that dragged on in the courts for years.5

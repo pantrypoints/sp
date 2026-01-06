@@ -10,18 +10,15 @@ c: darkslategray
 
 
 In Anatolia at this time, a number of cities were also destroyed.
-Once again, though, the reason in each case is hard to discern; and
-once again the Sea Peoples have traditionally been credited for the
-devastation on the basis of little or no evidence. 
 
-In some cases,
-additional excavations by subsequent excavators are now overturning long-held attributions and assumptions. For instance,
+The Sea Peoples have traditionally been credited for the devastation on the basis of little or no evidence. 
+
+In some cases, additional excavations by subsequent excavators are now overturning long-held attributions and assumptions. For instance,
 at the site of Tell Atchana, ancient Alalakh, located near the
 modern Turkish-Syrian border, Sir Leonard Woolley thought the
 city of Level I had been destroyed by the Sea Peoples in 1190 BC.
 
-However, the most recent excavations, by Aslihan Yener of the
-University of Chicago, have redated this level to the fourteenth
+However, the most recent excavations, by Aslihan Yener of the University of Chicago, have redated this level to the fourteenth
 century BC and indicate that the majority of the city was
 abandoned by 1300 BC, long before the possible encursions of the
 Sea Peoples.
