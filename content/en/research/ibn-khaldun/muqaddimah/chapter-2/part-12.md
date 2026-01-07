@@ -12,42 +12,91 @@ writer:
 
 
 
-This nobility is in the basic and real sense. Others will have it only in a metaphorical and figurative sense.
+This nobility is in the basic and real sense. Others will have nobility only in a metaphorical and figurative sense.
 
-This is because nobility and prestige are the result of personal qualities. A "house" means that a man counts noble and famous men among his forebears. 
+This is because nobility and prestige are the result of personal qualities.
+
+A "house" means that a man counts noble and famous men among his forebears. 
 
 The fact that he is their progeny and descendant gives him great standing among his fellows, for his fellows respect the great standing and nobility that his ancestors acquired through their (personal) qualities.
 
-With regard to their growth and propagation, human beings can be compared to minerals. Muhammad said= "Men are minerals. The best ones in pre-Islamic times are also the best ones in Islam, if they are understanding." 68 "Prestige" in its proper meaning refers to (family) descent.
+With regard to their growth and propagation, human beings can be compared to minerals.
+
+Muhammad said:
+
+"Men are minerals. The best ones in pre-Islamic times are also the best ones in Islam, if they are understanding."
+
+
+"Prestige" in its proper meaning refers to (family) descent.
 
 The advantage of (common) descent consists in the group feeling that derives from it and that leads to affection and mutual help.
 
-Wherever the group feeling is truly formidable and its soil kept pure, the advantage
-of a (common) descent is more evident (than elsewhere), and the (group feeling) is
-more effective. It is an additional advantage to have a number of noble ancestors.
+Wherever the group feeling is truly formidable and its soil kept pure, the advantage of a (common) descent is more evident (than elsewhere), and the (group feeling) is
+more effective.
 
-Thus, prestige and nobility become firmly grounded in those who share in the group feeling (of a tribe), because there exists (in them) the result of (common) descent. The nobility of a "house" is in direct proportion to the different degrees of group feeling, because (nobility) is the secret of (group feeling). 
+It is an additional advantage to have a number of noble ancestors.
 
-Isolated 69 inhabitants of cities can have a "house" only in a metaphorical sense. The assumption that they possess one is a specious claim. Seen in its proper light, prestige means to the inhabitants of cities that some of them count among their forefathers men who had good (personal) qualities and who mingled with good people, and (that, in addition, they) try to be as decent as possible. 
+Thus, prestige and nobility become firmly grounded in those who share in the group feeling (of a tribe), because there exists (in them) the result of (common) descent. 
 
-This is different from the real meaning of group feeling, as group feeling derives from (common) descent and a number of forefathers. The terms "prestige" and "house" are used metaphorically in this connection, because there exists in this case a number of successive ancestors who consistently performed good deeds. This is not true and unqualified prestige.70
+The nobility of a "house" is in direct proportion to the different degrees of group feeling, because (nobility) is the secret of (group feeling). 
 
-A "house" possesses an original nobility through group feeling and personal qualities. Later on, the people (who have a "house") divest themselves of that nobility when group feeling disappears as the result of sedentary life. 71 They mingle with the common people. A certain delusion as to their former prestige remains in their souls and leads them to consider
-themselves members of the most noble houses. 72 
+Isolated inhabitants of cities can have a "house" only in a metaphorical sense.
+- The assumption that they possess one is a specious claim.
 
-They are, however, far from that (status), because their group feeling has completely disappeared. Many inhabitants of cities who had their origins in (noble) Arab or non-Arab "houses" share such delusions.
+Seen in its proper light, prestige means to the inhabitants of cities that some of them count among their forefathers men who had good (personal) qualities and who mingled with good people, and (that, in addition, they) try to be as decent as possible. 
+
+This is different from the real meaning of group feeling, as group feeling derives from:
+- (common) descent and
+- a number of forefathers
+
+The terms "prestige" and "house" are used metaphorically in this connection, because there exists in this case a number of successive ancestors who consistently performed good deeds. This is not true and unqualified prestige.
+
+A "house" possesses an original nobility through group feeling and personal qualities.*
+
+{{< n n="Ibn Khaldun seems to refer to the Anunnaki effect in royal bloodlines" >}}
+
+
+Later on, the people (who have a "house") divest themselves of that nobility when group feeling disappears as the result of sedentary life. 
+
+They mingle with the common people. 
+
+A delusion as to their former prestige remains in their souls.
+- It makes them consider themselves members of the most noble houses.
+
+They are, however, far from that (status) because their group feeling has completely disappeared. 
+
+Many inhabitants of cities who had their origins in (noble) Arab or non-Arab "houses" share such delusions.
 
 The Israelites are the most firmly misled in this delusion. 
 
-They originally had one of the greatest "houses" in the world, first, because of the great number of
-prophets and messengers born among their ancestors, extending from Abraham toMoses, the founder of their religious group and law, and next, because of their group feeling and the royal authority that God had promised and granted them by
-means of that group feeling. 
+They originally had one of the greatest "houses" in the world because:
 
-Then, they were divested of all that, and they suffered humiliation and indigence. They were destined to live as exiles on earth. For thousands of years, they knew only enslavement and unbelief 73 Still, the delusion of nobility has not left them. 
+1. The many prophets and messengers born among their ancestors, extending from Abraham to Moses, the founder of their religious group and law
+2. Their group feeling and the royal authority that God* had promised and granted them by means of that group feeling. 
 
-They can be found saying: "He is an Aaronite"; "He is a descendant of Joshua"; "He is one of Caleb's progeny"; 
 
-"He is from the tribe of Judah." This in spite of the fact that their group feeling has disappeared and that for many long years they have been exposed to humiliation. 74 Many other inhabitants of cities who hold (noble) pedigrees but no longer share in any group feeling, are inclined to (utter) similar nonsense.
+{{< n n="This is proof that Ibn Khaldun is referring to group feeling from Anunnaki genetics" >}}
+
+
+Then, they were divested of all that, and they suffered humiliation and indigence. 
+
+They were destined to live as exiles on earth. For thousands of years, they knew only enslavement and unbelief.
+
+Still, the delusion of nobility has not left them. 
+
+They can be found saying: 
+
+"He is an Aaronite"
+
+"He is a descendant of Joshua"
+
+"He is one of Caleb's progeny"
+
+"He is from the tribe of Judah." 
+
+This in spite of the fact that their group feeling has disappeared and that for many long years they have been exposed to humiliation.
+
+Many other inhabitants of cities who hold (noble) pedigrees but no longer share in any group feeling, are inclined to (utter) similar nonsense.
 
 
 Abul-Walid b. Rushd (Averroes) erred in this respect. 
@@ -65,10 +114,11 @@ Therefore, Averroes did not progress beyond his well-known (definition of) "hous
 
 ## 13. "House" and nobility come to clients and followers only through their masters and not through their own descent
 
-This is because, as we have mentioned before, only those who share in a group feeling have basic and true nobility. When such people take people of another descent as followers, or when they take slaves 78 and clients into servitude, and enter
-into close contact with them, the clients and followers share in the group feeling of their masters and take it on as if it were their own group feeling. 
+This is because, as we have mentioned before, only those who share in a group feeling have basic and true nobility. 
 
-By taking their special place within the group feeling, they participate to some extent in the (common) descent to which (that particular group feeling belongs). Muhammad thus said, "The client of people belongs to them, whether he is their client as a slave, or as a follower and ally." 79
+When such people take people of another descent as followers, or when they take slaves and clients into servitude, and enter into close contact with them, the clients and followers share in the group feeling of their masters and take it on as if it were their own group feeling. 
+
+By taking their special place within the group feeling, they participate to some extent in the (common) descent to which (that particular group feeling belongs). Muhammad thus said, "The client of people belongs to them, whether he is their client as a slave, or as a follower and ally."
 
 His own descent and birth are of no help as regards the group feeling of (the master), since (that group feeling) has nothing to do with (his own) descent. The group feeling that belonged to (his own) family is lost, because its influence disappeared when he entered into close contact with that other family and lost contact with the men whose group feeling he had formerly shared. He thus becomes one of the others and takes his place among them. 
 

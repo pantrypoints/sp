@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "The Material Layer of Superphysics"
 # date: 2020-01-27
-image: /graphics/physics/periodictable.png
+image: /photos/stuff/ball.jpg
 description: "The material layer is the final layer in the journey of dynamic energy and entropy towards stasis"
 linkTitle: "Material Layer"
 weight: 2
@@ -12,6 +12,8 @@ writer:
 icon: "Juan"
 toc: false
 ---
+
+
 
 
 The material layer is the lowest layer in the universe and manifests as physical objects. 

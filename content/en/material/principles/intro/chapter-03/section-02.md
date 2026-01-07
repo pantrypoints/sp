@@ -153,7 +153,7 @@ Quark | qom (Quantum of Matter)
 - The Superphysics model extends all the way to the Aethereal -->
 
 
-## The Gap in Knowledge in Modern Physics
+## The HUGE Gap in Knowledge in Modern Physics
 
 The MSQ model is much better-organized because it is made from the perspective of Nature in totality, instead of from the limited perceptions of humans.
 
@@ -250,39 +250,39 @@ som3 (lower proton) | Indestructible metals (Essassani)
       <!-- Convertible -->
       <tr class="hover:bg-purple-50 transition-colors border-t-4 border-purple-600">
         <td class="text-center border border-gray-300 p-4 bg-purple-200 font-semibold relative cursor-pointer hover:bg-purple-300" data-popover="Convertible Level - Particles that can transform between types">Convertible</td>
-        <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="moc - W- boson 80.4 GeV: Weak force carrier with negative charge">w- boson 80.4 GeV ♂<br><span class="text-sm text-gray-600">moc</span></td>
-        <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-green-50" data-popover="940 MeV ⚲">neutron<br><span class="text-sm text-gray-600">soc</span></td>
+        <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="moc - W- boson 80.4 GeV: Weak force carrier with negative charge">w+- z boson 80.4 GeV.. ♂<br><span class="text-sm text-gray-600">moc</span></td>
+        <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-green-50" data-popover="soc1">Anita<br><span class="text-sm text-gray-600">soc1</span></td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-yellow-50" data-popover=" 0.07 MeV ⚲">electron neutrino<br><span class="text-sm text-gray-600">qoc</span></td>
       </tr>
       <tr class="hover:bg-purple-50 transition-colors">
         <td class="text-center border border-gray-300 p-4 bg-purple-200"></td>
-        <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="moc2 - W+ boson 80.4 GeV: Weak force carrier with positive charge">w+ boson 80.4 GeV ♀<br><span class="text-sm text-gray-600">moc2</span></td>
-        <td class="text-center border border-gray-300 p-4 bg-white"></td>
+        <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="moc2 - W+ boson 80.4 GeV: Weak force carrier with positive charge">Intra Aetherspace<br><span class="text-sm text-gray-600">moc2</span></td>
+        <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-green-50" data-popover="940 MeV ⚲">neutron<br><span class="text-sm text-gray-600">soc2</span></td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-yellow-50" data-popover="qoc2 - Muon neutrino 0.17 MeV: Second generation neutral lepton">muon neutrino 0.17 MeV ⚲<br><span class="text-sm text-gray-600">qoc2</span></td>
       </tr>
       <tr class="hover:bg-purple-50 transition-colors">
         <td class="text-center border border-gray-300 p-4 bg-purple-200"></td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="moc3 - Z boson 91.2 GeV: Neutral weak force carrier">z boson 91.2 GeV ⚲<br><span class="text-sm text-gray-600">moc3</span></td>
-        <td class="text-center border border-gray-300 p-4 bg-white"></td>
+        <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-green-50" data-popover="soc3">Acids Bases<br><span class="text-sm text-gray-600">soc3</span></td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-yellow-50" data-popover="qoc3 - Tau neutrino 23 MeV: Third generation neutral lepton">tau neutrino 23 MeV ⚲<br><span class="text-sm text-gray-600">qoc3</span></td>
       </tr>
       <!-- Material -->
       <tr class="hover:bg-red-50 transition-colors border-t-4 border-red-600">
         <td class="text-center border border-gray-300 p-4 bg-red-200 font-semibold relative cursor-pointer hover:bg-red-300" data-popover="Material Level - The domain of solid, tangible matter">Material</td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="mom - Gas, bose condensate: Dispersed matter and quantum condensed states">gas, bose condensate<br><span class="text-sm text-gray-600">mom</span></td>
-        <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-green-50" data-popover="som - Proton 938 MeV: Positive nucleon, building block of atoms">proton 938 MeV ♀♂<br><span class="text-sm text-gray-600">som</span></td>
+        <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-green-50" data-popover="som1 - Aetherspace">Atomic Space<br><span class="text-sm text-gray-600">som1</span></td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-yellow-50" data-popover="qom - Up ♀ down ♂ pion 139 MeV: First generation quarks and their meson">up ♀ down ♂ pion 139 MeV<br><span class="text-sm text-gray-600">qom</span></td>
       </tr>
       <tr class="hover:bg-red-50 transition-colors">
         <td class="text-center border border-gray-300 p-4 bg-red-200"></td>
-        <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="mom2 - Liquid: Flowing matter with fixed volume">liquid<br><span class="text-sm text-gray-600">mom2</span></td>
-        <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="moa - Physical existence: The fundamental medium of all physical reality">physical existence<br><span class="text-sm text-gray-600">soa</span></td>
+        <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="som1 -">Liquid (water pressure)<br><span class="text-sm text-gray-600">mom2</span></td>
+        <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="som2 - ">Proton 938 MeV ♀♂<br><span class="text-sm text-gray-600">som2</span></td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-yellow-50" data-popover="qom2 - Charm ♀ strange ♂ kaon 493 MeV: Second generation quarks and their meson">charm ♀ strange ♂ kaon 493 MeV<br><span class="text-sm text-gray-600">qom2</span></td>
       </tr>
       <tr class="hover:bg-red-50 transition-colors">
         <td class="text-center border border-gray-300 p-4 bg-red-200"></td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="mom3 - Solid (contact force): Dense matter with fixed shape and volume">solid (contact force)<br><span class="text-sm text-gray-600">mom3</span></td>
-        <td class="text-center border border-gray-300 p-4 bg-white"></td>
+        <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-blue-50" data-popover="som2 - ">Dimensional Aetherspace<br><span class="text-sm text-gray-600">mom2</span></td>
         <td class="text-center border border-gray-300 p-4 relative cursor-pointer hover:bg-yellow-50" data-popover="qom3 - Top ♀ bottom ♂ eta 549 MeV: Third generation quarks and their meson">top ♀ bottom ♂ eta 549 MeV<br><span class="text-sm text-gray-600">qom3</span></td>
       </tr>
     </tbody>

@@ -1,0 +1,28 @@
+---
+heading: Unit 17
+title: "Chlorine"
+date: 2026-01-07
+e: 17
+description: ""
+weight: 18
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
+icon: "Juan"
+toc: false
+---
+
+
+
+
+
+![Rocket](/photos/stuff/rocket.jpg)
+
+{{< a n="Chlorine" e="17" w="35.45" m="-101.5°C" b="-34.04°C" >}}
+
+
+| Element & Symbol | Atomic Number | Major Use(s) |
+| :--- | :--- | :--- | :--- |
+| **Chlorine (Cl)** | 17 | Greenish-yellow, pungent, toxic, reactive gas; a strong disinfectant. | Water purification, PVC plastic, solvents, bleach, pharmaceuticals. |
+
+

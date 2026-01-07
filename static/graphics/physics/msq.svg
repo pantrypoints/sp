@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (e7c3feb, 2024-10-09)"
-   sodipodi:docname="msq2.svg"
+   sodipodi:docname="msq.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      inkscape:zoom="0.32040776"
      inkscape:cx="2326.7227"
-     inkscape:cy="758.4086"
+     inkscape:cy="761.52962"
      inkscape:window-width="2160"
      inkscape:window-height="1404"
      inkscape:window-x="0"
@@ -756,9 +756,9 @@
        transform="translate(68.662501,124.84092)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan57"><tspan
+         id="tspan2"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan55">moa1</tspan></tspan></text>
+           id="tspan1">moa1</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0"
@@ -766,9 +766,9 @@
        transform="translate(1343.3591,117.62896)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan202"><tspan
+         id="tspan4"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan200">soa1</tspan></tspan></text>
+           id="tspan3">soa1</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-21"
@@ -776,9 +776,9 @@
        transform="translate(1341.7472,245.28067)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan204"><tspan
+         id="tspan6"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan203">soa2</tspan></tspan></text>
+           id="tspan5">soa2</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-3"
@@ -786,9 +786,9 @@
        transform="translate(2382.8505,126.57867)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan229"><tspan
+         id="tspan8"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan225">qoa1</tspan></tspan></text>
+           id="tspan7">qoa1</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-3-4"
@@ -796,9 +796,9 @@
        transform="translate(2381.4876,235.76988)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan235"><tspan
+         id="tspan10"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan234">qoa2</tspan></tspan></text>
+           id="tspan9">qoa2</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-3-4-4"
@@ -806,9 +806,9 @@
        transform="translate(2381.6668,357.64478)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan237"><tspan
+         id="tspan12"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan236">qoa3</tspan></tspan></text>
+           id="tspan11">qoa3</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-3-4-8"
@@ -816,9 +816,9 @@
        transform="translate(2378.8462,473.92741)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan239"><tspan
+         id="tspan14"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan238">qos1</tspan></tspan></text>
+           id="tspan13">qos1</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-3-4-8-0"
@@ -826,9 +826,9 @@
        transform="translate(2378.8019,601.73129)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan241"><tspan
+         id="tspan16"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan240">qos2</tspan></tspan></text>
+           id="tspan15">qos2</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-3-4-8-7"
@@ -836,9 +836,9 @@
        transform="translate(2379.1299,715.25797)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan243"><tspan
+         id="tspan19"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan242">qos3</tspan></tspan></text>
+           id="tspan18">qos3</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-2"
@@ -846,9 +846,9 @@
        transform="translate(2668.5798,118.04318)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan245"><tspan
+         id="tspan21"><tspan
            style="fill:#000000"
-           id="tspan244">subtlifying</tspan></tspan></text>
+           id="tspan20">subtlifying</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-4"
@@ -856,9 +856,9 @@
        transform="translate(65.949851,241.7964)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan247"><tspan
+         id="tspan23"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan246">moa2</tspan></tspan></text>
+           id="tspan22">moa2</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:85.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1"
@@ -954,9 +954,9 @@
        transform="rotate(-89.665793,312.11415,375.04098)"><tspan
          x="181.01953"
          y="148.74178"
-         id="tspan249"><tspan
+         id="tspan25"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'"
-           id="tspan248">AETHER</tspan></tspan></text>
+           id="tspan24">AETHER</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-7-91"
@@ -964,9 +964,9 @@
        transform="rotate(-89.665793,348.32828,323.96762)"><tspan
          x="181.01953"
          y="148.74178"
-         id="tspan251"><tspan
+         id="tspan27"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'"
-           id="tspan250">AIB</tspan></tspan></text>
+           id="tspan26">AIB</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-7-91-0"
@@ -974,9 +974,9 @@
        transform="rotate(-89.665793,492.37584,469.76364)"><tspan
          x="181.01953"
          y="148.74178"
-         id="tspan253"><tspan
+         id="tspan30"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#44aa00;stroke:#00ba22"
-           id="tspan252">SIB</tspan></tspan></text>
+           id="tspan29">SIB</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-7-9"
@@ -984,9 +984,9 @@
        transform="rotate(-90.237195,480.15606,544.29545)"><tspan
          x="181.01953"
          y="148.74178"
-         id="tspan255"><tspan
+         id="tspan32"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'"
-           id="tspan254">SPATIAL</tspan></tspan></text>
+           id="tspan31">SPATIAL</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-7-9-2"
@@ -994,9 +994,9 @@
        transform="rotate(-89.226494,670.25075,730.81343)"><tspan
          x="181.01953"
          y="148.74178"
-         id="tspan257"><tspan
+         id="tspan34"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#e1c300"
-           id="tspan256">RADIANT</tspan></tspan></text>
+           id="tspan33">RADIANT</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-7-9-2-4"
@@ -1004,14 +1004,14 @@
        transform="rotate(-90.095269,888.9893,951.95083)"><tspan
          x="181.01953"
          y="148.74178"
-         id="tspan259"><tspan
+         id="tspan36"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#a56d00"
-           id="tspan258">CONVERSION</tspan></tspan><tspan
+           id="tspan35">CONVERSION</tspan></tspan><tspan
          x="181.01953"
          y="266.08162"
-         id="tspan261"><tspan
+         id="tspan38"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#a56d00"
-           id="tspan260">N</tspan></tspan></text>
+           id="tspan37">N</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-7-9-2-8"
@@ -1019,9 +1019,9 @@
        transform="rotate(-90.634188,1044.0999,1114.3457)"><tspan
          x="181.01953"
          y="148.74178"
-         id="tspan263"><tspan
+         id="tspan40"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#ff3d5a"
-           id="tspan262">MATERIAL</tspan></tspan></text>
+           id="tspan39">MATERIAL</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9"
@@ -1029,9 +1029,9 @@
        transform="translate(381.52438,123.55998)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan265"><tspan
+         id="tspan42"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan264">existence space</tspan></tspan></text>
+           id="tspan41">existence space</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-92"
@@ -1039,9 +1039,9 @@
        transform="translate(369.59084,481.15025)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan267"><tspan
+         id="tspan44"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan266">timespan (change)</tspan></tspan></text>
+           id="tspan43">timespan (change)</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-92-6"
@@ -1049,9 +1049,9 @@
        transform="translate(366.67933,597.23324)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan269"><tspan
+         id="tspan46"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan268">macro aetherspace</tspan></tspan></text>
+           id="tspan45">macro aetherspace</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-92-4"
@@ -1059,9 +1059,9 @@
        transform="translate(367.4614,716.74402)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan271"><tspan
+         id="tspan48"><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan270">spacespan (gravity)</tspan></tspan></text>
+           id="tspan47">spacespan (gravity)</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-92-4-2"
@@ -1069,9 +1069,9 @@
        transform="translate(356.65974,1083.971)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan273"><tspan
+         id="tspan50"><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan272">virtual photon</tspan></tspan></text>
+           id="tspan49">virtual photon</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-92-4-5-6"
@@ -1079,9 +1079,9 @@
        transform="translate(351.38384,1203.1707)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan275"><tspan
+         id="tspan52"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan274">w z boson 80.4 GeV</tspan></tspan></text>
+           id="tspan51">w z boson 80.4 GeV</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-92-4-5-6-4"
@@ -1089,13 +1089,13 @@
        transform="translate(338.76746,1327.4076)"><tspan
          x="181.01953"
          y="153.59441"
-         id="tspan279"><tspan
-           style="font-size:69.3333px"
-           id="tspan276">intra aetherspace</tspan><tspan
+         id="tspan56"><tspan
+           style="font-size:69.3333px;fill:#000000"
+           id="tspan53">intra aetherspace</tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan277"> </tspan><tspan
-           style="font-size:42.6667px"
-           id="tspan278">(intramolecular)</tspan></tspan></text>
+           id="tspan54"> </tspan><tspan
+           style="font-size:42.6667px;fill:#000000"
+           id="tspan55">(intramolecular)</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-92-4-5-6-4-8"
@@ -1103,11 +1103,11 @@
        transform="translate(337.466,1461.5071)"><tspan
          x="181.01953"
          y="148.74178"
-         id="tspan282"><tspan
-           style="font-size:64px"
-           id="tspan280">inter aetherspace</tspan><tspan
+         id="tspan59"><tspan
+           style="font-size:64px;fill:#000000"
+           id="tspan57">inter aetherspace</tspan><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan281"> (intermolecular)</tspan></tspan></text>
+           id="tspan58"> (intermolecular)</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-92-4-5-6-4-5"
@@ -1115,9 +1115,9 @@
        transform="translate(340.54077,1556.9642)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan284"><tspan
+         id="tspan61"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan283">gas (air pressure)</tspan></tspan></text>
+           id="tspan60">gas (air pressure)</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-92-4-5-6-4-81"
@@ -1125,9 +1125,9 @@
        transform="translate(339.04845,1678.584)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan286"><tspan
+         id="tspan63"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan285">liquid (water pressure)</tspan></tspan></text>
+           id="tspan62">liquid (water pressure)</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-92-4-5-6-4-6"
@@ -1135,9 +1135,9 @@
        transform="translate(334.92359,1797.6327)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan288"><tspan
+         id="tspan65"><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan287">solid (contact force)</tspan></tspan></text>
+           id="tspan64">solid (contact force)</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-92-4-5"
@@ -1145,9 +1145,9 @@
        transform="translate(358.84363,840.10823)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan290"><tspan
+         id="tspan67"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan289">photon (info)</tspan></tspan></text>
+           id="tspan66">photon (info)</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-92-4-5-7"
@@ -1155,9 +1155,9 @@
        transform="translate(358.07397,967.48619)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan292"><tspan
+         id="tspan69"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan291">heat (energy)</tspan></tspan></text>
+           id="tspan68">heat (energy)</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9"
@@ -1165,9 +1165,9 @@
        transform="translate(385.24223,233.3371)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan294"><tspan
+         id="tspan71"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan293">identity space (sound)</tspan></tspan></text>
+           id="tspan70">identity space (sound)</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9-3"
@@ -1175,9 +1175,9 @@
        transform="translate(1593.574,119.0702)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan296"><tspan
+         id="tspan73"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan295">physical existence</tspan></tspan></text>
+           id="tspan72">physical existence</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9-3-5"
@@ -1185,9 +1185,9 @@
        transform="translate(1594.7857,244.56468)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan298"><tspan
+         id="tspan75"><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan297">identity</tspan></tspan></text>
+           id="tspan74">identity</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9-3-5-1"
@@ -1195,9 +1195,9 @@
        transform="translate(1585.7258,483.50452)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan300"><tspan
+         id="tspan77"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan299">time</tspan></tspan></text>
+           id="tspan76">time</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9-3-5-1-0"
@@ -1205,9 +1205,9 @@
        transform="translate(1586.7395,717.03106)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan302"><tspan
+         id="tspan79"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan301">space</tspan></tspan></text>
+           id="tspan78">space</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9-3-5-1-6"
@@ -1215,9 +1215,9 @@
        transform="translate(1577.9733,839.27057)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan304"><tspan
+         id="tspan81"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan303">spectrum</tspan></tspan></text>
+           id="tspan80">spectrum</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9-3-5-0"
@@ -1225,9 +1225,9 @@
        transform="translate(1585.8235,599.66798)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan306"><tspan
+         id="tspan83"><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#1c1d20"
-           id="tspan305">blackhole</tspan></tspan></text>
+           id="tspan82">blackhole</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9-3-5-2"
@@ -1235,9 +1235,9 @@
        transform="translate(1584.2968,365.95061)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan308"><tspan
+         id="tspan85"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan307">reality (probability)</tspan></tspan></text>
+           id="tspan84">reality (probability)</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-7"
@@ -1245,9 +1245,9 @@
        transform="translate(378.72131,355.82742)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan310"><tspan
+         id="tspan87"><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan309">perception space</tspan></tspan></text>
+           id="tspan86">perception space</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-1"
@@ -1255,13 +1255,13 @@
        transform="translate(2659.0926,842.68757)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan314"><tspan
+         id="tspan91"><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan311">electron </tspan><tspan
+           id="tspan88">electron </tspan><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan312">♂</tspan><tspan
+           id="tspan89">♂</tspan><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan313"> 0.5 MeV</tspan></tspan></text>
+           id="tspan90"> 0.5 MeV</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-1-71"
@@ -1269,13 +1269,13 @@
        transform="translate(2657.7588,957.69521)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan318"><tspan
+         id="tspan95"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan315">muon </tspan><tspan
+           id="tspan92">muon </tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan316">♂</tspan><tspan
+           id="tspan93">♂</tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan317"> 105.6 MeV</tspan></tspan></text>
+           id="tspan94"> 105.6 MeV</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-1-3"
@@ -1283,13 +1283,13 @@
        transform="translate(2647.0687,1082.206)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan322"><tspan
+         id="tspan99"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan319">tau </tspan><tspan
+           id="tspan96">tau </tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan320">♂</tspan><tspan
+           id="tspan97">♂</tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan321"> 1.7 MeV</tspan></tspan></text>
+           id="tspan98"> 1.7 MeV</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-1-4"
@@ -1297,9 +1297,9 @@
        transform="translate(2666.0085,236.4421)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan324"><tspan
+         id="tspan101"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan323">transforming</tspan></tspan></text>
+           id="tspan100">transforming</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-1-42"
@@ -1307,9 +1307,9 @@
        transform="translate(2668.6385,351.87457)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan326"><tspan
+         id="tspan103"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan325">crudifying</tspan></tspan></text>
+           id="tspan102">crudifying</tspan></tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#2f7fff;stroke-width:18.8;stroke-dasharray:none;stroke-opacity:1"
        d="m 3695.2913,215.35059 -1157.8995,-9.36307 v 121.7199 L 1476.2439,324.5864 V 446.30629 H 209.10854"
@@ -1396,9 +1396,9 @@
        inkscape:transform-center-y="-398.81952"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan328"><tspan
+         id="tspan105"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan327">soa3</tspan></tspan></text>
+           id="tspan104">soa3</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-0"
@@ -1406,9 +1406,9 @@
        transform="translate(1339.6224,476.92652)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan330"><tspan
+         id="tspan107"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan329">sos1</tspan></tspan></text>
+           id="tspan106">sos1</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-6"
@@ -1416,9 +1416,9 @@
        transform="translate(1333.2864,598.61211)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan332"><tspan
+         id="tspan109"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan331">sos2</tspan></tspan></text>
+           id="tspan108">sos2</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-05"
@@ -1426,9 +1426,9 @@
        transform="translate(1333.2478,720.36126)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan334"><tspan
+         id="tspan111"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan333">sos3</tspan></tspan></text>
+           id="tspan110">sos3</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-75"
@@ -1436,9 +1436,9 @@
        transform="translate(1331.216,836.28975)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan336"><tspan
+         id="tspan113"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan335">sor1</tspan></tspan></text>
+           id="tspan112">sor1</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-80"
@@ -1446,9 +1446,9 @@
        transform="translate(1328.09,969.04003)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan338"><tspan
+         id="tspan115"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan337">sor2</tspan></tspan></text>
+           id="tspan114">sor2</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-06"
@@ -1456,9 +1456,9 @@
        transform="translate(1322.4475,1090.7937)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan340"><tspan
+         id="tspan117"><tspan
            style="fill:#000000"
-           id="tspan339">sor3</tspan></tspan></text>
+           id="tspan116">sor3</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-4"
@@ -1466,9 +1466,9 @@
        transform="translate(1319.5225,1199.88)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan342"><tspan
+         id="tspan119"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan341">soc1</tspan></tspan></text>
+           id="tspan118">soc1</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-81"
@@ -1476,9 +1476,9 @@
        transform="translate(1315.9754,1324.3147)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan344"><tspan
+         id="tspan121"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan343">soc2</tspan></tspan></text>
+           id="tspan120">soc2</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-19"
@@ -1486,9 +1486,9 @@
        transform="translate(1312.9209,1441.8142)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan346"><tspan
+         id="tspan123"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan345">soc3</tspan></tspan></text>
+           id="tspan122">soc3</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-64"
@@ -1496,9 +1496,9 @@
        transform="translate(1307.241,1561.9549)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan348"><tspan
+         id="tspan125"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan347">som1</tspan></tspan></text>
+           id="tspan124">som1</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-69"
@@ -1506,9 +1506,9 @@
        transform="translate(1309.1876,1686.3568)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan350"><tspan
+         id="tspan127"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan349">som2</tspan></tspan></text>
+           id="tspan126">som2</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-27"
@@ -1516,9 +1516,9 @@
        transform="translate(1300.4703,1803.9027)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan352"><tspan
+         id="tspan129"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan351">som3</tspan></tspan></text>
+           id="tspan128">som3</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-1-8"
@@ -1526,9 +1526,9 @@
        transform="translate(2664.0948,480.06866)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan354"><tspan
+         id="tspan131"><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan353">universal</tspan></tspan></text>
+           id="tspan130">universal</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-1-2"
@@ -1536,9 +1536,9 @@
        transform="translate(2663.5556,602.4648)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan356"><tspan
+         id="tspan133"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan355">galactic</tspan></tspan></text>
+           id="tspan132">galactic</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-1-0"
@@ -1546,9 +1546,9 @@
        transform="translate(2663.6113,722.77128)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan358"><tspan
+         id="tspan135"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan357">stellar</tspan></tspan></text>
+           id="tspan134">stellar</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-1-7"
@@ -1556,13 +1556,13 @@
        transform="translate(2587.5012,1228.164)"><tspan
          x="181.01953"
          y="146.31541"
-         id="tspan362"><tspan
+         id="tspan139"><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan359">electron neutrino </tspan><tspan
+           id="tspan136">electron neutrino </tspan><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan360">⚥</tspan><tspan
+           id="tspan137">⚥</tspan><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan361"> 0.07 MeV</tspan></tspan></text>
+           id="tspan138"> 0.07 MeV</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-1-7-0"
@@ -1570,13 +1570,13 @@
        transform="translate(2629.4756,1337.5405)"><tspan
          x="181.01953"
          y="151.16814"
-         id="tspan366"><tspan
+         id="tspan143"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan363">muon neutrino </tspan><tspan
+           id="tspan140">muon neutrino </tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan364">⚥</tspan><tspan
+           id="tspan141">⚥</tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan365"> 0.17 MeV</tspan></tspan></text>
+           id="tspan142"> 0.17 MeV</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-1-7-0-5"
@@ -1584,17 +1584,17 @@
        transform="translate(2604.4484,1577.2249)"><tspan
          x="181.01953"
          y="148.74178"
-         id="tspan372"><tspan
+         id="tspan149"><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan367">up </tspan><tspan
+           id="tspan144">up </tspan><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan368">♀</tspan><tspan
+           id="tspan145">♀</tspan><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan369"> down </tspan><tspan
+           id="tspan146"> down </tspan><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan370">♂</tspan><tspan
+           id="tspan147">♂</tspan><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan371"> pion 139 MeV</tspan></tspan></text>
+           id="tspan148"> pion 139 MeV</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-1-7-0-5-3"
@@ -1602,17 +1602,17 @@
        transform="translate(2597.7122,1703.09)"><tspan
          x="181.01953"
          y="139.03641"
-         id="tspan378"><tspan
+         id="tspan155"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan373">charm </tspan><tspan
+           id="tspan150">charm </tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan374">♀</tspan><tspan
+           id="tspan151">♀</tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan375"> strange </tspan><tspan
+           id="tspan152"> strange </tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan376">♂</tspan><tspan
+           id="tspan153">♂</tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan377"> kaon 493 MeV</tspan></tspan></text>
+           id="tspan154"> kaon 493 MeV</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-1-7-0-5-5"
@@ -1620,17 +1620,17 @@
        transform="translate(2588.9948,1806.1558)"><tspan
          x="181.01953"
          y="151.16814"
-         id="tspan384"><tspan
+         id="tspan161"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan379">top </tspan><tspan
+           id="tspan156">top </tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan380">♀</tspan><tspan
+           id="tspan157">♀</tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan381"> down </tspan><tspan
+           id="tspan158"> down </tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan382">♂</tspan><tspan
+           id="tspan159">♂</tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan383"> eta 549 MeV</tspan></tspan></text>
+           id="tspan160"> eta 549 MeV</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-1-7-0-8"
@@ -1638,13 +1638,13 @@
        transform="translate(2599.0569,1444.1818)"><tspan
          x="181.01953"
          y="151.16814"
-         id="tspan388"><tspan
+         id="tspan165"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan385">tau neutrino </tspan><tspan
+           id="tspan162">tau neutrino </tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan386">⚥</tspan><tspan
+           id="tspan163">⚥</tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan387"> 23 MeV</tspan></tspan></text>
+           id="tspan164"> 23 MeV</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-3-4-8-5"
@@ -1652,9 +1652,9 @@
        transform="translate(2380.7804,843.35331)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan390"><tspan
+         id="tspan167"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan389">qor1</tspan></tspan></text>
+           id="tspan166">qor1</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-3-4-8-1"
@@ -1662,9 +1662,9 @@
        transform="translate(2378.8734,956.61551)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan392"><tspan
+         id="tspan169"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan391">qor2</tspan></tspan></text>
+           id="tspan168">qor2</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-3-4-8-79"
@@ -1672,9 +1672,9 @@
        transform="translate(2376.7542,1074.6211)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan394"><tspan
+         id="tspan171"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan393">qor3</tspan></tspan></text>
+           id="tspan170">qor3</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-3-4-8-9"
@@ -1682,9 +1682,9 @@
        transform="translate(2370.0778,1198.7461)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan396"><tspan
+         id="tspan173"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan395">qoc1</tspan></tspan></text>
+           id="tspan172">qoc1</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-3-4-8-9-9"
@@ -1692,9 +1692,9 @@
        transform="translate(2363.6124,1314.4601)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan398"><tspan
+         id="tspan175"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan397">qoc2</tspan></tspan></text>
+           id="tspan174">qoc2</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-3-4-8-9-1"
@@ -1702,9 +1702,9 @@
        transform="translate(2361.5034,1433.9209)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan400"><tspan
+         id="tspan177"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan399">qoc3</tspan></tspan></text>
+           id="tspan176">qoc3</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-3-4-8-9-1-9"
@@ -1712,9 +1712,9 @@
        transform="translate(2349.819,1561.134)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan402"><tspan
+         id="tspan179"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan401">qom1</tspan></tspan></text>
+           id="tspan178">qom1</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-3-4-8-9-1-9-2"
@@ -1722,9 +1722,9 @@
        transform="translate(2344.0744,1678.0197)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan404"><tspan
+         id="tspan181"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan403">qom2</tspan></tspan></text>
+           id="tspan180">qom2</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-3-4-8-9-1-9-6"
@@ -1732,9 +1732,9 @@
        transform="translate(2336.9824,1800.7745)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan406"><tspan
+         id="tspan183"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan405">qom3</tspan></tspan></text>
+           id="tspan182">qom3</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9-3-5-1-3"
@@ -1742,9 +1742,9 @@
        transform="translate(1582.0494,969.82902)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan408"><tspan
+         id="tspan185"><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan407">fire</tspan></tspan></text>
+           id="tspan184">fire</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9-3-5-1-1"
@@ -1752,11 +1752,11 @@
        transform="translate(1586.8371,1078.8086)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan411"><tspan
+         id="tspan188"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan409">electricity </tspan><tspan
+           id="tspan186">electricity </tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan410">♂</tspan></tspan></text>
+           id="tspan187">♂</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9-3-5-1-1-7"
@@ -1764,13 +1764,13 @@
        transform="translate(1575.6612,1198.4886)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan415"><tspan
+         id="tspan192"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan412">anita </tspan><tspan
+           id="tspan189">anita </tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan413">⚥</tspan><tspan
+           id="tspan190">⚥</tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan414"> 1 EeV</tspan></tspan></text>
+           id="tspan191"> 1 EeV</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9-3-5-1-1-7-3"
@@ -1778,13 +1778,13 @@
        transform="translate(1568.7277,1330.5337)"><tspan
          x="181.01953"
          y="158.44715"
-         id="tspan419"><tspan
+         id="tspan196"><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan416">neutron </tspan><tspan
+           id="tspan193">neutron </tspan><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan417">⚥</tspan><tspan
+           id="tspan194">⚥</tspan><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan418"> 940 MeV</tspan></tspan></text>
+           id="tspan195"> 940 MeV</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9-3-5-1-1-7-3-3"
@@ -1792,9 +1792,9 @@
        transform="translate(1566.6302,1442.5936)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan421"><tspan
+         id="tspan198"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan420">acids bases</tspan></tspan></text>
+           id="tspan197">acids bases</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9-3-5-1-1-7-3-3-9"
@@ -1802,13 +1802,13 @@
        transform="translate(1559.8386,1562.0895)"><tspan
          x="181.01953"
          y="168.15242"
-         id="tspan425"><tspan
-           style="font-size:85.3333px"
-           id="tspan422">aetherspace</tspan><tspan
+         id="tspan202"><tspan
+           style="font-size:85.3333px;fill:#000000"
+           id="tspan199">aetherspace</tspan><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan423"> </tspan><tspan
-           style="font-size:32px"
-           id="tspan424">atomic space</tspan></tspan></text>
+           id="tspan200"> </tspan><tspan
+           style="font-size:32px;fill:#000000"
+           id="tspan201">atomic space</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9-3-5-1-1-7-3-3-6"
@@ -1816,9 +1816,9 @@
        transform="translate(1535.4394,1821.0907)"><tspan
          x="181.01953"
          y="130.54427"
-         id="tspan427"><tspan
+         id="tspan204"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000"
-           id="tspan426">dimensional aetherspace (quasi crystal)</tspan></tspan></text>
+           id="tspan203">dimensional aetherspace (quasi crystal)</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-9-9-3-5-1-1-7-3-8"
@@ -1826,21 +1826,21 @@
        transform="translate(1535.8136,1687.358)"><tspan
          x="181.01953"
          y="158.44715"
-         id="tspan435"><tspan
-           style="font-size:37.3333px"
-           id="tspan428">microaetherspace</tspan><tspan
-           style="font-size:42.6667px"
-           id="tspan429"> </tspan><tspan
-           style="font-size:53.3333px"
-           id="tspan430">proton</tspan><tspan
-           style="font-size:64px"
-           id="tspan431"> </tspan><tspan
-           style="font-size:64px"
-           id="tspan432">♀</tspan><tspan
+         id="tspan212"><tspan
+           style="font-size:37.3333px;fill:#000000"
+           id="tspan205">microaetherspace</tspan><tspan
+           style="font-size:42.6667px;fill:#000000"
+           id="tspan206"> </tspan><tspan
+           style="font-size:53.3333px;fill:#000000"
+           id="tspan207">proton</tspan><tspan
+           style="font-size:64px;fill:#000000"
+           id="tspan208"> </tspan><tspan
+           style="font-size:64px;fill:#000000"
+           id="tspan209">♀</tspan><tspan
            style="font-weight:bold;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#000000"
-           id="tspan433"> </tspan><tspan
-           style="font-size:42.6667px"
-           id="tspan434">938 MeV</tspan></tspan></text>
+           id="tspan210"> </tspan><tspan
+           style="font-size:42.6667px;fill:#000000"
+           id="tspan211">938 MeV</tspan></tspan></text>
     <path
        style="fill:#d40000;fill-opacity:1;stroke-width:28.18;stroke:#6b8cff;stroke-opacity:1;stroke-dasharray:none"
        d="M 2526.8966,2002.7586 H 3667.8621"
@@ -1862,9 +1862,9 @@
        transform="rotate(-89.665793,1070.7886,1041.7664)"><tspan
          x="181.01953"
          y="148.74178"
-         id="tspan437"><tspan
+         id="tspan214"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#ff5555"
-           id="tspan436">MIB</tspan></tspan></text>
+           id="tspan213">MIB</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-7-91-00"
@@ -1872,9 +1872,9 @@
        transform="rotate(-89.665793,692.02358,681.42285)"><tspan
          x="181.01953"
          y="148.74178"
-         id="tspan439"><tspan
+         id="tspan216"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808000"
-           id="tspan438">RIB</tspan></tspan></text>
+           id="tspan215">RIB</tspan></tspan></text>
     <rect
        style="fill:#407dff;fill-opacity:1;stroke-width:3.77953"
        id="rect2"
@@ -1928,10 +1928,10 @@
        inkscape:label="edgeofidentity"><tspan
          x="181.01953"
          y="134.18377"
-         id="tspan440">edge of </tspan><tspan
+         id="tspan217">edge of </tspan><tspan
          x="181.01953"
          y="194.18377"
-         id="tspan441">identity</tspan></text>
+         id="tspan218">identity</tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-2-9-3"
@@ -1941,13 +1941,13 @@
        inkscape:transform-center-y="49.936369"><tspan
          x="181.01953"
          y="134.18377"
-         id="tspan442">edge of </tspan><tspan
+         id="tspan219">edge of </tspan><tspan
          x="181.01953"
          y="194.18377"
-         id="tspan443">visible </tspan><tspan
+         id="tspan220">visible </tspan><tspan
          x="181.01953"
          y="254.18377"
-         id="tspan444">universe</tspan></text>
+         id="tspan221">universe</tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-2-9-3-6"
@@ -1957,7 +1957,7 @@
        inkscape:transform-center-y="49.936369"><tspan
          x="181.01953"
          y="134.18377"
-         id="tspan445">Higgs</tspan></text>
+         id="tspan222">Higgs</tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-2-9-3-6-6"
@@ -1968,7 +1968,7 @@
        inkscape:transform-center-x="49.840004"><tspan
          x="181.01953"
          y="134.18377"
-         id="tspan446">X17</tspan></text>
+         id="tspan223">X17</tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-2-9-3-6-6-3"
@@ -1979,7 +1979,7 @@
        inkscape:transform-center-x="49.968138"><tspan
          x="181.01953"
          y="148.74178"
-         id="tspan447">X482?</tspan></text>
+         id="tspan224">X482?</tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-2-9-3-6-6-3-3"
@@ -1990,7 +1990,7 @@
        inkscape:transform-center-x="50.225982"><tspan
          x="181.01953"
          y="148.74178"
-         id="tspan448">edge of identity</tspan></text>
+         id="tspan225">edge of identity</tspan></text>
     <text
        xml:space="preserve"
        id="text16-0-7-91-00-5"
@@ -1998,9 +1998,9 @@
        transform="rotate(-89.665793,890.59251,868.06491)"><tspan
          x="181.01953"
          y="148.74178"
-         id="tspan450"><tspan
+         id="tspan227"><tspan
            style="font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#806600"
-           id="tspan449">CIB</tspan></tspan></text>
+           id="tspan226">CIB</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1"
@@ -2008,7 +2008,7 @@
        transform="translate(328.82759,15.448276)"><tspan
          x="406.06836"
          y="129.25836"
-         id="tspan451">MEDIUM</tspan></text>
+         id="tspan228">MEDIUM</tspan></text>
     <text
        xml:space="preserve"
        id="text1-3"
@@ -2016,7 +2016,7 @@
        transform="translate(1412.1649,13.167824)"><tspan
          x="406.06836"
          y="129.25836"
-         id="tspan452">SUBSTANCE</tspan></text>
+         id="tspan229">SUBSTANCE</tspan></text>
     <text
        xml:space="preserve"
        id="text1-3-1"
@@ -2024,7 +2024,7 @@
        transform="translate(2473.166,9.91082)"><tspan
          x="406.06836"
          y="129.25836"
-         id="tspan453">QUANTUM</tspan></text>
+         id="tspan230">QUANTUM</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:44px;line-height:0.9;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:2.501"
@@ -2032,6 +2032,6 @@
        y="1632.295"
        id="text233"><tspan
          sodipodi:role="line"
-         id="tspan233"></tspan></text>
+         id="tspan233" /></text>
   </g>
 </svg>

@@ -5,7 +5,7 @@ title: "Spatial Territories"
 weight: 35
 image: /photos/physics/whitehole.jpg
 description: "Chapter 5 gave 3 qost types. Here, we match them to their gravitational territories"
-icon: /icons/spmat.png
+icon: Juan
 draft: true
 writer:
   name: Juan

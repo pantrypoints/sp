@@ -2,7 +2,7 @@
 heading: "Section 1b"
 title: "Cheaper Way to Produce Antimatter"
 # date: 2024-08-01
-image: /photos/physics/neutronstar.jpg
+image: /photos/stuff/lhc.jpg
 description: "Two new technologies can replace fossil fuels as a reliable energy source"
 writer:
   name: Juan
@@ -29,6 +29,9 @@ Wind | Not reliable, Select Locations only
 Hydro | Not reliable, Select Locations only
 Solar | Toxic Waste, Large Area Needed
 Nuclear Fission | Nuclear Waste, Limited Uranium Supplies
+
+
+![collider](/photos/stuff/lhc.jpg)
 
 
 Two new mechanisms can replace fossil fuels as a reliable energy source:
@@ -138,3 +141,5 @@ This means its aetherspaces of its isotopes are all nearly flipped so that the a
 Instead of producing antiprotons by colliding protons with protons in a brute force high energy way, the better cheaper way is to use the aether to flip the aetherspace (or nearly flip them) of protons. 
 
 This will make them semi-unstable which can be made fully unstable or unlocked by the addition of a proton, as explained by Bob Lazar.  
+
+

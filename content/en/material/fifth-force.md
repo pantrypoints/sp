@@ -6,7 +6,7 @@ description: "The muon-G2 experiment is accounted for by Spacetime Quanta we cal
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.pn
+icon: Juan
 ---
 
 

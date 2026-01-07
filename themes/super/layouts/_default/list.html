@@ -79,6 +79,8 @@
         
           {{ if .Params.a }}
             {{ partial "card-ava.html" . }}
+          {{ else if .Params.e }}
+            {{ partial "card-atom.html" . }}              
           {{ else if .Params.image }}
             {{ partial "card-img.html" . }}  
           {{ else }}

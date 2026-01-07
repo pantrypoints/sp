@@ -5,7 +5,7 @@ title: "Lorentz Invariance and the Speed of Light"
 weight: 33
 image: /graphics/physics/fabric.jpg
 description: "The gravitational signature in the Spatial Layer is found in the timespace particle."
-icon: /icons/spmat.pn
+icon: Juan
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

@@ -5,7 +5,7 @@ title: "Maxwell's Equations"
 weight: 29
 image: /photos/physics/maxwell.jpg
 description: "Radiant Territories are the electromagentic fields of Physics."
-icon: /icons/spmat.pn
+icon: Juan
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

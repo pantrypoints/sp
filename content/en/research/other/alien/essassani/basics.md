@@ -191,3 +191,9 @@ By activating this synchronicity, things in your life flow more naturally, pleas
 ## Most Powerful Mantra
 
 "I am who I am, and that is enough"
+
+
+## Success
+
+If at first you don't succeed, redefine success. [and of course don't have any insistence]
+

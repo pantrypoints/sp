@@ -150,28 +150,35 @@ And so, the group embarks on the new endeavor as they struggle to fully establis
 
 ## Why are there four cycles?
 
-Economic Superphysics, the subset of Social Superphysics, explains that the cycles are based on the 4 laws of value which mirror the 4 laws of thermodynamics:
+The cycles are based on the 4 properties of waves:
 
-1. The Working or Shudra class comes from [the First law of Value](/social/economics/principles/part-1/chapter-01)
-2. The Warrior or Ksattriya class comes from [the Second law of Value](/social/economics/principles/part-2/chapter-01)
-3. The Thinking or Brahmin class comes from [the Third law of Value](/social/economics/principles/part-3/chapter-01)
-4. The Trading or Vaeshya class comes from the [the Fourth law of Value](/social/economics/principles/part-4/chapter-01)
+
+Wave Property | Cycle or Class
+--- | ---
+Commonality | Worker or Shudra or Democrat
+Density | Warrior or Ksattriya or Tyrant
+Balance | Thinker or Brahmin or Aristocrat
+Spread | Trader or Vaeshya or Oligarch
 
 
 {{< youtube eEGJY4F6QKw >}}
 
 
-So there are 4 cycles or classes because these represent the desire-energy.
 
-Energy in this universe obeys 4 laws of thermodynamics. 
+{{< q a="Ibn Khaldun" c="Muqaddimah, Chapter 2, Section 11" >}}
+Each individual group feeling that becomes aware of the +superiority of the leader's group feeling is ready to obey that leader.
+{{< /q >}}
 
-**Why does thermodynamics have 4 laws?** 
 
-This is because there are 2 forces:
-1. Positive Yang/Shiva (aethereal) 
-2. Negative Yin/Shakti (material). 
 
-The thinking class is the closest to the aethereal while the worker class is the closest to material. 
+There are 4 cycles or classes because they come from group feelings of the society-organism and because feelings are a wave.
+
+The wave nature of existence is then due to there being only 2 Forces:
+1. Positive Yang/Shiva (subtle)
+2. Negative Yin/Shakti (crude)
+
+
+The thinking class is the subtlest while the worker class is the crudest. 
 
 
 ## So what's the purpose of Social Cycles?

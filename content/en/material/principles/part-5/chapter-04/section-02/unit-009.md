@@ -1,0 +1,25 @@
+---
+heading: Unit 9
+title: "Flourine"
+date: 2026-01-07
+e: 9
+description: ""
+weight: 10
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
+icon: "Juan"
+toc: false
+---
+
+
+
+
+![Rocket](/photos/stuff/rocket.jpg)
+
+{{< a n="Fluorine" e="9" w="18.998" m="-219.67°C" b="-188.11°C" >}}
+
+
+| Element & Symbol | Atomic Number | Major Use(s) |
+| :--- | :--- | :--- | :--- |
+| **Fluorine (F)** | 9 | Pale yellow, corrosive, highly reactive gas; the most electronegative element. | Toothpaste (fluoride), Teflon, uranium processing, refrigerants. |

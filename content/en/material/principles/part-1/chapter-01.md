@@ -123,6 +123,7 @@ In terms of creation, this layer is the first layer that precedes physical manif
 We write aether with an "a" to differentiate it from the *ether* of science. This is similar to writing dialectics as "Socratic Dialectics" to set it apart from the corrupted dialetics of Marx. 
 
 
+
 ### Matter and Force are One as Idea
 
 In the 3 lowest layers of Material, Conversion, and Radiance, force particles are seperate from matter particles. This is because the separation is done by the Spatial Layer. 
@@ -130,6 +131,19 @@ In the 3 lowest layers of Material, Conversion, and Radiance, force particles ar
 In the 2 highest layers, the Spatial and Athereal, the force and matter are interchangeable. In the highest layer, they are one and the same. 
 
 <!-- Einstein claims that the Michelson and Morley experiment disproved the ether. In reality, it merely proved that the aether does not reside in the spacetime layer, but in its own layer as the aethereal layer. -->
+
+
+
+## Vibration between Physical and Metaphysical
+
+The Essassani peg the frequency as the following:
+
+
+Layer | Cycles per second | Notes
+--- | --- | --- 
+Radiant | 333,000 | Threshold between physical and non physical reality. This is the vibration of electrons.
+Matter | 20,000-25,000 | Threshold between physical and non physical reality. This is the vibration of aetherspace
+
 
 
 

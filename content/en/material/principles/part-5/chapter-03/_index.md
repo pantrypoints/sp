@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 3"
-linkTitle: Media of the Convertible Layer
+linkTitle: Media
 title: "The Media of Matter: Solid, Liquid, Gas"
 # date: 2023-12-10
 image: /photos/physics/sparks.jpg

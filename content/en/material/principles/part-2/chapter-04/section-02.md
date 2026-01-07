@@ -5,7 +5,7 @@ title: "Vortex Formation"
 weight: 21
 image: /graphics/physics/general.jpg
 description: "Spatial vortices form when the aether agitates spacetime particles in the Spatial layer"
-icon: /icons/spmat.pn
+icon: Juan
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay  

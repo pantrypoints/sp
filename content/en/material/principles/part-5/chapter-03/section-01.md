@@ -3,7 +3,7 @@ heading: "Section 1"
 linkTitle: Media
 title: "The Media of Matter: Solid, Liquid, Gas"
 # date: 2023-12-10
-image: /photos/physics/sparks.jpg
+image: /photos/objects/apples2.jpg
 description: "The main media of the material layer are the contact forces that bind material molecules together as solid, liquid, gas"
 writer:
   name: Juan
@@ -38,35 +38,6 @@ Surface Tension | Solid |
 Contact Force | Solid, Liquid, Gas |
 
 
-### Friction
-
-Physics defines friction as the force that opposes motion upon contact.
-
-Material Superphysics, on the other hand, defines it as the reduced volume of space particles (qosts) that flow between bodies.  
-
-
-{{< i s="/photos/physics/sparks.jpg" a="Friction" >}}
-
-Since friction is based on the lack of space particles then it is observable in the Radiant and Material Layers:
-
-Phenomenon | Layer
---- | --- 
-Non-Movement or Lesser movement | Material
-Light as sparks | Radiant
-Heat | Radiant
-Static Electricity | Radiant 
-
-Note that Reverse Gravity is not classified as an effect of friction because friction implies the movement of surfaces, as opposed to being static after being set. 
-
-In the Material Layer, friction is revealed by the coefficient of friction `u` as:
-
-```
-u  F/N
-``` 
-
-Where:
-- `N` is the normal force
-- `F` is the frictional force, as the normal force reduced 
 
 
 

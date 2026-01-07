@@ -18,11 +18,11 @@ The Material Layer is divided into Upper, Middle, and Lower Sublayers.
 <!-- , with the Upper being made of waves, and the Lower being made up of particles. -->
 
 
-Sublayer | Example
---- | --- 
-Upper | Gas
-Mid | Liquid 
-Lower | Solid 
+Sublayer | Media | Substance | Quanta
+--- | --- | --- | --- 
+Upper | Gas | Aetherspace (Atomic Space) | 1st Gen Quarks
+Mid | Liquid | Mirco Aetherspace (Gluons) | 2nd Gen Quarks
+Lower | Solid | Dimensional Aetherspace (Lattice) | 3rd Gen Quarks
 
 
 ## The Material Internal Boundary
@@ -34,4 +34,13 @@ And so we predict that a larger collider will expose a particle with 482 - 492 G
 Physics will then wrongly call it as dark matter when it is really just as useless as the Higgs. 
 
 It follows that the Future Circular Collider being built at a cost of $17b is a sheer waste of money. It is merely an expensive project to keep physicists employed in the Religion of Physics, just as a huge cathedral keeps priests employed. 
+
+
+## Sublayer of Aetherspace Substance 
+
+Sublayer | Media
+--- | ---
+Upper | Nonmetals
+Mid | Metalloids
+Lower | Metals
 
