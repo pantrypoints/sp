@@ -1,21 +1,21 @@
 ---
 heading: Unit 51
 title: "Antimony"
-date: 2026-01-07
 e: 51
-description: ""
+aw: 121.76
+date: 2026-01-07
+description: "Antimony is a silvery, lustrous, gray metalloid; used primarily in flame retardants."
 weight: 52
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-toc: false
 ---
 
+{{< a n="Antimony" e="51" w="121.76" m="630.63°C" b="1587°C" >}}
 
+Element & Symbol | Atomic Number | Major Use(s)
+--- | --- | --- 
+**Antimony (Sb)** | 51 | Flame retardants, lead-acid batteries, microelectronics, pewter.
 
-| Element & Symbol | Atomic Number | Major Use(s) |
-| :--- | :--- | :--- | :--- |
-| **Antimony (Sb)** | 51 | Silvery, lustrous, brittle metalloid; poor conductor of heat/electricity. | Flame retardants, lead-acid batteries, solder, ceramics. |
-
-
+Antimony is a silvery, lustrous, gray metalloid; used primarily in flame retardants.

@@ -22,7 +22,9 @@ Each individual group feeling that becomes aware of the superiority of the leade
 
 A person who has become attached to people of a common descent usually does not share the group feeling arising from their common descent. **He is merely attached to them.** 62 The firmest connection he has with the group is as client and ally. 
 
-This in no way guarantees his superiority over them. Assuming that he has developed close contact with them, that he has mixed with them, that the fact that he was originally merely attached to them has been forgotten, and that he has become one of their skin and is addressed as one having the same descent as they, how could he, or one of his forebears, have acquired leadership before that process had taken place, since leadership is transmitted in one particular branch that has been marked for superiority through group feeling? 
+This in no way guarantees his superiority over them. 
+
+Assuming that he has developed close contact with them, that he has mixed with them, that the fact that he was originally merely attached to them has been forgotten, and that he has become one of their skin and is addressed as one having the same descent as they, how could he, or one of his forebears, have acquired leadership before that process had taken place, since leadership is transmitted in one particular branch that has been marked for superiority through group feeling? 
 
 The fact that he was merely attached to the tribe was no doubt known at an earlier stage, and at that time prevented him (or rather, his forebears) from assuming leadership. 
 
@@ -37,8 +39,7 @@ They do not realize that they thus bring suspicion upon themselves with regard t
 
 This is why the Zanatah claim to be Arabs. The Awlad Rabab, who are known as the Hijazis and who belong to the Banu 'Amir, one of the branches of the Zughbah, claim that they belong to the Banu Sulaym and, in particular, to the Sharid, a branch of the Bani Sulayin. 
 
-Their ancestor is said to have joined the Banu 'Amir as a
-carpenter who made biers. He mixed with them and developed a close contact with them. Finally, he became their leader was called al-Hijazi. Similarly, the Banu 'Abd-al-Qawi b. al-'Abbas of the Tiljin claim to be descendants of al-'Abbas b. 'Abd-alMuttalib, because they want to have noble descent from the family of the Prophet, and hold a mistaken opinion concerning the name of al-'Abbas b. 'Asiyah, the father of 'Abd-alQawi. 
+Their ancestor is said to have joined the Banu 'Amir as a carpenter who made biers. He mixed with them and developed a close contact with them. Finally, he became their leader was called al-Hijazi. Similarly, the Banu 'Abd-al-Qawi b. al-'Abbas of the Tiljin claim to be descendants of al-'Abbas b. 'Abd-alMuttalib, because they want to have noble descent from the family of the Prophet, and hold a mistaken opinion concerning the name of al-'Abbas b. 'Asiyah, the father of 'Abd-alQawi. 
 
 It is not known that any 'Abbasid ever entered the Maghrib. 
 
@@ -64,7 +65,9 @@ He expressed himself in the Zanatah dialect as follows= "We gained worldly power
 
 Another example is the claim of the Banu Sa'd, shaykhs of the Banu Yazid of the Zughbah, to be descendants of (the Caliph) Abu Bakr as-Siddiq. Then, there is the claim of the Banu Salimah, shaykhs of the Banu Yadlaltin (Idlelten) of the Titjin, that they belong to the Sulaym, as well as the claim of the Dawawidah, shaykhs of the Riyah, that they are descendants of the Barmecides. 65 We also hear that the Banu Muhanna', amirs of the Tayy in the East, claim to be descendants of the Barmecides. 
 
-There are many such examples. The fact that these groups are the leaders among their peoples speaks against their claims to such pedigrees, as we have mentioned. Their common descent (with their people) must be pure, and they must enjoy the strongest possible group feeling (in their own tribe, to have gained the leadership). Were this taken into consideration, errors in this matter would be avoided.
+There are many such examples.
+
+The fact that these groups are the leaders among their peoples speaks against their claims to such pedigrees, as we have mentioned. Their common descent (with their people) must be pure, and they must enjoy the strongest possible group feeling (in their own tribe, to have gained the leadership). Were this taken into consideration, errors in this matter would be avoided.
 
 The connection of the Mahdi of the Almohads with the 'Alid family should not be considered a case of this type. The Mahdi did not belong to the leading family among his people, the Harghah. He became their leader after he had become famous for his knowledge and religion, and by virtue of the fact that the Masmudah tribe followed his call. 
 

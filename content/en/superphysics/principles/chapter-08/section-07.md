@@ -6,13 +6,12 @@ weight: 508
 image: "/graphics/super/egl.jpg"
 description: "The harmony or disharmony between spins leads to attraction and cohesion, or repulsion and disintegration"
 icon: "Juan"
-aliases:
-  /eagle
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 aliases:
   /superphysics/principles/chapter-08g
+  /eagle
 ---
 
 
