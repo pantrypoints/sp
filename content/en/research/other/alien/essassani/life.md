@@ -7,6 +7,9 @@ author: Consolidated from Bashar
 ---
 
 
+(Bashar's Birthday is November 11, 2312)
+
+
 
 ## The Uniqueness of Each Incarnation
 

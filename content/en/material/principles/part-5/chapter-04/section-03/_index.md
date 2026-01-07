@@ -2,7 +2,7 @@
 heading: Section 3
 title: "Semimetals"
 description: "The Nonmetals of the Material Layer"
-image: "/photos/objects/fractal.jpg"
+e: 5
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

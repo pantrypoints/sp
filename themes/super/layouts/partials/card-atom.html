@@ -42,7 +42,7 @@
                   {{ $radians := mul $angle 0.0174533 }}
                   {{ $x := add 125 (mul $radius (math.Cos $radians)) }}
                   {{ $y := add 125 (mul $radius (math.Sin $radians)) }}
-                  <circle cx="{{ $x }}" cy="{{ $y }}" r="2.5" fill="#00d4ff" style="filter: drop-shadow(0 0 3px #00d4ff);" />
+                  <circle cx="{{ $x }}" cy="{{ $y }}" r="2.5" fill="yellow" style="filter: drop-shadow(0 0 3px #00d4ff);" />
                 {{ end }}
               </g>
             {{ end }}

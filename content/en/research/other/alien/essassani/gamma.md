@@ -1,10 +1,36 @@
 ---
-title: "Gamma State and Learning"
+title: "Brain, Gamma State and Learning (15 Minutes)"
 weight: 50
 image: "/photos/physics/whitehole.jpg"
 description: "The Triple 'A' Formula is based on the Triple 'A' Automative Association which you call when your car is in trouble"
 ---
 
+
+
+## Neurological Pathways (from 15 Minutes and Counting)
+
+Every thought or feeling or belief that you have changes the wiring of your brain. 
+
+A new path represents a new belief or idea or feeling that has been imposed on it.
+
+The brain then settles into that hard wiring. 
+
+It represents a more conductive path to the vibration that created it so that it reinforces itself. 
+
+It takes 15 minutes takes to plasticize or solidification timespan to create a neurological pathway to become hard wired. 
+
+Hard wiring leads to more hard wiring into the reality that you desire.
+
+Beliefs reinforce themselves through a mechanism of self-reinforcement for them to be real. 
+
+Negative beliefs have an array of tricks to make them impenetrable. 
+
+
+
+
+
+
+## Frequencies
 
 Different frequencies of consciousness, similar to AM and FM frequency:
 
