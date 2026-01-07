@@ -9,62 +9,41 @@ c: darkslategray
 
 
 
-About forty years after the Uluburun ship went down, a text was
-composed that recorded some of the contents of a similar ship,
+Forty years after the Uluburun ship went down, a text was composed that recorded some of the contents of a similar ship,
 sent by a merchant named Sinaranu from Ugarit in northern Syria
-to the island of Crete. It was actually an official proclamation
+to the island of Crete. 
+
+It was actually an official proclamation
 written on a clay tablet in Akkadian, using the cuneiform writing
 system, which stated that when the ship belonging to Sinaranu
 returned from Crete, he would not have to pay taxes to the king.
 
-The relevant part of the Sinaranu Text, as it is known, reads as
-follows: “From the present day Ammistamru, son of Niqmepa,
-King of Ugarit, exempts Sinaranu, son of Siginu … His [grain], his
-beer, his (olive)-oil to the palace he shall not deliver. His ship is
-exempt when it arrives from Crete.”9
+The Sinaranu Text reads: 
 
-Sinaranu was a wealthy Ugaritic merchant (the specific term for such a merchant in
-Akkadian was tamkār), who lived and seems to have flourished
-during the time when Ammistamru II was king of Ugarit. Sinaranu
-had apparently sent his ship from Ugarit to Crete, and back again,
-in about 1260 BC, according to our most recent understanding for
-the dates when Ammistamru II was king (ca. 1260–1235 BC). We
-do not know the actual content of the cargo brought back from
-Crete, apart from the seeming likelihood that grain, beer, and
-olive oil were included. At the very least, this is confirmation that
-there were direct mercantile connections between northern Syria
-and Crete during the mid-thirteenth century BC. We also have the
-name of someone directly involved in international economic and
-mercantile transactions more than thirty-two hundred years ago.
-It seems quite likely that the Uluburun ship and the one owned by
-Sinaranu were not all that different, either in construction or in
-the cargo being carried.
+“From the present day Ammistamru, son of Niqmepa, King of Ugarit, exempts Sinaranu, son of Siginu … His [grain], his beer, his (olive)-oil to the palace he shall not deliver. His ship is exempt when it arrives from Crete.”9
 
-We also know that Sinaranu was not alone in sending and
-receiving ships and cargoes during this time period, nor was he
-the only merchant to be granted exemption from the palace on his
-taxes. Ammistamru II issued a similar proclamation for other
-entrepreneurs whose ships sailed to Egypt, Anatolia, and
-elsewhere: “From this day forth, Ammistamru, son of Niqmepa,
-King of Ugarit, … [text broken] … Bin-yasuba and Bin-? … and
+
+Sinaranu was a wealthy Ugaritic merchant (tamkār in Akkadian) who flourished during the time when Ammistamru II was king of Ugarit. 
+
+Sinaranu had sent his ship from Ugarit to Crete, and back again, in about 1260 BC, according to our most recent understanding for
+the dates when Ammistamru II was king (ca. 1260–1235 BC). 
+
+Ammistamru II issued a similar proclamation for other entrepreneurs whose ships sailed to Egypt, Anatolia, and
+elsewhere: “From this day forth, Ammistamru, son of Niqmepa, King of Ugarit, … [text broken] … Bin-yasuba and Bin-? … and
 his sons forever, from trips to Egypt and trips to Hatti and in Zland (?), to the palace and to the palace overseer they need not
 make any report.”10
 
 
+
 ## The Battle Of Qadesh And Its Aftermath
 
-At the time that Sinaranu and other merchants were active, Ugarit
-was under the control of, and a vassal kingdom to, the Hittites in
-Anatolia. It had been so ever since the time of Suppiluliuma I in
+At the time that Sinaranu and other merchants were active, Ugarit was under the control of, and a vassal kingdom to, the Hittites in
+Anatolia. It had been so ever since the time of Suppiluliuma I in the mid-fourteenth century BC, when a treaty was signed detailing
+Ugarit’s obligations as a Hittite vassal.11 Hittite control had extended as far south as the area of Qadesh, farther to the south
+in Syria, but went no farther.
 
-the mid-fourteenth century BC, when a treaty was signed detailing
-Ugarit’s obligations as a Hittite vassal.11 Hittite control had
-extended as far south as the area of Qadesh, farther to the south
-in Syria, but went no farther. The Egyptians prevented Hittite
-efforts at further expansion. A major battle between the Hittites
-and the Egyptians was fought at the site of Qadesh in the year
-1274 BC, some fifteen or twenty years before Sinaranu sent his
-ship to Crete. This battle resonates as one of the great battles of
+The Egyptians prevented Hittite efforts at further expansion. A major battle between the Hittites and the Egyptians was fought at the site of Qadesh in the year
+1274 BC, some fifteen or twenty years before Sinaranu sent his ship to Crete. This battle resonates as one of the great battles of
 antiquity and as one of the first instances from the ancient world
 in which misinformation designed to confuse the enemy was
 deliberately employed.

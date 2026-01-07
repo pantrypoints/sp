@@ -9,47 +9,41 @@ c: darkslategray
 
 
 
-After Tudhaliya I/II, the Hittites of Anatolia/Turkey had
-languished for a while under comparatively weak rulers. Their
-fortunes began to rise again about 1350 BC, under a new king
-named Suppiluliuma I, briefly mentioned earlier in relation to
-Akhenaten’s correspondence and archives.
+After Tudhaliya I/II, the Hittites of Turkey had languished under comparatively weak rulers. 
 
-As a young prince acting on the orders of his father,
-Suppiluliuma I had helped the Hittites to regain control of
-Anatolia.52 The reemergence of the Hittites at this time posed a
-threat to Amenhotep III and his empire, so it is not surprising that
-the treaties negotiated by Amenhotep III, and the dynastic
-marriages that he arranged, were initiated with the rulers of
+Their fortunes began to rise again about 1350 BC, under a new king named Suppiluliuma I, briefly mentioned earlier in relation to Akhenaten’s correspondence and archives.
+
+As a young prince acting on the orders of his father, Suppiluliuma I had helped the Hittites to regain control of Anatolia.
+
+The reemergence of the Hittites at this time posed a threat to Amenhotep III and his empire, so it is not surprising that the treaties negotiated by Amenhotep III, and the dynastic marriages that he arranged, were initiated with the rulers of
 virtually all the lands surrounding the Hittite homelands, from
 Ugarit on the coast of north Syria to Babylon in Mesopotamia to
-the east and Arzawa in Anatolia to the west. They were most
+the east and Arzawa in Anatolia to the west. 
+
+They were most
 likely sought in an attempt at first to take advantage of the
 relative weakness of the Hittites during the early part of
 Suppiluliuma I’s reign, and subsequently, as the Hittites began to
 rise again under his leadership, to limit the extent of their
-activities.53
+activities.
 
 We know a lot about Suppiluliuma from the Hittite records,
 especially one set of tablets written by his son and eventual
-successor, Mursili II, containing what are known as the Plague Prayers. It seems that Suppiluliuma died, after a reign of about
-thirty years, of a plague that had been brought back to the Hittite
-homelands via Egyptian prisoners of war who had been captured
-during a war fought in northern Syria. The plague ravaged the
-Hittite populace. Many members of the royal family died,
+successor, Mursili II, containing what are known as the Plague Prayers.
+
+Suppiluliuma died, after a reign of about 30 years, of a plague that had been brought back to the Hittite homelands via Egyptian prisoners of war who had been captured
+during a war fought in northern Syria. The plague ravaged the Hittite populace. Many members of the royal family died,
 including Suppiluliuma.
 
-Mursili saw the deaths, and especially that of his father, as
-divine retribution for a murder that had been committed at the
-beginning of Suppiluliuma’s reign, and for which he had never
-asked forgiveness from the gods. It was Suppiluliuma’s own
-brother who had been murdered: a Hittite prince named
-Tudhaliya the Younger. It is not clear whether Suppiluliuma was
+Mursili saw the deaths, and especially that of his father, as divine retribution for a murder that had been committed at the
+beginning of Suppiluliuma’s reign, and for which he had never asked forgiveness from the gods. It was Suppiluliuma’s own
+brother who had been murdered: a Hittite prince named Tudhaliya the Younger. It is not clear whether Suppiluliuma was
 directly involved in the murder, but he certainly benefited, for
 Tudhaliya had been intended for the Hittite throne instead of
 Suppiluliuma, despite all of the great military victories that
-Suppiluliuma had accomplished on behalf of his father. Mursili
-writes:
+Suppiluliuma had accomplished on behalf of his father. 
+
+Mursili writes:
 
 But now you, O gods, have eventually taken vengeance on my father for this
 affair of Tudhaliya the Younger. My father [died] because of the blood of
@@ -76,7 +70,7 @@ of Akhenaten. These also brought him into conflict with Mitanni,
 farther to the east, during the reign of its kingTushratta.
 Suppiluliuma eventually defeated and subjugated the kingdom of
 Mitanni, but only after a number of attempts—including the socalled Great Syrian War, when Suppiluliuma sacked and
-plundered the Mitanni capital Washukanni.56
+plundered the Mitanni capital Washukanni.
 
 Among the other towns that Suppiluliuma attacked and
 destroyed within the Mitanni lands was the site of ancient Qatna
@@ -94,58 +88,55 @@ war. The letter was found in the burned remains of the king’s
 palace, evidence that the Hittites had attacked and been
 victorious.57
 
-Suppiluliuma was no stranger to diplomacy, for that went
-hand in hand with warfare in those days. He even seems to have
-married a Babylonian princess, probably after banishing his
-primary wife (and mother of his sons) overseas to Ahhiyawa for
-an unnamed transgression.58 He also married off one of his
-daughters to Shattiwaza, the son of Tushratta, whom he placed
+Suppiluliuma seems to have married a Babylonian princess, probably after banishing his primary wife (and mother of his sons) overseas to Ahhiyawa for
+an unnamed transgression.58 He also married off one of his daughters to Shattiwaza, the son of Tushratta, whom he placed
 on the throne of Mitanni as a vassal king after sending a Hittite
 army with him to win his father’s throne. However, the most interesting marriage linked to Suppiluliuma’s reign is one that
 never happened. It is known today as the “Zannanza Affair.”
-We learn of the Zannanza Affair in the Deeds of Suppiluliuma,
-as written by his son Mursili II, the same son who was responsible
+
+We learn of the Zannanza Affair in the Deeds of Suppiluliuma, as written by his son Mursili II, the same son who was responsible
 for writing the Plague Prayers. Apparently a letter was received at
 the Hittite court one day, purportedly from the queen of Egypt.
 The letter was regarded with suspicion because it contained an
 offer that had never before been made by a ruler of Egypt. It was
 a request so surprising that Suppiluliuma immediately doubted
 the letter’s authenticity. It read, simply:
+
 My husband is dead. I have no son. But they say that you have many sons. If you
 would give me one of your sons, he would become my husband. I will never take
-a servant of mine and make him my husband!59
-The Deeds record that the sender of the letter was a woman
-named “Dahamunzu.” However, this is simply a Hittite word
+a servant of mine and make him my husband!
+
+The Deeds record that the sender of the letter was a woman named “Dahamunzu.” However, this is simply a Hittite word
 meaning “the wife of the king.” In other words, the letter was
 supposedly from the queen of Egypt. But this made no sense,
-because Egyptian royalty did not marry foreigners. In all of his
-treaty negotiations, for instance, Amenhotep III had never once
+because Egyptian royalty did not marry foreigners. 
+
+In all of his treaty negotiations, for instance, Amenhotep III had never once
 given away a member of his family in marriage to a foreign ruler,
 despite being asked on more than one occasion to do so. Now, the
 queen of Egypt was offering not only to marry Suppiluliuma’s son
 but to immediately make him pharaoh of Egypt. Such an offer
 was unbelievable, and so Suppiluliuma’s response is
-understandable. He sent a trusted messenger named Hattusa-ziti
-to Egypt, to ask whether the queen had indeed sent the letter, and
+understandable. 
+
+He sent a trusted messenger named Hattusa-ziti to Egypt, to ask whether the queen had indeed sent the letter, and
 whether she was serious about her offer.
-Hattusa-ziti traveled to Egypt, as instructed, and returned not
-only with an additional letter from the queen but also with her
+
+Hattusa-ziti traveled to Egypt, as instructed, and returned not only with an additional letter from the queen but also with her
 special envoy, a man named Hani. The letter was written in
 Akkadian, rather than in either Egyptian or Hittite. 
 
-It still
-survives today in a fragmentary form after its discovery at Hattusa, within the Hittite archives, and reflects the queen’s
-anger at being doubted. As quoted in the Deeds, it reads as
-follows:
+
+It still survives today in a fragmentary form after its discovery at Hattusa, within the Hittite archives, and reflects the queen’s anger at being doubted. As quoted in the Deeds, it reads as follows:
 
 Had I a son, would I have written about my own and my country’s shame to a
 foreign land? You did not believe me, and you even spoke thus to me! He who
 was my husband is dead. I have no son! Never shall I take a servant of mine and
 make him my husband! I have written to no other country. Only to you have I
 written. They say you have many sons; so give me one son of yours. To me he
-will be husband. In Egypt he will be king!60
-Since Suppiluliuma was still skeptical, the Egyptian envoy Hani
-spoke next, saying:
+will be husband. In Egypt he will be king!
+
+Since Suppiluliuma was still skeptical, the Egyptian envoy Hani spoke next, saying:
 
 Oh my Lord! This is our country’s shame! If we had a son of the king at all,
 would we have come to a foreign country and kept asking for a lord for
@@ -179,8 +170,9 @@ country!”
 It still remains an unsolved mystery as to who ambushed and
 killed Zannanza. It also remains an open question as to who in
 Egypt would have sent the letter to Suppiluliuma, for there are
-two potential queens, both of whom were widowed. One was
-Nefertiti, wife of Akhenaten; the other was Ankhsenamen, wife of
+two potential queens, both of whom were widowed. 
+
+One was Nefertiti, wife of Akhenaten; the other was Ankhsenamen, wife of
 King Tut.63 However, given the information in the letters—that is,
 that the queen had no sons—and given the chain of events that
 followed the murder of Zannanza, with the throne of Egypt going
@@ -196,19 +188,15 @@ of his son, he made plans to attack Egyptian territory. Ay warned
 him not to do so, in correspondence that still exists in
 fragmentary condition, but Suppiluliuma declared war anyway
 and sent the Hittite army into southern Syria, where it attacked
-numerous cities and brought back thousands of prisoners,
-including many Egyptian soldiers.64 Lest anyone wonder whether
-someone would go to war over a single person, one need only
-look at the story of the Trojan War, where the Mycenaeans fought
+numerous cities and brought back thousands of prisoners, including many Egyptian soldiers.64 Lest anyone wonder whether
+someone would go to war over a single person, one need only look at the story of the Trojan War, where the Mycenaeans fought
 the Trojans for ten years, reportedly because of the kidnapping of
 the beautiful Helen, to which we shall soon turn. One can also point to the assassination of Archduke Ferdinand in Sarajevo on
 June 28, 1914, which many see as the flash point igniting World
 War I.
 
-Ironically, as pointed out above and in the Plague Prayers of
-Mursili, the Egyptian prisoners of war who were brought back by
-the Hittite army are thought to have brought with them a
-dreadful illness, which spread rapidly throughout the Hittite
+Ironically, as pointed out above and in the Plague Prayers of Mursili, the Egyptian prisoners of war who were brought back by
+the Hittite army are thought to have brought with them a dreadful illness, which spread rapidly throughout the Hittite
 homelands. Soon thereafter, in approximately 1322 BC,
 Suppiluliuma died from this plague—perhaps as much a victim of
 Egyptian-Hittite contretemps as was his son Zannanza.

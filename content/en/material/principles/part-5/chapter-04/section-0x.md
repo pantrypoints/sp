@@ -1,5 +1,5 @@
 ---
-heading: Chapter 12
+heading: Section X
 title: "Element 115"
 # date: 2020-01-27
 image: /photos/physics/elec.jpg

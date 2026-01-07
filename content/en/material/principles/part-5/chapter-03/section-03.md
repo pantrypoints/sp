@@ -4,7 +4,7 @@ title: "Liquid Dynamics: Alternative to Navier Stokes"
 # date: 2020-01-31
 image: /photos/physics/water.jpg
 description: ""
-weight: 17
+weight: 9
 icon: "Juan"
 writer:
   name: Juan

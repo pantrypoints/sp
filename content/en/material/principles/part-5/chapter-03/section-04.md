@@ -7,7 +7,7 @@ description: "Cartesian contact forces come from space"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 6
+weight: 16
 icon: "Juan"
 aliases:
   /material/principles/part-5/chapter-02b

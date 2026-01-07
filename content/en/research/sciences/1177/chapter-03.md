@@ -1,5 +1,5 @@
 ---
-heading: Chapter 3
+heading: Chapter 3 x
 title: "Act 3: Fighting For Gods And Country: The Thirteenth Century Bc"
 weight: 49
 # author: Cronin
@@ -35,36 +35,14 @@ This happened with the wreck at Uluburun, dated to 1300 BC, 100 years older than
 
 Current thinking suggests that the Uluburun ship began its journey in Egypt or Canaan and made stops at Ugarit in northern Syria and possibly at a port on Cyprus. It then headed west into the Aegean, following the southern coastline of Anatolia (modern Turkey).
 
-Along the way, the crew of the vessel had taken on board raw glass, storage jars full of barley, resin, spices, and
-perhaps wine, and—most precious of all—nearly a ton of raw tin
-and ten tons of raw copper, which were to be mixed together to
-form that most wondrous of metals, bronze.
+Along the way, the crew had taken on board raw glass, storage jars full of barley, resin, spices, and perhaps wine, and—most precious of all—nearly a ton of raw tin
+and ten tons of raw copper, which were to be mixed together to form that most wondrous of metals, bronze.
 
-It was traveling westward from the Levant, apparently bound for a port
-city in the Aegean—perhaps one of the two or three on the Greek
-mainland that served the capital center of Mycenae, or maybe one
-of the other major cities, such as Pylos on the mainland or
+It was traveling westward from the Levant, apparently bound for a port city in the Aegean—perhaps one of the two or three on the Greek
+mainland that served the capital center of Mycenae, or maybe one of the other major cities, such as Pylos on the mainland or
 Kommos or even Knossos on Crete.
 
-The mere fact that there was
-another ship sailing from east to west during the Late Bronze Age
-was enough to confirm Bass’s theories and completely alter
-modern scholars’ thoughts about the extent of trade and contacts
-that took place more than three thousand years ago. 
-
-Three Bronze Age ships have now been found, but the wreck at Uluburun is the
-largest, wealthiest, and most completely excavated.
-Fig. 8. Reconstruction of the Uluburun ship (Rosalie
-Seidler/National Geographic Stock; courtesy of the National
-Geographic Society).
-
-The owner and sponsors of the ship are still unknown. One can
-speculate about different possibilities to explain the origins of the
-vessel and the location of its final resting place. It may have been
-a commercial venture, sent by Near Eastern or Egyptian
-merchants, perhaps with the blessing of an Egyptian pharaoh or
-Canaanite king. Or it may have been sent directly by a pharaoh or king, as a greeting-gift from one sovereign to another, as was
-frequently done during the Amarna Age a few decades earlier.
+Three Bronze Age ships have now been found, but the wreck at Uluburun is the largest, wealthiest, and most completely excavated.
 
 Perhaps the ship was sent by the Mycenaeans on a “shopping
 expedition” to the Eastern Mediterranean and sank on the return
@@ -159,41 +137,11 @@ the ship, for it could not have been made—and therefore the ship
 could not have sailed—before Nefertiti came to power about 1350
 BC.
 
-The archaeologists were able to date the sinking of the ship in
-three other ways as well. One method involved radiocarbon
-dating the short-lived twigs and branches that once were used on
-the deck of the ship. Another involved dendrochronology
-(counting of tree rings), making use of the wooden beams that
-made up the hull. The third was the well-used Mycenaean and
-Minoan pottery that was found on board, which appeared to the
-specialists to date toward the end of the fourteenth century BC.
-The four independent dating mechanisms together point to
-approximately 1300 BC—the very beginning of the thirteenth
-century BC, give or take a few years in either direction—as the
-year when the ship went down.7
+The ship was dated approximately 1300 BC.
 
-Fragments from a small wooden tablet, originally with ivory
-hinges, were found on the ship, preserved within a storage jar
-into which it might have floated while the ship was sinking.
-Reminiscent of Homer’s “tablet with baneful signs” (Il. 6.178), it
-is older by more than five hundred years than similar writing
-boards that had been found at Nimrud in Iraq.
+It is older by more than 500 years than similar writing boards that had been found at Nimrud in Iraq.
 
-The tablet might once have contained a record of the ship’s itinerary, or perhaps
-the cargo manifest. However, the wax on which the writing was
-inscribed within the two sides of the tablet vanished long ago,
-leaving no sign of what had been recorded.8 It is therefore still
-impossible to tell whether the cargo on board was meant as a
-royal gift, perhaps from the king of Egypt to the king at Mycenae,
-or whether it belonged to a private merchant, selling goods at the
-principal ports around the Mediterranean.
-
-As hypothesized
-previously, it also could be purchases made on a long-distance
-shopping trip, for the raw materials on board matched what was needed by the workmen and craft shops of Mycenaean palaces
-such as Pylos in order to make high-demand concoctions,
-including perfumes and oils, as well as jewelry such as glass
-necklaces.
+A tablet found on the ship had its itinerary, or cargo manifest.
 
 The ship contained a microcosm of the international trade and contacts that were ongoing in the Eastern Mediterranean, and across the Aegean, during the early thirteenth century BC. 
 

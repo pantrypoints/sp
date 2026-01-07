@@ -8,7 +8,7 @@ description: "The main media of the material layer are the contact forces that b
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 9
+weight: 3
 icon: "Juan"
 ---
 

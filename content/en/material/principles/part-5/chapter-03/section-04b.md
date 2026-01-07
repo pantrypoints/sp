@@ -1,15 +1,16 @@
 ---
-heading: Chapter 2c
+heading: Section 4b
 title: "Contact Forces Applied"
 # date: 2020-01-31
 image: /graphics/physics/box2.jpg
 description: "The Principles for Movement in the Material Layer which is the lowest and crudest layer"
-weight: 7
+weight: 17
 icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
+
 
 <!-- - If Qost A has an inherent quality that is 100 units repulsive to Qost B, then the spacetime between them might be 100 distance-units per 1 unit of time-perception. 
 - But if Qost C is only 50 units repulsive, then Qost C will be 50 units away from Qost B at the same time. 
@@ -25,7 +26,11 @@ Here, we apply those concepts to explain and convert Newtonian contact forces in
 
 According to Newton's Second Law, net force equals mass times acceleration. This assumes an absolute space. 
 
-But Material Superphysics uses relational spacetime slices. So we apply our eagle to the problem below.
+In Material Superphysics:
+- Newton's Second Law is absorbed into the 3rd Rule of Motion of Descartes-Spinoza. 
+- relational spacetime slices are used instead of absolute space. This is similar to Mach's Principle. 
+
+So we apply our eagle to the problem below.
 
 {{< i s="/graphics/super/egl.jpg" a="The Eagle" >}}
 
@@ -34,6 +39,7 @@ But Material Superphysics uses relational spacetime slices. So we apply our eagl
 A box is pushed with an initial speed of 4.2 m/s. The friction is 0.18. How far will the box go?
 {{< /q >}}
 
+ 
 ```
 acceleration :: -0.18 * 9.81 m/s
 ```

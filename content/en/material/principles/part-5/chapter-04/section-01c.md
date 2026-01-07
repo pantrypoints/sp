@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 4b"
+heading: "Section 1c"
 linkTitle: Pentagonic
 title: "The Pentagonic Versions of Elements"
 # date: 2023-10-14
@@ -9,9 +9,12 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 32
-icon: /icons/spmat.pn
+icon: Juan
 toc: false
+aliases:
+  /material/principles/part-5/chapter-04c
 ---
+
 
 
 In Cartesian Physics, each of the elements is a mere version or modification of the aethereal substance. 
@@ -21,7 +24,7 @@ In Cartesian Physics, each of the elements is a mere version or modification of 
 Every other thing that can be attributed to body, presupposes extension [metaphysical space], and is only some mode of an extended thing [metaphysical object] just as all the properties we discover in the mind are only diverse modes of thinking.
 {{< /q >}}
 
-Therefore, each element is a version or 'mode' of hydrogen. So instead of 'elements', we call the unique combination of protons as versions of matter which we notate as v`atomic number`. For example:
+Therefore, each element is a version or 'mode' of hydrogen. So instead of 'elements', we call the unique combination of protons as versions of matter which we notate as v+`atomic number`. For example:
 
 Chemistry Name | Chemistry Symbol | Material Superphysics Symbol
 --- | --- | ---
@@ -42,6 +45,11 @@ Sodium Hydroxide 1-18-1 dissolves in water 1(2)-8 to form:
 - `8-1(♂)`
 
 
+{{< i s="/photos/social/police.jpg" a="Police" c="Chemistry will sound like police codes" >}}
+
+
+
+
 ### The 5 Arms
 
 These elements have 5 classifications called aether, air, fire, water, and earth. We connect this to the periodic table to create the Pentagonic Versions of Elements. 
@@ -55,6 +63,8 @@ This has advantages over the Periodic Table:
 
 - It drops arbitrary names such as Einsteinium and Californium for numerical ones like "6" for carbon, so that CO2 is 6-8(2) pronounce six-eight-duo. In this way, people just need to memorize the atomic number. 
 - The relationships of the compounds become more intuitive. For example, the magnetic metals form recurring rings, while the groups form spirals  
+- This associates numbers and shapes in the mind. This is a critical step in transitioning from math to qualimath which aligns with Essassani math which only has shapes and no numbers. This is because the aether is best described as a fluffy vibrating white cloud with no defined edges (that's how I saw it anyway in my meditation). 
+
 
 {{< i s="/graphics/physics/butane.jpg" a="Butane" c="Butane as C4 H10 becomes 6(4)-1(10) or six-quad-one-decad" >}}
 
@@ -103,3 +113,4 @@ Other universes will have different patterns.
 
 
 <!-- In the future, we will add the following -->
+
