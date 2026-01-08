@@ -1,8 +1,8 @@
 ---
 heading: "Section 2"
-title: "The Substance of Aether"
+title: "Physical Existence"
 # date: 2020-01-31
-image: "/photos/physics/galaxy.jpg"
+image: "/photos/psych/free.jpg"
 description: "A universe is a substance of the aether"
 writer:
   name: Juan

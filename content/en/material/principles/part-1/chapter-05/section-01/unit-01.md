@@ -4,7 +4,7 @@ title: "The Quantum of Aether: Monads"
 # date: 2023-12-10
 date: 2014-08-01
 weight: 2
-image: /graphics/physics/monad.jpg
+image: /photos/stuff/monads.jpg
 description: "The Quantum of Aether is divided into 3 groups"
 icon: "Juan"
 writer:

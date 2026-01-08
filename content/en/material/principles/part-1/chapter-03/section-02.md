@@ -1,6 +1,6 @@
 ---
 heading: "Section 2"
-title: "Existence Space: Media of Aether 1"
+title: "Existence Space"
 # # date: 2020-01-31
 date: 2024-12-09
 image: "/photos/meta/yinyang.jpg"
@@ -8,7 +8,7 @@ description: "The Media of Aether or Moas facilitate the effects of the aetherea
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 11
+weight: 4
 icon: "Juan"
 aliases:
   /material/principles/part-1/chapter-03

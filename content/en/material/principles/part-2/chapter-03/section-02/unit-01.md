@@ -1,5 +1,5 @@
 ---
-heading: "Section 2"
+heading: "Unit 1"
 title: "Timespace as Holder of Gravitational Signatures"
 # date: 2024-07-22
 weight: 11
@@ -115,4 +115,3 @@ Since a qost represents a complex idea, then a small Schwarzschild Radius repres
 
 The universe can expand infinitely just as ideas can be developed, and mixed and matched into other ideas infinitely. The physical expansion does not mean that the universe started from a singularity or will collapse back into one. That kind of thinking arises from materialist thinking, by thinking that the material universe came from a material cause.  
 -->
-

@@ -1,14 +1,14 @@
 ---
-heading: "Section 4"
-title: "Perception Space: Medium of Aether 3"
+heading: "Unit 1"
+title: "Perception Space"
 # # date: 2020-01-31
 date: 2024-12-09
-image: "/graphics/physics/spacetimes.jpg"
-description: "The Identity Space houses the gravitational signature"
+image: "/photos/psych/face.jpg"
+description: "Aethereal identities exist in a perception space which is the lowest medium of aether."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 18
+weight: 11
 icon: "Juan"
 aliases:
   /material/principles/aethereal-relativity/
