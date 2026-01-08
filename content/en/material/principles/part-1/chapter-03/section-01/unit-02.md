@@ -1,5 +1,5 @@
 ---
-heading: "Section 1"
+heading: "Unit 2"
 title: "Densities and Dimensions"
 # # date: 2020-01-31
 date: 2024-12-09
@@ -13,6 +13,7 @@ icon: "Juan"
 aliases:
   /material/principles/part-1/chapter-03c
 ---
+
 
 
 
@@ -43,8 +44,6 @@ These densities are the range that the Supreme can assume. Therefore, all identi
 Material Superhysics extends only up to the 4th density as the universe itself being a lower mind or physical aspect of the Supreme.
 
 Bio Superhysics begins from the lower mind which has independent expression. 
-
-
 
 
 

@@ -1,5 +1,5 @@
 ---
-heading: "Section 1"
+heading: "Unit 1"
 title: "The Quantum of Aether: Monads"
 # date: 2023-12-10
 date: 2014-08-01

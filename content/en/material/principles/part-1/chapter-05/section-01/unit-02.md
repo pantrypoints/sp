@@ -1,5 +1,5 @@
 ---
-heading: "Section 1b"
+heading: "Unit 2"
 title: "Quantization Leading to Shapes"
 # date: 2020-01-01
 image: "/graphics/physics/media.jpg"

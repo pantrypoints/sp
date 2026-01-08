@@ -27,3 +27,9 @@ Matter particles accept the energy from force or media particles based on the th
 
 This configuration is their svadharma or gravitational signature which must be unique, as opposed to media particles which are one unit and have dharma instead of svadharma. 
 
+
+
+## Aether Constants
+
+Planck's Constant
+

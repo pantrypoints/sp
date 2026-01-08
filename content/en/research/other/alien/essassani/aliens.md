@@ -30,6 +30,13 @@ Light Beings | More advanced than Essassani
 Blue men | Compassionate race of energy beings 
 
 
+### Hypersapiens
+
+This is homo galacticus as the furure hybridized human species to be a reality 1,000 years from now e.g. 3,000
+
+This will help build the 7th hybrid race.
+
+
 
 ### Blue Men
 

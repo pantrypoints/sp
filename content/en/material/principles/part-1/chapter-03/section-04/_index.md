@@ -1,5 +1,5 @@
 ---
-heading: Chapter 3
+heading: Section 4
 title: "The Media of the Aethereal Layer"
 linkTitle: Media
 description: "The aethereal layer is the highest and most subtle layer of reality"

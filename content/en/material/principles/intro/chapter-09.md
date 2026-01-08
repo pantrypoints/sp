@@ -33,8 +33,6 @@ Reactive mechanics | Chemistry, Nuclear Physics | This focuses on chemical and p
 Particle mechanics | Nuclear Physics | This focuses on proton and quark dynamics
 Material mechanics | Material Sciences | This focuses on lattice structures of molecules
 
-
-
 <!-- ### Organizes the Subsciences
 
 The MSQ model organizes the scopes of each sub science such as optics, astrophysics, chemistry, particle physics, theoretical physics, etc.  -->
@@ -46,3 +44,142 @@ The MSQ model also exposes some differences between Particle Physics and Particl
 - Physics classifies neutrinos under Electromagnetism (Radiant Layer) and neutrons under the Strong Force (Material Layer). This is because neutrinos run at nearly the speed of light and because neutrons have quarks.
 - Superphysics, on the contrary, classifies both under the Convertible Layer or Weak Force. This is because they facilitate change or the conversion of matter just like the W and Z Bosons.
  -->
+
+
+This also leads to the arrangement of topics in Material Superhysics
+
+
+
+## Aether 
+
+- Media
+  - Existence
+  - Identity
+  - Perception
+- Substance
+  - Multiverse
+  - Universe
+  - Reality
+- Quantum (Gravitational Signature)
+  - Subtlifying
+  - Transformative
+  - Crudifying 
+- Conservation + Constants (Relationality)
+  - Spin 
+- Relationality + Equations with constants
+
+
+## Spatial
+
+- Media
+  - Timespam
+    - Time Operator
+    - Time Dilation
+  - Aetherspace 
+    - dark energy
+  - Spacespan
+    - macro d intergalactic
+    - displacement dark matter
+    - micro d material
+    - macro c intragalactic
+    - cohesion dark matter, orbits
+    - micro c Van der Waals Force, Surface Tension, Dzhanibekov Effect
+- Substance 
+  - Multiverse 
+    - alternate realities
+  - Universe
+    - sponge
+  - Reality
+    - collapse
+    - entanglement? 
+- Quantum (Gravitational Signature)
+  - Universal
+  - Galactic
+  - Stellar 
+- Conservation + Constants (Relationality)
+  - Spin 
+- Relationality + Equations with constants
+  - Newton 
+  - Relativity
+
+
+
+## Radiant
+
+- Media
+  - Light
+  - Heat
+    - rediation
+    - convection
+    - conduction
+  - Virtual Photon
+    - magnetism channel
+    - electromagnetism flow channel
+    - superconductors vibrating channel
+- Substance
+  - Spectrum colors
+  - Fire 
+    - fire piston?
+  - Electricity
+    - ac dc phase
+- Quantum (Gravitational Signature)
+  - Electron
+  - Muon 
+  - Tau
+- Conservation + Constants (Relationality)
+  - Spin
+- Relationality + Equations with constants
+  - Maxwell
+  - Ampere
+  - Ohm
+
+
+
+## Convertible
+
+- Media
+  - Weak Force
+  - Intramolecular
+  - Intermolecular
+- Substance
+  - ANITA
+  - Neutron
+  - Reality
+- Quantum (Gravitational Signature)
+  - Electron Neutrinos
+  - Muon Neutrinos
+  - Tau Neutrinos
+- Conservation + Constants (Relationality)
+  - Chirality
+- Relationality + Equations with constants
+
+
+## Material
+
+- Media
+  - Gas
+  - Liquid
+    - Navier Stokes
+    - Buoyant Pressure
+  - Solid
+    - Normal Contact Force
+    - Friction
+    - Tension
+- Substance
+  - Atomic Space (Mesons)
+  - Gluon
+  - Lattice 
+- Quantum (Gravitational Signature)
+  - 1st Quarks
+  - 2nd Quarks
+  - 3rd Quarks
+- Conservation + Constants (Relationality)
+  - Anti Matter
+- Relationality + Equations with constants
+
+
+ | | intermolecular bonds | hellfire atherspace
+gauge theory | time dilation | |  | 
+. | buga sphere | | | 
+. | superluminal | | | 
+. | | photoelectric | | 

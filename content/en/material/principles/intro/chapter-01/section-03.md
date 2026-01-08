@@ -28,6 +28,16 @@ Chapter | Topic
 7 | Action (Relationality or Division of Labor, Territory)
 8 | Force or Change or Phenomena (Value Creation)
 
+
+Sections / Unit | Topic
+--- | ---
+1 | Basic Info
+2 | Upper
+3 | Mid (or Lower if no Mid)
+4 | Lower (Extras if no Lower)
+5 | Extras  
+
+
 <!-- 7 | Layer Polarity (Vortex, Pressure) -->
 <!-- 8 | medium1
 9 | medium2

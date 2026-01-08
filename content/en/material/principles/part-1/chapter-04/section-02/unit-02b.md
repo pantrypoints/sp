@@ -1,5 +1,5 @@
 ---
-heading: "Section 3b"
+heading: "Unit 2b"
 title: "The Creation of Matter and Planets"
 # date: 2020-01-31
 image: "/photos/physics/mars.jpg"

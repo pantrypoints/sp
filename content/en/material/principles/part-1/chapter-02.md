@@ -2,7 +2,7 @@
 heading: "Chapter 2"
 linkTitle: Sublayers
 title: "The Upper, Middle, Lower Aethereal Sublayers"
-# # date: 2020-11-26
+# date: 2020-11-26
 image: /graphics/super/cartesian.png
 description: "The Upper, Middle, Lower Aethereal Sublayers"
 writer:
@@ -11,6 +11,7 @@ writer:
 weight: 6
 icon: "Juan"
 ---
+
 
 
 We divide the Aethereal layer into 3 sublayers according to the 3 guna model:
