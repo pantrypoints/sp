@@ -1,20 +1,28 @@
 ---
-heading: "Section 2"
-title: "Cartesian Wave Particle Duality"
-date: 2024-12-28
-image: /photos/physics/whitehole.jpg
-description: "Particle spin is the orientation direction of a particle."
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-weight: 13
+heading: "Unit 4"
+linkTitle: Reflection and Polarization
+title: "Electromagnetism or Vortex Magnetism"
+linkTitle: Electromagnetism
+# date: 2023-03-01
+date: 2024-12-29
+weight: 11
+description: "Magnetism is facilitated by virtual photons which have a columnar shape"
+image: /graphics/physics/vmagnet.jpg
 icon: "Juan"
-toc: false
-aliases:
-  /material/principles/part-3/chapter-04b
 ---
 
 
+The polarization of light happens when photons (mors) go through channels in matter.
+
+This is because mors are flat particles. Those that cannot go through the channels are absorbed by the filter.  
+
+<!-- I answer your polarization questions by watching a video that rotates 2 filters. A 22.5 degree is brighter than 45. So Cartesian Physics matches reality whether in LEDs, stars, or filters.  -->
+
+
+
+
+
+## Cartesian Wave Particle Duality
 
 <!-- Cartesian Wave-Particle Duality and Double-Slit --> 
 
@@ -36,7 +44,7 @@ In our MSQ model, the radiant internal boundary (rib) separates the wave part fr
 
 
 
-## Cartesian Wave-Particle Duality, as Grapes
+## Grapes
 
 In 1632, Descartes wrote about the wave-particle duality of electromagnetism (which he called the 1st Element) by using the analogy of grapes and grape juice in a vat with 2 holes.
 

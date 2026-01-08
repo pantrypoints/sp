@@ -1,5 +1,5 @@
 ---
-heading: "Section 4c"
+heading: "Unit 3"
 title: "Displacement Gravity: Dark Matter"
 date: 2024-12-11
 weight: 18

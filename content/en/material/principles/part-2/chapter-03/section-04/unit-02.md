@@ -1,9 +1,8 @@
 ---
-heading: "Section 3b"
-linkTitle: "Dark Energy: Free Energy"
-title: "Dark Energy: The Expansion of Space-Time"
+heading: "Unit 2"
+title: "Macro Aetherspace: Dark Energy"
 # date: 2023-03-10
-weight: 39
+weight: 9
 image: /graphics/physics/expansion.jpg
 description: "Everything is expanding, even the space of your own atoms."
 icon: "Juan"
@@ -16,7 +15,10 @@ aliases:
 ---
 
 
-<!-- In 1644, Descartes established a complete theory of gravity, saying that objects revolve around the sun at varying speeds based on their location or distance from the center vortex, represented by the sun. 
+
+## The Expansion of Space
+
+<!-- : Free Energy In 1644, Descartes established a complete theory of gravity, saying that objects revolve around the sun at varying speeds based on their location or distance from the center vortex, represented by the sun. 
 
 {{< i s="/graphics/physics/rotation2.jpg" a="Rotation" >}}
 

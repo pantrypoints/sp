@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 4"
-linkTitle: Substance of Radiance
+linkTitle: Substance
 title: "Substance of Radiance: Spectrum, Electricity, Fire"
 # date: 2024-02-13
 image: /graphics/physics/lightprops.jpg

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3b"
+heading: "Unit 2"
 title: "Colors: Prisms and LEDs"
 date: 2024-12-28
 image: /graphics/physics/spectrum.jpg
@@ -9,8 +9,8 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 7
 icon: "Juan"
-toc: false
 ---
+
 
 
 <!-- potential vs kinetitc... Colors are produced by the variations in wavelength relative to others. 

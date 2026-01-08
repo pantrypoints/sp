@@ -1,5 +1,5 @@
 ---
-heading: "Section 3"
+heading: "Unit 3"
 title: "Static Electricity: Lightning"
 # title: "Electric Potential"
 # date: 2023-11-10

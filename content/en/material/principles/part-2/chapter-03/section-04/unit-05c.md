@@ -1,5 +1,5 @@
 ---
-heading: "Section 4g"
+heading: "Unit 5c"
 title: "Casmir Effect"
 date: 2024-12-11
 weight: 18
@@ -13,9 +13,7 @@ draft: true
 ---
 
 
-
-
-The Tiny Attraction Between Plates: A Tale of Two Theories
+## The Tiny Attraction Between Plates: A Tale of Two Theories
 
 The Casimir effect describes a tiny, measurable force of attraction between two perfectly smooth, parallel, and uncharged metal plates when they are placed extraordinarily close together—typically within a few hundred nanometers. While its existence is an established pillar of modern quantum physics, its explanation is a frontier where mainstream science and alternative models diverge dramatically.
 

@@ -1,9 +1,9 @@
 ---
-heading: "Section 4"
+heading: "Unit 1"
 title: "Electricity"
 # date: 2023-11-10
-weight: 15
-image: /photos/physics/light.jpg
+weight: 14
+image: /covers/maxwell.jpg
 description: "Electricity is the main substance of radiance"
 icon: "Juan"
 writer:
@@ -12,6 +12,16 @@ writer:
 aliases:
   /material/principles/part-3/chapter-04d  
 ---
+
+
+
+
+
+Maxwell's Treatise on Electricity starts with the description of static electricity which is caused by friction. 
+
+
+In Cartesian Physics, Lightning is caused by ions in the clouds. 
+
 
 
 In Superphysics, we call electricity as electric-fluid in reference to the liquid nature of spacetime and the aether.

@@ -1,7 +1,8 @@
 ---
-linkTitle: Potential Energy
-title: "Potential and Kinetic Energy"
-heading: Chapter 2b
+# linkTitle: Potential Energy
+# title: "Potential and Kinetic Energy"
+heading: Section 2
+title: "Vortex Rotation"
 # date: 2024-01-03
 image: /graphics/physics/general.jpg
 description: ""
@@ -19,4 +20,13 @@ draft: true
 <!-- Potential Energy is  -->
 
 
+
+Clockwise
+
+None
+ 
+
+Anticlockwise 
+
+ 
 

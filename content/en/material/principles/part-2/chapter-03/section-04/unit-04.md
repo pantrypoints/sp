@@ -1,5 +1,5 @@
 ---
-heading: "Section 4b"
+heading: "Unit 2"
 title: "Micro D Gravity: Gravitational Constant"
 date: 2024-12-11
 weight: 17

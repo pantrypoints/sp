@@ -1,19 +1,31 @@
 ---
-heading: "Section 5"
-linkTitle: Fire
-title: "Fire and Combustion Through Heat Particles"
-# date: 2024-02-13
-image: /photos/physics/fire.jpg
-description: "Fire is part of the Radiant Element and is ignited from matter whenever qosts are ejected from matter instantly in large amounts"
+heading: "Unit 1"
+title: "Fire"
+# date: 2023-11-10
+weight: 14
+image: /covers/maxwell.jpg
+description: "Electricity is the main substance of radiance"
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 16
-icon: "Juan"
-aliases:
-  /material/principles/part-3/chapter-04e
 ---
 
+
+<!-- 
+Maxwell's Treatise on Electricity starts with the description of static electricity which is caused by friction. 
+
+Lightning is caused by ions in the clouds.  -->
+
+
+<!-- ## Fire Triangle
+
+heat
+
+sustainer
+
+fuel
+ -->
 
 
 ### How Fire Forms

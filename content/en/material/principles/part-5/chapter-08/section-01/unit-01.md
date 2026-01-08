@@ -1,5 +1,5 @@
 ---
-heading: "Section 1"
+heading: "Unit 1"
 title: "Material Relationalities"
 # date: 2024-08-01
 image: /photos/physics/neutronstar.jpg
@@ -9,9 +9,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 5
 icon: "Juan"
-toc: false
 ---
-
 
 
 ## Matter and Antimatter

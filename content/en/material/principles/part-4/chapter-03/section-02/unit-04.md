@@ -1,6 +1,6 @@
 ---
-heading: "Section 2"
-title: "The Forces for Particle Decay"
+heading: "Unit 4"
+title: "Gamma Decay"
 date: 2025-09-10
 image: /photos/physics/nuke.jpg
 description: "The Weak Force is most known by Modern Physics for particle decay."
@@ -9,52 +9,8 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 7
 icon: "Juan"
-toc: false
-aliases:
-  /material/principles/part-4/chapter-03b
 ---
 
-
-
-The Weak Force is most known by Modern Physics for particle decay. 
-
-
-Sublayer | Name | Used in 
---- | --- | ---
-Upper | Gamma | sterilization  
-Mid | Beta | medical imaging
-Lower | Alpha | smoke detectors
-
-
-These are present in nuclear fission and fusion primarily through Beta decay. 
-
-
-## Radioactive Beta Decay
-
-A nucleon decays in 3 ways:
-
-1. Alpha
-
-This happens when a particle emits alpha particles, as 2 soms (protons) and 2 socs (neutrons). These have low penetration power and so they are easily stopped. 
-
-It damages the DNA such as the reduction of white blood cells which weakens the body's immunity. 
-
-
-2. Beta 
-
-This happens when a particle emits beta particles, as qors (electrons). These create less damage to the body than alpha particles. 
-
-
-2.1. Beta Plus Decay
-
-This is when a som (proton) turns into a soc (neutron) and releases a qoc (neutrino) and a -qor (positron)
-
-
-2.2. Beta Minus Decay
-
-This is when a soc (neutron) turns into a som (proton) and releases a -qoc (antineutrino) and a qor (electron). This is more common than beta plus decay.
-
-This is used in Positron Emission Tomography.
 
 
 3. Gamma 
