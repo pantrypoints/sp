@@ -1,6 +1,6 @@
 ---
 heading: Chapter 13d
-title: Socialism with Chinese Characteristics Enters a New Era
+title: "Promote political army building"
 weight: 286
 date: 2025-10-13
 description: ""

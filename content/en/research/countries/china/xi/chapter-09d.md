@@ -1,6 +1,6 @@
 ---
 heading: Chapter 9d
-title: The great rejuvenation of China
+title: Improve the country's political system
 weight: 185
 date: 2025-10-13
 description: ""
@@ -9,8 +9,7 @@ c: "firebrick"
 
 
 
-1. Uphold and improve the country's fundamental political system and basic
-political system
+1. Uphold and improve the country's fundamental political system and basic political system
 
 To uphold and develop socialist democratic politics, we must insist that all state power belongs to
 the people and demonstrate the people's status as the main body. We must persist in and continuously

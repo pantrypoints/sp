@@ -1,6 +1,6 @@
 ---
 heading: Chapter 12d
-title: "China's economic and social development problems"
+title: "Rule of law protects the ecological environment with the strictest system"
 weight: 263
 date: 2025-10-13
 description: ""
@@ -8,7 +8,7 @@ c: "firebrick"
 ---
 
 
-5. the strict concept of rule of law of "protecting the ecological environment with the strictest system"
+5. Rule of law protects the ecological environment with the strictest system
 
 The ecological environment is the most inclusive public good, and it is also the field most prone to
 "tragedy of the commons.” Therefore, the protection of the ecological environment must rely on

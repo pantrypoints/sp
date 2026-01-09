@@ -1,6 +1,6 @@
 ---
 heading: Chapter 11e
-title: "Section 3: The leadership of ideological work"
+title: "Resolutely win the battle against poverty"
 weight: 243
 date: 2025-10-13
 description: ""
@@ -8,7 +8,7 @@ c: "firebrick"
 ---
 
 
-3. resolutely win the battle against poverty
+3. Resolutely win the battle against poverty
 
 Poverty has been with human beings since its birth and is a persistent disease of human society.
 Getting rid of poverty and moving towards material abundance is the good aspiration of human

@@ -10,7 +10,11 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
 weight: 14
+aliases:
+  /social/economics/principles/part-4/chapter-01b
 ---
+
+
 
 
 Dharma in Hinduism and Buddhism is the inherent nature of things, as designed by its maker. We can call it "inherent design".
@@ -133,21 +137,20 @@ For this "true nature" to be a viable foundation for a socio-political science a
 
 Svadharma means self-dharma or the inherent nature of the self. It means one's own path, nature, or destiny and is described in the Bhagavad Gita:
 
-{{< q a="Krishna" >}}
+{{< q a="Krishna" c="Chapter 3, Verse 35" >}}
 It is far better to perform one’s natural prescribed duty, though tinged with faults, than to perform another’s prescribed duty, though perfectly. In fact, it is preferable to die in the discharge of one’s duty, than to follow the path of another, which is fraught with danger. 
-<cite>Chapter 3, Verse 35</cite>
 {{< /q >}}
+
 
 Nowadays, this is known as 'keeping it real' or 'being true to oneself', which is similar to the Tao, which is one's own, natural way:
 
 <!-- For example, the local manufacturer follows the dharma of local manufacturing in order to create excellent goods for local consumption, not expecting it to be exported. He finds them getting exported anyway and even going viral overseas because of its superior quality and fit for purpose. This is  -->
 
-{{< q a="Lao-tzu" >}}
+{{< q a="Lao Tzu" c="Tao Te Ching Verse 33" >}}
 Knowing others is intelligence;
 knowing yourself is true wisdom.
 Mastering others is strength;
 mastering yourself is true power.
-<cite>Tao Te Ching Verse 33</cite>
 {{< /q >}}
 
 

@@ -1,6 +1,6 @@
 ---
 heading: Chapter 6c
-title: The great rejuvenation of China
+title: "Section 2: Grasp the strategic connotation of a modern powerful socialist country"
 weight: 109
 date: 2025-10-13
 description: ""
@@ -8,8 +8,6 @@ c: "firebrick"
 ---
 
 
-
-Section 2: Comprehensively grasp the strategic connotation and characteristics of a modern and powerful socialist country
 
 The 19th CPC National Congress gave a macroscopic outlook and overall description of "basically
 realizing socialist modernization" and "comprehensively building a modern and powerful socialist
@@ -158,3 +156,5 @@ international community without sliding into the "Western track"; it has absorbe
 all the outstanding achievements of human civilization without losing its autonomy. Independence
 and self-reliance have been, are and will be the foothold of building a modern and powerful socialist
 country.
+
+

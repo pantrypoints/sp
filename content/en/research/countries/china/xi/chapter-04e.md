@@ -1,6 +1,6 @@
 ---
 heading: Chapter 4e
-title: The great rejuvenation of China
+title: "Section 4: Continuously promote development of the human person the all-round"
 weight: 75
 date: 2025-10-13
 description: ""
@@ -9,8 +9,6 @@ c: "firebrick"
 
 
 
-
-Section 4: Continuously promote development of the human person the all-round
 
 The idea of comprehensive human development is the fundamental value and highest proposition
 of Marxism, an important part of Marxist theory, and an important content of Xi Jinping Thought
@@ -26,7 +24,8 @@ people-centered development thinking, better meet the growing diversified, multi
 faceted needs of the broadest masses of the people in economic, political, cultural, social, ecological
 and other aspects, and continuously promote all-round human development.
 
-1. the basic connotation of all-round human development
+
+1. The basic connotation of all-round human development
 
 Marxism holds that the all-round development of man is the development of the most fundamental
 and essential thing of man, and that "man occupies his own comprehensive essence in a
@@ -36,18 +35,24 @@ beings, the all-round development of human beings has very rich connotations, wh
 manifested in the comprehensive development of human capabilities, the full development of human
 social relations and the free development of human personality.
 
-Comrade Xi Jinping once explained human development from the essential characteristics of human
-beings, pointing out: "Man is essentially a cultural person, not a materialized person; an active and
-comprehensive person, not a rigid, one-dimensional' person." Human beings not only pursue
+
+{{< l a="Xi Jinping" >}}
+Man is essentially a cultural person, not a materialized person; an active and comprehensive person, not a rigid, one-dimensional' person." Human beings not only pursue
 material conditions and economic indicators, but also pursue happiness index; not only pursue the
 harmony of natural ecology but also pursue the harmony of spiritual ecology; not only pursue
 efficiency and fairness, but also pursue the harmony of interpersonal relationships and the
-fulfillment of spiritual life, and pursue the meaning of life. "2 This idea explains the essence of man
+fulfillment of spiritual life, and pursue the meaning of life.
+{{< /l >}}
+
+
+
+This idea explains the essence of man
 from the relationship between the individual and society, and reveals the all-round development of
 man from the relationship between man and the community of social life. Comrade Xi Jinping
-clearly stated in the report of the 19th National Congress of the CCP: "Ensure
-that all the people have a greater sense of gain in joint construction and shared development, and
-continuously promote the all-round development of people."3 These ideas have further inherited and
+clearly stated in the report of the 19th National Congress of the CCP: "Ensure that all the people have a greater sense of gain in joint construction and shared development, and
+continuously promote the all-round development of people."3 
+
+These ideas have further inherited and
 enriched the Marxist thinking on the all-round development of man.
 
 First, comprehensive human development means the comprehensive development of human
@@ -67,13 +72,12 @@ Marx believed that the all-round development of man is, in the final analysis, t
 human capacity as an end in itself, and the development of human capacity "presupposes production
 based on exchange value, which produces the universality of individual alienation from himself and
 others, as well as the universality and comprehensiveness of personal relations and personal
-ability.”2
+ability.”
 
-Second, the comprehensive development of the human person means the full development of human
-social relations. Social relations include the communication relationship between people, the
-economic relations and production relations produced by people in social interactions, the
-relationship between people and nature, and various relationships in ideology and culture, etc., and
-the richness of social relations reflects the essence of human beings. In his Theses on Feuerbach,
+
+2. The comprehensive development of the human person means the full development of human social relations. Social relations include the communication relationship between people, the economic relations and production relations produced by people in social interactions, the relationship between people and nature, and various relationships in ideology and culture, etc., and the richness of social relations reflects the essence of human beings. 
+
+In his Theses on Feuerbach,
 Marx pointed out: "The essence of man is not an abstraction inherent in a single person, but in its
 reality it is the sum of all social relations." "People are not only the product of social relations, but
 also survive and develop in certain social relations all the time, in the sense that "social relations

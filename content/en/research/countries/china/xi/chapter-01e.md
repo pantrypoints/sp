@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1e
 title: "Section 3: The great significance of socialism with Chinese characteristics entering a new era"
-weight: 9
+weight: 14
 date: 2025-10-13
 description: ""
 c: "firebrick"
@@ -52,15 +52,11 @@ being the sick man of East Asia to standing up; since the reform and opening up,
 Communists have united and led the people to carry out the new great practice of building socialism
 with Chinese characteristics, enabling China to catch up with the times in great strides and realize
 the great leap of the Chinese nation from standing up to becoming rich; since the 18th National
-Congress of the CCP, Chinese Communists have united and led the people in
-great struggles, building great projects, advancing great causes, realizing great dreams, promoting
+Congress of the CCP, Chinese Communists have united and led the people ingreat struggles, building great projects, advancing great causes, realizing great dreams, promoting
 all-round and groundbreaking historical achievements in the cause of the party and the country, and
 taking place profound and fundamental historical changes, the Chinese nation has ushered in a great
-leap from prosperity to strength.1
-1 Xi Jinping, "Speech at the Commemoration of the 200th Anniversary of Marx's Birth," People's Daily, May 5, 2018.
-China Aerospace Studies Institute
-38
-Translation published Fall 2023Basic Issues of Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era
+leap from prosperity to strength.
+
 The successive three great leaps are the "trilogy" in which the CCP has led
 the people to realize the great rejuvenation of the Chinese nation in modern times.
 Socialism with Chinese characteristics has entered a new era, opening a new chapter in the third
@@ -174,8 +170,9 @@ arrangements for the first centenary goal of building a moderately prosperous so
 way, the 19th CPC National Congress made two-stage strategic arrangements for the second
 centenary goal, thus opening a new journey of building a modern socialist country in an all-round
 way.
-In terms of guiding ideology, the path of socialist modernization with Chinese characteristics
-adheres to the guiding position of Marxism and the practice of using the developing Marxism to
+
+
+Socialist modernization with Chinese characteristics adheres to the guiding position of Marxism and the practice of using the developing Marxism to
 guide practice, which not only adheres to the ideological and theoretical advancement with the times,
 but also ensures a high degree of ideological unity between the whole party and the people of all
 ethnic groups throughout the country; in the political aspect, it adheres to the path of socialist
@@ -198,7 +195,9 @@ sense of gain, happiness and security will be more fulfilling and more secure. M
 terms of ecological civilization, adhere to the principle of giving priority to conservation, protection
 and natural restoration, form a spatial pattern, industrial structure, production mode and lifestyle
 that conserve resources and protect the environment, and strive to achieve harmonious coexistence
-between man and nature. This road of modernization "is not a simple continuation of the master
+between man and nature. 
+
+This road of modernization "is not a simple continuation of the master
 version of China's history and culture, it is not a simple application of the template conceived by the
 classic writers of Marxism, it is not a reprint of the socialist practice of other countries, nor is it a
 copy of the modernization development abroad."
@@ -222,4 +221,3 @@ has broken the "path dependence" of developing countries on Western modernizatio
 development has provided successful experience and bright prospects for the vast number of
 developing countries to modernize, is a powerful force for promoting world peace and development,
 and is a major contribution of the Chinese nation to the progress of human civilization.”2
-

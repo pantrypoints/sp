@@ -1,6 +1,6 @@
 ---
 heading: Chapter 9c
-title: Upholding and Developing Socialist Democratic Politics
+title: "Practical requirements for the political development path of socialism with Chinese characteristics"
 weight: 180
 date: 2025-10-13
 description: ""

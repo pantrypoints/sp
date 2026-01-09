@@ -1,6 +1,6 @@
 ---
 heading: Chapter 5d
-title: The great rejuvenation of China
+title: The latest achievements of the Marxist outlook on development
 weight: 93
 date: 2025-10-13
 description: ""
@@ -15,7 +15,9 @@ The outlook on development is the world outlook and methodology of human develop
 people's overall view on the connotation, essence, purpose and requirements of development. The
 Marxist outlook on development is an open and constantly developing theoretical system, and its
 actual form has always been revitalized and enriched in the process of integrating with specific
-countries, specific times, and specific practices. In the more than 70 years since the founding of
+countries, specific times, and specific practices. 
+
+In the more than 70 years since the founding of
 New China, especially in the more than 40 years of reform and opening up, the Chinese Communists
 have always put forward corresponding development concepts and strategies in a timely manner in
 accordance with changes in the situation and tasks, leading and guiding China's development to
@@ -33,6 +35,7 @@ construction, put forward the development policy of comprehensive balance and ov
 consideration, and stressed the need to take agriculture as the foundation, industry as the lead, and
 coordinated development of agriculture as the priority, thus laying an important foundation for the
 formation of a Marxist development theory of Sinicization.
+
 After the reform and opening up, Comrade Deng Xiaoping, basing himself on China's main
 contradictions and basic national conditions, clearly put forward that "development is the last word"
 and promoted the establishment of the party's basic line centered on economic construction; he
@@ -45,7 +48,9 @@ development is the main theme running through the important thinking of the "thr
 stressed the need to coordinate the development of material, spiritual, and political civilizations,
 implement the strategy of rejuvenating the country through science and education, the strategy of
 sustainable development, and the strategy of large-scale development of the western region, and
-persist in following the road of new-type industrialization. After the 16th National Congress of the
+persist in following the road of new-type industrialization. 
+
+After the 16th National Congress of the
 CCP, Comrade Hu Jintao proposed to take development as the key to solving
 all problems in China, firmly establish and fully implement the scientific outlook on development,
 emphasize that development is the first meaning, the core is people-oriented, the basic requirement
@@ -111,7 +116,9 @@ the development of productive forces. The new development concept insists on clo
 the basic principles of Marxist political economy with the reality of contemporary China, more
 clearly emphasizes that development is the foundation and key to solving all problems in our country,
 emphasizes real and waterless development, emphasizes promoting changes in the quality, power,
-and efficiency of economic development, and achieves high-quality development. Give better play
+and efficiency of economic development, and achieves high-quality development.
+
+Give better play
 to the role of the government, emphasize the continuous deepening of reform and opening up,
 establish the principle of market competition neutrality, and break down the institutional obstacles
 that hinder the development of productive forces; more clearly emphasize that innovation is the
@@ -122,7 +129,9 @@ process, emphasize inter-industry, urban-rural, inter-region, man and nature, do
 international, The improvement of the relationship between people emphasizes the handling of the
 relationship between the present and the long-term, the local and the overall situation, and the key
 and the general; more clearly emphasizes the harmonious coexistence between man and nature, so
-that a good ecological environment becomes the growth point of people's lives. It will become a
+that a good ecological environment becomes the growth point of people's lives. 
+
+It will become a
 driving force to show China's good image and continue to move towards a new era of ecological
 civilization; more clearly emphasize that opening up is a basic national policy, emphasize promoting
 high-level two-way opening-up, implement a more proactive opening strategy, create a new pattern
@@ -157,4 +166,3 @@ development concept and experience. All these fully demonstrate the vigorous vit
 influence of the "Chinese road", "Chinese plan" and "Chinese wisdom" in the new era, and further
 enhance the international discourse power of the political economy of socialism with Chinese
 characteristics.
-

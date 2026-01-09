@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1d
-title: 3. Historic transformation
-weight: 6
+title: Ethnic group Unity
+weight: 11
 date: 2025-10-13
 description: ""
 c: "firebrick"

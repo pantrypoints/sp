@@ -1,6 +1,6 @@
 ---
 heading: Chapter 4f
-title: The great rejuvenation of China
+title: "All-round human development is the value pursuit of socialism"
 weight: 80
 date: 2025-10-13
 description: ""
@@ -50,14 +50,11 @@ from the beginning of reform and opening up, more attention has been paid to mat
 development, and gradually transitioned to all-round and diversified development in economy,
 politics, culture, society and ecology, and the all-round development of people has been greatly
 valued and realistically realized. This is an important symbol of socialism with Chinese
-characteristics entering a new era. The 19th National Congress of the CCP
-formally wrote the Constitution of the People's Republic of China on "promoting all-round human
+characteristics entering a new era. The 19th National Congress of the CCP formally wrote the Constitution of the People's Republic of China on "promoting all-round human
 development", and further emphasized that in the process of realizing the "two centenary goals" and
 the great rejuvenation of the Chinese nation, it is necessary to promote the construction of a
 "community with a shared future for mankind" and "make new and greater contributions to mankind.”
-China Aerospace Studies Institute
-123
-Translation published Fall 2023Basic Issues of Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era
+
 All this fully demonstrates that contemporary Chinese communists have always insisted on writing
 the promotion of all-round human development on the great banner of socialism with Chinese
 characteristics, insisted on embodying the promotion of all-round human development in the great
@@ -72,7 +69,8 @@ Comprehensive human development is inseparable from all-round social progress. I
 to promote the all-round development of people, we must focus on the whole and make efforts in
 various aspects.
 
-First, adhere to the people-centered development thinking. Development is a prerequisite for solving
+
+1. Adhere to the people-centered development thinking. Development is a prerequisite for solving
 all our problems. Only by concentrating on development and focusing on the people's growing
 yearning for a better life can we achieve, safeguard and develop the fundamental interests of the
 broadest masses of the people. Compared with developed countries, the development of China's
@@ -87,7 +85,7 @@ fundamentally eliminate the deep-seated institutional obstacles that affect soci
 increase the income of low-income people, and strive to narrow the gap between urban and rural
 areas, regions and industries.
 
-Second, strive to achieve high-quality economic development. The quality and level of economic
+2. Strive to achieve high-quality economic development. The quality and level of economic
 development determine the degree of all-round human development. Failure to pay attention to
 changes in the structure and level of social needs, especially the reality of increasing high-quality
 consumption brought about by the improvement of consumption levels, will lead to the inability to
@@ -100,7 +98,7 @@ China's economy to maintain medium-high speed growth and move towards a medium-t
 level, not only fully meet people's material needs, but also lay a solid foundation for meeting people's
 high-level and diversified needs.
 
-Third, constantly explore the path to realize the all-round development of people. Comrade Xi
+3. Constantly explore the path to realize the all-round development of people. Comrade Xi
 Jinping pointed out: "We must stimulate the creativity and development vitality of the whole society,
 and strive to achieve higher quality, more efficient, fairer and more sustainable development!"1 One
 of the most important points is to give human development a more "comprehensive" and "concrete"

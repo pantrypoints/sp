@@ -1,6 +1,6 @@
 ---
 heading: Chapter 8b
-title: The great rejuvenation of China
+title: "China's economic development trend is The new normal"
 weight: 152
 date: 2025-10-13
 description: ""
@@ -9,7 +9,7 @@ c: "firebrick"
 
 
 
-2. the new normal is an accurate judgment of China's economic development trend
+2. China's economic development trend is The new normal
 
 Under the new normal, a series of new characteristics of economic development show that the
 evolution of China's economy to a stage with high quality and more optimized structure is a natural

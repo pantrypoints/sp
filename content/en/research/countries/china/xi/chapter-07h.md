@@ -1,6 +1,6 @@
 ---
 heading: Chapter 7h
-title: The great rejuvenation of China
+title: "adhere to the pilot project and promote the comprehensive promotion"
 weight: 144
 date: 2025-10-13
 description: ""
@@ -10,7 +10,7 @@ c: "firebrick"
 
 
 
-4. adhere to the pilot project and promote the comprehensive promotion
+4. Adhere to the pilot project and promote the comprehensive promotion
 
 Adhering to the principle of pilot projects and promoting them in an all-round way is an important
 method and important experience of reform and opening up. The pilot project is to accumulate

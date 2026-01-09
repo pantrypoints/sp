@@ -1,14 +1,12 @@
 ---
 heading: Chapter 8
-title: Socialism with Chinese Characteristics Enters a New Era
+title: The New Normal of Economic Development and Achieving High-Quality Development
 weight: 149
 date: 2025-10-13
 description: ""
 c: "firebrick"
 ---
 
-
-Chapter VIII: The New Normal of Economic Development and Achieving High-Quality Development
 
 Since the 18th National Congress of the CCP, the Party Central Committee
 with Comrade Xi Jinping as the core has taken charge of the general trend of domestic and foreign
@@ -21,7 +19,8 @@ in the new era and ensuring sustainable and healthy economic and social developm
 an important content of Xi Jinping's socialist economic thought with Chinese characteristics for a
 new era.
 
-Section 1: Economic development has entered a new normal
+
+## Section 1: Economic development has entered a new normal
 
 Clarifying that China's economic development has entered a new normal is a major judgment made
 by the Party Central Committee with Comrade Xi Jinping as the core by comprehensively analyzing

@@ -1,6 +1,6 @@
 ---
 heading: Chapter 6b
-title: The great rejuvenation of China
+title: Carry out strategic planning for the realization of socialist modernization
 weight: 103
 date: 2025-10-13
 description: ""

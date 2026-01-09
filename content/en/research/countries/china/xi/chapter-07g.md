@@ -1,6 +1,6 @@
 ---
 heading: Chapter 7g
-title: The great rejuvenation of China
+title: "Section 4: Persist in using scientific methods to reform and open up"
 weight: 140
 date: 2025-10-13
 description: ""
@@ -8,8 +8,6 @@ c: "firebrick"
 ---
 
 
-
-Section 4: Persist in using scientific methods to promote reform and opening up
 
 For a country and a nation, reform and opening up is a profound social change and a complex system
 project, and we must adhere to scientific methods. Looking around the world, some countries have

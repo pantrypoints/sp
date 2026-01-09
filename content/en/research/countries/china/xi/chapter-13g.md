@@ -1,6 +1,6 @@
 ---
 heading: Chapter 13g
-title: Socialism with Chinese Characteristics Enters a New Era
+title: "Peaceful reunification and one country, two systems"
 weight: 296
 date: 2025-10-13
 description: ""
@@ -8,7 +8,7 @@ c: "firebrick"
 ---
 
 
-2. "peaceful reunification and one country, two systems" is the best way to achieve national reunification
+2. Peaceful reunification and one country, two systems is the best way to achieve national reunification
 
 The principle of "one country, two systems" on how to resolve the problem of relations between
 regions with two different social systems within a country and the reunification of one country is an

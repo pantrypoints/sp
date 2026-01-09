@@ -1,6 +1,6 @@
 ---
 heading: Chapter 14
-title: Socialism with Chinese Characteristics Enters a New Era
+title: "Deeply grasp the overall concept of national security"
 weight: 280
 date: 2025-10-13
 description: ""

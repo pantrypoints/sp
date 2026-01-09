@@ -37,6 +37,7 @@ Rather, it is formed on the basis of profoundly summing up the development exper
 of domestic and foreign development, and also on the basis of profoundly analyzing the general
 development trend at home and abroad, which reflects the profound insight of the Communist Party
 of China on the law of the development of human society.
+
 The development of human society tells us that development must rely on innovation to lead, and
 the old path will not work. Since the great geographical discoveries, especially since the industrial
 revolution, the wave of world development has been surging, all of which are guided by conceptual

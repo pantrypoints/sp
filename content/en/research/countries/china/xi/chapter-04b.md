@@ -1,7 +1,7 @@
 ---
-heading: Chapter 2e
-title: The great rejuvenation of China
-weight: 66
+heading: Chapter 4b
+title: Insist on doing everything for the people
+weight: 76
 date: 2025-10-13
 description: ""
 c: "firebrick"
@@ -160,4 +160,5 @@ Regarding targeted poverty alleviation and targeted poverty alleviation, he stre
 not leave behind a poor area or a poor mass.” All these are more realistic and targeted important
 requirements for meeting the people's expectations for a better life, and have been translated into
 effective practical steps and concrete actions of the Party and the people.
+
 

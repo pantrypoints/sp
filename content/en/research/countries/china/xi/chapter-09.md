@@ -13,8 +13,8 @@ unremitting pursuit of the CCP. After the founding of New China, especially
 since the beginning of reform and opening up, the party has persistently integrated Marxist political
 theory with China's specific realities and the characteristics of the times, and has embarked on a
 path of socialist political development with Chinese characteristics that suits the national conditions.
-Since the 18th National Congress of the CCP, the Party Central Committee
-with Comrade Xi Jinping as the core has consolidated its foundation and forged ahead into the future,
+
+Since the 18th National Congress of the CCP, the Party Central Committeewith Comrade Xi Jinping as the core has consolidated its foundation and forged ahead into the future,
 adhered to and strengthened the party's comprehensive leadership, explored and developed socialist
 democratic politics with the people as the masters of the country, incorporated the comprehensive
 rule of law into the "four comprehensive" strategic layout, and put forward a series of new concepts,

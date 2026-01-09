@@ -1,6 +1,6 @@
 ---
 heading: Chapter 7c
-title: Persisting in Comprehensively Deepening Reform and Comprehensively Opening Up
+title: "The key to realizing the 2 centenary goals"
 weight: 127
 date: 2025-10-13
 description: ""
@@ -8,7 +8,7 @@ c: "firebrick"
 ---
 
 
-3. the key to realizing the "two centenary goals" and realizing the Chinese dream of the great rejuvenation of the Chinese nation
+3. The key to realizing the "two centenary goals" and realizing the Chinese dream of the great rejuvenation of the Chinese nation
 
 Since the 15th National Congress of the CCP first put forward the "two
 centenary goals", the CCP has been working hard for them. Shortly after the

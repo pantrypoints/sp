@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2d
-title: Better Upholding and Developing Socialism with Chinese Characteristics
-weight: 26
+title: The 14 Persistences
+weight: 32
 date: 2025-10-13
 description: ""
 c: "firebrick"
@@ -18,6 +18,7 @@ develop socialism with Chinese characteristics" in the new era, and are the conc
 of the "eight clear" ideological propositions in practice. It is organically unified with the "eight clear"
 and together constitute an important part of Xi Jinping's thought on socialism with Chinese
 characteristics for a new era.
+
 The "Fourteen Persistences" include: upholding the party's leadership over all work, adhering to the
 people-centered, persisting in comprehensively deepening reform, adhering to the new development
 concept, adhering to the people as masters of the country, adhering to the comprehensive rule of law,
@@ -38,10 +39,11 @@ of controlling the overall situation and coordinating all parties. During the pe
 construction, Comrade Mao Zedong stressed: "In the seven aspects of industry, agriculture,
 commerce, study, soldiers, government, and the party, the party leads everything. "1 In the new era,
 Comrade Xi Jinping further proposed on the basis of summing up the historical experience of
-socialism: "Adhere to the party's leadership over all work. "2 It clearly answers the question of "who
+socialism: "Adhere to the party's leadership over all work. "2 
+
+It clearly answers the question of "who
 will lead" in adhering to and developing socialism with Chinese characteristics in the new era. The
-leadership of the CCP is the choice of history and the choice of the people; it
-is the fundamental and lifeline of the country and the nation, and the interests and happiness of the
+leadership of the CCP is the choice of history and the choice of the people; it is the fundamental and lifeline of the country and the nation, and the interests and happiness of the
 people of the whole country are related. In the new era of socialism with Chinese characteristics, in
 the face of the new situation and new tasks, ensuring the party's role as the core of leadership has
 put forward new requirements for the party's self-building, and "persisting in comprehensively and
@@ -66,17 +68,22 @@ building socialism with Chinese characteristics is an unprecedented great cause,
 to closely unite and highly unite the strength of the whole nation and fight unremittingly for it with
 one heart and one mind.
 
-Comrade Mao Zedong once said: "The concept of the people has different contents in different
-countries and in different historical periods of each country. "1 In contemporary China, all classes,
-strata and social forces that support, support and participate in the construction of socialism with
+
+{{< l a="Mao Zedong" >}}
+The concept of the people has different contents in different countries and in different historical periods of each country.
+{{< /l >}}
+
+
+In contemporary China, all classes, strata and social forces that support, support and participate in the construction of socialism with
 Chinese characteristics belong to the category of the people and are all relying forces for the cause
 of building socialism with Chinese characteristics. Our party must ensure that development is for
 the people, development depends on the people, and the fruits of development are shared by the
 people.
 
-Third, the "Fourteen Persistences" respond to the question of "how to promote development" in the
-practice of adhering to and developing socialism with Chinese characteristics in the new era. As
-socialism with Chinese characteristics enters a new era, major changes have taken place in the main
+
+3. The "Fourteen Persistences" respond to the question of "how to promote development" in the practice of adhering to and developing socialism with Chinese characteristics in the new era. 
+
+As socialism with Chinese characteristics enters a new era, major changes have taken place in the main
 contradictions in our society, but the basic national conditions of our country in the initial stage of
 socialism have not changed, and our international status as the world's largest developing country
 has not changed. This determines that development remains the foundation and key to solving all
@@ -93,8 +100,9 @@ building socialism with Chinese characteristics. "Adhering to the harmonious coe
 and nature" reflects a major change in China's development mode, further enriches the connotation
 of development, expands the vision of development, clarifies new requirements for development,
 and has both theoretical innovation and practical breakthroughs.
-Fourth, the "Fourteen Persistences" respond to the question of "how to provide effective guarantees"
-in the practice of adhering to and developing socialism with Chinese characteristics in the new era.
+
+4. The "Fourteen Persistences" respond to the question of "how to provide effective guarantees" in the practice of adhering to and developing socialism with Chinese characteristics in the new era. 
+
 Under the new historical conditions, to smoothly advance the cause of socialism with Chinese
 characteristics, it is necessary to provide effective guarantees and favorable conditions. "Adhering
 to the socialist core value system" fully embodies the powerful goal and guiding role of the lofty
@@ -117,6 +125,7 @@ pointed out the way forward, and also created a good external environment for Ch
 "Upholding one country, two systems' and promoting the reunification of the motherland" is an
 inevitable requirement for realizing the great rejuvenation of the Chinese nation and is also where
 the fundamental interests of the Chinese nation lie.
+
 The "14 Adherence Principles" basic strategy makes top-level designs for economic, political,
 cultural, social, ecological and rule of law, national security, national defense and the military, "one
 country, two systems" and the motherland's reunification, united front, diplomacy, party building
@@ -124,14 +133,5 @@ and other aspects, clarifies the major policies for the development of various u
 new era, points out the goals, paths and methods for adhering to and developing socialism with
 Chinese characteristics in the new era, and is the "road map" for realizing the "two centenary goals"
 and realizing the Chinese dream of the great rejuvenation of the Chinese nation .
-Section 3: Realize the great rejuvenation of the Chinese
-nation on the road of socialism with Chinese characteristics
-The CCP is the vanguard of the Chinese working class, as well as the vanguard
-of the Chinese people and the Chinese nation. The Party takes the realization of socialism and
-communism as its goal and undertakes the historical mission of realizing the great rejuvenation of
-the Chinese nation. Adhering to and developing socialism with Chinese characteristics epitomizes
-the organic combination of realizing socialism and communism and realizing the great rejuvenation
-of the Chinese nation. To realize the great rejuvenation of the Chinese nation on the road of socialism
-with Chinese characteristics, generations of Chinese communists need to lead the people to continue
-to struggle.
+
 

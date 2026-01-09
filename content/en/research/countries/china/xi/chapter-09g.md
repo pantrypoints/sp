@@ -1,6 +1,6 @@
 ---
 heading: Chapter 9g
-title: Upholding and Developing Socialist Democratic Politics
+title: "Follow socialist rule of law with Chinese characteristics"
 weight: 199
 date: 2025-10-13
 description: ""

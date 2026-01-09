@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2g
-title: Better Upholding and Developing Socialism with Chinese Characteristics
-weight: 35
+title: Coordinate and promote the 4 comprehensive strategic layout
+weight: 45
 date: 2025-10-13
 description: ""
 c: "firebrick"

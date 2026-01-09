@@ -1,15 +1,12 @@
 ---
 heading: Chapter 5e
-title: The great rejuvenation of China
+title: "Section 3: Adhere to the new development concept to lead the overall development situation"
 weight: 96
 date: 2025-10-13
 description: ""
 c: "firebrick"
 ---
 
-
-
-Section 3: Adhere to the new development concept to lead the overall development situation
 
 The implementation of the new development concept is a profound change that has a bearing on the
 overall development of our country, and we must accelerate the transformation of ideology and

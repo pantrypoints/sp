@@ -1,6 +1,6 @@
 ---
 heading: Chapter 7b
-title: Persisting in Comprehensively Deepening Reform and Comprehensively Opening Up
+title: "The only way to uphold and develop socialism with Chinese characteristics"
 weight: 121
 date: 2025-10-13
 description: ""
@@ -94,8 +94,10 @@ more than 40 years has proved that socialist China has not changed its banner in
 outside world, but has made scientific socialism shine with new vigor in the 21st century through
 the vivid practice of socialism with Chinese characteristics.
 
-To sum up, socialism with Chinese characteristics was born in the reform and opening up, and it
-also developed and expanded in the reform and opening up. Reform and opening up is the logical
+Socialism with Chinese characteristics was born in the reform and opening up, and it
+also developed and expanded in the reform and opening up.
+
+Reform and opening up is the logical
 starting point for opening up the road of socialism with Chinese characteristics, and it is also a
 powerful driving force for continuously expanding this road; reform and opening up is the practical
 source for forming and developing the theoretical system of socialism with Chinese characteristics,

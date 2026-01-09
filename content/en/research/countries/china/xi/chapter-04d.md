@@ -1,6 +1,6 @@
 ---
 heading: Chapter 4d
-title: The great rejuvenation of China
+title: "Section 3: Steadily advancing in the direction of common prosperity for all the people"
 weight: 73
 date: 2025-10-13
 description: ""
@@ -9,7 +9,6 @@ c: "firebrick"
 
 
 
-Section 3: Steadily advancing in the direction of common prosperity for all the people
 
 Since ancient times, human society has pursued and explored common prosperity, but true common
 prosperity can only be achieved when socialism develops to a certain extent. As a Marxist political
@@ -120,13 +119,12 @@ social fairness and justice is determined by many factors, the most important of
 of economic and social development. We must firmly grasp the center of economic construction,
 promote sustained and healthy economic development, further expand the 'cake', and lay a more
 solid material foundation for ensuring social fairness and justice. "1
+
 Adhere to the two "unwavering" and consolidate the foundation of the economic system for
 achieving common prosperity. The basic economic system with public ownership as the main body
 and the common development of various ownership economies is an important pillar of the socialist
 system with Chinese characteristics. Both the public and non-public economies are components of
-the socialist market economy, an important foundation for China's economic and
-social development, and an important condition for achieving common prosperity. In today's China, we
-must unswervingly consolidate and develop the public ownership economy and adhere to the status
+the socialist market economy, an important foundation for China's economic and social development, and an important condition for achieving common prosperity. In today's China, we must unswervingly consolidate and develop the public ownership economy and adhere to the status
 of the main body of public ownership, which plays a fundamental role in enhancing China's
 economic strength, safeguarding social fairness and justice, preventing polarization, gradually
 realizing common prosperity and promoting social harmony. At the same time, we must
@@ -147,6 +145,7 @@ prosperity. It is necessary to properly implement the coordinated regional devel
 establish a more effective new mechanism for coordinated regional development, and promote the
 gradual realization of common prosperity in the process of continuously improving the income level
 and quality of life of the people in all regions.
+
 Persist in ensuring and improving people's livelihood in the process of development. It is necessary
 to seek more benefits for the people's livelihood and relieve more worries about the people's
 livelihood, continuously make new progress in providing education for the young, learning and

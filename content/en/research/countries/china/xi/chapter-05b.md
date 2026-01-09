@@ -1,6 +1,6 @@
 ---
 heading: Chapter 5b
-title: The great rejuvenation of China
+title: The inherent requirements of China's actual development
 weight: 86
 date: 2025-10-13
 description: ""
@@ -114,7 +114,9 @@ development of the Yangtze River Delta, ecological protection and high-quality d
 Yellow River Basin have been promoted, and the gap between regions has been narrowing. With the
 implementation of the rural revitalization strategy, the gap between urban and rural income has
 narrowed from 3.13 times in 2011 to 2.2 in 201869 times. The third is to adhere to green
-development and enhance the sustainability of development. The concept of "green water and green
+development and enhance the sustainability of development.
+
+The concept of "green water and green
 mountains are golden mountains and silver mountains" is deeply rooted in the hearts of the people,
 the intensity of energy and resource consumption has been greatly reduced, the prevention and
 control of air, water and soil pollution has achieved obvious results, and the environmental situation
@@ -143,10 +145,12 @@ National Congress of the CCP, China's economy has grown by an average of
 about 7% per year, and the total economic volume has increased from 54 trillion yuan in 2012 to 99
 trillion yuan in 2019. China's contribution rate to the world economy exceeds 30% annually,
 becoming the main power source and stabilizer of world economic growth.
-Fundamentally speaking, the historic achievements of China's economic and social development are
-the result of unswervingly implementing the new development concept, resolutely correcting the
+
+
+China's economic and social achievements are from unswervingly implementing the new development concept, resolutely correcting the
 concept of development, transforming the mode of development, and improving the quality and
-efficiency of development. Practice has fully proved that the new development concept is an
+efficiency of development.
+
+Practice has fully proved that the new development concept is an
 advanced concept guiding China's development practice in the new era, and an important guideline
 that China's economic and social development must adhere to for a long time.
-

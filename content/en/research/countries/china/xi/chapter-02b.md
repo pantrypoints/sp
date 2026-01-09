@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2b
 title: Better Upholding and Developing Socialism with Chinese Characteristics
-weight: 17
+weight: 27
 date: 2025-10-13
 description: ""
 c: "firebrick"
@@ -24,8 +24,7 @@ leadership of the CCP, the system of regional ethnic autonomy, the system of
 grassroots mass autonomy, the public ownership as the mainstay, the common development of
 various ownership systems, and distribution according to work as the mainstay.
 
-A variety of
-distribution methods coexist, a series of basic systems such as the socialist market economic system,
+A variety of distribution methods coexist, a series of basic systems such as the socialist market economic system,
 and important systems such as legal rule of law, administrative management, cultural construction,
 people's livelihood security, social governance, ecological civilization, "one country, two systems",
 foreign affairs, party and state supervision, etc. This complete set of systems and governance
@@ -88,28 +87,22 @@ New Era is an inevitable requirement for adhering to and developing socialism wi
 characteristics, and also an inevitable requirement for writing a new chapter of socialism with
 Chinese characteristics.
 
-Socialism with Chinese characteristics is still in practice. Whether it is now or in the future, there
-are many new questions that need to be explored and answered, requiring us to make unremitting
-efforts in "keeping the right and making new things.” Comrade Xi Jinping pointed out: "Our
-understanding of socialism and our grasp of the law of socialism with Chinese characteristics have
+We need to make unremitting efforts in "keeping the right and making new things.” 
+
+
+{{< l a="Xi Jinping" >}}
+Our understanding of socialism and our grasp of the law of socialism with Chinese characteristics have
 reached an unprecedented new height, which is beyond doubt. At the same time, we must also realize
 that socialism in our country is still in its initial stage, we are still facing many problems that have
 not yet been clarified and difficult problems to be solved, and there is no doubt that our
-understanding and handling of many major issues are still in the process of deepening." 1 We must
-think about and grasp a series of major issues facing the country's future development with a broader
+understanding and handling of many major issues are still in the process of deepening.
+{{< /l >}}
+
+
+We must think about and grasp a series of major issues facing the country's future development with a broader
 vision and a longer-term perspective, improve our ability of strategic thinking, more accurately
 grasp the changing characteristics of the initial stage of socialism in our country, continuously
 enhance the principled, systematic, foreseeable and creative nature of our work, improve the
 development strategy and various policies, do a good job in reform, development and stability, and
 push forward socialism with Chinese characteristics with a new mental state and fighting attitude.
-Section 2: The Core Essence of Socialism with Chinese
-Characteristics in the New Era
-The 19th National Congress of the CCP used "eight clear" and "Fourteen
-Persistences" to systematically summarize and deeply explain Xi Jinping Thought on Socialism with
-Chinese Characteristics for a New Era. The "Eight Clarifications" are the action guide for adhering
-to and developing socialism with Chinese characteristics in the new era, focusing on answering what
-kind of socialism with Chinese characteristics to adhere to and develop; the "Fourteen Persistences"
-is the program of action for adhering to and developing socialism with Chinese characteristics in
-the new era, focusing on answering how to uphold and develop socialism with Chinese
-characteristics.
 

@@ -1,6 +1,6 @@
 ---
 heading: Chapter 11g
-title: "Section 3: The leadership of ideological work"
+title: "Actively promote innovation in social governance systems"
 weight: 250
 date: 2025-10-13
 description: ""

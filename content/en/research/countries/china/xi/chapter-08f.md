@@ -1,6 +1,6 @@
 ---
 heading: Chapter 8f
-title: The great rejuvenation of China
+title: "Improve the party's leadership over economic work"
 weight: 170
 date: 2025-10-13
 description: ""

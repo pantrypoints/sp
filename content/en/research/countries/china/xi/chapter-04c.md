@@ -1,12 +1,11 @@
 ---
-heading: Chapter 2e
-title: The great rejuvenation of China
-weight: 70
+heading: Chapter 4c
+title: "Grasp the people's new expectations for a better life"
+weight: 78
 date: 2025-10-13
 description: ""
 c: "firebrick"
 ---
-
 
 
 
@@ -21,6 +20,7 @@ To test the effectiveness of all work, we must ultimately see whether the people
 from the benefits, whether the people's living standards have been truly improved, and whether the
 people's rights and interests have been truly guaranteed. To grasp the people's new expectations for
 a better life in the new era, we need to pay attention to its salient characteristics.
+
 First, the area of demand has expanded considerably, and needs that have already been met give rise
 to new needs. Marx and Engels pointed out: "The first need that has been satisfied, the activities that
 have been satisfied, and the tools that have been acquired to satisfy the need give rise to new needs."2
@@ -28,9 +28,7 @@ With the entry of socialism with Chinese characteristics into a new era, people'
 life have become more and more extensive, not only putting forward higher requirements for
 material and cultural life, but also increasing requirements in democracy, rule of law, fairness, justice,
 security, environment and other aspects. When meeting with Chinese and foreign journalists by
-members of the Standing Committee of the 18th Political Bureau of the Central Committee,
-Comrade Xi Jinping pointed out with deep affection: "Our people love life and look forward to
-better education, more stable jobs, more satisfactory income, more reliable social security, higher
+members of the Standing Committee of the 18th Political Bureau of the Central Committee, Comrade Xi Jinping pointed out with deep affection: "Our people love life and look forward to better education, more stable jobs, more satisfactory income, more reliable social security, higher
 levels of medical and health services, more comfortable living conditions, and a more beautiful
 environment, and hope that children can grow up, work better, and live better."3 Compared with
 "material cultural needs,"
@@ -42,6 +40,7 @@ also include the development needs of pursuing self-realization and free and all
 and the enjoyment needs of pursuing a happy life have also been put forward as never before; people
 not only pursue objective life needs, but also incorporate subjective needs such as a sense of gain,
 happiness, security, and dignity into the scope of a better life.
+
 Second, the specific difficulties of specific groups of people in cities and towns need to be focused
 on and effectively resolved. Specific groups include urban subsistence allowances, the elderly,
 migrant workers, university graduates and urban registered unemployed persons, etc., because of
@@ -72,9 +71,9 @@ environment with fair law enforcement and clean rivers.
 In this way, people can really continue to get more "good" feelings.
 
 3. adhere to the people-centered work orientation
+
 To take the people's yearning for a better life as the goal of struggle, we must adhere to the people-
-centered work orientation. Since the 18th National Congress of the CCP, the
-Party Central Committee with Comrade Xi Jinping as the core has always adhered to the people-
+centered work orientation. Since the 18th National Congress of the CCP, the Party Central Committee with Comrade Xi Jinping as the core has always adhered to the people-
 centered development thinking, always adhered to the people-centered work orientation, taken the
 benefit of the people as the greatest achievement, shouldered the responsibility of reform and
 development, implemented a large number of measures to benefit the people, promoted more and
@@ -151,4 +150,3 @@ Only by rationally viewing the hot and difficult issues in economic and social d
 understanding that it is impossible to make up for the shortcomings of people's livelihood can we
 gather the confidence and strength to overcome difficulties and better safeguard the overall situation
 of reform, development and stability.
-

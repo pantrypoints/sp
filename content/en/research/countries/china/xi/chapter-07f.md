@@ -1,6 +1,6 @@
 ---
 heading: Chapter 7f
-title: "Section 3: Adhere to comprehensive openness"
+title: "Opening up to the outside world"
 weight: 139
 date: 2025-10-13
 description: ""

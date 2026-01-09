@@ -1,11 +1,19 @@
 ---
 heading: Chapter 2c
-title: Better Upholding and Developing Socialism with Chinese Characteristics
-weight: 23
+title: "Section 2: The Core Essence of Socialism with Chinese Characteristics"
+weight: 29
 date: 2025-10-13
 description: ""
 c: "firebrick"
 ---
+
+
+The 19th National Congress of the CCP used "8 clear" and "14 Persistences" to systematically summarize and deeply explain Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era. 
+
+The "Eight Clarifications" are the action guide for adhering to and developing socialism with Chinese characteristics in the new era, focusing on answering what kind of socialism with Chinese characteristics to adhere to and develop; the "Fourteen Persistences"
+is the program of action for adhering to and developing socialism with Chinese characteristics in
+the new era, focusing on answering how to uphold and develop socialism with Chinese
+characteristics.
 
 
 The "eight clear" and "Fourteen Persistences" constitute the core essence of adhering to and
@@ -21,7 +29,9 @@ nation, and on the basis of building a moderately prosperous society in an all-r
 take two steps to build a prosperous, strong, democratic, civilized, harmonious and beautiful modern
 socialist country by the middle of this century; make it clear that the main contradiction in our
 society in the new era is the contradiction between the people's growing need for a better life and
-unbalanced and inadequate development. Common prosperity for all the people; it is clear that the
+unbalanced and inadequate development.
+
+Common prosperity for all the people; it is clear that the
 overall layout of the cause of socialism with Chinese characteristics is "five-in-one" and the strategic
 layout is "four comprehensive", emphasizing firm confidence in the road, theory, system and culture;
 it is clear that the overall goal of comprehensively deepening reform is to improve and develop the
@@ -59,23 +69,26 @@ great rejuvenation of the Chinese nation. This strategic arrangement is not only
 people to forge ahead, but also scientific, rational and in line with reality, and is a powerful spiritual
 driving force that inspires the Chinese communists and Chinese people to continue to struggle for a
 better life.
+
 Second, for adhering to and developing socialism with Chinese characteristics in the new era, it has
 clarified the fundamental strategic arrangements formulated for accomplishing the overall tasks and
 achieving the overall goals, which must be based on an accurate judgment of the reality of national
 development and the main contradictions in our society. The report of the 19th National Congress
-of the CCP clearly pointed out that the main contradiction in our society has
-been transformed into a contradiction between the people's growing need for a better life and
+of the CCP clearly pointed out that the main contradiction in our society has been transformed into a contradiction between the people's growing need for a better life and
 unbalanced and inadequate development. This transformation of the main contradiction in society
 reflects the tremendous progress of China's social development and the new changes in stages of
 development, reflects the new requirements for the development of the cause of the party and the
 country, and is an important basis for determining the strategic deployment of socialism with
 Chinese characteristics in the new era. Only by clarifying this main contradiction can we grasp the
 overall situation of development and clarify the direction, tasks and key points of development.
+
 Third, it has clarified a new layout for adhering to and developing socialism with Chinese
 characteristics in the new era. Based on the new historical orientation, Xi Jinping Thought on
 Socialism with Chinese Characteristics for a New Era clearly points out that the overall layout for
 promoting the cause of socialism with Chinese characteristics in the new era is "five-in-one" and
-the strategic layout is "four comprehensive.” The overall layout of the "five-in-one" clarifies the
+the strategic layout is "four comprehensive.”
+
+The overall layout of the "five-in-one" clarifies the
 overall deployment for promoting national modernization in the new era, that is, the comprehensive
 advancement of economic construction, political construction, cultural construction, social
 construction and ecological civilization construction. The "four comprehensive" strategic layout has
@@ -108,6 +121,7 @@ endogenous driving force and institutional guarantee for promoting the moderniza
 national governance system and governance capacity, and promotes the modernization of the
 national governance system and governance capacity to prepare supporting forces and innovative
 ways for the improvement and development of the socialist system with Chinese characteristics.
+
 Fifth, it clarifies the guarantee of the rule of law for adhering to and developing socialism with
 Chinese characteristics in the new era. Xi Jinping Thought on Socialism with Chinese
 Characteristics for a New Era clearly states that the overall goal of comprehensively promoting the
@@ -131,8 +145,10 @@ legal system with Chinese characteristics with the Constitution as the core, and
 of the rule of law as a guarantee for solidifying the foundation, stabilizing expectations, and
 benefiting the long term.
 
-6. The strategic support for adhering to and developing socialism with Chinese
-characteristics in the new era. A strong country must strengthen its military. Comprehensively
+
+6. The strategic support for adhering to and developing socialism with Chinese characteristics in the new era. A strong country must strengthen its military.
+
+Comprehensively
 promoting the modernization of national defense and the armed forces, adhering to the road of
 strengthening the military with Chinese characteristics, and building a world-class army are not only
 important tasks for the development of socialism with Chinese characteristics, but also an important
@@ -147,9 +163,9 @@ and clarifies that the party's goal of strengthening the army in the new era is 
 that obeys the command of the party, can win battles and has excellent work style, and builds the
 people's army into a world-class army, providing a strong guarantee for adhering to and developing
 socialism with Chinese characteristics in the new era.
+
 Seventh, it clarifies the diplomatic goal for adhering to and developing socialism with Chinese
-characteristics in the new era. Since the 18th National Congress of the CCP,
-the Party Central Committee with Comrade Xi Jinping as the core has focused on the development
+characteristics in the new era. Since the 18th National Congress of the CCP, the Party Central Committee with Comrade Xi Jinping as the core has focused on the development
 trend of human society, continued to answer major issues related to national development and the
 future and destiny of mankind, such as "what kind of world to build and how to build this world",
 put forward the proposition of building a community with a shared future for mankind, and included

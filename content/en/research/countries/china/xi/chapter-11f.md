@@ -1,6 +1,6 @@
 ---
 heading: Chapter 11f
-title: "Section 3: The leadership of ideological work"
+title: "Actively promote innovation in the pattern of social governance"
 weight: 248
 date: 2025-10-13
 description: ""
@@ -8,7 +8,7 @@ c: "firebrick"
 ---
 
  
-2. actively promote innovation in the pattern of social governance
+2. Actively promote innovation in the pattern of social governance
 
 Modern social governance is not only the process of the government providing public services to
 the society and regulating and regulating relevant social affairs in accordance with the law, but also

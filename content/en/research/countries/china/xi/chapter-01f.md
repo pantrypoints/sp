@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1e
 title: "Section 4: The new era is the age of strivers"
-weight: 11
+weight: 18
 date: 2025-10-13
 description: ""
 c: "firebrick"

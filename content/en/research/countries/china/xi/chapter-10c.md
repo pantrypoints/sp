@@ -1,6 +1,6 @@
 ---
 heading: Chapter 10c
-title: "Section 2: Promote the prosperity of socialist culture"
+title: "Accelerate the construction of philosophy and social sciences with Chinese characteristics"
 weight: 213
 date: 2025-10-13
 description: ""

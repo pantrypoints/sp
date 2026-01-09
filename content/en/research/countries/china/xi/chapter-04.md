@@ -1,7 +1,7 @@
 ---
 heading: Chapter 4
 title: Adhere to the fundamental position of centering on the people
-weight: 63
+weight: 73
 date: 2025-10-13
 description: ""
 c: "firebrick"

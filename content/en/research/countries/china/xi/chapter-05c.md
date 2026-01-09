@@ -1,6 +1,6 @@
 ---
 heading: Chapter 5c
-title: The great rejuvenation of China
+title: "Section 2: It has enriched and developed Marxist development"
 weight: 90
 date: 2025-10-13
 description: ""
@@ -8,8 +8,6 @@ c: "firebrick"
 ---
 
 
-
-Section 2: It has enriched and developed the Marxist outlook on development
 
 The new development concept is the Sinicization and epochalization of the Marxist outlook on
 development by the Party Central Committee with Comrade Xi Jinping as the core in the new era,
@@ -121,21 +119,31 @@ people to share the fruits of reform and development is the essential requiremen
 concentrated embodiment of the superiority of the socialist system, and an important embodiment
 of the CPC's fundamental purpose of serving the people wholeheartedly. Shared development
 focuses on solving the problem of social fairness and justice, and the essence is to adhere to the
-people-centered approach. It mainly includes four meanings: First, from the perspective of coverage,
-it requires sharing by all people. Shared development is enjoyed by everyone and each has its own
-place, not shared by a few and shared by some people. Second, from the perspective of content,
-comprehensive sharing is required. Shared development means sharing the achievements of national
-economic, political, cultural, social and ecological construction, and comprehensively protecting the
+people-centered approach. 
+
+It includes 4 meanings:
+
+1. From the perspective of coverage, it requires sharing by all people.
+
+Shared development is enjoyed by everyone and each has its own
+place, not shared by a few and shared by some people.
+
+2. From the perspective of content, comprehensive sharing is required. 
+
+Shared development means sharing the achievements of national economic, political, cultural, social and ecological construction, and comprehensively protecting the
 legitimate rights and interests of the people in all aspects.
-From the perspective of the way of implementation, it requires joint construction and sharing. Co-
-construction can be shared, and the process of co-construction is also a process of sharing. It is
-necessary to give full play to democracy, extensively gather the wisdom of the people, stimulate the
-people's strength to the greatest extent, and form a vivid situation in which everyone participates,
-everyone does their best, and everyone has a sense of achievement. Fourth, from the perspective of
-the promotion process, gradual sharing is required. Shared development is a process from low level
+
+
+From the perspective of the way of implementation, it requires joint construction and sharing. Co-construction can be shared, and the process of co-construction is also a process of sharing. 
+
+
+3. It is necessary to give full play to democracy, extensively gather the wisdom of the people, stimulate the people's strength to the greatest extent, and form a vivid situation in which everyone participates,everyone does their best, and everyone has a sense of achievement. 
+
+4. From the perspective of the promotion process, gradual sharing is required. Shared development is a process from low level
 to high level, from unbalanced to balanced, and we must think about and design sharing policies
-based on national conditions and economic and social development levels. These four aspects are
-interconnected and mutually reinforcing, and should be understood and grasped as a whole. On the
+based on national conditions and economic and social development levels. 
+
+These four aspects are interconnected and mutually reinforcing, and should be understood and grasped as a whole. On the
 one hand, it is necessary to fully mobilize the enthusiasm, initiative and creativity of the masses of
 the people to continuously make the "cake" bigger; on the other hand, it is necessary to divide the
 "cake" that is constantly expanding so that all the people can have a greater sense of gain in joint

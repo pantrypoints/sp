@@ -1,6 +1,6 @@
 ---
 heading: Chapter 12e
-title: "China's economic and social development problems"
+title: "Solve prominent environmental problems and curbing the spread of pollution"
 weight: 268
 date: 2025-10-13
 description: ""
@@ -8,7 +8,7 @@ c: "firebrick"
 ---
 
 
-2. focus on solving prominent environmental problems and curbing the spread of pollution
+2. Solve prominent environmental problems and curbing the spread of pollution
 
 Comrade Xi Jinping stressed: "Environmental protection and governance should focus on solving
 environmental problems that harm people's health and highlight environmental problems",2 starting

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 3d
-title: Socialism with Chinese Characteristics Enters a New Era
-weight: 46
+title: The Party is the decider of major decisions
+weight: 59
 date: 2025-10-13
 description: ""
 c: "firebrick"
@@ -61,12 +61,10 @@ there is party organization, and where there are party members, there is party w
 promotes the coverage of party organizations and party work. Over the past 40 years of reform and
 opening up, China has been one of the countries with the most profound social transformation in the
 world, facing domestic and foreign contradictions and risks rarely seen in the world
-1 Selected Works of Deng Xiaoping, vol. 3, Publishing House, 1993, p. 121.
-China Aerospace Studies Institute
-91
-Translation published Fall 2023Basic Issues of Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era
+
 However, Chinese society has always maintained overall stability, which is inseparable from the
 strong organizational ability and excellent governance ability of the CCP.
+
 Since the 18th National Congress of the CCP, the Party Central Committee
 with Comrade Xi Jinping as the core has closely focused on the social governance theme of co-
 construction, co-governance and sharing, continuously improved the social governance system and

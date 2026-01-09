@@ -1,6 +1,6 @@
 ---
 heading: Chapter 9e
-title: Upholding and Developing Socialist Democratic Politics
+title: "Promote the extensive and multi-level institutionalization of socialist consultative democracy"
 weight: 190
 date: 2025-10-13
 description: ""

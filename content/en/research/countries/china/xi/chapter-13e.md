@@ -1,6 +1,6 @@
 ---
 heading: Chapter 13e
-title: Socialism with Chinese Characteristics Enters a New Era
+title: "Build the people's army into a world-class army"
 weight: 290
 date: 2025-10-13
 description: ""

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2f
 title: Better Upholding and Developing Socialism with Chinese Characteristics
-weight: 32
+weight: 42
 date: 2025-10-13
 description: ""
 c: "firebrick"

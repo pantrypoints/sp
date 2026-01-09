@@ -1,6 +1,6 @@
 ---
 heading: Chapter 6e
-title: The great rejuvenation of China
+title: The 2-step strategic arrangement
 weight: 114
 date: 2025-10-13
 description: ""
@@ -10,7 +10,7 @@ c: "firebrick"
 
 
 
-2. the "two-step" strategic arrangement for the new era on the basis of building a moderately prosperous society in an all-round way
+2. The "2-step" strategic arrangement for the new era on the basis of building a moderately prosperous society in an all-round way
 
 In accordance with the "two-step" strategic arrangement for the new era on the basis of building a
 moderately prosperous society in an all-round way, to promote China's socialist modernization drive,

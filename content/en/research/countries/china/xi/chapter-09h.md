@@ -1,6 +1,6 @@
 ---
 heading: Chapter 9h
-title: Upholding and Developing Socialist Democratic Politics
+title: "Comprehensively deepen the practice of governing the country according to law"
 weight: 202
 date: 2025-10-13
 description: ""

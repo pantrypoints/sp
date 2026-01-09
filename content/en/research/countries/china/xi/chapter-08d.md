@@ -1,6 +1,6 @@
 ---
 heading: Chapter 8d
-title: The great rejuvenation of China
+title: "The way of supply-side structural reform is to increase effective supply"
 weight: 163
 date: 2025-10-13
 description: ""
@@ -9,7 +9,7 @@ c: "firebrick"
 
 
 
-3. the way of supply-side structural reform is to increase effective supply
+3. The way of supply-side structural reform is to increase effective supply
 
 The way of supply-side structural reform is mainly to increase the supply of effective systems,
 increase the supply of effective technology, and increase the supply of high-quality products.

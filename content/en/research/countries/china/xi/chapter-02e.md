@@ -1,11 +1,25 @@
 ---
 heading: Chapter 2e
-title: The great rejuvenation of China
-weight: 30
+title: "Section 3:The great rejuvenation of China"
+weight: 36
 date: 2025-10-13
 description: ""
 c: "firebrick"
 ---
+
+
+
+The CCP is the vanguard of the Chinese working class, as well as the vanguard
+of the Chinese people and the Chinese nation. The Party takes the realization of socialism and
+communism as its goal and undertakes the historical mission of realizing the great rejuvenation of
+the Chinese nation.
+
+Adhering to and developing socialism with Chinese characteristics epitomizes
+the organic combination of realizing socialism and communism and realizing the great rejuvenation
+of the Chinese nation. To realize the great rejuvenation of the Chinese nation on the road of socialism
+with Chinese characteristics, generations of Chinese communists need to lead the people to continue
+to struggle.
+
 
 
 1. Realizing the great rejuvenation of the Chinese nation is the historical mission of the Chinese Communists
@@ -19,6 +33,7 @@ realization of national independence and the prosperity and strength of the coun
 responsibility, to devote all her wisdom and painstaking efforts to the realization of national
 rejuvenation, and to the fact that she must closely unite and rely on the broadest masses of the people
 and gain from them the tremendous strength to promote historical progress.
+
 In order to realize the historical mission of the great rejuvenation of the Chinese nation, whether it
 is weak or strong, whether in good times or bad, the CCP has never changed
 its original intention and unswervingly determined, dared to overcome any difficulties, is willing to
@@ -26,9 +41,7 @@ make any sacrifice, has the courage to correct any mistakes, unites and leads th
 carry out the new democratic revolution, socialist revolution, socialist construction, reform and
 opening up, and the Chinese nation has ushered in a great leap from standing up, getting rich to
 becoming strong. Facts have eloquently proved that it is precisely under the leadership of the
-CCP that the Chinese nation has completely shaken off the miserable situation
-of being slaughtered by others, and that the Chinese people have completely bid farewell to the weak
-state of poverty and backwardness; in contemporary China, only the CCP and
+CCP that the Chinese nation has completely shaken off the miserable situation of being slaughtered by others, and that the Chinese people have completely bid farewell to the weak state of poverty and backwardness; in contemporary China, only the CCP and
 no other political force can lead the Chinese people to realize the great historical cause of national
 rejuvenation.
 
@@ -116,18 +129,17 @@ opportunities rather than threats, peace rather than turmoil, and progress rathe
 
 3. to realize the Chinese dream, we must adhere to the Chinese path, carry
 forward the Chinese spirit, and unite China's strength
-In his speech at the first session of the 12th National People's Congress, Comrade Xi Jinping clearly
-pointed out that to realize the Chinese dream, we must take the road of China as a country, carry
+
+Xi Jinping clearly pointed out that to realize the Chinese dream, we must take the road of China as a country, carry
 forward the Chinese spirit, and unite China's strength.
+
 The Chinese road is the road of socialism with Chinese characteristics. History and reality tell us
 that the road determines destiny, and it is extremely difficult to find a correct path. Since the reform
 and opening up, the CCP has summed up historical experience, made
 continuous arduous explorations, and finally found the correct path to realize the great rejuvenation
 of the Chinese nation, which is the path of socialism with Chinese characteristics. The path of
 socialism with Chinese characteristics is to base on the basic national conditions under the
-leadership of the CCP, take economic construction as the center, adhere to the
-four basic principles, adhere to reform and opening up, liberate and develop social productive forces,
-build a socialist market economy, socialist democratic politics, advanced socialist culture, socialist
+leadership of the CCP, take economic construction as the center, adhere to the 4 basic principles, adhere to reform and opening up, liberate and develop social productive forces, build a socialist market economy, socialist democratic politics, advanced socialist culture, socialist
 harmonious society and socialist ecological civilization, promote all-round human development,
 gradually realize common prosperity for all the people, and build a prosperous, strong, democratic,
 civilized, harmonious and beautiful modern socialist country. The connotation and orientation of
@@ -166,6 +178,7 @@ times, making the Chinese spirit an internal spiritual support for promoting soc
 progress, and becoming a spiritual bond to strengthen the unity and struggle of the people of the
 whole country and a spiritual driving force for unceasing self-improvement, can we compose a
 wonderful movement of the great rejuvenation of the Chinese nation.
+
 China's strength is the strength of the great unity of the Chinese people of all ethnic groups. Among
 them, the CCP is the core force. Without the leadership of the Communist
 Party, an advanced Marxist political party, the Chinese people of all ethnic groups would have no

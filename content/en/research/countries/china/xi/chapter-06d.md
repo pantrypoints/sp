@@ -1,6 +1,6 @@
 ---
 heading: Chapter 6d
-title: The great rejuvenation of China
+title: "China's modernization adheres to peaceful win-win cooperation"
 weight: 111
 date: 2025-10-13
 description: ""
@@ -27,6 +27,7 @@ is dangerous.
 In ancient times, the Silk Road was created for exchanges and mutual learning and shared
 development between the East and the West, and the "Belt and Road" initiative proposed today is
 also for exchanges and cooperation to promote prosperity.
+
 However, we should also realize that along with the rapid improvement of China's economic
 strength and comprehensive national strength, the theory of "China's threat" and "the theory that a
 strong country must be hegemonic" are very popular. Some people believe that the 500 years of
@@ -45,6 +46,7 @@ this is how we design our system, and we have always done this in practice.” 2
 challenger or destroyer of the international order, nor a bystander or outsider of the global
 governance system; China was, is and will be a builder of world peace, a contributor to global
 development and a defender of international order.
+
 China has made a solemn commitment to the world never to seek hegemony or expansion, and at
 the same time interprets the concept of adhering to win-win cooperation and taking the path of
 peaceful development with its own concrete actions. The concept of "a community with a shared
@@ -80,7 +82,9 @@ the current development reality of China, but also adapt to the future developme
 completely outline the timetable and road map for the construction of China's modern socialist
 power, and provide important guidelines for adhering to and developing socialism with Chinese
 characteristics in the new era.
+
 1. decisively build a moderately prosperous society in an all-round way
+
 Building a moderately prosperous society in an all-round way is a solemn commitment made by the
 CCP to the people and to history, and is the common aspiration of all Chinese
 people. This grand goal is the first centenary goal of the "two centenary goals" and an important
@@ -95,6 +99,7 @@ history of socialist development. Achieving this grand goal means high-quality e
 development, general improvement of people's living standards and quality, marked improvement
 of national quality and social civilization, overall improvement of the quality of the ecological
 environment, and more mature and stereotyped systems in all aspects.
+
 Achieving such a goal requires us not only to achieve the goal in terms of volume and speed, but
 more importantly, to solve the problems of balance, coordination and sustainability of development.
 To be moderately prosperous in an all-round way, the areas covered should be comprehensive, and
@@ -105,6 +110,7 @@ society in an all-round way is not a numbers game or a speed game, but a real go
 maintaining economic growth, it is more important to implement the people-centered development
 thinking, think about what the masses think, be anxious about what the masses are anxious about,
 and solve the difficulties of the masses."1
+
 The comprehensive construction of a moderately prosperous society has reached the historical point
 of vigor and decisive victory, and the sprint stage is particularly difficult, and it is even more
 necessary to resist all kinds of interference. Today's world is facing major changes unprecedented
@@ -145,7 +151,9 @@ continue to accumulate and even become concentrated and exposed. The major risks
 country include domestic economic, political, ideological and social risks and risks from the natural
 world, as well as risks from international economic, political, strategic, sovereign and military risks.
 Moreover, these risks often do not arise in isolation, but are likely to be intertwined and form a
-complex of risks. If major risks occur and cannot be shouldered, the process of building a moderately
+complex of risks.
+
+If major risks occur and cannot be shouldered, the process of building a moderately
 prosperous society in an all-round way and even national rejuvenation may be interrupted. To
 resolutely fight this tough battle, it is necessary to strengthen the investigation of hidden risks, find
 out the bottom number of risks, persist in treating both the symptoms and the root causes, and pay
@@ -157,6 +165,7 @@ problems of emerging sexual tendencies, effectively prevent the impact of "black
 evolving into internal risks, prevent economic and financial risks from evolving into social and
 political risks, prevent individual risks from evolving into systemic risks, and create a safe and stable
 good environment for the comprehensive construction of a moderately prosperous society.
+
 Resolutely win the battle against poverty. Comrade Xi Jinping has repeatedly stressed that no ethnic
 minority or region should be left behind, and all Chinese people should share the fruits of all-round
 moderate prosperity. At present, deep poverty is a "hard bone" on the road to overall moderate

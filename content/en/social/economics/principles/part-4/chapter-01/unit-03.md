@@ -1,5 +1,5 @@
 ---
-heading: Chapter 1c
+heading: Unit 3
 title: "Free Competition"
 description: "Free Competition is an essential part of our third and third law of value. Competition is the third law. Freedom is the third law"
 image: /photos/social/contest.jpg 
@@ -8,7 +8,10 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 16
 icon: "Supereconomics"
+aliases:
+  /social/economics/principles/part-4/chapter-01c
 ---
+
 
 
 Free competition is a necessary idea under the Third Law or the law of fair exchange, and is always checked by the Fourth Law or the law of balance. 

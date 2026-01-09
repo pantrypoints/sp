@@ -1,13 +1,13 @@
 ---
 heading: Chapter 14
-title: Socialism with Chinese Characteristics Enters a New Era
+title: "Section 2: Strengthen the army"
 weight: 283
 date: 2025-10-13
 description: ""
 c: "firebrick"
 ---
 
-Section 2: Continuously open up a new situation of  strengthening the army and rejuvenating the army
+
 
 A strong country must strengthen its military. Since the 18th National Congress of the Communist
 Party of China, Comrade Xi Jinping has focused on realizing the Chinese dream of the great

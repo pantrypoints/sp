@@ -1,6 +1,6 @@
 ---
 heading: Chapter 8e
-title: The great rejuvenation of China
+title: "Deeply understand the connotation of high-quality development"
 weight: 167
 date: 2025-10-13
 description: ""
@@ -8,7 +8,7 @@ c: "firebrick"
 ---
 
 
-2. deeply understand the connotation of high-quality development
+2. Deeply understand the connotation of high-quality development
 
 High-quality economic development can be understood from both narrow and broad perspectives.
 In a narrow sense, high-quality economic development means that an economy (or enterprise) can

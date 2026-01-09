@@ -1,14 +1,12 @@
 ---
 heading: Chapter 7d
-title: Persisting in Comprehensively Deepening Reform and Comprehensively Opening Up
+title: "Section 2: Persist in comprehensively deepening reform"
 weight: 130
 date: 2025-10-13
 description: ""
 c: "firebrick"
 ---
 
-
-Section 2: Persist in comprehensively deepening reform
 
 China's reform and opening up began with the Third Plenary Session of the 11th CPC Central
 Committee, adhered to the principle of prioritizing the easy before the difficult, and gradually

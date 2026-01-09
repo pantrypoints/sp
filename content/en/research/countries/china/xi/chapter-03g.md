@@ -1,13 +1,13 @@
 ---
 heading: Chapter 3g
-title: Socialism with Chinese Characteristics Enters a New Era
-weight: 59
+title: "Section 4: Establish the institutional mechanism for the party's comprehensive leadership"
+weight: 69
 date: 2025-10-13
 description: ""
 c: "firebrick"
 ---
 
-Section 4: Establish and improve the institutional mechanism for the party's comprehensive leadership
+
 
 The party's overall leadership is concrete and must be embodied in all aspects of governing the
 country and in the design, arrangement, and operation of the institutions, systems, and systems of
@@ -30,8 +30,7 @@ implemented by the Party's discipline inspection organs and organizational, prop
 political and legal departments, the Party organizations of the state's legislative, judicial,
 administrative, and supervisory organs, and the Party organizations of enterprises, institutions, and
 people's organizations. Local Party organizations must ensure that the decisions and arrangements
-of the Party Central Committee are implemented as soon as orders are made and stopped when
-prohibited. In the big chess game of the national governance system, the Party Central Committee
+of the Party Central Committee are implemented as soon as orders are made and stopped when prohibited. In the big chess game of the national governance system, the Party Central Committee
 is the "handsome" who sits in the military tent in the town, and the horses and cannons each show
 their strengths, and the overall situation is clearly defined, so that only in governing the country can
 there be direction, rules, and strength.
@@ -94,7 +93,8 @@ party committee. Some comrades are accustomed to treating the work in charge as 
 forbidden, feeling that since they are in charge, there is no need to report, and they do not want
 others to come and ask questions, and some do not even want the party committee to ask questions,
 otherwise there is no separation between the party and the government. This thinking is incorrect.
-"1
+
+
 The Sixth Plenary Session of the 18th CPC Central Committee detailed the system of requesting
 instructions and reports on major issues, stipulating that the Standing Committee of the National
 People's Congress, the State Council, the National Committee of the Chinese People's Political
@@ -172,6 +172,7 @@ Committee, work under the leadership of the Political Bureau of the Central Comm
 Standing Committee, and are responsible for the top-level design, overall layout, overall
 coordination and overall promotion of major work in related fields, further ensuring the effective
 implementation of the Party's leadership.
+
 The functional departments of the Party are the political organs of the Party exercising political,
 ideological and organizational leadership, and the executive organs that implement the decisions
 and arrangements of the Party Central Committee and local Party committees at all levels,

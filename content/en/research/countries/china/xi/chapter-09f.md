@@ -1,6 +1,6 @@
 ---
 heading: Chapter 9f
-title: Upholding and Developing Socialist Democratic Politics
+title: "Consolidate and develop the patriotic united front"
 weight: 193
 date: 2025-10-13
 description: ""

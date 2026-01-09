@@ -1,14 +1,14 @@
 ---
 heading: Chapter 3f
-title: Socialism with Chinese Characteristics Enters a New Era
-weight: 56
+title: The practical requirements of '2 maintenance'
+weight: 63
 date: 2025-10-13
 description: ""
 c: "firebrick"
 ---
 
 
-3. the practical requirements of "two maintenance"
+3. The practical requirements of "two maintenance"
 
 Safeguarding the core position of General Secretary Xi Jinping of the Party Central Committee and
 the core of the whole Party, safeguarding the authority and centralized and unified leadership of the
@@ -20,6 +20,7 @@ requirement of the Party Constitution for Party members. Loyalty to the party mu
 must not be "two-faced" or engage in "pseudo-loyalty"; it must be embodied in loyalty to the party's
 beliefs, loyalty to the party organization, and loyalty to the party's theory, line, principles, and
 policies. If "loyalty" doesn't pass, nothing else.
+
 To achieve the "two safeguards," we must strictly abide by political discipline and political rules.
 Political discipline is the most important discipline of the Party, political discipline is the most
 fundamental rule of the Party, and abiding by political discipline and political rules is the basis for
@@ -36,6 +37,7 @@ claims and opinions on major issues and reports. Fourth, we must obey the organi
 never allow non-organizational activities, bargain with the organization, go against the
 organization's decision, seek and rely on the organization when encountering problems, and must
 not deceive the organization or confront the organization.
+
 To achieve the "two safeguards," we must firmly establish a political awareness, an awareness of
 the overall situation, a core awareness, and a sense of alignment. The most important thing is to
 highly identify ideologically, resolutely safeguard politically, fully trust organizationally, and

@@ -1,6 +1,6 @@
 ---
 heading: Chapter 8c
-title: The great rejuvenation of China
+title: "Section 2: Deepen supply-side structural reform"
 weight: 160
 date: 2025-10-13
 description: ""
@@ -8,8 +8,6 @@ c: "firebrick"
 ---
 
 
-
-Section 2: Deepen supply-side structural reform
 
 Promoting supply-side structural reform is a major innovation to adapt to and lead the new normal
 of economic development, an active choice to adapt to the new situation of comprehensive national

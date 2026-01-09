@@ -1,6 +1,6 @@
 ---
 heading: Chapter 12f
-title: Socialism with Chinese Characteristics Enters a New Era
+title: "Restore ecological environmental protection"
 weight: 270
 date: 2025-10-13
 description: ""
@@ -8,7 +8,7 @@ c: "firebrick"
 ---
 
 
-3. Accelerate the restoration of ecological environmental protection
+3. Restore ecological environmental protection
 
 China's ecological and environmental contradictions have a historical accumulation process, and it
 is impossible to expect complete changes in the short term. In this regard, it is necessary to establish
