@@ -17,7 +17,7 @@ The industrial revolution in Europe in the 19th century allowed mass production 
 - However, the mutual competition among producers reduces the profits that they could gain. 
 
 
-{{< q a="John Stuard Mill" c="Principles of Political Economy (1848), Book 4, Chapter 4" >}}
+{{< q a="John Stuart Mill" c="Principles of Political Economy (1848), Book 4, Chapter 4" >}}
 Our current social progress tends to diminish this minimum rate of profit
 {{< /q >}}
 
@@ -36,7 +36,7 @@ Thus:
 
 
 
-{{< i s="/graphics/econ/history.jpg" a="History" >}}
+{{< i s="/graphics/econ/history.jpg" a="History" c="The invention of standardized paper bank notes led to the systems of Yuan Central Banking, European Mercantilism, and Political Economy" >}}
 
 
 Instead of treating microeconomic profits as a bad thing that sucked wealth into private hands, it was changed into something good. Any bad effects would then be corrected by macroeconomics. 
@@ -90,7 +90,7 @@ These are now part of macroeconomics.
 
 
 
-### Deficit Spending
+### 1. Deficit Spending
 
 Deficit spending is a **fiscal solution** wherein the government spurs the economy by doing the spending and investment.  
 - This now manifests as big public works projects.
@@ -114,7 +114,7 @@ A big decline in income due to a decline in the level of employment may even cau
 > The fact that this plan worked proves that, in the Negative Force, **the instinct for self-preservation is superior**
 
 
-### Open-market operations
+### 2. Open-market operations
 
 Deficit spending sucks idle money from profit-maximizing people and puts it back to work in the economy thourgh large government projects.  
 - Those projects give money to employees.
@@ -180,20 +180,23 @@ This scarcity led to the failure of many businesses. This then led to massive un
 
 The easiest solution in the paradigm of Classical Economics is to get rid of profit maximization. 
 
+Supereconomics replaces it with **minimum needs**. 
 
-Supereconomics would resolve the Great Depression through the following steps:
+During the transition from Neoclassical Economics to Supereconomics, the following steps can be taken to transition to a minimum needs system:
 
-1. Implement a barter system to maintain the essential parts of the economy. 
+1. Implement a barter system of credit in order to maintain the essential parts of the economy. 
 
-This is opposed to monetary solutions and will prevent inflation and the cannibalization of the economy. 
+This is opposed to monetary solutions and will prevent inflation and the cannibalization of the economy. This works on circulating capital.
 
 2. The government raises bonds to acquire failing companies that are essential to the economy
 
 A collapse of an essential corporation, such as those in utilities and public transportation, would lead to a domino effect. 
 
-The government should intervene by buying those companies at a discount and then propping them up with taxpayer money. When the economy recovers, they can sell some of the shares back to the market. 
+The government should intervene by buying those companies at a discount and then propping them up with taxpayer money. 
 
-This is opposed to deficit spending, since it will be "deficit investment". 
+When the economy recovers, they can sell some of the shares back to the market. 
+
+This is opposed to deficit spending, since it will be "deficit investment" and works on fixed capital.
 
 
 <!-- The government would borrow from the wealthy by issuing bonds, which it will then use to recapitalize those enterprises. The competitors of those enterprises will then be awakened into action, at the prospect of them losing market share to the nationalized company. This will then restart employment which will drive demand anew.
