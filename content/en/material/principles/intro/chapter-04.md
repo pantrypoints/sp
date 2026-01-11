@@ -12,6 +12,7 @@ icon: "Juan"
 ---
 
 
+
 Aristotle and Descartes defines substance as that which can exist by itself. 
 
 The substances in physical reality, according to Material Superysics, are:

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3c"
+heading: "Unit 2"
 title: "Notating the MSQ Classification"
 # date: 2023-11-26
 image: "/graphics/physics/atomcharges.jpg"
@@ -9,7 +9,10 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 10
 icon: "Juan"
+aliases:
+  /material/principles/intro/chapter-03c/
 ---
+
 
 
 <!-- Hadrons, Baryons, Mesons, Leptons, Fermions, and Bosons -->

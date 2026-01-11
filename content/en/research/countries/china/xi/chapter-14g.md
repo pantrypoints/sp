@@ -1,6 +1,6 @@
 ---
 heading: Chapter 14g
-title: Socialism with Chinese Characteristics Enters a New Era
+title: Jointly build a new platform for international cooperation that conforms to economic globalization
 weight: 332
 date: 2025-10-13
 description: ""

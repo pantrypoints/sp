@@ -1,9 +1,10 @@
 ---
 heading: Chapter 15b
-title: Socialism with Chinese Characteristics Enters a New Era
+title: Undergoing revolutionary forging whle administering the party
 weight: 339
 date: 2025-10-13
 description: ""
+image: /flags/cn.png
 c: "firebrick"
 ---
 

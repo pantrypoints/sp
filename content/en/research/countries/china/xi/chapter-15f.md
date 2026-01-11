@@ -1,14 +1,16 @@
 ---
 heading: Chapter 15f
-title: Socialism with Chinese Characteristics Enters a New Era
+title: "There is no end to the self-revolution"
 weight: 368
 date: 2025-10-13
 description: ""
+image: /flags/cn.png
 c: "firebrick"
 ---
 
 
-3. there is no end to the self-revolution
+
+3. There is no end to the self-revolution
 
 A century of great deeds. The Party leads the people in carrying out the great social revolution and
 constantly advances, and the Party's great self-revolution will never stop.

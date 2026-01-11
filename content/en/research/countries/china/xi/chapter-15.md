@@ -1,15 +1,16 @@
 ---
 heading: Chapter 15
-title: Socialism with Chinese Characteristics Enters a New Era
+title: Unswervingly Promoting Comprehensive and Strict Party Management
 weight: 338
 date: 2025-10-13
 description: ""
+image: /flags/cn.png
 c: "firebrick"
 ---
 
 
 
-Chapter XV: Unswervingly Promoting Comprehensive and Strict Party Management
+
 
 The key to adhering to and developing the great cause of socialism with Chinese characteristics lies
 in the party, and the key lies in administering the party strictly in an all-round way. Since the 18th
@@ -23,8 +24,10 @@ the party in an all-round way is always on the road, having the courage to carry
 constantly enhancing the party's political leadership, ideological leadership, mass organization and
 social appeal, and always maintaining the party's vigorous vitality and strong combat effectiveness,
 which has become a clear symbol and goal requirement for promoting party building in the new era.
-Section 1: Comprehensively and strictly administering the
-party is always on the way
+
+
+## Section 1: Comprehensively and strictly administering the party is always on the way
+
 Strictly administering the party in an all-round way has been a distinct theme of party building since
 the 18th CPC National Congress. Comrade Xi Jinping has repeatedly stressed that the Communist
 Party of China is the core of leadership in our cause, and iron must be hardened by itself. In the new
@@ -88,18 +91,22 @@ is built for the public and the government is for the people; We must adhere to 
 and innovation and arduous struggle to ensure that the party always walks in the forefront of the
 times; We must resolutely struggle against negative and corrupt phenomena and ensure that the
 party always maintains its upright and honest political character. These understandings of laws and
-new experiences are hard-won and precious, and need to be upheld and deepened for a long time to
-become an important principle of party building in the new era.
+new experiences are hard-won and precious, and need to be upheld and deepened for a long time to become an important principle of party building in the new era.
 The core of comprehensively administering the party strictly is to strengthen the party's leadership.
+
+
 Comrade Xi Jinping pointed out: "In order to unite and lead the people to carry out great struggles,
 advance great causes, and realize great dreams, the Party must unswervingly adhere to and improve
-the Party's leadership and unswervingly build the Party into a stronger and more powerful party." 1
+the Party's leadership and unswervingly build the Party into a stronger and more powerful party."
+
+
 If the Party's leadership is weakened, or even abandoned, the Party's political status will be lost, the
 nature of socialism with Chinese characteristics will change, and the great achievements made by
 the Chinese people in their continuous struggle will be destroyed. To strengthen the party's
 leadership, it is necessary to strictly manage the party and administer the party. Administering the
 party strictly in an all-round way is an inevitable requirement for strengthening the party's leadership
 and is also an inevitable choice for strengthening the party's leadership.
+
 The foundation for comprehensively administering the party strictly lies in comprehensiveness.
 Comrade Xi Jinping once pointed out that the so-called comprehensive means to manage the whole
 party and the whole party, covering all fields, aspects and departments of party building. Obviously,

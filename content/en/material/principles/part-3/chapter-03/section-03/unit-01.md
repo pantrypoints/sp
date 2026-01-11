@@ -9,6 +9,8 @@ weight: 8
 image: /graphics/physics/vphoton.jpg
 description: "The Source of All Movement is Internal configuration, powered Externally"
 icon: "Juan"
+aliases:
+  /material/principles/part-3/chapter-03c/
 ---
 
 

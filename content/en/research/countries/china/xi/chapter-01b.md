@@ -4,6 +4,7 @@ title: 3. Historic transformation
 weight: 6
 date: 2025-10-13
 description: ""
+image: /flags/cn.png
 c: "firebrick"
 ---
 

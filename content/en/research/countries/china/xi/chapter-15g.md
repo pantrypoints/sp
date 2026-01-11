@@ -1,9 +1,10 @@
 ---
 heading: Chapter 15g
-title: "Section 4: Building the world's most powerful party"
+title: "Continuously enhance political leadership"
 weight: 374
 date: 2025-10-13
 description: ""
+image: /flags/cn.png
 c: "firebrick"
 ---
 
@@ -30,7 +31,7 @@ political leadership, ideological leadership, mass organization and social appea
 forces" are strong, the CCP can truly build the most powerful political party
 in the world.
 
-1. continuously enhance political leadership
+1. Continuously enhance political leadership
 
 Political leadership occupies a primary position in the leadership and governing ability of a political
 party, and is the basic measure of party leadership. Political leadership is composed of factors such

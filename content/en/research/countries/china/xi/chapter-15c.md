@@ -1,23 +1,25 @@
 ---
-heading: Chapter 15c
-title: Socialism with Chinese Characteristics Enters a New Era
+heading: Chapter 15c Section 2
+title: The political building of the Party is the fundamental building of the Party
 weight: 344
 date: 2025-10-13
 description: ""
+image: /flags/cn.png
 c: "firebrick"
 ---
 
 
-Section 2: The political building of the Party is the fundamental building of the Party
 
-The political building of the Party is the fundamental building of the Party and determines the
-direction and effect of Party building.
+
+
+The political building of the Party is the fundamental building of the Party and determines the direction and effect of Party building.
 
 Comrade Xi Jinping emphasized that party building in the new era should be guided by the party's
 political construction and put the party's political construction in the first place. This is a major
 proposition put forward by the party based on the new mission of the new era, with a profound
 insight into its own nature, historical experience, and the law of construction, and is a programmatic
 requirement for comprehensively promoting the new great project of party building in the new era.
+
 
 1. Put the party's political construction in the first place
 

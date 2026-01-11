@@ -169,6 +169,7 @@ Take it as far as you can go until you can not take it any further. Make sure yo
 
 Very often the ideal outcome will not be what your lower mind expect or intend. Only your Higher Self knows the ideal outcome. If you expect, then you let the lower mind overrule the higher.
 
+
 4. Choose to remain in a positive state regardless of what happens.  
 
 Stay in a positive state, but take perceptions neutrally. If you remain in a positive state, you can discover HOW it can serve you in a beneficial manner.
@@ -187,6 +188,13 @@ This activates synchronicity which is the organizing principle of the entire uni
 
 By activating this synchronicity, things in your life flow more naturally, pleasantly, and desirably for you automatically, in perfect timing.
 
+{{< n n="Our acronym is APEnPI or Act, Push, Expect-none, Positive, Investigate" >}}
+
+
+## Abundance
+
+Abundance is the ability to do *what* you **need** to do *when* you **need** to do it. 
+
 
 ## Most Powerful Mantra
 
@@ -196,4 +204,3 @@ By activating this synchronicity, things in your life flow more naturally, pleas
 ## Success
 
 If at first you don't succeed, redefine success. [and of course don't have any insistence]
-

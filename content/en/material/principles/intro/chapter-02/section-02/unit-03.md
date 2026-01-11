@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3d"
+heading: "Unit 3"
 title: "Density and Size of Particles"
 # date: 2023-11-26
 date: 2025-12-05

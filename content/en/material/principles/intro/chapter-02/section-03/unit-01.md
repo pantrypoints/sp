@@ -1,5 +1,5 @@
 ---
-heading: "Section 2"
+heading: "Unit 1"
 title: "The Medium-Substance-Quantum MSQ Model"
 # date: 2023-11-26
 image: "/graphics/physics/msq.svg"
@@ -12,6 +12,7 @@ icon: "Juan"
 aliases:
   /material/principles/intro/chapter-03b
 ---
+
 
 
 

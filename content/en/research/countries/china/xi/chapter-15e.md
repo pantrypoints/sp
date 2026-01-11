@@ -1,15 +1,15 @@
 ---
-heading: Chapter 15e
-title: Socialism with Chinese Characteristics Enters a New Era
+heading: Chapter 15e Section 3
+title: "Courageous to self-revolution"
 weight: 362
 date: 2025-10-13
 description: ""
+image: /flags/cn.png
 c: "firebrick"
 ---
 
 
 
-Section 3: Courageous to self-revolution
 
 The courage to self-revolution is the most distinctive character of the CCP and the greatest advantage of the Party.
 
@@ -154,9 +154,7 @@ the fight against corruption and clean government more symptomatic and cure. The
 such revolutions; as far as specific stages and goals are concerned, the revolution has already
 succeeded; in terms of a larger scope and a longer historical period, the revolution has not yet
 succeeded, and comrades still need to make efforts.
-China Aerospace Studies Institute
-401
-Translation published Fall 2023Basic Issues of Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era
+
 Of course, self-revolution has different historical tasks in different historical stages, embodies
 different phased characteristics, and is the unity of stages and processes."
 Reform the old and innovate, keep the right and produce new practical actions. Social life is practical

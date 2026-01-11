@@ -1,14 +1,14 @@
 ---
-heading: "Section 1"
+heading: "Introduction"
 title: "The 4 Rules of Motion"
 # date: 2023-11-26
 date: 2025-09-21
-image: "/graphics/physics/rule1.jpg"
+image: "/photos/stuff/ball.jpg"
 description: "All forces are called media which follow the 4 Rules of Motion of Descartes and Spinoza"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 8
+weight: 2
 icon: "Juan"
 aliases:
   /material/motion
@@ -21,6 +21,11 @@ Ww use 4 Rules of Motion from the 4 Properties of Waves.
 2. Straight or Circle  (Density)
 3. Collisions (Balance)
 4. State-Change (Spread)
+
+
+The singularity of Existence is proven by the Conservation Laws which produce movement according to the 4 rules of motion.
+
+You can think of the 4 rules as the implementing rules of the law of conserved motion which is from the wave nature of Existence arising from the 2 Forces.
 
 
 ## Motion Versus Movement
@@ -137,4 +142,3 @@ An easy way to understand this is to imagine the force particles as bolts that c
 
 This is why the weak force interacts only with left handed particles.
 
-  

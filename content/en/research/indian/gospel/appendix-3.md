@@ -5,7 +5,7 @@ heading: "Appendix A3"
 weight: 708
 description: ""
 aliases:
-  /research/indian/gospel/appendix/a3/
+  /research/indian/gospel/appendix/a3
 ---
 
 
@@ -75,9 +75,14 @@ After the music he got hungry. A plate of sweetmeats was sent from the inner apa
 {{< /l >}}
 
 
-KESHAB (to Rajendra Mitra, the uncle of Ram and Manomohan): "Wouldn't it be nice if you could arrange a festival like this at your house one day?"
+{{< r a="Keshab" >}}
+(to Rajendra Mitra, the uncle of Ram and Manomohan): "Wouldn't it be nice if you could arrange a festival like this at your house one day?"
+{{< /r >}}
 
-RAJENDRA: "Very good, I will. Well, Ram, you'll have to take charge of everything." 
+{{< r a="Rajendra" >}}
+Very good, I will. Well, Ram, you'll have to take charge of everything.
+{{< /r >}}
+
 
 Sri Ramakrishna was asked to go to the inner apartments, where Manomohan's mother had prepared his meal. A glass of ice-water, of which the Master was very fond, was placed near his plate.
 

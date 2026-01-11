@@ -60,8 +60,16 @@ They are connected to Nature and interact with native indigenous tribes.
 The Anunnaki are now Lyrans that are the origin of the Plaedians. 
 
 
+### Sirians
+
+Bred the Dogon, Egyptians, Atlanteans, etc during their 3rd incursion 50-100,000 years ago.
+
+
+
 
 ## Star Systems
 
 Draco constellation is recently awakening.
+
+
 

@@ -1,20 +1,26 @@
 ---
 heading: Chapter 15h
-title: "Section 4: Building the world's most powerful party"
+title: "Continuously strengthen the mass organizational strength"
 weight: 380
 date: 2025-10-13
 description: ""
+image: /flags/cn.png
 c: "firebrick"
 ---
 
 
 3. Continuously strengthen the mass organizational strength
 
-Mass organization is the ability to rely on the masses, mobilize the masses, and organize the masses
-to promote social development. As a strong political party, it should have the organizational power
-to "cheer up and respond.” The mass organizational power of the CCP is
+Mass organization is the ability to:
+- rely on the masses
+- mobilize the masses
+- organize the masses to promote social development.
+
+As a strong political party, it should have the organizational power to "cheer up and respond.” The mass organizational power of the CCP is
 universally recognized, but the mass organizational strength will not "preserve" or "increase value"
-forever. To build the most powerful political party in the world, it is necessary to continuously
+forever.
+
+To build the most powerful political party in the world, it is necessary to continuously
 strengthen the mass organizational force, stimulate the great power contained in the masses, and
 condense it into a majestic force to promote the development of the cause.
 

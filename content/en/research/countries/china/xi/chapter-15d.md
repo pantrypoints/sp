@@ -1,9 +1,10 @@
 ---
 heading: Chapter 15d
-title: Socialism with Chinese Characteristics Enters a New Era
+title: "Continuously improve the political ability of the Party"
 weight: 357
 date: 2025-10-13
 description: ""
+image: /flags/cn.png
 c: "firebrick"
 ---
 

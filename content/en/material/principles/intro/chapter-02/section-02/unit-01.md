@@ -1,5 +1,5 @@
 ---
-heading: "Section 2"
+heading: "Unit 1"
 title: "The Sublayers and the Internal Boundary"
 # date: 2023-11-02
 image: /graphics/super/layers.jpg
