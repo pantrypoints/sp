@@ -1,7 +1,7 @@
 ---
-heading: "Section 1"
-title: "The 3 Actions of the Mind"
-date: 2020-12-06
+heading: "Unit 2"
+title: "The Flow and Force of Thinking Versus Knowing"
+date: 2026-01-10
 image: /photos/meta/read.jpg
 weight: 4
 description: "Everything in existence is an idea of the Creator of that existence"
@@ -12,64 +12,8 @@ icon: "Juan"
 ---
 
 
-Everything already pre-exists in Existence as the Supreme Entity.
 
-Therefore, everything is already known and all problems are already solved from the viewpoint of the Supreme as the perfected agent of the Absolute Entity.
-- We call this the state of omniscience.
-
-However, this perfected state is also worthless. 
-
-This is why:
-- the Negative Force keeps on disturbing the perfection
-- the Positive Force keeps on realizing the value of that perfection
-
-The Imperfect state is called Existence, as the Supreme Mind, which is made up of disturbances as waves and nodes. 
-
-How the Supreme Mind realize Its own Value?
-
-{{< q a="David Hume" c="Enquiry, Section 1" >}}
-The operations of the mind are most intimately present to us. Yet, whenever we reflect on them, they seem obscure. Therefore,  science should:
-- know the different operations of the mind
-- separate them from each other
-- class them under their proper heads
-- correct all their disorder when they are inquired into
-{{< /q >}}
-
-
-
-## The 3 Actions of the Mind
-
-This Mind has 3 actions due to the 2 Forces. This matches the 3 Gunas or Influences:
-
-1. Flow (association, expansion)
-
-This is the most natural action showing the "All-ness" of Existence. The flow includes logic or how the waves of the mind naturally jumps from one idea or node to another, even without thinking.
-
-Thinking makes the jumping more forceful, which is really just adding to the flow
-
-2. Force (attraction / repulsion)
-
-Quantification or digitization or digitalization are effects of the repulsion to the continuous analog flow.
-
-Quantification creates instances that are notated as numbers.
-
-This arises from counting discrete identities as instances.
-
-This makes each instance or number a unique identity itself, each with its own quality that is revealed when they are processed with other identities.
-
-3. Memory or storage
-
-This takes the form of notation.
-
-We call these 3 the operations of the mind.
-
-{{< i s="/photos/meta/read.jpg" a="Reading" >}}
-
-
-
-
-
-## The Flow and Force of Thinking Versus Knowing
+## Knowing
 
 The integration of these node-ideas leads more and more to the state of Omniscience where all nodes are united as One.
 
@@ -101,6 +45,7 @@ Knowledge in turn validates the manifested idea. This completes the loop from th
 This is similar to the idea of Covid being validated by getting a name Covid-19, and further validated in the invention of vaccines against Covid-19. 
 
 <!-- as `g-n-o-m-o-n` without any learning of how those letters or sounds -->
+
 
 
 ## Thinking, Instinct, Thought, Cognition, Intuition, Learning, Memory, Cognition
@@ -174,4 +119,3 @@ In terms of feeling-waves:
 In thinking, the mind-node adjusts its own configuration in order to match the structure or pattern of the nodes that flow through it.
 
 This is because nodes are just bunched-up waves. And so they can recur just like waves do.  
-

@@ -1,12 +1,10 @@
 ---
-heading: "Section 1"
-title: "What is Supermath?"
+heading: "Unit 1"
+title: "Supermath: Filling Mathematical Voids"
 date: 2025-03-08
 image: "/graphics/math/math.jpg"
 description: "Supermath"
 weight: 4
-aliases:
-  /supermath/chapter-01/
 ---
 
 
@@ -49,6 +47,9 @@ So we classify numerical voids into 2:
 
 A what needs to be resolved. This means it takes a material or physical form i.e. It gets parallelism into physical domain
 
+`1 + 1 = what`
+
+
 2. A 'filler'
 
 A filler does not need to be resolved. This means it keeps its abstract or aethereal or metaphysical form, i.e. It stays as an abstract effect that proves the aether. This is now called an imaginary number. 
@@ -68,3 +69,5 @@ The goals of qualimath are:
 - to have a system of processing the aethereal phenomena to get specific answers (ideas)
 - to align with the mathematical systems of advaned aliens.
   - For example, the Essassani no longer use numbers. Instead, they use shapes, as what was proposed by Pythagoras, Timeaus, and Hinduism as mandalas and yantras.
+
+

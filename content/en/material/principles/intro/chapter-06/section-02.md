@@ -13,8 +13,18 @@ icon: "Juan"
 ---
 
 
+Constants are ratios within Nature. Superphysics classifies constants into 2:
 
-The constants in Nature are the fixed ratios between the 5 Layers. 
+1. Astract (Mental) Constants 
+
+This incldues:
+- mathematical or geometric constants such as pi
+- aesthetic ratios like the golden ratio
+
+
+2. Physical Constants
+
+These are constants in physical Nature as the fixed ratios between the 5 Layers. 
 
 
 

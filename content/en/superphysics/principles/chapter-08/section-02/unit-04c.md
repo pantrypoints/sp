@@ -1,5 +1,5 @@
 ---
-heading: "Section 6"
+heading: "Unit 4c"
 title: "The Ratio Sign as Mind Splitter"
 date: 2020-12-27
 weight: 505

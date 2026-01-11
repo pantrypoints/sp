@@ -1,5 +1,5 @@
 ---
-heading: "Section 9"
+heading: "Unit 6"
 title: "How to Prevent Logical Fallacies"
 date: 2019-01-02
 weight: 514
@@ -56,5 +56,3 @@ Socrates suggests it be taught to people 30 years old and above:
 {{< q a="Socrates" c="Republic Book 7" >}}
 Therefore, that your feelings may not be moved to pity about our citizens who are now thirty years of age, every care must be taken in introducing them to dialectic. 
 {{< /q >}}
-
-

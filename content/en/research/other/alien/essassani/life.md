@@ -7,8 +7,8 @@ author: Consolidated from Bashar
 ---
 
 
-(Bashar's Birthday is November 11, 2312)
 
+(Bashar's Birthday is November 11, 2312)
 
 
 ## The Uniqueness of Each Incarnation
@@ -99,4 +99,10 @@ And, like a mirror, when you change your internal Beliefs, Thoughts, & Feelings,
 
 HOW is all this occurring?    It is your Higher Mind that is functioning as a holographic mirror, to create a holographic bubble around you, that is your "perceived external reality".
 
+
+
+## Reincarnation
+
+Reincarnation is not linear.
+- Your past life is different in each moment as you change in each moment.
 

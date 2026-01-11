@@ -1,5 +1,5 @@
 ---
-heading: "Section 2"
+heading: "Unit 3"
 title: "The 4 Operations of Thinking"
 date: 2020-12-06
 image: /photos/psych/think.jpg
@@ -139,3 +139,5 @@ Separation Category:
 - Ignorance or Forgetting
 - etc -->
 <!-- - Factorials and Multiples -->
+
+

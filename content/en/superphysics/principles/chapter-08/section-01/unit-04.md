@@ -1,5 +1,5 @@
 ---
-heading: "Section 3"
+heading: "Unit 4"
 title: "Critical Thinking is from the Upper Part of the Lower Mind"
 date: 2020-12-27
 weight: 490
@@ -13,6 +13,8 @@ writer:
 aliases:
   /superphysics/principles/chapter-08c  
 ---
+
+
 
 
 The previous section explained that the thinking process uses flow and force, with emphasis on force. 

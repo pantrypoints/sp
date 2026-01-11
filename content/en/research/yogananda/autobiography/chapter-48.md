@@ -12,21 +12,30 @@ weight: 400
 
 “A surprise, sir! During your absence abroad we have had this Encinitas hermitage built; it is a ‘welcome-home’ gift!” Sister Gyanamata smilingly led me through a gate and up a tree-shaded walk.
 
-I saw a building jutting out like a great white ocean liner toward the blue brine. First speechlessly, then with “Oh’s!” and “Ah’s!”, finally with man’s insufficient vocabulary of joy and gratitude, I examined the ashram-sixteen unusually large rooms, each one charmingly appointed.
+I saw a building jutting out like a great white ocean liner toward the blue brine.
 
-The stately central hall, with immense ceiling-high windows, looks out on a united altar of grass, ocean, sky-a symphony in emerald, opal, sapphire. A mantle over the hall’s huge fireplace holds the framed likeness of Lahiri Mahasaya, smiling his blessing over this far Pacific heaven.
+I examined the ashram. It was 16 unusually large rooms, each one charmingly appointed.
 
-Directly below the hall, built into the very bluff, two solitary meditation caves confront the infinities of sky and sea. Verandahs, sun-bathing nooks, acres of orchard, a eucalypti grove, flagstone paths leading through roses and lilies to quiet arbors, a long flight of stairs ending on an isolated beach and the vast waters! Was dream ever more concrete?
+<!-- The stately central hall, with immense ceiling-high windows, looks out on a united altar of grass, ocean, sky-a symphony in emerald, opal, sapphire. 
+
+A mantle over the hall’s huge fireplace holds the framed likeness of Lahiri Mahasaya, smiling his blessing over this far Pacific heaven. -->
+
+Directly below the hall, built into the very bluff, two solitary meditation caves confront the infinities of sky and sea.
+
+<!-- Verandahs, sun-bathing nooks, acres of orchard, a eucalypti grove, flagstone paths leading through roses and lilies to quiet arbors, a long flight of stairs ending on an isolated beach and the vast waters! Was dream ever more concrete? -->
+
 
 “May the good and heroic and bountiful souls of the saints come here,” reads “A Prayer for a Dwelling,” from the Zend-Avesta, fastened on one of the hermitage doors, “and may they go hand in hand with us, giving the healing virtues of their blessed gifts as widespread as the earth, as far-flung as the rivers, as high-reaching as the sun, for the furtherance of better men, for the increase of abundance and glory.
 
+
 “May obedience conquer disobedience within this house; may peace triumph here over discord; free-hearted giving over avarice, truthful speech over deceit, reverence over contempt. That our minds be delighted, and our souls uplifted, let our bodies be glorified as well; and O Light Divine, may we see Thee, and may we, approaching, come round about Thee, and attain unto Thine entire companionship!”
 
-encinitas
 
 ### Encinitas, California, overlooking the Pacific. Main building and part of the grounds of the Self-Realization Fellowship
 
-This Self-Realization Fellowship ashram had been made possible through the generosity of a few American disciples, American businessmen of endless responsibilities who yet find time daily for their Kriya Yoga. Not a word of the hermitage construction had been allowed to reach me during my stay in India and Europe. Astonishment, delight!
+This Self-Realization Fellowship ashram had been made possible through the generosity of a few American disciples, American businessmen of endless responsibilities who yet find time daily for their Kriya Yoga.
+
+Not a word of the hermitage construction had been allowed to reach me during my stay in India and Europe. Astonishment, delight!
 
 During my earlier years in America, I had combed the coast of California in quest of a small site for a seaside ashram.
 
@@ -109,11 +118,13 @@ Another Self-Realization Church of All Religions was founded in 1943 at San Dieg
 Sitting one evening in this tranquil haven, I was pouring out my heart in song. Under my fingers was the sweet-toned organ of the church, on my lips the yearning plaint of an ancient Bengali devotee who had searched for eternal solace:
 
 
-  In this world, Mother, none can love me;
-  In this world they do not know love divine.
-  Where is there pure loving love?
-  Where is there truly loving Thee?
-  There my heart longs to be.
+In this world, Mother, none can love me;
+In this world they do not know love divine.
+Where is there pure loving love?
+Where is there truly loving Thee?
+There my heart longs to be.
+
+
 
 My companion in the chapel, Dr. Lloyd Kennell, the San Diego center leader, was smiling a little at the words of the song.
 
@@ -156,11 +167,10 @@ Dr. Lewis and I halted above the lotus pool near the hermitage. Below us lay the
 
 “As soon as possible,” I went on, “I plan to open a Yoga Institute here. The blessed role of Kriya Yoga in the West has hardly more than just begun. May all men come to know that there is a definite, scientific technique of self-realization for the overcoming of all human misery!”
 
-sanfr
 
 Speakers at a 1945 Interracial Meeting in San Francisco during the convening of the Peace Conference. (Left to right) Dr. Maneck Anklesaria, John Cohee, myself, Hugh E. MacBeth, Vince M.
 
-premananda
+
 
 The Self-Realization Church of All Religions in Washington, D.C., whose leader, Swami Premananda, is here pictured with me
 father2

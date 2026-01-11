@@ -155,5 +155,3 @@ In a better universe (with qualimath as the norm), Russia, Ukraine, and NATO wil
 
 In this universe, such a softening can be encouraged by emphasizing the abstract, flexible aether, over rigid and hard solid matter.
 {{< /box >}} -->
-
-
