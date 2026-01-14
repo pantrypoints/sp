@@ -35,7 +35,7 @@ The resulting existence is called Brahma including visible, invisible, and physi
 
 {{< i s="/graphics/super/absolute.svg" a="The Absolute" c="The metaphysical domain is much much larger than the physical domain despite having no physical size" >}}
 
-For those who are allergic to religion and think that Brahma is a religious word, we can use the layman term **Totality of Existence**, or Existence with a capital 'e', instead. 
+For those who are allergic to religion and think that Brahma is a religious word, we can use the layman term **Totality of Existence**, or Existence with a capital 'e', instead.
 
 
 To know Itself, the Absolute Entity expresses ideas and feelings which then converts Itself into the Supreme Entity with an abstract space for that expression.  
@@ -74,6 +74,3 @@ This is the space that results from the perception of the identities within Exis
 This is called Citta in Buddhism and Hinduism.
 
 {{< youtube Nx9P2e2JVUc >}}
-
-
-

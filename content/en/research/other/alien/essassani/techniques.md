@@ -17,7 +17,6 @@ Do not accept beliefs that devalue you.
 
 ## 2 Quick Techniques for Manifesting your Preferred Reality
 
-
 ### First Quick Technique
 
 1. Get a clear Vision or Intention of what you would like your preferred Reality (your preferred Life) to be like.
@@ -74,3 +73,4 @@ Your Higher Mind can produce a manifestation that is far greater than what the h
 Do not prevent your Higher Mind from giving you something profoundly-better than your visualization, by insisting that it " must " manifest only in the form you are visualizing.
 
 <!-- Remember to Give the visualization to your Higher Mind, and then Let go of the need that it manifest in the form you were visualizing. -->
+

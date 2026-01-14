@@ -1,5 +1,5 @@
 ---
-heading: Section 8
+heading: Unit 5c
 title: "Qualimath Applied to Logical Fallacies"
 # title: "The Meaning of Red Herring, Ad Hominem, etc"
 date: 2020-09-29

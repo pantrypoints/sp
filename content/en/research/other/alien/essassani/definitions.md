@@ -11,6 +11,7 @@ Definitions are very important to the Essassani because these make up the compon
 Word | Definition 
 --- | ---
 abundance | The ability to do what you need to do, when you need to do it. (Money is merely one of innumerable ways to express & experience abundance.)
+anger | Natural anger is the lasts 15 seconds. It shows that the situation is not in alignment with your true self. Anything beyond that is judgement. 
 anxiety | The energy of excitement, but filtered through a belief in something undesirable or unpreferred. Anxiety is excitement with a negative judgement. Remove the negative judgment, and you have excitement.
 conscience | the soul sending true vibrations
 discernment | Selecting and acting on your preference from the available options
@@ -32,3 +33,4 @@ trust | Trust is the same as "what you believe". You are always totally trusting
 try | "Try" implies you are keeping the back-door open for failure. The word "try" presumes you are believing there is a large possibility of NOT achieving your goal. "Trying to do" something is totally different than "doing" that something.
 unconditional love | Unconditional Love is the granting of validity,  for all beings and everything to exist - just as they are.
 worthiness |	The mere fact that you EXIST makes you worthy of anything you want. Your EXISTENCE and WORTHINESS are more fundamental than any beliefs you may have about them.   (They exist prior to any beliefs about them.)
+

@@ -13,10 +13,39 @@ icon: "Rene Descartes"
 ---
 
 
-## 39. The Second law of nature: Every motion in itself is straight. Things which move in a circular manner  always tend to move away from the center of the circle which they describe.
+## 39. The Second law of nature: Every body in motion tends to continue its motion in a straight line.
 
 
-The second law of nature is: each particle of matter, considered separately, moves only along straight lines.
+<!-- Every motion in itself is straight.
+Things which move in a circular manner  always tend to move away from the center of the circle which they describe. -->
+
+
+Each individual particle of matter tends to continue moving in straight lines, even though many of these particles are often forced to deviate as they encounter others in their path
+
+<!-- never  along curved lines but rather along  -->
+
+Whenever a body moves, there is always formed a circle or ring of all the matter moved together.
+
+This rule, like the preceding one, depends on the fact that God:
+- is immutable
+- preserves motion in matter by a very simple operation
+
+**He does not preserve it as it might have been some time before, but precisely as it is at the very instant He preserves it.**
+
+Motion does not occur in an instant.
+- Nevertheless, every moving body moves along a straight line and not along a circular one
+
+<!-- For when the stone `A` spins in the sling (see Figure 1 of Plate 2), following the circle `ABF`, at the instant it is at point `A`, it is determined to move toward some direction, namely toward C, along the straight line AC (assuming this is the line tangent to the circle).
+
+But one cannot suppose it is determined to move circularly, because even though it has come from L toward A along a curved line, we do not conceive that there is any part of this curvature in the stone when it is at point A. And we are assured of this by experience, because this stone advances straight toward C when it leaves the sling and does not tend in any way to move toward B.
+
+This shows us clearly that every body moving in a circle constantly tends to move away from the circle it describes. And we can even feel this with our hand while we spin the stone in the sling, for it pulls and stretches the cord to move directly away from our hand. This consideration is of such importance and will be used in so many places hereafter that we must carefully note it here; and I will explain it more fully when the time comes. -->
+
+
+
+
+
+<!-- The second law of nature is: each particle of matter, considered separately, moves only along straight lines.
 
 Many are often forced to deflect due to encounters with others.
 
@@ -26,7 +55,7 @@ This has the same cause as the First Law -- the immutability and simplicity of h
 
 He preserves it precisely every time, without any consideration of what it might have been earlier.
 
-No motion happens in an instant. Yet everything which is moved, in each instant while it is being moved, continues its motion in a straight line, never along a curved line. 
+No motion happens in an instant. Yet everything which is moved, in each instant while it is being moved, continues its motion in a straight line, never along a curved line.  -->
 
 <!-- For example, the stone A, rotated in the sling EA through the circle ABF, at the instant when it is at point A, is indeed determined to move towards some part, namely according to the straight line towards C, so that the straight line AC is the tangent of the circle. However, it cannot be imagined to be determined towards any curved motion: for although it previously came from L to A through a curved line, nothing of that curvature can be understood to remain in it while it is at point A. And this is also confirmed by experience, because if it then exits the sling, it does not continue to move towards B, but towards C. From this it follows that any body which moves in a circular manner perpetually tends to move away from the center of the circle it describes. As we experience with our very senses in the case of a stone, while we whirl it around in a sling. And because this consideration will often be used in what follows, it will be diligently noted and more fully explained below." -->
 

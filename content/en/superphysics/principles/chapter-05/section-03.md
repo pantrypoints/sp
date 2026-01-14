@@ -1,6 +1,6 @@
 ---
-title: "The Connection of Ideas"
 heading: "Section 3"
+title: "The Connection of Ideas"
 date: 2024-02-24
 weight: 10
 image: /graphics/meta/ideas.jpg

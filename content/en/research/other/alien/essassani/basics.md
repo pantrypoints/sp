@@ -198,9 +198,16 @@ Abundance is the ability to do *what* you **need** to do *when* you **need** to 
 
 ## Most Powerful Mantra
 
-"I am who I am, and that is enough"
+**"I am who I am, and that is enough"**
+
+- Repeat 3 times as you wake up or go to sleep
+- See what synchronicity brings
+- Let go of all limitations, assumptions, insistences that don't align with your true core
+
 
 
 ## Success
 
 If at first you don't succeed, redefine success. [and of course don't have any insistence]
+
+
