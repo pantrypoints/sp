@@ -1,105 +1,77 @@
 ---
 heading: "Section 1"
-title: "The Metaphysics of Value"
-# date: 2022-03-28
-dateorig: Originally written in 2016
-weight: 10
-image: /photos/econ/bake.jpg
-description: "To prevent economic disorder, we correct the mistakes of Economics by introducing he Four Laws of Value derived from Adam Smith"
-# In line with Superphysics, Superphysics sees value as a wave and price as a particle
+linkTitle: "4 Kinds of Exchangeable Value"
+title: "The Four Kinds of Exchangeable Value from Relativistic Pricing"
+# date: 2022-03-26
+image: /graphics/econ/laws.png
+weight: 15
+description: "The previous part explained that exchangeable value has different perspectives and scopes"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
-toc: false
 ---
 
 
-{{< dc t="Principles" >}}
-Principles | Assertions
+
+The previous part explained that exchangeable value has different perspectives and scopes, which is the implementation of Cartesian Relativty into Economics.
+
+We began with a bilateral exchange, as:
+- buyer
+- seller
+
+We also introduced use values, cultural values, sentimental values, etc. These can be regarded as either personal or societal. 
+- The personal values are derived from the nature of the person-organism
+- The societal values are derived from the nature of the society-organism 
+
+Valuation | Source
 --- | ---
-Value is subjectivized desire, Prices are objectivized desire | The desires in the physical domain follow the 4 Laws of Thermodynamics
-. | The desires in the economic domain follow the 4 Laws of Exchangeable Value
-{{< /dc >}}
+Use | Personal
+Exchange | Society
+Sentimental | Personal
+Cultural | Society
+
+
+This leads to the four kinds of exchangeable value:
+
+Price | Perspective | Scope
+--- | --- | ---
+1 Nominal Price | Buyer | Personal
+2 Real Price | Seller | Personal
+3 Natural Price | Seller | Social
+4 Market Price | Seller | Social
+
+
+### The Paradox of Value in Economics Leading to Sinister Profit Maximization
+
+Economics uses the difference between use-value and nominal exchangeable value to create a non-problem called the "paradox" of value.
+
+This paradox states that water is essential to life and has a high use-value, but is nominally cheap. Diamonds, on the other hand, are nominally expensive but have low use-value. So economists create the concept of marginal utility to "solve" the paradox.
+
+
+Thing | Use Value | Exchangeable Value
+--- | --- | ---
+Diamonds | Low | High
+Water | High | Low 
 
 
 
-{{< q a="Adam Smith" c="Book 1, Chapter 3 of The Wealth of Nations Simplified" >}}
-I shall explain [exchangable value] as fully as I can. I earnestly hopefor the reader's patience to examine something tedious, and his attention to understand what may still be obscure after the fullest explication.
-{{< /q >}}
+Marginal utility says that the frequent consumption of an item, such as water, reduces the utility or use-value of that item. Therefore, to make it more valuable, its consumption should be limited. 
 
-<!-- I am always willing to run some hazard of being tedious in order to be sure that I am perspicuous; and after taking the utmost pains that I can to be perspicuous, some obscurity may still appear to remain upon a subject in its own nature extremely abstracted. -->
+For example, if we drink 4 liters of water everyday, then we will appreciate water twice more if we only had 2 liters daily. This would then raise its use-value and subsequently its nominal exchangable value to be more like diamonds.
 
+This then leads to its child concept called **utility or profit maximization** that would urge us to sell this scarce water to get more nominal revenue and riches for ourselves. 
 
-Supereconomics falls under [Social Superphysics](/social).
+This says that we should find a sweet spot via maximization wherein we can cut the supply of water to give us higher revenues, but not too much that it would kill our market (by dying from thirst, for example).
 
-Superphysics is a paradigm that sees reality as waves that manifest as particles. This is different from science which prefers particles over waves. The scientific paradigm seems to be changing, as proven by electrons nowadays being regarded as a probability 'cloud' instead of as a material point. 
+All of this is morally absurd, yet this is what Economic Calculus teaches. This can be seen most commonly in the prices of oil, utilities, medical services, and real estate which everyone needs. 
 
+To Adam Smith and Supereconomics, **use-value should not be compared to exchangeable value just as apples should not be compared to oranges**. This is because:
+- use-value is personal
+- exchangeable value is social
 
-## Value versus Price, Subjective versus Objective
+> Use-value should not be compared to Exchangeable value
 
-These waves in economics manifest as 'value' which represent the **abstract feelings of worth** (from Latin *valere*). This worth is the ability of something to produce usefulness & pleasure, or reduce pain & stress. 
+Without the comparison, no paradox is created and no profit maximization, artificial scarcity, and social suffering is created for personal gain.
 
-Particles in economics manifest as 'prices' (from Latin *pretium* whic means 'reward' or 'prize'). These are **objective ideas of worth**, manifesting as a discrete number.
+Instead of The Paradox of Value, Supereconomics uses The Value of Rarity which will be explained in Part 1.  
 
-- 'Value' can be imagined as a fluffy cloud with no specific boundaries, or as water in a stream that isn't contained as a single object
-- 'Price' can be imagined as a cotton ball that has been compressed as to give it a specific shape, or as a water in a glass that has a specific measure, such as 100mL
-
-Economics is full of **specific numbers** as GDP, population size, unemployment rate, trade deficit, etc, but only has a few concepts of **abstract value**. 
-
-For example, the economic value of a bridge is more abstract than its cost-price.
-- Its economic value has a range such as $1b-$1.5b over 10 years. This is a "fluffy" prediction.
-- Its cost price is a specific number such as $100m, paid in 2010. This is exact down to cents, if the accountant is diligent enough. 
-
-
-### The 'Heat' or Thermodynamics of Desire
-
-**Value thus has the same dynamics as inexact fluctuating waves, while price has the dynamics of exact fixed particles.** Value is more fundamental* than prices just as waves are more fundamental than particles. 
-
-If value were a moving desire-entity, then price would be a snapshot of that desire taken at a certain time.
-
-<!-- f f="*This is proven by the Japanese character for value and those for price 値段. Fundamental perceptions like person 人 and day 日 get one character, while their derivative ideas like Chinese person 中国人 and Monday 月曜日 have characters added to them." -->
-
-
-
-{{< img alt="People showing number cards" cap="Prices depend on the perceiver's mind. This ultimately makes it a metaphysical issue, which is an expertise of Supereconomics" src="https://sorasystem.sirv.com/photos/prices.jpg" >}}
-
-
-We can say that value is the cause, and price is just the effect*. 
-
-
-{{< f f="*Socrates calls them shadows" >}}
-
-
-You can hand out prizes such as trophies, but not the value that they represent such as being brightest in class. It is possible to buy an award, yet not be worthy of it.  
-
-The engine of value is desire. <!-- The cause of value therefore is the feeling called 'desire', of which the strongest is the ego or the feeling or desire of the self. -->
-
-- Western philosophies, such as liberalism, utilitarianism, and objectivism, teach the **pursuit** of desire
-- Asian philosophies, such as Buddhism, Hinduism, and Taoism, teach the **renunciation and control** of desire
-
-
-{{< img alt="Stock price chart" src="https://sorasystem.sirv.com/graphics/price.jpg" cap="Supereconomics, as a subset of Social Superphysics, implements these wave-particle principles as values and prices" >}}
-
-
-This desire is a product of the mind and thus exists in the metaphysical dimension. Its physical counterpart is physical energy as heat, calories, joules, etc. 
-
-The rules for physical energy are described as **the Four Laws of Thermodynamics**. We carry over these laws onto Supereconomics as **the Four Laws of Value** which operate on human desire*.
-
-
-Thus:
-- the metaphysical dimension has desire, with its dynamics explained by the four laws of value
-- the physical dimension has energy, with its dynamics explained by the four laws of themodynamics
-
-
-The Celsius degrees in thermodynamics then manifest as currency prices in Supereconomics. This lets us fit all the principles of Supereconomics elegantly under the four headings of the 4 Laws of Value. 
-
-{{< i s="/graphics/econ/laws.png" a="Laws of Value" >}}
-
-
-This classification is different from the messy* organization of Economics as micro-macro-economics, behavioral, political economy, development economics, etc.
-
-{{< f f="*Such a mess is what happens when people build something in an uncoordinated way or without looking at the very big picture. In contrast, our Supereconomics is a subset of Social Superphysics which is itself a subset of Superphysics." >}}
-
-
-Before we explain the four laws of value, we have to explain the different kinds of value. 

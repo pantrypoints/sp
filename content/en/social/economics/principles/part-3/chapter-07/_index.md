@@ -1,6 +1,6 @@
 ---
-heading: "Chapter 3"
-title: "Concepts for Balance"
+heading: "Section 2"
+title: "Demand Ratios"
 date: 2015-01-17
 weight: 22
 c: royalblue

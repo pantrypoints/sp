@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 4"
+heading: "Section 1"
 title: "The Usufruct Economy"
 weight: 24
 date: 2018-06-03

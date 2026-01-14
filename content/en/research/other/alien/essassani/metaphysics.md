@@ -12,14 +12,22 @@ author: Consolidated from Bashar
 belief
 emotion
 thought pricess
+-->
 
 
-Yahyel
-Tall Whites Hyper Sapiens
-Sirians
-Plaedians
-Good Grays
- -->
+
+## Mandates of the Insitute of Applied Metaphysics 
+
+1. Explore all ancient philosophical ideas and extract knowledge to be applied practically in medicine, tech, etc. 
+
+This gets information from metaphysical knowledge that can be applied to tech and disciplines to expand their understanding and create products that lead to expansion and awareness.
+
+
+2. Apply general knoweldge and use learning techniques and archives of knowledge.
+
+This is the learning aspect.
+
+This creates a curriculum at school to learn at whatever a person needs and is capable of learning.
 
 
 
@@ -139,4 +147,3 @@ Moving the mouse to the desired choice is like focusing your imagination on one 
 Metaphysical energy has a time lag with physical reality.
 
 So it's possible to sense something before it happens. 
-

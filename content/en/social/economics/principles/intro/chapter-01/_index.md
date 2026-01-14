@@ -1,7 +1,7 @@
 ---
-heading: "Introductory Part"
-title: "The Metaphysics Of Value and Society"
-linkTitle: Intro
+heading: "Chapter 1"
+title: "The Metaphysics of Society"
+linkTitle: Society
 description: Textbook of Economic Superphysics
 image: /photos/meta/heart.jpg
 # date: 2022-08-10

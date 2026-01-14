@@ -6,6 +6,7 @@ title: "Exchangeable Value as Relativistic Pricing"
 image: /photos/buy.jpg
 weight: 13
 description: "We replace Marginal Utility with Minimum Requirements since use-value is subjective "
+# was chapter 4b
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

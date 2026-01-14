@@ -103,5 +103,3 @@ A. Some might be donating from a feeling of lack. The sharing or donation must n
 
 Ideally, your resources would increase that you would have to think about whether to donate or not.
 
-
-

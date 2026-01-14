@@ -44,6 +44,13 @@ Noah was Atlantean.
 Aztec and Basque have Atlantean DNA.
 
 
+
+The Atlantean technique to communicate with plants and animals is to imagine themselves as the plant or animal. 
+- Plants are happy to provide nectar to others
+- They can see the appreciation in others and they use that energy to bloom
+
+
+
 ## Lemuria
 
 Lemurians in South Pacific had blue skin as direct descendants of Anunnaki. 

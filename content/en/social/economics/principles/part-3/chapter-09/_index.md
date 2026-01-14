@@ -1,7 +1,6 @@
 ---
-heading: "Section 4"
-title: Imbalance from the Trader Class
-linkTitle: Traders
+heading: "Chapter 9"
+title: Imbalance
 description: The Trader Class cause imbalance
 # image: /graphics/econ/law3.jpg
 c: royalblue

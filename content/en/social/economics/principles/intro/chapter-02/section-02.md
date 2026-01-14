@@ -1,11 +1,12 @@
 ---
-heading: "Chapter 3b"
-linkTitle: Chapter 3b
+heading: "Section 2"
 title: "The Different Kinds of Values"
+linkTitle: Kinds of Values
 # date: 2022-03-26
 image: /photos/objects/cake.jpg
 weight: 11
 description: "Unlike Economics, Superphysics takes into account cultural value and sentimental value"
+# /so/ec/p/i/c3b
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

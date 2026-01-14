@@ -6,7 +6,6 @@ description: "The Triple 'A' Formula is based on the Triple 'A' Automative Assoc
 ---
 
 
-
 ## Neurological Pathways (from 15 Minutes and Counting)
 
 Every thought or feeling or belief that you have changes the wiring of your brain. 
@@ -24,9 +23,6 @@ Hard wiring leads to more hard wiring into the reality that you desire.
 Beliefs reinforce themselves through a mechanism of self-reinforcement for them to be real. 
 
 Negative beliefs have an array of tricks to make them impenetrable. 
-
-
-
 
 
 
@@ -65,4 +61,14 @@ In Atlantean classes, the teacher would tap a drum to create a rhythm that start
 
 
 You need to be in the excited state to be inspired. 
+
+
+
+
+## Education of the Future
+
+Education will be more experiential.
+
+Instead of learning about sailing ships through a lecture, the learners will actually sail ships. 
+
 
