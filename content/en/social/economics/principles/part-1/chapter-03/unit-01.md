@@ -1,9 +1,10 @@
 ---
-heading: "Chapter 3"
-linkTitle: Chapter 3
+heading: "Unit 1"
+linkTitle: Stores of Value
 title: "Resource Mechanisms: Stores of Value"
 date: 2022-08-24
 # date: 2022-08-22
+# 3
 weight: 14
 image: /photos/objects/money.jpg
 description: "Economics uses money both as a store of value and tool of trade. Supereconomics uses three tools--money, points, and barter"

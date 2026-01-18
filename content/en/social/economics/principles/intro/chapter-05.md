@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 5"
 title: "Arrangement of Chapters"
-weight: 19
+weight: 29
 # date: 2022-03-24
 image: "/photos/econ/writer.jpg"
 description: "Here is the Arrangement of Chapters"

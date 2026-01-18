@@ -1,11 +1,12 @@
 ---
-heading: "Chapter 3b"
-linkTitle: Chapter 3b
+heading: "Unit 2"
+linkTitle: Grains
 title: "Grains as the Store of Value"
 date: 2022-08-24
 weight: 15
 image: /photos/grains.jpg
 description: "Economics uses money both as a store of value and tool of trade. Supereconomics uses three tools--money, points, and barter"
+# 3b
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

@@ -72,3 +72,26 @@ Education will be more experiential.
 Instead of learning about sailing ships through a lecture, the learners will actually sail ships. 
 
 
+
+
+## Educating Children
+
+First be your true self so your children will understand the concept of the true self. 
+
+Teach them that they are self-empowered beings. 
+
+Let them understand physical reality by giving them a safe space to see the consequences of actions. 
+
+Let your children discover their passion through a safe environment. 
+
+Find what excites them the most.
+
+Adapt the lesson to their excitement through real scenarios. 
+
+
+Use story structure to teach lessons as it is the best way to absorb and remember lessons. 
+- Hit story structure points
+- Tell stories of empowerment
+
+
+

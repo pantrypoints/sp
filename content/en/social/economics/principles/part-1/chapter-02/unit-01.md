@@ -1,6 +1,6 @@
 ---
-heading: "Chapter 2"
-linkTitle: Chapter 2
+heading: "Unit 1"
+linkTitle: Hierarchy of Needs
 title: "Replacing Utility with a Flexible Hierarchy of Needs"
 date: 2025-08-09
 # date: 2015-08-20

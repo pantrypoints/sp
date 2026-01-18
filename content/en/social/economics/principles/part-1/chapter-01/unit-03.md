@@ -1,6 +1,6 @@
 ---
-heading: "Chapter 1c"
-linkTitle: Chapter 1c
+heading: "Unit 3"
+linkTitle: Consumption Motive
 title: "The Consumption Motive"
 date: 2020-04-07
 # date: 2022-08-22
@@ -11,6 +11,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
+
 
 
 The previous section explained that fellow economic feeling or common economic interest is the glue that:
@@ -110,3 +111,4 @@ The men of business stoop as they walk. They pretend not to see those whom they 
 It would be extremely difficult to convince a gambler not to gamble, or a wolf not to be a wolf, especially if his society has moral systems that promote gambling or even wolf-like behavior. 
 
 In the Republic, Socrates explained how societies could easily fall into a "might is right" philosophy. He advocated a modular system of city-states that was to be led by incorruptible Guardians who deploy social contracts that can work even without money. In this way, the Guardians can check against predatory behavior while spurring economic activity. -->
+

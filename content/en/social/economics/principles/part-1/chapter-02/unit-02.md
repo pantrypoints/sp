@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 2b"
-linkTitle: Chapter 2b
+linkTitle: Minimum Needs
 title: "Demand Power: Minimum needs"
 date: 2025-08-09
 # date: 2024-08-27

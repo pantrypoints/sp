@@ -103,3 +103,24 @@ A. Some might be donating from a feeling of lack. The sharing or donation must n
 
 Ideally, your resources would increase that you would have to think about whether to donate or not.
 
+
+
+## Gold
+
+The electrons in gold spin nearly in the speed of light. That is why humans are so attracted to it. 
+
+They have high frequency that can be imparted to other elements.
+
+The ways to transfer frequency are:
+- chemically 
+- energetically
+- homeopathy, etc.
+
+Humans have monatomic elements in your body that you can spin up and transfer to others.
+
+Crystals also have monatomic elements.
+
+
+
+
+

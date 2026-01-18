@@ -19,7 +19,9 @@ Reptilians | Genetically manipulated dinosaurs
 Sirians | These are the good aquatic aliens and source of RH negative blood type and dolphins
 Tall Whites | Nordics
 Marbles | 10 feet spheres 12 tentacles roll around
+Virgo | Bashar is not allowed to discuss them
 
+ 
 <!-- The inside out universe  -->
 
 
@@ -72,4 +74,8 @@ Bred the Dogon, Egyptians, Atlanteans, etc during their 3rd incursion 50-100,000
 Draco constellation is recently awakening.
 
 
+
+## Hybrid Children
+
+Maui will be the sanctuary for the hybrid children
 

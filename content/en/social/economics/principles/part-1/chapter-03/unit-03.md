@@ -1,7 +1,7 @@
 ---
 title: "Pointization: Basic Points Revenue"
-heading: "Chapter 3c"
-linkTitle: Chapter 3d
+heading: "Unit 3"
+linkTitle: Pointization
 weight: 38
 date: 2020-08-20
 image: /photos/econ/bake.jpg

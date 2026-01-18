@@ -5,5 +5,5 @@ linkTitle: Intro
 description: Textbook of Economic Superphysics
 image: /photos/meta/heart.jpg
 # date: 2022-08-10
-weight: 4
+weight: 14
 ---
