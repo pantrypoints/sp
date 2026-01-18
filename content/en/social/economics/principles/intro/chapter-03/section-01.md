@@ -4,7 +4,7 @@ linkTitle: "4 Kinds of Exchangeable Value"
 title: "The Four Kinds of Exchangeable Value from Relativistic Pricing"
 # date: 2022-03-26
 image: /graphics/econ/laws.png
-weight: 15
+weight: 5
 description: "The previous part explained that exchangeable value has different perspectives and scopes"
 writer:
   name: Juan

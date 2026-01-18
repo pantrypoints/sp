@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 3"
-title: "Concepts for Balance"
+title: "Regulations"
 date: 2015-01-17
-weight: 22
-c: royalblue
-description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
+weight: 12
+image: "/photos/social/lawmaker.jpg"
+description: "Regulations create balance"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

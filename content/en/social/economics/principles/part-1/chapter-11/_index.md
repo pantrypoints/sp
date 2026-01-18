@@ -1,8 +1,8 @@
 ---
-heading: "Chapter 8"
-title: The Dynamics of Need
-description: The Dynamics of Need is adddressed by the 1st Law
-image: /photos/econ/prices.jpg
-weight: 22
+heading: "Chapter 11"
+title: The Worker Class
+description: The Worker Class is the 1st Law
+image: /photos/econ/worker.jpg
+weight: 122
 ---
 

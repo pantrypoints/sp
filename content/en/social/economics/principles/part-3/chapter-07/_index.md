@@ -1,11 +1,13 @@
 ---
-heading: "Section 2"
-title: "Demand Ratios"
+heading: "Chapter 7"
+title: "NDP and Industry Ratios"
 date: 2015-01-17
-weight: 22
-c: royalblue
-description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
+weight: 32
+image: /photos/econ/pool.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
+
+

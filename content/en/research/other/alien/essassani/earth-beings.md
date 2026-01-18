@@ -2,11 +2,12 @@
 title: "Chubacapra, Mothman, Sasquatch, Dinosaurs"
 weight: 36
 c: "darkslategray"
+image: "/photos/stuff/dino.jpg"
 description: "Bashar answers Questions about Earth Beings"
 ---
 
 
-Spirits are orbs of light
+Spirits are orbs of light.
 
 
 

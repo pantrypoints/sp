@@ -1,11 +1,10 @@
 ---
-heading: "Chapter 2"
-title: "Economic Systems for Other Planets"
-# date: 2019-10-17
-date: 2015-04-12
-weight: 20
-image: /photos/physics/mars.jpg
-description: "Supereconomics can be used to create economic systems for Mars and other planets"
+heading: "Chapter 1b"
+title: "The 4 Main Schools of Post-Smith Economics"
+date: 2015-01-01
+weight: 18
+image: /photos/econ/smith.jpg
+description : "Adam Smith suggested some policies in the Wealth of Nations which produced bad effects"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -14,47 +13,45 @@ icon: "Supereconomics"
 
 
 
-Supereconomics and its sister science called Material Superphysics will work together to help each other in 2 ways:
+The science of resource allocation began with Xenophon's *The Economist* which narrates how Socrates was taught about proper estate management.  
 
-1. Supereconomics will help procure the resources to create the experiments for Material Superphysics
-2. Material Superphysics will help Supereconomics by creating new spacetime technologies so that humans can travel to other planets more easily and spread value there.
+Socrates cites Cyrus the Great of Persia as the first person during that period to get Economics right by having policies that encouraged the productivity of the empire.
 
-<!-- spread itself to other areas with the technologies M By  is based on the four laws of how humans see value.   -->
+In the West, this knowledge was carried over from the Persians to the Greeks and then to the Romans. 
 
-The first is done through a points-based system that can accept money or barter.
+Asia, on the other hand, had its Economics founded in Hinduism which predates the Persian empire. 
 
-Jeff Bezos recently announced his vision of moving polluting industries to the moon in order to save the Earth, using his reusable rockets. His logic is that the gravity in the moon is 1/6 of that of the Earth and so moon-based industries will require less energy. 
+The Hindus also had policies for maximizing productivity through its caste system or division of labor. 
 
-It's surprising that no one has pointed out to him that his rockets emit pollution and CO2. It would take so many polluting rocket launches to move heavy industries to the moon. In such a case, the quest to save the Earth would fry the planet faster had no such plan been implemented. 
+Ancient Egypt had this too. China followed the Hindu system which was formalized when it became unified under the Chin emperor.
 
+Therefore, there are two systems of ancient Economics:
 
-## Superphysics can do better
+1. The Political Economy of Europe
+2. The Traditional Economy of Asia
 
-The whole problem with Bezos' plan is that it uses rockets for propulsion which is really based on the caveman fire-technology called combustion. It propels objects by releasing the energy stored in fuel which then creates pollutants and CO2 as byproducts. 
-
-{{< img src="https://sorasystem.sirv.com/graphics/caveman.jpg" alt="Caveman technology" >}}
-
-
-Instead of rockets, Superphysics, via [Material Superphysics](/material), advocates gravity-based propulsion which is currently unthinkable at the current level of science. 
-
-{{< q a="Socrates" >}}
-Three-dimensional solid geometry should have naturally followed two-dimensional geometry. But three-dimensional solid geometry is in such a ludicrous state. It made me pass over it, and go on to astronomy as the motion of solids.
-<cite>The Republic by Plato Simplified</cite>
-{{< /q >}}
+These two are similar in nature as their policies were dictated by the natural leaders of society and based on morals. 
 
 
-{{< img src="https://sorasystem.sirv.com/graphics/grav.jpg" alt="Gravity" >}}
+## The Fall or Rome Caused Western Economics to Get Corrupted by the Venetians
 
+The fall of the Roman empire caused Western Economics to collapse. It had to be rebuilt from scratch through the decentralized feudal system and then through centralized parliaments.  
 
-After gravity-based propulsion is discovered, Superphysics, as a subset of [Social Superphysics](/social), can then deploy the proper economic system for Mars.
+The problem was that the post-Roman reconstruction was begun by the Venetians, a merchant people. 
 
+This caused the new Western systems to be mercantilist or money-based.   
 
-## Extending Nodes to Other Planets 
+From Venice, the merchants moved to Spain where they funded overseas colonization. After the defeat of the Spanish by the British, the merchants moved to Britain and the Netherlands where they invented paper instruments.  
 
-Superphysics is implemented through independent nodes, as servers, for each population center. This is derived entirely from Socrates' city-states mentioned in The Republic. 
+Such was the Economics observed by Cantillon, Locke, and later Adam Smith. After Smith, Economics was left to Ricardo and then to the Marginalists which Marshall formalized as modern neoclassical economic theory.
 
-Each node runs a server which delivers an Economy-as-a-Service or EaaS for the town or city. External nodes are connected via Pool Clearing from EF Schumacher. The system can be run by artificial intelligence or AI following the maxims of David Hume, Spinoza, Montesquieu, and Socrates. 
+1. Classical (Ricardo)
+2. Marxist
+3. Neoclassical (Marshall, Keynes-Marco, Samuelson-Micro)
+4. Traditional Hindu, Confucian, Arab (Khaldun)
 
-Earth-nodes can be connected to Martian nodes by simply extending Pool Clearing. This would then require an interplanetary organization, built according to the principles of Supersociology, to administer the resource allocation or supereconomics between different planets. 
+- Marx invented Marxist economics (labor theory of value) as an alternative to Ricardo's Mercantilist Economics
+- China under Mao had Marxism
+- China under Xi Jinping has a mix of Marxism and Confucianism
+- The Marginal Revolution of the 1870's corrupted Classical into Neoclassical
 
-Bio Superphysics would deal with the potential diseases and health issues in those new places while Material Superphysics would deal with meeting the energy needs.  

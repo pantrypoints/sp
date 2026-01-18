@@ -1,7 +1,7 @@
 ---
 title: "Life, Death, Reincarnation"
 weight: 69
-image: "/photos/social/life.jpg"
+image: "/photos/meta/adam.jpg"
 description: "Your life becomes whatever you focus your attention on."
 author: Consolidated from Bashar
 ---

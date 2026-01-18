@@ -12,7 +12,8 @@ Your external physical reality is a feedback loop, to let you know what your bel
 - If your external reality is not what you prefer, you can change your beliefs, in order to change your external reality.
 
 
-your Beliefs  ===>  your Perception of reality  ===>  your Feelings  ===>  your Thoughts, which then reinforce the original Beliefs
+Your Beliefs --> Your Perception of reality --> Your Feelings --> Your Thoughts, which then reinforce the original Beliefs
+
 
 <!-- Your  are the result of what you believe. -->
 
@@ -20,15 +21,14 @@ Your feelings and emotional reactions are the result of your beliefs.
 - To discover what your beliefs are, work backwards and ask yourself:     
 
 {{< q >}}
-What would I have to believe, in order to end up feeling this way?
-
-What would I have to believe, in order to end up perceiving this type of physical reality?
+What would I have to believe, in order to end up feeling this way? What would I have to believe, in order to end up perceiving this type of physical reality?
 {{< /q >}}
 
 
 When you change your beliefs about any particular reality or issue, you instantly also change how you feel about that particular reality or issue.
 
 This is why the interpretation (belief) you give any situation determines how you feel about it.
+
 
 
 ## Changing your Beliefs
@@ -159,3 +159,10 @@ Specifically, imagine the "ideal" version of you - the "you" you would most like
 Act the same way that the "you" in your imagination acted when confronting this situation.
 
 You know everything you need to know to be who you desire to be - at any given moment.
+
+
+
+## 3 Day Physical Response Time Lag [Elan]
+
+Acting on something creates an immediate response in the universe. But the physical response generally is felt or manifests after 3 days. 
+

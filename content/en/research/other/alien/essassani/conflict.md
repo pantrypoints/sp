@@ -1,11 +1,22 @@
 ---
-title: "Cause of Conflict"
+title: "Conflict and Depression"
 weight: 24
 c: "darkslategray"
 image: "/photos/countries/ua/war.jpg"
 description: "Bashar answers Questions about Cause of Conflict"
 ---
 
+
+
+## How to Get Over Depression
+
+Get over it!
+
+Do not accept beliefs that devalue you.
+
+
+
+## Conflict
 
 Each feels that a need is not being fulfilled. 
 

@@ -7,6 +7,7 @@ author: Consolidated from Bashar
 ---
 
 
+
 Relax and let people come into your life naturally while being real and true. 
 
 
@@ -33,5 +34,18 @@ And so she is still not attracting her lover.
 Bashar asks: Would she rather meet a man in her current unpreferred state?
 
 She says no. 
+
+
+
+
+## Be Complete (Elan)
+
+To have a soulmate, you should be complete yourself first. This will give off a reflection that you already are complete. 
+
+Do not think that you are incomplete and you need someone to complete you. 
+
+Do not need each other to make each other complete. 
+
+Realize that you are already complete. If not, then simply choose your preferred completeness. Then act that way!
 
 

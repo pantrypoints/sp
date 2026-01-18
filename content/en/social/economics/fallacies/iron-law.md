@@ -4,7 +4,7 @@ heading: "See What's Wrong With It"
 date: 2015-01-01
 # a: "David Ricardo"
 # c: "firebrick"
-image: /photos/econ/ricardo.jpg
+image: /photos/people/ricardo.jpg
 description : "Ricardo said that wages will fall eventually, just as Marx said profits will fall eventually"
 writer:
   name: Juan

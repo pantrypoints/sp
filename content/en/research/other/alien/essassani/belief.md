@@ -54,3 +54,11 @@ Do not fear the unknown.
 
 In the unknown is more of you. 
 
+
+[Elan] You have all beliefs. But you express a specific belief.
+
+```
+belief --> emotion --> thought --> action
+``` 
+
+

@@ -1,10 +1,11 @@
 ---
 heading: "Chapter 9"
-title: Imbalance
-description: The Trader Class cause imbalance
-# image: /graphics/econ/law3.jpg
-c: royalblue
+title: Economic Imbalances
+description: The Trader Class usually causes imbalance
+image: /photos/people/rand.jpg
 date: 2022-01-28
-weight: 10
+weight: 50
 ---
+
+
 

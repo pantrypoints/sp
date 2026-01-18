@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2"
+heading: "Section 2"
 title: "Balance via Governance"
 date: 2020-01-02
 weight: 18

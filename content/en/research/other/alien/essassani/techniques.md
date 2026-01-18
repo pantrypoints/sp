@@ -4,14 +4,8 @@ weight: 140
 image: "/photos/psych/mirror.jpg"
 description: "Here are 2 Quick Techniques for Manifesting your Preferred Reality"
 author: Consolidated from Bashar
+draft: true
 ---
-
-
-## How to Get Over Depression
-
-Get over it!
-
-Do not accept beliefs that devalue you.
 
 
 

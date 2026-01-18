@@ -1,6 +1,6 @@
 ---
+heading: "Unit 3"
 title: "How Flow Taxation works as Pointtax"
-heading: "Chapter 2c" 
 date: 2019-11-17
 weight: 21
 image: "/photos/objects/cake.jpg"

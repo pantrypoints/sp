@@ -1,5 +1,5 @@
 ---
-title: "Brain, Gamma State and Learning (15 Minutes)"
+title: "Gamma State, Brain and Learning (15 Minutes)"
 weight: 60
 image: "/graphics/bio/brain.jpg"
 description: "Neurological Pathways"

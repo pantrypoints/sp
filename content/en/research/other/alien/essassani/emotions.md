@@ -52,3 +52,38 @@ In reality, their rejection is just their issue. Don't take their issues.
 
 Know yourself so you will know whether the rejection exposes your issue or their (the rejecter's) issue.
 
+
+
+## Fear -- How it can Serve You
+
+Fear means that you believe that an outcome that you do not want to happen is very likely to happen. 
+- It lets you know that you are believing in a reality that you do not prefer. 
+<!-- So, fear can serve you, by being an "indicator", or an "alarm", that lets you know that    "Hey, I'm believing in a reality that is not at all aligned with my Being!" -->
+- Once you become aware of this, you can choose to change your belief, so such frightening scenarios will no longer pop up in your reality.
+
+
+1. Get in touch with the Belief that is causing this fear.
+
+Ask yourself: "What would I have to believe, in order to end up being afraid of this right now?"
+
+2. Acknowledge that you have that Belief so that you can "own" it
+
+You can not change what you do not own.
+
+3. Replace that Belief
+
+What Belief would you like to REPLACE that Belief with?
+
+4. Accept that new Belief
+
+Breath it in. Trust that this new Belief is now active and functioning in your Being. You don't need to "get rid of" the old Belief. You only need to replace it with your preferred Belief.
+
+Get into the Mind-Set of the new Belief.
+
+Get into the Emotional-Feeling State of the new Belief.
+
+Get into the Body-Language and Actions of the new Belief.
+
+
+<!-- You can use fear to your advantage, by=  1. Fully "owning" it and acknowledging that you have it. #2. Asking yourself     "What must I be believing to have this fear?" #3. Once you discover that belief, you can ACKNOWLEDGE that you have it. #4. And then REPLACE it with the opposite belief, at which point the fear quickly dissipates. -->
+
