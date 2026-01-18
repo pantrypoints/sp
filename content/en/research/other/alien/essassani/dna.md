@@ -1,6 +1,6 @@
 ---
 title: "12 Strands of DNA"
-weight: 4
+weight: 32
 image: "/graphics/bio/dna.jpg"
 description: "3 strands of DNA are for physical reality"
 ---

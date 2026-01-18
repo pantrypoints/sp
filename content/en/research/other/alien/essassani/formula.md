@@ -1,6 +1,6 @@
 ---
 title: "The Formula and AAA Formula"
-weight: 9
+weight: 59
 image: "/photos/econ/writer.jpg"
 description: "The Essassani Formula"
 # author: Consolidated from Bashar

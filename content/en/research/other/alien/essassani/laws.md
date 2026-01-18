@@ -1,9 +1,10 @@
 ---
 title: "The 5 Laws of Existence"
-weight: 6
+weight: 68
 image: "/photos/meta/god.jpg"
 description: "The Essassani gave 5 Laws of Existence"
 ---
+
 
 
 The Essassani gave 5 Laws of Existence:

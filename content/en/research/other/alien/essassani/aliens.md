@@ -2,8 +2,10 @@
 title: "Alien races"
 weight: 4
 c: "darkslategray"
+image: "/photos/objects/ufo.jpg"
 description: "Bashar answers Questions about Aliens"
 ---
+
 
 
 Physical Aliens | Description

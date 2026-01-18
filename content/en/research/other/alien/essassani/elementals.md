@@ -1,6 +1,6 @@
 ---
 title: "Questions about Elementals"
-weight: 15
+weight: 42
 image: "/photos/bio/fairy.jpg"
 description: "Bashar answers Questions about Elementals"
 ---

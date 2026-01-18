@@ -1,7 +1,7 @@
 ---
 title: "Questions about the Atlanteans and Lemuria"
-weight: 16
-image: "/photos/medieval/anu.jpg"
+weight: 8
+image: "/photos/medieval/lapu.jpg"
 description: "Bashar answers Questions about Atlanteans"
 ---
 

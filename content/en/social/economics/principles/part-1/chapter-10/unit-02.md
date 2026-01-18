@@ -1,6 +1,6 @@
 ---
+heading: Unit 1
 title: "Land Reform: Usufruct Land Titles"
-heading: Chapter 10b
 weight: 105
 # date: 2022-08-02
 # date: 2016-02-07
@@ -85,6 +85,3 @@ For agricultural land, the condition might be for the lessors to bond together i
 The lease will then be jointly transferred to the children after the death of the original lessor or father. 
 
 This joint transfer will prevent the land from being broken up. 
-
-
-

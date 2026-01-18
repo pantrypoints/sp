@@ -83,7 +83,10 @@ pagerSize = 24
         { img = "/photos/buy.jpg", title = "Policies from Social Cycles", sub = "A better world needs policies that match Nature", url = "/social/policies" },
       ]
 
-
+  [languages.vi]
+    contentDir = "content/vi/"
+    weight = 1
+    languageName = "Tieng Viet"
 
   [languages.vi.menu]
     main = [
@@ -153,8 +156,6 @@ pagerSize = 24
       { img = "/photos/countries/ua/war.jpg", title = "Dự đoán từ Chu kỳ Xã hội", sub = "Chúng tôi kiểm chứng dự đoán với các sự kiện thực tế", url = "/social/cycles" },
       { img = "/photos/buy.jpg", title = "Chính sách từ Chu kỳ Xã hội", sub = "Một thế giới tốt đẹp hơn cần chính sách phù hợp với Tự Nhiên", url = "/social/policies" },
     ]
-
-
 
   [languages.ar]
     contentDir = "content/ar/"
@@ -267,74 +268,72 @@ pagerSize = 24
       src = "The Principles of Human Knowledge, Article 3"
 
 
-  [languages.hi]
-    contentDir = "content/hi/"
-    weight = 7
-    languageName = "हिन्दी भाषा"
-    [languages.hi.menu]
-      main = [
-        {name = "आप हमारी मदद कर सकते", url = "help", weight = 2}
-      ]
-    [languages.hi.params]
-      flag = "/flags/in.png"
-      title = "सुपरफिजिक्स: तरंग-आधारित वैज्ञानिक मानदंड"
-      subtitle = "मेटाफिजिक्स और सोक्रेटिक वाद के आधार पर आधारित एक नया विज्ञान"
-      # youtube= "pJDEDX7DI5Y"
-      youtube = "QyrxLqI9Qcg"
+  # [languages.hi]
+  #   contentDir = "content/hi/"
+  #   weight = 7
+  #   languageName = "हिन्दी भाषा"
+  #   [languages.hi.menu]
+  #     main = [
+  #       {name = "आप हमारी मदद कर सकते", url = "help", weight = 2}
+  #     ]
+  #   [languages.hi.params]
+  #     flag = "/flags/in.png"
+  #     title = "सुपरफिजिक्स: तरंग-आधारित वैज्ञानिक मानदंड"
+  #     subtitle = "मेटाफिजिक्स और सोक्रेटिक वाद के आधार पर आधारित एक नया विज्ञान"
+  #     # youtube= "pJDEDX7DI5Y"
+  #     youtube = "QyrxLqI9Qcg"
 
-    [languages.hi.params.trio]
-      intro = "सभी ज्ञान को तीन भागों में विभाजित किया जा सकता है:"
-      icons = [
-        { img = "/icons/tao.png", title = "मेटाफिजिक्स", sub = "0-50% पुनरावलोकनीय: विरोधात्मक" },
-        { img = "/icons/sp.png", title = "सुपरफिजिक्स", sub = "51-99% पुनरावलोकनीय: व्यक्तिगत" },
-        { img = "/icons/atom.png", title = "भौतिकी", sub = "100% पुनरावलोकनीय: वस्तुगत" },        
-      ]
-    [languages.hi.params.quote1]
-      content = "तीन प्रमुख विज्ञान हैं: यांत्रिकी, चिकित्सा, नैतिकता"
-      icon = "Rene Descartes"
-      author = "Rene Descartes"
-      src = "The Principles of Philosophy, Preface"
-    [languages.hi.params.quote2]
-      content = "मन द्वारा देखे जाने के बिना चीजों का पूर्ण अस्तित्व नहीं हो सकता। लोग अजीब तरह से सोचते हैं कि घरों, पहाड़ों और सभी वस्तुओं का एक वास्तविक अस्तित्व है, जो मन द्वारा देखे जाने से अलग है"
-      icon = "George Berkeley"
-      author = "George Berkeley"
-      src = "The Principles of Human Knowledge, Article 3"
-
-
-  [languages.ru]
-    contentDir = "content/ru/"
-    weight = 10
-    languageName = "русский"
-    [languages.ru.menu]
-      main = [
-        {name = "Help", url = "help", weight = 2}
-      ]
-    [languages.ru.params]
-      flag = "/flags/ru.png"
-      title = "Суперфизика: Парадигма на основе волнового подхода."
-      subtitle = "Новая наука, основанная на метафизике и софистической диалектике"
-      # youtube= "7e0v9V_5TIA"
-      youtube = "QyrxLqI9Qcg"
-
-    [languages.ru.params.trio]
-      intro = "Все знания могут быть разделены на три группы:"
-      icons = [
-        { img = "/icons/tao.png", title = "Метафизика", sub = "0-50% воспроизводимость: парадоксальное" },
-        { img = "/icons/sp.png", title = "Суперфизика", sub = "51-99% воспроизводимость: субъективное" },
-        { img = "/icons/atom.png", title = "Физика", sub = "100% воспроизводимость: объективное" },        
-      ]
-    [languages.ru.params.quote1]
-      content = "Существует 3 основные науки: Механика, Медицина, Этика."
-      icon = "Rene Descartes"
-      author = "Rene Descartes"
-      src = "The Principles of Philosophy, Preface"
-    [languages.ru.params.quote2]
-      content = "Вещи не могут иметь абсолютного Существования, не будучи воспринятыми умом. Люди странно думают, что Дома, Горы и все Объекты имеют Реальное Существование, отдельное от их восприятия умом"
-      icon = "George Berkeley"
-      author = "George Berkeley"
-      src = "The Principles of Human Knowledge, Article 3"
+  #   [languages.hi.params.trio]
+  #     intro = "सभी ज्ञान को तीन भागों में विभाजित किया जा सकता है:"
+  #     icons = [
+  #       { img = "/icons/tao.png", title = "मेटाफिजिक्स", sub = "0-50% पुनरावलोकनीय: विरोधात्मक" },
+  #       { img = "/icons/sp.png", title = "सुपरफिजिक्स", sub = "51-99% पुनरावलोकनीय: व्यक्तिगत" },
+  #       { img = "/icons/atom.png", title = "भौतिकी", sub = "100% पुनरावलोकनीय: वस्तुगत" },        
+  #     ]
+  #   [languages.hi.params.quote1]
+  #     content = "तीन प्रमुख विज्ञान हैं: यांत्रिकी, चिकित्सा, नैतिकता"
+  #     icon = "Rene Descartes"
+  #     author = "Rene Descartes"
+  #     src = "The Principles of Philosophy, Preface"
+  #   [languages.hi.params.quote2]
+  #     content = "मन द्वारा देखे जाने के बिना चीजों का पूर्ण अस्तित्व नहीं हो सकता। लोग अजीब तरह से सोचते हैं कि घरों, पहाड़ों और सभी वस्तुओं का एक वास्तविक अस्तित्व है, जो मन द्वारा देखे जाने से अलग है"
+  #     icon = "George Berkeley"
+  #     author = "George Berkeley"
+  #     src = "The Principles of Human Knowledge, Article 3"
 
 
+  # [languages.ru]
+  #   contentDir = "content/ru/"
+  #   weight = 10
+  #   languageName = "русский"
+  #   [languages.ru.menu]
+  #     main = [
+  #       {name = "Help", url = "help", weight = 2}
+  #     ]
+  #   [languages.ru.params]
+  #     flag = "/flags/ru.png"
+  #     title = "Суперфизика: Парадигма на основе волнового подхода."
+  #     subtitle = "Новая наука, основанная на метафизике и софистической диалектике"
+  #     # youtube= "7e0v9V_5TIA"
+  #     youtube = "QyrxLqI9Qcg"
+
+  #   [languages.ru.params.trio]
+  #     intro = "Все знания могут быть разделены на три группы:"
+  #     icons = [
+  #       { img = "/icons/tao.png", title = "Метафизика", sub = "0-50% воспроизводимость: парадоксальное" },
+  #       { img = "/icons/sp.png", title = "Суперфизика", sub = "51-99% воспроизводимость: субъективное" },
+  #       { img = "/icons/atom.png", title = "Физика", sub = "100% воспроизводимость: объективное" },        
+  #     ]
+  #   [languages.ru.params.quote1]
+  #     content = "Существует 3 основные науки: Механика, Медицина, Этика."
+  #     icon = "Rene Descartes"
+  #     author = "Rene Descartes"
+  #     src = "The Principles of Philosophy, Preface"
+  #   [languages.ru.params.quote2]
+  #     content = "Вещи не могут иметь абсолютного Существования, не будучи воспринятыми умом. Люди странно думают, что Дома, Горы и все Объекты имеют Реальное Существование, отдельное от их восприятия умом"
+  #     icon = "George Berkeley"
+  #     author = "George Berkeley"
+  #     src = "The Principles of Human Knowledge, Article 3"
 
 
 [params]

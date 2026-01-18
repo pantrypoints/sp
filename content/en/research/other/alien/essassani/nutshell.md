@@ -1,6 +1,6 @@
 ---
 title: "The Essassani in a Nutshell"
-weight: 4
+weight: 91
 c: "darkslategray"
 description: "This is for people who have no knwoledge of vibrations and spirit mediums"
 ---

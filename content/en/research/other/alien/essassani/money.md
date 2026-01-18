@@ -1,6 +1,6 @@
 ---
 title: "The 7 Neutral Needs and 5 Forms of Abundance"
-weight: 10
+weight: 80
 image: "/photos/objects/money.jpg"
 description: "Money Workshop where Bashar marries a coin"
 ---
@@ -119,8 +119,3 @@ The ways to transfer frequency are:
 Humans have monatomic elements in your body that you can spin up and transfer to others.
 
 Crystals also have monatomic elements.
-
-
-
-
-

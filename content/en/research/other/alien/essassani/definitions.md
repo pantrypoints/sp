@@ -1,6 +1,6 @@
 ---
 title: "Definitions by the Essassani"
-weight: 4
+weight: 3
 image: "/photos/psych/consult.jpg"
 description: "Definitions are important to the Essassani because these make up the components of your beliefs and therefore your reality"
 ---

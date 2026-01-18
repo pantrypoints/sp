@@ -1,6 +1,6 @@
 ---
 title: "Physics"
-weight: 4
+weight: 18
 image: "/photos/physics/whitehole.jpg"
 description: "Bashar answers Questions about Physics"
 ---

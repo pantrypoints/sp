@@ -1,6 +1,6 @@
 ---
 title: "How Does Energy Become Ego-Consciousness?"
-weight: 50
+weight: 12
 image: "/photos/physics/whitehole.jpg"
 description: "The Triple 'A' Formula is based on the Triple 'A' Automative Association which you call when your car is in trouble"
 ---
@@ -12,6 +12,17 @@ description: "The Triple 'A' Formula is based on the Triple 'A' Automative Assoc
 {{< r a="Woman" >}}
 How Does Energy Become Ego-Consciousness?
 {{< /r >}}
+
+
+## Communication (Elan)
+
+Deep breathing is the key to communication with higher minds and other minds. 
+
+Breath is a flow of energy.
+
+Deep breathing is the balanced use of receptivity and assertivity as it moves energy.
+
+
 
 ## The Movie Analogy
 

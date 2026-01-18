@@ -1,10 +1,12 @@
 ---
 title: "Social Experiment Steps"
-weight: 100
+weight: 124
 image: "/photos/social/pantry.jpg"
 description: "The Steps for Social Experiment"
 author: Consolidated from Bashar
 ---
+
+
 
 ### Step 1: Don't engage in conspiracy theories.
 

@@ -1,10 +1,11 @@
 ---
 title: "The Feedback Loop"
-weight: 8
-image: "/photos/physics/quasar.jpg"
+weight: 50
+image: "/photos/psych/friend.jpg"
 description: "Your external physical reality is a feedback loop, to let you know what your beliefs are"
 author: Consolidated from Bashar
 ---
+
 
 
 Your external physical reality is a feedback loop, to let you know what your beliefs are.   

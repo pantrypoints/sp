@@ -1,7 +1,7 @@
 ---
 title: "How to find your soulmate or true love"
-weight: 5
-image: "/photos/psych/consult.jpg"
+weight: 130
+image: "/photos/meta/heart.jpg"
 description: "Tips on finding true love"
 author: Consolidated from Bashar
 ---

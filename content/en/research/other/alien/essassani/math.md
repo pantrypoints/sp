@@ -1,8 +1,10 @@
 ---
 title:  "Essassani Mathematics"
 description: ""
-image: "/covers/essassani.jpg"
+weight: 73
+image: "/graphics/math.jpg"
 ---
+
 
 
 Mathematics is expressed as geometry, not equations that use numbers. 

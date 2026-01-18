@@ -1,7 +1,7 @@
 ---
 title: "Conspiracy Theorists"
-weight: 50
-image: "/photos/physics/whitehole.jpg"
+weight: 25
+image: "/photos/psych/shh.jpg"
 description: ""
 ---
 

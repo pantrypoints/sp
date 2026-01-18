@@ -1,9 +1,10 @@
 ---
 title: "Brain, Gamma State and Learning (15 Minutes)"
-weight: 50
-image: "/photos/physics/whitehole.jpg"
-description: "The Triple 'A' Formula is based on the Triple 'A' Automative Association which you call when your car is in trouble"
+weight: 60
+image: "/graphics/bio/brain.jpg"
+description: "Neurological Pathways"
 ---
+
 
 
 ## Neurological Pathways (from 15 Minutes and Counting)

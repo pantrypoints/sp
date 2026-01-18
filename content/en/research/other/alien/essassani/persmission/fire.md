@@ -1,9 +1,8 @@
 ---
 title:  "Fire Permission Slip"
 description: ""
-image: "/covers/essassani.jpg"
+image: "/photos/objects/fire.jpg"
 ---
-
 
 
 Draw the ideal reality that you want.

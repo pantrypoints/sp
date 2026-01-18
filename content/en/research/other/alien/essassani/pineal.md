@@ -1,6 +1,6 @@
 ---
 title: "The Pineal Gland and the Template Reality"
-weight: 6
+weight: 96
 draft: true
 image: "/photos/med/sperm.jpg"
 description: "The journey from spirit to baby to human."

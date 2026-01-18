@@ -1,6 +1,6 @@
 ---
 title: "The Journey From Spirit to Human"
-weight: 6
+weight: 136
 image: "/photos/med/sperm.jpg"
 description: "The journey from spirit to baby to human according to the template level reality."
 author: Consolidated from Bashar

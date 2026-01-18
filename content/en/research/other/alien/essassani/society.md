@@ -1,6 +1,6 @@
 ---
 title: "Unified Society"
-weight: 500
+weight: 127
 image: "/photos/meta/yinyang.jpg"
 description: "Unity in a society does not come from conformityExperiment"
 author: Consolidated from Bashar

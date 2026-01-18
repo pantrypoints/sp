@@ -1,6 +1,6 @@
 ---
 title: "The Interstellar Alliance"
-weight: 4
+weight: 6
 image: "/photos/medieval/anu.jpg"
 description: "Bashar answers Questions about the Alliance"
 ---

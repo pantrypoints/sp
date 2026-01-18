@@ -1,6 +1,6 @@
 ---
 title: "Economy"
-weight: 10
+weight: 40
 image: "/photos/objects/money.jpg"
 description: ""
 ---

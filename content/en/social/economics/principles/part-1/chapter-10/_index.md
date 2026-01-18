@@ -1,7 +1,7 @@
 ---
-heading: "Chapter 8"
-title: The Dynamics of Need
-description: The Dynamics of Need is adddressed by the 1st Law
+heading: "Chapter 10"
+title: Solutions to Need
+description: We give Solutions to Need
 image: /photos/econ/prices.jpg
 weight: 22
 ---

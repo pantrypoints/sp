@@ -1,6 +1,6 @@
 ---
 title: "The Metaphysics of the Reality you Desire"
-weight: 8
+weight: 77
 image: "/photos/physics/light.jpg"
 description: "The Metaphysics followed by the Essassani"
 author: Consolidated from Bashar
@@ -16,18 +16,19 @@ thought pricess
 
 
 
-## Mandates of the Insitute of Applied Metaphysics 
+## Mandates of the Institute of Applied Metaphysics 
 
 1. Explore all ancient philosophical ideas and extract knowledge to be applied practically in medicine, tech, etc. 
 
 This gets information from metaphysical knowledge that can be applied to tech and disciplines to expand their understanding and create products that lead to expansion and awareness.
 
 
-2. Apply general knoweldge and use learning techniques and archives of knowledge.
+2. Apply general knowledge and use learning techniques and archives of knowledge.
 
 This is the learning aspect.
 
 This creates a curriculum at school to learn at whatever a person needs and is capable of learning.
+
 
 
 

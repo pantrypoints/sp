@@ -1,6 +1,6 @@
 ---
 title: "The Secret to the Secret to the Secret"
-weight: 6
+weight: 116
 image: "/photos/psych/shh.jpg"
 description: "Be passionate about being passionate"
 author: Consolidated from Bashar

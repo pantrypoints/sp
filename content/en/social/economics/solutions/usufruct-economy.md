@@ -130,3 +130,4 @@ And so, the Usufruct Economy is more in line with such a dynamic nature of thing
 - Seawater agriculture will be discussed by Bio Superphysics
 - Residential ships will be discussed by Social Superphysics
 - Nuclear Fusion Power will be discussed by [Material Superphysics](/material/solutions/fusion)
+

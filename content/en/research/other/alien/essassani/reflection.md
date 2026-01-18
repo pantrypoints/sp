@@ -1,7 +1,7 @@
 ---
 title: "Spectrum of Reflection: This AND That"
-weight: 90
-image: "/photos/meta/god.jpg"
+weight: 102
+image: "/photos/physics/light.jpg"
 description: ""
 ---
 
@@ -12,6 +12,4 @@ We should instead see them as THIS AND THAT.
 
 
 {{< n n="This expands the mind out of identity" >}}
-
-
 

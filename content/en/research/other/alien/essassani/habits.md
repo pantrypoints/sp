@@ -1,6 +1,6 @@
 ---
 title: "Habits and Addictions, Judgment and Preference"
-weight: 50
+weight: 64
 image: "/photos/psych/eat.jpg"
 description: ""
 ---
@@ -64,3 +64,6 @@ Hate is the polarized opposite of Love, but still implies deservability.
 Any experience that is shared by two or more people is the result of all the people involved agreeing to co-create that experience.    Even conflict can only occur if both parties agree to be in conflict.   You can only experience that which is resonant with the vibrations you are currently choosing to be.    
 
 If you "believe" you need to be protected, you are attracting into your reality the very thing you "believe" you need to be protected from.    If war is "not of your vibration", there is no way you can experience war.   You can only experience that which you have - on some level - already agreed to experience.
+
+
+

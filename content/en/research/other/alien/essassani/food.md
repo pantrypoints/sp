@@ -1,8 +1,8 @@
 ---
 title: "Food"
-weight: 6
-image: "/photos/meta/god.jpg"
-description: "The Essassani gave 5 Laws of Existence"
+weight: 54
+image: "/photos/psych/eat.jpg"
+description: "Food Tips"
 ---
 
 

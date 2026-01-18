@@ -1,10 +1,11 @@
 ---
 title: "Neutrality, Positivity, and Negativity"
-weight: 10
+weight: 83
 image: "/photos/social/audience.jpg"
 description: "Neutrality, Positivity, and Negativity are the mindsets that are possible."
 author: Consolidated from Bashar
 ---
+
 
 
 ## The Meaning of Life and The Purpose of Existence

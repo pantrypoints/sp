@@ -1,6 +1,6 @@
 ---
 title: "Chubacapra, Mothman, Sasquatch, Dinosaurs"
-weight: 16
+weight: 36
 c: "darkslategray"
 description: "Bashar answers Questions about Earth Beings"
 ---

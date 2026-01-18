@@ -1,6 +1,6 @@
 ---
+heading: Unit 2
 title: "Wholesale and Retail"
-heading: Chapter 10b
 weight: 10
 date: 2026-01-18
 description: ""
@@ -10,7 +10,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
 ---
-
 
 
 
@@ -54,3 +53,4 @@ Markets
 Auction 
 
 Events  -->
+

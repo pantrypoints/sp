@@ -1,9 +1,10 @@
 ---
 title:  "Circumstatnces Don't Matter and How to Stay Unbothered"
 description: "This permission slip is based on the 4 laws"
-# image: "/covers/essassani.jpg"
+image: "/photos/sad.jpg"
 c: "royalblue"
 ---
+
 
 <!-- ## CIRCUMSTATNCES DON'T MATTER ONLY STATE OF BEING MATTERS -->
 

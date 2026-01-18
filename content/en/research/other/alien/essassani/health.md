@@ -1,9 +1,11 @@
 ---
 title: "Health"
-weight: 18
-image: "/photos/balancerock.jpg"
-description: "Bashar answers Questions about Atlanteans"
+weight: 68
+image: "/photos/physics/punch.jpg"
+description: "Bashar answers Questions about Health"
 ---
+
+
 
 Flouride lubricates the molecules in the body to make molecules flow faster. 
 

@@ -1,9 +1,10 @@
 ---
 title: "Relationships"
-weight: 66
-image: "/photos/meta/god.jpg"
+weight: 106
+image: "/photos/social/family.jpg"
 description: ""
 ---
+
 
 
 ### Continue the relationship if it is what you Prefer. End if it is not. 

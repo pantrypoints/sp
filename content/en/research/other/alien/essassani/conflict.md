@@ -1,10 +1,10 @@
 ---
 title: "Cause of Conflict"
-weight: 44
+weight: 24
 c: "darkslategray"
+image: "/photos/countries/ua/war.jpg"
 description: "Bashar answers Questions about Cause of Conflict"
 ---
-
 
 
 Each feels that a need is not being fulfilled. 

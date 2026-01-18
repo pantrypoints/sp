@@ -1,5 +1,5 @@
 ---
-heading: Section 4
+heading: Unit 1
 title: "Metals"
 # date: 2020-01-27
 image: /photos/objects/gauge.jpg
@@ -21,8 +21,6 @@ These elements are:
 Most metals are solid at room temperature (with mercury being an exception). Examples include iron, copper, and gold.
 
 
-
-
 ## Element 115
 
 Characteristics | . 
@@ -35,3 +33,4 @@ PAC | 1,380
 NAC | 690
 Total A | 690
 Total AC | 2,070
+

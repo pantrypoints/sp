@@ -1,9 +1,10 @@
 ---
 title: "Questions about Politics"
-weight: 66
-image: "/photos/meta/god.jpg"
+weight: 99
+image: "/photos/countries/ru/moscow.jpg"
 description: ""
 ---
+
 
 
 {{< r a="Woman" >}}

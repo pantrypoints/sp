@@ -1,6 +1,6 @@
 ---
 title: "What is Time?"
-weight: 40
+weight: 148
 image: "/photos/objects/clock.jpg"
 description: "Time is an illusion created by consciousness"
 author: Consolidated from Bashar
