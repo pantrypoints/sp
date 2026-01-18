@@ -8,11 +8,10 @@ DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = false
 enableEmoji = true
 
-
 # paginate = 12
-
 [pagination]
 pagerSize = 24
+
 
 [languages]
   [languages.en]
@@ -39,7 +38,7 @@ pagerSize = 24
       flag = "/flags/gb.png"
       title = "Superphysics: Natural Science Merged with Metaphysics"
       subtitle = "A New Science Based on Waves, Socratic Dialectics, and Cartesian Physics for Solving Problems"
-      youtube = "mNwyj7WHKKo"
+      youtube = "QyrxLqI9Qcg"
 
     [languages.en.params.trio]
       intro = "All Knowledge Can Be Grouped Into Three"
@@ -84,6 +83,79 @@ pagerSize = 24
         { img = "/photos/buy.jpg", title = "Policies from Social Cycles", sub = "A better world needs policies that match Nature", url = "/social/policies" },
       ]
 
+
+
+  [languages.vi.menu]
+    main = [
+      {name = "Súc tích", url = "research", weight = 1},
+      {name = "Lõi", url = "superphysics", weight = 2},
+      {name = "Toán", url = "supermath", weight = 3},
+      {name = "Vật chất", url = "material", weight = 5},
+      {name = "Sinh học", url = "bio", weight = 7},
+      {name = "Xã hội", url = "social/supersociology", weight = 9},
+      {name = "Kinh tế", url = "social/economics", weight = 10}, 
+      {name = "Chu kỳ", url = "social/cycles", weight = 11},
+      {name = "Tâm linh", url = "spiritual", weight = 14},
+      {name = "Tin tức", url = "news", weight = 1},
+      {name = "Câu hỏi", url = "faqs", weight = 25},
+      {name = "Thẻ", url = "tags", weight = 27},
+      {name = "Hỗ trợ!", url = "help", weight = 29}
+    ]
+
+  [languages.vi.params]
+    flag = "/flags/vn.png"
+    title = "Siêu Vật Lý: Khoa Học Tự Nhiên Hợp Nhất với Siêu Hình Học"
+    subtitle = "Một Khoa Học Mới Dựa trên Sóng, Biện Chứng Socrates và Vật Lý Descartes để Giải Quyết Vấn Đề"
+    youtube = "QyrxLqI9Qcg"
+
+
+  [languages.vi.params.trio]
+    intro = "Mọi Tri Thức Đều Có Thể Được Phân Thành Ba Nhóm"
+    icons = [
+      { img = "/icons/tao.png", title = "Siêu Hình Học", sub = "1-50% Có Thể Lặp Lại: Nghịch lý" },
+      { img = "/icons/sp.png", title = "Siêu Vật Lý", sub = "51-99% Có Thể Lặp Lại: Chủ quan" },
+      { img = "/icons/atom.png", title = "Vật Lý", sub = "100% Có Thể Lặp Lại: Khách quan" },        
+    ]
+
+  [languages.vi.params.quote0]
+    content = "Khoa học tự nhiên được chia thành vật lý và siêu hình học. Vật lý nên chiêm nghiệm về cái vốn có trong vật chất và do đó là phù du. Siêu hình học nên chiêm nghiệm về cái trừu tượng và bất biến."
+    icon = "Francis Bacon"
+    author = "Francis Bacon"
+    src = "The Proficience And Advancement Of Learning, Quyển 2, Phần 7"
+    
+  [languages.vi.params.quote1]
+    content = "Có 3 khoa học chính: Cơ học, Y học, Đạo đức học"
+    icon = "Rene Descartes"
+    author = "Rene Descartes"
+    src = "Các Nguyên tắc của Triết học, Lời nói đầu"
+    
+  [languages.vi.params.quote2]
+    content = "Sự vật không thể tồn tại một cách tuyệt đối mà không liên quan đến việc chúng được nhận thức. Chúng không thể tồn tại mà không có những Tâm trí nhận thức chúng. Tôi thấy lạ khi người ta nghĩ rằng Nhà cửa, Núi non, và tất cả các Vật thể cảm quan đều có Một Sự Tồn Tại Thực sự, khác biệt với việc chúng được Lý trí nhận thức."
+    icon = "George Berkeley"
+    author = "George Berkeley"
+    src = "Các Nguyên tắc của Tri thức Nhân loại, Điều 3"
+
+  [languages.vi.params.sciences]
+    title = "Những Khoa Học Mở Ra Vũ Trụ"
+    cards = [
+      { img = "/avatars/descartes.jpg", title = "Siêu Vật Lý Vật chất", sub = "Thay thế Vật lý Newton và Einstein bằng Vật lý Descartes và Spinoza", url = "/material"},
+      { img = "/graphics/super/yin.jpg", title = "Siêu Vật Lý Sinh học", sub = "Sinh học và Y học kết hợp Nguyên lý phương Tây và châu Á", url = "/bio"},
+      { img = "/avatars/smith.jpg", title = "Siêu Vật Lý Xã hội", sub = "Một Xã hội như một Tổ chức Siêu hình với Chu kỳ Sống", url = "/social"},        
+      { img = "/avatars/buddha.jpg", title = "Siêu Vật Lý Tâm linh", sub = "Nâng cấp Trải nghiệm vượt Vật chất, tiến vào Aether hay Akasha", url = "/spiritual"},
+      { img = "/photos/meta/om.jpg", title = "Siêu Toán và Định Tính Toán", sub = "Toán học dựa trên Hệ cơ số 3, Hệ cơ số 6, Hình dạng và Phẩm chất", url = "/supermath"},
+    ]
+    
+  [languages.vi.params.panels]
+    title = "Hãy Cùng Giải Quyết Mọi Vấn Đề!"
+    cards = [
+      { img = "/photos/econ/writer.jpg", title = "Bằng chứng", sub = "Chúng tôi kiểm chứng Siêu Vật Lý trong thế giới thực", url = "/evidence" },
+      { img = "/graphics/tech/solar.jpg", title = "Giải pháp & Công nghệ Đề xuất", sub = "Tư tưởng Khai sáng có thể dẫn đến công nghệ hoàn toàn mới", url = "/solutions" },
+      { img = "/photos/countries/ua/war.jpg", title = "Dự đoán từ Chu kỳ Xã hội", sub = "Chúng tôi kiểm chứng dự đoán với các sự kiện thực tế", url = "/social/cycles" },
+      { img = "/photos/buy.jpg", title = "Chính sách từ Chu kỳ Xã hội", sub = "Một thế giới tốt đẹp hơn cần chính sách phù hợp với Tự Nhiên", url = "/social/policies" },
+    ]
+
+
+
   [languages.ar]
     contentDir = "content/ar/"
     weight = 2
@@ -97,7 +169,9 @@ pagerSize = 24
       title= "الفيزياء الفائقة= نموذج علمي يعتمد على الموجات"
       head = "علم جديد مبني على الميتافيزيقا والجدل السقراطي"
       subtitle = "يمكن تجميع كل المعرفة في ثلاثة فئات"
-      youtube = "P4BSS1GeJwA"
+      youtube = "QyrxLqI9Qcg"
+      # youtube = "P4BSS1GeJwA"
+
     [languages.ar.params.trio]
       intro = "يمكن تقسيم كل المعرفة إلى ثلاثة"
       icons = [
@@ -111,6 +185,7 @@ pagerSize = 24
       icon = "Rene Descartes"
       author = "Rene Descartes"
       src = "The Principles of Philosophy, Preface"
+    
     [languages.ar.params.quote2]
       content = "لا وجود للأشياء دون إدراكها. ولا وجود لها دون عقول تُدركها. يظن الناس خطأً أن البيوت والجبال والأشياء المرئية موجودة دون عقل يُدركها.."
       icon = "George Berkeley"
@@ -129,7 +204,9 @@ pagerSize = 24
       flag = "/flags/cn.png"
       subtitle = "一种基于形而上学和苏格拉底辩证法的新科学"
       title = "超物理学：基于波动的科学范式"
-      youtube = "n-bejVBOZ0k"
+      youtube = "QyrxLqI9Qcg"
+      # youtube = "n-bejVBOZ0k"
+
     [languages.zh.params.trio]
       intro = "所有知识可以分为三类"
       icons = [
@@ -168,7 +245,9 @@ pagerSize = 24
       flag = "/flags/fr.png"
       subtitle = "Une Nouvelle Science Basée sur la Métaphysique et la Dialectique Socratique"
       title = "Superphysique - Paradigme Scientifique basé sur les Ondes"
-      youtube = "HBj2DUChYqc"
+      youtube = "QyrxLqI9Qcg"
+      # youtube = "HBj2DUChYqc"
+
     [languages.fr.params.trio]
       intro = "Toute Connaissance Peut Être Regroupée en Trois Catégories"
       icons = [
@@ -200,7 +279,9 @@ pagerSize = 24
       flag = "/flags/in.png"
       title = "सुपरफिजिक्स: तरंग-आधारित वैज्ञानिक मानदंड"
       subtitle = "मेटाफिजिक्स और सोक्रेटिक वाद के आधार पर आधारित एक नया विज्ञान"
-      youtube= "pJDEDX7DI5Y"
+      # youtube= "pJDEDX7DI5Y"
+      youtube = "QyrxLqI9Qcg"
+
     [languages.hi.params.trio]
       intro = "सभी ज्ञान को तीन भागों में विभाजित किया जा सकता है:"
       icons = [
@@ -232,7 +313,9 @@ pagerSize = 24
       flag = "/flags/ru.png"
       title = "Суперфизика: Парадигма на основе волнового подхода."
       subtitle = "Новая наука, основанная на метафизике и софистической диалектике"
-      youtube= "7e0v9V_5TIA"
+      # youtube= "7e0v9V_5TIA"
+      youtube = "QyrxLqI9Qcg"
+
     [languages.ru.params.trio]
       intro = "Все знания могут быть разделены на три группы:"
       icons = [
@@ -250,6 +333,9 @@ pagerSize = 24
       icon = "George Berkeley"
       author = "George Berkeley"
       src = "The Principles of Human Knowledge, Article 3"
+
+
+
 
 [params]
   logo = "/icons/sp.png"

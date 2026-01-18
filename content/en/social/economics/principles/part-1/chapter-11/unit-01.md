@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 11"
+heading: "Unit 1"
 title: "Liberalism and Socialism"
 # date: 2022-07-30
 weight: 110

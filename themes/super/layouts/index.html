@@ -97,16 +97,20 @@
           {{ .Site.Params.subtitle }}
         </h2>
 
+      {{ with .Site.Params.youtube }}
         <div class="aspect-[16/9] mx-auto w-full max-w-sm rounded-lg overflow-hidden shadow-lg mb-12">
           <iframe
             class="w-full h-full"
-            src="https://www.youtube.com/embed/yoKZV1rmdc8?autoplay=1&mute=1"
+            src="https://www.youtube.com/embed/{{ . }}?autoplay=1&mute=1"
             title="What is Superphysics? A new Science!"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowfullscreen
           ></iframe>
         </div>
+      {{ end }}
+
+      
       </div>
     </section>
 

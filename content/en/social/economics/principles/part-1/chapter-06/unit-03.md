@@ -1,10 +1,10 @@
 ---
-heading: "Chapter 6c"
-linkTitle: Chapter 6c
+heading: "Unit 3"
+linkTitle: Demand Inflation
 title: "Demand Inflation, Demand Deflation"
 # date: 2022-03-27
 # date: 2022-08-10
-weight: 64
+weight: 14
 image: /photos/econ/prices.jpg
 description: "Neoclassical Economics shallowly defines 'inflation' as a rise in prices, and 'deflation' as its decline"
 writer:
@@ -12,6 +12,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 toc: false
 ---
+
 
 
 Demand is based on Population size.

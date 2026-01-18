@@ -1,10 +1,9 @@
 ---
-heading: "Chapter 6"
-linkTitle: Chapter 6
+heading: "Unit 1"
 title: "The Demand Model"
 # date: 2022-03-27
 # date: 2022-08-10
-weight: 60
+weight: 6
 image: /graphics/econ/law1st.jpg
 description: "Unlike Economics which prioritizes the suppliers and their profit motive, Supereconomics prioritizes the demanders and their consumption motive."
 writer:
@@ -12,6 +11,8 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 toc: false
 ---
+
+
 
 
 Supereconomics aims to harmonize demand with supply in real time to prevent lack in society. 
@@ -153,7 +154,3 @@ Supereconomics guides that increase towards the Positive, as cooperation and cre
 Total demand of goods in a society
 
 Effective Demand is based on population size -->
-
-
-
-

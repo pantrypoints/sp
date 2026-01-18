@@ -1,16 +1,16 @@
 ---
-heading: "Chapter 5"
-linkTitle: Chapter 5
+heading: "Chapter 4"
 title: "Supereconomics Versus Economics"
 # date: 2022-03-20
 weight: 20
-image: /photos/grains.jpg
+image: /graphics/econ/eq.jpg
 description: "Supereconomics is concerned with the material well-being of society."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"  
 ---
+
 
 
 Supereconomics is concerned with the material well-being of society. 

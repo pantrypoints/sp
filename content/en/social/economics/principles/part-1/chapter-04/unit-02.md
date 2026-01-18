@@ -1,163 +1,224 @@
 ---
-heading: "Chapter 2b"
-linkTitle: Minimum Needs
-title: "Demand Power: Minimum needs"
-date: 2025-08-09
-# date: 2024-08-27
-weight: 12
-image: /photos/buy.jpg
-description: Minimum Needs ensures human dignity and is a better base of a science of resource allocation than marginal utility.  
+heading: "Unit 1"
+title: "The Rural Economy: Farming Models"
+weight: 10
+# date: 2022-08-04
+image: /photos/bio/plant.jpg
+description: "In Supereconomics, both urban and rural economies have importance. This is because it also gives importance to the wildlife and natural environment"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
 ---
 
 
+In Economics, the urban economy has higher importance than the rural economy beause of the amassing of wealth fromt he Capitalist system. 
 
-The previous sections explained that Supereconomics, based on the Positive, replaces:
-- selfish-interest with fellow-feeling and self-purpose
-- utlity with a flexible hierarchy of needs
+In Supereconomics, both urban and rural economies have importance. This is because the basis for the economy is the grain value. 
 
-This flexible hierarchy of needs is:
-- based on the 5 Elements, and
-- flexible, allowing the higher needs to be larger than the lower ones
+While Economics favors the trading class, Supereconomics favors the working class, specifically the farmers who provide food for society. 
 
+Supereconomics also gives importance to the wildlife and natural environment that are essential to support the weather and climate systems for sustainable agriculture.
 
-This hierarchy is implemented as the **Minimum Needs**. 
-- This is opposite of Economics which implements utility as marginal utility 
+ <!-- These need to be protected.   -->
 
-This is based on the idea that a society is a metaphysical soul-organism made up of individual souls. 
+The rural economy can be divided into two:
 
-This means that each soul is important or has a purpose in the society because of the First Law of Value. 
-
-It is then society's duty to provide for each member soul through fellow feeling and not through domination. 
+1. Agriculture and Extractive
+2. Forestry and Wildlife 
 
 
-{{< q a="Adam Smith" c="Book 1, Chapter 8" >}}
-No society can surely be flourishing and happy if the majority were poor and miserable. It is but equity that those who feed, clothe and lodge the the people, should have such a share of the produce of their own labour as to be themselves tolerably well fed, clothed and lodged.
-{{< /q >}}
+## Agriculture: Farming Models
+
+Agriculture has several models of organization and operation.
+
+<!-- , each designed to meet the varying needs of farmers, investors, and consumers. These models are often adopted to enhance production, improve efficiency, and create value chains in agriculture. Below are some common models, including plantation models, contract farming, and others: -->
+
+### Rural Agriculture
+
+1. Plantation Model
+
+This involves large-scale farming on private or state-owned land, usually producing cash crops such as tea, coffee, rubber, sugarcane, or oilseeds.
+
+This uses monoculture farming, where only one type of crop is grown over a large area.
+
+The land is usually owned by large corporations or wealthy individuals who either employ workers directly or contract labor for the production. The crops are often sold to large companies or export markets.
+
+Because of its large size, it often involves Capitalist foreign direct investment (FDI) in countries with favorable climatic conditions for specific crops. The investor often provides worker housing, infrastructure, and healthcare.
+
+Its drawbacks are:
+- its dependence on the market price for cash crops.
+- environmental concerns such as monoculture farming and deforestation
+
+Examples are:
+- tea plantations in India
+- coffee plantations in Brazil
+- banana plantations in Honduras
+- pineapple plantations in the Philippines
+- rubber plantations in Malaysia
+- palm oil plantations in Indonesia
 
 
-This is consistent with the Consumption Motive which treats the society as one family. 
+2. Corporate Farming / Agribusiness Model
 
-This means that the government should take a leading role, as the father of the society. 
+Corporate farming involves large, corporate-owned farms that may operate on a national or international scale. These corporations may employ advanced technology, economies of scale, and vertical integration (owning the supply chain from production to processing and retail).
 
-Miniumum Needs can be impelemented either by the government or by non-government organizations and institutions.  
+This model typically involves large-scale monoculture farming, with the corporation responsible for production, processing, packaging, and distribution. The focus is often on efficiency, high yields, and profit maximization.
 
-Such institutions are distributors of goods and services and not producers. This will reduce its capital costs. Instead, it will need a fund to sustain its operational costs.  
-
-This fund is derived from wage contributions (sale of labor) or sales taxes (sale of goods). 
-
-Supereconomic taxation allows tax payments in kind. And so the set up cost of this system is not as high as imagined. 
-
-
-## Classifying Human Needs
-
-<!-- Everyone has the right to:
-- a standard of living adequate for the health and well-being of himself and his family, including:
-  - food
-  - clothing
-  - housing
-  - medical care
-  - necessary social services
-- the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control.
-
-Motherhood and childhood are entitled to special care and assistance. 
-
-All children, whether born in or out of wedlock, shall enjoy the same social protection.
-
-## Military
-## Law Enforcement
-## Public Utilities
-## Justice System
-## Agriculture Policy
-## Healthcare 
-## Housing
-## Education  -->
+- Use of advanced machinery and technology.
+- Focus on large-scale, efficient production.
+- Vertical integration and control over supply chains.
+- Risk of environmental degradation due to monoculture practices and high chemical use.
+- **Examples**: Large agribusinesses like Cargill, Monsanto, and Archer Daniels Midland (ADM), which engage in everything from crop production to food processing.
 
 
-Minimum human needs can be simplified into the following, in terms of temporal importance: 
+3. Contract Farming
 
-1. Clean air
-2. Clean water
-3. Food
-4. Shelter
-5. Transporation
-6. Communication and Expresion
-7. Healthcare 
+Contract farmers grow crops or raise livestock according to an agreement with a buyer (often a company or processor) who provides inputs like seeds, fertilizers, or technical expertise.
 
-We call the desire to have these needs met as the **Demand Power** of force of demand. 
+In return, the buyer agrees to purchase the produce at a set price, often being responsible for collection, processing, and distribution.
 
-This force comes from fellow-feeling from the Positive Force, which is the opposite of selfishness from the Negative force.
+   <!-- - **Structure**: The contract can be between the farmer and a corporation, cooperative, or intermediary who facilitates the arrangement.  -->
 
+This model helps ensure the buyer has a steady supply of agricultural products, while farmers are assured a market and sometimes financial support.
 
-## Gross National Happiness Index
+<!--      - Financial support like loans or advances is sometimes provided.
+     - Quality control and standardized farming practices are emphasized.
+     - The buyer may  -->
 
-The Gross National Happiness (GNH) Index has been in part of the Constitution of Bhutan since July 18, 2008.
+This reduces the market risk for farmers but might reduce autonomy and profit margins.
 
-It is made up of 4 pillars:
-
-1. Sustainable and Equitable Socioeconomic Development
-2. Environmental Conservation 
-3. Culture 
-4. Good Governance
-
-It also has 9 domains which we arrange into our hierarchy:
-
-1. Living Standards
-2. Ecological Resilience
-3. Mental health
-4. Education
-5. Health
-6. Community
-7. Time Use
-8. Culture
-9. Governance
-
-It is administered by a Gross National Happiness Index Commission that is tasked to:
-- come up with 5-year plans
-- administer the GNH survey
-
-{{< i s="/graphics/econ/needs.png" a="Needs" c="We can use the Gross National Happiness Index of Bhutan as an implementation of the Supereconomic Hierarchy of Needs"  >}}
+Examples are contract farming for crops like tomatoes, corn, and cotton, and livestock such as poultry and dairy.
 
 
-{{< q a="Adam Smith" c="The Wealth of Nations, Book 1 Chapter 11" >}}
-After food, clothing and lodging are the two great wants of mankind.
-{{< /q >}}
+4. Cooperative Farming
+
+This involves farmers coming together to form a cooperative society to pool resources for joint farming efforts. 
+
+The goal is to increase bargaining power, reduce costs, and improve efficiency.
+
+The cooperative can handle tasks such as bulk purchasing of inputs (seeds, fertilizers, machinery), joint processing and storage of products, and marketing of farm produce. The profits are usually distributed based on individual contributions.
+
+<!--   Shared resources and responsibilities.
+     - Greater market power and negotiation leverage.
+     - Economies of scale lead to reduced costs.
+     - Democratic decision-making within the cooperative.
+     - Risk-sharing among members. -->
+
+This is the most difficult model to set up because there has to be fellow-feeling among the memebers. This is opposed to the profit motive in the previous models. 
+
+Examples are dairy cooperatives like Amul in India, agricultural cooperatives in Europe.
 
 
-The economic authority of a country, such as the Bureau of Economic Research in the US can be overhauled to implement the GNH in their respective countries.
- <!-- and the National Economic Development Authority in the Philippines, -->
-
-The Net Domestic Product will be absorbed by the Living Standards Domain or the Material Strata. 
-
-
-### Needs Policies
-
-The Needs Policies refer to laws and regulations that directly affect the Minimum Needs:
-
-1. Agriculture and Water
-2. Transportation and Infrastructure
-3. Energy and Telecoms
-4. Healthcare and Insurance
-5. Pension
-
-These will be discussed in their own subchapters. 
+<!-- ### 4. **Outgrower/Outsourcing Model**
+   - **Definition**: This model involves a company or large corporation outsourcing the production of crops or livestock to smallholder farmers. Farmers act as "outgrowers" and typically receive inputs and technical assistance from the contracting company.
+   - **Structure**: The outgrowers generally grow specific crops or raise animals under a contract agreement. The company may provide inputs, offer extension services, and buy back the produce at pre-agreed prices. The model allows companies to reduce the need for direct production while helping small farmers access markets.
+   - **Key Features**:
+     - Farmers may receive loans for inputs and technical support.
+     - The company typically guarantees a market for the product.
+     - Risk-sharing between the farmer and the company.
+     - Company often dictates the terms of production, including the type of crop or livestock.
+   - **Examples**: Smallholder tobacco farming in Africa, cocoa outgrowers in Ghana. -->
 
 
-<!-- Supereconomics uses the ratio of goods to other goods in order to have a stable valuation system. To simplify the process, we have to classify each good. This is why we use the Harmonized System.
+5. Integrated Farming
+
+This combines crop production with livestock farming, agroforestry, and aquaculture in a way that creates synergies and maximizes land and resource use.
+
+This is commonly the tradtional model used by small holder farmers and is the most sustainable. 
+
+<!--    - **Structure**: A farm may combine different agricultural activities to optimize resource utilization and increase overall productivity. For example, crops can provide feed for livestock, while livestock manure can be used as fertilizer for crops.
+   - **Key Features**:
+     - Diversification reduces risk, as not all crops or activities fail simultaneously.
+     - Sustainable practices are promoted, reducing dependency on chemical inputs.
+     - By-products from one activity serve as inputs for another, increasing the farm's sustainability and profitability. -->
+
+Examples are Crop-livestock integration, fish farming combined with vegetable or rice cultivation, mixed farming.
 
 
-## The Harmonized System Code
+<!-- 6. **Agroforestry**
+   - **Definition**: Agroforestry involves integrating trees with crops or livestock to create more diverse, productive, and sustainable land-use systems. It combines agriculture and forestry to optimize both ecological and economic outcomes.
+   - **Structure**: Trees can be planted on cropland or pastureland, alongside agricultural crops or livestock, with the goal of improving soil fertility, conserving water, and increasing overall productivity.
+   - **Key Features**:
+     - Reduces soil erosion and improves soil health.
+     - Provides additional income through timber, fruits, nuts, or other tree-based products.
+     - Enhances biodiversity and ecosystem services.
+     - Often seen as a sustainable farming practice.
+   - **Examples**: Coffee and cocoa plantations with shade trees, livestock grazing under tree cover, fruit trees in maize fields. -->
 
-Harmonized System (HS) Codes, also known as the Harmonized Commodity Description and Coding System, or simply the Harmonized System, are a standardized international system to classify globally traded products. They are commonly used throughout the export process for goods.
 
-The Harmonized System is a standardized numerical method of classifying traded products. It is used by customs authorities around the world to identify products when assessing duties and taxes and for gathering statistics.
+### Urban Agriculture
 
-If HS codes are used properly, taxes can be reduced or deducted. For example, “9817.85.01” is a US HS code for importing prototypes. The taxes for this category is free
+During the pandemic, urban agriculture gained popularity because of lockdowns and the price inflation of food.
 
-The HS is administrated by the World Customs Organization (WCO) and is updated every five years. It serves as the foundation for the import and export classification systems used in the United States and by many trading partners. 
+1. Community-Supported Agriculture
 
-The HS assigns specific six-digit codes for varying classifications and commodities. Countries are allowed to add longer codes to the first six digits for further classification. Singapore adopts the 8-digit HS Codes in the ASEAN Harmonized Tariff Nomenclature (AHTN), which is based on the World Customs Organization (WCO) 6-digit level HS Codes, for use by all ASEAN member countries.
- -->
+This is where consumers (often urban dwellers) buy shares in a local farm's harvest before the growing season. In exchange, they receive a weekly supply of fresh produce directly from the farm.
+
+Community farmers typically grow a variety of crops and distribute them to shareholders on a regular basis (e.g., weekly or monthly) throughout the growing season.
+
+The consumers share the risks and rewards of farming (if there’s a good harvest, they get more produce; if there’s a poor harvest, they get less).
+
+These often focuses on organic or sustainable farming practices.
+
+Examples are local CSA farms in the United States, Europe, and parts of Asia.
+
+
+2. Urban Agriculture / Vertical Farming
+
+Urban agriculture involves growing crops within city environments, often using innovative farming techniques such as vertical farming or hydroponics.
+
+Urban farms may be small and located on rooftops, vacant lots, or inside buildings. 
+
+{{< i s="/photos/bio/plant.jpg" a="Plant" >}}
+
+Vertical farming uses stacked layers or hydroponic systems to grow crops indoors, utilizing artificial light and climate control.
+
+The benefits includes:
+- the reduction of carbon footprint associated with transportation
+- the use of sustainable practices and technology (e.g., water-saving techniques)
+- direct supply of fresh produce to urban communities
+
+Examples are:
+- rooftop farms in New York
+- hydroponic and vertical farms in Singapore
+
+
+<!-- ## The 7 Obstacles to Agricultural Development
+
+In The Lectures on Jurisprudence, Adam Smith enumerated the 7 obstacles to agriculture:
+
+1. Lack of cultivation by the big land owners
+
+2. Payment of the rent in kind
+
+The farmer has less produce to pay as rent after a bad harvest, but he will have a bit more money to pay because the scarcity will increase the money price of his little harvest.
+
+3. Additional taxes by the government (kings)
+
+4. Right of Primogeniture and Entails
+
+Feudal Rules in Property Transfer
+
+5. Banning Food Exports During Famines
+
+6. Slave labour
+
+7. Oppression of merchants and private enterprise
+
+Only the Jews were strong enough to withstand oppression, well enough to make money
+
+The oppression by merchants and private enterprises against rural industries can take the form of the following:
+
+7.a. Imperfect law on contracts
+
+7.b. Difficulty of transportation
+
+7.c. The monopoly of fairs and markets and staple towns
+
+7.d. Taxes on imported and exported goods
+
+7.e. The monopoly and exclusive privileges of corporations
+
+7.f. The statute of apprenticeship
+
+7.g. Some bounties which encourage one commodity and hinder another -->

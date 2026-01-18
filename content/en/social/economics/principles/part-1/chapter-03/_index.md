@@ -1,9 +1,8 @@
 ---
-heading: "Chapter 1"
-title: The First Law of Value
-linkTitle: Law 1
-description: Every thing in the universe has an existential value, otherwise it would not exist.
-image: /graphics/econ/law1.jpg
-weight: 6
+heading: "Chapter 3"
+title: Stores of Value
+description: We use grains to replace money
+image: /photos/grains.jpg
+weight: 18
 ---
 

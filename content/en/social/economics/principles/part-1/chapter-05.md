@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 5"
-linkTitle: Chapter 5
-title: "The Logistics Industry"
+linkTitle: Logistics
+title: "Addressing Need: The Logistics Industry"
 date: 2025-11-11
 weight: 40
 image: /photos/econ/pool.jpg
@@ -34,6 +34,8 @@ Determining the optimal levels and locations for stock.
 The seamless exchange of data (orders, tracking, delivery status) to ensure coordination.
 
 <!-- is the detailed organization and implementation of a complex operation. In a business context, it is the process of planning, implementing, and controlling the efficient, effective forward and reverse flow and storage of goods, services, and related information between the point of origin and the point of consumption in order to meet customers' requirements. -->
+
+
 
 ## Essential Industry Players
 

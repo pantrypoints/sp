@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 9b"
+heading: "Unit 3"
 title: "Universal Basic Income and Microfinance are Wrong"
 date: 2017-04-26
 weight: 98
@@ -87,6 +87,3 @@ _ | UBI | CCT | Microfinance
 --- | --- | --- | ---
 Pros | It mobilizes productivity liberally by feeding it cash | It prevents this mobilization from being unproductive by imposing conditions | Its conditions are simpler -- the debtor just needs to repay regularly
 Cons | It has no control to prevent this moblization from being unproductive | Its conditions require administration which requires a big expense | Few people are eligible -->
-
-
-

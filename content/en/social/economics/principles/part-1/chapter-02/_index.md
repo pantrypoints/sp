@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 1"
-title: The First Law of Value
-linkTitle: Law 1
-description: Every thing in the universe has an existential value, otherwise it would not exist.
-image: /graphics/econ/law1.jpg
+heading: "Chapter 2"
+title: "Human Needs"
+linkTitle: Needs
+description: The 1st Law manifests as human needs
+image: /photos/psych/eat.jpg
 weight: 6
 ---
 

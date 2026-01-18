@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 9b"
+heading: "Unit 2"
 title: "Violations of the 1st Law: Gambling"
 date: 2024-11-20
 weight: 98
@@ -74,4 +74,6 @@ Economic Speculation | Unjust Rewards | Losses -->
 The good aspect of the gambling tendency is the risk-taking attitude that leads to strong activity that breaks the usual idleness or staticity that always creeps into any economy.  
 
 Supereconomics taps this attitude to spur international and intranational trade through the Clearing Funds of Pool Clearing.
+
+
 

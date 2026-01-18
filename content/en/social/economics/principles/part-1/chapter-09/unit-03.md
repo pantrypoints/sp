@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 9b"
+heading: "Unit 3"
 title: "Violations of the 1st Law: Overspending and Budget Deficit"
 date: 2025-02-06
 weight: 88
@@ -9,6 +9,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay
 ---
+
 
 
 The arbitariness of demand leads to the arbitariness of nominal value.

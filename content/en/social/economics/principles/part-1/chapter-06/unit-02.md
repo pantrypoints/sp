@@ -1,6 +1,6 @@
 ---
-heading: "Chapter 6b"
-linkTitle: Chapter 6b
+heading: "Unit 2"
+linkTitle: Demand Efficiency
 title: "Demand Efficiency and Inefficiency"
 date: 2025-01-27
 weight: 62
@@ -11,6 +11,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 toc: false
 ---
+
 
 
 The quantity and quality of demand addressed by suppliers from the perspective of demand shows the demand efficiency of a supereconomic system.   
@@ -46,3 +47,5 @@ Therefore, we can say that:
 Increased demand efficiency allows more nominal value to be realized and so leads to an increase of real wealth.
 
 This will be revealed by the supereconomic ratios. 
+
+

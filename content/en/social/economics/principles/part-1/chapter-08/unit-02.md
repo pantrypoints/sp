@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8b"
+heading: "Unit 2"
 title: "Ecommerce and XCommerce: Last Mile"
 date: 2024-11-20
 weight: 84
@@ -63,4 +63,5 @@ Tool | Money | Bilateral Economic Agreements
 System | Commerce | Commercial Barter or Exchange (X-Commerce)
 Electronic | E-commerce | EX-commerce
 Tech | Fintech | Xtech and EXtech
+
 

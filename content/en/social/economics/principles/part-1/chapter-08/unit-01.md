@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8"
+heading: "Unit 1"
 title: "Demand Efficiency: Retail"
 date: 2024-11-20
 weight: 80
@@ -9,6 +9,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay
 ---
+
 
 
 Supply can be delivered to Effective Demand through 2 ways:
@@ -59,5 +60,3 @@ Markets
 Auction 
 
 Events  -->
-
-

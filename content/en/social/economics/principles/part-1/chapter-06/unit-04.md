@@ -1,17 +1,18 @@
 ---
-heading: "Chapter 6d"
-linkTitle: Chapter 6d
+heading: "Unit 4"
 title: "How Pointization Counteracts Inflation and Deflation"
 # date: 2022-03-27
 # date: 2022-08-10
-weight: 66
+weight: 16
 image: /photos/econ/cocoa.jpg
-# description: "Neoclassical Economics shallowly defines 'inflation' as a rise in prices, and 'deflation' as its decline"
+description: "Alternative to money"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 toc: false
 ---
+
+
 
 The weakness of the money system is that it has no foundation or basis. 
 
@@ -180,5 +181,3 @@ System | Buyer Action | Seller Action
 --- | --- | ---
 Money System | Buy Tomorrow | Sell now
 Points System | REALLY Purchase Tomorrow | Sell now
-
-
