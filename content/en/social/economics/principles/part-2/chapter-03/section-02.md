@@ -4,7 +4,7 @@ title: "Primary Arbitrage"
 # date: 2020-04-17
 date: 2022-01-25
 # date: 2017-04-26
-weight: 19
+weight: 9
 image: "/photos/buy.jpg"
 description: "Primary and Secondary Arbitrage are incentives to value creation and circulation in Superphysics"
 writer:

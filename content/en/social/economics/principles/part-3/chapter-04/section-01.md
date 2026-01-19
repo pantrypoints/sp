@@ -1,7 +1,7 @@
 ---
 heading: "Section 1"
 title: "The Usufruct Economy"
-weight: 24
+weight: 4
 date: 2018-06-03
 description : "The Usufruct Economy"
 image: "/photos/econ/land.jpg"

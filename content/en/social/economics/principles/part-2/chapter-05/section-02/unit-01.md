@@ -1,5 +1,5 @@
 ---
-heading: "Section 1"
+heading: "Unit 1"
 linkTitle: Businesses
 title: "Business Organizations"
 # date: 2022-01-22
@@ -47,6 +47,13 @@ These produce goods and services for society.
 
 
 
+This leads to institutions:
+- Ministry of Trade for Sole Proprietorships 
+- Securities and Exchange Commission for Partnerships, Corporations, Associations
+
+
+
+
 <!-- The resources in a society takes the form of either goods or services. -->
 
 
@@ -73,14 +80,9 @@ Examples are the capitals of all retailers -->
 
 
 
-
-
-
 <!-- ## Services  ## Common Business Processes
 
 Enterprise Resource Planning
-
-
 
 ### Human Resources
 
@@ -90,8 +92,4 @@ Enterprise Resource Planning
 
 ### Logistics
 
-## Business Cycles
-
-
-
- -->
+## Business Cycles  -->
