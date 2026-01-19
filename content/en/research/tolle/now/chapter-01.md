@@ -5,7 +5,7 @@ description: ""
 # a: "Spinoza"
 c: "indigo"
 date: 2026-01-15
-weight: 8
+weight: 4
 ---
 
 
