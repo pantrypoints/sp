@@ -1,5 +1,5 @@
 ---
-title: "Alien races"
+title: "Alien and Hybrid races"
 weight: 4
 c: "darkslategray"
 image: "/photos/objects/ufo.jpg"
@@ -32,13 +32,6 @@ Non-Physical Aliens | Description
 Consciousness at Center of Milky Way | Creator of Precursors
 Light Beings | More advanced than Essassani
 Blue men | Compassionate race of energy beings 
-
-
-### Hypersapiens
-
-This is homo galacticus as the furure hybridized human species to be a reality 1,000 years from now e.g. 3,000
-
-This will help build the 7th hybrid race.
 
 
 
@@ -77,7 +70,31 @@ Draco constellation is recently awakening.
 
 
 
-## Hybrid Children
+## Hybrid Children and Races
 
 Maui will be the sanctuary for the hybrid children
+
+
+The Essassani Agenda is to make the 7th Hybrid Race called the Anu Het or the conclusion of the cycle begun by the Anunnaki.
+
+This is the combination of the 6 hybrid races:
+
+
+0. Humans (Anunnaki + Homo Erectus)
+1. Mass-eh Gray (Cloned Humans)
+2. Massani Tall Gray (2nd Iteration of Grays)
+3. Sassani (50% Gray, 50% human)
+4. Shayael 
+5. Yayael or Shalanaya
+6. Enanika (Human + Shalanaya)
+7. Anu Het (conclusion of a cycle begun by the Anunnaki)
+
+
+
+
+### Hypersapiens
+
+This is homo galacticus (Enanika?) as the furure hybridized human species to be a reality 1,000 years from now e.g. 3,000
+
+This will help build the 7th hybrid race (Anu Het). 
 
