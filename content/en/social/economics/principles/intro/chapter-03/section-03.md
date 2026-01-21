@@ -1,16 +1,17 @@
 ---
 heading: "Section 3"
-title: "The Demand, Supply, Industry, and Trade Tool (DSIT)"
+title: "The Demand, Capital, Industry, and Trade Tool (DCIT)"
 date: 2021-06-26
 weight: 30
 image: "/graphics/econ/dcit.png"
-description: "The Demand Supply Trade Industry Tool is for Troubleshooting Economies according to the Fourth Law of Value"
+description: "The Demand Capital Industry Trade Tool is for Troubleshooting Economies according to the Fourth Law of Value"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
 aliases:
   /dsit
+  /dcit
 ---
 
 
@@ -45,11 +46,11 @@ Quality of Real Value | `GDP` + `Demand` + `Capital` | Economic Table
 
 
 
-## The DSIT Tool
+## The DCIT Tool
 
-The DSIT Tool can prevent crises by checking a society's Demand, Supply, Trade, and Industry metrics to see if they match [the Four Laws of Value](/social/economics/principles/intro/chapter-04/):
+The DCIT Tool can prevent crises by checking a society's Demand, Supply, Trade, and Industry metrics to see if they match [the Four Laws of Value](/social/economics/principles/intro/chapter-04/):
 
-![DSIT Tool](/graphics/econ/dcit.png)
+![DCIT Tool](/graphics/econ/dcit.png)
 <!-- ![](https://sorasystem.sirv.com/charts/dcti/val.png) -->
 
 These 4 factors manifest as economic indicators.
@@ -160,3 +161,5 @@ Demand | Basic Universal Revenue and the Grain Index as store of value | Grains 
 Capital | ISAIAH Match  | Knowing the skills in a society in real time is useful
 Industry | The Economic Table | This plots the flow in a supereconomy in real time
 Trade | Exchange systems | This allows multiple tools of trade to prevent the monopoly of exchange
+
+

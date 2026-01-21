@@ -8,7 +8,10 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 c: "darkgoldenrod"
 icon: "Rene Descartes"
+aliases:
+  /research/descartes/philosophy/part-4/section-05/
 ---
+
 
 
 <!-- ## 1. Maintaining the false hypothesis we have used before to explain the true natures of things.

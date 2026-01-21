@@ -7,7 +7,10 @@ writer:
 description: "Dry and big winter chilli should also be grown in the canal. Big seedlings should be grown so that the plants flower within fifteen days after planting"
 c: "#DE3163"
 icon: "PR Sarkar"
+aliases:
+  /research/sarkar/farming/section-2/rotation-veg/
 ---
+
 
 
 

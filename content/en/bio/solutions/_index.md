@@ -9,4 +9,6 @@ image: /photos/ok.jpg
 # date: 2020-10-30
 aliases:
   /medical/solutions
+  /medical/physical/solutions/
 ---
+

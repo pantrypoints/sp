@@ -9,6 +9,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Social Superphysics"
+aliases:
+  /social/supersociology/principles/part-1/chapter-03
 ---
 
 

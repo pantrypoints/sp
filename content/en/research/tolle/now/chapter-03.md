@@ -11,7 +11,13 @@ weight: 18
 
 ## Don'T Seek Your Self In The Mind
 
-I feel that there is still a great deal I need to learn about the workings of my mind before I can get anywhere near full con- sciousness or spiritual enlightenment.
+
+{{< r a="Asker" >}}
+I feel I need to learn a lot more about the workings of my mind before I can get anywhere near full consciousness or spiritual enlightenment.
+{{< /r >}}
+
+
+
 No, you don't.
 
 The problems of the mind cannot be solved on the level of the mind. Once you have understood the basic dysfunction, there isn't really much else that you need to learn or understand.
@@ -79,6 +85,10 @@ Despite this, it seems to have remained a secret. It is certainly not taught in 
 
 The Now is also central to the teaching of Sufism, the mysti- cal branch of Islam. Sufis have a saying: "The Sufi is the son of time present." And Rumi, the great poet and teacher of Sufism, declares: "Past and future veil God from our sight; burn up both of them with fire."
 Meister Eckhart, the thirteenth-century spiritual teacher, summed it all up beautifully: "Time is what keeps the light from reaching us. There is no greater obstacle to God than time."
+
+
 The whole essence of Zen consists in walking along the razor's edge of Now-to be so utterly, so completely present that no problem, no suffering, nothing that is not who you are in your essence, can survive in you. In the Now, in the absence of time, all your problems dissolve. Suffering needs time; it cannot survive in the Now.
+
+
 The great Zen master Rinzai, in order to take his students' attention away from time, would often raise his finger and slowly ask: “What, at this moment, is lacking?" A power- ful question that does not require an answer on the level of the mind. It is designed to take your attention deeply into the Now. A similar question in the Zen tradition is this: "If not now, when?"
 

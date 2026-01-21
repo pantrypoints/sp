@@ -13,10 +13,17 @@ icon: "Supersociology"
 
 We organize the Chapters according to Supereconomics:
 
+
+<!-- 1 intro - Society Social Toopgraphic Behavior 
+2 worker - 
+3 warrior - 
+4  -->
+
+
 Topic | Worker | Warrior | Thinker | Trader
 --- | --- | --- | --- | ---
 1 Intro | Workers | Warriors | Thinkers | Traders 
-2 Principle | Existence | Strength | Abstract | Acquisition or Expansion
+2 Principle | Expression Culture Personality Archetypes | Strength Morality Criminality Education | Abstract | Acquisition or Expansion Social Cycles Ideology Matrix 
 3 Examples | Races China / Healthcare Sex / Family | Japan / Military | Ancient Greece / Education-Religion | USA / Money 
 4 Movement | Employment / Organizations | Politics  | Science Technology | Business 
 5 Institution | Legislative | Executive | Judiciary | Resources

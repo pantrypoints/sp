@@ -33,7 +33,10 @@ I had to wait for quite a long time before a thought came in.
 
 {{< l a="Tolle" >}}
 Exactly. As long as you are in a state of intense presence, you are free of thought. You are still, yet highly alert. The instant your conscious attention sinks below a certain level, thought rushes in. The mental noise returns; the stillness is lost. You are back in time.
-To test their degree of presence, some Zen masters have been known to creep up on their students from behind and suddenly hit them with a stick. Quite a shock! If the student had been fully present and in a state of alertness, if he had "kept his loin girded and his lamp burning," which is one of the analogies that Jesus uses for presence, he would have noticed the master coming up from behind and stopped him or stepped aside. But if he were hit, that would mean he was immersed in thought, which is to say absent, unconscious. To stay present in everyday life, it helps to be deeply rooted within yourself; otherwise, the mind, which has incredible momentum, will drag you along like a wild river.
+
+To test their degree of presence, some Zen masters have been known to creep up on their students from behind and suddenly hit them with a stick. Quite a shock! If the student had been fully present and in a state of alertness, if he had "kept his loin girded and his lamp burning," which is one of the analogies that Jesus uses for presence, he would have noticed the master coming up from behind and stopped him or stepped aside. But if he were hit, that would mean he was immersed in thought, which is to say absent, unconscious. 
+
+To stay present in everyday life, it helps to be deeply rooted within yourself; otherwise, the mind, which has incredible momentum, will drag you along like a wild river.
 {{< /l >}}
 
 
@@ -68,16 +71,20 @@ With subsequent erroneous interpretations, the real mean- ing was completely los
 
 
 
-## BEAUTY ARISES IN THE STILLNESS OF YOUR PRESENCE
+## Beauty Arises In The Stillness Of Your Presence
 
-What you have just described is something that I occasionally experience for brief moments when I am alone and surrounded by nature.
-Yes. 
+<!-- What you have just described is something that I occasionally experience for brief moments when I am alone and surrounded by nature.
+
+Yes.  -->
+
 
 Zen masters use the word satori to describe a flash of insight, a moment of no-mind and total presence. Although satori is not a lasting transformation, be grateful when it comes, for it gives you a taste of enlightenment.
 
 You may have experienced it many times without knowing what it is and realizing its importance. Presence is needed to become aware of the beauty, the majesty, the sacredness of nature.
 
-Have you ever gazed up into the infinity of space on a clear night, awestruck by the absolute stillness and inconceiv- able vastness of it? Have you listened, truly listened, to the sound of a mountain stream in the forest? Or to the song of a blackbird at dusk on a quiet summer evening? To become aware of such things, the mind needs to be still. You have to put down for a moment your personal baggage of problems, of past and future, as well as all your knowledge; otherwise, you will see but not see, hear but not hear. Your total presence is required.
+Have you ever gazed up into the infinity of space on a clear night, awestruck by the absolute stillness and inconceiv- able vastness of it? Have you listened, truly listened, to the sound of a mountain stream in the forest?
+
+Or to the song of a blackbird at dusk on a quiet summer evening? To become aware of such things, the mind needs to be still. You have to put down for a moment your personal baggage of problems, of past and future, as well as all your knowledge; otherwise, you will see but not see, hear but not hear. Your total presence is required.
 
 Beyond the beauty of the external forms, there is more here: something that cannot be named, something ineffable, some deep, inner, holy essence. Whenever and wherever there is beauty, this inner essence shines through somehow. It only reveals itself to you when you are present. Could it be that this nameless essence and your presence are one and the same? 
 
@@ -85,15 +92,15 @@ Would it be there without your presence? Go deeply into it. Find out for yoursel
 
 When you experienced those moments of presence, you likely didn't realize that you were briefly in a state of no- mind. This is because the gap between that state and the influx of thought was too narrow. Your satori may only have lasted for a few seconds before the mind came in, but it was there; otherwise, you would not have experienced the beauty. 
 
-Mind can neither recognize nor create beauty. Only for a few seconds, while you were completely present, was that beauty or that sacredness there. Because of the narrowness of that gap and a lack of vigilance and alertness on your part, you were probably unable to see the fundamental difference be- tween the perception, the thoughtless awareness of beauty, and the naming and interpreting of it as thought: The time gap was so small that it seemed to be a single process. The truth is, however, that the moment thought came in, all you had was a memory of it.
+Mind can neither recognize nor create beauty. Only for a few seconds, while you were completely present, was that beauty or that sacredness there.
+
+Because of the narrowness of that gap and a lack of vigilance and alertness on your part, you were probably unable to see the fundamental difference between the perception, the thoughtless awareness of beauty, and the naming and interpreting of it as thought: The time gap was so small that it seemed to be a single process. The truth is, however, that the moment thought came in, all you had was a memory of it.
 
 The wider the time gap between perception and thought, the more depth there is to you as a human being, which is to say the more conscious you are.
-Many people are so imprisoned in their minds that the beauty of nature does not really exist for them. They might
-
-
-
-
-say, "What a pretty flower," but that's just a mechanical men. tal labeling. Because they are not still, not present, they don't truly see the flower, don't feel its essence, its holiness just
+Many people are so imprisoned in their minds that the beauty of nature does not really exist for them. They might say, "What a pretty flower," but that's just a mechanical men. tal labeling. Because they are not still, not present, they don't truly see the flower, don't feel its essence, its holiness just
 as they don't know themselves, don't feel their own essence, their own holiness.
-Because we live in such a mind-dominated culture, most modern art, architecture, music, and literature are devoid of beauty, of inner essence, with very few exceptions. The rea- son is that the people who create those things cannot - even for a moment-free themselves from their mind. So they are never in touch with that place within where true creativ. ity and beauty arise. The mind left to itself creates monstrosi. ties, and not only in art galleries. Look at our urban landscapes and industrial wastelands. No civilization has ever produced so much ugliness.
+
+Because we live in such a mind-dominated culture, most modern art, architecture, music, and literature are devoid of beauty, of inner essence, with very few exceptions. The reason is that the people who create those things cannot - even for a moment-free themselves from their mind. So they are never in touch with that place within where true creativity and beauty arise.
+
+The mind left to itself creates monstrosi. ties, and not only in art galleries. Look at our urban landscapes and industrial wastelands. No civilization has ever produced so much ugliness.
 

@@ -12,6 +12,8 @@ icon: "Social Superphysics"
 ---
 
 
+
 The Legislative Branch Represents the Workers through representation. 
 
 The Senate represents the Thinkers. 
+

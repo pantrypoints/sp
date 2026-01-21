@@ -8,24 +8,26 @@ writer:
   name: Jean Baptiste Say
   url: https://en.wikipedia.org/wiki/Jean-Baptiste_Say
 icon: Jean Baptiste Say
+aliases:
+  /research/say/treatise/b2c22/
 ---
 
 
-## Section II. The influence of the Quality of a national product upon the local distribution of the Population
+
+## Section 2. The influence of the Quality of a national product on the local distribution of the Population
+
 
 The cultivation of pasture land, requires much less human labour than that of arable. 
 
-It follows, that, in grazing countries, a greater proportion of the inhabitants can apply
-themselves to the arts of industry; which are therefore more
-attended to in pasture than in corn countries. Witness Flanders,
-Holland, and Normandy that was. 105
+It follows, that, in grazing countries, a greater proportion of the inhabitants can apply themselves to the arts of industry; which are therefore more
+attended to in pasture than in corn countries. Witness Flanders, Holland, and Normandy that was.
 
 For the earth to be cultivated, it is necessary that population should be spread over its surface; for industry and commerce
 to flourish, it is desirable to collect together in those spots, where the arts may be exercised with the most advantage;
-that is to say, where there can be the greatest subdivision of labour. The dyer naturally establishes himself near the clothier; the druggist near the dyer; the agent, or owner, of a vessel
-employed in the transport of drugs will approximate in locality to the druggist; and so of other producers in general.
-From the period of the irruption of the barbarians into the
-Roman empire, down to the 17th century, that is to say, to a
+that is to say, where there can be the greatest subdivision of labour. The dyer naturally establishes himself near the clothier; the druggist near the dyer; the agent, or owner, of a vessel employed in the transport of drugs will approximate in locality to the druggist; and so of other producers in general.
+
+
+From the period of the irruption of the barbarians into the Roman empire, down to the 17th century, that is to say, to a
 date almost within living memory, the towns made but little
 figure in the larger states of Europe. That portion of the popu-
 lation, which was thought to live upon the cultivators of the
@@ -107,5 +109,3 @@ Productive capital is only to be accumulated by frugality of consumption. Wheref
 Otherwise, instead of founding a city, a mere scaffolding is run up, which must soon fall to the ground, because it rests upon no solid foundation. This was the case with regard to Ecatherinos law, in the Crimea; and was, indeed, foreseen by the emperor Joseph II, who assisted at the ceremony of its foundation, and laid the second stone in due form:
 
 “The empress of Russia and myself,” said he to his suite, “have completed a great work in a single day= she has laid the first stone of a city, and I have laid the finishing one.”
-
-

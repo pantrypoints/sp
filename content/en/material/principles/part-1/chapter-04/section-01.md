@@ -9,7 +9,10 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 4
 icon: "Juan"
+aliases:
+  /material/principles/part-1/chapter-04d/
 ---
+
 
 
 The substance of the aether is identity which is within existence. Identities put together creates relations between identities. This leads to the 3 sublayers of the substance of the aether:

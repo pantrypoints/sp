@@ -8,6 +8,8 @@ writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
 icon: "David Hume"
+aliases:
+  /research/hume/treatise/book-1/part-2/section-6/
 ---
 
 
@@ -112,3 +114,4 @@ Generally, we do not suppose them specifically different.
 We only attribute different relations, connections and durations to them.
 
 More of this in Part 4, Section 2.
+

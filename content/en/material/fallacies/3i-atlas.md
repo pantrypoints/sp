@@ -8,7 +8,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-draft: true
 ---
 
 
@@ -19,8 +18,7 @@ This ignorance is shown in the lack of anti gravity technology and in the myster
 
 More recently, the ignorance is seen in Physics being unable to explain the dynamics of the Comet 3I Atlas. 
 
-
-Avi Loeb gave 15 anomalies of 3I Atlas which we classify under their causal mechanisms:
+Avi Loeb gave 15 anomalies of 3I Atlas which we classify under their causal mechanisms which are mostly solved by vortex mechanics.
 
 
 ### External Vortex Mechanics
@@ -50,7 +48,8 @@ Avi Loeb gave 15 anomalies of 3I Atlas which we classify under their causal mech
 13. Color Change: Plume changed from red to green after perihelion (C2 molecule presence).
 
 
-. Intense Outgassing: Requires huge surface area to explain jet mass (unexplained by natural models). 
+<!-- . Intense Outgassing: Requires huge surface area to explain jet mass (unexplained by natural models).  -->
+
 
 
 <!-- 1. Its retrograde trajectory is 5 degrees with the ecliptic plane of the planets.

@@ -8,40 +8,37 @@ writer:
   name: Jean Baptiste Say
   url: https://en.wikipedia.org/wiki/Jean-Baptiste_Say
 icon: Jean Baptiste Say
+aliases:
+  /research/say/treatise/b1c11/
 ---
 
 
 
 Chapter 10 showed how productive capital, though kept, during the progress of production, in a continual state of employment, and subject to perpetual change and wear, is yet ultimately reproduced in full value, when the business of production is at an end. 
 
-Since, then, wealth con
+<!-- Since, then, wealth con -->
 
-But let us trace the disposal of this surplus of 1000 dollars to
-every imaginable destination. Suppose, for instance, that in-
+But let us trace the disposal of this surplus of 1000 dollars to every imaginable destination. 
 
-resown or planted, without having undergone any transmutation; perhaps the wood, that might have been used as firing to
+
+Suppose, for instance, that instead of being buried, they have been spent by the cultivator on an elegant entertainment.
+
+In this case, this whole value has been destroyed in an afternoon; a sumptuous feast, a ball, and fireworks, will have swallowed up the whole. 
+
+
+<!-- resown or planted, without having undergone any transmutation; perhaps the wood, that might have been used as firing to
 warm superfluous apartments, may have been converted into palings or other carpenter’s work; and what was cut down in
 the first instance as an item of revenue, be so employed, as to
-become an item of capital.
+become an item of capital. -->
 
-stead of being buried, they have been spent by the cultivator
-upon an elegant entertainment. In this case, this whole value
-has been destroyed in an afternoon; a sumptuous feast, a ball,
-and fireworks, will have swallowed up the whole. 
 
-The value thus destroyed exists no longer in the community= it no longerforms an item in the aggregate of wealth; for those persons,
-into whose hands the identical pieces of silver have come,
-have given an equivalent in wines, refreshments, eatables,
-gunpowder, &c., all which values are reduced to nothing; the
-gross national capital, however, is no more diminished in this
-case than in the former. 
+The value thus destroyed exists no longer in the community= it no longerforms an item in the aggregate of wealth; for those persons, into whose hands the identical pieces of silver have come, have given an equivalent in wines, refreshments, eatables, gunpowder, &c., all which values are reduced to nothing; the gross national capital, however, is no more diminished in this case than in the former. 
 
 A surplus value had been produced;
-and this surplus is all that has been destroyed, so that things
-remain just as they were.
 
-Now, the only way of augmenting the productive capital of
-individuals, as well as the aggregate productive capital of the
+This surplus is all that has been destroyed, so that things remain just as they were.
+
+Now, the only way of augmenting the productive capital of individuals, as well as the aggregate productive capital of the
 community, is by this process of saving; in other words, of
 re-employing in production more products created than have
 been consumed n their creation. 
@@ -342,6 +339,7 @@ his establishment, has it not to lay out at interest, and with-
 draws it from the support of industry of any kind. The nation
 loses the annual revenue of so much capital, and the annual
 profit of the industry it might have kept in activity.
+
 rather a portion of capital transferred from the hands of one
 man, where it already existed, to those of another, who has
 exerted no productive industry. On the contrary, it is but too
@@ -359,21 +357,13 @@ that, granting them a degree of intelligence they do not seem
 possessed of, that intelligence would yet remain ineffectual,
 for want of the materials to set it in motion.
 
-Moreover, it may be remarked, that the powers of man, re-
-sulting from the faculty of amassing capital, are absolutely
+Moreover, it may be remarked, that the powers of man, resulting from the faculty of amassing capital, are absolutely
 indefinable; because there is no assignable limit to the capi-
 tal he may accumulate. with the aid of time, industry, and
 frugality.
 
-Hitherto we have been considering that kind of value only,
-which is capable, after its creation, of being, as it were, incor-
-porated with matter, and preserved for a longer or shorter
+Hitherto we have been considering that kind of value only, which is capable, after its creation, of being, as it were, incorporated with matter, and preserved for a longer or shorter
 period. But all the values producible by human industry, have
-not this quality. Some there are, which must have reality, be-
-cause they are in high estimation, and purchased by the ex-
-change of costly and durable products, which nevertheless
+not this quality. Some there are, which must have reality, because they are in high estimation, and purchased by the exchange of costly and durable products, which nevertheless
 have themselves no durability, but perish the moment of their
-production. This class of values I shall define in the ensuing
-chapter, and denominate immaterial products. 108
-
-
+production. This class of values I shall define in the ensuing chapter, and denominate immaterial products. 108

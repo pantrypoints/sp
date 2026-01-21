@@ -92,5 +92,3 @@ What could be more futile, more insane, than to create inner resistance to somet
 
 What could be more insane than to oppose life itself, which is now and always now? Surrender to what is. Say "yes" to life—and see how life sud- denly starts working for you rather than against you.
 
-
-

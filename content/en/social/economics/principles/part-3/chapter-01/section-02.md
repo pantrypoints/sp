@@ -1,15 +1,18 @@
 ---
 heading: "Section 2"
 title: "Economic Karma"
-description : "Economic Karma is the cause and effect of economic actions"
+description: "Economic Karma is the cause and effect of economic actions"
 weight: 14
 # orig date: 2016-01-01
 date: 2025-01-19
 image: /photos/meta/buddhism.jpg
+aliase:
+  /social/economics/principles/part-3/chapter-01b/
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
+
 
 
 Chapter 1 explained the concept of Svadharma which is being aligned to one's own *dharma*. 

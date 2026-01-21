@@ -8,7 +8,10 @@ description: "Demand is readily addressed by retail, as opposed to wholesale whi
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay
+aliases:
+  /social/economics/principles/part-1/chapter-05b/  
 ---
+
 
 
 

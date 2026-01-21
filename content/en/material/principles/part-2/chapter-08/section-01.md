@@ -11,6 +11,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 aliases:
   /material/principles/gravitational-relativity/
+  /material/principles/part-2/chapter-12/
 ---
 
 
