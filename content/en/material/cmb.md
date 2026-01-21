@@ -45,6 +45,9 @@ In Cartesian terms, they are direct proof that **dark energy is aetherspace**, a
 
 These BAO “holes” in the cosmic web mirror the pores in Descartes’ **sponge model of the universe**: regions where the aether’s density or tension varies. 
 
+{{< i s="/graphics/physics/sponge2.jpg" a="Cosmic Sponge" >}}
+
+
 Unlike general relativity, which imposes strict homogeneity, Descartes’ framework naturally allows the **expansion rate of the universe to vary**—a flexibility hinted at by recent DESI survey data suggesting dark energy may change over time.
 
 Cartesian physics links the expansion of the universe to the expansion of the human mind, since the pure aether is the substance of ideas and feelings.
@@ -57,6 +60,7 @@ The universe, in other words, expands *in relation to the mind observing it*, si
 
 
 
+
 ## Galaxy Rotation Curves: Aethereal Vortices
 
 
@@ -64,9 +68,9 @@ Galaxy rotation curves show outer stars orbiting as fast as inner ones, defying 
 
 This causes astrophysics to create dark matter.
 
-Descartes’ solution instead uses aethereal vortices.
+Descartes’ solution instead uses aethereal vortices as the 2nd term that is added to Newton's Universal Law. 
 
-- Planets swim in the sea of space particles swirling around the sun. Here, the L term is a solid mass
-- Stars likewise swim around the supermassive blackhole of their galaxy. Here, the L term is an aethereal substance
+( GMm / r^2 ) + ( 3GMmL^2 / c^2 r^4 )
 
-
+- Planets swim in the sea of space particles swirling around the sun. Here, the `L` term is a solid mass
+- Stars likewise swim around the supermassive blackhole of their galaxy. Here, the `L` term is an aethereal substance
