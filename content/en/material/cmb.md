@@ -74,3 +74,24 @@ Descartes’ solution instead uses aethereal vortices as the 2nd term that is ad
 
 - Planets swim in the sea of space particles swirling around the sun. Here, the `L` term is a solid mass
 - Stars likewise swim around the supermassive blackhole of their galaxy. Here, the `L` term is an aethereal substance
+
+
+
+
+<!-- Nah. You just prove that you know nothing of Descartes' Physics. 
+
+The CMB power spectrum matches light polarization because heat and light are from the same 1st Element which goes with the 2nd Element. 
+- But you don't need the 2nd Element (dark matter) if you know that light and heat are of the same family. 
+- What they have in common is h or the aetherspace as their causal mechanism which is now called dark energy
+- So Physics sees the CMB power spectrum helplessly from the EFFECT side, 
+- But Descartes Physics sees it from the CAUSE side. 
+- This leads to technologies. Has any physicist developed any tech from data of the CMB Power spectrum? NONE.
+
+Vortex term is based on the 5 Elements. The scam Relativity has no concept of the 5 Elements or even of the aether. So no, aethereal vortices ARE NOT relativity. You can call it as part of Mach's principle only if Mach had a concept of the 5 Elements.
+
+Descartes' Physics leads to UFO tech since UFOs use the 2nd Element and the aether a lot.
+
+We use it for example to explain the Buga Sphere. The physics of Newton and the scammer Einstein are unable to explain the Buga Sphere and so they simply reject it as a real phenomenon. 
+
+https://www.facebook.com/share/r/17vBea3fjk/
+ -->

@@ -35,6 +35,11 @@ El Salvador is an example of a country that has legalized Bitcoin, making it a l
 ### Tangible Points -->
 
 
+Chapter 1 explained the origin of nominal price as the need to have a common medium and measure of exchangeable value.
+
+
+
+
 In order to facilitate exchanges of goods and services from common economic interest, humans need a tool. 
 
 

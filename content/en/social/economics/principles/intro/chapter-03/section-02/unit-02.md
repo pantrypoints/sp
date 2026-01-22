@@ -1,45 +1,15 @@
 ---
-heading: "Section 3"
-title: "The Four Laws Table"
-weight: 19
-# date: 2022-03-24
-image: "/graphics/econ/law1.jpg"
-description: "Here is a table for the four classifications of Exchangeable value in supereconomics, using 'price' as its snapshot"
+heading: "Unit 2"
+linkTitle: "The 4 Laws of Exchangeable Value"
+title: "The 4 Laws of Exchangeable Value arise from the different perspectives of the self and society as the difference between a wave and multiple waves"
+# date: 2022-03-26
+image: /graphics/econ/laws.png
+weight: 15
+description: "The previous part explained that exchangeable value has different perspectives and scopes"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-aliases:
-  /four-laws  
 ---
-
-
-
-Supereconomics classifies value into buyer-seller, and personal-societal, leading to 4 kinds of value.
-
-Supereconomics | Personal | Society
---- | --- | ---
-Subjective and Variable (Buyer's perspective) | **Nominal Price** (value in currency) | **Market Price** (value to the buyer)
-Objective and Natural or Invariable (Seller's perspective) | **Real Price** (value in grain or labour) | **Natural Price** (value to the seller)
-
-
-Economics, on the other hand, has no concept of Real and Natural Price because it has no concept of society as an objective entity.  
-- It purposely rejects the importance of society because it enshrines selfishness, as a result of being dominated by the Negative Force.
-- This Negative Force also facilitates division, crudity as materialism, war, conflict, racism, etc.
-
-To pursue selfishness, Economics teaches:
-- arbitrage
-- profit maximization
-- finance and money-only exchange
-- private sensory pleasures.
-
-As a result, it only has:
-- economic value (nominal price)
-- market value (market price)
-
-Economics | Personal | Society
---- | --- | ---
-Subjective and Variable | **Nominal Price** (value in currency) | **Market Price** (value to the buyer)
-
 
 
 

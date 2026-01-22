@@ -1,12 +1,13 @@
 ---
-heading: "Section 1"
-linkTitle: Nominal Price
-title: "The First Law of Value: Nominal Price"
+heading: "Unit 2"
+title: Nominal Price
+# linkTitle: "Effective Demand"
 weight: 6
 # date: 2022-08-30
 # date: 2022-03-27
-image: /graphics/econ/law1.jpg
-description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
+date: 2026-01-20
+image: /photos/econ/prices.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -14,40 +15,39 @@ writer:
 
 
 
-{{< dc t="Principles (click to expand)" >}}
-Principles | Assertions
---- | ---
-Nominal Price is | 
-{{< /dc >}}
+Nominal price is based on the common medium and measure of exchangable value, based on effective demand.
+
+It is the start of formal supereconomic activity.
+
+This medium can be classified into two:
+
+1. Money
+
+Money comes from Moneta which is:
+- where coins were minted in the Roman Republic
+- also the root of the word mint
+
+Therefore, money really represents coin. 
+
+Paper money is therefore paper coin. 
+- According to Adam Smith, the word 'cash' came from the French inventing cash accounts which were based in paper bank notes instead of coin.
+- This allowed trade to flourish while adding volatility as proven in the Mississippi scheme. 
+
+Currency is a kind of money that is made as the standard within the system that uses it. 
+- Its main mechanism is its legality. 
+
+Cryptocurrency is a kind of digital currency that is standard with the system or network that uses it. 
+- It can gain more widespread usage through cryptoexchanges
 
 
 
+2. Non-Money
 
-The First Law of Value states:
-
->  Every thing in the universe has an existential value, otherwise it would not exist. 
-
-![First law](/graphics/econ/law1.jpg)
-
-This law is derived from:
-- the Worker cycle in the Law of Social Cycles by Socrates
-- the Third Law of Thermodynamics which says that absolute zero temperature is impossible to reach or maintain. 
+Many countries use non-money media such as spices and grains for trade. 
 
 
-This law crosses over:
-- to Bio Superphysics as everything being able to affect a person's health in varying degrees. 
-- to Supersociology as everyone's opinion or expression has a value to a society
 
-In Supereconomics, this manifests as **Nominal Price.**
-
-
-## Nominal Price: The Purchaser's Valuation
-
-> A nominal price is the value that a purchaser sets for a good or service that he demands.  
-
-A purchaser assigns a nominal value to any good or service that he needs or wants, after his mind realizes that need or want. This is the beginning of economic activity. 
-
-This value can be denoted in 3 forms:
+<!-- This value can be denoted in 3 forms:
 
 1. Money as number-objects
 
@@ -60,16 +60,19 @@ Examples are goods and services themselves
 3. Moneyless Intangible
 
 Examples are goodwill, reputation, mental satisfaction or peace of mind
+ -->
+
 
 
 **Nominal price** is exchangeable value denoted as a numerical object.
 - In a money-system this number-object manifests as money
-- In a moneyless system it manifests as points or strings or any system of notation
+- In a moneyless system it manifests as points or strings or any system of notation, which then represents the commodity used as standard measure
+
 
 {{< i s="/photos/econ/quipu.jpg" a="Quipu strings" c="In the Inca system, nominal value took the form of knots on strings" >}}
 
 
-In the previous chapter, we gave an example of Adam wanting to buy a cake for his wife's birthday. The total worth of the cake to his mind comes from: 
+Chapter 3 of the Introduction gave an example of Adam wanting to buy a cake for his wife's birthday. The total worth of the cake to his mind comes from: 
 - his love for his wife
 - the practice of giving a cake during birthdays
 - the cake's usefulness to his wife
@@ -82,6 +85,15 @@ This worth then forms its exchangeable value. Let us assume that it is $20.
 This exchangeable value is thus the numerical version or **"nominal price"** of his abstract desire for the cake. This represents the amount of money, goods, or services that Adam is willing to give for the cake.
 - The more he desires the cake, the higher its nominal price will be
 - The less he desires the cake, the lower its nominal price
+
+
+Of course the $20 is does not an accurately convey the feeling of love for his wife. 
+- It is just a corrupted and objectified version that is used to harmonize with the nominal values set by other people
+- It strips away information in order to simplify into one quantitative information
+
+
+
+## Nominal Price is Based on Rarity 
 
 The previous chapter explained that a rare item is usually more desired than one that is very common. 
 - Rare and scarce items therefore have a high nominal price.  

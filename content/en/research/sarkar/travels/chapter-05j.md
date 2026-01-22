@@ -43,8 +43,7 @@ The Tantric organization provides the structure for everyone to try their best, 
 aspirants to err again and again if they are willing to admit their mistakes and try to rectify 
 themselves.
 
-My trainer had entered the "third stage" of spiritual development at the time of his 
-downfall. 
+My trainer had entered the "third stage" of spiritual development at the time of his downfall. 
 
 1. Stage 1 is when one feels difficulty to concentrate, and also may be challenged by his or her family or friends.
 
@@ -56,31 +55,35 @@ Obstacles are more internal than external.
 
 I quote one of Baba's writings: 
 
-{{< box >}}
+{{< l a="Baba" >}}
 There is quick progress in this third stage. But there are strong possibilities of degradation also. At every step one must move with vigilance. 
 
-In this stage the spiritual aspirants acquire some occult powers which may be dangerous after a certain progress.
+In this stage, the spiritual aspirants acquire some occult powers which may be dangerous after a certain progress.
 
-There is every chance of misuse or abuse of those occult powers as a result of which onedegenerates.... 
+There is every chance of misuse or abuse of those occult powers as a result of which onedegenerates...
 
 The realized persons say that the spiritual path is as sharp as the razor's edge, it is really inaccessible'. 
 
 Human beings will have to move on, but in this stage they cannot move a step forward unless and until they develop a high-grade conscience. 
 
-For this they depend solely on the grace of the Supreme.... In this third stage, if there is devotion, one can easily move forward without any difficulty: but a person who has no devotion, whose heart is as dry as a desert, will find it impossible to progress.
-{{< /box >}}
+For this, they depend solely on the grace of the Supreme...
+
+In this third stage, if there is devotion, one can easily move forward without any difficulty. 
+
+But a person who has no devotion, whose heart is as dry as a desert, will find it impossible to progress.
+{{< /l >}}
+
 
 
 4. In Stage 4, one's mind becomes inextricably concentrated upon the Supreme Being.
 
 Then all psychic problems cease, and only external difficulties confront the aspirant. 
 
-But there is no possibility of downfall because the thought of Guru is constantly present. Baba writes about 
-this stage: 
+But there is no possibility of downfall because the thought of Guru is constantly present. Baba writes about  this stage: 
 
-{{< q a="Baba" >}}
+{{< l a="Baba" >}}
 When a person attains an exalted state of spirituality, he or she can bring welfare to millions of people, and they can do so due to the grace of the Supreme Consciousness.
-{{< /q >}}
+{{< /l >}}
 
 
 I noticed that the acharyas who gave up their acharyaship and the Margis who stopped practicing meditation had one thing in common: **they did not regularly practice kiirtan when they were alone.** 
@@ -91,10 +94,11 @@ Whereas kiirtan, the singing and dancing to Baba nam kevalam, is free of egoisti
 
 My trainer hardly ever sang kiirtan. He used to say, "Only those who are weak-minded need kiirtan. My meditation is very powerful, so I don't require such singing." 
 
+
 But Baba says otherwise: 
 
 {{< l a="Baba" >}}
-The nucleus of devotion is not to be found in the heart of the dry yogi. Rather it is located in the hearts of those who are practicing kiirtan.
+The nucleus of devotion is not to be found in the heart of the dry yogi. **Rather it is located in the hearts of those who are practicing kiirtan.**
 
 If you want to develop devotion, when you have 30 minutes time for spiritual practices, spend 20 minutes in kiirtan, and 10 minutes in meditation.
 {{< /l >}}

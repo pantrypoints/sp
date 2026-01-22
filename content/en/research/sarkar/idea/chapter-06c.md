@@ -51,25 +51,28 @@ In Tantra sádhaná<!--  or in Ananda Marga sádhaná -->:
 - one who aims at the Macrocosmic Nucleus <!-- Puruśottama --> merges in Saguńa Brahma
 - one who aims at Objectless Existence <!-- Nirguńa Brahma --> becomes surrendered into the Objectless Entity Nirguna.
 
-Only Tantra has the sádhaná of Táraka Brahma which:
+**Only Tantra has the sádhaná of Táraka Brahma** which:
 - has its own peculiarity
-- is <!--  has been specially defined --> distinct from the sádhaná of Nirguńa and Saguńa. 
+- is <!--  has been specially defined --> **distinct from the sádhaná of Nirguńa and Saguńa.** 
+
 
 Theoretically, <!-- Saguńa Brahma --> Existence has infinite saḿskáras. 
 - So for an infinite time to come, Existence <!-- Saguńa Brahma --> will continue to enjoy the fruit of Its own past actions.
 
 The Objectless Entity or Nirguńa has no action or derivation. 
-- Táraka Brahma is the middle point between Existence and Objectless Existence
+- **Táraka Brahma is the middle point between Existence and Objectless Existence**
 - He can fulfill the function of both. 
 - He guides, loves and favours His affectionate sons and daughters who then surrender to Him.
 
-<!-- His children say that He cannot live without loving them and address Him:
+
+His children say that He cannot live without loving them and address Him:
 
 {{< q >}}
 “O our great Father, our affectionate Mother, our All, we remember Thee, we adore Thee. O Witnessing Entity, we offer our homage to Thee, Thou art the only rescue in this crude worldly ocean, so to Thee we surrender ourselves.” 
-{{< /q >}} -->
+{{< /q >}}
 
-This complete surrender is the summum bonum of all spiritual sádhaná, which only can lead to Him from where decline is not even imaginable. 
+
+This **complete surrender** is the summum bonum of all spiritual sádhaná, which only can lead to Him from where decline is not even imaginable. 
 
 Really blessed is one who has attained this complete surrender unto Him, like the piece of salt which went to measure the depth of the ocean. 
 - A momentous divine jerk and an attraction occurred

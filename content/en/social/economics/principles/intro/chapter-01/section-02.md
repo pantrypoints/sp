@@ -28,25 +28,55 @@ The society-organism has a wave of desire that manifests as economic activity | 
 {{< youtube eEGJY4F6QKw >}}
 
 
+Each soul in the society organism has a desire to exist physically, just as the society organism does. 
 
-## Economic Desire and Demand
+Within this desire to exist come smaller, waves that have desires within physical existence.
+
+For example, we desire to eat, relax, watch movies, wear clothes, make things, start a project, etc. 
+
+These desires are separate waves that make up the collective wave of human desire. 
+
+We can classify these desire-waves as:
+- incoming, or
+- outgoing
+
+Incoming desire-waves lead to demand. 
+- A person who has this is usually called the buyer or demander.
+
+Outgoing desire-waves lead to supply. 
+- A person who has this is usually called the seller or supplier.
+
+
+
+The matching of supply with demand relies on relationality which is the **vibrational match** between two entities. 
+
+This is usually called a meeting of the minds.
+
+
+<!-- ## Economic Desire and Demand
 
 Buying and selling are rooted in desire. 
 - If you desire a product, then you buy it. If many people want it, then they buy all of it, leaving a scarcity which raises its price. We say it is a 'hot' item.
 - If you do not desire a product, then you don't buy it and it stays unsold. This leads to an oversupply which lowers its price. We say the market has a 'cold' reception to it.
 
-The rise and fall of prices in an economy therefore reflect the changing desires of the people, manifesting as their demand. This is more obvious in democratic countries where prices can rise and fall dramatically. 
+The rise and fall of prices in an economy therefore reflect the changing desires of the people, manifesting as their demand. This is more obvious in democratic countries where prices can rise and fall dramatically.  -->
 
-[Supereconomics](/social/economics/) deals with the changing waves of demand in order to match them with supply as quickly as possible. 
+Supereconomics deals with the changing waves of demand in order to match them with supply as quickly as possible. 
 - Today you might want ice cream. 
 - Tomorrow you might want hot coffee.
 
 Economic systems must make sure that ice creams and hot coffees will be available and affordable when you desire them. 
 
+The key is in finding the economic relationality between people. 
+
+This relationality is exposed by mapping the wave-pattern of desires of the person through time and in relation to various impositions. 
+
+
+
 
 ## Waves of Desire and GDP Growth
 
-The collective wave of desire of society is most easily seen in the following:
+The combined desire-waves of people in society leads to the collective wave of desire of that society. This is most easily seen in the following:
 - stock and commodity prices
 - foreign exchange rates
 - cryptocurrencies (as long as they are market-driven)
@@ -59,6 +89,9 @@ We can say that:
 
 
 {{< n n="*This is fully explained in [the Metaphysics of Prices](/social/economics/principles/intro/chapter-03/)" >}}
+
+
+
 
 
 Sometimes you want a thing, sometimes you don't. But normally, the number of your desires increase through time. This is unless you are going towards the end of your life, when the energy to achieve desires naturally wane. 
@@ -141,6 +174,8 @@ For example:
 This is different nowadays when whole countries get dragged down by some isolated action such as the peddling of collateralized debt obligations by a few bankers. 
 
 In the 18th century, national economies were affected by wars, such as the Seven Years' War, and not by bankers. 
+
+
 
 
 ## So How Do We Get Rid of the Bad Ideas from Neoclassical Economics?

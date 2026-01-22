@@ -107,7 +107,11 @@ It is useless to pray to God for something, for He is sure to give what is neces
 
 <!-- Bhaktirbhagavadbhávaná na stutirnárcaná. -->
 
-Being merged in the constant thought of God is devotion. Devotion is not related to the chanting of hymns or ritualistic worship with different paraphernalia. A devotee may perform these, but they are not an indispensable part of devotional sádhaná.
+Being merged in the constant thought of God is devotion. 
+
+Devotion is not related to the chanting of hymns or ritualistic worship with different paraphernalia. 
+
+A devotee may perform these, but they are not an indispensable part of devotional sádhaná.
 
 
 

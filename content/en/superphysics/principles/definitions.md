@@ -266,6 +266,8 @@ Supereconomics | the study of management of resources in a decentralized Pantryp
 Trading | a regular exchange activity
 Wage | Regular Revenue to Live, from the Abundance Experienced by Employers
 Wealth | the actual quality and quantity of useful goods and services
+Value | the importance or matching impact of something to a mind, based on desire.
+
 
 
 ## Bio Superphysics
