@@ -34,7 +34,7 @@ Man sometimes does the same with other men, sometimes trying every servile and f
 
 In a civilized society, he always needs the cooperation of so many people. But he can only maintain friendship with a few people in his entire life.
 
-Most animals are totally independent after maturity. But man must always depends on others.
+Most animals are totally independent after maturity. But man must always depend on others.
 
 He will likely get help more successfully if he can use their self-love to his favour, instead of their benevolence. He must show them that it is for their own advantage to do for him what he requires. 
 

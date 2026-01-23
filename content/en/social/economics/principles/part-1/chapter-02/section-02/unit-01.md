@@ -1,10 +1,9 @@
 ---
-heading: "Section 2"
+heading: "Unit 1"
+title: "Force of Demand: Minimum Needs"
 linkTitle: Minimum Needs
-title: "Demand Power: Minimum needs"
 date: 2025-08-09
-# date: 2024-08-27
-weight: 12
+weight: 6
 image: /photos/buy.jpg
 description: Minimum Needs ensures human dignity and is a better base of a science of resource allocation than marginal utility.  
 writer:
@@ -15,17 +14,19 @@ icon: "Supereconomics"
 
 
 
-The previous sections explained that Supereconomics, based on the Positive, replaces:
-- selfish-interest with fellow-feeling and self-purpose
-- utlity with a flexible hierarchy of needs
+The previous sections explained that the 1st law of Supereconomics uses relationality to replace:
+- selfish-interest with fellow-feeling 
+- materialistic utlity with a flexible hierarchy of needs
 
 This flexible hierarchy of needs is:
 - based on the 5 Elements, and
 - flexible, allowing the higher needs to be larger than the lower ones
 
-
 This hierarchy is implemented as the **Minimum Needs**. 
 - This is opposite of Economics which implements utility as marginal utility 
+
+![buy](/photos/buy.jpg)
+
 
 This is based on the idea that a society is a metaphysical soul-organism made up of individual souls. 
 
@@ -43,13 +44,16 @@ This is consistent with the Consumption Motive which treats the society as one f
 
 This means that the government should take a leading role, as the father of the society. 
 
-Miniumum Needs can be impelemented either by the government or by non-government organizations and institutions.  
+Miniumum Needs can be impelemented either by the government or by non-government organizations, associations, and institutions.  
 
-Such institutions are distributors of goods and services and not producers. This will reduce its capital costs. Instead, it will need a fund to sustain its operational costs.  
+Such institutions are **distributors** of goods and services and not producers. This will reduce its capital costs.
+
+Instead, it will need a fund to sustain its operational costs.  
 
 This fund is derived from wage contributions (sale of labor) or sales taxes (sale of goods). 
 
-Supereconomic taxation allows tax payments in kind. And so the set up cost of this system is not as high as imagined. 
+Supereconomic taxation allows tax payments in kind. And so the set up cost of this system is not as high as imagined. The actual administration of the minimum needs model will be done by the 3rd Law of Value as part of the Resources Branch of Government.
+
 
 
 ## Classifying Human Needs
@@ -79,15 +83,23 @@ All children, whether born in or out of wedlock, shall enjoy the same social pro
 
 Minimum human needs can be simplified into the following, in terms of temporal importance: 
 
-1. Clean air
-2. Clean water
-3. Food
-4. Shelter
-5. Transporation
-6. Communication and Expresion
-7. Healthcare 
 
-We call the desire to have these needs met as the **Demand Power** of force of demand. 
+Need | Element
+--- | ---
+1 Clean air | Crude
+2 Clean water | Crude
+3 Food | Crude
+4 Shelter | Subtle
+5 Transporation | Astral
+6 Communication and Expresion | Essential
+7 Healthcare | Subtle
+
+
+{{< i s="/graphics/econ/needs.jpg" a="Abraham Maslow hierarchy of needs" c="Self-actualization is causal just as svadharma or self-purpose" >}}
+
+
+
+We call the desire to have these needs met as the **Force of Demand** which complements the **Force of Capital** of the 2nd Law of Value.
 
 This force comes from fellow-feeling from the Positive Force, which is the opposite of selfishness from the Negative force.
 
@@ -119,7 +131,7 @@ It is administered by a Gross National Happiness Index Commission that is tasked
 - come up with 5-year plans
 - administer the GNH survey
 
-{{< i s="/graphics/econ/needs.png" a="Needs" c="We can use the Gross National Happiness Index of Bhutan as an implementation of the Supereconomic Hierarchy of Needs"  >}}
+{{< i s="/graphics/econ/gnh.jpg" a="Needs" c="We can use the Gross National Happiness Index of Bhutan as an implementation of the Supereconomic Hierarchy of Needs"  >}}
 
 
 {{< q a="Adam Smith" c="The Wealth of Nations, Book 1 Chapter 11" >}}
@@ -161,43 +173,4 @@ The HS is administrated by the World Customs Organization (WCO) and is updated e
 
 The HS assigns specific six-digit codes for varying classifications and commodities. Countries are allowed to add longer codes to the first six digits for further classification. Singapore adopts the 8-digit HS Codes in the ASEAN Harmonized Tariff Nomenclature (AHTN), which is based on the World Customs Organization (WCO) 6-digit level HS Codes, for use by all ASEAN member countries.
  -->
-
-
-
-
-
- ### Minimum Needs
-
-Instead of marginal utility, Supereconomics uses:
-- **minimum needs**, to be explained in Chapter 5
-- **the grain index**, explained in Chapter 8.  
-
-{{< i s="/graphics/econ/minimumrequirements.jpg" a="Minimum Needs versus Profit Maximization" >}}
-
-
-These concepts will let people spend and invest for the essential sectors or industries of the economy, whether it is profitable or not. 
-- The minimum needs is the base-state of the society-organism
-- The grain index is the relativistic adjustor through space and time
-
-> Supereconomics replaces marginal utility with minimum needs and the grain index
-
-In this way, those sectors will remain capitalized and functioning. This will then prevent price shocks or externalities that grow into crises which harm the sustainability of the supereconomy (An economy that follows our principles of Supereconomics)
-
-
-
-<!-- Minimum needs are based on use value. This makes it easier to assess just as personal budgeting is easier than organizing a labor force or scheduling and financing a production run.  
-
-All you need is the census of the population. From there, you can assess the minimum resources needed by that population. 
-
-Providing those resources, however, is a different issue as it requires logistics and planning. This is the job of the economic system. 
- -->
-
-{{< i s="/photos/social/pantry.jpg" a="Free Food" >}}
-
-
-<!-- This value is called **use-value** or  in Economics. Superphysics allows sentimental value, but since the mechanism to objectively compare sentiments is not yet established*, we shall stick to use-value. 
-
-
-> *We're working on that too -->
-
 

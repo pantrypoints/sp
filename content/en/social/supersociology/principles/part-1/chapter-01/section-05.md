@@ -31,6 +31,28 @@ A civilization needs much more than laws. Here, we give 5 requirements derived f
 
 
 
+<!-- Socal developernt 'bhati' reqs:
+1. Spiritual ideology in individual life and collective body. 
+2. Spiritual cult, a Sádhaná process. 
+There should be a proper process for this conversion. Spiritual cult consists of the conversion of the five rudimental factors into ectoplasmic stuff and then into consciousness through a special scientific process. 
+3. A blending of existence and progress as a socio-economic theory. 
+4. Social outlook fraternal feeling. The implementation of this theory is an impossibility without Sádhaná.
+5. Its own scripture.
+There is a need for the company of elevated persons (satsauṋga) in all spheres of life.
+The authority whose contact means satsauṋga for you is the shástra. That which elevates society by dint of sháśana is called [[shástra]]. We should have a shástra of our own. 
+6. Its own preceptor.
+
+1. Supreme Entity
+2. Spiritual Superphysics
+3. Supereconomics
+4. Superpsociology
+5. Research
+6. The Enlightened Authors  -->
+
+
+
+
+
 ### 1. A Clear Ideology
 
 A civilziation needs to have a clear ideology in order to harmonize its individual waves. 

@@ -50,6 +50,9 @@ Humans do this by instinct because this is how our species has evolved to be so 
 {{< img src="/photos/social/family.jpg" alt="Happy Family" cap="The human species continues its lineage through the children" >}}
 
 
+This is why the 1st Law is the 1st Law and not the last -- because it emphasizes demand and the desires of the people in society.
+
+
 <!-- This means that there were proto-humans that did not have the same mentality to provide for their children and so naturally became extinct. For example, they might have done the opposite and have eaten their children as a food source just like some animals species. -->
 
 

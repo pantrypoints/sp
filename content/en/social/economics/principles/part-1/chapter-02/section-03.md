@@ -1,9 +1,9 @@
 ---
-heading: "Section 1"
+heading: "Section 3"
 linkTitle: Time Value of Life
 title: "The Time Value of Life"
 date: 2025-08-10
-weight: 4
+weight: 14
 image: /photos/objects/time.jpg
 description: "Effective Demand is the actual demand of the people who are willing to pay for products or services"
 writer:

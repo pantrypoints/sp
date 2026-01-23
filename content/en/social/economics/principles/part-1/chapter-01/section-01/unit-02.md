@@ -93,7 +93,7 @@ Of course the $20 is does not an accurately convey the feeling of love for his w
 
 
 
-## Nominal Price is Based on Rarity 
+## Nominal Price is Based on Lack, Rarity, or Scarcity
 
 The previous chapter explained that a rare item is usually more desired than one that is very common. 
 - Rare and scarce items therefore have a high nominal price.  
@@ -107,3 +107,7 @@ If he commonly experiences the price for birthday cakes to be $10, then he will 
  -->
 
 {{< img src="/graphics/econ/law1st.jpg" alt="First law flow" cap="The first law of value creates the downward sloping demand curve for both Economics and Supereconomics" >}}
+
+
+Nominal Price therefore exposes what is *lacking* so that it can drive action to be addressed.
+

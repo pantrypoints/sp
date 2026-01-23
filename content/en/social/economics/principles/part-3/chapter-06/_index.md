@@ -1,12 +1,13 @@
 ---
 heading: "Chapter 6"
-title: "Concepts for Balance"
+title: "Balanced Economic Development"
 date: 2015-01-17
 weight: 26
-c: royalblue
-draft: true
-description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
+image: /photos/econ/cocoa.jpg
+description: "Balanced Economic Development is essential in Supereconomics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
+
+

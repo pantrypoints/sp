@@ -31,6 +31,8 @@ In the event of shortages in food and accommodation people will collectively con
 
 If people living in capitalist countries voluntarily adopt birth control methods to avoid economic hardship, perhaps we should not criticize them. But it should be mentioned here that using birth control methods which deform the bodies of men and women or destroy their reproductive powers forever cannot be supported, because this may cause a violent mental reaction at any moment.
 
+
+
 ## PROUT’s Solution
 
 Under the present socio-economic conditions, PROUT advocates a comprehensive, clear-cut policy to tackle the population problem. According to PROUT, population growth will automatically find a natural level if the following four factors exist in society.
@@ -87,4 +89,5 @@ Society will have to adopt a collective economic system for maximum production a
 Instead, certain inhuman birth control practices have been forcibly promoted. Not only are such practices detrimental to a healthy human body and mind, they cause physical deformity, disturbances and misunderstandings in family life, and mental derangement and debility. Those inflicted with such psychic ailments lose the courage to face adversity in life and the power to fight for social justice.
 
 Imposing a fear of population growth is nothing but a cunning conspiracy by vested interests to misguide people and exploit society. Optimistic people throughout the world will have to unite and raise their voices against such a heinous conspiracy, and work together to construct a just and benevolent society.
+
 

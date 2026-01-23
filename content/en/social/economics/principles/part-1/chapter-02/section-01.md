@@ -1,13 +1,13 @@
 ---
 heading: "Section 1"
-linkTitle: Hierarchy of Needs
-title: "Replacing Utility with a Flexible Hierarchy of Needs"
+# linkTitle: Hierarchy of Needs
+title: "Hierarchy of Needs"
 date: 2025-08-09
 # date: 2015-08-20
 # date: 2022-08-29  The Flaw of Utility Theories
 weight: 10
 image: /graphics/econ/maslow.jpg
-description : "Economics enshrines Utility as the foundation of value, while Supereconomics emphasizes Dharma"
+description : "Replacing Utility with a Flexible Hierarchy of Needs"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -15,51 +15,18 @@ icon: "Supereconomics"
 ---
 
 
-## The Doctrine of Utility
 
-The lack of fellow feeling in Economics makes it focus on the self and usefulness or "utility" that our selves get, through goods and services.
+The 1st Law is based on relational desires as effective demand. 
 
-This makes utility-for-the-self the core doctrine in Economics.
-- The aethereal part is the self
-- the material part is the tangible or visible goods and services
+This leads to the concept of human needs.
 
-This makes Economics materialistic and selfish. This then leads to the producer's motive. 
-
-
-{{< i s="/photos/objects/money.jpg" >}}
-
-
-In contrast, Supereconomics uses fellow-feeling as its basis.
-
-This reduces its focus on material utility whle increasing its focus on the utility that other people can get. This is consistent with Adam Smith and Socrates seeing excessive riches as dangerous:
-
-
-{{< q a="Adam Smith" c="Theory Of Moral Sentiments, Part 4" >}}
-Power and riches.. are enormous machines that produce a few trifling conveniencies to the body..ready every moment to burst into pieces and crush their unfortunate possessor.. 
-{{< /q >}}
-
-
-Smith was against having utility as the basis of any economy because utility does not build fellow-feeling and therefore does not build morality. 
-
-{{< q a="Adam Smith" c="Theory Of Moral Sentiments, Part 4" >}}
-It is not this utility which is the principal source of our approbation.. It seems impossible that we would approve of virtue in the same way we approve of a well-made building.. **The sentiment of approbation that arises from the beauty of utility has no reference to the sentiments of others**.
-{{< /q >}}
-
-
-In other words, utility or material usefulness is only morally good for the self. When you pursue material things, you only think of yourself and your own needs. 
-
-For example, you might be very hungry and want to eat at an Indian restaurant, but your partner, also very hungry, might want to eat at a Korean restaurant. 
-- If you really wanted to maximize our utility, then you would eat separately.
-- But if you want to maximize your mutual love, then one of you will sacrifice your needs for that of the other.
-
-> When you pursue material things, you only think of yourself and your own needs
-
-According to Adam Smith, humans should think of the needs of others. This mutual feeling would then lead to the wealth of nations through trade. 
 
 
 ## Selfishness, Utility, Maslow's Needs
 
-Selfisness leads to a focus on material utility which Maslow enshrined as the "physiological needs". 
+Because of the crudity of Economics being based on selfishness instead of common interest, the human needs are nowadays based on material needs.
+
+This was enshrined by Maslow as the "physiological needs".
 
 {{< q a="Abraham Maslow" >}}
 These physiological needs are the most pre-potent of all needs. In the human being who is missing everything in life in an extreme fashion, it is most likely that the major motivation would be the physiological needs rather than any others. A person who is lacking food, safety, love, and esteem would most probably hunger for food more strongly than for anything else.
@@ -70,25 +37,29 @@ Maslow assumes an uncaring society as the default. This then leads to the lack o
 
 And so he says that food is most pre-potent of all needs. 
 
-This is easily disproven by breatharians who can live without eating. 
+<!-- This is easily disproven by breatharians who can live without eating. 
 
-{{< youtube 9GmsT7YWVBo >}}
+ youtube 9GmsT7YWVBo >}}
+ -->
 
+We put Maslow's Hierarchy under the 5 Elements Model of Superphysics to reveal their perfect alignment. 
 
-To build a supereconomic system that has fellow feeling and redced material needs, we put Maslow's Hierarchy under the 5 Elements Model.
+{{< i s="/graphics/econ/needs.jpg" a="Abraham Maslow hierarchy of needs" c="Self-actualization is causal just as svadharma or self-purpose" >}}
 
-{{< img src="/graphics/econ/maslow.jpg" alt="Abraham Maslow hierarchy of needs" cap="Self-actualization is aethereal just as svadharma or self-purpose is aethereal" >}}
 
 
 This allows us to make the higher needs like love and self-actualization larger and more important than the physiological ones (which might only have a temporal importance). 
 
-For example, a person can have a much larger self-actualization with very little physiological needs, as seen in breatharians. 
+For example, spiritual people have more self-actualization and very little physiological needs. This is seen in their modesty and fasting practices.
 
-Or right after they meet their basic material needs, they can go straight to love and self-actualization. 
+Or social people might focus on having many friends, which increases their esteem.
+
+A flexible model thus allows an economy that is responsive to the needs of various personality types.
 
 {{< q a="Socrates" >}}
 The first and greatest of necessities is food, which is the condition of life and existence. The second is a dwelling. The third clothing and the like.. Each will bring the result of his labours into a common stock.. All things are produced more plentifully and easily when one man does one thing which is natural to him.
 {{< /q >}}
+
 
 
 ## The Supereconomic Hierarchy of Needs 
@@ -115,7 +86,9 @@ This it does by offering what it can, based on its skills, abilities, and person
 - An ideal society is one that can satisfy all the hierarchal needs of every human, neglecting neither materiality nor spirituality.
 
 
-Since svadharma or self-purpose is aethereal in nature, and since it is the cause of value-creation, then this model supports the abstract mechanism of wealth createion directly. 
+Since svadharma or self-purpose is aethereal in nature, and since it is the cause of value-creation, then this model supports the abstract mechanism of wealth creation directly. 
+
+
 
 
 <!-- Using material things to achieve the metaphysical goals is as ineffective as:
@@ -144,3 +117,43 @@ Thus, money and prices in Economics become a sort of drug which creates addictio
 <!-- This volatility is unacceptable if we want to create a better system that is more stable, sustainable, and non-fatal.
 
 To create such a system, we will introduce the concept of dharma in the next subchapter. -->
+
+
+
+<!-- ## Reduces the Doctrine of Utility
+
+The lack of fellow feeling in Economics makes it focus on the self and usefulness or "utility" that our selves get, through goods and services.
+
+This makes utility-for-the-self the core doctrine in Economics.
+- The aethereal part is the self
+- the material part is the tangible or visible goods and services
+
+This makes Economics materialistic and selfish. This then leads to the producer's motive. 
+
+
+In contrast, Supereconomics uses fellow-feeling as its basis.
+
+This reduces its focus on material utility whle increasing its focus on the utility that other people can get. This is consistent with Adam Smith and Socrates seeing excessive riches as dangerous:
+
+
+q a="Adam Smith" c="Theory Of Moral Sentiments, Part 4" >}}
+Power and riches.. are enormous machines that produce a few trifling conveniencies to the body..ready every moment to burst into pieces and crush their unfortunate possessor.. 
+/q >}}
+
+
+Smith was against having utility as the basis of any economy because utility does not build fellow-feeling and therefore does not build morality. 
+
+q a="Adam Smith" c="Theory Of Moral Sentiments, Part 4" >}}
+It is not this utility which is the principal source of our approbation.. It seems impossible that we would approve of virtue in the same way we approve of a well-made building.. **The sentiment of approbation that arises from the beauty of utility has no reference to the sentiments of others**.
+/q >}}
+
+In other words, utility or material usefulness is only morally good for the self. When you pursue material things, you only think of yourself and your own needs. 
+
+For example, you might be very hungry and want to eat at an Indian restaurant, but your partner, also very hungry, might want to eat at a Korean restaurant. 
+- If you really wanted to maximize our utility, then you would eat separately.
+- But if you want to maximize your mutual love, then one of you will sacrifice your needs for that of the other.
+
+> When you pursue material things, you only think of yourself and your own needs
+
+According to Adam Smith, humans should think of the needs of others. This mutual feeling would then lead to the wealth of nations through trade. 
+ -->

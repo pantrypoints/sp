@@ -14,22 +14,42 @@ weight: 102
 
 
 {{< r a="Asker" >}}
-I don't like the idea of surrender. It sounds fatalistic. If we always accept the way things are, we are not going to make any effort to improve them. It seems to me what progress is all about, both in our personal lives and collectively, is not to accept the limitations of the present but to strive to go beyond them and create some thing better. If we hadn't done this, we would still be living in caves. How do you reconcile surrender with changing things and getting things done?
+I don't like the idea of surrender. It sounds fatalistic. If we always accept the way things are, we are not going to make any effort to improve them to progress.
+
+Progress is not to accept the limitations of the present but to strive to go beyond them and create some thing better. 
+
+If we hadn't done this, we would still be living in caves. How do you reconcile surrender with changing things and getting things done?
 {{< /r >}}
 
 
-To some people, surrender may have negative connotations, implying defeat, giving up, failing to rise to the challenges of life, becoming lethargic, and so on. True surrender, how. ever, is something entirely different. It does not mean to pas- sively put up with whatever situation you find yourself in and to do nothing about it. Nor does it mean to cease making plans or initiating positive action.
 
-Surrender is the simple but profound wisdom of yielding to rather than opposing the flow of life. The only place where you can experience the flow of life is the Now, so to surren- der is to accept the present moment unconditionally and without reservation. It is to relinquish inner resistance to what is. Inner resistance is to say "no" to what is, through mental judgment and emotional negativity. 
+To some people, surrender may have negative connotations, implying defeat, giving up, failing to rise to the challenges of life, becoming lethargic, and so on.
 
-It becomes particularly pronounced when things "go wrong," which means that there is a gap between the demands or rigid expectations of your mind and what is. That is the pain gap. If you have lived long enough, you will know that things "go wrong" quite often. It is precisely at those times that surren- der needs to be practiced if you want to eliminate pain and sor- row from your life. Acceptance of what is immediately frees you from mind identification and thus reconnects you with Being. Resistance is the mind.
+True surrender, however, is something entirely different.
+
+It does not mean to pas- sively put up with whatever situation you find yourself in and to do nothing about it. Nor does it mean to cease making plans or initiating positive action.
+
+Surrender is the simple but profound wisdom of yielding to rather than opposing the flow of life. The only place where you can experience the flow of life is the Now, so to surrender is to accept the present moment unconditionally and without reservation.
+
+It is to relinquish inner resistance to what is. Inner resistance is to say "no" to what is, through mental judgment and emotional negativity. 
+
+It becomes particularly pronounced when things "go wrong," which means that there is a gap between the demands or rigid expectations of your mind and what is. That is the pain gap.
+
+If you have lived long enough, you will know that things "go wrong" quite often. It is precisely at those times that surren- der needs to be practiced if you want to eliminate pain and sorrow from your life. Acceptance of what is immediately frees you from mind identification and thus reconnects you with Being. Resistance is the mind.
 
 Surrender is a purely inner phenomenon. It does not mean that on the outer level you cannot take action and change the situation. In fact, it is not the overall situation that you need to accept when you surrender, but just the tiny segment called the Now.
 
+For example, if you were stuck in the mud you wouldn't say: “Okay, I resign myself to being stuck in the mud." 
 
-For example, if you were stuck in the mud somewhere, you wouldn't say: “Okay, I resign myself to being stuck in the mud." Resignation is not surrender. You don't need to accept an undesirable or unpleasant life situation. Nor do you need to deceive yourself and say that there is nothing wrong with being stuck in the mud. No. You recognize fully that you want to get out of it. You then narrow your attention down to the present moment without mentally labeling it in any way. This means that there is no judgment of the Now. 
+Resignation is not surrender.
+
+You don't need to accept an undesirable or unpleasant life situation. Nor do you need to deceive yourself and say that there is nothing wrong with being stuck in the mud. No. 
+
+You recognize fully that you want to get out of it. You then narrow your attention down to the present moment without mentally labeling it in any way. This means that there is no judgment of the Now. 
 
 Therefore, there is no resistance, no emotional negativity. You accept the "isness" of this moment. Then you take action and do all that you can to get out of the mud. Such action I call positive action. It is far more effective than neg- ative action, which arises out of anger, despair, or frustra- tion. Until you achieve the desired result, you continue to practice surrender by refraining from labeling the Now.
+
+
 Let me give you a visual analogy to illustrate the point I am making. You are walking along a path at night, surrounded by a thick fog. But you have a powerful flashlight that cuts through the fog and creates a narrow, clear space in front of you. The fog is your life situation, which includes past and future; the flashlight is your conscious presence; the clear space is the Now.
 
 

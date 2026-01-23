@@ -1,7 +1,7 @@
 ---
-heading: "Section 2"
-linkTitle: Grains
+heading: "Unit 3"
 title: "Grains as the Store of Value"
+linkTitle: Grains
 date: 2022-08-24
 weight: 15
 image: /photos/grains.jpg
@@ -121,6 +121,3 @@ If Adam doesn't have $1, he can give to Bob anything that Bob wants that is also
 In this way, both people can get what they want, without having to employ and bankers, financiers, or lawyers. 
 
 The most important ingredient in the transaction is their mutual agreement. 
-
-
-

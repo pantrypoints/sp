@@ -17,6 +17,7 @@ Likewise, the personality also functions as a prism, separating the holistic ene
 - emotions
 - thought Patterns & actions
 
+
 ```bash
 Soul -> prism of Personality -> Beliefs -> Emotions -> Thought Patterns & Actions 
 ```
