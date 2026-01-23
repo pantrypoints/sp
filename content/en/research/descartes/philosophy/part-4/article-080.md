@@ -14,7 +14,8 @@ aliases:
 
 
 
-{{< n n="Fire is produced from matter when spacetime exits instantly, leaving only matter and radiance. We replace 3rd Element with earth-aether, and 2nd Element with air-aether" >}}
+{{< n n="Fire is produced from matter when spacetime exits instantly, leaving only matter and radiance. We replace 3rd Element with earth-aether, and 2nd Element with air-aether (In Asian Physics, the 2nd Element is called vayu [air] or chi)" >}}
+
 
 
 ## 80. The nature of fire and its distinction from air

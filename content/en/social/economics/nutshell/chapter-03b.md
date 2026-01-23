@@ -22,7 +22,7 @@ The replacement of utility with life will likewise shift the emphasis from the p
 8.  Culture
 9.  Good Governance
 
-{{< i s="/graphics/econ/needs.png" a="Minimum Needs" >}}
+{{< i s="/graphics/econ/gnh.jpg" a="Minimum Needs" >}}
 
 
 Good governance is on the top, while living standards is at the bottom, matching the physiological needs from Maslow's hierarchy. This is because the policies of the government can make or break the economy, and along with it the happiness of society. 

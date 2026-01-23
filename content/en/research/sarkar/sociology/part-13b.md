@@ -21,13 +21,13 @@ Egypt was fully developed in art, architecture and science. But they collapsed b
 
 <!-- It is the Egyptians who made the pyramids which needed subtle geometrical knowledge. Moreover, they were also very advanced in the sphere of civilization. Despite this, they could not prevent their defeat. Today’s Egypt is the Egyptian form of Arab civilization. The cause of the death of its older form was the lack of the aforesaid six factors. -->
 
-The Christian or Roman civilization <!-- was also considerably higher on the ladder of development. Yet they were --> lacked:
-- social outlook. 
-  - There were no feelings of fraternity and equality. 
-  - The slave system was rampant and human feelings were on the wane. 
+The Christian or Roman civilization was also higher on the ladder of development. Yet they lacked:
+- social outlook
+  - There were no feelings of fraternity and equality
+  - The slave system was rampant and human feelings were on the wane
 - lacked a proper socio-economic theory
-  - This generated a fascist mentality in them. 
-  - Those rolling in luxury and adverse to labour became indolent. 
+  - **This generated a fascist mentality in them**
+  - Those rolling in luxury and adverse to labour became indolent
 
 Naturally they were defeated by a stronger and more strenuous force. 
 

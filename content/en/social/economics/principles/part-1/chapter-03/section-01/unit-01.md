@@ -1,5 +1,5 @@
 ---
-heading: "Section 1"
+heading: "Unit 1"
 linkTitle: Stores of Value
 title: "Resource Mechanisms: Stores of Value"
 date: 2022-08-24

@@ -191,6 +191,25 @@ By activating this synchronicity, things in your life flow more naturally, pleas
 {{< n n="Our acronym is APEnPI or Act, Push, Expect-none, Positive, Investigate" >}}
 
 
+## Short Version of the Formula
+
+
+1. Act on your Excitement
+2. Take it as far as you can
+3. Have **ZERO insistence** on what the outcome should be (You **must stay in positive state**!!!)
+
+
+This leads to the complete kit as tools:
+
+1. Driving engine -- this motivates you
+2. Organizing Principle of synchronicity -- this shows what order and when 
+3. Path of least resistantce -- makes things effortless
+4. Path that connects to other excitements
+5. Reflective mirror -- reveals non aligned beleiefs
+
+These will support you and leave nothing relevant out
+
+
 ## Abundance
 
 Abundance is the ability to do *what* you **need** to do *when* you **need** to do it. 
@@ -209,5 +228,3 @@ Abundance is the ability to do *what* you **need** to do *when* you **need** to 
 ## Success
 
 If at first you don't succeed, redefine success. [and of course don't have any insistence]
-
-
