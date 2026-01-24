@@ -9,7 +9,10 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /material/scam
 ---
+
 
 
 A sophistry is a half-truth, or a fallacy that has some bits of relative truths in it to make it seem true.  

@@ -9,7 +9,10 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 5
 icon: "Juan"
+aliases:
+  /material/principles/part-5/chapter-10/
 ---
+
 
 
 ## Matter and Antimatter
@@ -35,4 +38,3 @@ Matter has a normal vortex rotation and Antimatter has a reverse vortex rotation
 - These cancel the rotation of each other upon contant in space-time.
 - This then forces their internal energy (as the locked up radiant energy) to go out back into space-time.
 
-   

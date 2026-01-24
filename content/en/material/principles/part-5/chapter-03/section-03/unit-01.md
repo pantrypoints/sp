@@ -8,7 +8,9 @@ weight: 3
 icon: "Juan"
 writer:
   name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
+  url: https://www.linkedin.com/in/jundalisay
+aliases:
+  /material/principles/part-5/chapter-03c  
 ---
 
 

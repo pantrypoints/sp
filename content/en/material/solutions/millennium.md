@@ -44,7 +44,64 @@ This is a question about the shape of three-dimensional spaces. Grigori Perelman
 
 
 
-## Using Qualimath to Solve Them
+## General Solutions
+
+Superphysics solves all problems since it works on the human mind, and all problems arise in the mind.
+
+A rock getting smashed will never think of it being a problem otherwise, some rocks would magically defy Physics by not allowing themselves to be smashed. 
+
+The most common pattern is that most of the problems are non problems. 
+
+
+### Non Problems Philosophical
+
+1. P vs NP
+
+This is really just the difference between intellect and intuition.
+
+We solve this through Supermath and Qualimath 
+
+
+
+## Non Problems Euler-based
+
+Euler hacked mathematics and disconnected it from physical reality through imaginary numbers that are extended through infinite series. This leads to mathematical non problems.
+
+These all use Riemann.
+
+1. Hodge Conjecture
+
+This uses the Riemann sphere.
+
+2. Riemann Hypothesis
+
+This uses the Riemann zeta function.
+
+<!-- This is based on the corruption of imaginary numbers which was began by Euler.  -->
+
+3. Birch-Swinnerton Dyer Conjecture
+
+This also indirectly uses the Riemann zeta function.
+
+
+
+### Physics Problems
+
+There are some problems that are caused by the wrong assumptions of Newtonian Physics and ignorance of the 5 Elements. 
+
+1. Yang Mills and Mass Group
+
+This is solved by 5 Elements Model. 
+
+2. Navier Stokes
+
+This is caused by applying F=ma to fluids which actually use the 2nd Element. This is also solved by 5 Elements, with Relationality. 
+
+This can be used for levitation and plasma turbulence. 
+
+
+
+<!-- ## Using Qualimath to Solve Them
 
 The most obvious cause of the problem is the nature of the mathematics that was established from the time of Isaac Newton.
 
@@ -63,3 +120,6 @@ We say that qualimath is fundamentally expansive and synthetic (prefers synthesi
 To attain precision, the qualimath can be crudified into normal math. 
 
 We will begin by using Qualimath to solve the Yang Mills Theory by imposing the 5 Elements. This will be given in future posts.  
+ -->
+
+

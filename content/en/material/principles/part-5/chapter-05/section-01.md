@@ -10,6 +10,8 @@ writer:
 weight: 38
 icon: Juan
 toc: false
+aliases:
+  /material/principles/part-5/chapter-05/section-02/
 ---
 
 
