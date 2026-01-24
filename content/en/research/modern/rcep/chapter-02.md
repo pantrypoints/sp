@@ -3,7 +3,7 @@ heading: Chapter 2
 title: "Trade in Goods"
 description: "Initial Provisions And General Definitions"
 date: 2021-12-25
-image: "/covers/rcep.jpg"
+c: "teal"
 linkTitle: "Chapter 2"
 ---
 
@@ -12,15 +12,10 @@ linkTitle: "Chapter 2"
 
 Article 2.1: Definitions
 
-(a) consular transactions means any requirements that goods of a Party intended for export to the territory of
-another Party must first be submitted to the supervision of the consul of the importing Party in the territory of the
-exporting Party for the purpose of obtaining consular invoices or consular visas for commercial invoices,
-certificates of origin, manifests, shippers’ export
-declarations, or any other customs documentation required
+(a) consular transactions means any requirements that goods of a Party intended for export to the territory of another Party must first be submitted to the supervision of the consul of the importing Party in the territory of the exporting Party for the purpose of obtaining consular invoices or consular visas for commercial invoices, certificates of origin, manifests, shippers’ export declarations, or any other customs documentation required
 on or in connection with importation;
 
-(b) customs duties means any customs or import duty and a charge of any kind imposed in connection with the
-importation of a good, but does not include any: 
+(b) customs duties means any customs or import duty and a charge of any kind imposed in connection with the importation of a good, but does not include any: 
 
 - i) charge equivalent to an internal tax imposed
 consistently with paragraph 2 of Article III of GATT
@@ -35,9 +30,7 @@ of services rendered;
 purposes of levying ad valorem customs duties on
 imported goods;
 (d) duty-free means free of customs duty;
-(e) import licensing procedure means an administrative
-procedure requiring the submission of an application or
-2-1other documentation, other than that generally required for
+(e) import licensing procedure means an administrative procedure requiring the submission of an application or 2-1other documentation, other than that generally required for
 customs clearance purposes, to the relevant administrative
 body of the importing Party as a prior condition for
 importation into the territory of the importing Party; and
@@ -56,12 +49,13 @@ Parties in accordance with Article III of GATT 1994. To this end, Article
 III of GATT 1994 is incorporated into and made part of this Agreement,
 mutatis mutandis.
 
-Article 2.4: Reduction or Elimination of Customs Duties
+### Article 2.4: Reduction or Elimination of Customs Duties
 
 1. Except as otherwise provided in this Agreement, each Party shall
 reduce or eliminate its customs duties on originating goods of
 other Parties in accordance with its Schedule in Annex I
 (Schedules of Tariff Commitments).
+
 2. For greater certainty, in accordance with the WTO Agreement,
 originating goods of other Parties shall be eligible, at the time of
 importation, for the most-favoured-nation applied rate of customs
@@ -72,17 +66,22 @@ and regulations, each Party shall provide that an importer may
 apply for a refund of any excess duty paid for a good if the
 importer did not make a claim for the lower rate at the time of
 importation.
+
 3. Further to subparagraph 1(b) of Article 4.5 (Transparency), each
 Party shall make publicly available any amendments to its most-
 favoured-nation applied rate of customs duty, and the latest
 2-2customs duty to be applied in accordance with paragraph 1, as
 soon as practicable but not later than the date of the application.
-Article 2.5: Acceleration of Tariff Commitments 1
+
+
+### Article 2.5: Acceleration of Tariff Commitments 1
+
 1. Nothing in this Agreement shall preclude the Parties from
 amending this Agreement in accordance with Article 20.4
 (Amendments), to accelerate or improve the tariff commitments
 set out in their Schedules in Annex I (Schedules of Tariff
 Commitments).
+
 2. Two or more Parties 2 may, based on mutual consent, consult on
 the acceleration or improvement of tariff commitments set out in
 their Schedules in Annex I (Schedules of Tariff Commitments).
@@ -92,12 +91,14 @@ modification to their Schedules in Annex I (Schedules of Tariff
 Commitments) in accordance with Article 20.4 (Amendments).
 Any such acceleration or improvement of tariff commitments shall
 be extended to all Parties.
+
 3. A Party may, at any time, unilaterally accelerate or improve its
 tariff commitments set out in its Schedule in Annex I (Schedules
 of Tariff Commitments). Any such acceleration or improvement
 of its tariff commitment shall be extended to all Parties. Such
 Party shall inform the other Parties as early as practicable before
 the new preferential rate of customs duty takes effect.
+
 4. For greater certainty, following a Party’s unilateral acceleration or
 improvement of its tariff commitments referred to in paragraph 3,
 that Party may raise its preferential customs duty to a level not
@@ -143,43 +144,36 @@ originating materials used in the production of that good in the exporting Party
 eligible for preferential tariff treatment applicable to that originating good of the RCEP country of origin.
 
 5. For the purposes of paragraph 2, a “minimal operation” is any operation set out below:
-(a) preserving operations to ensure that the good remains in
+
+- (a) preserving operations to ensure that the good remains in
 good condition for the purposes of transport or storage;
-(b) packaging or presenting goods for transportation or sale;
+- (b) packaging or presenting goods for transportation or sale;
 
 The Parties understand that “tariff differentials” refers to different tariff treatment that
 an importing Party applies for the same originating good.
 2-46.
 
-(c) simple 4 processes, consisting of sifting, screening, sorting,
-classifying, sharpening, cutting, slitting, grinding, bending,
-coiling, or uncoiling;
-(d) affixing or printing of marks, labels, logos, or other like
-distinguishing signs on goods or their packaging;
-(e) mere dilution with water or another substance that does not
+- (c) simple 4 processes, consisting of sifting, screening, sorting, classifying, sharpening, cutting, slitting, grinding, bending, coiling, or uncoiling;
+- (d) affixing or printing of marks, labels, logos, or other like distinguishing signs on goods or their packaging;
+- (e) mere dilution with water or another substance that does not
 materially alter the characteristics of the good;
-(f) disassembly of products into parts;
-(g) slaughtering 5 of animals;
-(h) simple painting and polishing operations;
-(i) simple peeling, stoning, or shelling;
-(j) simple mixing of goods, whether or not of different kinds;
-or
-(k) any combination of two or more operations referred to in
-subparagraphs (a) through (j).
-Notwithstanding paragraphs 1 and 4, the importing Party shall
-allow an importer to make a claim for preferential tariff treatment
-at either:
-(a) the highest rate of customs duty that the importing Party
-applies to the same originating good from any of the
-Parties contributing originating materials used in the
+- (f) disassembly of products into parts;
+- (g) slaughtering 5 of animals;
+- (h) simple painting and polishing operations;
+- (i) simple peeling, stoning, or shelling;
+- (j) simple mixing of goods, whether or not of different kinds;
+- (k) any combination of two or more operations referred to in subparagraphs (a) through (j).
+
+Notwithstanding paragraphs 1 and 4, the importing Party shall allow an importer to make a claim for preferential tariff treatment at either:
+
+(a) the highest rate of customs duty that the importing Party applies to the same originating good from any of the Parties contributing originating materials used in the
 production of such good, provided that the importer is able
 to prove such a claim. For greater certainty, originating
 materials refer only to those originating materials taken
 into account in the claim for originating status of the final
 good; or
-(b) the highest rate of customs duty that the importing Party
-applies to the same originating good from any of the
-Parties.
+
+(b) the highest rate of customs duty that the importing Party applies to the same originating good from any of the Parties.
 
 For the purposes of this paragraph, “simple” describes an activity which does not
 need special skills, or machines, apparatus, or equipment especially produced or
@@ -193,7 +187,9 @@ entry into force of this Agreement and, thereafter, every three
 years or as agreed among the Parties to reduce or eliminate the
 requirements of this Article and the number of tariff lines and
 conditions provided in a Party’s Appendix to its Schedule in Annex
+
 I (Schedules of Tariff Commitments).
+
 8. Notwithstanding paragraph 7, with respect to its Appendix to its
 Schedule in Annex I (Schedules of Tariff Commitments), a Party
 reserves the right to make amendments to its Appendix, including
@@ -207,64 +203,75 @@ and shall enter into force in accordance with Article 20.4
 ## Article 2.7: Classification of Goods
 
 The classification of goods in trade among the Parties shall be in conformity with the Harmonized System.
-Article 2.8: Customs Valuation
+
+### Article 2.8: Customs Valuation
+
 For the purposes of determining the customs value of goods traded
 among the Parties, Article VII of GATT 1994, and Part I and the
 Interpretative Notes of Annex I of the Customs Valuation Agreement
 shall apply, mutatis mutandis.
-Article 2.9: Goods in Transit
-Each Party shall continue to facilitate customs clearance of goods in
-transit from or to another Party in accordance with paragraph 3 of Article
-V of GATT 1994 and the relevant provisions of the Trade Facilitation
-Agreement.
 
-Article 2.10: Temporary Admission of Goods
+
+### Article 2.9: Goods in Transit
+
+Each Party shall continue to facilitate customs clearance of goods in transit from or to another Party in accordance with paragraph 3 of Article V of GATT 1994 and the relevant provisions of the Trade Facilitation Agreement.
+
+### Article 2.10: Temporary Admission of Goods
 
 1. Each Party shall allow, as provided for in its laws and regulations,
 goods to be brought into its customs territory conditionally
 2-6relieved, totally or partially, from payment of import duties and
 taxes, if such goods:
+
 (a) are brought into its customs territory for a specific purpose;
 (b) are intended for re-exportation within a specific period; and
 (c) have not undergone any change, except normal
 depreciation and wastage due to the use made of them.
+
 2. Each Party shall, on request of the person concerned and for
 reasons its customs authority considers valid, extend the time limit
 for duty-free temporary admission provided for in paragraph 1
 beyond the period initially fixed.
+
 3. No Party shall condition the duty-free temporary admission of a
 good provided for in paragraph 1, other than to require that the
 good:
-4.
-(a) be used solely by or under the personal supervision of a
+
+4. (a) be used solely by or under the personal supervision of a
 national or resident of another Party in the exercise of the
 business activity, trade, profession, or sport of that person;
+
 (b) not be sold or leased while in its territory;
+
 (c) be accompanied by a security or guarantee in an amount
 no greater than the customs duties, taxes, fees, and
 charges that would otherwise be owed on entry or final
 importation, releasable on exportation of the good;
+
 (d) be capable of identification when imported and exported;
-(e) be exported on the departure of the person referred to in
-subparagraph (a), or within such other period related to the
-purpose of the temporary admission as the Party may
+
+(e) be exported on the departure of the person referred to in subparagraph (a), or within such other period related to the purpose of the temporary admission as the Party may
 establish, unless extended;
+
 (f) be admitted in no greater quantity than is reasonable for its
 intended use; and
+
 (g) be otherwise admissible into the Party’s territory under its
 laws and regulations.
+
 If any condition that a Party imposes under paragraph 3 has not
 been fulfilled, the Party may apply the customs duty and any other
 charge that would normally be owed on the good, in addition to
 2-7any other charges or penalties provided for in its laws and
 regulations.
-5.
-Each Party shall permit a good temporarily admitted under this
-Article to be re-exported through a customs port 6 other than that
+
+5. Each Party shall permit a good temporarily admitted under this Article to be re-exported through a customs port 6 other than that
 through which it was admitted.
-Article 2.11: Temporary Admission for Containers and Pallets
-1.
-Each Party, as provided for in its laws and regulations, or the
+
+
+### Article 2.11: Temporary Admission for Containers and Pallets
+
+1. Each Party, as provided for in its laws and regulations, or the
 provisions of the related international agreements to which it is
 party, shall grant duty-free temporary admission for containers
 and pallets, regardless of their origin, in use or to be used in the

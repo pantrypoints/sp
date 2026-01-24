@@ -3,7 +3,7 @@ heading: Chapter 18
 title: "Institutional Provisions"
 description: "Initial Provisions And General Definitions"
 date: 2021-12-10
-image: "/covers/rcep.jpg"
+c: "teal"
 linkTitle: "Chapter 2b"
 ---
 

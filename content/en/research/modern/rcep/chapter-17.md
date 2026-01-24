@@ -3,7 +3,7 @@ heading: Chapter 17
 title: "General Provisions And Exceptions"
 description: "Initial Provisions And General Definitions"
 date: 2021-12-13
-image: "/covers/rcep.jpg"
+c: "teal"
 linkTitle: "Chapter 2b"
 ---
 

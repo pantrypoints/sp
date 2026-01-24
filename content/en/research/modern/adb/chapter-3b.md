@@ -1,5 +1,5 @@
 ---
-title: "OPERATING PRINCIPLES"
+title: "Operating Principles"
 heading: Articles 14-
 description: "Bank operations will follow certain principles"
 c: firebrick
@@ -10,7 +10,7 @@ icon: ADB
 
 
 
-### Article 14 OPERATING PRINCIPLES
+### Article 14: Operating Principles
 
 Bank operations will follow these principles: 
 
@@ -33,7 +33,7 @@ They may, however, include loans to, or guarantees of loans made to, national de
 8. In guaranteeing a loan made by other investors, or in underwriting the sale of securities,
 the Bank shall receive suitable compensation for its risk;
 
-9. The proceeds of any loan, investment or other financing undertaken in the ordinary operations of the Bank or with Special Funds established by the Bank pursuant to paragraph 1 (i) of Article 19, shall be used only for procurement in member countries of goods and services produced in member countries, except in any case in which the Board of Directors by a vote of the Directors representing not less than two-thirds of the total voting power of the members, determines to permit procurement in a non-member country or of goods and services produced in a non-member country in special circumstances making such procurement appropriate, as in the case of a non-member country in which a significant amount of financing has been provided to the Bank; 
+9. The proceeds of any loan, investment or other financing undertaken in the ordinary operations of the Bank or with Special Funds established by the Bank pursuant to paragraph 1 (i) of Article 19, shall be used only for procurement in member countries of goods and services produced in member countries, except in any case in which the Board of Directors by a vote of the Directors representing not less than 2/3 of the total voting power of the members, determines to permit procurement in a non-member country or of goods and services produced in a non-member country in special circumstances making such procurement appropriate, as in the case of a non-member country in which a significant amount of financing has been provided to the Bank; 
 
 10. In the case of a direct loan made by the Bank, the borrower shall be permitted by the Bank to draw its funds only to meet expenditures in connection with the project as they are actually incurred;
 
@@ -48,30 +48,23 @@ of its resources being used for the benefit of any member;(xiii) The Bank shall 
 ### Article 15 TERMS AND CONDITIONS FOR DIRECT LOANS AND GUARANTEES
 
 1. In the case of direct loans made or participated in or loans guaranteed by the Bank, the
-contract shall establish, in conformity with the operating principles set forth in Article 14 of this Agreement and subject to the other provisions of this Agreement, the terms and conditions for the loan or the guarantee
-concerned, including those relating to payment of principal, interest and other charges, maturities, and dates
-of payment in respect of the loan, or the fees and other charges in respect of the guarantee, respectively. In
-particular, the contract shall provide that, subject to paragraph 3 of this Article, all payments to the Bank
-under the contract shall be made in the currency loaned, unless, in the case of a direct loan made or a loan
-guaranteed as part of special operations with funds provided under paragraph 1 (ii) of Article 19, the rules
+contract shall establish, in conformity with the operating principles set forth in Article 14 of this Agreement and subject to the other provisions of this Agreement, the terms and conditions for the loan or the guarantee concerned, including those relating to payment of principal, interest and other charges, maturities, and dates of payment in respect of the loan, or the fees and other charges in respect of the guarantee, respectively. 
+
+In particular, the contract shall provide that, subject to paragraph 3 of this Article, all payments to the Bank under the contract shall be made in the currency loaned, unless, in the case of a direct loan made or a loan guaranteed as part of special operations with funds provided under paragraph 1 (ii) of Article 19, the rules
 and regulations of the Bank provide otherwise. Guarantees by the Bank shall also provide that the Bank
 may terminate its liability with respect to interest if, upon default by the borrower and the guarantor, if any,
 the Bank offers to purchase, at par and interest accrued to a date designated in the offer, the bonds or other
 obligations guaranteed.
 
-2.
-Where the recipient of loans or guarantees of loans is not itself a member, the Bank may,
-when it deems it advisable, require that the member in whose territory the project concerned is to be carried
-out, or a public agency or any instrumentality of that member acceptable to the Bank, guarantee the
-repayment of the principal and the payment of interest and other charges on the loan in accordance with the
+2. Where the recipient of loans or guarantees of loans is not itself a member, the Bank may,
+when it deems it advisable, require that the member in whose territory the project concerned is to be carried out, or a public agency or any instrumentality of that member acceptable to the Bank, guarantee the repayment of the principal and the payment of interest and other charges on the loan in accordance with the
 terms thereof.
-3.
-The loan or guarantee contract shall expressly state the currency in which all payments to
-the Bank thereunder shall be made. At the option of the borrower, however, such payments may always be
-made in gold or convertible currency.
+
+3. The loan or guarantee contract shall expressly state the currency in which all payments to
+the Bank thereunder shall be made. At the option of the borrower, however, such payments may always be made in gold or convertible currency.
 
 
-### Article 16=  COMMISSION AND FEES
+### Article 16: Commission And Fees
 
 1. The Bank shall charge, in addition to interest, a commission on direct loans made or
 participated in as part of its ordinary operations. This commission, payable periodically, shall be computed on the amount out. standing on each loan or participation and shall be at the rate of not less than 1% per annum, unless the Bank, after the first five (5) years of its operations, decides to reduce this minimum rate by a two-thirds majority of its members, representing not less than three-fourths of the total voting power of the members.
@@ -147,7 +140,7 @@ any manner and on any terms and conditions not inconsistent with the purpose of 
 4. The Bank shall adopt such special rules and regulations as may be required for the establishment, administration and use of each Special Fund. Such rules and regulations  shall be consistent with the provisions of this Agreement, excepting those provisions expressly applicable only to ordinary operations of the Bank.
 
 
-### Article 20 SPECIAL FUNDS RESOURCES
+### Article 20: Special Funds Resources
 
 As used in this Agreement, the term "Special Funds resources" shall refer to the resources of any Special Fund and shall include= 
 

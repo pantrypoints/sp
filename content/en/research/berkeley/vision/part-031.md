@@ -6,7 +6,8 @@ c: "steelblue"
 ---
 
 
-31. Let us now see how this phenomenon agrees with our tenets.
+
+<sup>31</sup> Let us now see how this phenomenon agrees with our tenets.
 
 The eye the nearer it is placed to the point B in the foregoing figures, the more distinct is the appearance of the OBJECT; but as it recedes to O the appearance grows more confused; and at P it sees the OBJECT yet more confused; and so on till the eye being brought back to Z sees the OBJECT in the greatest confusion of all. 
 

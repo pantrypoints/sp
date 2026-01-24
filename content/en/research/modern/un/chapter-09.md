@@ -1,13 +1,4 @@
-+++
-title=  "International Economic And Social Cooperation"
-description=  "All Members pledge themselves to take joint and separate action in cooperation with the Organization for the achievement of the purposes set forth in Article 55"
-date=  2022-01-23
-image=  "/covers/un.jpg"
-linkb=  "/research/modern/un/chapter-08"
-linkbtext=  "Chapter 8"
-linkf=  "/research/modern/un/chapter-10"
-linkftext=  "Chapter 10"
-+++
+ 
 
 ## Article 55
 

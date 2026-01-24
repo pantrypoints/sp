@@ -62,8 +62,8 @@ that no person who receives less than twenty-five (25) per cent of the total vot
 members shall be considered as elected.
 3.
 If three (3) persons are not elected at the first ballot, a second ballot shall be held in
-which the person who received the lowest number of votes in the preceding ballot shall be ineligible and in
-which votes shall be cast only by= 
+which the person who received the lowest number of votes in the preceding ballot shall be ineligible and in which votes shall be cast only by:
+
 (a) Governors who voted in the preceding ballot for a person who is not elected; and
 (b) Governors whose votes for a person. who is elected are deemed, in accordance with
 paragraph (4) of this Section, to have raised the votes cast for that person above 26% of the total voting power of non-regional members.
@@ -72,10 +72,9 @@ paragraph (4) of this Section, to have raised the votes cast for that person abo
 
 (a) In determining whether the votes cast by a Governor shall be deemed to have
 raised the total number of votes for any person above twenty-six (26) per cent, the said 26% shall include, first, the votes of the Governor casting the highest number of votes for that
-person, and then, in diminishing order, the votes of each Governor casting the next highest number until
-twenty-six (26) per cent is attained.
-(b)
-Any Governor, part of whose votes must be counted in order to raise the votes
+person, and then, in diminishing order, the votes of each Governor casting the next highest number until 26% is attained.
+
+(b) Any Governor, part of whose votes must be counted in order to raise the votes
 cast for any person above twenty-five (25) per cent, shall be considered as casting all his votes for that
 person even if the total number of votes cast for that person thereby exceeds twenty-six (26) per cent.
 

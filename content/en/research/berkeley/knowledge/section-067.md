@@ -42,7 +42,7 @@ It is also unperceivable, as being devoid of all sensible Qualities, and so cann
 For, say you, since we observe our Sensations to be imprinted in an orderly and constant manner, it is but reasonable to suppose there are certain constant and regular Occasions of their being produced. That is to say, that there are certain permanent and distinct Parcels of Matter, corresponding to our Ideas, which, though they do not excite them in our Minds, or any ways immediately affect us, as being altogether passive and unperceivable to Us, they are nevertheless to God, by whom they are perceived, as it were so many Occasions to remind him when and what Ideas to imprint on our Minds: that so things may go on in a constant uniform manner.
 
 
-LXXI. In answer to this I observe, that as the Notion of Matter is here stated, the
+<sup>71</sup> In answer to this I observe, that as the Notion of Matter is here stated, the
 Question is no longer concerning the Existence of a thing distinct from Spirit and Idea, from perceiving and being perceived: But whether there are not certain Ideas, of I know not what
 sort, in the Mind of God, which are so many Marks or Notes that direct him how to produce
 Sensations in our Minds, in a constant and regular Method: Much after the same manner
@@ -52,11 +52,13 @@ perceive the Notes, and may be intirely ignorant of them. But this Notion of Mat
 too extravagant to deserve a Confutation. Besides, it is in effect no Objection against what
 we have advanced, to wit, that there is no senseless, unperceived Substance.
 
-LXXII. If we follow the Light of Reason, we shall, from the constant uniform Method
+<sup>72</sup> If we follow the Light of Reason, we shall, from the constant uniform Method
 of our Sensations, collect the Goodness and Wisdom of the Spirit who excites them in our
 Minds. But this is all that I can see reasonably concluded from thence. To me, I say, it is
 evident that the Being of a Spirit infinitely Wise, Good, and Powerful is abundantly sufficient
-to explain all the Appearances of Nature. But as for inert senseless Matter, nothing that I
+to explain all the Appearances of Nature. 
+
+But as for inert senseless Matter, nothing that I
 perceive has any the least Connexion with it, or leads to the Thoughts of it. And I would fain
 see any one explain any the meanest Phænomenon in Nature by it, or shew any manner of
 Reason, though in the lowest Rank of Probability, that he can have for its Existence; or even

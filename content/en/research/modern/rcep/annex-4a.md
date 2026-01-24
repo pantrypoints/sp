@@ -3,7 +3,7 @@ heading: Annex 4A
 title: "Time To Implement The Commitments"
 description: "Initial Provisions And General Definitions"
 date: 2022-11-27
-image: "/covers/rcep.jpg"
+c: "teal"
 linkTitle: "Annex 4A"
 ---
 

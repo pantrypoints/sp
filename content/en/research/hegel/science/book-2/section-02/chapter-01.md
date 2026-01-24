@@ -40,7 +40,7 @@ This crude presentation of subjective idealism is directly contradicted by the c
 
 In this consciousness of its freedom the ego is to itself that true identity reflected into itself, which the thing-in-itself was supposed to be. 
 
-I have shown elsewhere that this transcendental idealism does not get away from the limitation of the ego by the object, in general, from the finite world, but only changes the form of the limitation, which remains for it an absolute, merely giving it a subjective instead of an objective shape and making into determinatenesses of the ego and into a turbulent whirlpool of change within it (as if the ego were a thing) that which the ordinary consciousness knows as a manifoldness and alteration belonging only to things external to it. 
+I have shown elsewherhis transcendental idealism does not get away from the limitation of the ego by the object, in general, from the finite world, but only changes the form of the limitation, which remains for it an absolute, merely giving it a subjective instead of an objective shape and making into determinatenesses of the ego and into a turbulent whirlpool of change within it (as if the ego were a thing) that which the ordinary consciousness knows as a manifoldness and alteration belonging only to things external to it. 
 
 At present we are considering only the thing-in-itself and the reflection which is in the first instance external to it; this reflection has not yet determined itself to consciousness, nor the thing-in-itself to ego. 
 

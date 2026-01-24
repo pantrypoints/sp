@@ -3,7 +3,7 @@ heading: Annex 3B
 title: "Minimum Information Requirements"
 description: "Initial Provisions And General Definitions"
 date: 2022-11-27
-image: "/covers/rcep.jpg"
+c: "teal"
 linkTitle: "Annex 3B"
 ---
 

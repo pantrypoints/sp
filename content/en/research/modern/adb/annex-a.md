@@ -5,10 +5,12 @@ description:  "The Bank shall foster economic growth and co-operation in the reg
 date: 2022-01-31
 author: "Asian Development Bank"
 c: firebrick
+draft: true
 ---
 
 
-INITIAL SUBSCRIPTIONS TO THE AUTHORIZED CAPITAL STOCK FOR COUNTRIES WHICH MAY BECOME MEMBERS IN ACCORDANCE WITH Article 64
+Initial Subscriptions To The Authorized Capital Stock For Countries Which May Become Members In Accordance With Article 64
+
 
 ## Part A. REGIONAL COUNTRIES
 

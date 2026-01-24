@@ -3,7 +3,7 @@ heading: Chapter 1
 title: "Initial Provisions And General Definitions"
 description: "Initial Provisions And General Definitions"
 date: 2021-12-29
-image: "/covers/rcep.jpg"
+c: "teal"
 linkTitle: "Chapter 1"
 ---
 

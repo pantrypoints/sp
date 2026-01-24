@@ -31,18 +31,22 @@ If so, why may not the Intelligence do it, without his being
 at the pains of making the Movements, and putting them together? Why does not an empty
 Case serve as well as another? And how comes it to pass, that whenever there is any Fault
 in the going of a Watch, there is some corresponding Disorder to be found in the Movements,
-which being mended by a skilful Hand, all is right again? The like may be said of all the
+which being mended by a skilful Hand, all is right again? 
+
+The like may be said of all the
 Clockwork of Nature, great part whereof is so wonderfully fine and subtile, as scarce to be
 discerned by the best Microscope. In short, it will be asked, how upon our Principles any
 tolerable Account can be given, or any final Cause assigned of an innumerable multitude of
 Bodies and Machines framed with the most exquisite Art, which in the common Philosophy
 have very apposite uses assigned them, and serve to explain abundance of Phænomena.
 
-LXI. To all which I answer, First, That though there were some Difficulties relating to
+61. To all which I answer, First, That though there were some Difficulties relating to
 the Administration of Providence, and the uses by it assigned to the several parts of Nature,
 which I could not solve by the foregoing Principles, yet this Objection could be of small
 weight against the Truth and Certainty of those things which may be proved `a priori, with
-the utmost Evidence. Secondly, But neither are the received Principles free from the like
+the utmost Evidence. 
+
+Secondly, But neither are the received Principles free from the like
 Difficulties; for it may still be demanded, to what end God should take those round-about Methods of effecting things by Instruments and Machines, which no one can deny might
 have been effected by the mere Command of his Will, without all that apparatus: Nay, if we
 narrowly consider it, we shall find the Objection may be retorted with greater force on those
@@ -54,10 +58,12 @@ does it manifestly to no purpose; since the only use that is assigned to them, a
 unperceived, is that they produce those perceivable Effects, which in truth cannot be ascribed
 to any thing but Spirit.
 
-LXII. But to come nearer the Difficulty, it must be observed, that though the Fabrication
+62. But to come nearer the Difficulty, it must be observed, that though the Fabrication
 of all those Parts and Organs be not absolutely necessary to the producing any Effect, yet
 it is necessary to the producing of things in a constant, regular way, according to the Laws
-of Nature. There are certain general Laws that run through the whole Chain of natural
+of Nature. 
+
+There are certain general Laws that run through the whole Chain of natural
 Effects: These are learned by the Observation and Study of Nature, and are by Men applied
 as well to the framing artificial things for the Use and Ornament of Life, as to the explaining
 the various Phænomena: Which Explication consists only in shewing the Conformity any
@@ -107,7 +113,9 @@ Ideas are formed into Machines, that is, artificial and regular Combinations, is
 that for combining Letters into Words. That a few Original Ideas may be made to signify
 a great number of Effects and Actions, it is necessary they be variously combined together:
 And to the end their use be permanent and universal, these Combinations must be made
-by Rule, and with wise Contrivance. By this means abundance of Information is conveyed
+by Rule, and with wise Contrivance. 
+
+By this means abundance of Information is conveyed
 unto us, concerning what we are to expect from such and such Actions, and what Methods
 are proper to be taken, for the exciting such and such Ideas: Which in effect is all that I
 conceive to be distinctly meant, when it is said that by discerning the Figure, Texture, and

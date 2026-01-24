@@ -1,19 +1,19 @@
-+++
-title=  "Pacific Settlement Of Disputes"
-description=  "The SC may investigate any dispute, or any situation which might lead to international friction or give rise to a dispute, in order to determine whether the continuance of the dispute or situation is likely to endanger the maintenance of international peace and security"
-date=  2022-01-26
-image=  "/covers/un.jpg"
-linkb=  "/research/modern/un/chapter-05"
-linkbtext=  "Chapter 5"
-linkf=  "/research/modern/un/chapter-07"
-linkftext=  "Chapter 7"
-+++
+---
+heading: Chapter 6
+title: "Pacific Settlement Of Disputes"
+description: "The SC may investigate any dispute, or any situation which might lead to international friction or give rise to a dispute"
+date: 2021-12-04
+c: "teal"
+linkTitle: "Chapter 6"
+---
+
 
 
 ## Article 33
 
 1. The parties to any dispute, the continuance of which is likely to endanger the maintenance of
 international peace and security, shall, first of all, seek a solution by negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement, resort to regional agencies or arrangements, or other peaceful means of their own choice.
+
 2. The Security Council shall, when it deems necessary, call upon the parties to settle their
 dispute by such means. 
 
@@ -36,13 +36,17 @@ this Article will be subject to the provisions of Articles 11 and 12.
 ### Article 36
 
 1. The Security Council may, at any stage of a dispute of the nature referred to in Article 33 or of a situation of like nature, recommend appropriate procedures or methods of adjustment.
+
 2. The Security Council should take into consideration any procedures for the settlement of the dispute which have already been adopted by the parties.
+
 3. In making recommendations under this Article the Security Council should also take into consideration that legal disputes should as a general rule be referred by the parties to the International Court of Justice in accordance with the provisions of the Statute of the Court.
 
 ### Article 37
 
 1. Should the parties to a dispute of the nature referred to in Article 33 fail to settle it by the
-means indicated in that Article, they shall refer it to the Security Council.2. If the Security Council deems that the continuance of the dispute is in fact likely to endanger the maintenance of international peace and security, it shall decide whether to take action under Article 36 or to recommend such terms of settlement as it may consider appropriate.
+means indicated in that Article, they shall refer it to the Security Council.
+
+2. If the Security Council deems that the continuance of the dispute is in fact likely to endanger the maintenance of international peace and security, it shall decide whether to take action under Article 36 or to recommend such terms of settlement as it may consider appropriate.
 
 
 ### Article 38

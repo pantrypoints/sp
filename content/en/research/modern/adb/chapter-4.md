@@ -9,8 +9,6 @@ icon: ADB
 ---
 
 
-
-
 ## Article 21: GENERAL POWERS
 
 The Bank shall have the power to:

@@ -1,13 +1,12 @@
-+++
-title=  "Organs"
-description=  "The principal organs of the UN are the General Assembly, Security Council, Economic and Social Council, Trusteeship Council, International Court of Justice, a Secretariat"
-date=  2022-01-29
-image=  "/covers/un.jpg"
-linkb=  "/research/modern/un/chapter-02"
-linkbtext=  "Chapter 2"
-linkf=  "/research/modern/un/chapter-04"
-linkftext=  "Chapter 4"
-+++ 
+---
+heading: Chapter 3
+title: "Organs"
+description: "The principal organs of the UN are the General Assembly, Security Council, Economic and Social Council, Trusteeship Council, International Court of Justice, a Secretariat"
+date: 2021-12-04
+c: "teal"
+linkTitle: "Chapter 2"
+---
+
 
 ## Article 7
 

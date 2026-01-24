@@ -1,19 +1,17 @@
-+++
-title=  "Membership"
-description=  "Membership in the United Nations is open to all other peace-loving states which accept the obligations contained in the present Charter"
-# date=  1945-06-26
-date=  2022-01-30
-image=  "/covers/un.jpg"
-linkb=  "/research/modern/un/chapter-01"
-linkbtext=  "Chapter 1"
-linkf=  "/research/modern/un/chapter-03"
-linkftext=  "Chapter 3"
-+++ 
+---
+heading: Chapter 2
+title: "Membership"
+description: "Membership in the United Nations is open to all other peace-loving states which accept the obligations contained in the present Charter"
+date: 2021-12-04
+c: "teal"
+linkTitle: "Chapter 2"
+---
+
 
 
 ## Article 3
 
-The original UN Members are the states which= 
+The original UN Members are the states which:
 - participated in the UN Conference on International Organization at San Francisco, or 
 - having previously signed the Declaration by United Nations of January 1,1942, sign the present Charter and ratify it in accordance with Article 110.
 

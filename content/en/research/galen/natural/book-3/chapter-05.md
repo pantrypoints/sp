@@ -10,18 +10,17 @@ c: "firebrick"
 
 
 
-
-
 These facts show that the stomach, uterus, and bladders possess certain inborn faculties which are:
 - retentive of their own proper qualities
 - eliminative of those that are foreign.
 
 The bladder by the liver draws bile into itself, while it is also quite obvious that it eliminates this daily into the stomach. 
 
-If the eliminative were to succeed the attractive faculty and there were not a retentive faculty between the two, there would be found, on every occasion that animals were dissected, an equal quantity of bile in the gall-bladder. This however, we do not find. 
+If the eliminative were to succeed the attractive faculty and there were not a retentive faculty between the two, there would be found, on every occasion that animals were dissected, an equal quantity of bile in the gall-bladder. 
 
-The bladder is sometimes observed to be very full, sometimes quite empty. At other times you find in it various intermediate degrees of fulness, just as is the case with the other bladder—that which receives the urine; 
+This however, we do not find. 
 
+The bladder is sometimes observed to be very full, sometimes quite empty. At other times you find in it various intermediate degrees of fulness, just as is the case with the other bladder—that which receives the urine.
 
 Even without resorting to anatomy we may observe that the urinary bladder continues to collect urine up to the time that it becomes uncomfortable through the increasing quantity of urine or the irritation caused by its acidity—the presumption thus being that here, too, there is a retentive faculty.
 
@@ -64,6 +63,6 @@ Both the attractive and the propulsive faculties have been demonstrated to exist
 
 But if there be an inclination or attraction, there will also be some benefit derived; for no existing thing attracts anything else for the mere sake of attracting, but in order to benefit by what is acquired by the attraction. And of course it cannot benefit by it if it cannot retain it. 
 
-Herein, then, again, the retentive faculty is shown to have its necessary origin: for the stomach obviously inclines towards its own proper qualities and turns away from those that are foreign to it.326
+Herein, then, again, the retentive faculty is shown to have its necessary origin: for the stomach obviously inclines towards its own proper qualities and turns away from those that are foreign to it.
 
 But if it aims at and attracts its food and benefits by it while retaining and contracting upon it, we may also expect that there will be some termination to the benefit received, and that thereafter will come the time for the exercise of the eliminative faculty.

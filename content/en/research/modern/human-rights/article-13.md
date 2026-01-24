@@ -8,28 +8,29 @@ weight: 6
 ---
 
 
-Article 13
+
+### Article 13
 
 Everyone has the right to:
 - freedom of movement and residence within the borders of each state.
 - to leave any country, including his own, and to return to his country.
 
 
-Article 14
+### Article 14
 
 Everyone has the right to seek and to enjoy in other countries asylum from persecution.
 
 This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations.
 
 
-Article 15
+### Article 15
 
 Everyone has the right to a nationality.
 
 No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality.
 
 
-Article 16
+### Article 16
 
 Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family. They are entitled to equal rights as to marriage, during marriage and at its dissolution.
 
@@ -37,29 +38,29 @@ Marriage shall be entered into only with the free and full consent of the intend
 The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.
 
 
-Article 17
+### Article 17
 
 Everyone has the right to own property alone as well as in association with others.
 No one shall be arbitrarily deprived of his property.
 
 
-Article 18
+### Article 18
 
 Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance.
 
 
-Article 19
+### Article 19
 
 Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.
 
 
-Article 20
+### Article 20
 
 Everyone has the right to freedom of peaceful assembly and association.
 No one may be compelled to belong to an association.
 
 
-Article 21
+### Article 21
 
 Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.
 

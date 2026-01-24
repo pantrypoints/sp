@@ -10,21 +10,27 @@ c: "firebrick"
 
 
 
-We can detect the retentive faculty in the uterus more clearly in proportion to the longer duration of its activity as compared with that of the stomach.
+We can detect the retentive faculty in the uterus more clearly in proportion to its longer activity compared with that of the stomach.
 
-It takes 9 months in most women for the fetus to attain maturity in the womb.
+It takes 9 months for the fetus to attain maturity in the womb.
 
-This organ has its neck quite closed, and entirely surrounding the embryo together with the chorion. 
+This organ has its neck closed.
 
-Further, it is the utility of the function which determines the closure of the os and the stay of the foetus in the uterus. 
+It entirely surrounds the embryo with the chorion. 
+
+It is the utility of the function which determines the closure of the os and the stay of the foetus in the uterus. 
 
 For it is not casually nor without reason that Nature has made the uterus capable of contracting upon, and of retaining the embryo, but in order that the latter may arrive at a proper size. 
 
 When, therefore, the object for which the uterus brought its retentive faculty into play has been fulfilled, it then stops this faculty and brings it back to a state of rest, and employs instead of it another faculty hitherto quiescent—the propulsive faculty. 
 
-In this case again the quiescent and active states are both determined by utility; when this calls, there is activity; when it does not, there is rest.
+In this case, the quiescent and active states are both determined by utility.
+- When this calls, there is activity.
+- When it does not, there is rest.
 
-Here, then, once more, we must observe well the Art [artistic tendency] of Nature—how she has not merely placed in each organ the capabilities of useful activities, but has also fore-ordained the times both of rest and movement. 
+Nature has:
+- placed in each organ the capabilities of useful activities
+- fore-ordained the times both of rest and movement. 
 
 When everything connected with the pregnancy proceeds properly, the eliminative faculty remains quiescent as though it did not exist.
 
@@ -61,7 +67,10 @@ Hippocrates was the first to declare that the os uteri closes during pregnancy a
 
 But in pregnancy it does not depart from its own nature, whilst in inflammation it becomes hard.
 
-In the case of the opposite (the eliminative) faculty, the os opens, whilst the whole fundus approaches as near as possible to the os, expelling the embryo as it does so; and along with the fundus the contiguous parts—which form as it were a girdle round the whole organ—co-operate in the work; they squeeze upon the embryo and propel it bodily outwards. 
+In the case of the opposite (the eliminative) faculty, the os opens, whilst the whole fundus approaches as near as possible to the os, expelling the embryo as it does so; 
+
+
+Along with the fundus the contiguous parts—which form as it were a girdle round the whole organ—co-operate in the work; they squeeze upon the embryo and propel it bodily outwards. 
 
 In many women who exercise such a faculty immoderately, violent pains cause forcible prolapse of the whole womb.
 

@@ -19,11 +19,18 @@ For sometimes when the very smallest quantity of food has been ingested this doe
 
 Sometimes when the stomach is full the gurglings yet make themselves heard as though it were empty.
 
-For if it be in a natural condition, employing its contractile faculty in the ordinary way, then, even if its contents be very small, it grasps the whole of them and does not leave any empty space. When it is weak, however, being unable to lay hold of its contents accurately, it produces a certain amount of vacant space, and allows the liquid contents to flow about in different directions in accordance with its changes of shape, and so to produce gurglings.
+For if it be in a natural condition, employing its contractile faculty in the ordinary way, then, even if its contents be very small, it grasps the whole of them and does not leave any empty space.
 
-Thus those who are troubled with this symptom expect, with good reason, that they will also be unable to digest adequately; proper digestion cannot take place in a weak stomach. In such people also, the mass of food may be plainly seen to remain an abnormally long time in the stomach, as would be natural if their digestion were slow. 
+When it is weak, however, being unable to lay hold of its contents accurately, it produces a certain amount of vacant space, and allows the liquid contents to flow about in different directions in accordance with its changes of shape, and so to produce gurglings.
 
-Indeed, the chief way in which these people will surprise one is in the length of time that not food alone but even fluids will remain in their stomachs. Now, the actual cause of this is not, as one would imagine, that the lower outlet of the stomach,311 being fairly narrow, will allow nothing to pass before being reduced to a fine state of division.
+Thus those who are troubled with this symptom expect, with good reason, that they will also be unable to digest adequately; 
+
+Proper digestion cannot take place in a weak stomach. In such people also, the mass of food may be plainly seen to remain an abnormally long time in the stomach, as would be natural if their digestion were slow. 
+
+
+The chief way in which these people will surprise one is in the length of time that not food alone but even fluids will remain in their stomachs. 
+
+The actual cause of this is not, as one would imagine, that the lower outlet of the stomach,311 being fairly narrow, will allow nothing to pass before being reduced to a fine state of division.
 
 Many people frequently swallow large quantities of big fruit-stones.
 
@@ -43,6 +50,7 @@ But this is not so.
 
 For in people who are extremely asthenic it is just these fluids which remain undigested, which accumulate and produce gurglings, and which oppress and overload the stomach, whereas in strong persons not merely do none of these things happen, but even a large quantity of bread or meat passes rapidly down.
 
+
 It is not only because the stomach is distended and loaded and because the fluid runs from one part of it to another accompanied by gurglings—it is not only for these reasons that one would judge that there was an unduly long continuance of the food in it, in those people who are so disposed, but also from the vomiting.
 
 Thus, there are some who vomit up every particle of what they have eaten, not after three or four hours, but actually in the middle of the night, a lengthy period having elapsed since their meal.
@@ -55,7 +63,7 @@ It is not chylification314 which determines the length of its stay here since th
 
 The determining factor is digestion315 which is a different thing from chylification, as are blood-production and nutrition.
 
-These 2 processes depend on a change of qualities. This is similar to how the digestion of food in the stomach involves a transmutation of it into the quality proper to that which is receiving nourishment.317 
+These 2 processes depend on a change of qualities. This is similar to how the digestion of food in the stomach involves a transmutation of it into the quality proper to that which is receiving nourishment.
 
 Then, when it is completely digested, the lower outlet opens and the food is quickly ejected through it, even if there should be amongst it abundance of stones, bones, grape-pips, or other things which cannot be reduced to chyle. 
 

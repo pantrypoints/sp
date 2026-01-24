@@ -1,17 +1,17 @@
-+++
-title=  "Purposes And Principles"
-description=  "The United Nations aims to maintain international peace and security and develop friendly relations among nations"
-date=  2022-01-31
-image=  "/covers/un.jpg"
-linkb=  "/research/modern/un/introduction"
-linkbtext=  "Introduction"
-linkf=  "/research/modern/un/chapter-02"
-linkftext=  "Chapter 2"
-+++ 
+---
+heading: Chapter 1
+title: "Purposes And Principles"
+description: "The United Nations aims to maintain international peace and security and develop friendly relations among nations"
+date: 2021-12-04
+c: "teal"
+linkTitle: "Chapter 20"
+---
+
+
 
 ## Article 1
 
-The Purposes of the United Nations are= 
+The Purposes of the United Nations are:
 
 1. To maintain international peace and security. 
 

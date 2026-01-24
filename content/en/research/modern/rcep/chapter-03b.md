@@ -1,9 +1,9 @@
 ---
-heading: Chapter 2d Section B
+heading: Chapter 3b
 title: "Operational Certification Procedures"
 description: "Initial Provisions And General Definitions"
 date: 2021-12-21
-image: "/covers/rcep.jpg"
+c: "teal"
 linkTitle: "Chapter 2b"
 ---
 

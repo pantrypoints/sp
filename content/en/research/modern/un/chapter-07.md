@@ -1,13 +1,13 @@
-+++
-title=  "Action on Threats To The Peace, Breaches Of The Peace, And Acts Of Aggression"
-description=  "The SC shall determine the existence of any threat to the peace, breach of the peace, or act of aggression"
-date=  2022-01-25
-image=  "/covers/un.jpg"
-linkb=  "/research/modern/un/chapter-06"
-linkbtext=  "Chapter 6"
-linkf=  "/research/modern/un/chapter-07"
-linkftext=  "Chapter 7"
-+++
+---
+heading: Chapter 7
+title: "Action on Threats To The Peace, Breaches Of The Peace, And Acts Of Aggression"
+description: "The SC shall determine the existence of any threat to the peace, breach of the peace, or act of aggression"
+date: 2021-12-04
+c: "teal"
+linkTitle: "Chapter 7"
+---
+
+
 
 ## Article 39
 

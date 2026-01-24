@@ -1,13 +1,13 @@
-+++
-title=  "The Security Council"
-description=  "The Security Council shall consist of 11 Members of the UN with permanent members"
-# date=  1945-06-26
-image=  "/covers/un.jpg"
-linkb=  "/research/modern/un/chapter-04"
-linkbtext=  "Chapter 4"
-linkf=  "/research/modern/un/chapter-06"
-linkftext=  "Chapter 6"
-+++ 
+---
+heading: Chapter 5
+title: "The Security Council"
+description: "The Security Council shall consist of 11 Members of the UN with permanent members"
+date: 2021-12-04
+c: "teal"
+linkTitle: "Chapter 5"
+---
+
+
 
 ## Article 23: Composition
 

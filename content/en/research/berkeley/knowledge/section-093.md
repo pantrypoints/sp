@@ -7,7 +7,7 @@ contributors: ['Berkeley']
 ---
 
 
-94. Materialism is also the foundation of Idolatry. 
+<sup>94</sup> Materialism is also the foundation of Idolatry. 
 
 <!-- The Existence of Matter, or Bodies unperceived, has not only been the main Support of Atheists and Fatalists, but on the same Principle doth Idolatry likewise in all its various Forms depend.  -->
 
@@ -19,7 +19,7 @@ Men would never have worshipped the Sun, Moon, and Stars, and every other Object
 Instead, they would rather address their Homage to that Eternal Invisible Mind which produces and sustains all Things.
 
 
-95. The same absurd materialist Principle had mingled itself with the Articles of our Faith, creating  Difficulties to Christians. 
+<sup>95</sup> The same absurd materialist Principle had mingled itself with the Articles of our Faith, creating  Difficulties to Christians. 
 
 For Example, the Socinians and others have raised objections about the Resurrection.
 
@@ -28,14 +28,10 @@ But do not the most plausible of them depend on the supposition, that a Body is 
 Take away this material Substance, about the Identity whereof all the Dispute is, and mean by Body what every plain ordinary Person means by that Word, to wit, that which is immediately seen and felt, which is only a Combination of sensible Qualities, or Ideas: And then their most unanswerable Objections come to nothing.
 
 
-96. 
-
-Matter being once expelled out of Nature, drags with it so many sceptical and impious Notions, such an incredible number of Disputes and puzling Questions, which have been Thorns in the Sides of Divines, as well as Philosophers, and made so much fruitless Work for Mankind; that if the Arguments we have produced against it, are not found equal to Demonstration (as to me they evidently seem) yet I am sure all Friends to Knowledge, Peace, and Religion, have reason to wish they were.
+<sup>96</sup> Matter being once expelled out of Nature, drags with it so many sceptical and impious Notions, such an incredible number of Disputes and puzling Questions, which have been Thorns in the Sides of Divines, as well as Philosophers, and made so much fruitless Work for Mankind; that if the Arguments we have produced against it, are not found equal to Demonstration (as to me they evidently seem) yet I am sure all Friends to Knowledge, Peace, and Religion, have reason to wish they were.
 
 
-97. 
-
-<!-- Beside the external Existence of the Objects of Perception, another , with regard to Ideal Knowledge, is  -->
+<sup>97</sup> <!-- Beside the external Existence of the Objects of Perception, another , with regard to Ideal Knowledge, is  -->
 
 The Doctrine of abstract Ideas, as explained in the Introduction, is another great Source of Errors and Difficulties.
 
@@ -56,7 +52,8 @@ But not for a Philosopher.
 <!-- But if Time be taken, exclusive of all those particular Actions and Ideas that diversify the Day, merely for the Continuation of Existence, or Duration in Abstract, then it will perhaps gravel even a Philosopher to comprehend it. -->
 
 
-98. Whenever I attempt to frame a simple Idea of Time, abstracted from the uniform succession of Ideas in my Mind, participated by all Beings, I am lost in inextricable Difficulties.
+
+<sup>98</sup> Whenever I attempt to frame a simple Idea of Time, abstracted from the uniform succession of Ideas in my Mind, participated by all Beings, I am lost in inextricable Difficulties.
 
 I have no Notion of it at all.
 
@@ -98,7 +95,8 @@ All which depend on a two-fold Abstraction:
 But whoever shall reflect, and take care to understand what he says, will, if I mistake not, acknowledge that all sensible Qualities are alike Sensations, and alike real; that where the Extension is, there is the Colour too, to wit, in his Mind, and that their Archetypes can exist only in some other Mind: And that the Objects of Sense are nothing but those Sensations combined, blended, or (if one may so speak) concreted together: None of all which can be supposed to exist unperceived.
 
 
-100. What it is for a Man to be happy, or an Object good, every one may think he knows.
+
+<sup>100</sup> What it is for a Man to be happy, or an Object good, every one may think he knows.
 
 But to frame an abstract Idea of Happiness, prescinded from all particular Pleasure, or of Goodness, from every thing that is good, this is what few can pretend to. So likewise, a Man may be just and virtuous, without having precise Ideas of Justice and Virtue. 
 

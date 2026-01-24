@@ -9,8 +9,6 @@ icon: "ADB"
 ---
 
 
-
-
 ## Article 59: AMENDMENTS
 
 1. This Agreement may be amended only by a resolution of the Board of Governors approved by a vote of 2/3 of the total number of Governors, representing not less than three-fourths

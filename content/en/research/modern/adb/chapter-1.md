@@ -30,7 +30,7 @@ HAVE AGREED to establish hereby the Asian Development Bank (hereinafter called t
 which shall operate in accordance with the following= 
  -->
 
-## Article 1: PURPOSE
+## Article 1: Purpose
 
 The Bank shall:
 - foster economic growth and co-operation in the region of Asia and the Far East
@@ -39,24 +39,29 @@ The Bank shall:
 Region refers to <!-- Wherever used in this Agreement, the terms "region of Asia and the Far East" and "region" shall comprise the territories of Asia and the Far East included in --> the Terms of Reference of the United Nations Economic Commission for Asia and the Far East.
 
 
-## Article 2: FUNCTIONS
+## Article 2: Functions
 
 <!-- To fulfill its purpose, the Bank shall have the following functions=  -->
 
 1. To promote investment in the region of public and private capital for development purposes
-2. To utilize the resources at its disposal for financing development of the developing member
-countries in the region, giving priority to those regional, sub-regional as well as national projects and programmes which will contribute most effectively to the harmonious economic growth of the region as awhole, and having special regard to the needs of the smaller or less developed member countries in the region
-3. To meet requests from members in the region to assist them in the coordination of their
-development policies and plans with a view to achieving better utilization of their resources, making their economies more complementary, and promoting the orderly expansion of their foreign trade, in particular, intra-regional trade
+
+2. To utilize the resources at its disposal for financing development of the developing member countries in the region, giving priority to those regional, sub-regional as well as national projects and programmes which will contribute most effectively to the harmonious economic growth of the region as awhole, and having special regard to the needs of the smaller or less developed member countries in the region
+
+3. To meet requests from members in the region to assist them in the coordination of their development policies and plans with a view to achieving better utilization of their resources, making their economies more complementary, and promoting the orderly expansion of their foreign trade, in particular, intra-regional trade
+
 4. To provide technical assistance for the preparation, financing and execution of development projects and programmes, including the formulation of specific project proposals;
+
 5. To co-operate, in such manner as the Bank may deem appropriate, within the terms of this Agreement, with the United Nations, its organs and subsidiary bodies including, in particular, the Economic Commission for Asia and the Far East, and with public international organizations and other international institutions, as well as national entities whether public or private, which are concerned with the investment of development funds in the region, and to interest such institutions and entities in new opportunities for investment and assistance; and
+
 6. to undertake such other activities and provide such other services as may advance its purpose.
 
 
 ## Article 3: MEMBERSHIP
 
-1. Membership in the Bank shall be open to=  (i) members and associate members of the United Nations Economic Commission for Asia and the Far East; and (ii) other regional countries and non-regional developed countries which are members of the United Nations or of any of its specialized
-agencies.
+1. Membership in the Bank shall be open to:
+
+- (i) members and associate members of the United Nations Economic Commission for Asia and the Far East
+- (ii) other regional countries and non-regional developed countries which are members of the United Nations or of any of its specialized agencies.
 
 2. Countries eligible for membership under paragraph 1 of this Article which do not become members in accordance with Article 64 of this Agreement may be a member Bank upon the affirmative vote of 2/3 of the Governors. This represents not less than three-fourths of the total voting power of the members.
 

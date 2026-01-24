@@ -39,7 +39,7 @@ Those other arteries which pass up from the heart into the neck, and that which 
 
 Those which are further from the heart and skin necessarily draw the lightest part of the blood out of the veins.
 
-So also the traction exercised by the diastole of the arteries which go to the stomach and intestines takes place at the expense of the heart itself and the numerous veins in its neighbourhood; for these arteries cannot get anything worth speaking of from the thick heavy nutriment contained in the intestines and stomach,391 since they first become filled with lighter elements. 
+So also the traction exercised by the diastole of the arteries which go to the stomach and intestines takes place at the expense of the heart itself and the numerous veins in its neighbourhood; for these arteries cannot get anything worth speaking of from the thick heavy nutriment contained in the intestines and stomach, since they first become filled with lighter elements. 
 
 For if you let down a tube into a vessel full of water and sand, and suck the air out of the tube with your mouth, the sand cannot come up to you before the water, for in accordance with the principle of the refilling of a vacuum the lighter matter is always the first to succeed to the evacuation.
 

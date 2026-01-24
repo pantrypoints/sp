@@ -18,7 +18,7 @@ Everyone, as a member of society:
 These are done through national effort and international cooperation, according to the organization and resources of each State.
 
 
-Article 23
+### Article 23
 
 Everyone has the right to:
 - work
@@ -33,12 +33,12 @@ Everyone who works has the right to just and favourable remuneration ensuring fo
 Everyone has the right to form and to join trade unions to protect his interests.
 
 
-Article 24
+### Article 24
 
 Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.
 
 
-Article 25
+### Article 25
 
 Everyone has the right to:
 - a standard of living adequate for the health and well-being of himself and his family, including:
@@ -54,7 +54,7 @@ Motherhood and childhood are entitled to special care and assistance.
 All children, whether born in or out of wedlock, shall enjoy the same social protection.
 
 
-Article 26
+### Article 26
 
 Everyone has the right to education. 
 

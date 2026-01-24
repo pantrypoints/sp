@@ -1,13 +1,12 @@
-+++
-title=  "The General Assembly"
-description=  "The GA is made up of all the UN Members. Each Member shall have not more than 5 representatives in the GA"
-date=  2022-01-28
-image=  "/covers/un.jpg"
-linkb=  "/research/modern/un/chapter-03"
-linkbtext=  "Chapter 3"
-linkf=  "/research/modern/un/chapter-05"
-linkftext=  "Chapter 5"
-+++ 
+---
+heading: Chapter 4
+title: "The General Assembly"
+description: "The GA is made up of all the UN Members. Each Member shall have not more than 5 representatives in the GA"
+date: 2021-12-04
+c: "teal"
+linkTitle: "Chapter 4"
+---
+
 
 
 ## Article 9: Composition 
