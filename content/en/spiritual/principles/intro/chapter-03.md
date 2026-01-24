@@ -9,7 +9,10 @@ writer:
   url: https://www.linkedin.com/in/baolamnguyen/
 weight: 6
 icon: "Lam"
+aliases:
+  /spiritual/principles/chapter-02/
 ---
+
 
 
 A belief system is a logical collection of related ideas that the ego can adopt and attach itself to. 

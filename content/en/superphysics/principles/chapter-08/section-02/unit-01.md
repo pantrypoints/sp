@@ -5,6 +5,8 @@ date: 2025-03-08
 image: "/graphics/math/math.jpg"
 description: "Supermath"
 weight: 4
+aliases:
+  /superphysics/principles/chapter-08j/
 ---
 
 
