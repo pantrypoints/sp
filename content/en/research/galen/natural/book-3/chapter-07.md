@@ -103,7 +103,9 @@ For what possible reason, then, will objectors have it that bread may often rema
 
 For, if such a long period of time is incapable of altering it, neither will the short period be sufficient, or, if the latter is enough, surely the longer time will be much more so! 
 
-Well, then, can it be that, while the nutriment does undergo an alteration in the stomach, this is a different kind of alteration and one which is not dependent on the nature of the organ which alters it? Or if it be an alteration of this latter kind, yet one perhaps which is not proper to the body of the animal? 
+Well, then, can it be that, while the nutriment does undergo an alteration in the stomach, this is a different kind of alteration and one which is not dependent on the nature of the organ which alters it? 
+
+Or if it be an alteration of this latter kind, yet one perhaps which is not proper to the body of the animal? 
 
 This is still more impossible. Digestion was shown to be nothing else than an alteration to the quality proper to that which is receiving nourishment.
 
@@ -111,7 +113,9 @@ Since, then, this is what digestion means and since the nutriment has been shown
 
 Asclepiades is absurd when he states that the quality of the digested food never shows itself either in eructations or in the vomited matter, or on dissection.
 
-The mere fact that the food smells of the body shows that it has undergone gastric digestion. But this man is so foolish that, when he hears the Ancients saying that the food is converted in the stomach into something “good,” he thinks it proper to look out not for what is good in its possible effects, but for what is good to the taste: this is like saying that apples (for so one has to argue with him) become more apple-like [in flavour] in the stomach, or honey more honey-like!
+The mere fact that the food smells of the body shows that it has undergone gastric digestion. 
+
+But this man is so foolish that, when he hears the Ancients saying that the food is converted in the stomach into something “good,” he thinks it proper to look out not for what is good in its possible effects, but for what is good to the taste: this is like saying that apples (for so one has to argue with him) become more apple-like [in flavour] in the stomach, or honey more honey-like!
 
 Erasistratus, however, is still more foolish and absurd.
 
