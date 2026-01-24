@@ -47,17 +47,26 @@ Still, such people may be expected to be quite few in number, while, as for the 
 
 In people who are very hungry, the stomach attracts or draws down the food before it has been thoroughly softened in the mouth.
 
-In those who have no appetite or who are being forced to eat, the stomach is displeased and rejects the food.354 
+In those who have no appetite or who are being forced to eat, the stomach is displeased and rejects the food.
 
-In a similar way each of the other organs possesses both faculties—that of attracting what is proper to it, and that of rejecting what is foreign.
+In a similar way, each of the other organs possesses both faculties:
 
-Thus, even if there be any organ which consists of only one coat (such as the two bladders,355 the uterus, and the veins), it yet possesses both kinds of fibres, the longitudinal and the transverse.
+1. That of attracting what is proper to it
+2. That of rejecting what is foreign.
 
-But further, there are fibres of a third kind—the oblique—which are much fewer in number than the two kinds already spoken of. In the organs consisting of two coats this kind of fibre is found in the one coat only, mixed with the longitudinal fibres; 
+Thus, even if there is any organ which consists of only one coat (such as the 2 bladders, the uterus, and the veins), it yet possesses both kinds of fibres, the longitudinal and the transverse.
 
-But in the organs composed of one coat it is found along with the other two kinds. Now, these are of the greatest help to the action of the faculty which we have named retentive. 
+There are fibres of a third kind—the oblique—which are much fewer in number than the two kinds already spoken of. 
 
-For during this period the part needs to be tightly contracted and stretched over its contents at every point—the stomach during the whole period of digestion,356 and the uterus during that of gestation.
+In the organs consisting of two coats this kind of fibre is found in the one coat only, mixed with the longitudinal fibres.
+
+But in the organs composed of one coat it is found along with the other 2 kinds.
+
+These are of the greatest help to the action of the faculty which we have named retentive. 
+
+For during this period the part needs to be tightly contracted and stretched over its contents at every point—the stomach during the whole period of digestion.
+
+The uterus during that of gestation.
 
 Thus too, the coat of a vein, being single, consists of various kinds of fibres; whilst the outer coat of an artery consists of circular fibres, and its inner coat mostly of longitudinal fibres, but with a few oblique ones also amongst them. 
 

@@ -21,11 +21,18 @@ Sometimes when the stomach is full the gurglings yet make themselves heard as th
 
 For if it be in a natural condition, employing its contractile faculty in the ordinary way, then, even if its contents be very small, it grasps the whole of them and does not leave any empty space.
 
-When it is weak, however, being unable to lay hold of its contents accurately, it produces a certain amount of vacant space, and allows the liquid contents to flow about in different directions in accordance with its changes of shape, and so to produce gurglings.
+When it is weak, it is unable to lay hold of its contents accurately.
 
-Thus those who are troubled with this symptom expect, with good reason, that they will also be unable to digest adequately; 
+It produces a certain amount of vacant space.
+- This allows the liquid contents to flow about in different directions in accordance with its changes of shape
+- This produces gurglings.
 
-Proper digestion cannot take place in a weak stomach. In such people also, the mass of food may be plainly seen to remain an abnormally long time in the stomach, as would be natural if their digestion were slow. 
+Thus those who are troubled with this symptom expect that they will also be unable to digest adequately.
+
+Proper digestion cannot take place in a weak stomach.
+
+In such people, the mass of food remains an abnormally long time in the stomach.
+- This would happen if their digestion were slow. 
 
 
 The chief way in which these people will surprise one is in the length of time that not food alone but even fluids will remain in their stomachs. 

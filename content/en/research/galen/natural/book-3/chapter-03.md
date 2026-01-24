@@ -39,8 +39,9 @@ The completion is entirely despaired of if anything goes wrong with:
 - any of the other membranes or
 - with the foetus
 
+Then, the uterus no longer awaits the 9-months period.
 
-Then the uterus no longer awaits the 9-months period. The retentive faculty forthwith ceases and allows the heretofore inoperative faculty to come into action. 
+The retentive faculty forthwith ceases and allows the heretofore inoperative faculty to come into action. 
 
 It is that something is done—in fact, useful work effected—by the eliminative or propulsive faculty (for so it, too, has been called, receiving, like the rest, its names from the corresponding activities).
 
@@ -52,15 +53,19 @@ Thus, the retentive faculty makes the uterus contract upon the foetus at every p
 
 When the midwives palpate it:
 - the os is found to be closed
-- the pregnant women during the first days—and particularly on that on which conception takes place—experience a sensation as if the uterus were moving and contracting on itself. 
+- the pregnant women 
 
-If both of these things occur—if the os closes apart from inflammation or any other disease, and if this is accompanied by a feeling of movement in the uterus—then the women believe that they have received the semen which comes from the male, and that they are retaining it.
+During the first days and particularly during conception, women feel as if the uterus were moving and contracting on itself. 
 
+The women believe that they have received the semen and retaining it if:
+- both these things occur 
+- the os closes apart from inflammation or any other disease
+- this is accompanied by a feeling of movement in the uterus
 
 Herophilus writes that up to the time of labour, the os uteri will not admit even the tip of a probe. 
 
 It:
-- no longer opens after pregnancy has begun.
+- no longer opens after pregnancy has begun
 - dilates more widely at the times of the menstrual flow.
 
 Hippocrates was the first to declare that the os uteri closes during pregnancy and inflammation.
