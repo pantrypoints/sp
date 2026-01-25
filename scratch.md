@@ -3,6 +3,40 @@
   /* box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1); */
 
 
+Vietnamese
+
+Research
+Main Content
+Mathematics
+Matter (Physics)
+Biology
+Society
+Economics
+Social Cycles
+Spirituality
+News
+FAQs
+Tags
+Help us!
+
+Superphysics: Natural Science Merged with Metaphysics"
+A New Science Based on Waves, Socratic Dialectics, and Cartesian Physics for Solving Problems
+
+All Knowledge Can Be Grouped Into Three: Metaphysics (1-50% Replicable: Paradoxical), Superphysics (51-99% Replicable: Subjective), Physics (100% Replicable: Objective)
+
+Natural science is divided into physic and metaphysic. Physic should contemplate that which is inherent in matter and therefore transitory. Metaphysic should contemplate that which is abstracted and fixed. The Proficience And Advancement Of Learning, Book 2, Part 7
+
+There are 3 principal sciences: Mechanics, Medicine, Ethics. The Principles of Philosophy, Preface.
+
+Things cannot have absolute Existence without any relation to their being perceived. They cannot have any Existence without the Minds which perceive them. I find it strange that people think that Houses, Mountains, and all sensible Objects have a Real Existence, distinct from their being perceived by the Understanding. George Berkeley. The Principles of Human Knowledge, Article 3
+
+The Sciences That Open Up The Universe. Material Superphysics. Replacing the Physics of Newton and Einstein with that of Descartes and Spinoza. Bio Superphysics. Biology and Medicine that combines Western and Asian Principles. Social Superphysics. A Society as a Metaphysical Organism with a Life Cycle. Spiritual Superphysics. Upgrading Experience beyond Matter and into the Aether or Akasha. Supermath and Qualimath. Mathematics based on Base-3, Base-6, Shapes, and Qualities.
+
+Let's Solve All Problems! Evidence. We test Superphysics in the real world. Proposed Solutions and Technologies. Enlightenment ideas can lead to totally new technologies. Predictions from Social Cycles. We test our predictions with actual events. Policies from Social Cycles. A better world needs policies that match Nature.
+
+
+
+
 
 
 Einstein clearly wrote in the 1920 edition: "We have defined time essentially with a CLOCK at rest in a stationary system. On account of its adaptability to the stationary system, we call the time defined in this way as "time of the stationary system."
