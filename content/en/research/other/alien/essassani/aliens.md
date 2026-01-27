@@ -15,6 +15,7 @@ Anunnaki | Creators of humans, from Cygnus. They have blue blood
 Essassani | Hybrid of humans and grays, from Orion
 Grays | Genetically modified future humans, from Zeta Reticuli
 Lyrian | Evolved from Anunnaki
+Oneta | DNA experts
 Plaedians | Also evolved from Anunnaki
 Precursors | Creators of reptilians and dinosaurs 
 Reptilians | Genetically manipulated dinosaurs
@@ -32,6 +33,19 @@ Non-Physical Aliens | Description
 Consciousness at Center of Milky Way | Creator of Precursors
 Light Beings | More advanced than Essassani
 Blue men | Compassionate race of energy beings 
+
+
+### The Oneta
+
+The Oneta (Onetatayu) are explorers that act like explorer-gardeners. 
+
+They have a long range observation program.
+
+They are consulting with mantis beings regarding the hybridization agenda and evolutionary processes.
+
+They are strongly connected to DNA and life. They give vibrational formula to ignite genetic changes in different planets and to correct the evolution of life in different planets. 
+
+Names to them describe all about the culture from begnning to current moment. Names are like an entire energetic formula. 
 
 
 
