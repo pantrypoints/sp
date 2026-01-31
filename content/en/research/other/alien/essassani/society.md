@@ -23,3 +23,12 @@ When you grant equality and validity to everyone, you are granting equality and 
 
 
 There are only 300,000-500,000 oversouls on Earth even if there are billions of people
+
+
+## Elan: Evolution of Earth Government
+
+Governments were created to protect society from danger and was from a fear-based feeling.
+
+The Essassani detect that humans will be less fearful. And so governments will switch from controlling organizations into organizational ones. 
+
+

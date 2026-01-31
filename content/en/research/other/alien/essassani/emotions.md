@@ -10,6 +10,12 @@ description: "Bashar answers Questions about Emotions"
 ### Addiction
 
 Addiction is covering up for something missing. 
+- The past does not create the present. Instead it is the present creates the past. 
+- If you quit smoking now, then it means you have a past where you never smoked. 
+
+Humans believe that the past creates the present. 
+- So Bashar's hack is to use the present choice to change the past so that it reinforces the current choice
+
 
 
 ### Anxiety

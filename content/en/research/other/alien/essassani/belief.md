@@ -18,6 +18,9 @@ Likewise, the personality also functions as a prism, separating the holistic ene
 - thought Patterns & actions
 
 
+Personality is a mask projected by consciousness. 
+
+
 ```bash
 Soul -> prism of Personality -> Beliefs -> Emotions -> Thought Patterns & Actions 
 ```
