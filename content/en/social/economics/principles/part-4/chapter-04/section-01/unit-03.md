@@ -1,8 +1,8 @@
 ---
-heading: "Section 2"
+heading: "Unit 3"
 title: "Ecommerce and XCommerce: Last Mile"
 date: 2024-11-20
-weight: 84
+weight: 14
 image: /photos/econ/rider.jpg
 # image: /graphics/econ/ui.jpg
 description: "Historically, commerce involved both barter and money exchanges"

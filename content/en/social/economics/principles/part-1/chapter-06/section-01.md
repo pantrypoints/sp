@@ -36,14 +36,16 @@ We replace the Paradox of Value of Economics with the Value of Rarity of Superec
 
 This states that the mind assigns a higher comparative value on rare items compared to common ones that are not negative or detrimental to life.
 
-There might be rare diseases or rare disabilities. But these have a negative value as they are against the normal template of a healthy life. 
+This is also related to the concept of scarcity of Economics. However, "rarity" implies a neutral  idea, whereas scarcity implies a negative one.
+- A gem and a disease can be both rare. But we do not commonly say that they are scarce.
+- We say food can be scarce, but do not usually say that food is rare.
+
+<!-- There might be rare diseases or rare disabilities. But these have a negative value as they are against the normal template of a healthy life. 
 
 - Tall basketball players are rarer than short ones, and so they have more value. 
 - Gold is rarer than iron and so it is more valuable
-
+ -->
 <!-- Metaphysically, this is because unique or special vibrations imply a different aether configuration.  -->
-
-
 
 
 ## Effective Demand

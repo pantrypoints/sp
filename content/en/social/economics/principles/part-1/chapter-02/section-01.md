@@ -1,6 +1,5 @@
 ---
 heading: "Section 1"
-# linkTitle: Hierarchy of Needs
 title: "Hierarchy of Needs"
 date: 2025-08-09
 # date: 2015-08-20

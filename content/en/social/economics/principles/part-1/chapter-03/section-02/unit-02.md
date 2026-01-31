@@ -2,23 +2,42 @@
 heading: "Unit 2"
 title: "Basic Points Revenue"
 date: 2022-08-24
-# date: 2022-08-22
-# 3
+# date: 2022-08-2
 weight: 14
-image: /photos/objects/money.jpg
-description: "Economics uses money both as a store of value and tool of trade. Supereconomics uses three tools--money, points, and barter"
+image: /photos/social/pantry.jpg
+description: "Basic Points Revenue facilitates Minimum needs"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
+Chapter 2 explained the concept of minimum needs which is a key effect of the 1st Law of Value.
 
-The points are very useful during crises. 
+The previous unit explained points-valuation as the conversion of nominal value into common food commodities as a common store of value.
+- This is because all humans need food, instead of precious metals, to live. 
 
-During personal crises, the points manifest as 'Basic Points Revenue' or BPR. 
+Points-valuation is then systematized as Pointization.
 
-It will convert anyone's productivity into points which can be exchanged for food or other basic needs to get through a crisis.
+When applied to facilitating minimum needss, pointization leads to Basic Points Revenue or BPR.
+
+
+```
+Exchangeable Value + 1st Law = Nominal Price 
+
+Nominal Price + Common Food = Points Valuation
+
+Points Valuation + System = Pointization
+
+Pointization + Minimum Needs = Basic Points Revenue
+```
+
+
+<!-- The points are very useful during crises. 
+
+During personal crises, the points manifest as 'Basic Points Revenue' or BPR.  -->
+
+These convert anyone's productivity into points which can be exchanged for food or other basic needs to get through a crisis.
 
 This is similar to how the Inca established a nonmonetary economy using strings called *quipu* that represented an amount of food in the granary.
 

@@ -25,6 +25,7 @@ What really 'deflated' was economic activity, arising from Japan's declining pop
 - inflation as **demand inflation** *
 - deflation as **demand deflation**
 
+
 {{< f f="*From the viewpoint of Economics, the Superphysics definition is Demand-Pull Inflation. Cost-push inflation is merely demand-pull inflation from the viewpoint of the suppliers and producers." >}}
 
 

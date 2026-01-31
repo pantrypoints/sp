@@ -14,7 +14,6 @@ aliases:
 
 
 
-
 Exchangeable Value is addressed in 2 ways:
 
 1. Directly through service
