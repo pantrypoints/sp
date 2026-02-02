@@ -6,8 +6,8 @@ weight: 6
 # date: 2022-08-30
 # date: 2022-03-27
 date: 2026-01-20
-image: /graphics/econ/law1.jpg
-description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
+image: /photos/econ/barter.jpg
+description: "Exchangeable value is based on relational desire."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

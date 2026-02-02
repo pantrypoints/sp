@@ -5,8 +5,8 @@ title: "Resource Mechanisms: Stores of Value"
 date: 2022-08-24
 # date: 2022-08-22
 # 3
-weight: 14
-image: /photos/objects/money.jpg
+weight: 8
+image: /photos/econ/stocks.jpg
 description: "Economics uses money both as a store of value and tool of trade. Supereconomics uses three tools--money, points, and barter"
 writer:
   name: Juan

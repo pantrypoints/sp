@@ -1,7 +1,7 @@
 ---
-heading: Section 2
-title: "Wholesale and Retail"
-weight: 10
+heading: Unit 1
+title: "Wholesale Trade"
+weight: 4
 date: 2026-01-18
 description: ""
 image: /photos/econ/store.jpg
