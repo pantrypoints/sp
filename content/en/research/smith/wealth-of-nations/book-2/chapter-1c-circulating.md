@@ -92,7 +92,7 @@ When equal capitals are employed, their produce is proportional to their natural
 {{< s v="30" >}} In all countries where there is tolerable security, every man will try to use his stock in procuring present enjoyment or future profit.
 
 - If he uses it to get present enjoyment, it is called a stock reserved for immediate consumption.
-- If he uses it to get future profit, it must= 
+- If he uses it to get future profit, it must:
   - stay with him, or
     - In this case, his stock is a fixed capital.
   - leave him.

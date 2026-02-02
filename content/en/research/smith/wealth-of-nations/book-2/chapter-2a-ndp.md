@@ -38,7 +38,7 @@ This is just like a private farm's=
 The net rent* is what remains free to the landlord, after deducting the cost of management, repairs, etc.
 - It is what the landlord can spend or use as his stock for immediate consumption. His real wealth is in proportion to his net rent, not his gross rent.
 
-> *[Net Rent + Expences = Gross Rent paid by the farmer to the landlord]
+*[Net Rent + Expences = Gross Rent paid by the farmer to the landlord]
 
 
 

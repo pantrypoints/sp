@@ -59,3 +59,10 @@ You can know another person by starting into his/her eyes.
 
 
 <!-- conscio pattern can be dealt with as if it were autonomous for the purpose of reflectivity.   -->
+
+
+
+## Essassani Challenge
+
+The Essassani's major challenge is to convert from physical to quasi physical beings. They are getting help from quasi physical Sirius beings.
+

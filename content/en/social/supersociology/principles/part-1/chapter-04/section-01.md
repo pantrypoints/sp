@@ -3,7 +3,7 @@ title: "What is Morality?"
 heading: Section 1
 # heading: "Doing what is dharmic and avoiding the adharmic"
 date: 2019-12-17
-weight: 16
+weight: 4
 image: "/photos/tech/phone.jpg"
 description: "Morality is the state of doing what is correct and avoiding the wrong in order to have sustainable happiness for as long as possible and for as many entities as possible"
 writer:

@@ -10,9 +10,13 @@ writer:
 ---
 
 
+
+
 Activity | Method 
 --- | ---
 Trade | Barter
+
+
 
 
 ## 30. Northern Taiwan
@@ -23,8 +27,28 @@ The king's family name is Huan-ssi. But the natives call him Kolau.
 
 His lives in Polotantung. It has a threefold mound and a palisade surrounded by running water and protected by thorn hedges, and the eaves of the palace building have many figures of birds and beasts carved upon them.
 
+Both sexes bind their hair with white hempen cord and coil it up in a 5 knot at the back of the head.
 
-Both sexes bind their hair with white hempen cord and coil it up in a knot at the back of the head. 
+They make clothes of different patterns from hempen cloth and (ornamented with) feathers.
+
+They plait hats of rattan and decorate them with feathers. Their soldiers are armed with weapons of every kind, such as knives, pikes, bows and arrows, and swords; they use drums, and make buff-coats of bears' and 10 leopards' skins.
+
+The carriages (i) in which (the chiefs) drive are chased with the images of wild beasts, and only several tens of men walk in front and behind. They have no regular tax revenue, but when occasion arises, a duty in the nature of an equal impost (on all classes) is levied.
+
+They do not understand the solar and lunar divisions of the year, but simply record time by observing the phases of the moon3.
+
+Fathers and sons sleep together on the same couch. They evaporate sea water in the sun to make salt, and they brew rice barm into spirits. When- ever they happen to have any extraordinary delicacy, they first offer it to 20 their principal men (or Worthies).
+
+Of meats they have bears and wolves, a great many pigs, and domestic fowls; but no cattle, sheep, donkeys nor horses. The soil of this country is rich and loamy. After burning the grass (i. e., the stubble of the last crop), they flood the land and merely hoe it up a few inches deep.
+
+There are no goods of any special importance to be got there; the people are, moreover, given to robbery, for which reason traders do not go there; but the natives, from time to time, take whatever they can get together in the way of yellow wax, native gold, buffalo tails and jerked leopard meat to San-sü (Visayas) for sale.
+
+By its side are the countries of Pishöyé and T'anmayen (談馬顔).
+
+
+
+
+<!-- Both sexes bind their hair with white hempen cord and coil it up in a knot at the back of the head. 
 
 They make clothes of different patterns from hempen cloth and (ornamented with) feathers.
 They
@@ -89,7 +113,8 @@ is the stubble of the last crop),
 up a few inches deep.
 
 
-They have no noteworthy products. The people are given to robbery. This is why traders do not go there. Sometimes, they gather yellow wax, native gold, buffalo tails and jerked leopard meat to the Visayas for sale. By its side are Southern Taiwan and Tanmayen.
+They have no noteworthy products. The people are given to robbery. This is why traders do not go there. Sometimes, they gather yellow wax, native gold, buffalo tails and jerked leopard meat to the Visayas for sale. By its side are Southern Taiwan and Tanmayen. -->
+
 
 
 
@@ -281,20 +306,52 @@ of the island in A. D. 607. See however, C.
 opinion, but -->
 
 
-## 43. Southern Taiwan
+
+
+## 43. Southern Taiwan: P'i-shö-yé
 
 The language of Pishoye cannot be understood. Traders do not go here. 
 
 The people go naked and are in a state of primitive savagery like beasts.
 
-Near Canton, there is an island called Ponghu belonging to the jurisdiction of Tsin-kiang-hien. From here, smoke from Southern Taiwan can be seen
+Near Canton, there is an island called Ponghu [Pescadores Islands] belonging to the jurisdiction of Tsin-kiang-hien.
+
+From here, smoke from Southern Taiwan can be seen.
 
 The Southern Taiwanese raid Ponghu and our people have fallen victims to their cannibalism, a great grief to the people!
 
-From 1174—1190, their chiefs organized raiding parties of several hundreds on the villages of Shui-au and  where they gave free course number and women
-them by
-in
-attacks
+From 1174—1190, their chiefs organized raiding parties of several hundreds on the villages of Shui-au and  where they gave free course number and women.
+
+During the period shun-hi (A. D. 1174-1190) their chiefs were in 15 the habit of assembling parties of several hundreds to make sudden attacks on the villages of Shui-au () and Wei-t'óu () in 
+
+In Canton, they gave free course to their savage instincts.
+- They slay many men and also women after they had raped them.
+
+They were fond of iron vessels, spoons, and chopsticks.
+
+One could get rid 20 of them by closing the entrance door, from which they would only wrench the iron knocker and go away.
+
+By throwing away spoons or chopsticks they could be got to stoop down to pick them up, and thus fall behind some paces.
+
+The officials' soldiers used to lay hold of them in this manner: when the savages got sight of a horseman in mail, they struggled to strip off his armour, when, in their headlong rush, they met their death without being sensible of the danger.
+
+When attacking an enemy, they are armed with javelins to which are attached ropes of over 100 feet long to recover them after each throw.
+
+They put such value on the iron of these weapons, that they cannot bear to lose them.
+
+They do not sail in junks or boats. Instead, they lash bamboo into rafts, which can be folded up like screens.
+
+So, when hard pressed, a number of them can lift them up and escape by swimming off with them.
+
+
+
+
+
+
+
+
+
+<!-- them by in attacks
 in Canton,
 slaying
 men
@@ -334,7 +391,7 @@ so, when hard them up and escape by swimming
 off pressed, a number
 rafts, of which them can with them.
 
-Liu-k'iu. 
+Liu-k'iu.  -->
 
 <!-- 
 In the preceding chapter our author says that P'i-sho-ye is beside
@@ -436,3 +493,5 @@ St. Denis, Ethnographie, I, 425.
 this chapter of
 our author. See 30
  -->
+
+

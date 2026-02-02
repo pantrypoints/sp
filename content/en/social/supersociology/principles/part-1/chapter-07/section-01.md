@@ -1,9 +1,9 @@
 ---
 title: "How Modern Education Corrupts Knowledge with Shallow Reasoning"
 linkTitle: Bad Education
-heading: Chapter 7
+heading: Section 1
 # date: 2019-06-29
-weight: 48
+weight: 4
 date: 2013-10-21
 image: "/photos/psych/bore.jpg"
 description: "The Enlightened philosophers wrote against sophistry by the merchants and by fake scientists"
@@ -12,6 +12,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Superphysics"
 ---
+
 
 
 In course of creating the new economic science, I’ve always wondered how the false beliefs of the Marginal Revolution were able to formalize themselves into the corrupted, dismal science called Modern Economics.

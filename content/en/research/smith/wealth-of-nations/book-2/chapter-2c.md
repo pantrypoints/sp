@@ -38,7 +38,10 @@ The same exchanges may be made. The same amount of goods worth £100,000 may be 
 £80,000 of gold and silver can be spared from the country's circulation.
 
 If these operations were done by many banks, the whole circulation may be conducted with 20% of the gold and silver previously needed.
-30 Let us suppose that a country's whole circulating money was £1 million.
+
+
+
+<sup>30</sup> Let us suppose that a country's whole circulating money was £1 million.
 
 £1m was enough to circulate the whole national annual produce.
 - Different banks then issued promissory notes for £1m.

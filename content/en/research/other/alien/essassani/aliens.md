@@ -112,3 +112,24 @@ This is homo galacticus (Enanika?) as the furure hybridized human species to be 
 
 This will help build the 7th hybrid race (Anu Het). 
 
+
+## Shakana
+
+Shakana is the world spirit of the Essassani.
+
+It was born after a seven-month gestation period.
+
+Day | Event
+--- | ---
+1 | Everyone (250m Essassani) fell asleep into a single dream
+2 | They were unified in a dream through a spiritual gravity experiencing an energy sea
+3 | The Essassani became a single entity, dreaming as one. 
+
+
+The Essassani discovered they were of one heart and soul and body just with different faces.
+
+After the third day, Shakana went back to energy and everyone woke up.
+
+From that day, the Essassani did not need to sleep anymore.
+
+

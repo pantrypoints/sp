@@ -76,7 +76,11 @@ An improved farm is the same as those useful machines.
 {{< s v="17" >}} Useful abilities of everyone in society.
 
 The acquisition of such talents always costs the maintenance of the learner during his education.
-    It is a capital fixed and realized in his person.
+
+It is a capital fixed and realized in his person.
+
 Those talents form part of his fortune and the fortune of the society he belongs to.
+
 The worker’s improved dexterity is the same as a machine which facilitates labour.
-    It has a cost which it repays with a profit.
+
+It has a cost which it repays with a profit.

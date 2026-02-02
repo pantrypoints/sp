@@ -26,12 +26,15 @@ icon: "Adam Smith"
 His whole stock is made up of 2 parts:
 
 1. His capital
-  - He expects this part to provide revenue
+
+He expects this part to provide revenue
+
 2. His stock for immediate consumption
-  - This consists of:
-    - the stock that he means to consume,
-    - the stock that becomes his revenue, or
-    - the stock obtained in previous years which has not yet been consumed, such as clothes, furniture, etc.
+
+This consists of:
+- the stock that he means to consume,
+- the stock that becomes his revenue, or
+- the stock obtained in previous years which has not yet been consumed, such as clothes, furniture, etc.
 
 The stock for immediate consumption can be one or a mix of these three.
 

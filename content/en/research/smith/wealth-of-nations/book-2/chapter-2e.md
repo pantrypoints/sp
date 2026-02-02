@@ -81,3 +81,4 @@ By converting it into gold and silver, they can easily use it abroad.
 But they could find no use for it while it remained as paper.
 There would immediately be a run on the banks to the whole extent of this superfluous paper.
 If the banks showed any backwardness in payment, a greater alarm would be created, increasing the run.
+

@@ -82,28 +82,42 @@ Were it not more, charity or friendship could be the only motives for lending.
 {{< s v="20" >}} In a country with maximum riches, where all businesses had maximum stock employed, the ordinary clear profit rate would be so small and interest rates so low.
 
 Only the wealthiest people could to live on the interest of their money.
+
 Those with less wealth would be obliged to employ their own stocks.
+
 Almost every man should be in business.
+
 Holland seems to be approaching this state.
+
 Business there is a common necessity and entrepreneurship is fashionable.
+
 Idle men there will be less tolerated just as a non-military person will be despised in a garrison.
 
 
 {{< s v="21" >}} The highest ordinary rate of profit among commodities, eats up the landlord's rent and leaves only the lowest wages.
 
+
 The worker must always be fed while employed, but the landlord is not always paid.
+
 The profits of the East India Company in Bengal is perhaps not far from this rate.
 
 
 {{< s v="22" >}} The proportion of the usual market interest rate to the ordinary clear profit rate varies as profit rises or falls.
 
 In Great Britain, merchants see double interest as the usual profit.
+
 If the ordinary clear profit rate is 8-10%, it may be reasonable that half of it should go to interest if the business is funded by loans.
+
 The borrower insures it to the lender at the rate of 4-5%.
+
 It may be sufficient profit for the risk to the lender and compensation for the trouble of employing the stock.
+
 But the proportion between interest and clear profit might not be the same in countries where the ordinary profit rate was much lower or much higher.
+
 If it were much lower, half of it perhaps could not be afforded for interest
+
 If it were much higher, more might be afforded for interest.
+
 
 {{< s v="23" >}} In countries fast advancing to riches, the low profit rate in commodities may compensate high wages.
 
@@ -112,19 +126,28 @@ It may enable those countries to sell cheaper than their less thriving neighbour
 
 {{< s v="24" >}} In reality, high profits tend much more to raise the price of work than high wages.
 
-If the wages of flax-dressers, spinners, weavers, etc. in linen production were raised by 2-pence a day= 
-The price of each finished linen would only be raised by 2-pence multiplied by the number of workers employed, multiplied by the number of days they took to produce it.
-The wage part of the price of the linen would only rise arithmetically in proportion to this rise of wages.
+If the wages of flax-dressers, spinners, weavers, etc. in linen production were raised by 2-pence a day:
+- The price of each finished linen would only be raised by 2-pence multiplied by the number of workers employed, multiplied by the number of days they took to produce it.
+- The wage part of the price of the linen would only rise arithmetically in proportion to this rise of wages.
+
 
 But if the profits of all the raw materials for linen were raised to 5%, the profit part of the price of the linen would rise geometrically in proportion to this rise of profit.
+
 The employer of the flax-dressers would increase the selling price of his flax by 5%.
+
 The employer of the spinners would also increase prices by 5%.
 
 This includes the higher price of the flax and the wages of the spinners.
+
 The employer of the weavers would also increase prices by 5% for the same reason.
+
 Raising wages raises the price of commodities in the same way as simple interest raises the price of loans.
+
 Raising profits raises the price like compound interest.
 
 Our merchants and manufacturers complain of the bad effects of high wages in raising the price, which lessens the sale of their goods.
+
 They say nothing about the bad effects of high profits.
+
 They are silent with regard to the pernicious effects of their own gains and complain only of those of other people.
+
