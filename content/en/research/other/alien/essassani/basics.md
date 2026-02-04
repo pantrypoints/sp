@@ -1,13 +1,14 @@
 ---
-title: "Basic Beliefs of the Essassani"
+title: "Basic Beliefs of the Sassani"
 weight: 2
 image: "/covers/essassani.jpg"
-description: "The Metaphysics followed by the Essassani"
+description: "The Metaphysics followed by the Sassani"
 author: Consolidated from Bashar
 ---
 
 
-The Essassani are a 5th dimensional civilization in a parallel reality in the Shah star system near the Orion's belt. 
+
+The Sassani are an advanced 5th dimensional alien species from the planet Essassani in the Shah star system near Orion's belt in a parallel reality.
 
 They are a hybrid of human and Gray DNA created by the Grays (future humans). This means they are even closer to humans than the Grays. This is proven by them being able to procreate whereas the Grays could not.   
 
@@ -17,29 +18,29 @@ They are a hybrid of human and Gray DNA created by the Grays (future humans). Th
 <!-- Even the Pleiadians look up to the Essassani civilization as being exceptionally spiritually-advanced*. -->
 
 {{< d t="Superphysics Note" >}}
-Superphysics is based on David Hume's maxim that **mentality creates reality**. This is how the Essassani maxims, such as 'believing is seeing' caught our attention. 
+Superphysics is based on David Hume's maxim that **mentality creates reality**. This is how the Sassani maxims, such as 'believing is seeing' caught our attention. 
 
-(We primarily use Essassani information for 'technology-checking' to see whether our hypothesis on Cartesian mechanics will match the technology of the Essassani. Prior to this, we mainly checked whether our proposed [moneyless system](https://www.pantrypoints.com) would match their skills-based synchronicity economic system which matches those who have skills to those who need those skills in real-time.)
+(We primarily use Sassani information for 'technology-checking' to see whether our hypothesis on Cartesian mechanics will match the technology of the Essassani. Prior to this, we mainly checked whether our proposed [moneyless system](https://www.pantrypoints.com) would match their skills-based synchronicity economic system which matches those who have skills to those who need those skills in real-time.)
 
 However, no one seems to be keen enough to notice that **their principles are designed for 5th dimensional beings and not 4th dimensional ones like humans**.
 
-Unlike the Essassani, we humans are still very much bound by the Negative force as Maya, just like cats and dogs are even more bound than us. 
+Unlike the Sassani, we humans are still very much bound by the Negative force as Maya, just like cats and dogs are even more bound than us. 
 
-Even if you say that the Essassani are just mirroring our higher minds, the human species is still so low-minded as to vote for Trump and let Russia and Israel invade and kill Ukrainians and Gazans. 
+Even if you say that the Sassani are just mirroring our higher minds, the human species is still so low-minded as to vote for Trump and let Russia and Israel invade and kill Ukrainians and Gazans. 
 
-We can think of the Essassani as high end quad-core gaming laptops capable of playing EXCITING games like multiplayer Call of Duty and DOTA2, while humans are low end Pentium I capable of only single-player Wolfenstein 3D.
+We can think of the Sassani as high end quad-core gaming laptops capable of playing EXCITING games like multiplayer Call of Duty and DOTA2, while humans are low end Pentium I capable of only single-player Wolfenstein 3D.
 
-Humans who totally follow Essassani principles will likely find themselves disappointed when their excitement fails to procure them the reality that they desire, just as a Pentium I will not be able to play Call of Duty.
+Humans who totally follow Sassani principles will likely find themselves disappointed when their excitement fails to procure them the reality that they desire, just as a Pentium I will not be able to play Call of Duty.
 
 Instead, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to the out-of-this-world excitement.
 
 It would be like upgrading a Pentium I to play a Wolfenstein 3D updgraded to be multiplayer. 
 
-The critical ingredient that makes the Essassani principles fail in the human frame is **the hardened ego that is in all humans**. 
+The critical ingredient that makes the Sassani principles fail in the human frame is **the hardened ego that is in all humans**. 
 
 Their solution to this are the mantras: 'so what?' and 'let it go' and 'relax your definitions'. 
 
-Humans can upgrade themselves to Essassani by evolving genetically with each generation while following such general principles.
+Humans can upgrade themselves to Sassani by evolving genetically with each generation while following such general principles.
 {{< /d >}}
 
 
@@ -151,7 +152,7 @@ The 5 Basic Laws of Creation which are true Everywhere/Everywhen in the universe
 I realized it's because the Essassani are already unified and based on 4th density, making it their frame of reference. On the contrary, humans are still dis-integrated and based on matter (i.e. we need to eat material food instead of getting the pranah from the aether like the Esssassani do). This makes the 1st density as our frame of reference. We are still struggling to discover gravitation and have compassion for all, just as the Essassani are struggling to settle in non-physicality. The massacres in Ukraine and mass extinction are proofs that humans are still far from leaving 1st density. Their theory is that we can rubber band from 1st to 4th, but never explain how it might happen. -->
 
 
-## The Essassani Formula
+## The Sassani Formula
 
 1. Act on your HIGHEST Excitement, your Passion
 

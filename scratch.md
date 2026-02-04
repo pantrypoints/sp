@@ -3,6 +3,7 @@
   /* box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1); */
 
 
+
 Vietnamese
 
 Research
@@ -33,7 +34,6 @@ Things cannot have absolute Existence without any relation to their being percei
 The Sciences That Open Up The Universe. Material Superphysics. Replacing the Physics of Newton and Einstein with that of Descartes and Spinoza. Bio Superphysics. Biology and Medicine that combines Western and Asian Principles. Social Superphysics. A Society as a Metaphysical Organism with a Life Cycle. Spiritual Superphysics. Upgrading Experience beyond Matter and into the Aether or Akasha. Supermath and Qualimath. Mathematics based on Base-3, Base-6, Shapes, and Qualities.
 
 Let's Solve All Problems! Evidence. We test Superphysics in the real world. Proposed Solutions and Technologies. Enlightenment ideas can lead to totally new technologies. Predictions from Social Cycles. We test our predictions with actual events. Policies from Social Cycles. A better world needs policies that match Nature.
-
 
 
 
@@ -494,3 +494,64 @@ module.exports = {
   .markdown-content h3 { @apply text-2xl; }
   */
 }
+
+
+
+<!-- Heart - Love/Life -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+  <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
+</svg>
+
+<!-- Brain - Wisdom -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+  <path d="M9 17H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm2-7h-1V7h-2v3h-2V7h-2v3h-2V7H8v3H7c-1.1 0-2 .9-2 2v5h2v-2h10v2h2v-5c0-1.1-.9-2-2-2zm0 5H7v-2h10v2z"/>
+</svg>
+
+<!-- Body - Human Form -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+  <path d="M12 6c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2m0 10c2.7 0 5.8 1.29 6 2H6c.23-.72 3.31-2 6-2m0-12C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 10c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/>
+</svg>
+
+<!-- Moon - Crescent -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+  <path d="M12 3a9 9 0 109 9c0-.46-.04-.92-.1-1.36a5.389 5.389 0 01-4.4 2.26 5.403 5.403 0 01-3.14-9.8c-.44-.06-.9-.1-1.36-.1z"/>
+</svg>
+
+
+<!-- Saturn - With Rings -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+  <circle cx="12" cy="12" r="5"/>
+  <ellipse cx="12" cy="12" rx="9" ry="2.5" fill="none" stroke="currentColor" stroke-width="2"/>
+</svg>
+
+<!-- Apollo - Sun -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+  <circle cx="12" cy="12" r="5"/>
+  <line x1="12" y1="1" x2="12" y2="4"/>
+  <line x1="12" y1="20" x2="12" y2="23"/>
+  <line x1="4.22" y1="4.22" x2="6.34" y2="6.34"/>
+  <line x1="17.66" y1="17.66" x2="19.78" y2="19.78"/>
+  <line x1="1" y1="12" x2="4" y2="12"/>
+  <line x1="20" y1="12" x2="23" y2="12"/>
+  <line x1="4.22" y1="19.78" x2="6.34" y2="17.66"/>
+  <line x1="17.66" y1="6.34" x2="19.78" y2="4.22"/>
+</svg>
+
+<!-- Jupiter - King of Gods -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+  <circle cx="12" cy="12" r="6"/>
+  <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/>
+</svg>
+
+<!-- Venus - Beauty/Feminine -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+  <circle cx="12" cy="8" r="4"/>
+  <path d="M12 14c-3.31 0-6 2.69-6 6h12c0-3.31-2.69-6-6-6z"/>
+</svg>
+
+<!-- Mars - War/Masculine -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+  <circle cx="12" cy="12" r="4"/>
+  <line x1="18" y1="6" x2="12" y2="12" stroke-width="2"/>
+  <line x1="12" y1="12" x2="6" y2="18" stroke-width="2"/>
+</svg>

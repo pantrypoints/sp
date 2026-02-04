@@ -1,5 +1,6 @@
 ---
-title:  "Essassani"
-description: "The Essassani are an advanced alien species in the Shah star system near Orion's belt."
+title:  "The Sassani from Essassani"
+description: "The Sassani are an advanced alien species in the planet Essassani in the Shah star system near Orion's belt."
 image: "/covers/essassani.jpg"
 ---
+
