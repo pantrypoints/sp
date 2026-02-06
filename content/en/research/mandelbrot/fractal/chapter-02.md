@@ -10,7 +10,7 @@ date: 2025-11-04
 
 ## Jean Perrin
 
-familiar motions this view appears true enough, do not see that it involves considerable diffi- culties.
+familiar motions this view appears true enough, do not see that it involves considerable difficulties.
 
 Mathematicians know that it is childish to try to show by drawing curves that every continuous function has a derivative.
 
