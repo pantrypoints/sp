@@ -22,7 +22,7 @@ public private key
 3. Memory or storage
 
 
-
+base position : tune speed :
 
 Vietnamese
 

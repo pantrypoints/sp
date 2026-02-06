@@ -1,10 +1,10 @@
 ---
 heading: "Section 2"
-title: "The Three Operations of the Mind and Four Actions of Flow"
+title: "The Three Operations of the Mind"
 date: 2025-03-08
 image: "/graphics/meta/ideas.jpg"
 description: "Material Superphysics explained the 3 actions of the aether that is the effect of the 3 Influences"
-weight: 14
+weight: 10
 ---
 
 
@@ -49,27 +49,3 @@ Mathematics uses these 3 operations of the mind as quantification, notation, and
 
 <!-- to is a flow of quantification to make sense of the analog flow.  -->
 
-
-## The Four Operations of Arithmetic on Instances
-
-Arithmetic is the basic core of mathematics that uses 4 operations from the flow which matches the 4 properties of waves:
-
-1. Addition as 1st Property of Waves
-
-The 1st Property of Waves is "no void". This is fulfilled by addition which adds onto the instances. This is like making a line move forward.
-
-2. Division is the 2nd Property of Waves
-
-The 2nd Property of Waves is frequency. A sound can be divided into smaller parts.  
-
-3. Subtraction as the 3rd Property of Waves 
-
-The 3rd Property of Waves is amplitude. A wave can have positive and negative values as it goes up and down.
-
-4. Multiplication as the 4th Property of Waves 
-
-The 4th Property of Waves is forward movement. Multiplication expands just as division contracts. 
-
-Addition and Subtraction can start from zero just as a wave can shave an origin or middle point.
-
-Division and Multiplication need a pre-existing instance, just as a frequency needs an existing wave, and expansion needs something to expand.  

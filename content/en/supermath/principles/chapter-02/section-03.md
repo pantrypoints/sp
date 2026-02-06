@@ -8,7 +8,19 @@ weight: 26
 ---
 
 
-The History of Imaginary Numbers
+
+Whole numbers and rational numbers imply staticity whereas irrational numbers imply dynamism.
+
+Imaginary numbers are a dimension higher than the current one. 
+
+While irrational numbers are on the same dimenion continuing laterally, imaginary numbers are on a higher dimension acting as a template or filler for the current dimension.
+
+In Physics, this is best seen as `i` in the Schrodinger Equation.
+
+An imaginary number is the square root of -1. 
+
+
+The History of Imaginary Numbers:
 
 Year | Event
 --- | ---

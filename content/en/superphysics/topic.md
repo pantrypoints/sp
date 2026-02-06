@@ -10,7 +10,7 @@ icon: "Juan"
 ---
 
 
-We will be putting all Superphysics topics here to coordinate the content. 
+We will be putting all Superphysics topics here to coordinate the content as thing are getting bloated.  
 
 
 
