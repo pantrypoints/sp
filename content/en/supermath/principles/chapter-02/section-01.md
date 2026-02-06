@@ -20,9 +20,7 @@ This makes it 'alive' but not expressive. This concept is totally absent in Math
 Dead and Alive are key characteristics of the Physics of Descartes, Spinoza, Berkeley for an infinite living universe with dormant sections:
 
 {{< q a="George Berkeley" >}}
-**No force is immediately perceived by itself.** It is only known and measured by its effects. But the *dead force*, or simple gravitation in a body at rest, produces no observable change and hence no effect. 
-
-But impact does. Therefore, since forces are proportional to their effects, then dead force is null.
+**No force is immediately perceived by itself.** It is only known and measured by its effects. But the *dead force*, or simple gravitation in a body at rest, produces no observable change and hence no effect. But impact does. Therefore, since forces are proportional to their effects, then dead force is null.
 {{< /q >}}
 
 
@@ -43,7 +41,7 @@ The mind assigns a new identity or name to this "2-instance instance" as the num
 
 There are an infinite number of instances, and so the mind would have to assign new identities to each instance, which is then has to remember.
 
-Since the mind's memory capacity is finite, it groups the identities into repeatable patterns using the same base identities. 
+Since the mind's memory capacity is finite, it **groups the identities** into repeatable patterns using the same base identities. 
 
 - This is also why **Supermath** is for numbers that represent physical reality, from the Material to the Spatial Layer. This uses all base-x groupings.
 - **Qualimath** is for instances that represent the metaphysical domain such as ideas and feelings, including the idea of infinity. This uses base-3 grouping.

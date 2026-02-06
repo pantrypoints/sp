@@ -11,7 +11,10 @@ weight: 16
 
 ## Constants
 
-Constants are fixed ratios in our current universe. A base-6 system will make them better fit with each other just as a jigsaw puzzle made of squares will make a more fitting puzzle than one of pentagons or octagons.
+
+In Material Superphysics, constants are fixed ratios in our current universe. 
+
+A base-6 system will make them better fit with each other just as a jigsaw puzzle made of squares will fit easier with each other in a puzzle than one made up of pentagons or octagons.
 
 
 Constant | Value Base 6 | Value Base 10
@@ -31,11 +34,15 @@ Fine Structure | 0.00132431545.. | 0.0072973525643
 
 Humans (as well as animals) can have widely differing opinions becacuse these are made up of aethereal souls which inherit some of the arbitrariness of the aether. 
 
-The more advanced the soul is, the more differences it has from others. To keep those differences harmonious, all souls in physical reality need a common basis in matter, which is the crudest layer or Element.
+The more advanced the soul is, the more differences it has from others. 
+
+To keep those differences harmonious, all souls in physical reality need a common basis in matter, which is the crudest layer or Element.
 
 We can expect that a hydrogen atom in our solar system will have the same properties in all solar system and all galaxies. 
 
-The differences in matter in other galaxies is that their aetherspaces might allow more elements and isotopes leading to different chemistries and materials. An example is Element 115 of the Grays as explained by Bob Lazar.
+The differences in matter in other galaxies is that their aetherspaces might allow more elements and isotopes leading to different chemistries and materials. 
+
+An example is Element 115 of the Grays as explained by Bob Lazar.
 
 This makes material oscillations, as the vibrations of their aetherspace, the best basis for measures. 
 - The aetherspace is the uppermost observable layer

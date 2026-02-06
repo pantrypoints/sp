@@ -3,6 +3,26 @@
   /* box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1); */
 
 
+centralized bybit maya crpyto
+dex pancake swap
+
+centralized --> dex is defi (hi risk, hi profits) 
+
+dex crypto wallet 
+- gateway to blockchain 
+- scure storage
+- signs sends transactions
+- recovery phrase backup 
+
+public private key 
+
+3 operations of mind as gunas 
+1. Flow (association, expansion)
+2. Force (attraction / repulsion)
+3. Memory or storage
+
+
+
 
 Vietnamese
 

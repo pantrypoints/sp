@@ -1,99 +1,37 @@
 ---
-heading: Section 1
-title: "Basic Operations"
-date: 2025-03-18
-image: "/graphics/super/vortex.jpg"
-description: "Vortex numbers are base-5 instances that can make geometry easier and less irrational"
-weight: 
+heading: "Section 1"
+title: "Waves and Relationality"
+date: 2026-02-06
+image: "/graphics/meta/ideas.jpg"
+description: ""
+weight: 4
 ---
 
 
-Instances are the perceptions of unique identity. 
 
-The 4 Operations are:
+Mathematics deals with particles. 
 
-1. Addition of Instances
+Qualimath deails with waves. 
 
-2. Reduction of Instances 
-
-This is called subtraction in arithmetic
-
-3. Expansion of Instances
-
-This is called multiplication
-
-4. Contraction of Instances
-
-This is called division
+Supermath is the bridge between both. 
 
 
-{{< q a="Rene Descartes" c="Geometry" >}}
-All Arithmetic is composed of only four or five operations:
+## Relationality as Ratio Sign 
 
-1. Addition
-2. Subtraction
-3. Multiplication
-4. Division
-5. Extraction of roots
+It does this by introducing the concept of relationality.
 
-The last can be considered as a type of Division.
-{{< /q >}}
+This manifests as the ratio sign which connects 2 identities. 
 
+Unlike the equals sign which is rigid, the ratio sign is flexible. 
 
+This makes it inexact.
 
-## Francis Bacon Tables for Operations
+This has the nature of waves which are always moving and are spread everywhere. 
+- It has an opposite nature of particles which are isolated and static
 
-Since flow is the highest action of the aether, and memory the lowest, we organize the instances into a table which the mind can flow along. 
+A common implementation of ratios is in physical constants such as the speed of light or in pi which are infinite numbers. 
 
+This infiniteness is an effect of:
+- the perpetual dynamism of waves
+- the subjectivity of existence
 
-1. Addition
-
-`+` | 1 | 2
---- | --- | ---
-1 | 2 | 3
-2 | 3 | 4
-
-
-2. Reduction
-
-`-` | 1 | 2
---- | --- | ---
-1 | 0 | 1
-2 | -1 | 0
-
-
-3. Expansion
-
-`*` | 1 | 2
---- | --- | ---
-1 | 1 | 2
-2 | 2 | 4
-
-
-3b. Self-Expansion (Exponents) in base 6
-
-`*` | 2 | 4 | 12
---- | --- | --- | ---
-2 | 4 | 12 | 24
-
-
-
-4. Contraction (in base 6)
-
-`/` | 1 | 2
---- | --- | ---
-1 | 1 | 2
-2 | 0.3 | 4
-
-
-
-
-
-<!-- 
-1
-2
-3
-4
-10
-11
- -->

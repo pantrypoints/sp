@@ -1,11 +1,12 @@
 ---
 heading: "Section 2"
-title: "The Actions of the Aether"
+title: "The Three Operations of the Mind and Four Actions of Flow"
 date: 2025-03-08
 image: "/graphics/meta/ideas.jpg"
 description: "Material Superphysics explained the 3 actions of the aether that is the effect of the 3 Influences"
 weight: 14
 ---
+
 
 
 Material Superphysics explained the 3 actions of the aether that is the effect of the 3 Influences.
