@@ -15,6 +15,7 @@ Seven years alter the Evil Wind had desolated Sumer, life began to stir
 again in the land. But instead of an empire ruling others, Sumer itself
 was now an occupied land, with a semblance of order maintained by
 Elamite troops in the south and Gutian soldiers in the north.
+
 Isin, a city never a capital before, was selected as a temporary
 administrative center, and a former governor of Mari was brought
 over to rule the land. Documents from that time recorded a complaint that one "who is not of Sumerian seed" was given the reins
@@ -38,15 +39,16 @@ aloof and alienated. Seeking other support. Ishhi-Erra appointed
 priests and priestesses to restore the worship of Nannar. Ningal. and
 Inanna. But it seems that the hearts of the people belonged elsewhere:
 as numerous Shurpu ("Purification") texts suggest, it was Enki and
-Marduk—using Enki's immense scientific knowledge ("magical
-powers" in the eyes of the people)—who cured the afflicted, purified
+Marduk—using Enki's immense scientific knowledge ("magical powers" in the eyes of the people)—who cured the afflicted, purified
 the waters, and made the soil grow edible vegetation again.
+
 For the next half-century, embracing the reign of two successors
 of lshbi-Erra at Isin, normalcy gradually returned to the land; agriculture and industry revived, internal and external trade resumed
 
 But it was only after the passage of seventy years sinee its
-defilement—the same interval that later on applied to the desecrated temple in Jerusalem—that the temple of Nippur could be rebuilt by the third successor on the throne of Isin, Ishme-Dagan. In
-a long poem of twelve stanzas dedicated to Nippur, he described
+defilement—the same interval that later on applied to the desecrated temple in Jerusalem—that the temple of Nippur could be rebuilt by the third successor on the throne of Isin, Ishme-Dagan. 
+
+In a long poem of twelve stanzas dedicated to Nippur, he described
 how its divine couple responded to his appeals to restore the city
 and its great temple, so that "Nippur's brickwork be restored" and
 "the divine tablets be returned to Nippur."
@@ -63,8 +65,10 @@ name—was one of his followers. But this claim of Ninurta to the
 restored land could not be upheld: after all. he had caused, even if
 indirectly. Sumer's destruction. As the next successor's name suggests. Sin then sought to reassert his authority: but the days of his
 and Ur's supremacy were over.
+
 And so. by the authority vested in them. Anu and Enlil finally
 accepted Marduk's claim to supremacy at Babylon. Commemorating the fateful decision in the preamble to his law code, the Babylonian king Hammurabi put it in these words:
+
 Lofty Anu, lord of the
 gods who from Heaven came to Earth,
 and Enlil. lord of Heaven and Earth

@@ -11,9 +11,8 @@ weight: 62
 
 
 
-And it came to pass
-in the days of Amraphel king of Shin'ar.
-Ariokh king of Ellasar,
+
+In the days of Amraphel king of Shin'ar, Ariokh king of Ellasar,
 Khedorla'omer king of Elam,
 and Tidhal king of Go'im—
 That these made war
@@ -23,14 +22,18 @@ Shinab king of Adman,
 and Shem-eber king of Zebi'im,
 and with the king of Bela, which is Zoar.
 
-Thus begins the biblical tale, in chapter 14 of Genesis, of an ancient war that pitted an alliance of four kingdoms of the East
-against five kings in Canaan. It is a tale that has evoked some of the
+Chapter 14 of Genesis tells of an ancient war that pitted an alliance of four kingdoms of the East
+against five kings in Canaan. 
+
+It is a tale that has evoked some of the
 most intense debate among scholars, for it connects the story of
 Abraham, the first Hebrew Patriarch, with a specific non-Hebrew
 event, and thus affords objective substantiation of the biblical record of the birth of a nation.
 How wonderful it would have been, many have felt, if the various kings could be identified and the exact time of Abraham established! But even if Elam was known and Shin'ar identified as
 Sumer, who were the kings named, and which were the other lands
-of the East? Questioning the authenticity of biblical history unless
+of the East? 
+
+Questioning the authenticity of biblical history unless
 independently verified, critics of the Bible asked: Why don't we
 find the names Khedorla'omer, Amraphel, Ariokh. and Tidhal
 mentioned in Mesopotamian inscriptions? And if they did not
@@ -59,20 +62,22 @@ spoke of "Kudur-Laghamar, king of the land of Elam"—uncannily similar to the b
 scholars agreed that it was a perfect Elamite royal name, the prefix
 Kudur ("Servant") having been a component in the names of several Elamite kings, and Laghamar being the Elamite epithet-name
 for a certain deity. It was agreed that the second name, spelled Erie-a-ku in the Babylonian cuneiform script, stood for the original
-Sumerian ERI.AKU, meaning "Servant of the god Aku," Aku
-being a variant of the name of Nannar/Sin. It is known from a number of inscriptions that Elamite rulers of Larsa bore the name "Servant of Sin," and there was therefore little difficulty in agreeing
+Sumerian ERI.AKU, meaning "Servant of the god Aku," Aku being a variant of the name of Nannar/Sin. It is known from a number of inscriptions that Elamite rulers of Larsa bore the name "Servant of Sin," and there was therefore little difficulty in agreeing
 that the biblical Ellasar, the royal city of the king Ariokh, was in
-fact Larsa. There was also unanimous agreement among the scholars for accepting that the Babylonian text's Tud-ghula was the
+fact Larsa. 
+
+There was also unanimous agreement among the scholars for accepting that the Babylonian text's Tud-ghula was the
 equivalent of the biblical "Tidhal, king of Go'im"; and they
 agreed that by Go'im the Book of Genesis referred to the "nationhordes" whom the cuneiform tablets listed as allies of
 Khedorla'omer.
+
 Here, then, was the missing proof—not only of the veracity of
 the Bible and of the existence of Abraham, but also of an international event in which he had been involved!
 But the excitement was not to last. "Unfortunately"—to use an
 expression of A. H. Sayce in an address to the Society of Biblical
 Archaeology eleven years later—a contemporary discovery, which
 should have upheld the one announced by Pinches, ended up sidetracking and even discrediting it. 
-Abraham: The Fateful Years 283
+
 The second discovery was announced by Vincent Scheil. who
 reported that he had found among the tablets in the Imperial Ottoman Museum in Constantinople a letter from the well-known
 Babylonian king Hammurabi, which mentions the very same
@@ -87,6 +92,7 @@ plausible, because it was then believed that Hammurabi reigned
 from 2067 to 2025 B.C., placing Abraham, the war of the kings,
 and the ensuing destruction of Sodom and Gomorrah at the end of
 the third millennium B.C.
+
 However, when subsequent research convinced most scholars
 that Hammurabi reigned much later (from 1792 to 1750 B.C., according to The Cambridge Ancient History), the synchronization
 seemingly achieved by Scheil fell apart, and the whole bearing of
@@ -99,6 +105,7 @@ recognition as such." In 1917, Alfred Jeremias (Die sogenanten
 Kedorlaomer-Texte) attempted to revive interest in the subject; but
 the scholarly community preferred to treat the Spartoli tablets with
 benign neglect.
+
 They remained ignored in the basement of the British Museum
 for half a century, when M. C. Astour returned to the subject in a
 study at Brandeis University (Political and Cosmic Symbolism in
@@ -120,6 +127,8 @@ affirming the biblical background of a major war and naming three of
 the biblical kings, be ignored? Should the evidence—crucial, as we
 shall show, to the understanding of fateful years—be discarded simply
 because Amraphel was not Hammurabi?
+
+
 The answer is that the Hammurabi letter found by Scheil should
 not have sidetracked the discovery reported by Pinches, because
 Scheil misread the letter. According to his rendition, Hammurabi
@@ -129,6 +138,7 @@ that king of Elam. It was on this point that Scheil's find was discredited, for 
 kings were allies and known historical facts: Hammurabi treated
 Larsa not as an ally but as an adversary, boasting that he "overthrew Larsa in battle," and attacked its sacred precinct "with the
 mighty weapon which the gods had given him."
+
 A close examination of the actual text of Hammurabi's letter reveals that in his eagerness to prove the Hammurabi-Amraphel
 identification. Father Scheil reversed the letter's meaning: Hammurabi was not offering as a reward to return certain goddesses to
 the sacred precinct (the Emutbal) of Larsa; rather, he was demanding their return to Babylon from Larsa:
@@ -149,12 +159,15 @@ days of Khedorla'omer"; and Hammurabi was now demanding
 their return to Babylon, from where Khedorla'omer had taken them
 captive. This can only mean that Khedorla'omer's days were long
 before Hammurabi's lime.
+
+
 Supporting our reading of the Hammurabi letter found by Father
 Scheil in the Constantinople Museum is the fact that Hammurabi
 repeated the demand for the return of the goddesses to Babylon in
 yet another stiff message to Sin-Idinna. this time sending it by the
 hand of high military officers. This second letter is in the British
 Museum (No. 23,131) and its text was published by L. W. King in
+
 The Letters and Inscriptions of Hammurabi:
 Unto Sin-Idinna thus sayeth Hammurabi:
 I am now despatching Zikir-ilishu, the Transport Officer.
@@ -165,6 +178,7 @@ made clear in the letter's further instructions:
 Thou shall cause the goddesses to journey
 in a processional boat as in a shrine,
 that they may come to Babylon.
+
 The temple-women shall accompany them.
 For food of the goddesses thou shalt load
 pure cream and cereals unto the boat;
@@ -174,7 +188,9 @@ for the sustenance of the temple-women.
 And thou shalt appoint men to tow the boat,
 and chosen soldiers to bring the goddesses
 to Babylon in safety.
+
 Delay them not: let them speedily reach Babylon.
+
 It is thus clear from these letters that Hammurabi—a foe, not an
 ally, of Larsa—was seeking restitution for events that had happened long before his time, in the days of Kudur-Laghamar, the
 Elamite regent of Larsa. The texts of the Hammurabi letters thus
@@ -211,6 +227,7 @@ Yahweh." This statement is supported (with a slight difference) by
 the priestly tradition that there had been twelve priestly generations, of forty years each, from the Exodus to the time when
 Azariah "executed the priestly office in the temple that Solomon
 built in Jerusalem" (I Chronicles 5:36).
+
 Both sources agree on the passage of 480 years, with this difference: one counts from the start of the temple's construction (960
 B.C.) and the other from its completion (in 953 B.C), when the
 priestly services could begin. This would set the Israelite Exodus
@@ -221,8 +238,9 @@ the fifteenth century B.C. But then the weight of scholarly opinion
 shifted to a thirteenth-century date because it seemed to better fit
 the archaeological dating of various Canaanite sites, in line with
 the biblical record of the conquest of Canaan by the Israelites.
-Yet such a new dating was not unanimously agreed upon. The
-most notorious city conquered was Jericho; and one of its prominent excavators (K. M. Kenyon) concluded that the pertinent destruction occurred circa 1560 B.C.—well ahead of the biblical
+Yet such a new dating was not unanimously agreed upon. 
+
+The most notorious city conquered was Jericho; and one of its prominent excavators (K. M. Kenyon) concluded that the pertinent destruction occurred circa 1560 B.C.—well ahead of the biblical
 events. On the other hand. Jericho's principal excavator, J.
 Garstang (The Story of Jericho), held that the archaeological evidence points to its conquest sometime between 1400 and 1385 B.C.
 Adding to this the forty years of Israelite wandering in the
@@ -261,10 +279,11 @@ It thus appears from these ancient sources that the Israelites'
 troubles began under a Pharaoh named Thothmes and culminated
 with their departure under a successor named Amasis. What are the
 historical facts as they have been established by now?
+
+
 After Ahmosis had expelled the Hyksos, his successors on the
 throne of Egypt—several of whom indeed bore the name Thothmes,
-as the ancient historians have stated—engaged in military campaigns in Greater Canaan, using the Way of the Sea as their invasion route. Thothmes I (1525-1512 B.C.). a professional soldier,
-put Egypt on a war footing and launched military expeditions into
+as the ancient historians have stated—engaged in military campaigns in Greater Canaan, using the Way of the Sea as their invasion route. Thothmes I (1525-1512 B.C.). a professional soldier, put Egypt on a war footing and launched military expeditions into
 Asia as far as the Euphrates River. It is our belief that it was he who
 feared Israelite disloyalty—"when a war shall be called, they shall
 join our enemies"—and ordered therefore the killing of all newborn Israelite male babies (Exodus 1:9-16). By our calculations,
@@ -306,9 +325,10 @@ our conclusion that the Exodus had taken place in 1433 B.C., exactly when Moses 
 Continuing our calculation backward, we now seek to establish
 the date when the Israelites arrived in Egypt. Hebrew traditions assert a stay of 400 years, in accord with the Lord's statement to
 Abraham (Genesis 15:13-14); so also states the New Testament
-(Acts 7:6). The Book of Exodus, however, says that "the sojourning of the Children of Israel who dwelt in Egypt was four hundred
-and thirty years" (Exodus 12:40-41). The qualifying of "sojourn" by the words "who dwelt in Egypt" might have been intended to distinguish between the Josephites (who had dwelt in
-Egypt) and the newly arrived families of Joseph's brothers, who
+(Acts 7:6). 
+
+The Book of Exodus, however, says that "the sojourning of the Children of Israel who dwelt in Egypt was four hundred
+and thirty years" (Exodus 12:40-41). The qualifying of "sojourn" by the words "who dwelt in Egypt" might have been intended to distinguish between the Josephites (who had dwelt in Egypt) and the newly arrived families of Joseph's brothers, who
 just came "to sojourn." If so, then the difference of thirty years
 can be accounted for by the fact that Joseph was thirty years old
 when made Chief of Egypt. This would leave intact the 400 figure
@@ -320,19 +340,19 @@ in Jacob, his father, and stood him before the Pharaoh. . . . And
 the Pharaoh said unto Jacob: 'How old art thou?' and Jacob said
 unto Pharaoh: 'The days of my years are one hundred and
 thirty." " Jacob, then, was born in 1963 B.C.
+
 Now, Isaac was sixty years old when Jacob was born unto him
 (Genesis 6:26); and Isaac was bom unto his father Abraham when
 Abraham was 100 years old (Genesis 21:5). Accordingly. Abraham (who lived to be 175) was 160 years old when his grandson
 Jacob was born. This places the birth of Abraham in 2123 B.C.
+
 The century of Abraham—the hundred years from his birth to the
 birth of his son and successor Isaac—was thus the century that witnessed the rise and fall of the Third Dynasty of Ur. Our reading of
 biblical chronology and tales puts Abraham right in the middle of
 the momentous events of that time—not as a mere observer but as  an active participant. Contrary to the assertions of advocates of
 biblical criticism that with the tale of Abraham the Bible loses interest in the general history of mankind and the Near East, to focus
 on the "tribal history" of one particular nation, the Bible in fact
-continues to relate (as it did with the tales of the Deluge and the
-Tower of Babel) events of major concern to mankind and its civilization: a war of unprecedented aspects and a disaster of a unique
-nature; events in which the Hebrew Patriarch played an important
+continues to relate (as it did with the tales of the Deluge and the Tower of Babel) events of major concern to mankind and its civilization: a war of unprecedented aspects and a disaster of a unique nature; events in which the Hebrew Patriarch played an important
 role. It is the tale of how the legacy of Sumer was salvaged when
 Sumer itself was doomed.
 
@@ -346,6 +366,7 @@ son of Harran, and Sarai his daughter-in-law the wife of Abram his
 son: and they left and went forth from Ur of the Chaldees to go to
 the land of Canaan: and they went as far as Harran, and dwelt
 there."
+
 Archaeologists have found Harran ("The Caravanry"). Situated to the northwest of Mesopotamia at the foothills of the Taurus
 Mountains, it was a major crossroads in antiquity. As Mari controlled the southern gateway from Mesopotamia to the lands of the
 Mediterranean coast, so did Harran control the gateway of the
@@ -353,6 +374,7 @@ northern route to the lands of Western Asia. Marking, at the time
 of the Third Dynasty of Ur, the limits of Nannar's domains where
 they bordered on Adad's Asia Minor. Harran was found by the archaeologists to have been a mirror image of Ur in its layout and in
 its worship of Nannar/Sin.
+
 No explanation is given in the Bible for leaving Ur, and there is
 also no time stated, but we can guess the answers if we relate the
 departure to events in Mesopotamia in general and in Ur in particular.
@@ -409,8 +431,7 @@ bands of pillaging western Semites. At the end of the fifteenth century B.C., th
 asked his king for reinforcements against approaching Hapiru.
 Scholars have taken all that as evidence for the notion that Abraham was a western Semite.
 Many scholars doubt, however, whether the term denotes an
-ethnic group at all, wondering whether the word was not a descriptive noun simply meaning "marauders" or "invaders." The suggestion that Ibri (clearly from the verb "to cross") and Hapiru are
-one and the same entails substantial philological and etymological
+ethnic group at all, wondering whether the word was not a descriptive noun simply meaning "marauders" or "invaders." The suggestion that Ibri (clearly from the verb "to cross") and Hapiru are one and the same entails substantial philological and etymological
 problems. There are also great chronological inconsistencies, all of
 which gave rise to serious objections to this suggested solution for
 the identity of Abraham, especially when the biblical data is compared with the "bandit" connotation of the term Hapiru. Thus the
@@ -424,6 +445,8 @@ taken to the Pharaoh's court; in Canaan, Abraham made treaties
 with the local rulers. This is not the image of a nomad pillaging
 others' settlements; it is the image of a personage of high standing
 skilled in negotiation and diplomacy.
+
+
 It was out of such considerations that Alfred Jeremias, then a
 leading Assyriologist and professor of the history of religion at the
 Leipzig University, announced in the 1930 edition of his master
@@ -528,7 +551,9 @@ Scholars have recognized that our present-day calendars derive
 from the original Nippurian calendar. All the evidence shows that
 the Nippurian calendar began circa 4000 B.C, in the age of Taurus.
 In this we find yet another confirmation of the umbilical cord connecting the Hebrews with Nippur: The Jewish calendar still continues to count the years from an enigmatic beginning in 3760 B.C. (so
-that in 1983 the Jewish year was 5743). It has been assumed that
+that in 1983 the Jewish year was 5743). 
+
+It has been assumed that
 this is a count "from the beginning of the world"; but the actual
 statement by Jewish sages was that this is the number of years that
 had passed "since counting [of years) began." We suggest that it
@@ -541,8 +566,9 @@ In this regard the name of Abraham's father. Terah, is of great
 interest. Seeking clues only in the Semitic environment, biblical
 scholars regard the name, as those of Harran and Nahor, as mere
 toponyms (names that personify places), holding that there were
-cities by such names in central and northern Mesopotamia. Assyriologists searching the Akkadian terminology (being the first Semitic language) could only find that Tirhu meant "an artifact or
-vessel for magical purposes." But if we turn to the Sumerian
+cities by such names in central and northern Mesopotamia. Assyriologists searching the Akkadian terminology (being the first Semitic language) could only find that Tirhu meant "an artifact or vessel for magical purposes." 
+
+But if we turn to the Sumerian
 language, we find that the cuneiform sign for Tirhu stemmed
 directly from that of an object called in Sumerian DUG.NAMTAR
 —literally, a "Fate Speaker"—a Pronouncer of Oracles!
@@ -555,18 +581,18 @@ him from off the overlay which is upon the Ark of the Covenant,
 from between the two Cherubim." During the Israelite Exodus, at
 Mount Sinai the Lord proclaimed that his covenant with the descendants of Abraham meant that "ye shall be unto me a kingdom
 of priests." It was a statement that reflected the status of Abraham's own descent: a royal priesthood.
-Farfetched as these conclusions may sound, they are in full accord with the Sumerian practices whereby kings appointed their 
-Abraham: The Fateful Years 297
-daughters and sons, and often themselves, to high-priestly positions, resulting in the commingling of the royal and priestly lineages. Votive inscriptions found at Nippur (as those by the
+Farfetched as these conclusions may sound, they are in full accord with the Sumerian practices whereby kings appointed their daughters and sons, and often themselves, to high-priestly positions, resulting in the commingling of the royal and priestly lineages. Votive inscriptions found at Nippur (as those by the
 archaeological expeditions of the University of Pennsylvania) confirm that the kings of Ur cherished the title "Pious Shepherd of
 Nippur" and performed there priestly functions; and the governor
 of Nippur (PA.TE.SI NI.IB.RU) was also the Foremost UR.ENLIL
 ("Enlil's Foremost Servant").
+
 Some of the names borne by these royal-priestly VIPs resembled
 Abraham's Sumerian name (AB.RAM), also beginning with the
 component AB ("Father" or "Progenitor"); such, for example,
 was the name AB.BA.MU of a governor of Nippur during Shulgi's
 reign.
+
 That a family of people so closely associated with Nippur that
 they were called "Nippurians" (i.e., "Hebrews") were nevertheless holding high positions in Ur is a suggestion that is in complete
 accord with the actual circumstances prevailing in Sumer at the
@@ -626,7 +652,9 @@ In its midst [I asked]: "Until when?"
 24 years, in its midst. I nested.
 The appearance of Marduk in Asia Minor—implying an unexpected alliance with Adad—was thus the other side of the coin of
 Abraham's rush to Canaan. We learn from the balance of the text 
+
 Fig. 99
+
 that Marduk sent from his new place of exile emissaries and supplies (via Harran) to his followers in Babylon, and trading agents
 into Mari, thereby making inroads into both gateways—the one beholden to Nannar/Sin and the other to Inanna/Ishtar.
 As on a signal, with the death of Shulgi, the whole ancient world
@@ -634,8 +662,8 @@ came astir. The House of Nannar had been discredited, and the
 House of Marduk saw its final prevailing hour approaching. While
 Marduk himself was still excluded from Mesopotamia, his firstborn son, Nabu, was making converts to his father's cause. His
 base of operations was his own "cult center," Borsippa; but his efforts encompassed all the lands, including Greater Canaan.
-Abraham: The Fateful Years 299
-300 THE WARS OF GODS AND MEN
+
+
 It was against this background of fast developments that Abraham was ordered to go to Canaan. Though silent concerning
 Abraham's mission, the Old Testament is clear regarding his destination: Moving expeditiously to Canaan, Abraham and his wife,
 his nephew Lot, and their entourage continued swiftly southward.
@@ -647,6 +675,7 @@ vicinity of Jerusalem and its hallowed Mount, Mount Moriah
 ("Mount of Directing"), upon whose Sacred Rock the Ark of the
 Covenant was placed when Solomon built the Temple of Yahweh
 in Jerusalem.
+
 From there "Abram journeyed farther, still going toward the
 Negev." The Negev—the dry region where Canaan and the Sinai
 peninsula merge—was clearly Abraham's destination. Several divine pronouncements designated the Brook of Egypt (nowadays
@@ -692,8 +721,8 @@ then called the land of Canaan but now the land of Judaea."
 The mission of Abraham was a military one: to protect the space
 facilities of the Anunnaki—the Mission Control Center and the
 Spaceport!
-After a short stay in the Negev Abraham traversed the Sinai peninsula and came to Egypt. Evidently no ordinary nomads, Abraham and Sarah were at once taken to the royal palace. By our
-reckoning the time was circa 2047 B.C., when the Pharaohs then
+
+After a short stay in the Negev Abraham traversed the Sinai peninsula and came to Egypt. Evidently no ordinary nomads, Abraham and Sarah were at once taken to the royal palace. By our reckoning the time was circa 2047 B.C., when the Pharaohs then
 ruling in Lower (northern) Egypt—who were not followers of
 Amen ("The Hiding God" Ra/Marduk)—were facing a strong
 challenge from the princes of Thebes in the south, where Amen
@@ -709,15 +738,17 @@ for his fast riders. Again he went to Beth-El to "call the name of
 Yahweh," seeking instructions. A separation from Lot followed,
 the nephew choosing to reside with his own flocks in the Plain of
 the Jordan, "which was watered as the Garden of the Lord, before
-Yahweh destroyed Sodom and Gomorrah." Abraham went on to 
-302 THE WARS OF GODS AND MEN
-the hill country, settling on the highest peak near Hebron, from
+Yahweh destroyed Sodom and Gomorrah." 
+
+Abraham went on to the hill country, settling on the highest peak near Hebron, from
 where he could see in all directions; and the Lord said unto him:
 "Go, cross the country in the length and the breadth of it, for unto
 thee shall I give it."
+
 It was soon thereafter, "in the days of Amraphel king of
 Shin'ar," that the military expedition of the eastern alliance had
 taken place.
+
 "Twelve years they [the Canaanite kings] served Khedorla'omer; in the thirteenth year they rebelled; and in the fourteenth year
 there came Khedorla'omer and the kings that were with him"
 (Genesis 14:4-5).
@@ -770,27 +801,21 @@ Khedorla'omer had subjugated the Canaanite kings: and the year
 Nannar's oracles, had launched in 2055 B.C. the military expedition led by Elamites into Canaan.
 Our synchronization of biblical and Sumerian events and dates
 unfolds the following sequence and upholds every time factor reported in the Bible:
-2123 B.C. • Abraham born in Nippur to his father Terah.
-2113 B.C. • Ur-Nammu enthroned in Ur, given guardianship of
-Nippur.
-Terah and his family move to Ur.
-2095 B.C. • Shulgi ascends throne after death of Ur-Nammu.
-Terah and his family leave Ur for Harran.
-2055 B.C. • Shulgi receives Nannar's oracles, sends Elamite
-troops to Canaan.
-2048 B.C. • Shulgi's death ordered by Anu and Enlil.
-Abraham, seventy-five years old, ordered to leave
-Harran for Canaan.
-2047 B.C. • Amar-Sin ("Amarpal") ascends the throne of Ur.
-Abraham leaves the Negev for Egypt.
-2042 B.C. • Canaanite kings switch allegiance to "other gods."
-Abraham returns from Egypt with elite corps.
 
-2041 B.C. • Amar-Sin launches the War of the Kings.
-Who were the "other gods" that were winning the allegiance of
-Canaanite cities? They were Marduk, scheming from nearby exile,
-and his son, Nabu, who was roaming eastern Canaan, gaining supremacy and adherents. As biblical place names indicate, the whole land of Moab had come under Nabu's influence: the land
-was also known as the Land of Nabu and many sites there were
+
+Year | Event
+---- | ---
+2123 B.C. | Abraham born in Nippur to his father Terah.
+2113 B.C. | Ur-Nammu enthroned in Ur, given guardianship of Nippur. Terah and his family move to Ur.
+2095 B.C. | Shulgi ascends throne after death of Ur-Nammu. Terah and his family leave Ur for Harran.
+2055 B.C. | Shulgi receives Nannar's oracles, sends Elamite troops to Canaan
+2048 B.C. | Shulgi's death ordered by Anu and Enlil. Abraham, seventy-five years old, ordered to leave Harran for Canaan.
+2047 B.C. | Amar-Sin ("Amarpal") ascends the throne of Ur. Abraham leaves the Negev for Egypt.
+2042 B.C. | Canaanite kings switch allegiance to "other gods." Abraham returns from Egypt with elite corps.
+2041 B.C. | Amar-Sin launches the War of the Kings.
+
+Who were the "other gods" that were winning the allegiance of Canaanite cities? They were Marduk, scheming from nearby exile,
+and his son, Nabu, who was roaming eastern Canaan, gaining supremacy and adherents. As biblical place names indicate, the whole land of Moab had come under Nabu's influence: the land was also known as the Land of Nabu and many sites there were
 named in his honor; the highest peak retained its name—Mount
 Nebo—through the millennia that followed.
 
@@ -805,6 +830,7 @@ Taking the southern route from Mesopotamia to Canaan, the invaders proceeded sou
 Highway, attacking in succession key outposts guarding crossing
 points on the Jordan River: Ashterot-Karnayim in the north; Ham
 in the center; and Shaveh-Kiryatayim in the south.
+
 According to the biblical tale, a place called El-Paran was the
 real target of the invaders, but it was never reached by them. Coming down Transjordan and circling the Dead Sea, the invaders
 passed by Mount Se'ir and advanced "toward El-Paran, which is
@@ -812,6 +838,7 @@ upon the Wilderness." But they were forced to "swing back
 by Ein-Mishpat, which is Kadesh." El-Paran ("God's Gloried
 Place"?) was never reached; somehow the invaders were beaten
 back at Ein-Mishpat, also known as Kadesh or Kadesh-Barnea.
+
 It was only then, as they turned back toward Canaan, that
 "Thereupon the king of Sodom and the king of Gomorrah and the
 king of Adman and the king of Zebi'im and the king of Bela, which
@@ -822,6 +849,7 @@ The battle with these Canaanite kings was thus a late phase of
 the war and not its first purpose. Almost a century ago, in a thorough study titled Kadesh-Bamea, H. C. Trumbull had concluded
 that the true target of the invaders was El-Paran. which he correctly
 identified as the fortified oasis of Nakhl in Sinai's central plain.
+
 But neither he nor others could explain why a great alliance
 would launch an army to a destination a thousand miles away and
 fight gods and men to reach an isolated oasis in a great, desolate
@@ -830,17 +858,18 @@ plain.
 But why had they gone there, and who was it that blocked their
 way at Kadesh-Barnea, forcing the invaders to turn back?
 There have been no answers; and no answers can make sense except the ones offered by us: The only significance of the destination was its Spaceport, and the one who blocked the advance at
-Kadesh-Barnea was Abraham. From earlier times Kadesh-Bamea
+Kadesh-Barnea was Abraham. 
+
+From earlier times Kadesh-Bamea
 was the closest place where men could approach in the region of
 the Spaceport without special permission. Shulgi had gone there to
-pray and make offerings to the God Who Judges, and nearly a thousand years before him the Sumerian king Gilgamesh stopped there 
-306 THE WARS OF GODS AND MEN
-to obtain the special permission. It was the place the Sumerians
-called BAD.GAL.DINGIR and Sargon of Akkad Dur-Mah-Ilani,
+pray and make offerings to the God Who Judges, and nearly a thousand years before him the Sumerian king Gilgamesh stopped there to obtain the special permission. It was the place the Sumerians called BAD.GAL.DINGIR and Sargon of Akkad Dur-Mah-Ilani,
 clearly listing it in his inscriptions as a place in Tilmun (the Sinai
 peninsula).
+
 It was the place, we suggest, which the Bible called KadeshBarnea; and there Abraham stood with his elite troops, blocking
 the invaders' advance to the Spaceport proper.
+
 The hints in the Old Testament become a detailed tale in the
 Khedorlaomer Texts, which make clear that the war was intended
 to prevent the return of Marduk and thwart the efforts of Nabu to
@@ -876,16 +905,21 @@ Abraham: The Fateful Years 307
 a falling-out against my father [he had];
 to his faith-keeping the king ceased to attend;
 all this Nabu has caused to happen."
+
+
 The assembled gods, thus alerted to the role of Nabu in the
 spreading rebellions, put together a coalition of loyal kings and appointed the Elamite Kudur-Laghamar as its military commander.
+
 Their first order was that "Borsippa, the stronghold [of Nabuj.
 with weapons be despoiled." Carrying out the order, "KudurLaghamar, with wicked thoughts against Marduk, the shrine of
 Borsippa with fire he destroyed and its sons with a sword he slew."
+
 Then, the military expedition against the rebellious kings was ordered. The Babylonian text lists the targets to be attacked and the
 names of their attackers; we easily recognize the biblical names
 among them: Eriaku (Ariokh) was to attack Shebu (Beer-Sheba)
 and Tud-Ghula (Tidhal) was to "smite with a sword the sons of
 Gaza."
+
 Acting in accordance with an oracle of Ishtar, the army put
 together by the Kings of the East arrived in Transjordan. First
 to be attacked was a stronghold in "the high land," then
@@ -897,13 +931,16 @@ were to be punished. But at Dur-Mah-Ilani, according to the
 Babylonian text, "the son of the priest, whom the gods in their
 true counsel had anointed," stood in the invaders' way and
 "the despoiling prevented."
+
 Could the Babylonian text indeed refer to Abraham, the son of
 Terah the priest, and spell out his role in turning back the invaders?
 The possibility is strengthened by the fact that the Mesopotamian
 and biblical texts relate the same event in the same locality with the
 same outcome.
+
 But there is more to it than just a possibility, for we have come
 upon one highly intriguing clue.
+
 This is the unnoticed fact that the date formulas for the reign of
 Amar-Sin call his seventh year—the crucial year 2041 B.C., the
 year of the military expedition—also MU NE IB.RU.UM BA.HUL
@@ -919,9 +956,10 @@ It has been regarded as depicting the journey of Etana, an early
 king of Kish, to the Winged Gateway, where an "Eagle" took him
 aloft so high that the Earth disappeared from view. But the seal depicts the crowned hero on horseback—too early for Etana's time—
 and standing between the site of the Winged Gateway and two
-distinct groups. One of four armed Mighty Men whose leader is
-also on horseback moves toward a cultivated area in the Sinai peninsula (indicated by the symbol of Sin's crescent with wheat growing in it). The other is of five kings, facing in the opposite
-direction. The depiction thus has all the elements of an ancient illustration of the War of the Kings and the role of the "Priest's
+distinct groups. 
+
+One of four armed Mighty Men whose leader is
+also on horseback moves toward a cultivated area in the Sinai peninsula (indicated by the symbol of Sin's crescent with wheat growing in it). The other is of five kings, facing in the opposite direction. The depiction thus has all the elements of an ancient illustration of the War of the Kings and the role of the "Priest's
 Son" in it, rather than that of Etana's journey to the Spaceport. The
 hero, depicted in the center atop an animal, could thus be Abraham
 rather than Etana.

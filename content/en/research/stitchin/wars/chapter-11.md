@@ -26,10 +26,14 @@ Marduk did little to satisfy her ambitions. Now, having challenged
 and prevailed over a major god, she felt she could no longer be deprived of a domain of her own. But where?
 The funeral of Dumuzi, one gathers from such texts as Inanna 's
 Descent to the Lower World, was held in the Land of Mines in
-southern Africa. It was the domain of Inanna's sister Ereshkigal
-and her spouse Nergal. Enlil and Nannar, even Enki, advised
+southern Africa. 
+
+It was the domain of Inanna's sister Ereshkigal and her spouse Nergal. Enlil and Nannar, even Enki, advised
 Inanna not to go there; but she made up her mind: "From the Great
-Above she set her mind toward the Great Below"; and when she
+Above she set her mind toward the Great Below".
+
+
+When she
 arrived at the gate of her sister's capital city, she said to the
 gatekeeper: "Tell my elder sister, Ereshkigal," that she had come
 "to witness the funeral rites."
@@ -102,6 +106,7 @@ that I may lie on it?
 Concerning this Inanna spoke . . .
 She who let her hair down is ill at heart;
 The pure Inanna. Oh how she weeps!
+
 One who had taken pity on—and a liking to—Inanna was her
 great-grandfather, Anu. It is known from Sumerian texts that
 Inanna, who was born on Earth, "went up to Heaven" at least
@@ -113,10 +118,10 @@ Assured thus of sympathy at the highest level, Inanna raised the
 issue of a dominion, a "land," to rule over. But where?
 The treatment meted out to Inanna, whatever its reasons, made it
 clear that she could not expect to attain a dominion in Africa. Her
-spouse Dumuzi was dead, and with him died her claims to queenship in the lands of Enki's descendants. If her suffering and prevailing over a major god entitled her to a dominion of her own, it
-had to be elsewhere. But Mesopotamia, too, and the lands bordering on Mesopotamia were all spoken for. Where could Inanna
+spouse Dumuzi was dead, and with him died her claims to queenship in the lands of Enki's descendants. If her suffering and prevailing over a major god entitled her to a dominion of her own, it had to be elsewhere. But Mesopotamia, too, and the lands bordering on Mesopotamia were all spoken for. Where could Inanna
 be given dominion? Casting their eyes about, the gods came up
 with an answer.
+
 The texts dealing with the death of Dumuzi, as well as with the
 imprisonment of Marduk. mention the names of Sumerian cities and their populace. This suggests that those events had taken place
 after the Sumerian urban civilization had already begun circa 3800
@@ -143,6 +148,7 @@ archaeologists, led by Sir Mortimer Wheeler, began to unearth two
 principal centers and several sites in between, stretching over more
 than four hundred miles from the Indian Ocean coast northward,
 along the Indus River and its tributaries.
+
 Both sites—Mohenjo-Daro to the south and Harappa in the
 north—show that they were cities of substance, some three miles in
 circumference. High walls ran around and within the cities; these
@@ -152,6 +158,7 @@ for such purposes as ballast for the Lahore-Multan railroad,
 enough still remains standing to reveal the site of the cities and the
 fact that they were laid out in accordance with preconceived city
 building plans.
+
 At both sites the city was dominated by an acropolis—a raised
 area of citadels and temples. In both instances these structures were
 of the same measurements and similarly oriented exactly on a
@@ -162,6 +169,7 @@ esi feature was immense granaries—grain silos of a vast size and
 impressive functionality, situated near the riverbank. This suggests
 that grains were not only the chief crop, but also the chief export
 product of the Indus civilization.
+
 The cities and the few artifacts that were still found in their
 remains—furnaces, urns, pottery, bronze tools, copper beads,
 some silver vessels, and ornaments—all attest to a high civilization
@@ -180,6 +188,7 @@ the designs and symbols on pottery, seals, or other clay objects are
 virtual duplicates of those of Mesopotamia. Significantly the Mesopotamian sign of the cross—the symbol of Nibiru, the Home
 Planet of the Anunnaki—was also prevalent throughout the Indus
 civilization.
+
 Which gods did the people of the Indus Valley worship? The few
 pictorial depictions that have been found show them wearing the
 divine Mesopotamian homed headdress. More abundant clay figurines indicate that the dominant deity was a goddess, usually naked
@@ -212,6 +221,7 @@ which the city was to develop. Circa 2900 B.C. he was succeeded
 by his son Enmerkar, "who built Uruk" (according to the Sumerian King Lists), transforming it from the nominal abode of an absentee god (Anu) to a major urban center of a reigning deity. He
 achieved this by persuading Inanna to choose Erech as her principal seat of power and by aggrandizing for her the Eanna ("House
 of Anu") temple.
+
 We read in the ancient text that at first all Enmerkar demanded
 of Aratta was that it contribute "precious stones, bronze, lead,
 slabs of lapis lazuli" to the building of the enlarged temple, as well
@@ -284,11 +294,13 @@ modest shrine ("White Temple") was built atop a raised platform
 (Fig. 76); the site remained in the city's heart even as Erech grew
 and its temples were aggrandized, as the remains of the city and its
 walls indicate (Fig. 77).
+
 Archaeologists have come upon the remains of a magnificent
 temple dedicated to Inanna and dating to the early part of the third
 millennium B.C.—possibly the very temple constructed by Enmer- 
-238 THE WARS OF GODS AND MEN
+
 Fig. 77 
+
 "A Queen Am I!" 239
 kar. It was uniquely built with decorated high columns (Fig. 78)
 and must have been as lavish and impressive as the hymns that sang
@@ -351,6 +363,7 @@ boat with the invaluable MEs.
 An Exaltation of Inanna, composed to be read responsively
 by the congregation, echoes the sentiments of the people of
 Erech: 
+
 "A Queen Am I!" 241
 Lady of the MEs, Queen
 Brightly resplendent;
@@ -364,11 +377,14 @@ The seven MEs she attained.
 In her hand she is holding.
 Lady of the great MEs,
 Of them she is the guardian . . .
+
 It was in those days that Inanna was incorporated into the Pantheon of Twelve, and (replacing Ninharsag) was assigned the
 planet Venus (MUL DILBAT) as her celestial counterpart and the
 constellation AB.SIN (Virgo) as her zodiac house; the latter's depiction has hardly changed from Sumerian times (Fig. 79). Expressing her own gratification, Inanna announced for all—gods and
 men alike—to hear: "A Queen am I!"
+
 Fig. 79
+
 Hymns acknowledged her new status among the gods and her
 celestial attributes:
 To the one who comes forth from heaven,
@@ -389,6 +405,7 @@ With Enlil she determines the fates in her land . . .
 Turning from her high position among the gods to her worship
 by the Sumerians (the "Black-Headed People"), the hymns went
 on:
+
 In all the land, the black-headed people assemble
 when abundance has been placed in the storehouses of Sumer . . .
 They come to her with .... they bring disputes before her.
@@ -427,6 +444,7 @@ Proudly he approaches the lap of Inanna . . .
 He caresses her pure lap.
 She stretches out on the bed, the pure lap;
 She makes love with him on her bed.
+
 She says to Iddin-Dagan: "Surely, you are my beloved."
 This habit of Inanna may have begun with Enmerkar himself, a
 sexual union of which the next ruler of Uruk, a demigod known as
@@ -441,10 +459,12 @@ the Anunnaki, gods of the mountain, inside the earth like termites
 had tunneled." Seeking a ride in the Bird of Heaven, Lugalbanda
 pleaded with its custodian; his words immortalized man's desire to
 fly:
+
 Like Utu let me go, like Inanna,
 Like the Seven Stormers of Ishkur
 in a flame let me lift myself off,
 and thunder away!
+
 Let me go wherever my eyes can see,
 Wherever I desire, let me set my foot,
 Wherever my heart wishes, let me arrive . . .
@@ -468,6 +488,7 @@ can assume, however, from the circumstances and subsequent events,
 that the father was Enmerkar; confirming Enmerkar as the first one in
 a long list of rulers who, under the guise of a symbolic marriage or
 without it, were invited by Inanna to share her bed.
+
 This "invitation" by Inanna is featured in the well-known Epic
 of Gilgamesh. The fifth ruler of Erech, Gilgamesh sought to escape
 the mortals' destiny to die because, as a son of the goddess Ninsun
@@ -494,6 +515,7 @@ thou shalt be a husband, I shall be a wife."
 She reinforced her invitation with promises of a glorious (though
 not everlasting) life if Gilgamesh would accede to her otter. But Gil- 
 "A Queen Am I!" 245
+
 gamesh retorted with a long list of her lovers whom she befriended
 though she had "ordained for Tammuz [Dumuzi]. the lover of
 your youth, wailing year after year"; while still supposedly in
@@ -502,6 +524,7 @@ which pinches the foot of its owner . . . as a door which does not
 keep out the wind . . . Which lover didst thou love forever?"
 he asked; "if thou shouldst make love to me, thou wouldst treat me
 like them." (The offended Inanna thereupon received Anu's permission to launch against Gilgamesh the Bull of Heaven; Gilgamesh was saved from it at the last moment at the gates of Erech).
+
 The golden era of Erech was not to last forever. Seven other
 kings followed Gilgamesh on its throne. Then, "Uruk was smitten
 with weapons: its kingship to Ur was carried." Thorkild Jacobsen,
@@ -538,11 +561,12 @@ The historical background to the events that followed was the
 final attempt by the gods to reestablish Kish, the original capital, as
 the center of kingship. For the fourth time they returned kingship to
 Kish. starting the dynasty with rulers whose names indicate fealty
-to Sin, Ishtar. and Shamash. Two rulers, however, bore names indicating that they were followers of Ninurta and his spouseevidence of a revived rivalry between the House of Sin and the
-House of Ninurta. It resulted in the seating on the throne of a
+to Sin, Ishtar. and Shamash. Two rulers, however, bore names indicating that they were followers of Ninurta and his spouseevidence of a revived rivalry between the House of Sin and the House of Ninurta. It resulted in the seating on the throne of a
 nonentity—"Nannia. a stone cutter"; he reigned a brief seven years.
 In such unsettled circumstances Inanna was able to retrieve the
-kingship for Erech. The man chosen for the task, one Lugal-zagesi,
+kingship for Erech. 
+
+The man chosen for the task, one Lugal-zagesi,
 retained the favor of the gods for twenty-live years; but then, attacking
 Kish to assure her permanent desolation, he only managed to raise Enlil's ire; and the idea of a strong hand at the helm of human kingship
 made more and more sense. There was a need for someone uninvolved in all these disputes, someone who would provide firm leadership and once again properly perform the role of the king as sole
@@ -555,8 +579,8 @@ quickly extended his rule to all of Sumer. to its neighboring countries, and eve
 empire-builder was Sharru-Kin ("Righteous Ruler"); modern
 textbooks call him Sargon I or Sargon the Great (Fig. 80). He built
 himself a brand-new capital not far from Babylon and named it
-Agade ("United"); we know it as Akkad—a name from which
-stems the term Akkadian for the first Semitic language.
+Agade ("United"); we know it as Akkad—a name from which stems the term Akkadian for the first Semitic language.
+
 A text known as The Legend of Sargon records, in Sargon's own
 words, his odd personal history:
 Sargon. the mighty king of Agade. am I.
@@ -564,7 +588,9 @@ My mother was a high priestess; I knew not my father . . .
 My mother, the high priestess, who conceived me.
 in secret she bore me.
 She set me in a basket of rushes, with bitumen sealed the lid. 
+
 Fig. 80
+
 She cast me into the river; it did not sink me.
 The river bore me up. it carried me to Akki the irrigator.
 Akki the irrigator lifted me up when he drew water;
@@ -602,6 +628,7 @@ take the throne and create for her an empire: "He defeated Uruk
 and tore down its wall. ... He was victorious in the battle with
 the inhabitants of Ur . . . he defeated the entire territory from Lagash as far as the sea. ..." There were also the conquests beyond the olden boundaries of Sumer: "Mari and Elam are standing
 in obedience before Sargon."
+
 The grandeur of Sargon and the greatness of Inanna. going hand
 in hand, were expressed in the construction of the new capital city
 of Agade and in it the UL.MASH ("Glittering, Luxurious") temple to Inanna. "In those days," a Sumerian historiography text
@@ -609,11 +636,11 @@ relates, "the dwellings of Agade were filled with gold; its brightshining houses
 brought copper, lead and slabs of lapis-lazuli; its granaries bulged
 at the sides. Its old men were endowed with wisdom, its old
 women were endowed with eloquence; its young men were endowed with the Strength-of-Weapons, its little children were endowed with joyous hearts. . . . The city was full of music."
+
 In that beautiful and happy city, "in Agade did holy Inanna erect
 a temple as her noble abode; in the Ulmash she set up a throne." It
-was the crowning temple in a series of shrines to her that encompassed Sumer's principal cities. Stating that "in Erech, the E-Anna 
-"A Queen Am I!" 249
-is mine," Inanna listed her shrines in Nippur, Ur, Girsu, Adab,
+was the crowning temple in a series of shrines to her that encompassed Sumer's principal cities. Stating that "in Erech, the E-Anna is mine," Inanna listed her shrines in Nippur, Ur, Girsu, Adab,
+
 Kish, Der, Akshak, and Umma, and lastly the Ulmash in Agade.
 "Is there a god who can vie with me?" she asked.
 Yet, though promoted by Inanna, the elevation of Sargon to
@@ -656,8 +683,9 @@ He took away soil from the foundation of Babylon
 and built upon the soil another Babylon beside Agade.
 To understand the severity of this deed, we ought to recall the
 meaning of "Babylon"—Bab-Ili. "Gateway of the Gods." A title
-and a function claimed for Babylon by a defiant Marduk. it was
-symbolized by its hallowed soil. Now, encouraged by Inanna and
+and a function claimed for Babylon by a defiant Marduk. 
+
+It was symbolized by its hallowed soil. Now, encouraged by Inanna and
 driven by her ambitions, Sargon took away the sacred soil to spread
 it as a foundation for the new Bab-Ili. audaciously aiming to transfer the title and function to Agade.
 This was. as it turned out, an opportunity for Marduk—unheard

@@ -183,7 +183,7 @@ Would you now show your great might and strength.
 and face the Titans in the bitter strife?
 And Cottus, one of the Hundred-Armed, answered him and
 said: "Divine one, you speak that which we know well . . . 
-54 THE WARS OF GODS AND MEN
+
 through your devising we are come back from the murky gloom
 and from our merciless bonds. And so now, with fixed purpose and
 deliberate counsel, we will aid your power in the dreadful strife,
@@ -263,6 +263,7 @@ golden Aphrodite." Typhoeus ("Typhon") was a real monster:
 "Strength was with his hands in all that he did, and the feet of the
 strong god were untiring. From his shoulders grew an hundred
 heads of a snake, a fearful dragon, with dark, flickering tongues.
+
 From under the brows of his eyes, in his marvellous heads, fire
 flashed; and fire burned from his heads as he glared. And there
 were voices in all his dreadful heads, which uttered incredible
@@ -282,7 +283,9 @@ fighting between the gods and the Titans, for the Snake-God Typhon was equipped 
 (Fig. 14). "Zeus thundered hard and mightily, and the earth
 around resounded terribly, as did the wide heaven above and the
 sea and the watery streams, even the nether parts of the Earth." Divine Weapons were again employed—by both combatants:
+
 Fig, 14
+
 Through the two of them,
 through the thunder and lightning.
 heat engulfed the dark-blue seas;
@@ -298,7 +301,7 @@ first to achieve a direct hit with his "lurid Thunderbolt." The
 bolt "burned all the marvelous heads of the monster, all that
 were around him"; and Typhoeus crashed down to earth in his
 marvelous contraption: 
-58 THE WARS OF GODS AND MEN
+
 When Zeus had vanquished h i m
 and lashed him with his strokes,
 Typhoeus was hurled down a maimed wreck.
@@ -342,10 +345,13 @@ for the African Ram God of Egypt, and Hermes paralleled the god
 Thoth. Hesiod himself reported that when Zeus came unto the mortal beauty Alcmena so that she might bear him the heroic
 Heracles, he slipped at night from Mount Olympus and went to the
 land of Typhaonion, resting there atop the Phikion (The Sphinx
-Mountain). "The deadly Sphinx that destroyed the Cadmeans"
+Mountain). 
+
+"The deadly Sphinx that destroyed the Cadmeans"
 ("The Ancients"), which featured in the doings of Hera, the official spouse of Zeus, was also connected in these legends with Typhon and his domain. And Apollodorus reported that when
 Typhon was born and grew to an incredible size, the gods rushed to
 Egypt to take a look at the awesome monster.
+
 Most scholars have held that Mount Casius, the site of the final
 battle between Zeus and Typhon, was located near the mouth of
 the Orontes river in today's Syria. But as Otto Eissfeldt has shown
@@ -359,6 +365,7 @@ Egypt via Philistia (History, Book III, 5), he wrote that the Asian
 lands ' 'extend to Lake Serbonis, near the place where Mount Casius
 juts out into the sea. Egypt begins at Lake Serbonis, where the tale
 goes that Typhon hid himself."
+
 Once again, Greek and Egyptian tales converged, with the Sinai
 peninsula as the climax.
 
@@ -373,9 +380,8 @@ a field dominated by the British, the study of Sanskrit literature,
 philosophy, and mythology was by the mid-nineteenth century a
 favorite of German scholars, poets, and intellectuals, for Sanskrit
 turned out to be a mother tongue of the Indo-European languages
-(to which German belonged), and its bearers to India were mi- 
-60 THE WARS OF GODS AND MEN
-grants from the shores of the Caspian Sea—"Aryans," as the Germans believed their ancestors, too, to have been.
+(to which German belonged), and its bearers to India were migrants from the shores of the Caspian Sea—"Aryans," as the Germans believed their ancestors, too, to have been.
+
 Central to this literature were the Vedas, sacred scriptures believed by Hindu tradition to be "not of human origin," having
 been composed by the gods themselves in a previous age. They
 were brought to the Indian subcontinent by the Aryan migrants
@@ -386,6 +392,7 @@ dividing them into four parts: the Rig-Veda (the "Veda of
 Verses"), which is made up of ten books; the Sama-Veda (the
 "Chanted Vedas"); the Yajur-Veda (mostly sacrificial prayers); and
 the Atharva-Veda (spells and incantations).
+
 In time, the various components of the Vedas and the auxiliary
 literature that stemmed from them (the Mantras, Brahmanas,
 Aranyakas, Upanishads) were augmented by the non-Vedic Puranas ("Ancient Writings"). Together with the great epic tales of the
@@ -450,8 +457,7 @@ For their music famed, Gandharvas;
 Bright celestial cars in concourse
 sailed upon the cloudless sky.
 The texts also speak of the Ashvins ("Drivers"), gods who specialized in piloting aerial chariots. "Swift as young falcons," they
-were "the best of charioteers who reach the heavens," always piloting their craft in pairs, accompanied by a navigator. Their vehicles, which sometimes appeared in groups, were golden-made,
-"bright and radiant . . . with easy seat and lightly rolling." They
+were "the best of charioteers who reach the heavens," always piloting their craft in pairs, accompanied by a navigator. Their vehicles, which sometimes appeared in groups, were golden-made, "bright and radiant . . . with easy seat and lightly rolling." They
 were constructed on a triple principle, having three levels, three
 seats, three supporting poles, and three rotating wheels. "That
 chariot of yours," Hymn 22 of Book VIII of the Rig-Veda said in
@@ -462,9 +468,7 @@ to give it direction, the third to speed it along: "One of your chariot's wheels
 As in the Greek tales, so did the gods of the Vedas display little
 morality or restraint in sexual matters—sometimes getting away
 with it, sometimes not, as when the indignant Adityas selected
-Rudra ("The Three-Eyed") to kill their grandfather Dyaus for 
-The Missiles of Zeus and Indra 63
-having violated their sister Ushas. (Dyaus, wounded, saved his life
+Rudra ("The Three-Eyed") to kill their grandfather Dyaus for having violated their sister Ushas. (Dyaus, wounded, saved his life
 by fleeing to a distant celestial body.) Also as in the Greek tales, so
 did the gods according to Hindu lore mingle, in later times, in the
 loves and wars of mortal kings and heroes. In these instances the
@@ -492,8 +496,9 @@ gods and demons, on account of Tara." In spite of their awesome
 weapons, the gods were bested and had to seek refuge with "the
 Prime Deity." Thereupon the grandfather of the gods himself
 came to Earth, and put an end to the fighting by returning Tara to
-her husband. Then Tara gave birth to a son "whose beauty overclouded the celestials .... Filled with suspicion, the gods demanded to know who the true father was: the lawful husband or the
-abductor-god." She proclaimed that the boy was the son of Soma,
+her husband. 
+
+Then Tara gave birth to a son "whose beauty overclouded the celestials .... Filled with suspicion, the gods demanded to know who the true father was: the lawful husband or the abductor-god." She proclaimed that the boy was the son of Soma,
 "Celestial Immortality"; and she named him Budah.
 But all that was in times yet to come; in the olden days the gods
 battled among themselves for more important causes: supremacy
@@ -526,6 +531,7 @@ Earth's resources:
 When they heard this, the gods said: "The Asuras are actually
 dividing this Earth! Come, let us go where the Asuras are dividing it; for what would become of us if we were to get no share of
 Earth?"
+
 Placing Vishnu at their head, they went to the Asuras.
 Haughtily the Asuras offered to give the Adityas only as much of
 Earth as Vishnu could lie upon. . . . But the gods used a subterfuge and placed Vishnu in an "enclosure" that could "walk in
@@ -540,6 +546,7 @@ Brahmana records, "the gods were anxious as to how they might
 replenish the sacrifices"; accordingly, many of the battle segments
 of the ancient Hindu writings deal with the recapture of the kine
 and the resupply of the Soma beverage.
+
 These wars were fought on land, in the air, and beneath the seas.
 The Asuras, according to the Mahabharata, made for themselves
 three metal fortresses in the skies, from which they attacked the
@@ -568,6 +575,7 @@ Thou slewest thy fighting foe with thy Thunder . . .
 Fierce on his enemies fell Indra's weapon.
 with his sharp rushing Thunderbolt
 he rent their towns to pieces.
+
 Thou goest forth from fight to fight intrepidly,
 destroying castle after castle with thy strength.
 Thou Indra, with thy friend who makes the foe bow down,
@@ -594,8 +602,9 @@ the foot?"
 
 For this crime Indra was excluded by the gods from the drinking
 of the Soma, thereby endangering his continued immortality. They
-"ascended up to Heaven," leaving Indra with the kine he had retrieved. But "he went up after them, with the raised Thunderweapon," ascending from the northern place of the gods. Fearing
-his weapon, the gods shouted: "Do not hurl!" and agreed to let Indra share once again in the divine nourishments.
+"ascended up to Heaven," leaving Indra with the kine he had retrieved. But "he went up after them, with the raised Thunderweapon," ascending from the northern place of the gods.
+
+Fearing his weapon, the gods shouted: "Do not hurl!" and agreed to let Indra share once again in the divine nourishments.
 Indra's seizing of the leadership of the gods, however, did not
 go unchallenged. The challenge came from Tvashtri, to whom
 oblique references are made in the Hymns as "the Firstborn"—a fact
@@ -653,6 +662,7 @@ His blunted weapons glanced aside,
 at Indra launched in vain.
 When Vritra spent all his fiery missiles, Indra was able to take
 over the offensive;
+
 The lightnings then began to flash.
 The direful thunderbolts to crash,
 by Indra proudly hurled. 
@@ -679,6 +689,8 @@ of Indra's iron shower:
 Pierced, cloven, crushed, with horrid yell
 The dying demon headlong fell
 down from his cloud-built tower.
+
+
 Fallen to the ground "as trunks of trees that axe had felled."
 Vritra lay prostrate; but though "footless and handless, still he
 challenged Indra." Then Indra gave him the coup-de-grace, and
@@ -688,6 +700,7 @@ fruits of victory were not his alone. As he was claiming the throne
 of Kasyapa, his father, old doubts surfaced concerning his true parenthood. It was a fact that upon his birth his mother had hid him
 from Kasyapa's wrath. Why? Was there truth to the rumors that his
 true father was his own elder brother, Tvashtri?
+
 The Vedas lift the veil of mystery only partly. They tell, however, that Indra, great god that he was, did not rule alone: he had to
 share powers with Agni and Surya his brothers—just as Zeus had to
 share dominions with his brothers Hades and Poseidon. 

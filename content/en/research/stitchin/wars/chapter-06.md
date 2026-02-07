@@ -11,10 +11,10 @@ date: 2026-02-04
 
 
 
-Ever since George Smith found and reported in 1876 (The Chaldean Account of Genesis) detailed Mesopotamian tales of Creation, followed by L. W. King's The Seven Tablets of Creation,
-scholars and theologians alike have come to recognize that the Creation Tales of the Old Testamant (Genesis Chapters 1 through 3)
-are condensed and edited versions of original Sumerian texts. A
-century later, in our work, The 12th Planet (1976), we have shown
+Ever since George Smith found and reported in 1876 (The Chaldean Account of Genesis) detailed Mesopotamian tales of Creation, followed by L. W. King's The Seven Tablets of Creation, scholars and theologians alike have come to recognize that the Creation Tales of the Old Testamant (Genesis Chapters 1 through 3)
+are condensed and edited versions of original Sumerian texts. 
+
+A century later, in our work, The 12th Planet (1976), we have shown
 that these texts were no primitive myths, but depositories of advanced scientific knowledge with which modern scholars are only
 now beginning to catch up.
 
@@ -23,20 +23,20 @@ many "incredible" facets of the Sumerian knowledge regarding
 our Solar System, such as that the outer planets have numerous satellites and that water is present on some of them. Those distant
 planets, and some of their principal satellites, were found to have
 active cores that generate internal heat; some radiate out more heat
-than they can ever receive from the distant Sun. Volcanic activity
-provided those celestial bodies with their own atmospheres. All the
+than they can ever receive from the distant Sun. 
+
+Volcanic activity provided those celestial bodies with their own atmospheres. All the
 basic requirements for the development of life exist out there, just
 as the Sumerians had said 6,000 years ago.
+
 What, then, of the existence of a twelfth member of our Solar
 System—a tenth planet beyond Pluto, the Sumerian Nibiru (and
 Babylonian Marduk)—a planet whose existence was a basic and
 far-reaching conclusion in The 12th Planet?
 
-In 1978, astronomers at the U.S. Naval Observatory in Washington determined that Pluto—being smaller than formerly believed—could not by itself account for perturbations in the orbits of
-Uranus and Neptune; they postulated the existence of yet another
-celestial body beyond Pluto. In 1982 the U.S. National Aeronautics and Space Administration (NASA) announced its conclusion
-that there indeed exists such a body; whether or not it is another
-large planet, it planned to determine by deploying in a certain manner its two Pioneer spacecraft that had been hurtling into space beyond Saturn.
+In 1978, astronomers at the U.S. Naval Observatory in Washington determined that Pluto—being smaller than formerly believed—could not by itself account for perturbations in the orbits of Uranus and Neptune; they postulated the existence of yet another celestial body beyond Pluto. 
+
+In 1982, the U.S. National Aeronautics and Space Administration (NASA) announced its conclusion that there indeed exists such a body; whether or not it is another large planet, it planned to determine by deploying in a certain manner its two Pioneer spacecraft that had been hurtling into space beyond Saturn.
 
 And at the close of 1983, astronomers at the Jet Propulsion Laboratory in California announced that IRAS—the infrared telescope
 mounted on a spacecraft and launched under NASA's auspices
@@ -84,7 +84,9 @@ Portions of the "Tale of Adapa" have been found; the complete
 text might well have been the "Book of the Generations of Adam"
 to which the Old Testament refers. Assyrian kings probably had
 access to such a record, for many of them claimed to have retained
-one or another of Adapa's virtues. Sargon and Sennacherib held
+one or another of Adapa's virtues. 
+
+Sargon and Sennacherib held
 that they had inherited the wisdom that Enki had granted Adapa;
 Sinsharishkun and Esarhaddon boasted that they were bom "in the
 image of the wise Adapa"; according to an inscription of
@@ -92,6 +94,8 @@ Esarhaddon. he had erected in the temple of Ashura statue with the
 image of Adapa; and Ashurbanipal asserted that he had learned
 "the secret of tablet-writing from before the Deluge" as Adapa
 had known.
+
+
 The Sumerian sources hold that there had been both rural
 cultures—cultivation and shepherding—as well as urban settlements before the Deluge had swept all off the face of the Earth.
 The Book of Genesis relates that the first son of Adam and Eve,
@@ -103,7 +107,8 @@ fourth generation after Enoch, when Lamech was born:
 And Lamech took unto himself two wives:
 The name of one was Adah,
 and the name of the other Zillah.
-And Adah bore Jabal; he was the father of
+
+Adah bore Jabal; he was the father of
 such as dwell in tents and have cattle.
 And his brother's name was Jubal; he was the
 father of all such as play lyre and pipe.
@@ -159,6 +164,8 @@ for example, that an archaic Assyrian King List states that in the
 earliest times, when their forefathers were tent-dwellers—a term
 duplicated in the Bible regarding the line of Cain—the patriarch of
 their people was named Adamu, the biblical Adam.
+
+
 We also find among traditional Assyrian eponyms of royal
 names the combination Ashur-bel-Ka'ini ("Ashur, lord of the Ka'-
 inites"); and the Assyrian scribes paralleled this with the Sumerian
@@ -166,6 +173,7 @@ ASHUR-EN.DUNI ("Ashur is lord of Duni"), implying that the
 Ka'ini ("The people of Kain") and the Duni ("The people of
 Dun") were one and the same; and thus reaffirming the biblical
 Cain and Land of Nud or Dun.
+
 Having dealt briefly with the line of Cain, the Old Testament
 turned its full attention to a new line descended of Adam: "And
 Adam knew his wife again, and she bore a son, and called his name
@@ -179,6 +187,7 @@ died. And Seth lived a hundred and five years and begot Enosh;
 and after he begot Enosh Seth lived eight hundred and seven years,
 and he begot [other] sons and daughters; and all the days of Seth
 were nine hundred and twelve years, and he died."
+
 The name of Seth's son and the next pre-Diluvial patriarch in
 which the Bible was interested was Enosh; it has come to mean in
 Hebrew "Human, Mortal," and it is clear that the Old Testament
@@ -186,6 +195,7 @@ considered him the progenitor of the human lineage at the core of
 the ancient chronicles. It states in respect to him, that "It was then
 that the name of Yahweh began to be called," that worship and
 priesthood began.
+
 There are a number of Sumerian texts that shed more light on
 this intriguing aspect. The available portions of the Adapa text
 state that he was "perfected" and treated as a son by Enki in
@@ -227,10 +237,9 @@ priesthood. It shall be passed, the gods commanded, from father to
 son: "The learned savant, who guards the secrets of the gods, will
 bind his favored son with an oath before Shamash and Adad . . .
 and will instruct him in the secrets of the gods."
-The tablet concludes with a postscript: "Thus was the line of 
-116 THE WARS OF GODS AND MEN
-priests created—those who are allowed to approach Shamash and
+The tablet concludes with a postscript: "Thus was the line of priests created—those who are allowed to approach Shamash and
 Adad."
+
 By the time of the seventh generation after Enosh, on the eve
 of the Deluge, the Earth and its inhabitants were gripped by a
 new Ice Age. The Mesopotamian texts detail the sufferings by
@@ -242,10 +251,13 @@ that cometh from the Earth which the Lord hath cursed." The
 biblical version tells us little about Noah, apart from the fact
 that he was "righteous and of pure genealogy." The Mesopotamian texts inform us that the hero of the Deluge lived in
 Shuruppak, the medical center run by Sud.
+
 The Sumerian texts relate that as mankind's hardships were increasing, Enki suggested, and Enlil vehemently opposed, the taking of measures to alleviate the suffering. What upset Enlil no end
 was the increasing sexual relationships between the young male
 Anunnaki and the Daughters of Man. The Book of Genesis describes the "taking of wives" by the Nefilim in the following
 words:
+
+
 And it came to pass,
 When the Earthlings began to increase in number
 upon the face of the Earth,
@@ -257,13 +269,13 @@ And they took unto themselves wives
 of whichever they chose.
 A "mythical tablet" (CBS-14061) reported by E. Chiera (Sumerian Religious Texts) tells the story of those early days and of a
 young god named Martu, who complained that he, too, should be
-permitted to espouse a human wife. It happened, the text begins,
-when
-The city of Nin-ab existed, Shid-tab did not exist;
+permitted to espouse a human wife. 
+
+It happened, the text begins, when The city of Nin-ab existed, Shid-tab did not exist;
 The holy tiara existed, the holy crown did not exist . . .
 Cohabitation there was . . .
 Bringing forth [of children] there was. 
-Mankind Emerges 117
+
 "Nin-ab," the text continues, "was a city in the settled Great
 Land." Its high priest, an accomplished musician, had a wife and a
 daughter. As the people gathered to offer the gods the roasted meat
@@ -288,22 +300,21 @@ him to lose sleep. "And the Lord said: 'I will destroy the Earthling
 whom I have created off the face of the Earth.'
 The texts inform us that when it was decided to develop the deep
 mines in the Abzu, the Anunnaki also proceeded to establish a scientific monitoring station at the tip of Africa. It was put in charge
-of Ereshkigal, a granddaughter of Enlil. A Sumerian epic tale recorded the hazardous voyage of Enki and Ereshkigal from Mesopotamia to that far-off mountainland (Kur)—a text that implies that
-Ereshkigal was either abducted or in some other manner coerced by
+of Ereshkigal, a granddaughter of Enlil. A Sumerian epic tale recorded the hazardous voyage of Enki and Ereshkigal from Mesopotamia to that far-off mountainland (Kur)—a text that implies that Ereshkigal was either abducted or in some other manner coerced by
 Enki on that voyage, having been "carried off to Kur as a prize."
 (Ereshkigal, we know from other epics, was later on attacked at
 her station by Nergal, one of Enki's sons, as a result of an insult
 involving Ereshkigal's emissary. At the last moment, Ereshkigal
 saved her life by offering Nergal to marry her and control together
-with her the station's "Tablets of Wisdom.")
+with her the station's "Tablets of Wisdom.") 
+
 Enlil now saw his chance to get rid of the Earthlings when this
 scientific station at the tip of Africa began to report a dangerous situation: the growing ice cap over Antarctica had become unstable,
 resting upon a layer of slippery slush. The problem was that this
-instability had developed just as Nibiru was about to make its ap- 
-118 THE WARS OF GODS AND MEN
-proach to Earth's vicinity; and Nibiru's gravitational pull could upset the ice cap's balance and cause it to slip into the Antarctic
+instability had developed just as Nibiru was about to make its approach to Earth's vicinity; and Nibiru's gravitational pull could upset the ice cap's balance and cause it to slip into the Antarctic
 Ocean. The immense tidal waves that this would cause could engulf
 the whole globe.
+
 When the Igigi orbiting Earth confirmed the certainty of such a
 catastrophe, the Anunnaki began to assemble in Sippar. the
 spaceport. Enlil, however, insisted that mankind be kept unaware
@@ -317,6 +328,7 @@ by Enlil to achieve the annihilation of mankind; and how Enki, opposed to the de
 Gods, contrived to save his faithful follower Ziusudra ("Noah")
 by designing for him a submersible vessel that could withstand the
 avalanche of water.
+
 The Anunnaki themselves, on a signal, "lifted up" in their
 Rukub ilani ("chariots of the gods"), the fired-up rocket ships
 "setting the land ablaze with their glare." Orbiting the Earth in
@@ -329,6 +341,7 @@ the tidal waves swept the soil away, leaving behind vast deposits of
 mud: "All that had been created, turned back to clay."
 In The 12th Planet we have presented the evidence for our conclusion that the Deluge, bringing about an abrupt end to the last Ice
 Age, had occurred some 13,000 years ago.
+
 As the waters of the Deluge "went back from off the land" and
 started to subside, the Anunnaki began to land on Mount Nisir
 ("Mount of Salvation")—Mount Ararat. There Ziusudra/Noah
@@ -341,8 +354,7 @@ and multiply, and replenish the Earth.' "
 
 
 The Old Testament, focusing its interest on the line of Noah
-alone, lists no other passengers in the rescue ship. But the more detailed Mesopotamian Deluge texts also mention the Ark's navigator and disclose that at the last moment friends or helpers of
-Ziusudra (and their families) also came on board. Greek versions
+alone, lists no other passengers in the rescue ship. But the more detailed Mesopotamian Deluge texts also mention the Ark's navigator and disclose that at the last moment friends or helpers of Ziusudra (and their families) also came on board. Greek versions
 of the account by Berossus state that after the Deluge, Ziusudra,
 his family, and the pilot were taken by the gods to stay with them;
 the other people were given directions to find their way back to
@@ -363,19 +375,20 @@ the plains (where cultivation is easy) but rather in the highlands. They
 are agreed that it began with the harvesting of "wild ancestors" of
 wheat and barley some 12,000 years ago but are baffled by the genetic
 uniformity of those early grain grasses; and they are totally at a loss to
-explain the botano-genetic feat whereby—within a mere 2,000 yearssuch wild emmers doubled, trebled, and quadrupled their chromosome pairs to become the cultivable wheat and barley of outstanding
-nutritional value with the incredible ability to grow almost anywhere and with the unusual twice-a-year crops.
+explain the botano-genetic feat whereby—within a mere 2,000 yearssuch wild emmers doubled, trebled, and quadrupled their chromosome pairs to become the cultivable wheat and barley of outstanding nutritional value with the incredible ability to grow almost anywhere and with the unusual twice-a-year crops.
 Coupled with these puzzles was the equal suddenness with
 which every manner of fruit and vegetable began to appear from
 the same nuclear area at almost the same time, and the simultaneous "domestication" of animals, starling with sheep and goats
 that provided meat, milk, and wool.
+
 How did it all come about when it did? Modern science has yet
 to find the answer; but the Sumerian texts had already provided it
 millennia ago. Like the Bible, they relate how agriculture began after the Deluge, when (in the words of Genesis) "Noah began as a
 husbandman"; but like the Bible, which records that there had
 been tilling of the land (by Cain) and shepherding (by Abel) long
 before the Deluge, so do the Sumerian chronicles tell of the development of crop-growing and cattle-rearing in prehistoric times. 
-120 THE WARS OF GODS AND MEN
+
+
 When the Anunnaki had landed on Earth, a text titled by scholars The Myth of Cattle and Grain states, none of the domesticated
 grains or cattle had yet been in existence:
 When from the heights of Heaven to Earth
@@ -423,6 +436,7 @@ early time, so does this text also list the domesticated varieties that
 had not then been brought forth:
 That which by planting multiplies,
 had not yet been fashioned:
+
 Terraces had not yet been set up . . .
 The triple grain of thirty days did not exist:
 The triple grain of forty days did not exist:
@@ -439,13 +453,15 @@ from Heaven, to Enlil." Enlil then looked for a safe place where the
 seeds could be sown to restart agriculture. The earth was still covered with water, and the only place that seemed suitable was "the
 mountain of aromatic cedars." We read in a fragmented text reported by S. N. Kramer in his Sumerische Literarische Texte aus
 Nippur:
+
 Enlil went up the peak and lifted his eyes;
 He looked down: there the waters filled as a sea.
 He looked up: there was the mountain of the aromatic cedars.
 He hauled up the barley, terraced it on the mountain.
 That which vegetates he hauled up,
 terraced the grain cereals on the mountain. 
-122 THE WARS OF GODS AND MEN
+
+
 The selection of the Cedar Mountain by Enlil and its conversion
 into a Restricted ("Holy") Place was. most likely, not accidental.
 Throughout the Near East—indeed, worldwide—there is only one
@@ -457,20 +473,21 @@ early as the days of Adam. It was the only place, after the Deluge,
 immediately suitable for handling the shuttlecraft of the Anunnaki:
 the spaceport at Sippar was washed away and buried under layers
 of mud.
+
 Fig. 32
+
 With seeds available, the question was where to sow them. . . .
 The lowlands, still filled with mud and water, were unsuitable for
 habitation. The highlands, though freed from under the avalanche
 of water, were soggy with the rains that began to pour down with
-the neothermal age. The rivers had not found their new courses: the 
-Mankind Emerges 123
-waters had nowhere to go; cultivation was impossible. We read
+the neothermal age. The rivers had not found their new courses: the waters had nowhere to go; cultivation was impossible. We read
 this description in a Sumerian text:
 Famine was severe, nothing was produced.
 The small rivers were not cleaned,
 the mud was not carried off . . .
 In all the lands there were no crops,
 only weeds grew.
+
 The two great rivers of Mesopotamia, the Euphrates and Tigris,
 were also not functioning: "The Euphrates was not bound together, there was misery; the Tigris was confounded, jolted and injured." The one who rose to the task of building dams in the
 mountains, digging new channels for the rivers, and draining off
@@ -522,17 +539,17 @@ At that time Enki spoke to Enlil:
 have made joyful the Holy Mound,
 have greatly multiplied in the Holy Mound.
 Let us, Enki and Enlil, command:
+
 The woolly-creature and grain-that-multiplies
 let us cause to come out of the Holy Mound."
 Enlil agreed, and abundance followed:
 The woolly-creature they placed in a sheepfold.
-The seeds that sprout they give to the mother, 
-Mankind Emerges 125
-for the grains they establish a place.
+The seeds that sprout they give to the mother, for the grains they establish a place.
 To the workmen they give the plough and the yoke . . .
 The shepherd makes abundance in the sheepfold;
 The young woman sprouting abundance brings;
 she lifts her head in the field:
+
 Abundance had come from heaven.
 The woolly-creature and grains that are planted
 came forth in splendor.
@@ -542,6 +559,7 @@ designed, wooden implement—the plow, was at first pulled, as the
 above text states, by putting a yoke on the farm workers. But then
 Enki "brought into existence the larger living creatures"—domesticated cattle—and bulls replaced people as pullers of the plow
 (Fig. 34). Thus, the texts conclude, did the gods "increase the fertility of the land."
+
 Fig. 34
 
 While Ninurta was busy damming the mountains flanking Mesopotamia and draining its plains. Enki returned to Africa to assess
@@ -553,6 +571,7 @@ to Ninurta in the south and Nannar/Sin in the north. Enlil himself
 retained the central position overlooking the olden E.DIN; the
 Landing Place on the Cedar Mountain was put under the command
 of Utu/Shamash. Where were Enki and his clan to go?
+
 As Enki surveyed Africa it was evident to him that the Abzu
 alone—the continent's southern part—was insufficient. Just as in 
 
@@ -568,6 +587,7 @@ years later Ptah handed over the Egyptian domain to his son Ra;
 but the latter's reign was abruptly interrupted after a brief 1,000
 years, i.e., circa 11,000 B.C; it was then, by our reckoning, that the
 Deluge had occurred.
+
 Then, the Egyptians believed, Ptah returned to Egypt to engage
 in great works of reclamation and to literally raise it from under the
 inundating waters. We find Sumerian texts that likewise attest that
@@ -614,12 +634,18 @@ that Marduk and Osiris were one and the same. But these epithets
 (as "All-Powerful" or "Awesome") were applied to diverse deities, and Asar meaning "All-Seeing" was also the epithet-name of
 the Assyrian god Ashur.
 
-In fact, we find more similarities between the Babylonian Marduk and the Egyptian god Ra: the former was the son of Enki, the
-latter of Ptah, the two, Enki-Ptah, being in our view one and the
-same; whereas Osiris was the great-grandson of Ra and thus of a
-much later generation than either Ra or Marduk. In fact, there is
-found in Sumerian texts scattered, but persistent, evidence supporting our belief that the god called Ra by the Egyptians and Marduk by the Mesopotamians was one and the same deity. Thus, a
-self-laudatory hymn to Marduk (tablet Ashur/4125) declares that
+There are more similarities between the Babylonian Marduk and the Egyptian god Ra.
+- Marduk was the son of Enki
+- Ra was the son of Ptah
+
+I think Enki-Ptah is one. 
+
+Osiris was the great-grandson of Ra and thus of a
+much later generation than either Ra or Marduk. 
+
+Sumerian texts have evidence supporting our belief that the god called Ra by the Egyptians and Marduk by the Mesopotamians was one and the same deity. 
+
+Thus, a self-laudatory hymn to Marduk (tablet Ashur/4125) declares that
 one of his epithets was "The god IM.KUR.GAR RA"-"Ra
 Who Beside the Mountainland Abides."
 
@@ -636,5 +662,6 @@ Great God of Egypt, Marduk/Ra, yearned to rule the whole Earth,
 and to do so from the olden "Navel of the Earth" in Mesopotamia.
 It was this ambition that led him to abdicate the divine throne of
 Egypt in favor of his children and grandchildren.
+
 Little did he know that this would lead to two Pyramid Wars and
 to his own near death.

@@ -68,12 +68,14 @@ fiery offering to Enlil of Nippur. . . to Ninurta . . . to Adad. . .
 to Enki coming from the Abzu ... to Nergal coming from
 Meslam." By nightfall the place was ablaze: "as sunlight was the
 great light set off by the goddess."
+
 Ninharsag then appealed to the wisdom of the gods and extolled
 the virtues of peace: "Mighty are the fruits of the wise god; the great
 divine river to his vegetation shall come . . . its overflowing will
 make [the land) like a garden of god." The abundance of plants and
 animals, of wheat and other grains, of vines and fruits, and the benefits of a "triple-sprouting mankind" planting, building, and serving
 the gods—all to follow peace—were then outlined by her.
+
 After Ninharsag had finished her oracle of peace, Enlil was the
 first one to speak. "Removed is the affliction from the face of the
 Earth," Enlil declared to Enki: "the Great Weapon is lifted up."
@@ -191,12 +193,12 @@ by drawing "before the feet of Enki" the plan for the restoration of
 the pre-Diluvial cities of southern Mesopotamia (Sumer).
 If the olden pre-Diluvial cities of Mesopotamia were to be restored, Enki had a condition: He and his sons were to be allowed to
 come freely to Mesopotamia; and he, Enki, was to be given back
-the site of Eridu, the hallowed place of his first Earth Station. Accepting the condition, Enlil said: "In my land, let your abode become everlasting; from the day that you shall come into my
-presence, the laden table shall exhale delicious smelis for thee."
+the site of Eridu, the hallowed place of his first Earth Station. Accepting the condition, Enlil said: "In my land, let your abode become everlasting; from the day that you shall come into my presence, the laden table shall exhale delicious smelis for thee."
 Enlil expressed the hope that in return for this hospitality, Enki
 would help bring prosperity also to Mesopotamia: "Pour abundance on the Land, each year increase its fortunes."
 And with all these matters settled, Enki and his sons departed for
 their African domains.
+
 After Enki and his sons had departed, Enlil and his sons contemplated the future of their territories, born old and new. The first chronicle, the one reported by Barton, relates that in order to reaffirm the
 status of Ninurta as second to Enlil and superior over his brothers, Enlil put him in charge of the Olden Land. The territories of Adad in the
 northwest were extended by a thin "finger" (Lebanon) to include the
@@ -238,10 +240,12 @@ the female spouses had played such a decisive role? We read of
 Ningal coming to the aid of her husband; we see Ninlil being enlisted in persuading the wavering Enlil. But then there entered the
 scene yet another great goddess—and by her words achieved an
 unintended decision. . . .
+
 As Enlil was urged by Ninlil to "follow your heart" rather
 than his mind, to prefer the firstborn over the legal heir.
 "Ninurta opened his mouth and said ..." His words of opposition are lost by a damage to the verses; but, as the tale is continued, we learn that Ninharsag threw in her weight behind her
 son Ninurta:
+
 She cried out and lamented to her brother;
 Like a pregnant woman she was agitated, [saying:]
 "Inside the Ekur I call to my brother, 
@@ -334,6 +338,7 @@ dug out of the rock "without the help of picks and hoes" (James
 Mellaart. Earliest Civilizations of the Near East). It was "an
 explosive development ... a spectacular development whose
 causes." Mellaart says, "are still unknown to us."
+
 The enigma of prehistoric Jericho is compounded by the evidence of its round grain silos, one of which was found still partly
 standing. In a hot depression near the Dead Sea. 825 feet below sea
 level, in an inhospitable place unsuitable for grain cultivation,
@@ -395,9 +400,10 @@ they began to dig up its remains: "From atop the mound, one has
 an interesting all-around view: the Jordan on the west as a dark line; to the northwest, the hillock of ancient Jericho; and beyond it,
 the mountains of Judea, including Beth-El and the Mount of Olives
 of Jerusalem. Bethlehem is obscured by Mount el-Muntar, but the
-heights of Tekoah and the environs of Hebron can be seen" (A.
-Mallon, R. Koeppel, and R. Neuville. Teleilat Ghassul, Compte
-Rendu des Fouilles de l'Institut Biblique Pontifical). To the north,
+heights of Tekoah and the environs of Hebron can be seen" (A. Mallon, R. Koeppel, and R. Neuville. Teleilat Ghassul, Compte
+Rendu des Fouilles de l'Institut Biblique Pontifical). 
+
+To the north,
 the view was unobscured for some thirty miles; to the cast, one
 could see Mount Moab and the foremounts of Mount Nebo; to the
 south, "beyond the mirror of the Dead Sea, one could see the salt
@@ -536,19 +542,20 @@ route between Jerusalem and the Sinai, "was called earlier Kiryat
 Arba ("Stronghold of Arba"); a Great Man ("king") among the
 Anakim he was" (Joshua, 14:15). The descendants of the Anakim,
 we are further told, were still residing in the area during the Israelite conquest of Canaan; and there are numerous other biblical references to abodes of the Anakim on the east side of the Jordan.
+
 Who were these Anakim? The term is commonly translated
 "giants," just as the biblical term Nefilim had been translated. But
 we have already shown conclusively that by Nefilim ("Those
 Who Had Come Down") the Old Testament had referred to the
 "People of the Rocketships."
+
 The Anakim, we suggest, were none other than the Anunnaki.
 No one had hitherto paid any particular attention to the count of
-3,650 years which Manetho assigned to the reign of the "demi- 
-192 THE WARS OF GODS AND MEN
-gods" who belonged to the dynasty of Thoth. We, however, find
+3,650 years which Manetho assigned to the reign of the "demi-gods" who belonged to the dynasty of Thoth. We, however, find
 the figure highly significant, for it differs but by 50 years from the
 3.600-year orbit of Nibiru. the home planet of the Anunnaki.
 It was no accident, we have maintained, that mankind's advancement from the Stone Age to the high civilization of Sumer occurred in 3,600-year intervals—circa 11,000, 7400, and 3800 B.C.
+
 It was as though "a mysterious hand" had each time "picked
 Man out of his decline and raised him to an even higher level of
 culture, knowledge and civilization." we wrote in The 12th
@@ -590,6 +597,7 @@ men," it was time for solemn decisions. "Anu sat on the seat of
 honor; near him sat Enlil; Ninharsag sat on an arm chair."
 Anu called the meeting to order, "and to the Anunnaki thus
 said":
+
 Great gods who had hither come,
 Annuna-gods, who to the Court of Assembly had come!
 My son had for himself a House built;
@@ -600,7 +608,9 @@ To the place, Eridu, no one uninvited can enter . . .
 In its sanctuary, from the Abzu
 the Divine Formulas Enki had deposited.
 This brought the deliberations to the main item on the agenda: 
+
 Fig. 63
+
 Enlil's complaint that Enki was withholding from the other gods
 the "Divine Formulas"—the knowledge of more than one hundred
 aspects of civilization—confining advancement to Eridu and its
@@ -659,6 +669,7 @@ May the gods of the Abzu
 and the gods of the holy land bless you!
 And then Anu and Antu took off to the Spaceport. It was the seventeenth day of their visit to Earth, a tablet found in the archives of
 Uruk states. The momentous visit was over.
+
 Its decisions opened the way for the establishment of new cities
 besides the Olden Ones. First and foremost among them was Kish.
 It was put under the control of Ninurta. "Enlil's Foremost Son";
@@ -671,12 +682,14 @@ decree the fate" decided that the gods "were too lofty for Mankind." The term us
 "Lofty Ones"; from it comes the Babylonian, Assyrian, Hebrew,
 and Ugaritic El— the term to which the Greeks gave the connotation
 "god."
+
 There was a need, the Anunnaki decided, to give mankind
 "Kingship" as an intermediary between themselves and the human
 citizenry. All the Sumerian records attest that this major decision
 was taken during Anu's visit, at a Council of the Great Gods. One
 Akkadian text (the Fable of the Tamarisk and the Datepalm) describes thus the meeting that had taken place "in long ago days, in
 far off times":
+
 The gods of the land, Anu, Enlil and Enki,
 convened an assembly.
 Enlil and the gods took counsel;

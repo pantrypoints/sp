@@ -11,11 +11,12 @@ weight: 66
 
 
 
-Doomsday came in the twenty-fourth year when Abraham, encamped near Hebron, was ninety-nine years old.
-'"And the Lord appeared unto him in the terebrinth grove of
-Mamre as he was sitting at the entrance of the tent, in the heat of
+Doomsday came in the twenty-fourth year when Abraham, encamped near Hebron, was 99 years old.
+
+'"And the Lord appeared unto him in the terebrinth grove of Mamre as he was sitting at the entrance of the tent, in the heat of
 the day. And he lifted his eyes and looked, and behold—three men
 were stationed upon him; and as he saw them he ran from the entrance of the tent towards them, and bowed to the ground."
+
 Swiftly, from a typical Middle Eastern scene of a potentate resting in the shade of his tent, the biblical narrator of Genesis 18
 raised Abraham's eyes and thrust him—and the reader, too—into a
 sudden encounter with divine beings.
@@ -24,9 +25,11 @@ Though Abraham was
 gazing out, he did not see the three approaching: they were suddenly "stationed upon him." And though they were "men," he at
 once recognized their true identity and bowed to them, calling
 them "my lords" and asking them not to "pass over above thy servant" until he had a chance to prepare for them a sumptuous meal.
+
+
 It was dusk when the divine visitors finished eating and resting.
-Asking about Sarah, their leader said to Abraham: "Return I shall
-unto thee at this time next year: by then Sarah thy wife will have a
+
+Asking about Sarah, their leader said to Abraham: "Return I shall unto thee at this time next year: by then Sarah thy wife will have a
 son."
 
 The promise of a Rightful Heir to Abraham and Sarah at their
@@ -204,11 +207,12 @@ low-lying region to the south. The remaining portion of what
 was once the southern shore became the feature figuratively
 called by the natives el-Lissan ("The Tongue"), and the oncepopulated valley with its five cities became a new, southern
 part of the Dead Sea (Fig. 102) still bearing the local nickname
-"Lot's Sea." In the north the outpouring of the waters southward caused the shoreline to recede.
+"Lot's Sea." 
+
+In the north the outpouring of the waters southward caused the shoreline to recede.
 The ancient reports have been confirmed in modern times by
 various researches, beginning with an exhaustive exploration of
-the area in the 1920s by a scientific mission sponsored by the Vatican's Pontifical Biblical Institute (A. Mallon, Voyage d'Exploration au sud-est de la Mer Morte). Leading archaeologists, such as
-W. F. Albright and P. Harland, discovered that settlements in the
+the area in the 1920s by a scientific mission sponsored by the Vatican's Pontifical Biblical Institute (A. Mallon, Voyage d'Exploration au sud-est de la Mer Morte). Leading archaeologists, such as W. F. Albright and P. Harland, discovered that settlements in the
 mountains around the region were abruptly abandoned in the
 twenty-first century B.C. and were not reoccupied for several centuries thereafter. And to this very day. the water of springs surrounding the Dead Sea has been found to be contaminated with
 radioactivity, "enough to induce sterility and allied afflictions in
@@ -223,13 +227,13 @@ miles away. We are told by the Bible that he pulled up his encampment and moved 
 Also, at no time thereafter did he venture into the Sinai. Even
 years later, when Abraham's son Isaac wanted to go to Egypt on
 account of a famine in Canaan, "Yahweh appeared unto him and
-said: 'Go not down to Egypt; dwell in the land which I will show 
-316 THE WARS OF GODS AND MEN
-Fig. 102 
-The Nuclear Holocaust 317
-thee.' " The passage through the Sinai peninsula was apparently
+said: 'Go not down to Egypt; dwell in the land which I will show thee.' " The passage through the Sinai peninsula was apparently
 still unsafe.
 But why?
+
+Fig. 102 
+
+
 The destruction of the cities of the plain, we believe, was only a
 sideshow: concurrently, the Spaceport in the Sinai peninsula was
 also obliterated with nuclear weapons, leaving behind a deadly radiation that lingered on for many years thereafter.
@@ -252,10 +256,12 @@ Kings, Nannar and Inanna were at first the gods in whom Shu-Sin
 had put his trust. It was Nannar, Shu-Sin's early inscriptions
 stated, who had "called his name" to kingship; he was "beloved
 of Inanna." and she herself presented him to Nannar (Fig. 103).
+
 Fig. 103
-318 THE WARS OF GODS AND MEN
-"The Holy Inanna." Shu-Sin boasted, "the one endowed with astounding qualities, the First Daughter of Sin," granted him weapons with which to "engage in battle the enemy country which is
-disobedient." But all this was insufficient to hold together the Sumerian empire, and Shu-Sin soon turned to greater gods for succor.
+
+"The Holy Inanna." Shu-Sin boasted, "the one endowed with astounding qualities, the First Daughter of Sin," granted him weapons with which to "engage in battle the enemy country which is disobedient." 
+
+But all this was insufficient to hold together the Sumerian empire, and Shu-Sin soon turned to greater gods for succor.
 Judging from the date formulas—annual inscriptions, for royal
 as well as commercial and social purposes, in which each successive year of a king's reign was designated by the major event of
 that year—Shu-Sin, in the second year of his reign, sought the
@@ -268,9 +274,9 @@ Nabu; but the effort evidently failed, for the fourth and fifth years
 witnessed the building of a massive wall on the western frontier of
 Mesopotamia, specifically aimed at warding off incursions by the
 "Westerners." followers of Marduk.
+
 As the pressures from the west kept rising, Shu-Sin turned to the
-great gods of Nippur for forgiveness and salvation. The date formulas, confirmed by the archaeological excavations of the American Expedition to Nippur, reveal that Shu-Sin undertook massive
-reconstruction works at Nippur's sacred precinct, on a scale unknown since the days of Ur-Nammu. The works culminated with
+great gods of Nippur for forgiveness and salvation. The date formulas, confirmed by the archaeological excavations of the American Expedition to Nippur, reveal that Shu-Sin undertook massive reconstruction works at Nippur's sacred precinct, on a scale unknown since the days of Ur-Nammu. The works culminated with
 the raising of a stela honoring Enlil and Ninlil, "a stela as no king
 had built before." Desparately Shu-Sin sought acceptance, confirmation that he was "the king whom Enlil, in his heart, had
 chosen." But Enlil was not there to answer; only Ninlil, Enlil's
@@ -279,15 +285,14 @@ Responding with compassion, "so as to prolong the well-being of
 Shu-Sin, to extend the time of his crown," she gave him a
 "weapon which with radiance strikes down . . . whose awesome
 flash reaches the sky."
+
 A Shu-Sin text catalogued as "Collection B" suggests that in his
 efforts to reestablish the olden links with Nippur, Shu-Sin may
 have attempted a reconciliation with the Nippurites (such as the
 family of Terah) who had left Ur after the death of Ur-Nammu.
 The text states that after he made the region where Harran was situated "tremble in awe of his weapons," a peace gesture was made:
 Shu-Sin sent there his own daughter as a bride (presumably to the
-region's chief or his son). She then returned to Sumer with an en- 
-The Nuclear Holocaust 319
-touragc of that region's citizens, "establishing a town for Enlil and
+region's chief or his son). She then returned to Sumer with an entouragc of that region's citizens, "establishing a town for Enlil and
 Ninlil on the boundary of Nippur." It was the first time "since the
 days when fates were decreed, that a king had established a town
 for Enlil and Ninlil," Shu-Sin stated in obvious expectation of
@@ -299,6 +304,7 @@ provinces gave way to worry about Sumer's own territory. "The
 mighty king, the King of Ur," Shu-Sin's inscriptions said, found
 that the "shepherding of the land"—of Sumer itself—had become
 the principal royal burden.
+
 There was one final effort to entice Enlil back to Sumer, to find
 shelter under his aegis. On the apparent advice of Ninlil, Shu-Sin
 built for the divine couple "a great touring boat, fit for the largest
@@ -311,6 +317,7 @@ The nostalgic aspects struck a chord in Enlil's heart, for he had
 fallen in love with Ninlil, when she was still a young nurse, when
 he saw her bathing naked in the river; and he did come back to
 Nippur:
+
 When Enlil heard [all this)
 From horizon to horizon he hurried.
 From south to north he travelled;
@@ -322,10 +329,11 @@ are deprived of the details of what happened then. But the very last
 lines refer to "Ninurta, the great warrior of Enlil, who befuddled
 the Intruder," apparently after "an inscription, an evil inscription" was discovered on an effigy in the boat, intended perhaps to
 place a curse on Enlil and Ninlil.
+
 There is no record available of Enlil's reaction to the foul play:
 but all other evidence suggests that he again left Nippur, this time
 apparently taking Ninlil with him. 
-320 THE WARS OF CODS AND MEN
+
 Soon thereafter—February 2031 B.C. by our calendar—the Near
 East was awed by a total lunar eclipse, which blacked out the moon
 during the night tor its full course from horizon to horizon. The oracle priests of Nippur could not allay Shu-Sin's anxiety: It was.
@@ -342,6 +350,7 @@ the temple. Shu-Sin claimed that he was the young god's father:
 father Shu-Sin. the powerful king, king of Ur. king of the four regions, has built for him the temple Shagipada. his beloved shrine;
 may the king have life." It was the ninth year of Shu-Sin's reign. It
 was also his last.
+
 The new ruler on the throne of Ur, Ibbi-Sin, could not stop the
 retreat and retrenchment. All he could do was rush the construction
 of walls and fortifications in the heart of Sumer, around Ur and
@@ -359,20 +368,21 @@ Monuments of Ur). At the tax collection crossroads of Drehem
 of Ur—records of which thousands of intact clay tablets were
 found—the meticulous account-keeping also stopped abruptly in
 that third year.
+
 Ignoring Nippur, whose great gods had left her, Ibbi-Sin put his
 trust again in Nannar and Inanna, installing himself in his second
-year as High Priest of Inanna's temple in Uruk. Repeatedly he 
-The Nuclear Holocaust 321
-asked for guidance and reassurance from his gods; but all he was
+year as High Priest of Inanna's temple in Uruk. Repeatedly he asked for guidance and reassurance from his gods; but all he was
 hearing were oracles of destruction and doom. In the fourth year of
 his reign he was told that "The Son in the west will arise . . . it is
 an omen for Ibbi-Sin: Ur shall be judged."
+
 In the fifth year, Ibbi-Sin sought further strength by becoming
 High Priest of Inanna at her shrine at Ur. But that, too, was of no
 help: that year, the other cities of Sumer itself ceased sending the
 messages of allegiance. It was also the last year in which those
 cities delivered the traditional sacrificial animals for Nannar's temple in Ur. The central authority of Ur, her gods, and her great
 ziggurat-temple were no longer recognized.
+
 As the sixth year began, the omens "concerning destruction"
 became more urgent and more specific. "When the sixth year
 comes, the inhabitants of Ur will be trapped," one omen stated.
@@ -383,18 +393,20 @@ year, as messages from the borders reveal, "hostile Westerners
 had entered the plain" of Mesopotamia; without resistance, they
 quickly "entered the interior of the country, taking one by one all
 the great fortresses."
+
 All Ibbi-Sin held on to was the enclave of Ur and Nippur; but
 before the fateful sixth year was out, the inscriptions honoring the
 king of Ur stopped abruptly also in Nippur. The enemy of Ur and
 her gods, the "One who calls himself Supreme," had reached the
 heart of Sumer.
-Marduk, as the omens had predicted, returned to Babylon for the
-second time.
+
+Marduk, as the omens had predicted, returned to Babylon for the second time.
 The twenty-four fateful years—since Abraham left Harran, since
 Shulgi was replaced on the throne, since Marduk's exile among the
 Hittites had begun—have all converged in that Year of Doom,
 2024 B.C. Having followed the separate, but interconnected, biblical tale of Abraham and the fortunes of Ur and its last three kings,
 we will now follow in the footsteps of Marduk.
+
 The tablet on which Marduk's autobiography is inscribed (from
 which we have already partly quoted) continues to relate his return
 to Babylon after the twenty-four years of sojourn in the Land of
@@ -420,6 +432,7 @@ Into the Esagil . . .
 A platform to raise . . .
 In my city . . .
 Joy . . .
+
 The damaged tablet then lists the cities through which Marduk
 had passed on his way to Babylon. The few legible city names indicate that Marduk's route from Asia Minor to Mesopotamia took
 him first south to the city of Hama (the biblical Hamat), then
@@ -435,7 +448,7 @@ We learn little from this tablet of the actions taken by this adversary, for all
 becomes unintelligible. But we can pick up some of the missing
 threads from the third tablet of the Khedorlaomer lexis. In spite of
 its enigmatic aspects, it paints a picture of total turmoil, with adversary gods marching against each other at the head of their human troops: the Amorite supporters of Marduk swooped down the 
-The Nuclear Holocaust 323
+
 Euphrates valley toward Nippur, and Ninurta organized Elamite
 troops to fight them.
 As we read and reread the record of those trying times, we find
@@ -455,6 +468,7 @@ will remain a puzzle until we return to the Erra Epic; but that this
 god is named in the Khedorlaomer Texts and is accused of the defilement of the Ekur, there can be no doubt:
 Erra, the pitiless one,
 entered the sacred precinct.
+
 He stationed himself in the sacred precinct,
 he beheld the Ekur.
 His mouth he opened, he said to his young men:
@@ -462,6 +476,7 @@ His mouth he opened, he said to his young men:
 take away its valuables,
 destroy its foundation,
 break down the enclosure of the shrine!"
+
 When Enlil, "loftily enthroned." heard that his temple had been
 destroyed, its shrine defiled, that "in the holy of holies the veil was
 torn away," he rushed back to Nippur. "Riding in front of him
@@ -472,7 +487,9 @@ Enlil then addressed himself to his son, "the prince Ninurta." to
 find out who had defiled the sacred place. But instead of telling the
 truth, that it was Erra, his ally, Ninurta pointed the accusing finger
 at Marduk and his followers. . . . 
+
 Fig. 104
+
 Describing the scene, the Babylonian text asserts that Ninurta
 was acting without the required respect on meeting his father: "not
 fearing for his life, he removed not his tiara." To Enlil "evil he
@@ -491,8 +508,7 @@ But when the son of Marduk
 in the land of the coast was,
 He-of-the-Evil-Wind [Erra]
 with heat the plain-land burnt.
-324 THE WARS OF GODS AND MEN
-The Nuclear Holocaust 325
+
 These are indeed verses that must have had a common source
 with the biblical description of how "brimstone and fire" rained
 from the skies "upheavaled those cities and the whole plain"!
@@ -509,6 +525,7 @@ second aim was not achieved, for Nabu managed to slip out in time
 and escaped to an island in the Mediterranean, where the people
 accepted him although he was not their god:
 He [Nabu] the great sea entered.
+
 Sat upon a throne which was not his
 [Because] Ezida, the legitimate abode, was overrun.
 The picture that can be gathered from the biblical and Babylonian texts of the cataclysm that engulfed the ancient Near East in
@@ -524,12 +541,13 @@ The Erra Epic not only explains the nature and causes of the conflict that had l
 inhabited cities and the attempt to annihilate a god (Nabu) believed
 hiding therein. It also makes clear that such an extreme measure
 was not taken lightly.
+
 We know from several other texts that the great gods, at that
 time of acute crisis, were sitting in a continuous Council of War,
 keeping constant communication with Anu: "Anu to Earth the
-words was speaking, Earth to Anu the words pronounced." The 
-326 THE WARS OF GODS AND MEN
-Erra Epic adds the information that before the awesome weapons
+words was speaking, Earth to Anu the words pronounced." 
+
+The Erra Epic adds the information that before the awesome weapons
 were used, one more confrontation had taken place between
 Nergal/Erra and Marduk. in which Nergal used threats to persuade
 his brother to leave Babylon and give up his claims to Supremacy.
@@ -558,6 +576,7 @@ Alarmed, Marduk inquired of Gibil where the awesome weapons
 were kept. "O Gibil," he said, "those seven—where were they
 born, where were they created?" To which Gibil revealed that they
 were hidden underground:
+
 Those seven, in the mountain they abide.
 In a cavity inside the earth they dwell.
 From this place with a brilliance they will rush forth.
@@ -565,9 +584,8 @@ From Earth to Heaven, clad with terror.
 But where exactly is this place? Marduk asked again and again;
 and all Gibil could say was that "even the wise gods, to them it is
 unknown."
-Now Marduk rushed to his father Enki with the frightening re- 
-The Nuclear Holocaust 327
-port. "To his father Enki's house he fMardukj entered." Enki was
+
+Now Marduk rushed to his father Enki with the frightening report. "To his father Enki's house he fMardukj entered." Enki was
 lying on the couch in the chamber to which he retired for the night.
 "My father," Marduk said, "Gibil this word hath spoken to me:
 of the coming of the seven [weapons] he has found out." Telling
@@ -593,17 +611,15 @@ to be forewarned; and, last but not least, mankind had to be spared,
 for "Anu, lord of the gods, on the land had pity."
 At first Nergal balked at the very idea of forewarning anyone,
 and the ancient text goes to some length to relate the tough words
-exchanged between the two gods. Nergal then agreed to giving advance warning to the Anunnaki and Igigi who manned the space facilities, but not to Marduk and his son Nabu, nor to the human
-followers of Marduk. It was then that Ninurta, attempting to dissuade Nergal from indiscriminate annihilation, used words identical to those attributed in the Bible to Abraham when he tried to
+exchanged between the two gods. Nergal then agreed to giving advance warning to the Anunnaki and Igigi who manned the space facilities, but not to Marduk and his son Nabu, nor to the human followers of Marduk. It was then that Ninurta, attempting to dissuade Nergal from indiscriminate annihilation, used words identical to those attributed in the Bible to Abraham when he tried to
 have Sodom spared:
+
 Valiant Erra,
 Will you the righteous destroy with the unrighteous?
 Will you destroy those who have against you sinned
 together with those who against you have not sinned?
 Employing flattery, threats, and logic, the two gods argued back
-and forth on the extent of the destruction. More than Ninurta, 
-328 THE WARS OF GODS AND MEN
-Nergal was consumed by personal hatred: "I shall annihilate the
+and forth on the extent of the destruction. More than Ninurta, Nergal was consumed by personal hatred: "I shall annihilate the
 son, and let the father bury him; then I shall kill the father, let no
 one bury him!" he shouted. Employing diplomacy, pointing out
 the injustice of indiscriminate destruction—and the strategic merits
@@ -613,6 +629,7 @@ leave Mesopotamia out of the attack, he formulated a modified
 plan: the destruction will be selective: the tactical aim will be to destroy the cities where Nabu might be hiding: the strategic aim will
 be to deny to Marduk his greatest prize—the Spaceport, "the place
 from where the Great Ones ascend":
+
 From city to city an emissary I will send;
 The son, seed of his father, shall not escape;
 His mother shall cease her laughter . . .
@@ -664,16 +681,16 @@ even the crocodiles
 he made wither.
 As with fire he scorched the animals,
 banned its grains to become as dust.
+
+
 The Erra Epic thus encompasses all the three aspects of the nuclear event: the obliteration of the Spaceport in the Sinai; the
 "overturning" ("upheavaling" in the Bible) of the cities of the
 Jordan plain; and the breach in the Dead Sea resulting in its extension southward. One could expect that such a unique destructive
 event would have been recorded and mentioned in more than a
 single text; and indeed we find descriptions and recollections of the
 nuclear upheaval in other texts as well.
-One such text (known as K.500] and published in the Oxford 
-330 THE WARS OF GODS AND MEN
-Editions of Cuneiform Texts, vol. VI) is especially valuable, because it is in the original Sumerian language and, moreover, it is a
-bilingual text in which the Sumerian is accompanied by a line-byline Akkadian translation. It is thus undoubtedly one of the earliest
+
+One such text (known as K.500] and published in the Oxford Editions of Cuneiform Texts, vol. VI) is especially valuable, because it is in the original Sumerian language and, moreover, it is a bilingual text in which the Sumerian is accompanied by a line-byline Akkadian translation. It is thus undoubtedly one of the earliest
 texts on the subject; and its wording indeed gives the impression
 that it is this or similar Sumerian originals that had served as a
 source for the biblical narrative. Addressed to a god whose identity
@@ -689,6 +706,7 @@ by "ascending to the dome of heaven," was recalled in a Babylonian text in which
 taken place "in the reign of an earlier king." Here are the king's
 words:
 At that time,
+
 in the reign of a previous king,
 conditions changed.
 Good departed, suffering was regular.
@@ -716,6 +734,8 @@ That which was raised towards Anu to launch
 they caused to wither;
 Its face they made fade away,
 its place they made desolate.
+
+
 Thus was the Spaceport, the prize over which so many Wars of
 the Gods had been fought, obliterated: the Mount within which the
 controlling equipment was placed was smashed; the launch platforms were made to fade off the face of the Earth; and the plain
@@ -730,6 +750,7 @@ peninsula is the flat central plain of the Sinai—a remnant of a lake
 from an earlier geological era; its flat, hard soil is ideal for the
 landing of shuttlecraft—the very same reason which made the Mojave Desert in California and the Edwards Air Force Base there
 ideal for the landing of America's space shuttles.
+
 As one stands in this great plain in the Sinai peninsula—its hard,
 flat soil having served for tank battles in recent history as it
 did the shuttlecraft in antiquity—one can see in the distance
@@ -738,17 +759,20 @@ The limestone mountains loom white on the horizon; but where the
 great central plain adjoins the immense scar in the Sinai, the hue of
 the plain—black—stands out in sharp contrast to the surrounding
 whiteness (Fig. 106).
+
 Black is not a natural hue in the Sinai peninsula, where the
-whiteness of the limestone and the redness of the sandstone combine to dazzle the eye with hues ranging from bright yellow to light 
-332 THE WARS OF GODS AND MEN
+whiteness of the limestone and the redness of the sandstone combine to dazzle the eye with hues ranging from bright yellow to light gray and dark brown but nowhere the black which comes in nature
+from basalt stones.
+
 Fig. 105 
 Fig. 106
-gray and dark brown but nowhere the black which comes in nature
-from basalt stones.
+
+
 Yet here, in the central plain north-northeast of the enigmatic
 giant scar, the soil's color has a black hue. It is caused—as our photograph clearly shows—by millions upon millions of bits and
 pieces of blackened rock, strewn as by a giant hand over the whole
 area (Fig. 107).
+
 There has been no explanation for the colossal scar in the face of
 the Sinai peninsula since it was observed from the skies and photographed by NASA satellites. There has been no explanation for the
 blackened bits and pieces of rock strewn over the area in the central
@@ -763,24 +787,22 @@ Far away to the west, in Sumer itself, the nuclear blasts and their
 brilliant flashes were neither felt nor seen. But the deed done by Nergal
 and Ninurta had not gone unrecorded, for it turned out to have had a
 most profound effect on Sumer, its people, and its very existence.
-The Nuclear Holocaust 333
-334 THE WARS OF GODS AND MEN
+
 Fig. 107
+
 For, in spite of all the efforts of Ninurta to dissuade Nergal from
 harming mankind, a great suffering did ensue. Though the two had
 not intended it, the nuclear explosion gave rise to an immense
 wind, a radioactive wind, which began as a whirlwind:
 A storm, the Evil Wind,
 went around in the skies.
-And then the radioactive whirlwind began to spread and move
+
+The radioactive whirlwind began to spread and move
 westward with the prevailing winds blowing from the Mediterranean; soon thereafter, the omens predicting the end of Sumer came
 true; and Sumer itself became the ultimate nuclear victim.
 The catastrophe that befell Sumer at the end of Ibbi-Sin's sixth
 year of reign is described in several Lamentation Texts—long
-poems that bewail the demise of the majestic Ur and the other centers of the great Sumerian civilization. Bringing very much to mind 
-The Nuclear Holocaust 335
-the biblical Book of Lamentations, lamenting the destruction of Jerusalem by the hands of the Babylonians, the Sumerian lamentations suggested to the scholars who had first translated them that
-the Mesopotamian catastrophe was also the result of an invasion—
+poems that bewail the demise of the majestic Ur and the other centers of the great Sumerian civilization. Bringing very much to mind the biblical Book of Lamentations, lamenting the destruction of Jerusalem by the hands of the Babylonians, the Sumerian lamentations suggested to the scholars who had first translated them that the Mesopotamian catastrophe was also the result of an invasion—
 this one by clashing Elamite and Amorite troops.
 When the first lamentation tablets were found, the scholars believed that Ur alone suffered destruction, and they titled the translations accordingly. But as more texts were discovered, it was
 realized that Ur was neither the only city affected, nor the focal
@@ -793,6 +815,7 @@ slow succession, as would happen in the case of a progressive invasion, but all 
 of Ibbi-Sin) then concluded that the "barbarian invaders" had
 nothing to do with the "dire catastrophe," a calamity he called
 "really quite puzzling."
+
 "Whether we shall ever see with full clarity what happened in
 those years," Jacobsen wrote, "only time will tell; the full story,
 we are convinced, is still far beyond our grasp."
@@ -804,6 +827,7 @@ in excellent state of preservation, usually begin by bewailing the
 abrupt abandonment of all of Sumer's sacred precincts by their various gods, their temples "abandoned to the wind." The desolation
 caused by the catastrophe is then described vividly, by such verses
 as these:
+
 Causing cities to be desolated,
 [causing] houses to become desolate;
 Causing stalls to be desolate,
@@ -813,7 +837,7 @@ that its sheep no longer roam in its sheepfolds;
 That its rivers flow with water that is bitter,
 that its cultivated fields grow weeds,
 that its steppes grow withering plants. 
-336 THE WARS OF GODS AND MEN
+
 in the cities and the hamlets. ' 'the mother cares not for her children, the father says not 'O my wife' ... the young child grows
 not sturdy on their knee, the nursemaid chants not a lullaby . . .
 kingship has been taken away from the land."
@@ -829,6 +853,7 @@ were there but without people; the stalls were there but without cattle; the shc
 their waters became bitter; the fields still stretched but they grew
 only weeds; and on the steppe the plants sprouted, only to wither
 away.
+
 Invasion, war, killing—all those evils were well known to mankind by then; but. as the lamentation texts clearly state, this one
 was unique and never experienced before:
 On the Land [Sumer] fell a calamity,
@@ -847,13 +872,14 @@ those who fled to the streets were stricken in the streets: "Cough
 and phlegm weakened the chest, the mouth was filled with spittle
 and foam . . . dumbness and daze have come upon them, an unwholesome numbness ... an evil curse, a headache . . . their
 spirit abandoned their bodies." As they died, it was a most gruesome death: 
-The Nuclear Holocaust 337
+
 The people, terrified, could hardly breathe;
 the Evil Wind clutched them,
 does not grant them another day . . .
 Mouths were drenched in blood,
 heads wallowed in blood . . .
 The face was made pale by the Evil Wind.
+
 The source of the unseen death was a cloud that appeared in the
 skies of Sumer and "covered the land as a cloak, spread over it like
 a sheet." Brownish in color, during the daytime "the sun in the horizon it obliterated with darkness." At night, luminous at its edges
@@ -862,6 +888,7 @@ out the moon: "the moon at its rising it extinguished." Moving
 from west to east, the deathly cloud—"enveloped in terror, casting
 fear everywhere"—was carried to Sumer by a howling wind, "a
 great wind which speeds high above, an evil wind which overwhelms the land."
+
 It was not, however, a natural phenomenon. It was "a great
 storm directed from Anu ... it hath come from the heart of Enlil." The product of the seven awesome weapons, "in a single
 spawning it was spawned . . . like the bitter venom of the gods; in
@@ -881,9 +908,7 @@ The two valiant sons—Ninurta and Nergal—unleashed "in a
 single spawning" the seven awesome weapons created by Anu.
 "uprooting everything, upheavaling everything" at the place of
 the blast. The ancient descriptions are as vivid, as accurate as modern eyewitness descriptions of an atomic explosion: As soon as the
-"awesome weapons" were launched from the skies, there was an 
-338 THE WARS OF GODS AND MEN
-immense brilliance: "they spread awesome rays towards the lour
+"awesome weapons" were launched from the skies, there was an immense brilliance: "they spread awesome rays towards the lour
 points of the earth, scorching everything like fire," one text stated;
 another, a lamentation over Nippur, recalled "the storm, in a flash
 of lightning created." An atomic mushroom—"a dense cloud that
@@ -894,6 +919,7 @@ spread toward Mesopotamia: "the dense clouds that bring gloom
 from the sky, that bear the gloom from city to city."
 Not one. but several, texts attest that the Evil Wind, bearing the
 cloud of death, was caused by gigantic explosions on a day to remember:
+
 On that day
 When heaven was crushed
 and the Earth was smitten,
@@ -909,18 +935,18 @@ of Launching, the place from which the gods ascended toward
 Anu. In addition, a mount also featured in many of these place
 identifications. In the Erra Epic, the mount near "the place from
 which Great Ones ascend" was called the "Mount Most Supreme"; in one of the lamentations it was called the "Mount of
-Howling Tunnels." This last epithet brings to mind the descriptions, in the Pyramid Texts, of the tunneled mount with sloping underground passages, to which Egyptian Pharaohs journeyed in
-search of an afterlife. In The Stairway to Heaven we have identified it with the mount Gilgamesh had reached in his journey to the
+Howling Tunnels." 
+
+This last epithet brings to mind the descriptions, in the Pyramid Texts, of the tunneled mount with sloping underground passages, to which Egyptian Pharaohs journeyed in search of an afterlife. In The Stairway to Heaven we have identified it with the mount Gilgamesh had reached in his journey to the
 Place of the Rocketships, in the Sinai peninsula.
 Starting from that mount, a lamentation text stated, the blast's
 deadly cloud was carried by the prevailing winds eastward all the
 way "to the boundary of Anshan" in the Zagros Mountains, affecting all of Sumer from Eridu in the south to Babylon in the north.
-The unseen death moved slowly over Sumer, its passage lasting 
-The Nuclear Holocaust 339
-twenty-four hours—a day and a night that were commemorated in
+The unseen death moved slowly over Sumer, its passage lasting 24 hours—a day and a night that were commemorated in
 laments, as in this one from Nippur: "On that day, on that single
 day: on that night, on that single night ... the storm, in a flash of
 lightning created, the people of Nippur left prostrate."
+
 The Uruk Lament vividly describes the confusion among both
 the gods and the populace. Stating that Anu and Enlil had overruled Enki and Ninki when they "determined the consensus" to
 employ the nuclear weapons, the text asserts that none of the gods
@@ -939,6 +965,7 @@ sailing off toward Africa in a "submersible ship" and complaining
 that she had to leave behind her jewelry and other possessions. ... In her own lamentation for Uruk, Inanna/Ishtar bewailed the desolation of her city and her temple by the Evil Wind
 "which in an instant, in a blink of an eye was created in the midst
 of the mountains," and against which there was no defense.
+
 A breathtaking description of the fear and confusion, among
 gods and men alike, as the Evil Wind approached is given in The
 Uruk Lament text, which was written years later as the time of Restoration came. As the "loyal citizens of Uruk were seized with
@@ -951,7 +978,8 @@ Thus all its gods evacuated Uruk:
 They kept away from it;
 They hid in the mountains.
 They escaped to the distant plains. 
-340 THE WARS OF GODS AND MEN
+
+
 In Uruk, the populace was left in chaos, leaderless and helpless.
 "Mob panic was brought about in Uruk ... its good sense was
 distorted." The shrines were broken in and their contents were
@@ -959,6 +987,8 @@ smashed as the people asked questions: "Why did the gods' benevolent eye look aw
 But their questions remained unanswered; and when the Evil Storm
 passed over, "the people were piled up in heaps ... a hush settled
 over Uruk like a cloak."
+
+
 Ninki, we learn from The Eridu Lament, flew away from her
 city to a safe haven in Africa: "Ninki, its great lady, flying like a
 bird, left her city." But Enki left Eridu only far enough to get out
@@ -968,6 +998,8 @@ stayed outside his city .... Father Enki stayed outside the city
 Many of his loyal subjects followed him, camping on its outskirts.
 For a day and a night they watched the storm "put its hand" on
 Eridu.
+
+
 After the "evil-bearing storm went out of the city, sweeping
 across the countryside." Enki surveyed Eridu; he found a city
 "smothered with silence ... its residents stacked up in heaps."
@@ -988,12 +1020,12 @@ back." They were also told not to take with them any food or beverage, for these
 was not possible, Enki advised hiding underground: "Get thee into
 a chamber below the earth, into a darkness," until the Evil Wind
 was gone.
-The storm's slow advance misled some of the gods into costly 
-The Nuclear Holocaust 341
-delays. In Lagash, "mother Bau wept bitterly for her holy temple,
+
+The storm's slow advance misled some of the gods into costly delays. In Lagash, "mother Bau wept bitterly for her holy temple,
 for her city." Though Ninurtu was gone, his spouse could not force
 herself to leave. Lingering behind. "O my city. O my city." she
 kept crying; the delay almost cost her her life:
+
 On that day, the lady—
 the storm caught up with her;
 Bau, as if she were mortal—
@@ -1002,6 +1034,7 @@ In Ur we learn from the lamentations (one of which was composed by Ningal hersel
 and emotional appeal to his father Enlil, seeking some means to
 avert the calamity. But "Enlil answered his son Sin" that the fate
 could not be changed:
+
 Ur was granted kingshipit was not granted an eternal reign.
 Since days of yore, when Sumer was founded,
 to the present, when people have multiplied—
@@ -1014,6 +1047,7 @@ raised" in Ur; yet the god and goddess stayed on; "of that night's
 foulness we did not flee," the goddess stated. Then the affliction
 reached the great ziggurat of Ur, and Ningal realized that Nannar
 "had been overtaken by the evil storm."
+
 Ningal and Nannar spent a night of nightmare, which Ningal
 vowed never to forget, in the "termite house" (underground
 chamber) within the ziggurat. Only next day. when "the storm was
@@ -1022,12 +1056,11 @@ carried off from the city." did "Ningal, in order to go from her city
 Nannar departed from the city they so loved.
 As they were leaving they saw death and desolation: "the people, like potsherds, filled the city's streets; in its lofty gates, where
 they were wont to promenade, dead bodies were lying about; in its
-boulevards, where the feasts were celebrated, scattered they lay; in 
-342 THE WARS OF GODS AND MEN
-all of its streets, where they were wont to promenade, dead bodies
+boulevards, where the feasts were celebrated, scattered they lay; in all of its streets, where they were wont to promenade, dead bodies
 were lying about; in its places where the land's festivities took
 place, the people lay in heaps." The dead were not brought to burial: "the dead bodies, like fat placed in the sun, of themselves
 melted away."
+
 Then did Ningal raise her great lamentation for Ur, the oncemajestic city, head city of Sumer, capital of an empire:
 O house of Sin in Ur,
 bitter is thy desolation . . .
@@ -1039,17 +1072,21 @@ The house has become a house of tears,
 it makes my heart like water . . .
 Ur and its temples
 have been given over to the wind.
+
+
 All of southern Mesopotamia lay prostrate, its soil and waters
 left poisoned by the Evil Wind: "On the banks of the Tigris and
 Euphrates, only sickly plants grew. ... In the swamps grow
 sickly-headed reeds that rot in the stench. . . . In the orchards and
 gardens there is no new growth, quickly they waste away. . . .
+
 The cultivated fields are not hoed, no seeds are implanted in the
 soil, no songs resound in the fields." In the countryside the animals were also affected: "On the steppe, cattle large and small
 become scarce, all living creatures come to an end." The domesticated animals, too, were wiped out: "The sheepfolds have been
 delivered to the wind. . . . The hum of the turning churn resounds
 not in the sheepfold. . . . The stalls provide not fat and
 cheese. . . . Ninurta has emptied Sumer of milk."
+
 "The storm crushed the land, wiped out everything; it roared
 like a great wind over the land, none could escape it; desolating the
 cities, desolating the houses. . . . No one treads the highways, no

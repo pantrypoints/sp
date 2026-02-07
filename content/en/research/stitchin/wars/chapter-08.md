@@ -177,6 +177,7 @@ that it was very good." And so he changed his mind: "He went not
 into the land of his inheritance to the west of the sea [west of the
 Red Sea); he dwelt [instead] in the land of Lebanon, eastward and
 westward of the Jordan."
+
 His father and his brothers tried to dissuade Canaan from such an
 illegal act: "And Ham his father, and Cush and Mizra'im his
 brothers, said unto him: "Thou hast settled in a land which is not
@@ -245,6 +246,7 @@ Hero: in fear of thee, the city has surrendered . . .
 O mighty one—
 the Great Serpent, the heroic god,
 you tore away from all the mountains.
+
 Thus extolling Ninurta, his feats, and his Brilliant Weapon,
 the poem also describes the location of the conflict ("the
 Mountainlands") and his principal enemy: "The Great Serpent," leader of the Egyptian deities. The Sumerian poem
@@ -266,6 +268,8 @@ bears a remarkable resemblance not only to the early biplanes of
 the modem air age, but also an incredible likeness to the sketch
 made in 1497 by Leonardo da Vinci, depicting his concept of a
 man-powered flying machine (Fig. 47b). 
+
+
 The Imdugud was the inspiration for Ninurta's emblem—a heroic lion-headed bird resting on two lions (Fig. 48) or sometimes
 on two bulls. It was in this "crafted ship"—a manufactured
 vehicle—"that which in war destroys the princely abodes," that
@@ -329,6 +333,7 @@ followers to show no resistance: "The arisen Enemy to his wife
 and child called; against the lord Ninurta he raised not his ami. The
 weapons of Kur with soil were covered" (i.e.. hidden away);
 "Azag them did not raise."
+
 Ninurta took the lack of resistance as a sign of victory. A text
 reported by F. Hrozny ("Mythen von dem Gotte Ninib") relates
 how. after Ninurta killed the opponents occupying the land of the
@@ -396,16 +401,19 @@ Horus, we believe—trying to sneak out of the Great Pyramid
 disguised as a ram, was struck by Ninurta's Brilliant Weapon and
 lost the sight of his eyes. An Olden God then cried out to Ninharsag—reputed for her medical wonders—to save the young god's
 life:
+
 At that time the Killing Brightness came;
 The House's platform withstood the lord.
 Unto Ninharsag there was an outcry:
 ". . .the weapon ... my offspring
 with death is accursed. . . . "
+
 Other Sumerian texts call this young god "offspring who did
 not know his father," an epithet befitting Horus, who was born
 after his father's death. In Egyptian lore the Legend of the Ram
 reports the injuries to the eyes of Horus when a god "blew fire"
 at him.
+
 It was then, responding to the "outcry." that Ninharsag decided
 to intervene to stop the fighting.
 The ninth tablet of the Lugal-e text begins with the statement of
@@ -417,6 +425,7 @@ decision to cross the battle lines and bring an end to the hostilities:
 To the House Where Cord-Measuring begins.
 Where Asar his eyes to Anu raised,
 I shall go.
+
 The cord I will cut off,
 for the sake of the warring gods.
 Her destination was the "House Where Cord-Measuring begins," the Great Pyramid!
@@ -586,6 +595,7 @@ Shamash; and the rest were carried off to Mesopotamia, to be
 displayed in Ninurta's temple, in Nippur, and elsewhere as
 constant evidence of the great victory of the Enlilites over the
 Enki-gods.
+
 All this, Ninurta announced, he was doing not only for his sake
 but for future generations, too: "Let the fear of thee"—the Great
 Pyramid—"be removed from my descendants; let their peace be

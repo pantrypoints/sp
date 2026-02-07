@@ -70,6 +70,7 @@ clay and the appearance of pottery. And then, "suddenly and inexplicably"—but 
 high civilization of Sumer. It was followed, circa 3100 B.C., by the
 civilization of the Nile River; and circa 2800 B.C., the third civilization of antiquity, that of the Indus River, made its appearance. These
 were the three regions allotted to mankind; of them evolved the nations of the Near East, Africa, and Indo-Europe—a division faithfully recorded in the Old Testament's Table of Nations.
+
 All that, Sumerian chronicles held, was the result of deliberate
 decisions by the Anunnaki:
 
@@ -77,7 +78,8 @@ The Anunnaki who decree the fates
 sat exchanging their counsels
 regarding the Earth.
 The four regions they created. 
-When Earth Was Divided 131
+
+
 With these simple words, echoed in several Sumerian texts, the
 post-Diluvial fate of Earth and its inhabitants was decided. Three
 regions were allotted to mankind's three civilizations; the fourth
@@ -88,8 +90,9 @@ Sinai peninsula.
 
 Although as far as human habitation was concerned, it was
 the descendants of Shem—"Sand Dwellers" in Egyptian scriptures—who could reside in the unrestricted areas of the peninsula, when it came to allotting the territory among the Anunnaki,
-profound differences arose. Control of the site of the postDiluvial spaceport was tantamount to control of the links between Earth and Nibiru, as the experiences with Kumarbi and Zu
-had so clearly shown. In the rekindled rivalry between the clans
+profound differences arose. Control of the site of the postDiluvial spaceport was tantamount to control of the links between Earth and Nibiru, as the experiences with Kumarbi and Zu had so clearly shown.
+
+In the rekindled rivalry between the clans
 of Enlil and Enki, a neutral authority over the Land of the Missiles was called for.
 The solution was ingenious. Of equal lineage with them was
 their sister Sud. As a daughter of Anu, she bore the title NIN.MAH
@@ -153,6 +156,7 @@ Making a home for his mother in the Sinai's southern region
 of high granite peaks, Ninurta bestowed on her a new title:
 NIN.HAR.SAG ("Lady of the Head Mountain"); it was the title
 by which Sud was to be called ever since.
+
 The term "head mountain" indicates that it was the highest peak
 in the area. This is the mountain nowadays known as Mount St.
 Katherine, a peak revered from antiquity, millennia before the
@@ -213,6 +217,7 @@ to lead to the exact location of the Spaceport on the 30th parallel.
 This, we believe, is how the Landing Grid was laid out, how the
 site of the Spaceport was marked off, and how the great pyramids
 of Giza had come into being.
+
 By suggesting that the great pyramids of Giza were built not by
 Pharaohs but by the Anunnaki millennia earlier, we of course contradict long-held theories concerning these pyramids.
 The theory of nineteenth-century Egyptologists, that the Egyptian
@@ -236,6 +241,7 @@ Vyse and his cronies—had brought into the pyramid a coffin dating
 from about 2.000 years after Menkara had lived, and bones from
 the even much later Christian times, and put the two together in an
 unabashed archaeological fraud.
+
 The current theories regarding the pyramids' builders are anchored to an even greater extent on the discovery of the name
 Khufu inscribed in hieroglyphics within a long-sealed compartment within the Great Pyramid and thus apparently establishing the
 identity of its builder. Unnoticed has gone the fact that the discoverer of that inscription was the same Colonel Vyse and his assistants (the year was 1837). In The Stairway to Heaven we have put
@@ -244,6 +250,7 @@ reader of that book came forward to provide us with family records
 showing that his great-grandfather, a master mason named Humphries Brewer, who was engaged by Vyse to help use gunpowder
 to blast his way inside the pyramid, was an eyewitness to the forgery and, having objected to the deed, was expelled from the site
 and forced to leave Egypt altogether!
+
 In The Stairway to Heaven we have shown that Khufu could not
 have been the builder of the Great Pyramid because he had already
 referred to it as existing in his time in a stela he had erected near the
@@ -276,9 +283,13 @@ The other pyramids of Egypt—smaller, primitive by comparison, some fallen even
 indeed been built by various Pharaohs; not as tombs, nor as cenotaphs (monumental symbolic tombs), but in emulation of the gods.
 For it was held and believed in antiquity that the Giza pyramids and
 the Sphinx that accompanies them showed the way to the Stairway
-to Heaven—the Spaceport—in the Sinai peninsula. Build- 
+to Heaven—the Spaceport—in the Sinai peninsula. 
+
+
 Fig. 39
-ing pyramids so that they might journey to the Afterlife, the Pharaohs adorned them with appropriate symbols, with illustrations of
+
+
+Building pyramids so that they might journey to the Afterlife, the Pharaohs adorned them with appropriate symbols, with illustrations of
 the journey, and in several instances also covered the walls with
 quotations from The Book of the Dead. The three pyramids of Giza,
 unique in their external and internal construction, size, and incredible durability, are also distinguished in that there is no inscription
@@ -287,6 +298,7 @@ or decoration whatsoever inside them. They are just stark, functional structures
 When Earth Was Divided 139
 role not in the service of men but of those "Who From Heaven to
 Earth Came."
+
 The three pyramids of Giza, we have concluded, were built by first
 erecting the smaller Third Pyramid as a scale model. Then, in keeping
 with the preference for twin-peaked focal points, the two large pyramids were erected. Although the Second Pyramid is smaller than the
@@ -296,8 +308,7 @@ it need not have been as tall as the first one.
 Apart from its incomparable size, the Great Pyramid is also
 unique in that, in addition to the descending passage that is found
 in all the other pyramids, it has a unique Ascending Passage, a
-level Corridor, two Upper Chambers, and a series of narrow compartments (Fig. 40). The uppermost chamber is reached via an incredibly elaborate Grand Gallery and an Antechamber that could
-be sealed with one pull of a cord. The uppermost chamber
+level Corridor, two Upper Chambers, and a series of narrow compartments (Fig. 40). The uppermost chamber is reached via an incredibly elaborate Grand Gallery and an Antechamber that could be sealed with one pull of a cord. The uppermost chamber
 contained—still does—an unusual hollowed-out stone block whose
 fashioning required amazing technology and which rang out as a
 bell; above the chamber are the narrow series of low and rugged
@@ -363,24 +374,29 @@ Sphinx near it are located by a river, as the Giza complex is indeed
 located by the Nile. And beyond all that is the body of water on
 which the horned gods are sailing, just as the Egyptians had said
 that their gods had from the south, via the Red Sea.
+
 Fig. 43
+
 The striking similarity between this archaic Sumerian depiction
 and the archaic Egyptian one (Fig. 38a) offers compelling evidence
 of the common knowledge, in Egypt as in Sumer, of the pyramids
 and the Sphinx. Indeed, even in such a minor detail as the precise
 slope of the Great Pyramid—52°—the Sumerian depiction appears
 to be accurate.
+
 The inevitable conclusion, then, is that the Great Pyramid was
 known in Mesopotamia, if for no other reason than because it was
 built by the same Anunnaki who had built the original Ekur in
 Nippur; and likewise and quite logically, it, too, was called by
 them E.KUR—"House Which Is Like a Mountain." Like its predecessor, the Great Pyramid of Giza was built with mysterious
 dark chambers and was equipped with instruments for guiding the
-shuttlecraft to the post-Diluvial Spaceport in the Sinai. And, to as- 
-When Earth Was Divided 143
-sure its neutrality, the Pyramid was put under the patronage of Ninharsag.
+shuttlecraft to the post-Diluvial Spaceport in the Sinai. 
+
+
+And, to assure its neutrality, the Pyramid was put under the patronage of Ninharsag.
 Our solution gives meaning to an otherwise enigmatic poem exalting Ninharsag as mistress of the "House With a Pointed
 Peak"—a pyramid:
+
 House bright and dark of Heaven and Earth,
 for the rocketships put together;
 E.KUR, House of the Gods with pointed peak;
@@ -489,6 +505,7 @@ the monument and its inscription clearly establish that the Great
 Pyramid (and the Sphinx) had already existed when Khufu
 (Cheops) began to reign. All he claimed was to have built the temple to Isis beside the already existing Pyramid and Sphinx:
 Live Horus Mezdau.
+
 To king of Upper and Lower Egypt. Khufu.
 Life is given!
 He founded the House of Isis.
@@ -508,7 +525,7 @@ exact parallel of the Sumerian "House Which Is Like a Mountain"—but also it wa
 had an eastern one. That, we know from the Sumerian sources,
 was the Har-Sag, the highest peak in the Sinai peninsula.
 * * * 
-When Earth Was Divided 149
+
 In spite of the rivalry and suspicions between the two divine
 dynasties, there is little doubt that the actual work of constructing the Spaceport and the control and guidance facilities
 fell into the hands of Enki and his descendants. Ninurta proved
@@ -551,6 +568,7 @@ The sky is jubilating,
 the Earth is shouting of joy.
 The crew of Ra do praising every day;
 He comes forth in triumph.
+
 Egyptian texts asserted that Shu and Tefnut were involved in
 Ra's extensive space-related works by "upholding the skies over
 Earth." Their son Geb bore a name that stemmed from the root
@@ -569,14 +587,13 @@ simply unaware of their existence. But Khufu, it seems, was aware
 of the existence of these two secret chambers within the Great Pyramid, and at one point was on the verge of discovering the plans of
 their construction, for he was told where the god Thoth had hidden
 them.
+
 Written on the so-called Westcar Papyrus and titled "Tales of the
 Magicians," the tale relates that "one day, when king Khufu reigned
 over all the land," he called in his three sons and asked them to tell
 him tales of the "deeds of the magicians" of olden times. First to
 speak was "the royal son Khafra" who related "a tale of the days of
-thy [Khufu's] forefather Nebka . . . of what came to pass when he 
-When Earth Was Divided 151
-went into the temple of Ptah." It was a tale of how a magician brought
+thy [Khufu's] forefather Nebka . . . of what came to pass when he went into the temple of Ptah." It was a tale of how a magician brought
 a dead crocodile back to life. Then the royal son Bau-ef-Ra told of a
 miracle in the days of Khufu's earlier forefather, when a magician
 parted the waters of a lake, so that a jewel could be retrieved from its

@@ -75,6 +75,7 @@ Mankind's existence is diminished . . .
 Rebuild I must my residence
 which in the Deluge was wiped away;
 Its name [I must] call again.
+
 Among the post-Diluvian disorders that bothered Marduk were
 some failures on the part of Erra himself to account for certain divine artifacts—"the instrument of giving orders, the Oracle of the
 Gods; the sign of kingship, the Holy Scepter which contributes
@@ -112,8 +113,7 @@ have you done?" He ordered that a statue of Erra, which had been
 prepared, should not be set up in the Esagil. "Go away!" he ordered Erra. "Take off to where no gods ever go!"
 "Erra lost his voice" only for a moment, then uttered words of
 impudence. Enraged, he smashed Marduk's abode, set fire to its
-gates. Defiantly, "he made a sign" as he turned to leave, announcing that his followers, however, would stay behind: "as to my warriors, they shall not go back." And so it was that when Erra
-returned to Kutha, the men who had come with him stayed behind,
+gates. Defiantly, "he made a sign" as he turned to leave, announcing that his followers, however, would stay behind: "as to my warriors, they shall not go back." And so it was that when Erra returned to Kutha, the men who had come with him stayed behind,
 establishing a long-lasting presence for Nergal in the lands of Shem; a
 colony was assigned to them not far from Babylon, perhaps as a permanent garrison; there were "Kutheans who worship Nergal" in
 Samaria in biblical times; and there was official worship of Nergal in
@@ -124,6 +124,7 @@ latter's retention of an Asian presence unintentionally created an
 alliance between Ishtar and Nergal. The chain of tragic events that
 no one could have predicted and that no one had perhaps even desired was thus being forged by fate, leading the Anunnaki and
 Mankind ever closer to the ultimate disaster. . . .
+
 With her authority restored, Inanna renewed the kingship in
 Agade and put on the throne a grandson of Sargon, Naram-Sin
 ("Sin's Favorite"). Seeing in him, at last, a true successor to Sargon, she encouraged him to seek grandeur and greatness. After a
@@ -131,7 +132,9 @@ brief period of peace and prosperity she goaded Naram-Sin to embark on an expans
 to encroach on the territories of other gods; but they were unable or
 unwilling to fight her: "The great Anunnaki gods fled before you
 like fluttering bats," a hymn to Inanna stated; "they could not 
+
 Fig. 82
+
 stand before your fearsome face . . . could not soothe your angry
 heart." Rock carvings in the annexed territories depicted Inanna as
 the ruthless conqueror she had become (Fig. 83).
@@ -144,11 +147,14 @@ was the Landing Place in the Cedar Mountain. As a Flying
 Goddess Inanna was quite familiar with the place; she "burnt
 down the great gates" of the mountain and, after a brief siege, obtained the surrender of the troops guarding it: "they disbanded
 themselves willingly."
+
 As recorded in the Naram-Sin inscriptions, Inanna then turned
 south along the Mediterranean coast, subduing city after city. The
 conquest of Jerusalem—Mission Control Center—is not specifiPrelude to Disaster 255
-256 THE WARS OF GODS AND MEN
+
+
 Fig. 83
+
 cally mentioned, but Inanna must have been there, too, for it is recorded that she had gone on to capture Jericho. Lying astride the
 strategic Jordan River crossing and opposite the Anunnaki stronghold at Tell Ghassul, Jericho—the city dedicated to Sin—had also
 rebelled: "It said not 'It belongs to your father who begot you": it
@@ -160,14 +166,16 @@ Inanna's father, have switched allegience to another, alien, god.
 The surrender of this "city of date-palms" to an armed Inanna was
 depicted on a cylinder seal (Fig. 84).
 With the conquest of southern Canaan, Inanna stood at the gateway to the Fourth Region, the region of the Spaceport. Sargon had 
-Prelude to Disaster 257
+
 Fig. 84
+
 not dared cross the forbidden line. But Naram-Sin, encouraged by
 Inanna, did. . . .
 
 A Mesopotamian royal chronicle attests that not only did
 Naram-Sin enter the peninsula, but he had gone on to invade the
 land of Magan (Egypt):
+
 Naram-Sin, offspring of Sargon, marched against the town of
 Apishal and made a breach in its wall, conquering it. He personally caught Rish-Adad, king of Apishal, and the vizier of
 Apishal.
@@ -209,6 +217,7 @@ Naram-Sin (or, as it is sometimes called, The King of Kutha Text)
 attests that Naram-Sin went to Kutha, Nergal's cult center in Africa, and erected there a stela to which he affixed an ivory tablet
 inscribed with the tale of this unusual visit, all to pay homage to
 Nergal.
+
 The recognition by Naram-Sin of Nergal's power and influence
 well beyond Africa is attested by the fact that in treaties made between Naram-Sin and provincial rulers in Elam, Nergal is invoked
 among the witness gods. And in an inscription dealing with
@@ -219,11 +228,10 @@ none of the kings has ever destroyed Arman and Ebla,
 Now did the god Nergal open up the path for the mighty NaramSin.
 He gave him Annan and Ebla, presented him with the Amanus
 and with the Cedar Mountain and with the Upper Sea.
-Prelude to Disaster 259
+
 This puzzling emergence of Nergal as an influential Asian deity,
 and the audacious march of Inanna's surrogate Naram-Sin to
-Egypt—all violations of the status quo of the Four Regions established after the Pyramid Wars—have one explanation: While Marduk had shifted his attention to Babylon, Nergal assumed a
-preeminent role in Egypt. Then, having gone to persuade Marduk
+Egypt—all violations of the status quo of the Four Regions established after the Pyramid Wars—have one explanation: While Marduk had shifted his attention to Babylon, Nergal assumed a preeminent role in Egypt. Then, having gone to persuade Marduk
 to leave Mesopotamia without further struggle, the amicable parting turned into a bitter enmity between the brothers.
 And this led to an alliance between Nergal and Inanna; but as
 they stood for each other, they soon found themselves opposed by
@@ -231,12 +239,14 @@ all the other gods. An assembly of the gods was held in Nippur to
 deal with the disruptive consequences of Inanna's exploits; even
 Enki agreed that she had gone too far. And a decree for her arrest
 and trial was issued by Enlil.
+
 We learned of these events from a chronicle titled by scholars
 The Curse of Agade. Deciding that Inanna had indeed gotten
 out of hand, "the word of the Ekur" (Enid's sacred precinct in
 Nippur) was issued against her. But Inanna did not wait to be
 seized or held for trial: she forsook her temple and escaped
 from Agade:
+
 The "word of Ekur" was upon Agade
 like a deathly silence;
 Agade was all atremble.
@@ -282,6 +292,7 @@ aiming to dismantle this symbol of Anu's authority:
 The heavenly kingship was seized by a female . . .
 She changed altogether the rules of Holy Anu,
 Feared not the great Anu.
+
 She seized the E-Anna from Anu—
 that House of irresistible charm, enduring allureOn that House she brought destruction;
 Inanna assaults its people, makes them captive.
@@ -290,12 +301,14 @@ and the resulting downfall of Agade are detailed in The Curse of
 Agade text. From it we gather that after the seven-year wait
 Naram-Sin received further oracles and thereupon "changed his
 line of action." Upon receiving the new orders: 
-Prelude to Disaster 261
+
+
 He defied the word of Enlil,
 Crushed those who had served Enlil,
 Mobilized his troops, and
 Like a hero accustomed to high-handedness
 Put a restraining hand on the Ekur.
+
 Overrunning the seemingly undefended city, "like a bandit he
 plundered it." He then approached the Ekur in the sacred precinct,
 '"erecting large ladders against the House." Smashing his way in,
@@ -311,6 +324,7 @@ came down upon Akkad and its cities "in vast numbers, like locusts . . . nothing
 died on the roof; he who slept inside the house was not brought to
 burial . . . heads were crushed, mouths were crushed ... the
 blood of the treacherous flowed over the blood of the faithful."
+
 Once, and then a second time, the other gods interceded with
 Enlil: "curse Agade with a baleful curse." they said, but let the
 other cities and the farmlands survive! When Enlil finally agreed,
@@ -364,8 +378,9 @@ grew, Ninurta decided to convert Lagash into a major Sumerian
 center, the principal abode for himself and his spouse Bau/Guia
 (Fig. 85), where his ideas of law and order and his ideals of morality and justice could be practiced. To assist in these tasks Ninurta
 appointed in Lagash human viceroys and charged them with the administration and defense of the city-state. 
-Prelude to Disaster 263
+
 Fig. 85
+
 The history of Lagash (a site nowadays called Tello) records
 a dynasty whose reign—uninterrupted for half a millenniumbegan three centuries before the rise of Sargon. An island of
 armed stability in an increasingly violent environment, Lagash
@@ -374,6 +389,7 @@ Festival of First Fruits. Its scribes and scholars perfected the
 Sumerian language; and its rulers, to whom Ninurta granted the
 title "Righteous Governor," were sworn to a code of justice and
 morality.
+
 Prominent among the very First rulers of the long dynasty of Lagash was one named Ur-Nanshe (circa 2600 B.C.). More than Fifty
 of his inscriptions were found in the ruins of Lagash; they record
 the bringing of building materials for the Girsu, including special
@@ -405,6 +421,7 @@ him; and "because she loved Eannatum, kingship over Kish she gave
 him. in addition to the governorship of Lagash." With this Eannatum
 became the LU.GAL ("Great Man") of Sumer; and holding the land
 in a military grip, he made law and order prevail. 
+
 Fig. 87
 
 Ironically the chaotic period that had preceded Sargon of Agade
@@ -423,12 +440,13 @@ continued uninterrupted in Lagash; even the great Sargon skirted
 Lagash and left it intact. It escaped destruction and occupation
 throughout the upheavals of Naram-Sin, primarily because it was a
 formidable military stronghold, fortified and refortified to withPrelude to Disaster 265
-266 THE WARS OF GODS AND MEN
+
 stand all attacks. We learn from an inscription by Ur-Bau, the viceroy at Lagash at the time of the Naram-Sin upheavals, that he was
 instructed by Ninurta to reinforce the walls of the Girsu and to
 strengthen the enclosure of the Imdugud aircraft. Ur-Bau "compacted the soil to be as stone . . . fired clay to be as metal''; and at
 the Imdugud's platform "replaced the old soil with a new foundation," strengthened with huge timber beams and stones imported
 from afar.
+
 When the Gutians left Mesopotamia—circa 2160 B.C.—Lagash
 burst into new bloom and produced some of Sumer's most enlightened and best-known rulers. Of these, one of the best-known from
 his long inscriptions and many statues was Gudea, who reigned
@@ -450,6 +468,7 @@ Ningishzidda. He handed to Gudea a tablet made of precious
 stone; "the plan of a temple it contained." One of Gudea's statues
 depicts him seated with this tablet on his knees, the divine stylus
 beside it (Fig. 88).
+
 Gudea admits that he needed the help of diviners and "searchers
 of secrets" to understand the temple plan. It was, as modern researchers have found, an ingenious one-in-seven architectural plan
 for the construction of a ziggurat as a seven-stage pyramid. The
@@ -458,8 +477,9 @@ of Ninurta's airborne vehicle.
 The participation of Ningishzidda in the planning of the ENinnu carried a significance that went beyond mere architectural
 assistance, as evidenced by the fact that the Girsu included a special shrine for this god. Associated with healing and magical powers, Ningishzidda—a son of Enki—was deemed in Sumerian
 inscriptions to have known how to secure the foundations of tern- 
-Prelude to Disaster 267
+
 Fig. 88
+
 ples; he was "the great god who held the plans." As we have already suggested, Ningishzidda was none other than Thoth, the
 Egyptian god of magical powers who was appointed guardian of
 the secret plans of the pyramids of Giza.
@@ -489,16 +509,16 @@ when the kings of the IX and X dynasties (2160 to 2040 B.C.) abandoned the worsh
 Memphis to a city the Greeks later called Heracleopolis. The departure of Thoth from Egypt may thus have been an aspect of the
 upheavals occurring there, as was his subsequent disappearance
 from Sumer. Ningishzidda (to quote E. D. van Buren, The God
-Ningizzida) was "a god called forth from obscurity in Gudea's 
-Prelude to Disaster 269
-time," only to become a "phantom god" and a mere memory in
+Ningizzida) was "a god called forth from obscurity in Gudea's time," only to become a "phantom god" and a mere memory in
 later (Babylonian and Assyrian) times.
+
 The Era of Ninurta in Sumer, lasting through the Gutian invasion and the ensuing period of reconstruction, was only an interlude. A mountain dweller at heart, Ninurta soon began to roam the
 skies again in his Divine Black Bird, visiting his rugged domains in
 the northeast and even farther away. Constantly perfecting the
 martial arts of his highland tribesmen, he gave them mobility
 through the introduction of cavalry, thereby extending their reach
 by hundreds and even thousands of miles.
+
 He had returned to Mesopotamia at Enlil's call, to put an end to
 the sacrilege perpetrated by Naram-Sin and to the upheavals caused
 by Inanna. With peace and prosperity restored, Ninurta again absented himself from Sumer; and, never one to give up, Inanna
@@ -510,6 +530,7 @@ magical sword, which was imbedded in a rock and could be pulled
 out only by the one who was chosen for kingship); and it throws
 light on preceding events, including the incident by which Sargon
 had offended Marduk.
+
 We learn that when "Kingship was lowered from Heaven" to
 begin at Kish, Anu and Enlil established there a "Pavilion of
 Heaven." "In its foundation soil, for all days to come," they
@@ -523,6 +544,7 @@ city and not one of the cities selected by "the great gods of Heaven
 and Earth" to be royal capitals. The gods who chose Agade—
 Inanna and her supporters—were in Marduk's opinion "rebels,
 gods who wear unclean clothing."
+
 It was to cure this defect that Sargon went to Babylon to the spot
 where its "hallowed soil" was located. The idea was to remove
 some of that soil "to a place in front of Agade," there to implant
@@ -552,20 +574,13 @@ The era that followed—let us call it the Era of Nannar—was one of
 the most glorious in Sumerian annals; it was also Sumer's last hurrah.
 His first order of business was to make his city, Ur, a great metropolis and the capital of a vast empire. Appointing a new line of
 rulers, known by scholars as the Third Dynasty of Ur, Nannar
-achieved for this capital and for Sumerian civilization unprecedented peaks of material and cultural advancements. From an immense ziggurat that dominated the walled city (Fig. 90)—a ziggurat
-whose crumbled remains, after more than four thousand years, still
+achieved for this capital and for Sumerian civilization unprecedented peaks of material and cultural advancements. From an immense ziggurat that dominated the walled city (Fig. 90)—a ziggurat whose crumbled remains, after more than four thousand years, still
 rise awesomely from the Mesopotamian plain—Nannar and his
 spouse Ningal took an active part in the affairs of state. Attended
 by a hierarchy of priests and functionaries (headed by the king,
 Fig. 91), they guided the city's agriculture to become the granary
-of Sumer; directed its sheep breeding to make Ur the wool and gar- 
-Prelude to Disaster 271
-Fig. 90
-Fig. 91 
-272 THE WARS OF GODS AND MEN
-ment center of the ancient Near East: and developed a foreign trade
-by land and water that made the merchants of Ur remembered for
-millennia thereafter. To service this thriving trade and the far-flung
+of Sumer; directed its sheep breeding to make Ur the wool and garment center of the ancient Near East: and developed a foreign trade
+by land and water that made the merchants of Ur remembered for millennia thereafter. To service this thriving trade and the far-flung
 links, as well as to improve the city's defenses, the city's surrounding wall was in turn surrounded by a navigable canal, serving two
 harbors—a West Harbor and a North Harbor—with an inner canal
 connecting the two harbors and in turn separating the sacred precinct and the palace and administrative quarter from the residential
@@ -575,6 +590,11 @@ pearl from a distance; whose streets were straight and wide, with
 many a shrine at their intersections: a city of an industrious people
 with a smooth-functioning administration; a city of pious people,
 never failing to pray to their benevolent deities.
+
+Fig. 90
+Fig. 91 
+
+
 The first ruler of the Third Dynasty of Ur. Ur-Nammu ("The
 Joy of Ur") was no mere mortal: he was semi-divine, his mother
 being the goddess Ninsun. His extensive records state that as soon
@@ -597,16 +617,18 @@ basket of a builder (Fig. 94). When the work was completed, Enlil
 and Ninlil returned to Nippur to reside in their restored abode.
 "Enlil and Ninlil were happy there," a Sumerian inscription
 stated.
+
 The Return-to-Righteous-Ways involved not only social justice
 among people, but also proper worship of the gods. To that effect
 Ur-Nammu, in addition to the great works in Ur, also restored and
-enlarged the edifices dedicated to Anu and Inanna at Erech, to 
-Prelude to Disaster 273
-Fig. 92 
-Fig. 93
-Ninsun (his mother) at Ur, to Utu at Larsa, to Ninharsag at Adab;
+enlarged the edifices dedicated to Anu and Inanna at Erech, to Ninsun (his mother) at Ur, to Utu at Larsa, to Ninharsag at Adab;
 he also engaged in some repair work at Eridu. Enki's city. Conspicuously absent from the list are Ninurta's Lagash and Marduk's
 Babylon.
+
+
+Fig. 92 
+Fig. 93
+
 
 The social reforms of Ur-Nammu and Ur's achievements in commerce and industry have led scholars to view the times of the
 Third Dynasty as a period not only of prosperity, but also of peace.
@@ -627,6 +649,7 @@ rejoiced greatly with Ur-Nammu," after Ur-Nammu then rebuilt the
 Ekur in Nippur, Enlil found him worthy of holding the Divine
 Weapon; with it Ur-Nammu was to subdue '"evil cities" in "foreign lands":
 The Divine Weapon.
+
 that which in the hostile lands
 heaps up the rebels in piles,
 to Ur-Nammu. the Shepherd,
@@ -668,6 +691,7 @@ arranged for the child to be conceived at Enlil's shrine in Nippur.
 through a union between Ur-Nammu and Enlil's high priestess, so
 that "a little 'Enlil' ... a child suitable for kingship and throne,
 shall be conceived."
+
 The new king began his long reign by choosing to keep together
 his far-flung empire through peaceful means and religious reconciliation. As soon as he ascended the throne, he embarked on the
 building (or rebuilding) of a temple for Ninurta in Nippur; this enabled him to declare Ur and Nippur to be "Brother-Cities." He
@@ -686,13 +710,12 @@ arriving from the direction of the Dead Sea, had also stopped to
 pray and make offerings to the gods at that gateway place, situated
 between the Negev and the Sinai proper. There Shulgi built an altar
 to the "God Who Judges."
+
 It was the eighth year of Shulgi's reign as he began the journey
 back to Sumer. His route via the Fertile Crescent began in Canaan
 and Lebanon, where he built altars at the "Place of Bright Oracles" and "The Snow-covered Place." It was a deliberately slow
 journey, intended to strengthen the imperial bonds with the distant
-provinces. It was as a result of this journey that Shulgi built a net- 
-278 THE WARS OF GODS AND MEN
-work of roads that held the empire together politically and
+provinces. It was as a result of this journey that Shulgi built a network of roads that held the empire together politically and
 militarily and also enhanced trade and prosperity. Getting personally acquainted with the local chieftains, Shulgi further cemented
 his ties with them by arranging marriages for his daughters.
 Shulgi returned to Sumer, boasting that he had learned four foreign languages. His imperial prestige was at its peak. In gratitude
@@ -769,6 +792,7 @@ defensive measures. These included the strengthening of the Wall
 of the West against the Amorites and the construction of two ships:
 the "Great Ship" and the "Ship of the Abzu." It looks as though
 Shu-Sin was preparing an escape by sea. . . .
+
 When the next (and last) king of Ur, Ibbi-Sin, ascended the
 throne, raiders from the west were clashing with the Elamite mercenaries in Mesopotamia proper. Soon Sumer's heartland was under siege; the people of Ur and Nippur were huddled behind
 protective walls, and the influence of Nannar had shrunk to a small

@@ -140,10 +140,11 @@ or enshrined within the Great Pyramid, a new theory gained adherents: The Well S
 that had developed in the rock as a result of an earthquake. The
 most articulate proponents of such a theory were the brothers John
 and Morton Edgar (The Great Pyramid Passages and Chambers),
-who, motivated by a religious zeal which saw in the pyramid an expression in stone of biblical prophecies, visited, cleared, examined, measured, and photographed every known part of the
-pyramid. They showed conclusively that the upper short horizontal
+who, motivated by a religious zeal which saw in the pyramid an expression in stone of biblical prophecies, visited, cleared, examined, measured, and photographed every known part of the pyramid. They showed conclusively that the upper short horizontal
 passage to the Well Shaft (A), as well as the uppermost vertical section (B), were part and parcel of the original construction of the
-pyramid (Fig. 69). They also found that the lower vertical section
+pyramid (Fig. 69). 
+
+They also found that the lower vertical section
 (D) was carefully built with masonry blocks as it passed through a
 cavity (nicknamed The Grotto) in the bedrock (Fig. 70); it could
 have been so constructed only when the rock face was still exposed, before the Grotto was covered up with the masonry of the
@@ -165,7 +166,9 @@ Though the theories of the Edgars (further expounded by Adam
 Rutherford in Pyramidology) have been adopted by all such pyramidologists as well as by some Egyptologists, they still fall short of
 solving the enigmas. If the long sections E and F were emergency
 Inspection Shafts—why their precise and time-consuming construction? What was the purpose of the original vertical sections B  and D? When and why was the irregular, twisting section C forced
-through the masonry? And what about the granite plugs: Why were
+through the masonry? 
+
+What about the granite plugs: Why were
 they needed if there had been no funeral and no burial? To these
 questions there has been no satisfactory answer, neither by pyramidologists nor by Egyptologists.
 Yet the arduous and zealous measuring and remeasuring by both
@@ -213,12 +216,13 @@ Why, for that matter—a fact that has gone completely unnoticed—is segment E 
 connecting shaft, did it not simply continue until it reached the Descending Passage but instead turned at an angle to become segment
 F? And why is this segment, F— another unnoticed featureinclined to the Ascending Passage at the precise right angle of 90°?
 To answer these questions we have asked ourselves: How did
-the pyramid's architects design and achieve these symmetries, perfect alignments, and remarkable geometric congruations? The solution we have come up with can best be illustrated by a drawing
-(Fig. 71); it is a layout plan of the pyramid's insides, prepared by
+the pyramid's architects design and achieve these symmetries, perfect alignments, and remarkable geometric congruations? The solution we have come up with can best be illustrated by a drawing (Fig. 71); it is a layout plan of the pyramid's insides, prepared by
 us—we believe—as it might have been drawn by the pyramid's
 own builders: a simple, yet ingenious, architectural plan that
 achieves the impressive symmetry, alignments, and perfection
 with the aid of a few lines and three circles!
+
+
 The construction of the pyramid began with the leveling of the
 rocky knoll on which it was to rise. To give the structure greater
 stability the rock was cut to the Base Level only near the pyramid's
@@ -226,8 +230,7 @@ circumference; at its core the face of the rock was higher, rising in
 stages. It was then, we believe, that the Grotto—a natural deformity in the rock or perhaps an artificial cavity—was selected as the
 point where the structure's alignments were to begin.
 There, the first of the shafts, D, was placed vertically through
-the Grotto—partly cut through the rock and partly built with masonry blocks (see Fig. 70). Its height (see Fig. 71) delineates precisely the distance from the Base Level to the level where the rock
-ends and the masonry begins at the pyramid's core.
+the Grotto—partly cut through the rock and partly built with masonry blocks (see Fig. 70). Its height (see Fig. 71) delineates precisely the distance from the Base Level to the level where the rock ends and the masonry begins at the pyramid's core.
 
 Fig. 71 
 
@@ -249,11 +252,13 @@ the common cubit of 24 fingers nor the Royal cubit of 28 fingers
 Newton concluded that an enigmatic "Sacred Cubit" of some
 25.2" was used not only in the construction of the pyramid but also
 in the construction of Noah's Ark and the temple in Jerusalem.
+
 Both Egyptologists and pyramidologists now accept this conclusion as far as the pyramid is concerned. Our own calculations show
 that the radius adopted for the three circles envisioned by us was
 equal to 60 such Sacred Cubits; the number 60 being, not accidentally, the base number of the Sumerian sexagesimal mathematical
-system. This measure of 60 Sacred Cubits is dominant in the
-lengths and heights of the pyramid's inner structure as well as in
+system.
+
+This measure of 60 Sacred Cubits is dominant in the lengths and heights of the pyramid's inner structure as well as in
 the dimensions of its base.
 
 Having selected the radius, the three circles were drawn; and
@@ -268,6 +273,7 @@ which the King's Chamber and the Antechamber were to be placed
 (the 5-U-K line) and the Grand Gallery was to end. Projected
 downwards, the E slope determined point P at which the Descending Passage was to end. and the vertical line from P determined the
 Down Step S in the upper Horizontal Passage.
+
 Turning to the third circle, we see that its center (Point 3) marked the vertical center line of the pyramid. Where it intersected
 the half-area Line, the Great Up Step (U) was placed, marking the
 end of the Grand Gallery and the beginning of the King's Chamber
@@ -339,8 +345,9 @@ Inanna/Ishtar—another cause for Marduk's suspicions and dislike.
 The tale of Dumuzi and Inanna—he a son of Enki. she a granddaughter of Enlil—reads like an ancient tale of Romeo and Juliet.
 Like Shakespeare's drama, it, too, ended in tragedy, death, and revenge.
 The first presence of Inanna/Ishtar in Egypt is mentioned in the
-Edfu text dealing with the First Pyramid War. Called there Ashtoreth (her Canaanite name), she is said to have appeared on the battlefield among the advancing forces of Horus. The reason for this
-inexplicable presence in Egypt might have been to visit her
+Edfu text dealing with the First Pyramid War. Called there Ashtoreth (her Canaanite name), she is said to have appeared on the battlefield among the advancing forces of Horus. 
+
+The reason for this inexplicable presence in Egypt might have been to visit her
 bridegroom Dumuzi. through whose district the fighting force was
 passing. That Inanna had gone to visit Dumuzi ("The Herder") in
 his faraway rural district, we know from a Sumerian text. It tells us
@@ -387,6 +394,7 @@ I had a vision of a great nation
 choosing Dumuzi as God of its country . . .
 For I have made Dumuzi's name exalted,
 I gave him status.
+
 With all that it was not a happy union, for it did not produce an
 heir—an essential requirement, it appears, for carrying out the divine ambitions. Thus it came to pass that in an attempt to have a
 male heir, Dumuzi resorted to a tactic adopted way back by his
@@ -426,16 +434,16 @@ Abraham and his sonless wife Sarah, who offered him her maidservant so that he m
 Aware that he had done a horrible deed, Dumuzi was soon thereafter seized with a premonition that he was to pay for his deed with
 his life, as told in the Sumerian text SHA.GA.NE. IR IM.SHI—
 "His Heart Was Filled With Tears." Composed in the form of a
-self-fulfilling dream, the text relates how Dumuzi fell asleep and 
-The Prisoner in the Pyramid 219
-dreamed that all his attributes of status and property were being
+self-fulfilling dream, the text relates how Dumuzi fell asleep and dreamed that all his attributes of status and property were being
 taken away from him one by one, by the "Princely Bird'* and a falcon. The nightmare ended with Dumuzi seeing himself lying dead
 in the midst of his sheepfolds.
+
 Waking up, he asked his sister Geshtinanna to tell him the meaning of the dream. "My brother." she said, "your dream is not favorable, it is very clear to me." It foretold "bandits rising against
 you from ambush . . . your hands will be bound in handcuffs,
 your amis will be bound in fetters." No sooner had Geshtinanna
 finished talking than the evil ones appeared beyond the hill and
 caught Dumuzi.
+
 Bound in handcuffs and fetters. Dumuzi cried out an appeal to
 Utu/Shamash: "O Utu. you are my brother-in-law, I am your sister's husband. . . . Change my hands into a gazelle's hands,
 change my feet into a gazelle's feet, let me escape the evil ones!"
@@ -447,6 +455,7 @@ the drinking cups were overturned; the evil ones closed in on him—
 all as he had seen in his dream. And in the end:
 The drinking cups lay on their side;
 Dumuzi was dead.
+
 The sheepfold was thrown into the wind.
 The arena of these events, in this text, is a desertlike plain neara
 river. The geography is enlarged upon in another version of the
@@ -491,6 +500,7 @@ have been a male, the Lord Bilulu (EN.BILULU) in disguise, and
 the very deity who directed the punitive action against Dumuzi.
 Akkadian texts dealing with divine epithets explained that EnBilulu was il Marduk sha hattati, "the god Marduk who had
 sinned," and "The Sorrower of Inanna."
+
 Having disapproved of the Dumuzi-Inanna love match from the
 beginning, Marduk no doubt was even more opposed to the union
 after the Pyramid Wars. The rape of Geshtinanna by Dumuzi—
@@ -499,10 +509,9 @@ block the designs Inanna had on Egypt, by seizing and punishing
 Dumuzi. Did Marduk intend to put Dumuzi to death? Probably
 not; solitary exile was the customary punishment. The death of
 Dumuzi, in a manner that has remained unclear, was probably accidental.
-But whether accidental or not was irrelevant to Inanna. As far as 
-The Prisoner in the Pyramid 221
-she was concerned, Marduk had caused her beloved's death. And.
+But whether accidental or not was irrelevant to Inanna. As far as she was concerned, Marduk had caused her beloved's death. And.
 as the texts make clear, she sought revenge:
+
 What is in holy Inanna's heart?
 To Kill!
 To kill the Lord Bilulu.
@@ -519,9 +528,9 @@ Thou touchest the sky with thy tip . . .
 Yet I shall destroy thee.
 To the ground 1 shall fell thee . . .
 Inside thine heart pain I will cause.
+
 That The Mountain was the Great Pyramid, that the confrontation was at Giza in Egypt, is evident not only from the texts, but
-also from a depiction on a Sumerian cylinder seal (Fig. 73). Inanna—shown in her familiar enticing, half-naked pose—is seen confronting a god based upon three pyramids. The pyramids are
-depicted exactly as they appear to view in Giza: the Egyptian ankh
+also from a depiction on a Sumerian cylinder seal (Fig. 73). Inanna—shown in her familiar enticing, half-naked pose—is seen confronting a god based upon three pyramids. The pyramids are depicted exactly as they appear to view in Giza: the Egyptian ankh
 sign, the priest in an Egyptian headdress, and the entwined serpents add up to one locale: Egypt.
 As Inanna continued to challenge Marduk, now hiding inside the
 mighty structure, her fury rose as he ignored her threats. "For the
@@ -530,7 +539,9 @@ me to enter inside The Mountain!' " Flaunting her weapons, she
 haughtily announced: "Into the heart of The Mountain I shall
 penetrate. . . Inside The Mountain, my victory I shall establish!"
 Getting no response, she began her attack: 
+
 Fig. 73
+
 She ceased not striking the sides of E-Bih
 and all its corners,
 even its multitude of raised stones.
@@ -545,6 +556,7 @@ called A.ZAG and nicknamed The Great Serpent—a name and a
 derogatory Enlilite epithet for Marduk. His hiding place is also
 clearly identified as "the E.KUR, whose walls awesomely reach
 the skies"—the Great Pyramid.
+
 The record of the trial and sentencing of Marduk is available
 from a fragmentary text published by the Babylonian Section of the
 Museum of the University of Pennsylvania. The extant lines begin
@@ -568,6 +580,7 @@ Standing there, in sight of the pyramids, with Marduk fresh out
 of his hiding place, the solution dawned on Inanna, and she proceeded to address the gods:
 On this day, the Lady herself,
 She who speaks truth.
+
 The accuser of Azag. the great princess.
 An awesome judgment uttered.
 There was a way to sentence Marduk to death without actually
@@ -589,8 +602,8 @@ Through the channels leading from the "King's Chamber" to
 the north and south faces of the pyramid. Marduk had air to
 breathe: but he had neither food nor water. He was buried alive,
 doomed to die in agony. 
-224 THE WARS OF GODS AND MEN
-* * *
+
+
 The record of Marduk's entombment, alive, within the Great
 Pyramid has been preserved on clay tablets found in the ruins of
 Ashur and Nineveh, the ancient Assyrian capitals. The Ashur text
@@ -607,6 +620,7 @@ New Testament tale of the death and resurrection of Jesus.
 But, as the text relates, Marduk or Bel ("The Lord") did not
 die; he was indeed incarcerated inside The Mountain as in a tomb;
 but he was entombed alive.
+
 The ancient "script" begins with an introduction of the actors.
 The first one "is Bel, who was confined in The Mountain." Then
 there is a messenger who brings the news of the imprisonment to
@@ -635,10 +649,12 @@ separating him from among the living.
 Into the House of Captivity,
 away from the sun and light,
 they put him in prison.
+
 The drama has reached its ominous peak: Marduk is dead. . . .
 But wait—all hope is not lost! Sarpanit recites an appeal to the
 two gods who can approach Inanna regarding Marduk's incarceration, her father Sin and her brother Utu/Shamash: "She prays to
 Sin and Shamash, saying: 'Give life to Bel!' "
+
 Priests, a stargazer, and messengers now appear in procession,
 reciting prayers and incantations. Offerings are made to Ishtar,
 "that she may show her mercy." The high priest appeals to the supreme god, to Sin and to Shamash: "Restore Bel to life!"
@@ -658,12 +674,12 @@ sinner," he says, and thereby seals the captive's fate.
 The priests grab The Evildoer; he is slain: "The one whose sin it
 was" is carried away in a coffin. The murderer of Dumuzi has paid
 with his life.
+
 But is the sin of Marduk—as the indirect cause of Dumuzi's
 death—atoned? Sarpanit reappears, wearing the Garments-ofAtonement. Symbolically she wipes away the blood that has been
 spilled. With pure water she washes her hands: "It is water for
-hand-washing which they bring after The Evildoer has been carried 
-226 THE WARS OF GODS AND MEN
-away." In "'all the sacred places of Bel" torches are lit. Again, appeals are directed to the supreme god. The supremacy of Ninurta,
+hand-washing which they bring after The Evildoer has been carried away." In "'all the sacred places of Bel" torches are lit. Again, appeals are directed to the supreme god. The supremacy of Ninurta,
+
 which had once been proclaimed when Ninurta vanquished Zu, is
 reasserted, apparently to allay any fear that a released Marduk
 might become a challenger for supremacy among the gods. The appeals succeed, and the supreme god sends the divine messenger
@@ -672,6 +688,8 @@ As a gesture of good will, Gula (the spouse of Ninurta) sends to
 Sarpanit new clothing and sandals for Marduk; Marduk's driverless chariot also appears. But Sarpanit is dumbfounded: she cannot
 understand how Marduk can be free again if he had been imprisoned in a tomb that cannot be unsealed: "How can they let him
 free, the one who cannot come out?"
+
+
 Nusku. the divine messenger, tells her that Marduk shall pass
 through SA.BAD, the "chiseled upper opening." He explains that
 it is
@@ -697,6 +715,7 @@ Still familiar with the pyramid's inner layout, the Anunnaki realized that the s
 and D—a tunneling of a mere thirty-two feet through the relatively
 soft limestone blocks; it was a task that could be achieved not in
 days but in hours.
+
 Removing the stone that covered the Well Shaft's entrance from
 the Descending Passage to G, the rescuers quickly climbed up inclined segments Fand E. Where E connected with vertical segment
 D, a granite stone covered the entrance in the Grotto: it was pushed
@@ -711,6 +730,7 @@ It was the rescuers of Marduk, we suggest, who used their tools
 to break through the limestone blocks, the link between D and B:
 "a hollowing into its insides they shall twistingly bore," in the
 words of the ancient text.
+
 Achieving the linkup with B, they clambered to the short, horizontal passage, A. There, any stranger would have stopped short
 even if he had gone that far up, for all he would have seen would be
 a stone wall—solid masonry. Again we suggest that only the Anunnaki, who had the pyramid's plan, could have known that beyond
@@ -720,6 +740,7 @@ and passages of the pyramid.
 To gain access to those chambers and passages it was necessary
 to remove the wedgelike ramp stone (Fig. 72). But it was wedged
 too tightly and could not be moved.
+
 If the stone would have been moved away, it would have still
 been lying there, in the Grand Gallery. Instead, there is a gaping
 hole (Fig. 68), and those who have examined it have invariably
@@ -729,9 +750,9 @@ Shaft: "the hollow has the appearance of having been burst open
 by tremendous force from within" the Shaft (Rutherford. Pyramidology).
 Again the Mesopotamian record offers a solution. The stone was
 indeed removed from within the horizontal passageway, because it
-was from there that the rescuers had arrived. And it was indeed 
-228 THE WARS OF GODS AND MEN
-"burst open by a tremendous force"; in the words of the ancient
+was from there that the rescuers had arrived. 
+
+It was "burst open by a tremendous force"; in the words of the ancient
 text, "Getting near, into its midst they will break through." The
 fragments of the limestone block slid down the Ascending Passage, down all the way to the granite plugs; that is where Al
 Mamoon's men found them. The explosion also covered the Grand
