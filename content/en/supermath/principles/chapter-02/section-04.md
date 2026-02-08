@@ -1,53 +1,52 @@
 ---
 heading: "Section 4"
-title: "Fractals"
-date: 2025-11-06
-image: "/photos/objects/fractal.jpg"
+title: "The Periodic Table of Elements as Qualitative Instances"
+date: 2025-03-18
+image: "/graphics/physics/pentagonic.jpg"
 description: ""
-weight: 900
+weight: 21
+# was chapter 2b
 ---
 
 
+Supermath bridges the numerical nature of Math with the qualitative nature of Qualimath.
 
-A fractal is an infinitely complex geometric shape with a repeating pattern that is self-similar across different scales.
+The previous section explained that the natural spin or vibration of instances make them easily applicable in geometries. 
 
-If you zoom in on a part of a fractal, it will look similar to the whole image. 
+Each geometry interacts differently with others as it gets a different quality in relation to other qualities.
 
-Fractals are found in nature, such as in coastlines, snowflakes, and tree branches, and can be generated through repeating a simple mathematical process. 
+This manifests most obviously in chemistry as chemical reactions. 
 
-
-## Dynamic Fractals Versus Static Shapes
-
-Chapter 1 Section 3 explained that fractals are spirals caused by relationality as division or the 2nd property of waves (density). 
-
-Instead of looping as static circles, they form 3D spirals because of unit voids (as imaginary numbers or probabilities).
-
-This then is proof of:
-- time being made up of independent moments
-- space being made up of independent slices
+Numerically, this is seen in the periodic table of elements. 
 
 
-In Material Superphysics, this will be used for teleportation. This is embodied in our aethereal Cartesian Plane.
-
-In Bio Superphysics, this will be used to get out of the spin or pull of disease. This is embodied in our 10 point model which is version of the aethereal Cartesian Plane.
-
-In Supereconomics, this will be used to drive prosperity and make businesses and economies more efficient, with all productive forces spinning in harmony. This is embodied in our DCIT model which is based on the 4 properties of waves.
-
-In Supersociology, this will prevent war and lead to a world government that harmonizes national spins.  This is based on the 4 social cycles or spins. 
-
-In Spiritual Superphysics, this will be used to gain higher states of mind. This is based on the 4 paths to yoga. 
+![Elements](/graphics/physics/pentagonic.jpg)
 
 
+For example, we can compare the numeric and qualitative properties of each element:
 
-<!-- They do not 
+Name | Number | Quality
+--- | --- | ---
+Hydrogen | 1 | lightweight
+Helium | 2 | stable
+Lithium | 3 | reactive
+Beryllium | 4 | toxic 
+Boron | 5 | Semiconducting
+Carbon | 6 | Versatile (Allotropic)
+Nitrogen | 7 | Abundant
+Oxygen | 8 | Life-Giving
 
-Superphysics organizes everything into waves and nodes or particles.
-- Waves are dynamic and continuous
-- Nodes are static and discrete
 
-We use shapes such as points, triangles, spheres, and pentagons for the static parts of Nature such as the 5 Elements. 
+This gives a quality for each material number:
 
-We use fractals which are repeating patterns within these shapes to show the dynamic effect of the 2 Forces persisting in Nature.
+1. Lightweight
+2. Stable
+3. Reactive
+4. Toxic
+5. Semiconducting
+6. Versatile
+7. Abundant
+8. Life-giving
 
 
- -->
+

@@ -70,6 +70,9 @@ They are connected to Nature and interact with native indigenous tribes.
 
 The Anunnaki are now Lyrans that are the origin of the Plaedians. 
 
+Some Plaedians are on Earth. 
+
+
 
 ### Sirians
 

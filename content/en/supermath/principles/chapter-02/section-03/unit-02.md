@@ -1,23 +1,31 @@
 ---
-heading: "Section 3"
+heading: "Unit 2"
 title: "Imaginary Numbers as Unit Void"
 date: 2025-12-27
 image: "/graphics/super/vortex.jpg"
 description: ""
-weight: 26
+weight: 6
 ---
 
 
 
 Whole numbers and rational numbers imply staticity whereas irrational numbers imply dynamism.
+ 
+Imaginary numbers are a dimension higher than the current one. This is why we call it an aethereal constant that can be applied into various sciences, not just Physics. 
+- This is why Descartes called it an *unreal* number
 
-Imaginary numbers are a dimension higher than the current one. 
+While irrational numbers are on the same dimension continuing laterally, imaginary numbers are on a higher dimension acting as a template or filler for the current dimension.
 
-While irrational numbers are on the same dimenion continuing laterally, imaginary numbers are on a higher dimension acting as a template or filler for the current dimension.
+`i` or imaginary number is the square root of -1. 
+- From the view of the Negative Force, this can be seen as a unit void which is probabilistic
+- From the view of the Postiive Force, this can be seen as a unit spin which is also probabilistic
 
-In Physics, this is best seen as `i` in the Schrodinger Equation.
 
-An imaginary number is the square root of -1. 
+
+In Physics, this is best seen as `i` in the Schrodinger Equation which is probabilistic.
+
+<!-- An imaginary number is the square root of -1.  -->
+
 
 
 The History of Imaginary Numbers:
@@ -32,6 +40,8 @@ Year | Event
 1797 | Caspar Wessel(Norway) first plots complex numbers as points in plane
 1806 | Jean-Robert Argand independently develops same idea
 1831 | Carl Friedrich Gauss  publishes comprehensive geometric interpretation. Complex numbers become **2D vectors**: $a + bi = (a, b)$
+
+
 
 ### **Application Boom**
 - **Fluid dynamics:** Complex potentials for incompressible flow (d'Alembert, Euler)

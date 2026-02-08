@@ -10,6 +10,17 @@ weight: 14
 
 Arithmetic is the basic core of mathematics that uses 4 operations from the flow which matches the 4 properties of waves:
 
+
+Operation | Wave Property
+--- | ---
+Addition | Commonality
+Division | Density
+Subtraction | Balance
+Multiplication | Spread
+
+
+
+
 1. Addition as 1st Property of Waves
 
 The 1st Property of Waves is "no void". This is fulfilled by addition which adds onto the instances. This is like making a line move forward.
@@ -53,3 +64,5 @@ This is why multiplication leads to higher dimensions just as division leads to 
 Addition and Subtraction can start from zero just as a wave can shave an origin or middle point.
 
 Division and Multiplication need a pre-existing instance, just as a frequency needs an existing wave, and expansion needs something to expand.  
+
+
