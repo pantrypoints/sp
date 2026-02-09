@@ -119,3 +119,4 @@ The dos and don’ts prescribed for heart disease should generally be observed h
 4. Powder of bhumi kusamáńda in 1/16 tola quantity should be taken twice daily with honey
 
 5. 1/16 or 1/8 tola of dried sarpagandhá root powder with michrii-water should be taken twice daily.
+
