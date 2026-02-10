@@ -9,7 +9,10 @@ icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /material/principles/part-1/chapter-13  
 ---
+
 
 
 Gravitational signatures interact in 2 ways:

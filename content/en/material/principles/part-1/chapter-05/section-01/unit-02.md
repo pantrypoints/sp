@@ -9,7 +9,10 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 4
 icon: "Juan"
+aliases:
+  /material/principles/part-1/chapter-05b
 ---
+
 
 
 The chapter on Identity Space explained how the Negative Force cuts up waves into individual discrete identities.

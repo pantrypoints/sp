@@ -9,7 +9,10 @@ description: "Basic Points Revenue facilitates Minimum needs"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /social/economics/solutions/bur/
 ---
+
 
 
 Chapter 2 explained the concept of minimum needs which is a key effect of the 1st Law of Value.
