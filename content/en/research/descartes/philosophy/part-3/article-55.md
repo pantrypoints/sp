@@ -8,6 +8,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 c: "darkgoldenrod"
 icon: "Rene Descartes"
+image: /graphics/physics/world-13eee.jpg
 # aliases:
 #   /research/descartes/philosophy/part-3/article-56
 ---

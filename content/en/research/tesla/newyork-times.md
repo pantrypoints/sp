@@ -8,7 +8,9 @@ weight: 200
 description: "Scientist on Birthday Reveals Scheme to Send Mechanical Energy All Over World"  
 ---
 
-<!-- ## Would Even Guide Ships -->
+
+
+<!-- ## Would Even Guide Ships July 11, 1935-->
 
 ## Assails Theory of Relativity as Work of Metaphysicians and not Scientific
 

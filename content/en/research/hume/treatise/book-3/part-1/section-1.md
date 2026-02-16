@@ -254,41 +254,47 @@ Do we distinguish between good and bad, vice and virtue through our ideas or imp
 - cut off all loose discourses, and
 - make the present subject more precise. -->
 
+
 Some think that:
 - virtue is just a conformity to reason,
 - there are eternal fitness and unfitness of things, which are the same to every rational being, and
 - the immutable measures of right and wrong impose an obligation on humans and on the Deity himself.
 
+
 All these systems believe that morality, like truth, is discerned merely by:
 - ideas, and
 - their juxtaposition and comparison.
 
-But is it possible, from reason alone, to distinguish between moral good and evil?
 
-Or do we distinguish between moral good and evil from other principles?
+**But I think it is not possible for us to distinguish between good and evil from reason alone.**
+
+<!-- Or do we distinguish between moral good and evil from other principles? -->
 
  <!-- concur to enable us to make that distinction. -->
 
-If morality naturally had no influence on human passions and actions, it would be useless to inculcate it.
-- It would be fruitless to have that many rules and precepts from all moralists.
+
+<!-- If morality naturally had no influence on human passions and actions, it would be useless to inculcate it.
+- It would be fruitless to have that many rules and precepts from all moralists. -->
 
 Philosophy is commonly divided into:
 
 1. Speculative
 2. Practical
 
-Morality is always comprehended under practical philosophy.
-
-Morality is supposed to:
-- influence our passions and actions, and
-- go beyond the calm and indolent judgments of the understanding.
+ <!-- always comprehended under -->
+Morality is:
+- under practical philosophy.
+- supposed to:
+  - influence our passions and actions, and
+  - go beyond the calm and indolent judgments of the understanding.
 
 <!-- Our common experience confirms this by informing us  -->
 
-We experience that men are:
+We see that men are:
 - often governed by their duties,
 - deterred from unjust actions by the thought of injustice, and
-- impelled to just action by the thought of obligation.
+- impelled to just action by obligation.
+
 
 Morals influence our actions and affections.
 - **But reason alone can never have any such influence**
@@ -304,7 +310,7 @@ Therefore, the rules of morality are not conclusions of our reason.
 
 - We cannot say that morality is discovered only by a deduction of reason, as long as reason has no influence on our passions and actions.
 
-An active principle can never be founded on an inactive one.
+**An active principle can never be founded on an inactive one.**
 
 If reason were inactive in itself, it must remain inactive in all its shapes and appearances, whether it:
 - exerts itself in natural or moral subjects, or

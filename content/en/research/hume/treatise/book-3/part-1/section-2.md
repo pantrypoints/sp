@@ -1,14 +1,15 @@
 ---
 heading: Section 2
 title: "Moral Distinctions Derived From A Moral Sense"
-description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
+description: ""
 c: "steelblue"
-weight: 38
+weight: 34
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
 icon: "David Hume"
 ---
+
 
 
 ## Morality Is Based On Feeling

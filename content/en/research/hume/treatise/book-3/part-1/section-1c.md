@@ -12,60 +12,71 @@ icon: "David Hume"
 ---
 
 
+<!-- it is impossible that the distinction between -->
+Thus, moral good and bad cannot be based on reason since reason cannot make that distinction.
 
-Thus, it is impossible that the distinction between moral good and evil be made to reasan since that distinction influences our actions, which reason alone is incapable of.
+ <!-- influences our actions, which reason alone is incapable of. prompting or by -->
 
-Reason and judgment may be the intermediate cause of an action by prompting or by directing a passion.
+Reason and judgment can be the intermediate cause of an action by directing a passion.
 
-But this judgment does not have virtue or vice.
+**But this judgment does not have virtue or vice.**
 
-The judgments caused by our judgments can less bestow vice and virtue on the actions which cause them.
+The judgments caused by our judgments can less bestow good or bad on the actions which cause them.
+<!-- vice and virtue  -->
 
-We weigh the following considerations to:
+<!-- We weigh the following considerations to:
 - be more particular, and
 - show that those eternal immutable fitnesses and unfitnesses of things cannot be defended by sound philosophy.
 
-If the thought and understanding were alone capable of fixing the boundaries of right and wrong, vice and virtue must:
-- lie in some relations of objects, or
+If the thought and understanding were alone capable of fixing the boundaries of  -->
+
+If right and wrong were established by our thoughts alone, then good or bad would:
+- be in some relations of objects, or
+<!-- , vice and virtue must: -->
 - be a matter of fact discovered by our reasoning.
 
-This consequence is evident.
+<!-- This consequence is evident. -->
 
-The operations of human understanding divide themselves into 2:
+
+
+The human understanding has 2 operations:
 
 1. The comparing of ideas
 2. The inferring of matter of fact
 
-If virtue were discovered by the understanding, it must be an object of one of these operations.
+ <!-- virtue -->
 
-The understanding has no third operation which can discover it.
+If goodness was discovered by the understanding, then it is an object of one of these operations.
 
-Some philosophers have very industriously suggested that morality is susceptible of demonstration.
+**The understanding has no third operation to discover it.**
 
-Though no one has ever been able to advance a single step in those demonstrations.
+Some philosophers have suggested that morality can be demonstrated.
+- But no one has ever been able to do a demonstration.
 
-Yet it is taken for granted, that the science of morality may be brought to an equal certainty with geometry or algebra.
+<!-- Yet it is taken for granted, that  -->
 
-Based on this, vice and virtue must consist in some relations, since no matter of fact is capable of being demonstrated.
+Others assume that the science of morality may be brought to an equal certainty with geometry or algebra.
 
-Let us:
+They say that good and bad have some relations since no matter of fact can be demonstrated.
+
+<!-- Let us:
 - examine this hypothesis,
 - try to fix those moral qualities which have been so long the objects of our fruitless researches, and
 - point out distinctly the relations which constitute morality or obligation.
 
 So that we may know:
 - wherein they consist, and
-- how we must judge of them.
+- how we must judge of them. -->
+
+
+## Morality is not based on Relations
 
 
 **A relation is the association of ideas.**
 
-
-If you assert that vice and virtue consist in relations susceptible of certainty and demonstration, you must confine yourself to those four relations which alone allow them.
+If good and bad consist in relations that are certain and demonstrable, then they should be based on those 4 relations which alone allow them.
         
-You will run into absurdities which you will never be able to extricate yourself from.
-
-Because you make the very essence of morality lie in the relations.
+This leads to absurdities because you make the very essence of morality lie in the relations.
 
 But the only relations are those that are applicable to an irrational and inanimate object.
 
@@ -108,5 +119,3 @@ Does it discover a relation or a matter of fact?
 
 These questions are decisive and must not be eluded.
 {{< /b >}}
-
-

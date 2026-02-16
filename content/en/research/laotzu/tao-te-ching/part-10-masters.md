@@ -49,6 +49,8 @@ Who can secure the condition of rest? Let movement go on, and the condition of r
 
 Wind and rain owe themselves to Heaven and Earth. If Heaven and Earth cannot make such things last long, how much less can man!
 
+<!-- He who follows his true path are supported by the Path. He who loses his path feels lost.  -->
+
 
 {{< s v="2">}} Therefore, when one is making the Tao or True Nature his business:
 - those who are also pursuing it will agree with him in it
