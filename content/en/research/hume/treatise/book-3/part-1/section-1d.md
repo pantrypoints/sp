@@ -211,9 +211,7 @@ Here is a matter of fact that is the object of feeling, not of reason.
 
 It lies in yourself, not in the object.
 
-When you call any action or character as vicious, you only mean that from your nature, you have a feeling of blame from its contemplation.
-
-Therefore, vice and virtue may be compared to sounds, colours, heat and cold.
+**When you call any action or character as vicious, you only mean that from your nature, you have a feeling of blame from its contemplation. Therefore, vice and virtue may be compared to sounds, colours, heat and cold.**
 
 According to modern philosophy, these are not qualities in objects, but mental perceptions.
 

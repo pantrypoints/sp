@@ -14,6 +14,10 @@ icon: "David Hume"
 
 <!-- When any quality or character has a tendency to the good of mankind, we are pleased with it and -->
 
+
+## Objection 1: Morality does not come from sympathy
+
+
 We approve of qualities that benefit mankind because it presents the lively idea of pleasure.
 - This idea affects us by sympathy.
 - It itself is a kind of pleasure.

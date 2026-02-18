@@ -9,7 +9,10 @@ icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /material/principles/part-2/chapter-06b  
 ---
+
 
 
 
@@ -160,3 +163,5 @@ Rule 3 leads to gravitational lensing and wave-particle duality. This also remov
 
 
 <!-- Superhysics uses the 3 Rules of Movement from Descartes instead of the Law of Motion from Isaac Newton. This is because Newton's laws are already included in the Rules of Descartes.   -->
+
+

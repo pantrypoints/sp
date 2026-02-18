@@ -1,5 +1,5 @@
 ---
-heading: Section 1e
+heading: Section 1f
 title: "Two Objections To This System"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
@@ -10,6 +10,7 @@ writer:
   url: https://en.wikipedia.org/wiki/David_Hume
 icon: "David Hume"
 ---
+
 
 
 Men seldom love what:
@@ -55,33 +56,6 @@ Therefore, it is said to:
 We equally blame a bad action we read in history, with a bad action performed in our neighbourhood the other day.
 
 Because, we know that the historical bad action would also excite sentiments of disapprobation as the nearby one, if it were placed in the same position.
-
-
-The second remarkable circumstance is that when a person has a character naturally beneficial to society:
-- we esteem him as virtuous, and
-- we are delighted with the view of his character, even though particular accidents:
-  - prevent its operation, and
-  - incapacitate him from being serviceable to his friends and country.
-
-**Virtue in rags is still virtue.**
-
-The love it procures attends a man into a dungeon or desert, where the virtue:
-- can no longer be exerted, and
-- is lost to all the world.
-
-This is an objection to the present system.
-
-Sympathy interests us in the good of mankind.
-
-If sympathy were the source of our esteem for virtue, that sentiment of approbation could only take place where the virtue:
-- actually attained its end, and
-- was beneficial to mankind.
-
-It is only an imperfect means when it fails of its end.
-
-It can never acquire any merit from that end.
-
-The goodness of an end can bestow a merit on the means alone, as if it were complete and actually produced the end.
 
 
 

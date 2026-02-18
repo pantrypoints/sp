@@ -12,7 +12,7 @@ icon: "David Hume"
 ---
 
 
-
+ 
 Book 2, Part 3, Section 3 has proven that reason:
 - is perfectly inert, and
 - can never prevent or produce any action or affection.
@@ -29,26 +29,22 @@ Truth or falsehood consists in an agreement or disagreement to:
 
 But our passions, volitions, and actions are already real. They are:
 - complete in themselves
-- imply no reference to other passions, volitions, and actions
+- imply no reference to other passions, volitions, and actions [other than to the self]
 
 <!-- , are not susceptible of any such agreement or disagreement.
 
 They are original facts and realities that:
 - are , and -->
-- .
 
-Therefore, they cannot be:
+
+Therefore, passions, volitions, and actions cannot be:
 - true or false
 - contrary or conformable to reason
 
 <!-- it is impossible they can be:
 - true or false, and -->
 
-<!-- This  argument has a double advantage to our present purpose.
-
-It directly -->
-
-This proves that the morality or immorality of actions are not based on reason.
+<!-- This  argument has a double advantage to our present purpose.-->
 
 <!--  do not derive their:
 - merit from a conformity to reason, nor
@@ -61,34 +57,40 @@ This proves that the morality or immorality of actions are not based on reason.
 - cannot be the source of moral good and evil which have that influence.
  laudable or blameable, -->
 
+
+This proves that the morality or immorality of actions are not based on reason.
+
 Actions may be good or bad, but they cannot be reasonable.
 
 Therefore, good or bad are not the same with reasonable or unreasonable.
 
-<!-- merit and demerit -->
-The morality or immorality of actions frequently contradict and sometimes control our natural propensities.
+<!-- merit and demerit  and sometimes control -->
 
-But reason has no such influence.
+The morality of actions frequently contradict our natural propensities.
+
+But reason cannot.
+
+ <!-- has no such influence. -->
 
 **Moral distinctions, therefore, are not the offspring of reason.**
 
-Reason is wholly inactive.
-- It can never be the source of so active a principle as conscience, or a sense of morals.
+
+Conscience or the moral sense is an *active* principle
+
+But reason is totally *inactive*.
+- It can never be the source of morals.
 
 
 No willpower or action can immediately be contradictory to reason.
 
 But a contradiction happens:
-- in some of the attendants of the action, or
-- in its causes or effects.
+- in things that go with the action, or
+  - For example, the action might be caused by a judgment obliquely when the judgment concurs with a passion
+- in the action's causes or effects.
+  - For example, the action might cause a judgment.
 
-The action may:
-- cause a judgment, or
-- may be caused by a judgment obliquely, when the judgment concurs with a passion.
 
-The same contrariety may be ascribed to the action, on that account.
-
-How far can this truth or falsehood be the source of morals?
+Can this truth or fallacy of reason be the source of morals?
 
 
 ## Moral judgments
@@ -98,41 +100,38 @@ In a strict and philosophical sense, reason can influence our conduct only in 2 
 1. When it excites a passion by informing us of the existence of its proper object, or
 2. When it discovers the connection of causes and effects, so as to afford us means of exerting any passion
 
-These are the only kinds of judgment which can:
-- accompany our actions, or
-- produce them in any way.
+These are the only kinds of judgment which can accompany or produce our actions.
 
 These judgments may often be false and erroneous.
         
-A person may be affected with passion by supposing a pain or pleasure in an object which:
-- cannot produce pain or pleasure, or
-- produces the contrary to what is imagined.
+A person who is infected with a passion might think that he is getting pain from something that cannot produce pain.
 
-A person may also take false measures to attain his end.
-- He may retard, instead of forwarding, the execution of any project by his foolish conduct.
+<!-- A person may also take false measures to attain his end.
+- He may retard, instead of forwarding, the execution of any project by his foolish conduct. -->
 
-These false judgments may:
-- affect the passions and actions connected with them, and
-- render them unreasonable, figuratively.
+Such a false judgment can:
+- affect the passions and actions connected with that judgmenet, and
+- render that judgmenet unreasonable, figuratively.
 
-But these errors are so far from being the source of all immorality.
-- They are commonly very innocent.
-- They draw no guilt on the person who makes them.
-- They do not extend beyond a mistake which moralists generally regard as being perfectly involuntary and not criminal.
+But these errors are so far from being the source of all immorality, as they:
+- are commonly very innocent
+- draw no guilt on the person who makes them
+- do not extend beyond an involuntary or non-criminal mistake
+<!-- which moralists generally regard as being perfectly . -->
 
-I am more to be lamented than blamed:
-- if I am mistaken in the pain or pleasure produced by objects, or
-- if I do not know the proper means of satisfying my desires.
+I am more to be lamented than blamed if I do not know how to properly satisfy my desires.
+<!-- - if I am mistaken in the pain or pleasure produced by objects, or -->
 
-No one can ever regard such errors as a defect in my moral character.
+People do not regard such errors as a defect in my moral character.
 
 
 I see a fruit that is really not delicious.
 
-I fancy it to be delicious by mistake.
+But I unknowingly image it to be delicious by mistake.
 - This is my first error.
 
-I reach for this fruit, which is not proper for my end.
+I reach for this fruit, which I should not have reached for.
+ <!-- is not proper for my end. -->
 - This is my second error.
 - No third error can ever possibly enter our reasonings on actions.
         

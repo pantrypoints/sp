@@ -22,7 +22,7 @@ public private key
 3. Memory or storage
 
 
-
+base position : tune   speed :
 
 Vietnamese
 
@@ -54,9 +54,6 @@ Things cannot have absolute Existence without any relation to their being percei
 The Sciences That Open Up The Universe. Material Superphysics. Replacing the Physics of Newton and Einstein with that of Descartes and Spinoza. Bio Superphysics. Biology and Medicine that combines Western and Asian Principles. Social Superphysics. A Society as a Metaphysical Organism with a Life Cycle. Spiritual Superphysics. Upgrading Experience beyond Matter and into the Aether or Akasha. Supermath and Qualimath. Mathematics based on Base-3, Base-6, Shapes, and Qualities.
 
 Let's Solve All Problems! Evidence. We test Superphysics in the real world. Proposed Solutions and Technologies. Enlightenment ideas can lead to totally new technologies. Predictions from Social Cycles. We test our predictions with actual events. Policies from Social Cycles. A better world needs policies that match Nature.
-
-
-
 
 
 Einstein clearly wrote in the 1920 edition: "We have defined time essentially with a CLOCK at rest in a stationary system. On account of its adaptability to the stationary system, we call the time defined in this way as "time of the stationary system."

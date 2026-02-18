@@ -13,3 +13,12 @@ Mary Magdalene was the wife of Jesus. They had a child which led to the Meroving
 
 Gilgamesh is a destroyed and creator energy at the same time, making it neutral.
 
+
+
+The Anunnaki imparted onto the human DNA that humans need an intermediary to spirituality. 
+- This led to the religious structure.
+- The Anunnaki instilled that authority figures are needed between humans and Source.
+- The spiritual connection does not require a middleman.
+- But the Anunnaki positioned themselves as Source.
+
+

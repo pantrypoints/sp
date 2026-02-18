@@ -27,7 +27,7 @@ Each Idea is Unique | Cause and Effect are in Relation to each other
 
 
 
-## Spin (State) --> Action
+## Spin (State) 🠮 Action
 
 Chapter 6 explained that reality is made up of perception-relations between identities. 
 

@@ -1,7 +1,7 @@
 ---
-heading: Section 1e
-title: "Two Objections To This System"
-description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
+heading: Section 1g
+title: "The Second Objection To This System"
+description: "If sympathy were the source of our esteem for virtue, then approbation could only take place where the virtue actually attained its end"
 c: "steelblue"
 weight: 28
 writer:
@@ -11,6 +11,32 @@ icon: "David Hume"
 ---
 
 
+
+The second remarkable circumstance is that when a person has a naturally beneficial character, we:
+- call him virtuous, and
+- are delighted with his character, even though particular accidents:
+  - prevent its operation, and
+  - incapacitate him from being serviceable to his friends and country.
+
+**Virtue in rags is still virtue.**
+
+The love it procures attends a man into a dungeon or desert, where the virtue:
+- can no longer be exerted, and
+- is lost to all the world.
+
+This is an objection to my system.
+
+Sympathy interests us in the good of mankind.
+
+If sympathy were the source of our esteem for virtue, that sentiment of approbation could only take place where the virtue:
+- actually attained its end, and
+- was beneficial to mankind.
+
+It is only an imperfect means when it fails of its end.
+
+It can never acquire any merit from that end.
+
+The goodness of an end can bestow a merit on the means alone, as if it were complete and actually produced the end.
 
 
 To this objection, I reply that when any object is fully fitted to attain an agreeable end, it naturally:
@@ -348,4 +374,3 @@ The good or ill desert of virtue or vice is an evident consequence of the sentim
 These sentiments produce love or hatred.
 
 By the original constitution of human passion, love or hatred is attended with benevolence or anger.
-

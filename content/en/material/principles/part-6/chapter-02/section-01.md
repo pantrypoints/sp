@@ -11,8 +11,10 @@ writer:
 weight: 48
 icon: "Juan"
 toc: false
-draft: true
+aliases:
+  /material/principles/part-6/chapter-02b
 ---
+
 
 
 Neutrino is for communication between objects in interstellar space. It uses the flow of neutrinos that travel from one to another.  

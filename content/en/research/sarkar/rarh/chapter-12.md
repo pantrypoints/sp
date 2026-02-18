@@ -18,47 +18,61 @@ The culture of the human race is one. But there are variations in the cultural e
 
 If all the children in one family have different food habits and speak in different styles, then do they belong to different cultures? 
 
-Nevertheless we speak much about culture, and we keenly observe cultural advancements and declines. The more introversial the movement of a culture is, the subtler it is.
+Nevertheless we speak much about culture, and we keenly observe cultural advancements and declines.
 
-It cannot be said just what the culture of Ráŕh was like at the dawn of human history. But it is obvious that it could not have been developed, because the movement of the human intellect is from crude to subtle.
+**The more introversial the movement of a culture is, the subtler it is.**
 
-If there is anything that is sweet and anything that is worth following in the culture of Ráŕh, it is due to the advent of Lord Sadáshiva. 
+It cannot be said just what the culture of Ráŕh was like at the dawn of human history.
+- But it could not have been developed since human intellect was crude at that time.
+
+ <!-- is from crude to subtle. -->
+
+<!-- If there is anything that is sweet and anything that is worth following in , it is due to  -->
+
+The advent of Lord Sadáshiva improved the culture of Ráŕh.
 
 There is neither caste discrimination nor caste division in Shaeva Dharma.
 
 So where did the caste discrimination and caste division in today’s Ráŕh come from?
 
-Why do I bring up caste discrimination and caste division while talking about culture?
 
-It is because culture cannot move in an appropriate way if caste division, which is the expression of a fissiparous mentality, exists. 
+<!-- Why do I bring up caste discrimination and caste division while talking about culture? -->
 
-Hence everything comes within the purview of a discussion on culture.
+
+Caste division is the expression of a fissiparous mentality. 
+
+**Culture cannot move properly if caste division exists.**
+
+
+<!-- Hence everything comes within the purview of a discussion on culture. -->
+
+
+## The Aryans
 
 The Aryans entered India between 7,000-10,000 years ago well before the advent of Shiva.
 
-The conflict between the pre-Aryan civilization and that of the invading Aryans went on for centuries. Then in the course of time synthesis began to come.
+The conflict between the pre-Aryan civilization and that of the invading Aryans went on for centuries.
+- In time, synthesis happened.
 
 This state of synthesis went on for thousands of years and extended up to the Buddhist and Jain ages. 
 
-The process of give-and-take between the pre-Aryan civilization and the invading Aryan civilization did take place, but not without much bargaining and many a tug-of-war.
+The process of give-and-take between the pre-Aryan civilization and the invading Aryan civilization happened with much bargaining and tug-of-war.
 
-The Aryans gave defective gifts to the indigenous Indians.
-
-One of these was the system of caste division, which spread hatred between the high and the low.
+The Aryans gave defective gifts, such as the system of caste division, to the indigenous Indians.
+- This spread hatred between the high and the low.
 
 The Aryan civilization came to a standstill at the threshold of the kingdom of Káshiirájya (Varanasi).
 
 Then a lot of strenuous efforts were made in order for Mithila to be accepted in Áryyavartta [Land of the Aryans], or Uttarápath [northern India]. 
 
-But in the end Magadh did not win this acceptance. 
-
 The word magadh means “a population which is opposed to the Vedic system”. 
+- Maga means “opposed to the Vedas” 
+- Dha means “one who abides by”
 
-Maga means “opposed to the Vedas” and dha means “one who abides by”. 
+In the end, Magadh was not accepted. 
 
-Ráŕh was located on the eastern border of Magadh.
-
-It had no opportunity to become “sanctified” by the touch of the Aryans’ feet. 
+Ráŕh was on the eastern border of Magadh.
+- It had no opportunity to become “sanctified” by the touch of the Aryans’ feet. 
 
 But the system of caste division entered Magadh under the influence of the Aryans.
 
@@ -106,3 +120,4 @@ Hence, many in Ráŕh-Samatat-Barendra-D́abák who came in contact with the 
 ### Footnotes
 
 (1) A book containing the details, history and lineage of the Ráŕhii Brahmans, and indicating that they were not among the original inhabitants of Ráŕh. –Trans.
+

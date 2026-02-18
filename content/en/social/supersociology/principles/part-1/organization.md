@@ -11,26 +11,17 @@ icon: "Supersociology"
 ---
 
 
-We organize the Chapters according to Supereconomics:
-
-
-<!-- 1 intro - Society Social Toopgraphic Behavior 
-2 worker - 
-3 warrior - 
-4  -->
+We organize the Chapters according to the 4 properties of waves:
 
 
 Topic | Worker | Warrior | Thinker | Trader
 --- | --- | --- | --- | ---
-1 Intro | Workers | Warriors | Thinkers | Traders 
-2 Principle | Expression Culture Personality Archetypes | Strength Morality Criminality Education | Abstract | Acquisition or Expansion Social Cycles Ideology Matrix 
-3 Examples | Races China / Healthcare Sex / Family | Japan / Military | Ancient Greece / Education-Religion | USA / Money 
-4 Movement | Employment / Organizations | Politics  | Science Technology | Business 
-5 Institution | Legislative | Executive | Judiciary | Resources
-6 Model Government | Insurance | Rescue Police, Criminal | Judicial Systems |
-7 Flow | Poverty Cycle | | | Profit Cycle
-8 Index or Measure | Human Women Animal Rights | Crime rate, Stability | Educational Attainment | NDP
-9 Scope or Area | Rural |  |  | Urban
-10 Philosophies | Democracy | Communism | Theocracy | Oligarchy
-
-
+1-1 Intro | Workers | Warriors | Thinkers | Traders 
+1-2 Principle Metaphysicality| Expression Culture Personality Archetypes | Strength Morality Criminality Education | Abstract | Acquisition or Expansion Social Cycles Ideology Matrix 
+1-3 Physicality | Races China / Healthcare Sex / Family | Japan / Military | Ancient Greece / Education-Religion | USA / Money 
+1-4 Movement | Employment / Organizations | Politics  | Science Technology | Business 
+2-5 Institution | Legislative | Executive | Judiciary | Resources
+2-6 Index or Measure | Human Women Animal Rights | Crime rate, Stability | Educational Attainment | NDP
+3-7 Model Government | Insurance | Rescue Police, Criminal | Judicial Systems |
+3-8 Philosophies | Democracy | Communism | Theocracy | Oligarchy
+4-9 Social Engineering | Rural |  |  | Urban

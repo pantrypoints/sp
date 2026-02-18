@@ -2,7 +2,7 @@
 title: "How is Life Created?"
 heading: Chapter 1d
 weight: 8
-description: "An environment for the unit structure is essentially required where all these 5 fundamental layers are available in requisite quantity. Life can get expression only under such a condition"
+description: "An environment for the unit structure is essentially required where all these 5 fundamental factors are available in requisite quantity. Life can get expression only under such a condition"
 c: "indigo"
 writer:
   name: PR Sarkar
@@ -13,9 +13,9 @@ icon: "PR Sarkar"
 
 How does life get expression within the physical unit structure?
 
-## The 5 Layers
+## The 5 Fundamental Factors
 
-Physical structures are composed of 5 fundamental layers<!--  factors -->:
+Physical structures are composed of 5 fundamental factors:
 
 1. Ethereal
 2. Aerial
@@ -23,11 +23,11 @@ Physical structures are composed of 5 fundamental layers<!--  factors -->:
 4. Liquid
 5. Solid
 
-A unit structure has a body made up of a composite of these 5 layers<!--  factors --> with controlling nuclei.
-- These layers <!-- factors --> should remain in requisite proportion. 
+A unit structure has a body made up of a composite of these 5 factors with controlling nuclei.
+- These factors should remain in requisite proportion. 
 
 Vital energy or pranah is the structure's collective creative unifying energy. 
-- It <!-- resultant interial --><!--  or  --> depends on the mutual cohesion of these layers<!-- factors -->.
+- It <!-- resultant interial --><!--  or  --> depends on the mutual cohesion of these factors.
 - The controlling nucleus of all these fundamental physical nuclei* is the controlling point of this collective vital energy.
 
 <!-- This collection of práńa (energy) is called pranah. -->
@@ -49,7 +49,7 @@ Nonliving energy is continued to be used by the negative-negative (i.e. a fire w
 
 
 
-**An environment for the unit structure is essentially required where all these 5 fundamental layers are available in requisite quantity.** 
+**An environment for the unit structure is essentially required where all these 5 fundamental factors are available in requisite quantity.** 
 - **Life can get expression only under such a condition.** 
 <!-- For the manifestation of life, therefore, a congenial atmosphere is a fundamental necessity. --> 
 
@@ -79,9 +79,9 @@ To maintain life:
 - the proper adjustment between the waves of the psychic body and of the physical body is essential
 - the adjustment with the vital-energy <!-- práńáh --> is necessary.
 
-**A deficiency of some layer results in the wear and tear within a physical structure.**
+**A deficiency of some factor results in the wear and tear within a physical structure.**
 <!-- and may also tell upon the resultant activity controlling the subjective nucleus and maintaining structural solidarity.  -->
-- If the deficiency is not adequately compensated, and if the requisite proportion of any layer <!-- factor or factors --> is not met, the vital energy (creative unifying force) <!-- resultant interial --> will begin varying in intensity. 
+- If the deficiency is not adequately compensated, and if the requisite proportion of any factor or factors is not met, the vital energy (creative unifying force) <!-- resultant interial --> will begin varying in intensity. 
 - The unit structure may lose its solidarity and lead to death. 
 
 <!-- Logically, therefore, it may be concluded that for the physical unit structure  -->

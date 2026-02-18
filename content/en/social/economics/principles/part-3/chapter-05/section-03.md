@@ -10,6 +10,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
+aliases:
+  /social/economics/principles/part-3/chapter-05d
 ---
 
 

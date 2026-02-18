@@ -6,9 +6,11 @@ description: "There are three elements of this visible world"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+image: "/graphics/physics/vortices.jpg"
 c: "darkgoldenrod"
 icon: "Rene Descartes"
 ---
+
 
 
 ## 52. There are 3 elements of this visible world.

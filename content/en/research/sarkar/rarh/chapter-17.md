@@ -77,7 +77,7 @@ So the land-hungry Aryans entered Ráŕh through different waterways and did e
 
 In the wake of the destruction of the forests came the destruction of Ráŕh’s wildlife and natural beauty. 
 
-Today Ráŕh is no better than a neglected desert. This all happened about 1750 years ago. Since then Ráŕh, bereft of its own rhythm of life, has remained as a colony of Áryyávartta.
+Today Ráŕh is no better than a neglected desert. This all happened about 1,750 years ago. Since then Ráŕh, bereft of its own rhythm of life, has remained as a colony of Áryyávartta.
 
 Ráŕh has never been recognized as a part of Áryyávartta, but it had to live a life of disgrace under the rule of Áryyávartta.
 

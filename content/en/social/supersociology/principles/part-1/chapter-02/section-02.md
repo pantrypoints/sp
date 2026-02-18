@@ -8,8 +8,12 @@ description: "Societies develop in different stages"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.pn
+icon: "Juan"
+aliases:
+  /social/supersociology/principles/part-1/chapter-03b
+#2b daw
 ---
+
 
 
 Cartesian Relationality explains the dynamics between the connection between 2 or more entities. 

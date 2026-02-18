@@ -1,29 +1,52 @@
 ---
 heading: "Section 4"
-title: "Fractals"
-date: 2025-11-06
-image: "/photos/objects/fractal.jpg"
+title: "The Periodic Table of Elements as Qualitative Instances"
+date: 2025-03-18
+image: "/graphics/physics/pentagonic.jpg"
 description: ""
-weight: 900
+weight: 21
+# was chapter 2b
 ---
 
 
+Supermath bridges the numerical nature of Math with the qualitative nature of Qualimath.
 
-A fractal is an infinitely complex geometric shape with a repeating pattern that is self-similar across different scales.
+The previous section explained that the natural spin or vibration of instances make them easily applicable in geometries. 
 
-If you zoom in on a part of a fractal, it will look similar to the whole image. 
+Each geometry interacts differently with others as it gets a different quality in relation to other qualities.
 
-Fractals are found in nature, such as in coastlines, snowflakes, and tree branches, and can be generated through repeating a simple mathematical process. 
+This manifests most obviously in chemistry as chemical reactions. 
+
+Numerically, this is seen in the periodic table of elements. 
 
 
-## Dynamic Fractals Versus Static Shapes
+![Elements](/graphics/physics/pentagonic.jpg)
 
-Superphysics organizes everything into waves and nodes or particles.
-- Waves are dynamic and continuous
-- Nodes are static and discrete
 
-We use shapes such as points, triangles, spheres, and pentagons for the static parts of Nature such as the 5 Elements. 
+For example, we can compare the numeric and qualitative properties of each element:
 
-We use fractals which are repeating patterns within these shapes to show the dynamic effect of the 2 Forces persisting in Nature.
+Name | Number | Quality
+--- | --- | ---
+Hydrogen | 1 | lightweight
+Helium | 2 | stable
+Lithium | 3 | reactive
+Beryllium | 4 | toxic 
+Boron | 5 | Semiconducting
+Carbon | 6 | Versatile (Allotropic)
+Nitrogen | 7 | Abundant
+Oxygen | 8 | Life-Giving
+
+
+This gives a quality for each material number:
+
+1. Lightweight
+2. Stable
+3. Reactive
+4. Toxic
+5. Semiconducting
+6. Versatile
+7. Abundant
+8. Life-giving
+
 
 

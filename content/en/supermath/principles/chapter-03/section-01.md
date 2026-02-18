@@ -16,7 +16,7 @@ Qualimath deails with waves.
 Supermath is the bridge between both. 
 
 
-## Relationality as Ratio Sign 
+## Relationality as Ratio Sign `:`
 
 It does this by introducing the concept of relationality.
 
@@ -35,3 +35,7 @@ This infiniteness is an effect of:
 - the perpetual dynamism of waves
 - the subjectivity of existence
 
+
+## Equality as the Rigid Ratio Sign `::`
+
+We convert equality into the rigid ratio, as a snapshot of a specific space and time. 
