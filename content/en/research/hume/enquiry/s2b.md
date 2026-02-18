@@ -133,9 +133,15 @@ They tend to be confounded with other resembling ideas.
 
 When we have often employed any term, though without a distinct meaning, we are apt to imagine it has a determinate idea annexed to it. 
 
-On the contrary, all impressions, that is, all sensations, either outward or inward, are strong and vivid: the limits between them are more exactly determined: nor is it easy to fall into any error or mistake with regard to them. 
+On the contrary, all impressions, that is, all sensations, either outward or inward, are strong and vivid.
+- The limits between them are more exactly determined
+- It is not easy to fall into any error with them. 
 
-When we entertain, therefore, any suspicion that a philosophical term is employed without any meaning or idea (as is but too frequent), we need but enquire, from what impression is that supposed idea derived? And if it be impossible to assign any, this will serve to confirm our suspicion. 
+A philosophical term might frequently be used without any meaning or idea.
 
-By bringing ideas into so clear a light we may reasonably hope to remove all dispute, which may arise, concerning their nature and reality.1
+We need but enquire, from what impression is that supposed idea derived? 
+
+<!-- And if it be impossible to assign any, this will serve to confirm our suspicion.  -->
+
+By bringing ideas into a clear light, we can remove all dispute on their nature and reality.
 

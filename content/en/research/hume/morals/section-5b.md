@@ -114,9 +114,20 @@ Where any event crosses our wishes, and interrupts the happiness of the favourit
 
 Few species of poetry are more entertaining than PASTORAL; and every one is sensible, that the chief source of its pleasure arises from those images of a gentle and tender tranquillity, which it represents in its personages, and of which it communicates a like sentiment to the reader. Sannazarius, who transferred the scene to the sea-shore, though he presented the most magnificent object in nature, is confessed to have erred in his choice. The idea of toil, labour, and danger, suffered by the fishermen, is painful; by an unavoidable sympathy, which attends every conception of human happiness or misery.
 
-When I was twenty, says a French poet, Ovid was my favourite= Now I am forty, I declare for Horace. We enter, to be sure, more readily into sentiments, which resemble those we feel every day= But no passion, when well represented, can be entirely indifferent to us; because there is none, of which every man has not, within him, at least the seeds and first principles. It is the business of poetry to bring every affection near to us by lively imagery and representation, and make it look like truth and reality= A certain proof, that, wherever that reality is found, our minds are disposed to be strongly affected by it.
+A French poet says:
 
-Any recent event or piece of news, by which the fate of states, provinces, or many individuals is affected, is extremely interesting even to those whose welfare is not immediately engaged. Such intelligence is propagated with celerity, heard with avidity, and enquired into with attention and concern. The interest of society appears, on this occasion, to be in some degree the interest of each individual. The imagination is sure to be affected; though the passions excited may not always be so strong and steady as to have great influence on the conduct and behaviour.
+{{< r a="Poet" >}}
+When I was twenty, Ovid was my favourite. Now I am forty, I prefer Horace. 
+{{< /r >}}
+
+
+We enter, to be sure, more readily into sentiments, which resemble those we feel every day.
+
+But no passion, when well represented, can be entirely indifferent to us; because there is none, of which every man has not, within him, at least the seeds and first principles. It is the business of poetry to bring every affection near to us by lively imagery and representation, and make it look like truth and reality= A certain proof, that, wherever that reality is found, our minds are disposed to be strongly affected by it.
+
+Any recent event or piece of news, by which the fate of states, provinces, or many individuals is affected, is extremely interesting even to those whose welfare is not immediately engaged. 
+
+Such intelligence is propagated with celerity, heard with avidity, and enquired into with attention and concern. The interest of society appears, on this occasion, to be in some degree the interest of each individual. The imagination is sure to be affected; though the passions excited may not always be so strong and steady as to have great influence on the conduct and behaviour.
 
 The perusal of a history seems a calm entertainment; but would be no entertainment at all, did not our hearts beat with correspondent movements to those which are described by the historian.
 
@@ -144,7 +155,9 @@ What wonder, then, if we can pronounce no judgement concerning the character and
 
 
 {{< box >}}
-[Footnote= In proportion to the station which a man possesses, according to the relations in which he is placed; we always expect from him a greater or less degree of good, and when disappointed, blame his inutility; and much more do we blame him, if any ill or prejudice arise from his conduct and behaviour. 
+### Footnote
+
+In proportion to the station which a man possesses, according to the relations in which he is placed; we always expect from him a greater or less degree of good, and when disappointed, blame his inutility; and much more do we blame him, if any ill or prejudice arise from his conduct and behaviour. 
 
 When the interests of one country interfere with those of another, we estimate the merits of a statesman by the good or ill, which results to his own country from his measures and councils, without regard to the prejudice which he brings on its enemies and rivals. His fellow-citizens are the objects, which lie nearest the eye, while we determine his character. 
 
@@ -161,4 +174,6 @@ How, indeed, can we suppose it possible in any one, who wears a human heart, tha
 
 Let us suppose such a person ever so selfish; let private interest have ingrossed ever so much his attention; yet in instances, where that is not concerned, he must unavoidably feel SOME propensity to the good of mankind, and make it an object of choice, if everything else be equal. Would any man, who is walking along, tread as willingly on another's gouty toes, whom he has no quarrel with, as on the hard flint and pavement? There is here surely a difference in the case. 
 
-We surely take into consideration the happiness and misery of others, in weighing the several motives of action, and incline to the former, where no private regards draw us to seek our own promotion or advantage by the injury of our fellow-creatures. And if the principles of humanity are capable, in many instances, of influencing our actions, they must, at all times, have some authority over our sentiments, and give us a general approbation of what is useful to society, and blame of what is dangerous or pernicious. The degrees of these sentiments may be the subject of controversy; but the reality of their existence, one should think, must be admitted in every theory or system.
+We surely take into consideration the happiness and misery of others, in weighing the several motives of action, and incline to the former, where no private regards draw us to seek our own promotion or advantage by the injury of our fellow-creatures. 
+
+If the principles of humanity are capable, in many instances, of influencing our actions, they must, at all times, have some authority over our sentiments, and give us a general approbation of what is useful to society, and blame of what is dangerous or pernicious. The degrees of these sentiments may be the subject of controversy; but the reality of their existence, one should think, must be admitted in every theory or system.
