@@ -17,8 +17,7 @@ the road of national security with Chinese characteristics should be followed. "
 overall concept of national security" was also written into the report of the 19th National Congress
 of the CCP as the basic strategy for adhering to and developing socialism with
 Chinese characteristics in the new era, and was written into the revised Constitution of the
-CCP. This is the first time in the history of the CCP that
-the theory of national security has been included in the report of the party congress, and it is also
+CCP. This is the first time in the history of the CCP that the theory of national security has been included in the report of the party congress, and it is also
 the first time that the theory of national security has been taken as an important part of the party's
 guiding ideology. Adhering to the overall national security concept is not only an important part of
 Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era, but also a practical
@@ -45,6 +44,7 @@ perception and dynamic assessment of the situation, and on the foresight of the 
 term development trend; we must have a goal-oriented general idea, general framework, and general
 layout, and be good at adjusting the strategy and tactics of national security in a timely manner
 according to the new situation, new problems, and new tasks.
+
 The overall is a methodology, emphasizing the scientific integration of national security. The overall
 goal is to build a national security system that integrates security in various fields and properly
 respond to various complex security challenges. In seeking overall national security, it is necessary
@@ -57,9 +57,16 @@ unite a strong joint force.
 The connotation and extension of the overall national security concept. The summary of the
 connotation and extension of national security in the overall national security concept can be
 summarized into five major elements and five pairs of relationships.
-The five major elements are to take people's security as the purpose, political security as the
-foundation, economic security as the foundation, military, cultural and social security as the
-guarantee, and international security as the basis. Taking people's security as the purpose is to always
+
+The 5 major elements are:
+
+1. The people's security as the purpose
+2. Political security as the foundation
+3. Economic security as the foundation
+4. military, cultural and social security as the guarantee,
+5. International security as the basis.
+
+Taking people's security as the purpose is to always
 put people's security in the highest position, adhere to the people-oriented and people-oriented,
 adhere to national security for the people and rely on the people, and consolidate the mass foundation
 of national security. Taking political security as the foundation means unswervingly adhering to the

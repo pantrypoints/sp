@@ -29,7 +29,9 @@ Mao Zedong led the formulation of the general principle of building an excellent
 revolutionary army, Comrade Deng Xiaoping put forward the general goal of building a powerful
 modernized and regularized revolutionary army, and Comrade Jiang Zemin put forward the general
 requirements for army building that is politically qualified, competent in military affairs, excellent
-in work style, strict in discipline, and effective in guarantees. Comrade Hu Jintao put forward the
+in work style, strict in discipline, and effective in guarantees. 
+
+Comrade Hu Jintao put forward the
 important idea of strengthening the comprehensive building of the armed forces in accordance with
 the principle of combining revolutionization, modernization, and regularization, profoundly
 revealed the objective law governing army building, and guided our army to continuously win new

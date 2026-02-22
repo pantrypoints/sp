@@ -143,18 +143,18 @@ arrangements for party building in the new era, and provides the basic guideline
 comprehensively promoting party building in the new era and comprehensively administering the
 party strictly in depth.
 
-Upholding and strengthening the party's comprehensive leadership is the fundamental principle of
-party building in the new era. We must understand the relationship between party building, the
-party's overall leadership, and the strict management of the party from a political perspective. The
+Upholding and strengthening the party's comprehensive leadership is the fundamental principle of party building in the new era.
+
+We must understand the relationship between party building, the party's overall leadership, and the strict management of the party from a political perspective. The
 fundamental purpose of strengthening party building is to properly safeguard the party's leading
 position and consolidate the party's ruling position and ruling foundation; while to uphold and
 strengthen the party's comprehensive leadership, we must achieve the goal of strengthening party
 building while promoting strict party management in an all-round way, so that the party can better
-withstand the "four major tests" and "four dangers." Comrade Xi Jinping pointed out that China's
-affairs must be handled well, first of all, the affairs of the CCP must be handled
-well. "If the party is not managed effectively and strictly... Then sooner or later our party will lose
-its qualification to govern and will inevitably be eliminated by history.1 The common adherence to
-party building, the party's overall leadership, and the strict management of the party in the new era
+withstand the "four major tests" and "four dangers." 
+
+Comrade Xi Jinping pointed out that China's affairs must be handled well, first of all, the affairs of the CCP must be handled well. 
+
+"If the party is not managed effectively and strictly... Then sooner or later our party will lose its qualification to govern and will inevitably be eliminated by history.1 The common adherence to party building, the party's overall leadership, and the strict management of the party in the new era
 is to "build the party into a Marxist ruling party that is always in the forefront of the times,
 wholeheartedly supported by the people, brave in self-revolution, and able to withstand the tests of
 all kinds of storms.”2

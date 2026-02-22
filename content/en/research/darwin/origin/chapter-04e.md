@@ -82,7 +82,9 @@ On the above principle, nurserymen always prefer getting seed from a large body 
 
 Intercrossing plays a very important part in nature in keeping the individuals of the same species, or of the same variety, true and uniform in character.
 
-It will obviously thus act far more efficiently with those animals which unite for each birth; but I have already attempted to show that we havereason to believe that occasional intercrosses take place with all animals and with all plants. Even if these take place only at long intervals, I am convinced that the young thus produced will gain so much in vigour and fertility over the offspring from long-continued self-fertilisation, that they will have a better chance of surviving and propagating their kind; and thus, in the long run, the influence of intercrosses, even at rare intervals, will be great.
+It will obviously thus act far more efficiently with those animals which unite for each birth; but I have already attempted to show that we havereason to believe that occasional intercrosses take place with all animals and with all plants. 
+
+Even if these take place only at long intervals, I am convinced that the young thus produced will gain so much in vigour and fertility over the offspring from long-continued self-fertilisation, that they will have a better chance of surviving and propagating their kind; and thus, in the long run, the influence of intercrosses, even at rare intervals, will be great.
 
 If there exist organic beings which never intercross, uniformity of character can be retained amongst them, as long as their conditions of life remain the same, only through the principle of inheritance, and through natural selection destroying any which depart from the proper type; but if their conditions of life change and they undergo modification, uniformity of character can be given to their modified offspring, solely by natural selection preserving the same favourable variations.
 

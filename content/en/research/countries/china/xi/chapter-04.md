@@ -46,19 +46,21 @@ CCP, the Chinese people have won great victories in the new democratic
 revolution, established the People's Republic of China, established the socialist system in which the
 people are masters of their own affairs, won great victories in reform and opening up, formed the
 path, theory, system and culture of socialism with Chinese characteristics, and ushered in the great
-leap of the Chinese nation from standing up, getting rich to becoming strong. Historical materialism
-emphasizes that the masses of the people are the creators and true heroes of history; the masses of
+leap of the Chinese nation from standing up, getting rich to becoming strong. 
+
+Historical materialism emphasizes that the masses of the people are the creators and true heroes of history; the masses of
 the people themselves create their own history and are the main body of historical activities.
-Historical experience also fully shows that the fundamental strength for adhering to and developing
-socialism with Chinese characteristics in the new era lies with the people, and only by relying on
-the people can we create a great historical cause and continue to write a new chapter of socialism
+
+Historical experience also fully shows that the fundamental strength for adhering to and developing socialism with Chinese characteristics in the new era lies with the people, and only by relying on the people can we create a great historical cause and continue to write a new chapter of socialism
 with Chinese characteristics in the new era.
 
 To rely on the people to create great historical causes, we must firmly establish the idea of the
-people's status as the main body. Comrade Mao Zedong pointed out that "the people, and only the
-people, are the driving force for creating world history," 1 and he proclaimed with emotion the
-strongest voice in history, "Long live the people." Comrade Xi Jinping has repeatedly stressed that
-the people are the creators of history and the people are the real heroes. Whether or not we respect
+people's status as the main body.
+
+Comrade Mao Zedong pointed out that "the people, and only the people, are the driving force for creating world history," 1 and he proclaimed with emotion the
+strongest voice in history, "Long live the people." 
+
+Comrade Xi Jinping has repeatedly stressed that the people are the creators of history and the people are the real heroes. Whether or not we respect
 the people's status as the main body and whether we recognize the main role of the masses in creating
 history is the fundamental mark that distinguishes the materialist view of history from the idealistic
 view of history. The foundation of the Party lies in the people, its bloodline lies in the people, and

@@ -9,6 +9,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
+{{< n n="Note that Enki here means the Enki faction just like Obama was the most famous leader of the Democratic Party and Reagan was the most famous leader of the Republican Party. So Enki versus Enlil is like Democrat versus Republican" >}}
 
 
 After Enki led the Jews out of Egypt, he gave Moses a lot of laws up on Mount Sinai. The most important was to worship only Enki and not other alien-gods like his elder brother Enlil. 
@@ -45,6 +46,4 @@ By 600 AD, Enki has probably realized that he should have invested in Ishmael's 
 
 And so through the Prophet Mohammad, Enki starts anew and gives so many laws all over again, creating Islam.
 
-
 The Muslims are therefore the last true human allies of Enki. 
-

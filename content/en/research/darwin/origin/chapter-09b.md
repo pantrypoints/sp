@@ -40,6 +40,8 @@ same story is still more plainly told by faults,--those great cracks along which
 upheaved on one side, or thrown down on the other, to the height or depth of thousands of feet; for
 since the crust cracked, the surface of the land has been so completely planed down by the action of
 the sea, that no trace of these vast dislocations is externally visible.
+
+
 The Craven fault, for instance, extends for upwards of 30 miles, and along this line the vertical
 displacement of the strata has varied from 600 to 3000 feet. Prof. Ramsay has published an
 account of a downthrow in Anglesea of 2300 feet; and he informs me that he fully believes there is
@@ -47,6 +49,7 @@ one in Merionethshire of 12,000 feet; yet in these cases there is nothing on the
 prodigious movements; the pile of rocks on the one or other side having been smoothly swept
 away. The consideration of these facts impresses my mind almost in the same manner as does the
 vain endeavour to grapple with the idea of eternity.
+
 I am tempted to give one other case, the well-known one of the denudation of the Weald. Though
 it must be admitted that the denudation of the Weald has been a mere trifle, in comparison with that
 which has removed masses of our palaeozoic strata, in parts ten thousand feet in thickness, as
@@ -56,8 +59,7 @@ to the west the northern and southern escarpments meet and close, one can safely
 the great dome of rocks which must have covered up the Weald within so limited a period as since
 the latter part of the Chalk formation. The distance from the northern to the southern Downs is
 about 22 miles, and the thickness of the several formations is on an average about 1100 feet, as I
-am informed by Prof. Ramsay. But if, as some geologists suppose, a range of older rocks underliesthe Weald, on the flanks of which the overlying sedimentary deposits might have accumulated in
-thinner masses than elsewhere, the above estimate would be erroneous; but this source of doubt
+am informed by Prof. Ramsay. But if, as some geologists suppose, a range of older rocks underliesthe Weald, on the flanks of which the overlying sedimentary deposits might have accumulated in thinner masses than elsewhere, the above estimate would be erroneous; but this source of doubt
 probably would not greatly affect the estimate as applied to the western extremity of the district. If,
 then, we knew the rate at which the sea commonly wears away a line of cliff of any given height,
 we could measure the time requisite to have denuded the Weald. This, of course, cannot be done;
@@ -74,6 +76,7 @@ form a breakwater at the base. Hence, under ordinary circumstances, I conclude t
 feet in height, a denudation of one inch per century for the whole length would be an ample
 allowance. At this rate, on the above data, the denudation of the Weald must have required
 306,662,400 years; or say three hundred million years.
+
 The action of fresh water on the gently inclined Wealden district, when upraised, could hardly have
 been great, but it would somewhat reduce the above estimate. On the other hand, during
 oscillations of level, which we know this area has undergone, the surface may have existed for
@@ -81,6 +84,7 @@ millions of years as land, and thus have escaped the action of the sea: when dee
 perhaps equally long periods, it would, likewise, have escaped the action of the coast-waves. So
 that in all probability a far longer period than 300 million years has elapsed since the latter part of
 the Secondary period.
+
 I have made these few remarks because it is highly important for us to gain some notion, however
 imperfect, of the lapse of years. During each of these years, over the whole world, the land and the
 water has been peopled by hosts of living forms. What an infinite number of generations, which
@@ -118,9 +122,10 @@ pages of detail. Nor is their rarity surprising, when we remember how large a pr
 bones of tertiary mammals have been discovered either in caves or in lacustrine deposits; and that
 not a cave or true lacustrine bed is known belonging to the age of our secondary or palaeozoic
 formations.
-But the imperfection in the geological record mainly results from another and more important cause
-than any of the foregoing; namely, from the several formations being separated from each other by
-wide intervals of time. When we see the formations tabulated in written works, or when we follow
+
+But the imperfection in the geological record is from several formations being separated by a long time.
+
+When we see the formations tabulated in written works, or when we follow
 them in nature, it is difficult to avoid believing that they are closely consecutive. But we know, for
 instance, from Sir R. Murchison's great work on Russia, what wide gaps there are in that country
 between the superimposed formations; so it is in North America, and in many other parts of the
@@ -133,6 +138,7 @@ be ascertained. The frequent and great changes in the mineralogical composition 
 formations, generally implying great changes in the geography of the surrounding lands, whence
 the sediment has been derived, accords with the belief of vast intervals of time having elapsed
 between each formation.
+
 But we can, I think, see why the geological formations of each region are almost invariably
 intermittent; that is, have not followed each other in close sequence. Scarcely any fact struck me
 more when examining many hundred miles of the South American coasts, which have been
@@ -186,6 +192,7 @@ other hand, during subsidence, the inhabited area and number of inhabitants will
 and consequently during subsidence, though there will be much extinction, fewer new varieties orspecies will be formed; and it is during these very periods of subsidence, that our great deposits rich
 in fossils have been accumulated. Nature may almost be said to have guarded against the frequent
 discovery of her transitional or linking forms.
+
 From the foregoing considerations it cannot be doubted that the geological record, viewed as a
 whole, is extremely imperfect; but if we confine our attention to any one formation, it becomes
 more difficult to understand, why we do not therein find closely graduated varieties between the
@@ -206,6 +213,7 @@ disappearing before the uppermost layers have been deposited, it would be equall
 that it then became wholly extinct. We forget how small the area of Europe is compared with the
 rest of the world; nor have the several stages of the same formation throughout Europe been
 correlated with perfect accuracy.
+
 With marine animals of all kinds, we may safely infer a large amount of migration during climatal
 and other changes; and when we see a species first appearing in any formation, the probability is
 that it only then first immigrated into that area. It is well known, for instance, that several species
@@ -226,9 +234,9 @@ flourish; for we know what vast geographical changes occurred in other parts of 
 this space of time. When such beds as were deposited in shallow water near the mouth of the
 Mississippi during some part of the glacial period shall have been upraised, organic remains will
 probably first appear and disappear at different levels, owing to the migration of species and to
-geographical changes. And in the distant future, a geologist examining these beds, might betempted to conclude that the average duration of life of the embedded fossils had been less than that
-of the glacial period, instead of having been really far greater, that is extending from before the
+geographical changes. And in the distant future, a geologist examining these beds, might betempted to conclude that the average duration of life of the embedded fossils had been less than that of the glacial period, instead of having been really far greater, that is extending from before the
 glacial epoch to the present day.
+
 In order to get a perfect gradation between two forms in the upper and lower parts of the same
 formation, the deposit must have gone on accumulating for a very long period, in order to have
 given sufficient time for the slow process of variation; hence the deposit will generally have to be a
@@ -242,6 +250,7 @@ supply whilst the downward movement continues. In fact, this nearly exact balanc
 supply of sediment and the amount of subsidence is probably a rare contingency; for it has been
 observed by more than one palaeontologist, that very thick deposits are usually barren of organic
 remains, except near their upper or lower limits.
+
 It would seem that each separate formation, like the whole pile of formations in any country, has
 generally been intermittent in its accumulation. When we see, as is so often the case, a formation
 composed of beds of different mineralogical composition, we may reasonably suspect that the
@@ -288,6 +297,7 @@ namely, to distinct but consecutive stages of the same great formation, we find 
 fossils, though almost universally ranked as specifically different, yet are far more closely allied to
 each other than are the species found in more widely separated formations; but to this subject I
 shall have to return in the following chapter.
+
 One other consideration is worth notice: with animals and plants that can propagate rapidly and are
 not highly locomotive, there is reason to suspect, as we have formerly seen, that their varieties are
 generally at first local; and that such local varieties do not spread widely and supplant their parent-
@@ -300,6 +310,7 @@ other marine animals, it is probably those which have had the widest range, far 
 of the known geological formations of Europe, which have oftenest given rise, first to local
 varieties and ultimately to new species; and this again would greatly lessen the chance of our being
 able to trace the stages of transition in any one geological formation.
+
 It should not be forgotten, that at the present day, with perfect specimens for examination, two
 forms can seldom be connected by intermediate varieties and thus proved to be the same species,
 until many specimens have been collected from many places; and in the case of fossil species this
@@ -308,8 +319,7 @@ our being enabled to connect species by numerous, fine, intermediate, fossil lin
 ourselves whether, for instance, geologists at some future period will be able to prove, that our
 different breeds of cattle, sheep, horses, and dogs have descended from a single stock or from
 several aboriginal stocks; or, again, whether certain sea-shells inhabiting the shores of North
-America, which are ranked by some conchologists as distinct species from their European
-representatives, and by other conchologists as only varieties, are really varieties or are, as it is
+America, which are ranked by some conchologists as distinct species from their European representatives, and by other conchologists as only varieties, are really varieties or are, as it is
 called, specifically distinct. This could be effected only by the future geologist discovering in a
 fossil state numerous intermediate gradations; and such success seems to me improbable in the
 highest degree.Geological research, though it has added numerous species to existing and extinct genera, and has
@@ -320,12 +330,12 @@ the gravest and most obvious of all the many objections which may be urged again
 Hence it will be worth while to sum up the foregoing remarks, under an imaginary illustration. The
 Malay Archipelago is of about the size of Europe from the North Cape to the Mediterranean, and
 from Britain to Russia; and therefore equals all the geological formations which have been
-examined with any accuracy, excepting those of the United States of America. I fully agree with
-Mr. Godwin-Austen, that the present condition of the Malay Archipelago, with its numerous large
-islands separated by wide and shallow seas, probably represents the former state of Europe, when
-most of our formations were accumulating. The Malay Archipelago is one of the richest regions of
+examined with any accuracy, excepting those of the United States of America. 
+
+I fully agree with Mr. Godwin-Austen, that the present condition of the Malay Archipelago, with its numerous large islands separated by wide and shallow seas, probably represents the former state of Europe, when most of our formations were accumulating. The Malay Archipelago is one of the richest regions of
 the whole world in organic beings; yet if all the species were to be collected which have ever lived
 there, how imperfectly would they represent the natural history of the world!
+
 But we have every reason to believe that the terrestrial productions of the archipelago would be
 preserved in an excessively imperfect manner in the formations which we suppose to be there
 accumulating. I suspect that not many of the strictly littoral animals, or of those which lived on
@@ -397,8 +407,7 @@ in supposing that whole groups of species have suddenly been produced. I may rec
 known fact that in geological treatises, published not many years ago, the great class of mammals
 was always spoken of as having abruptly come in at the commencement of the tertiary series. And
 now one of the richest known accumulations of fossil mammals belongs to the middle of the
-secondary series; and one true mammal has been discovered in the new red sandstone at nearly thecommencement of this great series. Cuvier used to urge that no monkey occurred in any tertiary
-stratum; but now extinct species have been discovered in India, South America, and in Europe even
+secondary series; and one true mammal has been discovered in the new red sandstone at nearly thecommencement of this great series. Cuvier used to urge that no monkey occurred in any tertiary stratum; but now extinct species have been discovered in India, South America, and in Europe even
 as far back as the eocene stage. The most striking case, however, is that of the Whale family; as
 these animals have huge bones, are marine, and range over the world, the fact of not a single bone
 of a whale having been discovered in any secondary formation, seemed fully to justify the belief
@@ -406,6 +415,7 @@ that this great and distinct order had been suddenly produced in the interval be
 secondary and earliest tertiary formation. But now we may read in the Supplement to Lyell's
 'Manual,' published in 1858, clear evidence of the existence of whales in the upper greensand, some
 time before the close of the secondary period.
+
 I may give another instance, which from having passed under my own eyes has much struck me. In
 a memoir on Fossil Sessile Cirripedes, I have stated that, from the number of existing and extinct
 tertiary species; from the extraordinary abundance of the individuals of many species all over the
@@ -468,16 +478,19 @@ Consequently, if my theory be true, it is indisputable that before the lowest Si
 deposited, long periods elapsed, as long as, or probably far longer than, the whole interval from the
 Silurian age to the present day; and that during these vast, yet quite unknown, periods of time, the
 world swarmed with living creatures.
-To the question why we do not find records of these vast primordial periods, I can give no
-satisfactory answer. Several of the most eminent geologists, with Sir R. Murchison at their head,
-are convinced that we see in the organic remains of the lowest Silurian stratum the dawn of life on
-this planet. Other highly competent judges, as Lyell and the late E. Forbes, dispute this conclusion.
-We should not forget that only a small portion of the world is known with accuracy. M. Barrande
-has lately added another and lower stage to the Silurian system, abounding with new and peculiar
-species. Traces of life have been detected in the Longmynd beds beneath Barrande's so-called
+
+
+I cannot answer why we do not find records of these vast primordial periods.
+
+Geologist Sir R. Murchison believes that we see in the organic remains of the lowest Silurian stratum the dawn of life on this planet. Other highly competent judges, as Lyell and the late E. Forbes, dispute this conclusion.
+
+We should not forget that only a small portion of the world is known with accuracy. M. Barrande has lately added another and lower stage to the Silurian system, abounding with new and peculiar species.
+
+Traces of life have been detected in the Longmynd beds beneath Barrande's so-called
 primordial zone. The presence of phosphatic nodules and bituminous matter in some of the lowest
-azoic rocks, probably indicates the former existence of life at these periods. But the difficulty of
-understanding the absence of vast piles of fossiliferous strata, which on my theory no doubt were
+azoic rocks, probably indicates the former existence of life at these periods. 
+
+But the difficulty of understanding the absence of vast piles of fossiliferous strata, which on my theory no doubt were
 somewhere accumulated before the Silurian epoch, is very great. If these most ancient beds had
 been wholly worn away by denudation, or obliterated by metamorphic action, we ought to find only
 small remnants of the formations next succeeding them in age, and these ought to be very generally
@@ -530,8 +543,7 @@ are all undoubtedly of the gravest nature. We see this in the plainest manner by
 most eminent palaeontologists, namely Cuvier, Owen, Agassiz, Barrande, Falconer, E. Forbes, &c.,
 and all our greatest geologists, as Lyell, Murchison, Sedgwick, &c., have unanimously, oftenvehemently, maintained the immutability of species. But I have reason to believe that one great authority, Sir Charles Lyell, from further reflexion entertains grave doubts on this subject. I feel how rash it is to differ from these great authorities, to whom, with others, we owe all our knowledge.
 
-Those who think the natural geological record in any degree perfect, and who do not attach much weight to the facts and arguments of other kinds given in this volume, will undoubtedly at once reject my theory. For my part, following out Lyell's metaphor, I look at the natural geological record, as a history of the world imperfectly kept, and written in a changing
-dialect; of this history we possess the last volume alone, relating only to two or three countries. Of
+Those who think the natural geological record in any degree perfect, and who do not attach much weight to the facts and arguments of other kinds given in this volume, will undoubtedly at once reject my theory. For my part, following out Lyell's metaphor, I look at the natural geological record, as a history of the world imperfectly kept, and written in a changing dialect; of this history we possess the last volume alone, relating only to two or three countries. Of
 this volume, only here and there a short chapter has been preserved; and of each page, only here
 and there a few lines. Each word of the slowly-changing language, in which the history is
 supposed to be written, being more or less different in the interrupted succession of chapters, may

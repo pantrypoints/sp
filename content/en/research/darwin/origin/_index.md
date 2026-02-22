@@ -7,4 +7,3 @@ weight: 2
 description: "On the Origin of Species is about Natural Selection and Survival of the Fittest"
 c: "firebrick"
 ---
-

@@ -10,6 +10,8 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 toc: false
+aliases:
+  /material/principles/part-6/chapter-01b/
 ---
 
 
