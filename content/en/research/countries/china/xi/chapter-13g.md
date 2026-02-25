@@ -8,7 +8,7 @@ c: "firebrick"
 ---
 
 
-2. Peaceful reunification and one country, two systems is the best way to achieve national reunification
+## 2. Peaceful reunification and one country, two systems is the best way to achieve national reunification
 
 The principle of "one country, two systems" on how to resolve the problem of relations between
 regions with two different social systems within a country and the reunification of one country is an
@@ -20,7 +20,9 @@ systems," and allows Taiwan, Hong Kong, and Macao a high degree of autonomy, whi
 embodies the principle of realizing the reunification of the motherland and safeguarding national
 sovereignty, but also fully considers the history and reality of Taiwan, Hong Kong, and Macao,
 embodies a high degree of flexibility, and is the basic principle for promoting the great cause of the
-peaceful reunification of the motherland. Adhering to the principle of "one country, two systems"
+peaceful reunification of the motherland.
+
+Adhering to the principle of "one country, two systems"
 and deeply promoting the practice of "one country, two systems" conforms to the interests of Taiwan,
 Hong Kong and Macao residents, the actual needs of prosperity and stability in Taiwan, Hong Kong
 and Macao, the fundamental interests of the country, and the common will of the people of the whole
@@ -30,7 +32,9 @@ unwavering; second, it should be comprehensive and accurate, ensuring that "one 
 systems" will not deviate or deform in practice, and will always advance in the correct direction.
 The core of "one country, two systems" lies in "one country.” Comrade Xi Jinping pointed out:
 "'One country' is the root, and deep roots can make Ye Mao; 'One country' is the foundation, and
-the foundation can prosper.1 "One country" is the premise and basis for the implementation of "two
+the foundation can prosper.1 
+
+"One country" is the premise and basis for the implementation of "two
 systems", which are subordinate to and derived from "one country" and unified within "one country.”
 The "two systems" within "one country" are not equal and shoulder to shoulder, and the main body
 of the country must implement the socialist system. Under this premise, proceeding from reality, we

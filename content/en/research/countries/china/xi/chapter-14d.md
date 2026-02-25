@@ -8,9 +8,9 @@ c: "firebrick"
 ---
 
 
-Section 2: Responsibilities and Responsibilities of Great
+## Section 2: Responsibilities and Responsibilities of Great
 
-Power Diplomacy in the New Era
+### Power Diplomacy in the New Era
 
 Contemporary China is an emerging developing country and a major country with decisive influence
 on the world stage. The history, reality and humanistic endowments of major countries determine
@@ -18,7 +18,9 @@ that every big country is different, each big country has its own characteristic
 must follow a development path that suits its own characteristics. Historical inheritance and
 historical encounters, national missions, cultural endowments, domestic and international
 environments, objectively require that China's diplomacy in the new era must be a major country
-diplomacy with distinctive Chinese characteristics. Guided by the grand goal of building a
+diplomacy with distinctive Chinese characteristics. 
+
+Guided by the grand goal of building a
 community with a shared future for mankind, China's diplomacy has vigorously promoted
 innovation in concepts and methods, fully demonstrated the responsibility and responsibility of
 major-country diplomacy in the new era, demonstrated the distinctive character of major-country
@@ -33,9 +35,11 @@ to human society with the responsibility and responsibility of a major country, 
 own growth and development, but also focuses on promoting the prosperity and development of
 human society, not diplomacy against major powers, nor diplomacy competing with other major
 powers in the world for dominance and hegemony.
-1. Unswervingly follow the path of peaceful development
-Since the 18th National Congress of the CCP, Comrade Xi Jinping has
-emphasized: "Taking the path of peaceful development is a strategic choice made by our Party in
+
+
+### 1. Unswervingly follow the path of peaceful development
+
+Since the 18th National Congress of the CCP, Comrade Xi Jinping has emphasized: "Taking the path of peaceful development is a strategic choice made by our Party in
 accordance with the development trend of the times and the fundamental interests of our country. " 1
 China is a country with a long civilization, a country that has experienced great suffering, a country
 that practices socialism with Chinese characteristics, the largest developing country in the world,
@@ -50,6 +54,7 @@ times and the fundamental interests of the country all determine that China can 
 of peaceful development. This road was not easy to come by, and it was gradually formed by the
 CPC through arduous exploration and continuous practice since the founding of New China,
 especially in the more than 40 years of reform and opening up.
+
 Over the years, with China's rapid development, some people in the world are worried that China
 will follow the path of "national strength must be hegemonic", believing that China's development
 must be a "threat", which is a deep-rooted prejudice. In this regard, Comrade Xi Jinping has

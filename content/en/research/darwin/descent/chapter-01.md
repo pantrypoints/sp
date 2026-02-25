@@ -2,7 +2,7 @@
 title: The Evidence Of The Descent Of Man From Some Lower Form
 heading: Chapter 1
 author: Charles Darwin
-weight: 5
+weight: 4
 description: "Habit also has a deciding influence, especially in animals"
 c: "firebrick"
 icon: "Charles Darwin"

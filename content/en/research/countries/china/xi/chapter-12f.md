@@ -8,7 +8,7 @@ c: "firebrick"
 ---
 
 
-3. Restore ecological environmental protection
+### 3. Restore ecological environmental protection
 
 China's ecological and environmental contradictions have a historical accumulation process, and it
 is impossible to expect complete changes in the short term. In this regard, it is necessary to establish
@@ -24,9 +24,9 @@ China has attached great importance to the construction of ecological corridors 
 conservation, actively implemented the Convention on Biological Diversity and its protocols, and
 more than 90% of terrestrial natural ecosystem types and 89% of wild animals and plants under
 national key protection have been protected in nature reserves.
-To build ecological corridors and biodiversity conservation networks, we must adhere to the "two-
-legged" walk of the country and the region. It is necessary to promote not only national-scale
-ecological corridors based on the top-level design of the country, but also promote the construction
+
+
+To build ecological corridors and biodiversity conservation networks, we must adhere to the "two-legged" walk of the country and the region. It is necessary to promote not only national-scale ecological corridors based on the top-level design of the country, but also promote the construction
 of regional ecological corridors such as the Yangtze River Economic Belt. At the same time, from
 the perspective of building a community with a shared future for mankind, we should build cross-
 border ecological corridors such as the "Belt and Road.” It is necessary to strengthen biodiversity
@@ -101,7 +101,8 @@ the diversity of compensation standards, allow non-governmental organizations an
 participate in it, innovate ecological products, and use various methods such as kind, technology,
 and projects to promote ecological compensation work.
 
-4. Reform and improve the ecological environment supervision and
+
+#### 4. Reform and improve the ecological environment supervision and
 assessment system
 
 To promote green development and build an ecological civilization, we should focus on establishing
@@ -206,4 +207,3 @@ Central Organization Department formulated the Green Development Index System an
 Ecological Civilization Construction Assessment Target System. It is necessary to refine the
 responsibilities of the main functional areas of the region, further improve the assessment system,
 and implement the assessment work.
-

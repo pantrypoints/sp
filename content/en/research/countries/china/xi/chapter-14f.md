@@ -8,7 +8,7 @@ c: "firebrick"
 ---
 
 
-2. strive to build an interconnected partnership
+### 2. Strive to build an interconnected partnership
 
 Comrade Xi Jinping pointed out: "The key to jointly building the Belt and Road is connectivity. "1
 The core here is policy communication, facility connectivity, unimpeded trade, financial integration,
@@ -18,12 +18,16 @@ To promote international cooperation along the "Belt and Road" is to take the "f
 starting point, widely condense cooperation consensus, and comprehensively improve the level of
 cooperation.
 
-First, strengthen policy communication. It is mainly to form a joint force of policy coordination and
-planning docking, promote relevant countries to learn from each other, establish policy coordination
+1. Strengthen policy communication
+
+It is mainly to form a joint force of policy coordination and planning docking, promote relevant countries to learn from each other, establish policy coordination
 mechanisms, jointly formulate cooperation plans, and jointly take cooperative actions, form a
 situation of planning convergence, development integration, benefit sharing, and coordinated
-development, and continuously consolidate the "Belt and Road.” The political foundation of
-construction. Relevant countries have fully exchanged economic development strategies and
+development, and continuously consolidate the "Belt and Road.” 
+
+The political foundation of construction. 
+
+Relevant countries have fully exchanged economic development strategies and
 countermeasures, based on the contact points and commonalities of development strategies, to
 achieve resource reallocation, strategic docking and complementary advantages, and achieve the
 effect of "one plus one is greater than two.”
@@ -37,29 +41,44 @@ Economic Union, Kazakhstan's "Bright Road", Turkey's "Middle Corridor", Mongolia
 Construction and Special Construction", the UK's "Northern Economic Center", and Poland's
 "Amber Road.”
 
-Second, strengthen facility connectivity. Mainly guided by major projects and key projects, we will
+
+2. Strengthen facility connectivity.
+
+Mainly guided by major projects and key projects, we will
 promote land, sea, air and online connectivity, build high-quality, sustainable, risk-resistant,
 affordable, inclusive and accessible infrastructure, and continuously improve the infrastructure
-network of the "Belt and Road" construction. Relevant countries negotiate and sign and implement
+network of the "Belt and Road" construction.
+
+Relevant countries negotiate and sign and implement
 transportation facilitation agreements, actively explore and improve cross-border transportation
 infrastructure, and build a complex infrastructure network led by economic corridors such as the
 New Eurasian Land Bridge, with China-Europe Express and New Land-Sea Corridor and other large
 corridors and information highways as the framework, and relying on railway and port pipe
 networks, so as to facilitate the economic development and personnel exchanges of various countries.
-Third, strengthen unimpeded trade. It is mainly to promote trade and investment liberalization and
+
+
+3. Strengthen unimpeded trade
+
+It is mainly to promote trade and investment liberalization and
 facilitation, take a clear stand against protectionism, and continuously release the vitality of mutually
 beneficial cooperation. Relevant countries will discuss and make appropriate arrangements on trade
 and investment facilitation, eliminate trade barriers, reduce trade and investment costs, strengthen
 the compatibility of rules and standard systems, improve the speed and quality of regional economic
 circulation, provide better business environment and institutional guarantees, and achieve mutual
-benefit and win-win results. China will sign high-standard free trade agreements with more countries,
+benefit and win-win results. 
+
+China will sign high-standard free trade agreements with more countries,
 strengthen cooperation in customs, taxation, auditing and supervision, establish a cooperation
 mechanism for tax collection and administration under the Belt and Road Initiative, accelerate the
 promotion of international mutual recognition and cooperation among "authorized operators", and
 build a broader platform for all parties to enter the Chinese market by holding the China International
 Import Expo. From 2013 to 2018, China's trade in goods with Belt and Road-related countries
 exceeded US$6 trillion and its outward direct investment exceeded US$90 billion.
-Fourth, strengthen financial integration. It is mainly to deepen cooperation in the financial field and
+
+
+4. Strengthen financial integration
+
+It is mainly to deepen cooperation in the financial field and
 continuously improve the diversified investment and financing system of the "Belt and Road"
 construction. Relevant countries carry out various forms of financial cooperation to achieve local
 currency exchange and settlement under current and capital accounts, so as to greatly reduce
@@ -74,14 +93,17 @@ a clear and large-scale "Belt and Road" financial cooperation network. The Round
 the Second Belt and Road Forum for International Cooperation formulated the Guiding Principles
 for Financing the Belt and Road and released the Belt and Road Initiative, The Framework for Debt
 Sustainability Analysis provides guidance for financing cooperation along the Belt and Road.
-Fifth, strengthen people-to-people bonds. The main thing is to continuously build friendly bridges
-along the route and other countries around the world. Carry out in-depth humanities cooperation in
+
+
+5. Strengthen people-to-people bonds
+
+The main thing is to continuously build friendly bridges along the route and other countries around the world. Carry out in-depth humanities cooperation in
 education, science, culture, sports, tourism, health, archaeology and other fields, strengthen
 exchanges between parliaments, political parties and non-governmental organizations, and close
 exchanges among women, youth, disabled persons and other groups, forming a pattern of diversified
-and interactive people-to-people exchanges. Relevant countries should strengthen friendly people-
-to-people exchanges, jointly carry forward the spirit of the Silk Road, and jointly build the "Belt and
-Road", The Sustainable Cities Alliance, the International Alliance for Green Development and other
+and interactive people-to-people exchanges. 
+
+Relevant countries should strengthen friendly people-to-people exchanges, jointly carry forward the spirit of the Silk Road, and jointly build the "Belt and Road", The Sustainable Cities Alliance, the International Alliance for Green Development and other
 mechanisms and the implementation of the "Clean Silk Road Beijing Initiative", actively carry out
 the construction of a healthy Silk Road, a green Silk Road, a clean Silk Road, etc., extensively carry
 out people's livelihood cooperation, jointly carry out a series of training projects in the fields of
@@ -97,13 +119,10 @@ will also vigorously promote the realization of the trinity of policies, rules a
 countries, and put the "Belt and Road" in the "Belt and Road"; Cooperation in construction is
 coordinated and aligned with the implementation of the United Nations 2030 Agenda for Sustainable
 Development and with international and regional development initiatives such as the G20, APEC,
-ASEAN, African Union, Eurasian Economic Union, European Union, CELAC and other
-international and regional development initiatives, and strive to complement and promote each other;
-Promote the formation of a framework led by the "Belt and Road" Forum for International
+ASEAN, African Union, Eurasian Economic Union, European Union, CELAC and other international and regional development initiatives, and strive to complement and promote each other; Promote the formation of a framework led by the "Belt and Road" Forum for International
 Cooperation and supported by multilateral and bilateral cooperation in various fields, focus on
 building mutually beneficial cooperation networks, new cooperation models, and diversified
 cooperation platforms, strengthen bilateral and third-party market cooperation, and enable
 cooperation to lead existing concepts and follow up actions. There is also a mechanism guarantee,
 with points leading the surface, from line to piece, gradually forming a new situation of regional
 cooperation.
-

@@ -1,22 +1,18 @@
 ---
 heading: Chapter 14b
-title: Socialism with Chinese Characteristics Enters a New Era
+title: Build a new type of international relations featuring mutual respect
 weight: 311
 date: 2025-10-13
 description: ""
 c: "firebrick"
 ---
 
-2. Build a new type of international relations featuring mutual respect, fairness and justice, and win-win cooperation
 
-Building a community with a shared future for mankind and building a world of lasting peace,
-universal security, common prosperity, openness, inclusiveness, cleanliness and beauty is a
-historical process, which cannot be achieved overnight and smooth sailing, and it is necessary to
-advance along the basic path of promoting the construction of a new type of international relations
-featuring mutual respect, fairness and justice, and win-win cooperation. The essence of building a
-new type of international relations is to embark on a new path of state-to-state exchanges based on
-dialogue rather than confrontation and partnership rather than alliance, so as to open up the way and
-accumulate conditions for building a community with a shared future for mankind.
+
+### 2. Build a new type of international relations featuring mutual respect, fairness and justice, and win-win cooperation
+
+
+Building a community with a shared future for mankind and building a world of lasting peace, universal security, common prosperity, openness, inclusiveness, cleanliness and beauty is a historical process, which cannot be achieved overnight and smooth sailing, and it is necessary to advance along the basic path of promoting the construction of a new type of international relations featuring mutual respect, fairness and justice, and win-win cooperation. The essence of building a new type of international relations is to embark on a new path of state-to-state exchanges based on dialogue rather than confrontation and partnership rather than alliance, so as to open up the way and accumulate conditions for building a community with a shared future for mankind.
 
 As early as March 2013, in a speech at the Moscow Institute of International Relations, Comrade
 Xi Jinping clearly pointed out that in the face of the objective requirement that all countries in the
@@ -25,7 +21,9 @@ world work together in the same boat, "to keep up with the pace of the times, we
 in the Cold War mentality, and in the Cold War mentality." Inside the old box of zero-sum games.
 "All countries should jointly promote the establishment of a new type of international relations with
 win-win cooperation as the core, and the people of all countries should work together to safeguard
-world peace and promote common development."1 To this end, it is necessary to go beyond those
+world peace and promote common development."1 
+
+To this end, it is necessary to go beyond those
 ideas and principles in traditional international relations that do not adapt to the trend of the times
 and should also be abandoned, such as the law of the jungle, the law of the jungle, you die and I live,
 you lose and I win, zero-sum game, etc.; It is also necessary to inherit a series of universally
@@ -61,17 +59,18 @@ and undermining peace and stability, we will promote the rationalization of inte
 adapt the reform of the global governance system to the new changes in the international balance of
 power, reflect the concerns and demands of all parties, and better safeguard the legitimate rights and
 interests of the vast number of developing countries.
+
 Win-win cooperation is the goal. "Harmony is strong, solitude is weak. "Win-win cooperation is a
 universally applicable principle, not only applicable to the economic field, but also to politics,
 security, culture and other fields, and should become the basic policy orientation of all countries in
 handling international affairs." All countries should combine their national interests with common
 interests, strive to expand the convergence of common interests of all parties, and should not build
-a stage here and tear it down there, but should complement each other and play a good show. All
-countries should actively establish a new concept of win-win, multi-win and win-win, and abandon
+a stage here and tear it down there, but should complement each other and play a good show.
+
+All countries should actively establish a new concept of win-win, multi-win and win-win, and abandon
 the old thinking that you lose and I win, and the winner takes all. "The beauty of each is the beauty
 of the beauty, the beauty of the beauty, the beauty of the world." "All countries should adhere to the
 principle of working together in the same boat, sharing rights and responsibilities, working together
 to address the increasing number of global issues such as climate change, energy resource security,
 cyber security, and major natural disasters, and jointly protect the earth home on which human
 beings depend."
-

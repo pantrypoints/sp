@@ -9,7 +9,6 @@ c: "firebrick"
 
 
 
-
 Developing socialism with Chinese characteristics requires:
 - safeguarding national security
 - strengthening military support
@@ -145,4 +144,3 @@ national security strategy has been continuously improved, and the national secu
 been significantly improved, which fundamentally lies in the strong leadership of the Party Central
 Committee with Comrade Xi Jinping as the core and the strategic guidance of the overall national
 security concept.
-

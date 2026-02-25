@@ -10,17 +10,44 @@ icon: "Charles Darwin"
 
 
 
-## the mental powers of birds
+## The mental powers of birds
 
-Before we further discuss the question whether the females select the more attractive males or accept the first whom they may encounter, it will be advisable briefly to consider the mental powers of birds which is ranked low.
+<!-- Before we further discuss the question whether the females select the more attractive males or accept the first whom they may encounter, it will be advisable briefly to consider  -->
+
+The mental powers of birds is ranked low.
 
 Yet some facts might say their power are high. 
 
-could be given leading to an opposite conclusion. (9. I am indebted to Prof. Newton for the following passage from Mr. Adam’s ‘Travels of a Naturalist,’ 1870, p. 278. Speaking of Japanese nut-hatches in confinement, he says: “Instead of the more yielding fruit of the yew, which is the usual food of the nut-hatch of Japan, at one time I substituted hard hazel-nuts. As the bird was unable to crack them, he placed them one by one in his water-glass, evidently with the notion that they would in time become softer—an interesting proof of intelligence on the part of these birds.”) 
+<!-- could be given leading to an opposite conclusion. (9. I am indebted to Prof. Newton for the following passage from Mr. Adam’s ‘Travels of a Naturalist,’ 1870, p. 278. Speaking of Japanese nut-hatches in confinement, he says: “Instead of the more yielding fruit of the yew, which is the usual food of the nut-hatch of Japan, at one time I substituted hard hazel-nuts. As the bird was unable to crack them, he placed them one by one in his water-glass, evidently with the notion that they would in time become softer—an interesting proof of intelligence on the part of these birds.”)  -->
 
-Low powers of reasoning, however, are compatible, as we see with mankind, with strong affections, acute perception, and a taste for the beautiful; and it is with these latter qualities that we are here concerned. It has often been said that parrots become so deeply attached to each other that when one dies the other pines for a long time; but Mr. Jenner Weir thinks that with most birds the strength of their affection has been much exaggerated. Nevertheless when one of a pair in a state of nature has been shot, the survivor has been heard for days afterwards uttering a plaintive call; and Mr. St. John gives various facts proving the attachment of mated birds. (10. ‘A Tour in Sutherlandshire,’ vol. i. 1849, p. 185. Dr. Buller says (‘Birds of New Zealand,’ 1872, p. 56) that a male King Lory was killed; and the female “fretted and moped, refused her food, and died of a broken heart.”) Mr. Bennett relates (11. ‘Wanderings in New South Wales,’ vol. ii. 1834, p. 62.) that in China after a drake of the beautiful mandarin Teal had been stolen, the duck remained disconsolate, though sedulously courted by another mandarin drake, who displayed before her all his charms. After an interval of three weeks the stolen drake was recovered, and instantly the pair recognised each other with extreme joy. On the other hand, starlings, as we have seen, may be consoled thrice in the same day for the loss of their mates. Pigeons have such excellent local memories, that they have been known to return to their former homes after an interval of nine months, yet, as I hear from Mr. Harrison Weir, if a pair which naturally would remain mated for life be separated for a few weeks during the winter, and afterwards matched with other birds, the two when brought together again, rarely, if ever, recognise each other.
+Low powers of reasoning, however, are compatible, as we see with mankind, with strong affections, acute perception, and a taste for the beautiful.
 
-Birds sometimes exhibit benevolent feelings; they will feed the deserted young ones even of distinct species, but this perhaps ought to be considered as a mistaken instinct. They will feed, as shewn in an earlier part of this work, adult birds of their own species which have become blind. Mr. Buxton gives a curious account of a parrot which took care of a frost-bitten and crippled bird of a distinct species, cleansed her feathers, and defended her from the attacks of the other parrots which roamed freely about his garden. It is a still more curious fact that these birds apparently evince some sympathy for the pleasures of their fellows. When a pair of cockatoos made a nest in an acacia tree, “it was ridiculous to see the extravagant interest taken in the matter by the others of the same species.” These parrots, also, evinced unbounded curiosity, and clearly had “the idea of property and possession.” (12. ‘Acclimatization of Parrots,’ by C. Buxton, M.P., ‘Annals and Mag. of Nat. Hist.’ Nov. 1868, p. 381.) They have good memories, for in the Zoological Gardens they have plainly recognised their former masters after an interval of some months.
+I am concerned with these latter qualities.
+
+Parrots become so deeply attached to each other that when one dies the other pines for a long time.
+
+But Mr. Jenner Weir thinks that with most birds the strength of their affection has been much exaggerated. 
+
+Nevertheless when one of a pair in a state of nature has been shot, the survivor has been heard for days afterwards uttering a plaintive call; and Mr. St. John gives various facts proving the attachment of mated birds. (10. ‘A Tour in Sutherlandshire,’ vol. i. 1849, p. 185. Dr. Buller says (‘Birds of New Zealand,’ 1872, p. 56) that a male King Lory was killed; and the female “fretted and moped, refused her food, and died of a broken heart.”) Mr. Bennett relates (11. ‘Wanderings in New South Wales,’ vol. ii. 1834, p. 62.) that in China after a drake of the beautiful mandarin Teal had been stolen, the duck remained disconsolate, though sedulously courted by another mandarin drake, who displayed before her all his charms.
+
+After 3 weeks, the stolen drake was recovered. Instantly, the pair recognised each other with extreme joy.
+
+On the other hand, starlings may be consoled thrice in the same day for the loss of their mates.
+
+Pigeons have such excellent local memories.
+- They return to their former homes after 9 months.
+
+Harrison Weir tells me that if a pair which naturally would remain mated for life be separated for a few weeks during the winter, and afterwards matched with other birds, the two when brought together again, rarely, if ever, recognise each other.
+
+Birds sometimes exhibit benevolent feelings.
+
+They will feed the deserted young ones even of distinct species.
+
+But this perhaps is a mistaken instinct.
+
+They will feed adult birds of their own species which have become blind.
+
+Buxton gives a curious account of a parrot which took care of a frost-bitten and crippled bird of a distinct species, cleansed her feathers, and defended her from the attacks of the other parrots which roamed freely about his garden. It is a still more curious fact that these birds apparently evince some sympathy for the pleasures of their fellows. When a pair of cockatoos made a nest in an acacia tree, “it was ridiculous to see the extravagant interest taken in the matter by the others of the same species.” These parrots, also, evinced unbounded curiosity, and clearly had “the idea of property and possession.” (12. ‘Acclimatization of Parrots,’ by C. Buxton, M.P., ‘Annals and Mag. of Nat. Hist.’ Nov. 1868, p. 381.) They have good memories, for in the Zoological Gardens they have plainly recognised their former masters after an interval of some months.
 
 Birds possess acute powers of observation. Every mated bird, of course, recognises its fellow. Audubon states that a certain number of mocking-thrushes (Mimus polyglottus) remain all the year round in Louisiana, whilst others migrate to the Eastern States; these latter, on their return, are instantly recognised, and always attacked, by their southern brethren. Birds under confinement distinguish different persons, as is proved by the strong and permanent antipathy or affection which they shew, without any apparent cause, towards certain individuals. I have heard of numerous instances with jays, partridges, canaries, and especially bullfinches. Mr. Hussey has described in how extraordinary a manner a tamed partridge recognised everybody: and its likes and dislikes were very strong. This bird seemed “fond of gay colours, and no new gown or cap could be put on without catching his attention.” (13. The ‘Zoologist,’ 1847-48, p. 1602.) Mr. Hewitt has described the habits of some ducks (recently descended from wild birds), which, at the approach of a strange dog or cat, would rush headlong into the water, and exhaust themselves in their attempts to escape; but they knew Mr. Hewitt’s own dogs and cats so well that they would lie down and bask in the sun close to them. They always moved away from a strange man, and so they would from the lady who attended them if she made any great change in her dress. Audubon relates that he reared and tamed a wild turkey which always ran away from any strange dog; this bird escaped into the woods, and some days afterwards Audubon saw, as he thought, a wild turkey, and made his dog chase it; but, to his astonishment, the bird did not run away, and the dog, when he came up, did not attack the bird, for they mutually recognised each other as old friends. (14. Hewitt on wild ducks, ‘Journal of Horticulture,’ Jan. 13, 1863, p. 39. Audubon on the wild turkey, ‘Ornithological Biography,’ vol. i. p. 14. On the mocking-thrush, ibid. vol. i. p. 110.)
 

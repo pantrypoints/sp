@@ -38,7 +38,9 @@ can't become a political party, and losing your political nature means changing 
 Classic writers of Marxism have always attached importance to political issues and the political
 construction of political parties. Engels emphasized that the political domination of the proletariat
 is a means of eliminating classes, therefore, "the question is only how to engage in politics and what
-kind of politics." And for us it is impossible to abandon politics.” 1 He added: "After all, a new
+kind of politics." 
+
+And for us it is impossible to abandon politics.” 1 He added: "After all, a new
 program is always a banner that has been raised publicly, and the outside world will judge the party
 by it.2 Lenin clearly pointed out: "Politics cannot fail to occupy the first place in comparison with
 the economy." To not affirm this is to forget the minimum common sense of Marxism. 3 These
@@ -61,6 +63,7 @@ Communist Party if it doesn't talk about politics?"3 Along the way, the CCP
 has continuously won one major victory after another in revolution, construction, and reform, which
 is inseparable from the party's clear-cut emphasis on politics and its emphasis on strengthening
 political construction.
+
 Since the 18th National Congress of the CCP, the most fundamental reason
 why the Party and the country have made historic achievements and undergone historic changes is
 that the Party Central Committee with Comrade Xi Jinping as the core has insisted on considering
@@ -71,6 +74,7 @@ be solved for a long time but have not been solved, accomplishing many major thi
 wanted to be done in the past but failed to accomplish, and opening up a new realm of governing
 the country and managing the party and the party.
 Putting the party's political construction in the first place is an important choice for the party Central
+
 Committee with Comrade Xi Jinping as the core to comprehensively and strictly administer the
 party and eliminate the threat to the development of the party's cause. Due to reasons such as lax
 and soft management of the party during a period of time, some tendencies within the party that do
@@ -135,7 +139,9 @@ the country and the happiness of the people, and it must be resolutely defended 
 implemented. The more we face the severe and complicated international and domestic situations
 and the more we are in the crucial period of the great rejuvenation of the Chinese nation, the more
 we must keep a sober mind and strategic determination and implement the party's political line.
-Purify the political ecology. We must take the creation of a clean political ecology as a basic and
+Purify the political ecology.
+
+We must take the creation of a clean political ecology as a basic and
 regular task. It is necessary to start with serious inner-party political life, strictly implement the
 "Several Guidelines for Inner-Party Political Life in the New Situation," focus on improving the
 quality of inner-party political life, continuously enhance the political, epochal, principled, and

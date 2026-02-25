@@ -8,7 +8,8 @@ c: "firebrick"
 ---
 
 
-3. Build the people's army into a world-class army
+
+### 3. Build the people's army into a world-class army
 
 Speeding up the building of the people's army into a world-class army is the political demand and
 ardent expectation of the party and the people for the people's army in the new era, an inevitable
@@ -19,20 +20,24 @@ practice of strengthening the army.
 The people's army shoulders the historical mission of providing strategic support for the realization
 of the great rejuvenation of the Chinese nation. In the new era, profound changes have taken place
 in the connotation and extension of China's security, in the field of time and space, and in internal
-and external factors. The period when we move from big to strong and strong is often a high-risk
+and external factors. 
+
+The period when we move from big to strong and strong is often a high-risk
 period for national security, and the more we develop and grow, the greater the pressure and
 resistance we face. This is an unavoidable challenge in the process of China's development from big
 to strong, and it is the threshold that cannot be bypassed to realize the great rejuvenation of the
 Chinese nation. "A strong country must strengthen its army, and a strong army can ensure national
-security."1 National defense and army building are the strong backing of national security, military
+security."1 
+
+National defense and army building are the strong backing of national security, military
 means are the means to guarantee the realization of great dreams, military struggle is an important
 aspect of waging great struggle, and the ability to win is a strategic capability for safeguarding
 national security. Comrade Xi Jinping profoundly pointed out that our military must provide
-strategic support for consolidating the leadership of the CCP and China's
-socialist system, providing strategic support for safeguarding national sovereignty, unity and
+strategic support for consolidating the leadership of the CCP and China's socialist system, providing strategic support for safeguarding national sovereignty, unity and
 territorial integrity, providing strategic support for expanding China's overseas interests, and
-providing strategic support for promoting world peace and development. This is the mission and
-task entrusted by the party and the people to the people's army in the new era, the strategic
+providing strategic support for promoting world peace and development. 
+
+This is the mission and task entrusted by the party and the people to the people's army in the new era, the strategic
 requirement to support the great rejuvenation of the Chinese nation, and the full value of our army.
 This requires the whole army to strengthen its mission responsibility, enhance its sense of distress
 and enterprising spirit, and accelerate its ability to fulfill its mission and tasks in the new era with a
@@ -57,6 +62,7 @@ of our army's construction; reorganizing the pattern of struggle, firmly defendi
 of the country, and effectively solving the outstanding problems in the use and use of military forces;
 reconstructing the layout of construction, innovating development concepts and methods, and
 effectively solving the problem that our army's construction is not enough to focus on actual combat.
+
 The conspicuous problem of poor quality and efficiency; re-establishing the image of work style,
 vigorously promoting healthy tendencies, discipline and anti-corruption, and effectively solving the
 conspicuous problems of unhealthy tendencies and corruption breeding and spreading. The
@@ -67,8 +73,9 @@ of Xi Jinping's thinking on strengthening the military. Xi Jinping Thought on St
 Army, leading the practice of strengthening the army and sublimating it in the practice of
 strengthening the army, is the crystallization of the practical experience and wisdom of the people's
 army since the 18th National Congress of the CCP, and is a fundamental
-achievement in building and managing the army and strengthening the army in the new era. To
-realize the modernization of national defense and the armed forces, we must firmly establish the
+achievement in building and managing the army and strengthening the army in the new era. 
+
+To realize the modernization of national defense and the armed forces, we must firmly establish the
 guiding position of Xi Jinping's thinking on strengthening the military in national defense and army
 building.
 
@@ -95,33 +102,26 @@ blueprint to ensure that it is built into a world-class army as scheduled.
 Grasp the strategic priorities of national defense and army modernization. The modernization of
 national defense and the armed forces is a systematic project, with a myriad of problems, and it is
 necessary to pinpoint strategic priorities and promote overall improvement with key breakthroughs.
-The first is to build a joint operations command system, build a strong and efficient theater joint
-operations command organization, open up the command link of the whole system and process of
-joint operations, and promote the improvement of the joint operation capability of the whole army.
-The second is to build a new type of military management system, improve the strategic
-management link of "demand one planning, one budget, one implementation and one assessment",
-and improve the operational efficiency of military systems and the quality and efficiency of our
-military construction. The third is to build a modern military force system, coordinate the
-construction of all parties in various fields, coordinate the construction of combat forces, support
-and support forces, and promote the overall improvement of our military's force system. The fourth
-is to build a new-type military training system, persist in actual combat training and joint combat
-training, persist in promoting construction with training and combining training with application,
-and improve the level of actual combat training. Fifth, vigorously implement the strategic project of
-qualified personnel, strengthen the construction of a new-type military personnel training system of
-"trinity" in military academies and schools, military training practice, and military vocational
-education, and promote the overall leap in the level of personnel construction. Sixth, build a national
-defense science and technology innovation system, accelerate the development of high-tech
-weapons and equipment, and improve the quality of weapons and equipment and the scientific level
-of architecture. The seventh is to build a modern military policy and institutional system,
-systematically plan, forward-looking, and overall reshape the policy system, and create an
-institutional environment with strong constraints and effective incentives. The eighth is to build a
-military-civilian integration development system, gradually realize the integration of the country's
-strategic layout in all fields, the integration of strategic resources, and the integrated use of strategic
-forces, accelerate the formation of an all-factor, multi-field, and high-efficiency pattern of in-depth
-development of military-civilian integration, give play to the political advantages of the socialist
-system that can concentrate on major things, and maximize the comprehensive benefits of economic
-construction and national defense construction. At the same time, we should vigorously carry
-forward the glorious tradition of loving the people and supporting the army, improve and implement
+
+
+1. Build a joint operations command system, build a strong and efficient theater joint operations command organization, open up the command link of the whole system and process of joint operations, and promote the improvement of the joint operation capability of the whole army.
+
+2. Build a new type of military management system, improve the strategic management link of "demand one planning, one budget, one implementation and one assessment", and improve the operational efficiency of military systems and the quality and efficiency of our military construction.
+
+
+3. Build a modern military force system, coordinate the construction of all parties in various fields, coordinate the construction of combat forces, support and support forces, and promote the overall improvement of our military's force system. 
+
+4. Build a new-type military training system, persist in actual combat training and joint combat training, persist in promoting construction with training and combining training with application, and improve the level of actual combat training.
+
+5. Vigorously implement the strategic project of qualified personnel, strengthen the construction of a new-type military personnel training system of "trinity" in military academies and schools, military training practice, and military vocational education, and promote the overall leap in the level of personnel construction.
+
+6. Build a national defense science and technology innovation system, accelerate the development of high-tech weapons and equipment, and improve the quality of weapons and equipment and the scientific level of architecture.
+
+7. Build a modern military policy and institutional system, systematically plan, forward-looking, and overall reshape the policy system, and create an institutional environment with strong constraints and effective incentives. 
+
+8. Build a military-civilian integration development system, gradually realize the integration of the country's strategic layout in all fields, the integration of strategic resources, and the integrated use of strategic forces, accelerate the formation of an all-factor, multi-field, and high-efficiency pattern of in-depth development of military-civilian integration, give play to the political advantages of the socialist system that can concentrate on major things, and maximize the comprehensive benefits of economic construction and national defense construction. 
+
+At the same time, we should vigorously carry forward the glorious tradition of loving the people and supporting the army, improve and implement
 the honor system for military personnel, strengthen the management and guarantee of retired
 servicemen, safeguard the legitimate rights and interests of military personnel and their families,
 strengthen national defense education for the whole people, improve the national defense

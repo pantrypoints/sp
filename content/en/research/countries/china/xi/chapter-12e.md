@@ -8,7 +8,8 @@ c: "firebrick"
 ---
 
 
-2. Solve prominent environmental problems and curbing the spread of pollution
+
+#### 2. Solve prominent environmental problems and curbing the spread of pollution
 
 Comrade Xi Jinping stressed: "Environmental protection and governance should focus on solving
 environmental problems that harm people's health and highlight environmental problems",2 starting
@@ -98,6 +99,7 @@ relevant parties jointly participate. Strengthen the control of agricultural non
 promote zero growth in the use of chemical fertilizers and pesticides, increase the recovery rate of
 agricultural film, and accelerate the full resource utilization of crop straw and livestock and poultry
 breeding waste.
+
 Actively participate in global environmental governance and implement emission reduction
 commitments. As early as 2015, China promised that by 2020, carbon dioxide emissions per unit of
 GDP will be reduced by 40%~45% compared with 2005, and non-fossil energy will account for
@@ -105,7 +107,9 @@ about 15% of primary energy consumptionCO2 emissions will peak around 2030 and a
 as soon as possible. In fact, China's carbon dioxide emissions per unit of GDP in 2017 fell by 46%
 compared with 2005, which has exceeded the upper limit target of reducing carbon intensity by
 40%~45% by 2020,1 and the carbon emission peak target is also expected to be completed ahead of
-schedule. China has also taken the lead in issuing China's National Plan for Implementing the 2030
+schedule. 
+
+China has also taken the lead in issuing China's National Plan for Implementing the 2030
 Agenda for Sustainable Development, implementing the National Climate Change Plan (2014-
 2020), and depositing the instrument of ratification of the Paris Agreement with the United Nations.
 In 2017, it initiated the establishment of the "Belt and Road" International Alliance for Green

@@ -110,8 +110,10 @@ existing internal party regulations, and the system of internal party laws and r
 continuously improved, initially forming an internal party laws and regulations system with the
 party constitution as the foundation, democratic centralism as the core, and guidelines, regulations
 and other internal party regulations as the main trunk.
-3. Promote the development of strict party management in an all-round way
-and in depth
+
+
+3. Promote the development of strict party management in an all-round way and in depth
+
 Since the 18th CPC National Congress, historic achievements have been made in administering the
 party strictly, but we must not be blindly optimistic. Reality warns us that there is still a heavy task
 and a long way to go in comprehensively administering the party strictly, and we must not slacken

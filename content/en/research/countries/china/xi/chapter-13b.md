@@ -1,5 +1,5 @@
 ---
-heading: Chapter 14
+heading: Chapter 13b
 title: "Deeply grasp the overall concept of national security"
 weight: 280
 date: 2025-10-13
@@ -8,7 +8,8 @@ c: "firebrick"
 ---
 
 
-2. Deeply grasp the overall concept of national security
+
+#### 2. Deeply grasp the overall concept of national security
 
 On April 15, 2014, at the first plenary meeting of the Central National Security Commission,
 Comrade Xi Jinping put forward for the first time the major strategic thinking of the overall national
@@ -17,7 +18,9 @@ the road of national security with Chinese characteristics should be followed. "
 overall concept of national security" was also written into the report of the 19th National Congress
 of the CCP as the basic strategy for adhering to and developing socialism with
 Chinese characteristics in the new era, and was written into the revised Constitution of the
-CCP. This is the first time in the history of the CCP that the theory of national security has been included in the report of the party congress, and it is also
+CCP. 
+
+This is the first time in the history of the CCP that the theory of national security has been included in the report of the party congress, and it is also
 the first time that the theory of national security has been taken as an important part of the party's
 guiding ideology. Adhering to the overall national security concept is not only an important part of
 Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era, but also a practical
@@ -30,16 +33,18 @@ emphasizing the comprehensive and systematic nature of national security.
 The overall emphasis is on "general security", which includes traditional security such as political,
 territorial and military, as well as non-traditional security such as economy, culture, society, network
 and ecology; includes both the current security field and new fields such as space, deep sea, polar
-and biological fields; and includes both physical and human security. In addition, the overall
-emphasis is on comprehensiveness rather than comprehensiveness, and security issues must not be
+and biological fields; and includes both physical and human security. 
+
+In addition, the overall emphasis is on comprehensiveness rather than comprehensiveness, and security issues must not be
 generalized, and security boundaries must be grasped well. It is not feasible to talk about security
 without basic national conditions, security without the international environment, and security
 without development.
 
 The overall is a state that emphasizes the relativity and sustainability of national security. Safety is
 relative, risk factors are always present, there is no absolute security. Overall security emphasizes
-maintaining a state of relative freedom from danger and internal and external threats. It is necessary
-to base ourselves on the present and the long term; we must base ourselves on the dynamic
+maintaining a state of relative freedom from danger and internal and external threats. 
+
+It is necessary to base ourselves on the present and the long term; we must base ourselves on the dynamic
 perception and dynamic assessment of the situation, and on the foresight of the medium- and long-
 term development trend; we must have a goal-oriented general idea, general framework, and general
 layout, and be good at adjusting the strategy and tactics of national security in a timely manner
@@ -92,25 +97,29 @@ importance to both homeland security and national security, and emphasizing the 
 homeland security and national security; attaching importance to both traditional and non-traditional
 security, emphasizing that traditional security threats and non-traditional security threats affect each
 other and may be transformed into each other under certain conditions; and attaching importance to
-development issues. It also attaches importance to security issues, emphasizing that development
+development issues. 
+
+It also attaches importance to security issues, emphasizing that development
 and security are two sides of the same coin, that development is the foundation of security, and that
 security is the condition for development, so that a rich country can strengthen its troops and defend
 its country; it attaches importance to both its own security and common security, and stresses that
 the security of China and the world in the context of globalization are inseparable.
+
 In short, national security is an inseparable security system, each element has its own focus, and
 each element is interrelated and affects each other. The five major elements and the five pairs of
 relationships accurately reflect the internal logic of China's national security, accurately reflect the
 dialectical, comprehensive and systematic concept of national security, and profoundly reveal the
-principle requirements and rich connotations of the overall national security concept. The overall
+principle requirements and rich connotations of the overall national security concept. 
+
+The overall
 concept of national security is the concentrated application and latest embodiment of Marxist
 positions and views and methods in the field of national security, which is both epistemological and
 methodological, embodies a high degree of unity between people's security, political security, and
 the supremacy of national interests, embodies a high degree of unity in historical thinking, world
 vision and the spirit of the times, and embodies a high degree of unity in theory, practice, and system.
 
-3. Safeguard and shape national security with Chinese characteristics
-National security with Chinese characteristics should be both safeguarded and shaped, and shaping
-is a higher-level and more forward-looking safeguard.
+
+#### 3. Safeguard and shape national security with Chinese characteristics National security with Chinese characteristics should be both safeguarded and shaped, and shaping is a higher-level and more forward-looking safeguard.
 
 It is necessary to strengthen follow-up, study, and judgment of the national security situation, strive
 to grasp the law in the changing situation, seek advantages and avoid disadvantages in chaos, and

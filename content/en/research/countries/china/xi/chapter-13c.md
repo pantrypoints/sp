@@ -18,21 +18,24 @@ directional, overall and major issues in national defense and army building in t
 the road to strengthening the army with Chinese characteristics, and creates a new situation of
 strengthening the army and rejuvenating the army.
 
-1. Build a people's army that obeys the command of the party and has a good
+
+#### 1. Build a people's army that obeys the command of the party and has a good
 style of winning battles
 
 Clearly defining the goal of army building is a successful experience of the CPC in building and
-managing the army. In various historical periods, in accordance with changes in the situation and
+managing the army. 
+
+In various historical periods, in accordance with changes in the situation and
 tasks, the Party has clearly put forward the goals and requirements for the building and development
-of the people's army, leading the continuous development of the building of our army. Comrade
-Mao Zedong led the formulation of the general principle of building an excellent modern
+of the people's army, leading the continuous development of the building of our army. 
+
+Comrade Mao Zedong led the formulation of the general principle of building an excellent modern
 revolutionary army, Comrade Deng Xiaoping put forward the general goal of building a powerful
 modernized and regularized revolutionary army, and Comrade Jiang Zemin put forward the general
 requirements for army building that is politically qualified, competent in military affairs, excellent
 in work style, strict in discipline, and effective in guarantees. 
 
-Comrade Hu Jintao put forward the
-important idea of strengthening the comprehensive building of the armed forces in accordance with
+Comrade Hu Jintao put forward the important idea of strengthening the comprehensive building of the armed forces in accordance with
 the principle of combining revolutionization, modernization, and regularization, profoundly
 revealed the objective law governing army building, and guided our army to continuously win new
 victories from small to large and from weak to strong.
@@ -62,6 +65,8 @@ and system of the party's absolute leadership over the army, conscientiously imp
 responsibility system of the chairman of the Central Military Commission, and resolutely maintain
 consistency, safeguard authority, and obey commands at all times and under all circumstances, and
 ensure the absolute loyalty, absolute purity, and absolute reliability of the troops.
+
+
 Being able to win battles is the core, reflecting the fundamental functions of the army and the
 fundamental orientation of army building. The army is first and foremost a combat team, and it must
 persist in focusing all construction and work on winning battles. If the army cannot win on the
@@ -72,7 +77,9 @@ constantly changing with the development of war practice, and being able to win 
 does not mean that you can win a war now. Judging from the situation of the army's modernization
 construction and the fulfillment of the tasks of preparing for military struggle in recent years, the
 problem of our army's insufficient ability to fight a modern war and the insufficient ability of cadres
-at all levels to command a modern war have not yet been completely resolved. Under the new
+at all levels to command a modern war have not yet been completely resolved. 
+
+Under the new
 situation, we must grasp the key to being able to fight and win wars, firmly establish combat
 effectiveness as the only fundamental criterion, more firmly and consciously grasp the preparation
 for war and plan to win, carry forward our army's fearless heroic spirit and heroic and tenacious

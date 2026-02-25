@@ -8,18 +8,11 @@ c: "firebrick"
 ---
 
 
-3. Actively lead and promote the reform of the global governance system
 
-In today's world, with the ebb and flow of international forces and the increasing number of global
-challenges, it is the general trend to strengthen global governance and promote the reform of the
-global governance system. Comrade Xi Jinping attaches great importance to the issue of global
-governance, and presided over the collective study of the Politburo on this topic twice in October
-2015 and September 2016. With a broad global vision and a world mind, he asked "what is wrong
-with the world and what should we do? “It also accurately grasps the development trend of
-increasingly interdependent countries in the world, puts forward the global governance concept of
-consultation, co-construction and sharing, and leads the innovative development of global
-governance concepts and practices with Chinese wisdom, Chinese propositions and Chinese
-solutions.
+
+### 3. Actively lead and promote the reform of the global governance system
+
+In today's world, with the ebb and flow of international forces and the increasing number of global challenges, it is the general trend to strengthen global governance and promote the reform of the global governance system. Comrade Xi Jinping attaches great importance to the issue of global governance, and presided over the collective study of the Politburo on this topic twice in October 2015 and September 2016. With a broad global vision and a world mind, he asked "what is wrong with the world and what should we do? “It also accurately grasps the development trend of increasingly interdependent countries in the world, puts forward the global governance concept of consultation, co-construction and sharing, and leads the innovative development of global governance concepts and practices with Chinese wisdom, Chinese propositions and Chinese solutions.
 
 As a builder of world peace, a contributor to global development and a defender of international
 order, China insists on proceeding from its national conditions and actively playing its role as a

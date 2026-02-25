@@ -1,6 +1,6 @@
 ---
 heading: Chapter 13h
-title: Socialism with Chinese Characteristics Enters a New Era
+title: Maintain the long-term prosperity and stability of Hong Kong and Macao
 weight: 300
 date: 2025-10-13
 description: ""
@@ -8,12 +8,14 @@ c: "firebrick"
 ---
 
 
-3. Maintain the long-term prosperity and stability of Hong Kong and Macao
+### 3. Maintain the long-term prosperity and stability of Hong Kong and Macao
 
 Since the return of Hong Kong and Macao, the practice of "one country, two systems" has achieved
 universally recognized success. For more than 20 years, "one country, two systems" has been
 successfully practiced in Hong Kong and Macao, and has grown vigorously and yielded fruitful
-results in the storm. Since Hong Kong's return to the motherland, Hong Kong's economic growth
+results in the storm. 
+
+Since Hong Kong's return to the motherland, Hong Kong's economic growth
 rate has been in the forefront of developed economies, and its status as an international financial,
 shipping and trade center has been further consolidated, and it has become one of the most dynamic
 cities in Asia, one of the freest economies in the world and one of the most competitive economies
@@ -31,13 +33,17 @@ accordance with the Constitution and the Basic Law, improve the system and mecha
 appointment and removal of the chief executive and principal officials of the SAR, the system of
 interpretation of the Basic Law by the Standing Committee of the National People's Congress, and
 exercise the powers entrusted to the Central Committee by the Constitution and the Basic Law in
-accordance with the law. Persist in administering Hong Kong and Macao in accordance with the
+accordance with the law.
+
+Persist in administering Hong Kong and Macao in accordance with the
 law, safeguard the constitutional order established by the Constitution and the Basic Law, establish
 and improve the SAR's legal system and enforcement mechanisms for safeguarding national security,
 and support the SAR in strengthening its law enforcement forces; improve the degree of
 accountability of the Chief Executive of the Special Administrative Region to the Central
 Government, and support the Chief Executive and the SAR Government in their administration in
-accordance with the law. To fully and accurately implement the principles of "one country, two
+accordance with the law.
+
+To fully and accurately implement the principles of "one country, two
 systems", "Hong Kong people administering Hong Kong", "Macao people administering Macao"
 and a high degree of autonomy, it is necessary to combine upholding the principle of "one country"
 with respecting the differences between the "two systems", safeguarding the central government's
@@ -76,7 +82,9 @@ Special Administrative Region Government issued an order prohibiting the pro-ind
 Executive of the Hong Kong Special Administrative Region in Council made a decision confirming
 the validity of the order of the Secretary for Security and that the Central People's Government
 supports the Government of the Hong Kong Special Administrative Region in banning the "Hong
-Kong National Party" operate in accordance with the law. In April 2019, the Government of the
+Kong National Party" operate in accordance with the law.
+
+In April 2019, the Government of the
 Hong Kong Special Administrative Region introduced into the Legislative Council the Fugitive
 Offenders and Mutual Legal Assistance in Criminal Matters (Amendment) Bill 2019 to enable Hong
 Kong to commence case-by-case co-operation with jurisdictions that do not yet have long-term
@@ -88,8 +96,9 @@ rallies, causing a "storm over the amendment of the extradition bill." ”. With
 incitement of the opposition and the intervention of external forces, various illegal activities such as
 "Hong Kong independence", separatism, violent terrorist activities have intensified, and the national
 security risks of the Hong Kong Special Administrative Region have become increasingly
-prominent. In this regard, Comrade Xi Jinping pointed out that the continuous radical and violent
-crimes in Hong Kong have seriously trampled on the rule of law and social order, seriously
+prominent.
+
+In this regard, Comrade Xi Jinping pointed out that the continuous radical and violent crimes in Hong Kong have seriously trampled on the rule of law and social order, seriously
 undermined Hong Kong's prosperity and stability, and seriously challenged the bottom line of the
 "one country, two systems" principle. The Chinese government is unswerving in its determination
 to safeguard national sovereignty, security and development interests, unswervingly in its
@@ -116,7 +125,9 @@ secession, subversion of state power, terrorist activities, collusion with forei
 forces to endanger national security, case jurisdiction, application of law and procedures, and the
 organs of the Central People's Government in the Hong Kong Special Administrative Region for
 safeguarding national security, etc., and establishes a legal system and enforcement mechanism for
-safeguarding national security in the Region. This is the second important law specially formulated
+safeguarding national security in the Region. 
+
+This is the second important law specially formulated
 by the central government for Hong Kong after the Hong Kong Basic Law, which is of great and
 far-reaching significance for adhering to and improving the "one country, two systems" institutional
 system, safeguarding national sovereignty, security and development interests, and ensuring Hong
@@ -125,7 +136,9 @@ relevant provisions of the Hong Kong National Security Law, the Hong Kong Specia
 Administrative Region has established a Committee for Safeguarding National Security, which is
 responsible for safeguarding national security affairs in the Region, assumes the primary
 responsibility for safeguarding national security, and accepts supervision and accountability from
-the Central People's Government. The Central People's Government shall establish the Office for
+the Central People's Government. 
+
+The Central People's Government shall establish the Office for
 Safeguarding National Security in the Hong Kong Special Administrative Region to perform its
 duties and exercise relevant powers in accordance with law. Since its promulgation and
 implementation, the Hong Kong National Security Law has formed a powerful deterrent to various
@@ -162,4 +175,3 @@ mechanism for high-quality economic development, play an exemplary and leading r
 institutional innovation and pilot projects, build a modern economic system, better integrate into the
 global market system, build a base for emerging industries, advanced manufacturing and modern
 service industries in the world, and build a world-class city cluster.
-

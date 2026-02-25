@@ -10,18 +10,37 @@ weight: 9
 ---
 
 
-{{< s v="8" >}} We therefore conclude that it is not in every man's power1 3 always to use reason and to be at the highest pitch of human freedom, but yet he always endeavours as far as in him lies to preserve his own being and (since every man has right to the extent that he has power), whether he be wise or ignorant, whatever he endeavours and does, he endeavours and does by the sovereign right of Nature.
+{{< s v="8" >}} Therefore man uses his reason for self-preservation instead of for the highest pitch of human freedom.
+- This is part of the sovereign right of Nature.
 
-From this it follows that Nature's right and established order, under which all men are born and for the most part live, forbids only those th ings that no one desires and no one can do; it does not frown on strife, or hatred, or anger, or deceit, or on anything at all urged by appetite. 
+<!-- 's power1 3 always to use reason and to , but yet he always endeavours as far as in him lies to preserve his own being and (since every man has right to the extent that he has power), whether he be wise or ignorant, whatever he endeavours and does, he endeavours and does by the  -->
 
-This is not surprising, for Nature's bounds are set not by the laws of human reason whose aim is only man's true interest and preservation, but by infinite other laws which have regard to the eternal order of
-the whole of Nature, of which man is but a tiny part. 
+It follows that Nature's right and established order forbids only those things that no one desires and no one can do.
 
-It is from the necessity of this order alone that all individual things are determined to exist and to act in a definite way. 
+<!-- , under which all men are born and for the most part live, ;  -->
 
-So if something in Nature appears to us as ridiculous, absurd, or evil, this is due to the fact that our knowledge is only partial, that we are for the most part ignorant of the order and coherence of Nature as a whole, and that we want all things to be directed as our reason prescribes. Yet that which our reason declares to be evil is not evil in respect of the order and laws of universal Nature, but only in respect of our own particular nature. 
+it does not frown on:
+- strife or
+- hatred
+- anger
+- deceit 
+- anything urged by appetite
 
-{{< s v="9" >}} Furthermore, it follows that every man is subject to another's right for as long as he is in the other's power,15 and he is in control of his own right to the extent that he can repel all force, take whatever vengeance he pleases for in jury done to him, and, in general, live as he chooses to live.
+
+The laws of human reason aim only man's true interest and preservation.
+
+But Nature is bound by infinite other laws whichregard the eternal order of all of Nature, of which man is but a tiny part. 
+
+<!-- It is from the necessity of this order alone that all individual things are determined to exist and to act in a definite way.  -->
+
+
+So if something in Nature appears to us as ridiculous, absurd, or evil, this is due to the fact that our knowledge is only partial, that we are for the most part ignorant of the order and coherence of Nature as a whole, and that we want all things to be directed as our reason prescribes.
+
+Yet that which our reason declares to be evil is not evil in respect of the order and laws of universal Nature, but only in respect of our own particular nature. 
+
+
+{{< s v="9" >}} It follows that every man is subject to another's right for as long as he is in the other's power,15 and he is in control of his own right to the extent that he can repel all force, take whatever vengeance he pleases for in jury done to him, and, in general, live as he chooses to live.
+
 
 {{< s v="10" >}} One man has another in his power if he holds him in bonds, or has deprived him of the arms and means of self-defence or escape, or has terrorised him, or has so attached the other to himself by benefit conferred that the man would rather please his benefactor than himself and live as the other would wish rather than at his own choosing. 
 
@@ -66,15 +85,17 @@ translate adequately.]
 from Hobbes, for whom the civitas anses by pactum 1  -->
 
 
-{{< s v="15" >}} Now (by Section 9 of this Chapter) every man in the state of Naturel9 is in control of his own right just as long as he can guard himself from being subjugated by another, and it is va in for one man alone to try to guard himself aga install others. 
+{{< s v="15" >}} Section 9 of this Chapter said that:
+- every man in the state of Nature is in control of his own right just as long as he can guard himself from being subjugated by another
+- it is vain for one man alone to try to guard himself against all others. 
 
-Hence it follows that as long as human natural right is determined by the power of each single individual and is possessed by each alone, it is of no account and is notional rather than factual, since there is no assurance that it can be made good. And there is no doubt that the more cause for fear a man has, the
-less power, and consequently the less right, he possesses. 
+Hence it follows that as long as human natural right is determined by the power of each single individual and is possessed by each alone, it is of no account and is notional rather than factual, since there is no assurance that it can be made good. 
 
-Furthermore, it is scarcely possible for men to support life and cultivate their minds without mutual
-assistance. 
+The more cause for fear a man has, the less power, and consequently the less right, he has. 
 
-We therefore conclude that the natural right specific to human beings can scarcely be conceived except where men have their rights in common and can together successfully defend the territories which they can inhabit and cultivate, protect themselves, repel all force, and live in accordance with the judgment of the entire community. 
+Men cannot support life and cultivate their minds without mutual assistance. 
+
+Thus the natural right specific to human beings can scarcely be conceived except where men have their rights in common and can together successfully defend the territories which they can inhabit and cultivate, protect themselves, repel all force, and live in accordance with the judgment of the entire community. 
 
 For (by Section 13 ofthis Chapter) the greater the number of men who thus unite in one body, the more right they will all collectively possess. 
 
@@ -159,11 +180,18 @@ Chapter 3 689 -->
 I have said that man in a state of Nature, if he sins at all, sins against himself, see Chapter 4, Sections 4 and 5, where it is shown in what sense it can be said that he who holds the sovereign power and is possessed of the right of Nature can be bound by laws and can sin.
 
 
-{{< s v="22" >}} As far as religion is concerned, it is also quite certain that the more a man loves God and worships him with all his heart, the more he is free and the more completely obedient to his own self Still, when we have regard not to Nature's order-of which we are ignorant-but only to the dictates of reason as they concern religion (at the same time realising that these are revealed to us by God as though speaking within us, or that they were also revealed to the prophets in the form of laws) then, speaking in human fashion, we say that he who loves God with all his heart is obedient to God, and he who is guided by blind desire is a sinner.25 
 
-But we must always remember that we are in God's hands as clay in the hands of the potter,26 who from the same lump makes some vessels unto honour and others unto dishonour. 27 
+{{< s v="22" >}} In religion, the more a man loves God and worships him with all his heart, the more he is free and the more completely obedient to his own self.
 
-So a man can indeed act contrary to these decrees of God insofar as they have been inscribed as laws upon our minds or the minds of the prophets, but he cannot act against the eternal decree of God, which is inscribed on universal Nature and which takes into account the order of Nature in its entirety.
+Still, when we have regard not to Nature's order-of which we are ignorant-but only to the dictates of reason as they concern religion (at the same time realising that these are revealed to us by God as though speaking within us, or that they were also revealed to the prophets in the form of laws) then, speaking in human fashion, we say that he who loves God with all his heart is obedient to God, and he who is guided by blind desire is a sinner.25 
+
+But we are in God's hands as clay in the hands of the potter.
+
+<!-- ,26 who from the same lump makes some vessels unto honour and others unto dishonour. 27  -->
+
+So a man can act contrary to these decrees of God insofar as they have been inscribed as laws upon our minds or the minds of the prophets, but he cannot act against the eternal decree of God, which is inscribed on universal Nature and which takes into account the order of Nature in its entirety.
+
+
 
 {{< s v="23" >}} Therefore, just as sin and obedience, taken in the strict sense, can be conceived only in a state, the same is true of justice and injustice. 
 
@@ -171,4 +199,6 @@ For there is nothing in Nature that can rightly be said to belong to one man and
 
 But in a state, where what belongs to one man and not to another is decided by common laws, a man is called just who has the constant will to render to every man his own; and he is called unjust who endeavours to appropriate to himself what belongs to another.
 
+
 {{< s v="24" >}} With regard to praise and blame, we have explained in our Ethics that these are feelings of pleasure and pain accompanied by the idea of human virtue or weakness as a cause.29 
+
