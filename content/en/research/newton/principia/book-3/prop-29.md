@@ -1,19 +1,40 @@
 ---
 heading: Proposition 29
-title: "Projectivle"
-description: "Find the variation of the moon"
+title: "Find the variation of the moon"
+description: "This inequality is owing partly to the elliptic figure of the moon's orbit, partly to the inequality of the moments of the area which the moon by a radius drawn to the earth describes"
 author: Newton
-draft: true
 c: "firebrick"
 ---
 
 
 
-## Proposition 29 Problem 10
 
-Find the variation of the moon.
+## Proposition 29 Problem 10: Find the variation of the moon.
 
-This inequality is owing partly to the elliptic figure of the moon s orbit,
+This inequality is owing partly to the elliptic figure of the moon's orbit, partly to the inequality of the moments of the area which the moon by a radius drawn to the earth describes. 
+
+If the moon P revolved in the ellipsis DBCA about the earth quiescent in the centre of the ellipsis, and by the radius TP, drawn to the earth, described the area CTP, proportional to the time of description.
+
+The greatest semi-diameter CT of the ellipsis was to the least TA as 70 to 69; the tangent of the angle CTP would be to the tangent of the angle of the mean motion, computed from the quadrature C, as the semi-diameter TA of the ellipsis to its semi-diameter TC, or as 69 to 70.
+
+But the description of the area CTP, as the moon advances from the quadrature to the syzygy, ought to be in such manner accelerated, that the moment of the area in the moon's syzygy may be to the moment thereof in its quadrature as 11073 to 10973; and that the excess of the moment in any intermediate place P above the moment in the quadrature may be as the square of the sine of the angle CTP; which we may effect with accuracy enough, if we diminish the tangent of the angle CTP in the subduplicate proportion of the number 10973 to the number 11073, that is, in proportion of the number 68,6877 to the number 69.
+
+Upon which account the tangent of the angle CTP will now be to the tangent of the mean motion as 68,6877 to 70; and the angle CTP in the octants, where the mean motion is 45°, will be found 44° 27′ 28″, which subtracted from 45°, the angle of the mean motion, leaves the greatest variation 32′ 32″. Thus it would be, if the moon, in passing from the quadrature to the syzygy, described an angle CTA of 90 degrees only.
+
+But because of the motion of the earth, by which the sun is apparently transferred in consequentia, the moon, before it overtakes the sun, describes an angle CT, greater than a right angle, in the proportion of the time of the synodic revolution of the moon to the time of its periodic revolution, that is, in the proportion of 29d.12h.44′ to 27d.7h.43′.
+
+Whence it comes to pass that all the angles about the centre T are dilated in the same proportion; and the greatest variation, which otherwise would be but 32′ 32″, now augmented in the said proportion, becomes 35′ 10″.
+
+This is its magnitude in the mean distance of the sun from the earth, neglecting the differences which may arise from the curvature of the orbis magnus, and the stronger action of the sun upon the moon when horned and new, than when gibbous and full.
+
+In other distances of the sun from the earth, the greatest variation is in a proportion compounded of the duplicate proportion of the time of the synodic revolution of the moon (the time of the year being given) directly, and the triplicate proportion of the distance of the sun from the earth inversely. And, therefore, in the apogee of the sun, the greatest variation is 33′ 14″, and in its perigee 37′ 11″, if the eccentricity of the sun is to the transverse semi-diameter of the orbis magnus as 1615⁄16 to 1000.
+
+Hitherto we have investigated the variation in an orb not eccentric, in which, to wit, the moon in its octants is always in its mean distance from the earth. If the moon, on account of its eccentricity, is more or less removed from the earth than if placed in this orb, the variation may be something greater, or something less, than according to this rule. But I leave the excess or defect to the determination of astronomers from the phænomena.
+
+
+
+
+<!-- This inequality is owing partly to the elliptic figure of the moon s orbit,
 partly to the inequality of the moments of the area which the moon by a
 If the moon P revolved in the ellipsis
 radius drawn t\) the earth describes.
@@ -590,4 +611,4 @@ AZ
 given), as
 fore,
 16&quot;
-when
+when -->

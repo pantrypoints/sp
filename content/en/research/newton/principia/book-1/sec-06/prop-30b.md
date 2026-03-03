@@ -1,16 +1,16 @@
 ---
-heading: Section 6b
-linkTitle: Prop 2
-title: "Lemma 28"
+heading: Proposition 30 Lemma 28
+title: "Ovals"
 c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
-weight: 6
+weight: 8
 ---
 
 
+### Lemma 28
 
-There is no oval figure whose area, cut off by right lines at pleasure, can be universally found by means of equations of any number of finite terms and dimensions.
+*There is no oval figure whose area, cut off by right lines at pleasure, can be universally found by means of equations of any number of finite terms and dimensions.*
 
 
 A right line as a pole is perpetually revolving with an uniform motion in an oval. 
@@ -62,7 +62,9 @@ Consequently, one and the same equation will exhibit all the intersections, and 
 
 By the same argument, if the interval of the pole and point by which the spiral is described is taken proportional to that part of the perimeter of the oval which is cut off; it may be proved that the length of the perimeter cannot be universally exhibited by any finite equation. But here I speak of ovals that are not touched by conjugate figures running out in infinitum.
 
-### Cor. 
+
+### Corollary
+
 
 Hence the area of an ellipsis, described by a radius drawn from the focus to the moving body, is not to be found from the time given by a finite equation; and therefore cannot be determined by the description of curves geometrically rational. Those curves I call geometrically rational, all the points whereof may be determined by lengths that are definable by equations; that is, by the complicated ratios of lengths.
 

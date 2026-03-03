@@ -1,15 +1,16 @@
 ---
-heading: Section 7
-linkTitle: Prop 32
-title: "Proposition 32 Problem 24"
+heading: Proposition 32 Problem 34
+title: "Centripetal Force"
 c: "firebrick"
-description: "We simplify Principlia Mathematica"
+description: "Suppose that the centripetal force is reciprocally proportional to the square of the distance of the places from the centre."
 icon: "Newton"
-weight: 6
+weight: 5
 ---
 
 
-Supposing that the centripetal force is reciprocally proportional to the square of the distance of the places from the centre; it is required to define the spaces which a body, falling directly, describes in given times.
+
+Supposing that the centripetal force is reciprocally proportional to the square of the distance of the places from the centre.
+- It is required to define the spaces which a body, falling directly, describes in given times.
 
 
 ### Case 1

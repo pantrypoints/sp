@@ -1,18 +1,15 @@
 ---
-heading: Section 6
-linkTitle: Prop 2
-title: "Proposition 30 Problem 22"
+heading: Proposition 30 Problem 22
+title: "Parabola"
 c: "firebrick"
-description: "We simplify Principlia Mathematica"
+description: "Find at any time the place of a body moving in a given parabolic trajectory."
 icon: "Newton"
 weight: 6
 ---
 
 
 
-## Proposition 30 Problem 22
-
-Find at any time the place of a body moving in a given parabolic trajectory.
+## Proposition 30 Problem 22: Find at any time the place of a body moving in a given parabolic trajectory.
 
 Let:
 

@@ -1,9 +1,9 @@
-
-<!-- <!-- ---
+---
 title: "Propositions 9-12"
 c: "firebrick"
 description: "Gravity, as a downward pull of a planet, decreases nearly in the proportion of the distances from their centres"
 icon: "Newton"
+draft: true
 ---
 
 
@@ -210,4 +210,4 @@ Hence the common centre of gravity of the earth, the sun, and all the planets, i
 
 If that body were to be placed in the centre, towards which other bodies gravitate most, that privilege ought to be allowed to the sun; but since the sun itself is moved, a fixed point is to be chosen from which the be placed centre and from which it would recede yet least, and greater, and therefore less apt denser of the were sun body sun recedes
 of the less if the to be in moved.
- --> -->
+ 

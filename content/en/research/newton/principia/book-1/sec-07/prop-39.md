@@ -1,37 +1,43 @@
 ---
-heading: Section 7f
-linkTitle: Prop 39
-title: "Proposition 39 Theorem 13"
+heading: Proposition 39 Problem 27
+title: "Semi-circles"
 c: "firebrick"
-description: "We simplify Principlia Mathematica"
+description: ""
 icon: "Newton"
-weight: 6
+weight: 25
 ---
 
 
-Supposing a centripetal force of any kind, and granting the quadratures of curvilinear figures; it is required to find the velocity of a body, ascending or descending in a right line, in the several places through which it passes; as also the time in which it will arrive at any place: and vice versa.
 
-Suppose the body E to fall from any place A in the right line ADEC; and from its place E imagine a perpendicular EG always erected proportional to the centripetal force in that place tending to the centre C; 
+## Proposition 39 Problem 27: Supposing a centripetal force of any kind, and granting the quadratures of curvilinear figures.
+
+It is required to find the velocity of a body, ascending or descending in a right line, in the several places through which it passes; as also the time in which it will arrive at any place: and vice versa.
+
+Suppose the body `E` falls from `A` in the right line `ADEC`
+
+From its place `E`, imagine a perpendicular `EG` always erected proportional to the centripetal force in that place tending to the centre C; 
 
 {{< i s="/graphics/physics/39-27.jpg" a="Drawing" >}}
 
-let BFG be a curve line, the locus of the point G. And in the beginning of the motion suppose EG to coincide with the perpendicular AB; and the velocity of the body in any place E will be as a right line whose square is equal to the curvilinear area ABGE.   Q.E.I.
+Let `BFG`1 be a curve line, the locus of the point G.
+
+In the beginning of the motion suppose EG to coincide with the perpendicular AB; and the velocity of the body in any place E will be as a right line whose square is equal to the curvilinear area ABGE.   Q.E.I.
+
 
 In EG take EM reciprocally proportional to a right line whose square is equal to the area ABGE, and let VLM he a curve line wherein the point M is always placed, and to which the right line AB produced is an asymptote; and the time in which the body in falling describes the line AE, will be as the curvilinear area ABTVME.   Q.E.I.
 
 For in the right line AE let there be taken the very small line DE of a given length, and let DLF be the place of the line EMG, when the body was in D; and if the centripetal force be such, that a right line, whose square is equal to the area ABGE, is as the velocity of the descending body, the area itself will be as the square of that velocity; that is, if for the velocities in D and E we write V and V + I, the area ABFD will be as VV, and the area ABGE as VV + 2VI + II; and by division, the area DFGE as 2VI + II, and therefore 
 
+..
 
- will be as 
+
+will be as 
 
 that is, if we take the first ratios of those quantities when just nascent, the length DF is as the quantity 
 
-and therefore also as half that quantity  I
-×
-V
-D
-E
-{\displaystyle \scriptstyle {\frac {I\times V}{DE}}}. But the time in which the body in falling describes the very small line DE, is as that line directly and the velocity V inversely; and the force will be as the increment I of the velocity directly and the time inversely; and therefore if we take the first ratios when those quantities are just nascent, as 
+and therefore also as half that quantity  I .... 
+
+But the time in which the body in falling describes the very small line DE, is as that line directly and the velocity V inversely; and the force will be as the increment I of the velocity directly and the time inversely; and therefore if we take the first ratios when those quantities are just nascent, as 
 I
 ×
 V
