@@ -14,18 +14,28 @@ icon: "Charles Darwin"
 
 <!-- The truth and importance of the principle of inheritance at corresponding ages need not here be discussed, as enough has already been said on the subject. Before giving the several rather complex rules or classes of cases, under which the differences in plumage between the young and the old, as far as known to me, may be included, it will be well to make a few preliminary remarks. -->
 
-With animals of all kinds when the adults differ in colour from the young, and the colours of the latter are not, as far as we can see, of any special service, they may generally be attributed, like various embryological structures, to the retention of a former character. But this view can be maintained with confidence, only when the young of several species resemble each other closely, and likewise resemble other adult species belonging to the same group; for the latter are the living proofs that such a state of things was formerly possible. 
+With animals of all kinds when the adults differ in colour from the young, and the colours of the latter are not, as far as we can see, of any special service, they may generally be attributed, like various embryological structures, to the retention of a former character. 
 
-Young lions and pumas have feeble stripes or spots.
+We can be confident with this view only when the young of several species:
+- resemble each other closely 
+- resemble other adult species in the same group
+
+The adult are the living proofs that such a state of things was formerly possible. 
+
+
+For example, young lions and pumas have feeble stripes or spots.
 
 <!-- , and as many allied species both young and old are similarly marked, no believer in evolution will doubt that  -->
-
 
 The progenitor of the lion and puma was a striped animal.
 
 The young have retained vestiges of the stripes, like the kittens of black cats, which are not in the least striped when grown up. 
 
-Many species of deer, which when mature are not spotted, are whilst young covered with white spots, as are likewise some few species in the adult state. So again the young in the whole family of pigs (Suidae), and in certain rather distantly allied animals, such as the tapir, are marked with dark longitudinal stripes; but here we have a character apparently derived from an extinct progenitor, and now preserved by the young alone. 
+Many species of deer, which when mature are not spotted, are whilst young covered with white spots, as are likewise some few species in the adult state.
+
+The young in the whole family of pigs (Suidae), and in distantly allied animals, such as the tapir, have dark longitudinal stripes.
+
+But here we have a character apparently derived from an extinct progenitor, and now preserved by the young alone. 
 
 In all such cases the old have had their colours changed in the course of time, whilst the young have remained but little altered, and this has been effected through the principle of inheritance at corresponding ages.
 

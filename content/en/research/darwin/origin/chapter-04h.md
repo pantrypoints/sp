@@ -35,7 +35,9 @@ The same principle is seen in the naturalisation of plants through man's agency 
 
 It might have been expected that the plants which have succeeded in becoming naturalised in any land would generally have been closely allied to the indigenes; for these are commonly looked at as specially created and adapted for their own country.
 
-It might, also, perhaps have been expected that naturalised plants would have belonged to a few groups more especially adapted to certain stations in their new homes. But the case is very different; and Alph. De Candolle has well remarked in his great and admirable work, that floras gain by naturalisation, proportionally with the number of the native genera and species, far more in new genera than in new species. 
+It might, also, perhaps have been expected that naturalised plants would have belonged to a few groups more especially adapted to certain stations in their new homes. But the case is very different; and Alph. 
+
+De Candolle has well remarked in his great and admirable work, that floras gain by naturalisation, proportionally with the number of the native genera and species, far more in new genera than in new species. 
 
 
 Dr. Asa Gray's 'Manual of the Flora of the Northern United States' has 260 naturalised plants, of a highly diversified nature, belonging to 162 genera. 
@@ -67,4 +69,3 @@ They somewhat match our carnivorous, ruminant, and rodent mammals which they cou
 This is because the diversification of Australian mammals are in an early and incomplete stage of development. 
 
 The modified descendants of any one species will succeed by so much the better as they become more diversified in structure, and are thus enabled to encroach on places occupied by other beings.
-

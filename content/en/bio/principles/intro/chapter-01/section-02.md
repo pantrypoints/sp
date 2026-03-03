@@ -12,7 +12,9 @@ writer:
 icon: "Bio Superphysics"
 aliases:
   /medical/principles/chapter-01b
+  /bio/principles/chapter-01b
 ---
+
 
 
 

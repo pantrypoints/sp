@@ -7,6 +7,8 @@ image: "/flags/cn.png"
 writer:
   name: Chau Ju Kua
   url: https://en.wikipedia.org/wiki/Zhao_Rukuo
+aliases:
+  /research/chau-ju-kua/chun-fan-chi/46b/
 ---
 
 

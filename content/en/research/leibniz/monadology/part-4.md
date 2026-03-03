@@ -12,13 +12,15 @@ icon: "Leibniz"
 ---
 
 
-74. Scientists have had great difficulties over the origin of forms, entelechies or souls.
+
+<sup>74</sup> Scientists have had great difficulties over the origin of forms, entelechies or souls.
 
 But now it has been recognised that naturally organic bodies are never the product of gas or rotting, but always of seeds. These contain some sort of preformation.
 
 It means that:
 - the organic body already exists before conception
 - a soul already exists in this body, in the animal itself.
+
 
 The only function of conception is to precipitate a major transformation, so that the animal becomes an animal of a different species. 
 
@@ -76,7 +78,7 @@ If he had noticed this, he would have stumbled on my system of pre-established h
 The 2 act as if there were an influence of the one on the other.
 
 
-82. As for spirits or rational souls, I find that, fundamentally, the same is true of all living beings and animals. 
+<sup>82</sup> As for spirits or rational souls, I find that, fundamentally, the same is true of all living beings and animals. 
 
 The animal and the soul come into being at the beginning of the world. No more go out of being than the world itself. 
 
@@ -87,7 +89,7 @@ As long as their tiny seminal animals continue in their lower status, they have 
 But as soon as those which are chosen attain human nature through conception, their sensitive souls are elevated to the rank of reason, and to the privileges of spirits.
 
 
-83. Ordinary souls and spirits differ.
+<sup>83</sup> Ordinary souls and spirits differ.
 - Souls are living mirrors or images of the universe of created things
 - Spirits are also images of the divinity itself, or of the Author of Nature himself. 
 
@@ -111,7 +113,7 @@ It is the most sublime and divine of God’s creations. It is what God’s glory
 It is only in relation to this divine city that God has any goodness, strictly speaking, whereas his wisdom and his power are manifest everywhere.
 
 
-87. There is a perfect harmony between two natural realms:
+<sup>87</sup> There is a perfect harmony between two natural realms:
 - the realm of efficient causes, and
 - the realm of final causes. 
 
@@ -123,12 +125,13 @@ This is between:
 - God as the designer of the universe, and
 - God as the monarch of the divine city of spirits.
 
-88. This harmony means that things lead to grace by means of nature itself.
+
+<sup>88</sup> This harmony means that things lead to grace by means of nature itself.
 
 For example, the Earth must be destroyed and restored by natural means, as and when it is required by the government of spirits, in order to punish some, and reward others.
 
 
-89. God as creator includes God as legislator in every respect.
+<sup>89</sup> God as creator includes God as legislator in every respect.
 
 Consequently, sins must carry their punishment with them in accordance with the order of nature, and even by virtue of the mechanical structure of things. 
 

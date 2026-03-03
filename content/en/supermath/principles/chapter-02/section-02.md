@@ -5,6 +5,8 @@ date: 2025-03-18
 image: "/photos/physics/lab.jpg"
 description: "Vortex numbers are base-5 instances that can make geometry easier and less irrational"
 weight: 11
+aliases:
+  /supermath/principles/chapter-02b
 # was chapter 2b
 ---
 

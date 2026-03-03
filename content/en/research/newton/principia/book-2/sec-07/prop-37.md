@@ -1,633 +1,111 @@
 ---
 heading: Proposition 37 Theorem 29
-title: "Projectivle"
-description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
+title: "Cylindrical Motion"
+description: "A cylinder moves uniformly forwards in a compressed, infinite, and non-elastic fluid, in the direction of its length."
 author: Newton
-draft: true
 c: "firebrick"
 ---
 
 
-PROPOSITION XXXVII. THEOREM XXIX.
-If a cylinder move uninformly forward in a compressed, infinite, arid
-non-elastic finid, in the direction of its length, the resistance arising
-from
-its
-the
-magnitude of its transverse
-whole motion
-moves four times
-may
-section is to the force by
-be destroyed or generated, in the
-its length,
-as the density of the
-which
-time that
-medium
-sity of the cylinder, nearly.
-For let the vessel
-touch the surface of stagnant water with
-bottom CD, and let the water run out of this vessel into the stagnant
-ABDC
-ter
-let
-EFTS
-it
-den
-to the
-its
-wa
-and
-through the cylindric canal
-perpendicular co the horizon
-the little circle PQ, be placed parallel to the horizon any where in the
-;OF NATURAL PHILOSOPHY.
-SEC. VII.]
-middle of the canal
-AK
-that
-ratio,
-EF
-be to
-CK
-above the
-it
-K
-so
-I
-JL
-jg
-f
--^
-orifice of the canal
-PQ
-bears to the cir
-manifest (by Case
-is
-K,
-&quot;&quot;
-little circle
-Then
-to
-in the duplicate of the
-which the excess of the
-AB.
-cle
-may
-CA
-and produce
-;
-339
-Case
-5,
-e
-1, Prop. XXXVI) that the velocity
-6,
-of the water passing through the annular space
-between the little circle and the sides of the ves
-and Cor.
-be the very same which the water would
-acquire by falling, and in its fall describing the
-or IG.
-altitude
-sel will
-KG
-And
-(by Cor. 10, Prop.
-XXXVI)
-if the
-breadth of the vessel be
-infinite,
-HG
-HI may
-vanish, arid the altitudes IG,
-become equal
-the force of the water that flows down and presses upon the circle will be
-so that the lineola
-;
-weight of a cylinder whose base is that little circle, and the altitude
-2
-2
-iIG, as EF to EF
-|PQ 2 very nearly. For the force of the water
-flowing downward uniformly through the whole canal will be the same
-to the
-,
-upon the
-I
-,et
-little circle
-now
-PQ.
-in whatsoever part of the canal it be
-placed.
-the orifices of the canal
-ST
-EF,
-be closed, and let the littk
-compressed on every side, and by its ascent let it
-oblige the water that lies above it to descend through the annular space
-between the little circle and the sides of the canal. Then will the velocity
-circle ascend in the fluid
-of the ascending little circle be to the velocity of the descending water as
-and PQ, is to the circle PQ; and the ve
-the difference of the circles
-EF
-locity of the ascending little circle will be to the sum of the velocities, that
-is, to the relative velocity of the descending water with which it passes by
-EF
-PQ
-the little circle in its ascent, as the difference of the circles
-to
-and
-2
-2
-the circle EF, or as EF*
-to
-Let that relative velocity be
-equal to the velocity with v/hich it was shewn above that the water would
-EF
-PQ
-.
-pass through the annular space, if the circle were to remain unmoved, that
-is, to the velocity which the water would acquire by falling, and in its fall
-and the force of the water upon the ascending-
-describing the altitude IG
-;
-as before (by Cor. 5, of the Laws of Motion)
-that
-the resistance of the ascending little circle will be to the weight of a
-circle will be the
-is,
-same
-;
-cylinder of water whose base
-EF
-2
-to
-EF 2
-iPQ
-2
-,
-is
-that little circle, and
-be to the velocity which
-scribing the altitude [G, as
-EF
-PQ
-2
-2
-to
-EF
-Let the breadth of the canal be increased in
-between
-EF
-2
-PQ
-2
-its
-altitude iIG, as
-But the velocity of the little circle will
-nearly.
-the water acquires by falling, and in its fall de
-and
-EF
-2
-,
-and between
-2
-.
-wfinitum ; and the
-EF
-2
-and
-EF
-2
-ratios
-iPQ
-2
-.
-become at last ratios of equality. And therefore the velocity of the
-little circle w ill now be the same which the water would acquire in falling,
-and in its fall describing the altitude IG= and the resistance will become
-will
-rTHE MATHEMATICAL PRINCIPJ ES
-340
-[BOOK
-IT.
-equal to the weight of a cylinder whose base is that little circle, and its
-altitude half the altitude IG, from which the cylinder must fall to acquire
-the velocity of the ascending circle and with this velocity the cylinder in
-;
-the time of its fall will describe four times its length.
-But the resistance
-of the cylinder moving forward with this velocity in the direction of its
-is the same with the resistance of the little circle
-(by Lem. IV), and
-therefore nearly equal to the force by which its motion may be generated
-while it describes four times its length.
-length
-is
-If the length of the cylinder be
-and the time in which
-or diminished in the
-;
-its
-motion,
-same
-augmented
-&
-and therefore the force by which the mo
-ratio,
-tion so increased or diminished,
-tinue the same
-augmented or diminished,
-describes four times its length,
-O t will be
-it
-may
-because the time
-is
-be destroyed or generated, will con
-increased or diminished in the same
-proportion and therefore that force remains still equal to the resistance
-of the cylinder, because (by Lem. IV) that resistance will also remain the
-;
-same.
-If the density of the cylinder be
-augmented or diminished, its motion,
-motion may be generated or destroyed in the
-same time, will be augmented or diminished in the same ratio. Therefore
-the resistance of any cylinder whatsoever will be to the force by which its
-whole motion may be generated or destroyed, in the time during which it
-and the force by which
-moves four times
-its length, as
-the cylinder- nearly.
-A
-fluid
-its
-the density of the
-medium
-to the density of
-Q..E.D.
-must be compressed
-to
-become continued;
-it
-must be continued
-and non-elastic, that all the pressure arising from its compression may be
-propagated in an instant and so, acting equally upon all parts of the body
-;
-moved, may produce no change of the resistance. The pressure arising
-from the motion of the body is spent in generating a motion in the parts
-of the fluid, and this creates the resistance.
-But the pressure arising from
-the compression of the fluid, be it ever so forcible, if it be
-propagated in an
-no
-motion
-in
-the
-a
-of
-continued
-instant, generates
-fluid, produces no
-parts
-at
-all
-of
-motion
-therein
-and
-therefore
-neither
-change
-augments nor les
-;
-sens the resistance.
-This
-is certain,
-that the action of the fluid arising
-from the compression cannot be stronger on the hinder parts of the body
-moved than on its fore parts, and therefore cannot lessen the resistance de
-scribed in this proposition.
-And if its propagation be infinitely swifter
-than the motion of the body pressed, it will not be stronger on the fore
-But that action will be infinitely
-parts than on the hinder parts.
-swifter,
-and propagated in an instant,
-if
-the fluid be continued and non-
-elastic.
-COR. 1. The resistances, made to cylinders going uniformly forward in
-the direction of their lengths through continued infinite mediums are in aOF NATURAL PHILOSOPHY-
-SEC. VII.]
-ratio
-341
-compounded of the duplicate ratio of the velocities and the duplicate
-and the ratio of the density of the mediums.
-ratio of the diameters,
-breadth of the canal be not infinitely increased but the
-in the direction of its length through an included
-forward
-cylinder go
-axis all the while coinciding with the axis of the
-its
-quiescent medium,
-will
-be to the force by which its whole motion, in the
-resistance
-its
-canal,
-K ............. I... ........ L
-time in which it describes four times its
-COR.
-2. If the
-length,
-be generated or destroyed, in a ratio com
-2
-2
-i
-to
-pounded of the ratio of
-may
-EF
-A
-E
-Hi
-EF
-2
-to EF 2
-PQ, 2
-once, and the ratio of EF
-twice, and the ratio of the density of the medium
-to the density of the cylinder.
-The same
-thing supposed, and that a
-of the length of
-the
-quadruple
-length
-the cylinder in a ratio compounded of the ratio
-2
-EF 2 -- iPQ 2 to
-once, and the ratio of
-COR.
-3.
-L
-EF
-2
-is
-to
-PQ, 2
-EF
-EF
-2
-twice; the resistance of
-the cylinder will be to the force by which its whole motion, in the time
-during which it describes the length L, may be destroyed or generated, as
-the density of the medium to the density of the cylinder.
-to
-SCHOLIUM.
-In this proposition
-we have investigated
-that resistance alone which
-from the magnitude of the transverse section of the cylinder, neg
-lecting that part of the same which may arise from the obliquity of the
-arises
-motions.
-tions with
-as, in Case 1, of Prop. XXXVL, the obliquity of the mo
-which the parts of the water in the vessel converged on every
-For
-side to the hole
-EF
-hindered the efflux of the water through the hole,
-so,
-in this Proposition, the obliquity of the motions, with which the parts of
-the water, pressed by the antecedent extremity of the cylinder, yield to the
-pressure, and diverge on all sides, retards their passage through the places
-that lie round that antecedent extremity, toward the hinder parts of the
-cylinder, and causes the fluid to be moved to a greater distance; which in
-creases the resistance, and that in the same ratio almost in which it dimin
-ished the efflux of the water out of the vessel, that
-is, in the duplicate ratio
-And as, in Case 1, of that Proposition, we made the
-of 25 to 21, nearly.
-perpendicularly and in the
-parts of the water pass through the hole
-greatest plenty, by supposing all the water in the vessel lying round the
-EF
-cataract to be frozen, and that part of the water whose motion was oblique,
-and useless to remain without motion, so in this Proposition, that the
-obliquity of the motions may be taken away, and the parts of the water
-give the freest passage to the cylinder, by yielding to it witli the most
-direct and quick motion possible, so that only so much resistance may re-
-mayTHE MATHEMATICAL PRINCIPLES
-542
-main
-as arises from the
-magnitude of the transverse
-[BoOK
-section,
-and which
-II.
-is
-incapable of diminution, unless by diminishing the diameter of the cylinder
-we must conceive those parts of the fluid whose motions are oblique and
-useless, and produce resistance, to be at rest among themselves at both ex
-;
-and there
-tremities of the cylinder,
-to cohere,
-and be joined
-ABCD be a rectangle, and let
-AE and BE be two parabolic arcs,
-to the cylinder.
-Let
-described with the axis AB, and
-with a latus rectum that is to
-i
-1
-g
-the
-j^
-.+++-&quot;&quot;
-space HG, which must be described
-by the cylinder in falling, in order
-to acquire the velocity
-with which
-it
-moves, as
-HG
-to
-^AB.
-Let
-CF
-and
-DF
-be two other parabolic arcs described with the axis CD, and a latus
-rectum quadruple of the former; and by the convolution of the figure
-ABDC
-ABE
-EF
-let there be generated a solid, whose middle part
-the cylinder we are here speaking of, and whose extreme parts
-and
-contain the parts of the fluid at rest among themselves, and concreted
-about the axis
-is
-CDF
-into two hard bodies, adhering to the cylinder at each end like a head and
-Then if this solid
-move in the direction of the length of
-tail.
-EACFDB
-FE
-the parts beyond E, the resistance will be the same
-which we have here determined in this Proposition, nearly that is, it will
-have the same ratio to the force with which the whole motion of the cyl
-its
-axis
-toward
-;
-be destroyed or generated, in the time that it is describing the
-with that motion uniformly continued, as the density of the
-length
-And (by Cor. 7, Prop.
-fluid has to the density of the cylinder, nearly.
-inder
-may
-4AC
-XXXVI)
-the resistance
-must be
-to this force in the ratio of
-2
-to 3, at the
-least.
-Lemma
-V.
-If a cylinder, a sphere, and a spheroid, of equal breadths be placed suc
-cessively in the middle of a cylindric canal, so that their axes may
-coincide with the axis of the canal, these bodies will equally hinder t^e
-passage of the water through the canal.
-For the spaces lying between the
-sides of the canal,
-sphere, and spheroid, through which the water
-and the cylinder,
-and the
-passes, are equal
-;
-water will pass equally through equal spaces.
-This
-is true, upon the
-supposition that all the water above the cylinder,
-or
-whose
-sphere,
-spheroid,
-fluidity is not necessary to make the passage of
-the water the quickest possible, is congealed, as was explained above in Cer
-7,
-Prop.
-XXXVI.Lemma
-The same
-343
-OF NATURAL PHILOSOPHY
-SEC. VII.]
-VI.
-are equally
-supposition remaining, the fore- mentioned bodies
-the
-canal.
-water
-the
-OIL
-acted
-Jlowin g through
-by
-This appears by Lein. V and the third Law. For
-bodies act upon each other mutually and equally.
-Lemma
-tht water
-and the
-VIL
-If the water be at rest in the canal, and these bodies move with equil ve
-locity and the contrary way
-be equal among themselves.
-This appears from the
-same among themselves.
-last
-through the canal,
-Lemma,
-their resistances will
-for the relative motions
-remain the
-SCHOLIUM.
-The case is the same of all convex and round bodies, whose axes coincide
-with the axis of the canal. Some difference may arise from a greater or
-but in these
-less friction;
-Lemmata we
-suppose the bodies
-to
-be perfectly
-and that
-smooth, and the medium to be void of all tenacity and friction
-those parts of the fluid which by their oblique and superfluous motions may
-;
-disturb, hinder,
-rest
-amorg
-and retard the flux of the water through the canal, are at
-being fixed like water by frost, and adhering to
-themselves
-;
-the fore and hinder parts of the bodies in the manner explained in the
-Scholium of the last Proposition for in what follows we consider the very
-:
-round bodies described with the greatest given trans
-verse sections can possibly meet with.
-least resistance that
-Bodies swimming upon fluids, when they move straight forward, cause
-the fluid to ascend at their fore parts and subside at their hinder parts,
-and thence they meet with a
-especially if they are of an obtuse figure
-;
-little
-more resistance than
-bodies
-moving
-if
-they were
-acu*-e at the
-head and
-in elastic fluids, if they are obtuse behind
-dense the fluid a
-little
-more
-at their fore parts,
-and
-tail.
-And
-before, con
-and relax the same at
-theii
-hinder parts and therefore meet also with a little more resistance than ii
-But in these Lemmas and Proposi
-they were acute at the head and tail.
-;
-we are not treating of elastic but non-elastic fluids; not of bodies
-And
-floating on the surface of the fluid, but deeply immersed therein.
-when the resistance of bodies in non-elastic fluids is once known, we may
-tions
-then augment this resistance a little in elastic fluids, as our air; and in
-the surfaces of stagnating fluids, as lakes and seas.
 
+## PROPOSITION 37 THEOREM 29
+
+
+A cylinder moves uniformly forwards in a compressed, infinite, and non-elastic fluid, in the direction of its length.
+
+The arising resistance is to the force by which its whole motion may be destroyed or generated, in the time that it moves 4 times its length, as the density of the medium to the density of the cylinder, nearly.
+
+Let:
+- the vessel `ABDC` (Plate 7. Figure 5.) touch the surface of stagnant water with its bottom CD.
+- the water run our of this vessel into the stagnant water through the cylindric canal `EFTS` perpendicular to the horizon.
+- the little circle `PQ` be placed parallel to the horizon any where in the middle of the canal
+
+Produce CA to K, so that AK may be to CK in the duplicate of the ratio, which the excess of the orifice of the canal EF above the little circle PQ, bears to the circle AB. 
+
+Then 'tis manifest (by case 5. case 6. and corollary 1. proposition 36.) that the velocity of the water passing thro' the annular space between the little circle and the sides of the vessel, will be the very same which the water would acquire by falling, and in its fall describing the altitude KC or IG.
+
+By corollary 10, proposition 36, if the breadth of the vessel be infinite, so that the lineola `HI` may vanish, and the altitudes IG, HG become equal.
+
+The force of the water that flows down, and presses upon the circle will be to the weight of a cylinder whose base is that little circle and the altitude ½IG, as EF² to EF² - ½PQ² very nearly.
+
+For the force of the water flowing downwards uniformly thro' the whole canal will be the same upon the little circle PQ in whatsoever part of the canal it be placed.
+
+Let now the orifices of the canal EF, ST be closed, and let the little circle ascend in the fluid compressed on every side, and by its ascent let it oblige the water that lies above it to descend thro' the annular space between the little circle and the sides of the canal.
+
+Then will the velocity of the ascending little circle be to the velocity of the descending water as the difference of the circles EF and PQ is to the circle PQ; and the velocity of the ascending little circle will be to the sum of the velocities, that is, to the relative velocity of the descending water with which it passes by the little circle in its ascent, as the difference of the circles EF and PQ to the circle EF, or as EF² - PQ² to EF².
+
+Let that relative velocity be equal to the velocity with which it was shewn above that the water would pass thro' the annular space if the circle were to remain unmoved, that is, to the velocity which the water would acquire by falling, and in its fall describing the altitude IG.
+
+The force of the water upon the ascending circle will be the same as before, (by corollary 5. of the laws of motion) that is, the resistance of the ascendirg little circle will be to the weight of a cylinder of water whose base is that little circle and its altitude ½IG, as EF² to EF² - ½PQ² nearly. 
+
+But the velocity of the little circle will be to the velocity which the water acquires by falling, and in its fall describing the altitude IG, as EF² - PQ² to EF².
+
+Let the breadth of the canal be increased in infinitum; and the ratio's between EF² - P² and EF², and between EF² and EF² - ½PQ² will become at last ratio's of equality. 
+
+Therefore, the velocity of the little circle will now be the same which the water would acquire in falling, and in its fall describing the altitude IG; and the resistance will become equal to the weight of a cylinder whose base is that little circle, and its altitude half the altitude IG, from which the cylinder must fall to acquire the velocity of the ascending circle.
+
+With this velocity the cylinder in the time of its fall will describe sour times its length. But the resistance of the cylinder moving forwards with this velocity in the direction of its length, is the same with the resistance of the little circle, (by lemma 4.) and is therefore nearly equal to the force by which its motion may be generated while it describes 4 times its length.
+
+If the length of the cylinder be augmented or diminished, its motion, and the time in which it describes four times its length, will be augmented or diminished in the same ratio.
+
+Therefore, the force by which the motion, so increased or diminished, may be destroyed or generated, will continue the same; because the time is increased or diminished in the same proportion.
+
+Therefore, that force remains still equal to the resistance of the cylinder, because (by lemma 4.) that resistance will also remain the same.
+
+If the density of the cylinder be augmented or diminished, its motion, and the force by which its motion may be generated or destroyed in the same time, will be augmented or diminished in the same ratio.
+
+Therefore the resistance of any cylinder whatsoever will be to the force by which its whole motion may be generated or destroyed in the time during which it moves four times its length, as the density of the medium to the density of the cylinder, nearly. Q.E.D.
+
+A fluid must be compressed to become continued; it must be continued and non-elastic, that all the pressure arising from its compression may be propagated in an instant; and so acting equally upon all parts of the body moved, may produce no change of the resistance.
+
+The pressure arising from the motion of the body is spent in generating a motion in the parts of the fluid, and this creates the resistance. But the pressure arising from the compression of the fluid, be it never so forcible, if it be propagated in an instant, generates no motion in the parts of a continued fluid, produces no change at all of motion therein; and therefore neither augments nor lessens the resistance. 
+
+The action of the fluid arising from the compression cannot be stronger on the hinder parts of the body moved than on its fore parts, and therefore cannot lessen the resistance described in this Proposition. 
+
+If its propagation be infinitely swifter than the motion of the body pressed, it will not be stronger on the fore parts than on the hinder parts. But that action will be infinitely swifter and propagated in an instant, is the fluid be continued and non-elastic.
+
+### Corollary 1
+
+The resistances made to cylinders going uniformly forwards in the direction of their lengths thro' continued infinite mediums, are in a ratio compounded of the duplicate ratio of the velocities and the duplicate ratio of the diameters, and the ratio of the density of the mediums.
+
+### Corollary 2
+
+If the breadth of the canal be not infinitely increased, but the cylinder go forwards in the direction of its length through an included quiescent medium, its axis all the while coinciding with the axis of the canal.
+
+Its resistance will be to the force by which its whole motion in the time in which it describes four times its length, may be generated or destroyed, in a ratio compounded of the ratio of EF² to EF² - ½PQ² once, and the ratio of EF² to EF² - PQ² twice, and the ratio of the density of the medium to the density of the cylinder.
+
+### Corollary 3
+
+The same things supposed, and that a length L is to the quadruple of the length of the cylinder in a ratio compounded of the ratio EF² - ½PQ² to EF² once, and the ratio of EF² - PQ² to EF² twice; the resistance of the cylinder will be to the force by which its whole motion, in the time during which it describes the length L, may be destroyed or generated, as the density of the medium to the density of the cylinder.
+
+
+## Scholium
+
+In this proposition we have investigated that resistance which arises from the magnitude of the transverse section of the cylinder.
+
+We neglect that part of the same which may arise from the obliquity of the motions. 
+
+For as in Case 1. of Proposition 36. the obliquity of the motions with which the parts of the water in the vessel converged on every side to the hole EF, hindered the efflux of the water thro' the hole; so in this proposition, the obliquity of the motions, with which the parts of the water, pressed by the antecedent extremity of the cylinder, yield to the pressure and diverge on all sides, retards their passage, thro' the places that lie round that antecedent extremity, towards the hinder parts of the cylinder, and causes the fluid to be moved to a greater distance; which increases the resistance, and that in the same ratio almost in which it diminished the efflux of the water out of the vessel, that is, in the duplicate ratio of 25 to 21, nearly. And as in Case 1. of that Proposition, we made the parts of the water pass thro' the hole EF perpendicularly and in the greatest plenty, by supposing all the water in the vessel lying round the cataract to be frozen, and that part of the water whose motion was oblique and useless to remain without motion; so in this proposition, that the obliquity of the motions may be taken away, and the parts of the water may give the freest passage to the cylinder, by yielding to it with the most direct and quick motion possible, so that only so much resistance may remain as arises from the magnitude of the transverse section, and which is incapable of diminution, unless by diminishing the diameter of the cylinder; we must conceive those parts of the fluid whose motions are oblique find useless, and produce resistance, to be at rest among themselves at both extremities of the cylinder, and there to cohere, and be joined to the cylinder. Let ABCD (Plate 7. Figure 6.) be a rectangle, and let AE and BE be two parabolic arcs, described with the axis AB, and with a latus rectum that is to the space HG, which must be described by the cylinder in falling in order to acquire the velocity with which it moves, as HG to ½AB. Let CF and DF be two other parabolic arcs described with the axis CD, and a latus rectum quadruple of the former; and by the convolution of the figure about the axis EF let there be generated a solid, whose middle part ABDC is the cylinder we are here speaking of, and the extreme parts ABE and CDF contain the parts of the fluid, at rest among themselves, and concreted into two hard bodies, adhering to the cylinder at each end like a head and tail. Then if this solid EACFDB move in the direction of the length of its axis FE towards the parts beyond E, the resistance will be the same which we have here determined in this proposition, nearly; that is, it will have the same ratio to the force with which the whole motion of the cylinder may be destroyed or generated in the time that it is describing the length 4.AC with that motion uniformly continued, as the density of the fluid has to the density of the cylinder, nearly. And (by corollary 7. proposition 36.) the resistance must be to this force in the ratio of 2 to 3, at the least.
+
+Lemma V. If a cylinder, a sphere, and a sphæroid, of equal breadths be placed successively in the middle of a cylindric canal, so that their axes may coincide with the axis of the canal; these bodies will equally hinder the passage of the water thro' the canal.
+
+For the spaces, lying between the sides of the canal, and the cylinder, sphere, and sphæroid, thro' which the water passes, are equal; and the water will pass equally thro' equal spaces.
+
+This is true upon the supposition that all the water above the cylinder, sphere, or sphæroid, whose fluidity is not necessary to make the passage of the water the quickest possible, is congealed, as was explained above in Corollary 7. Proposition 36.
+
+Lemma VI. The same supposition remaining, the forementioned bodies are equally acted on by the water flowing thro' the canal.
+
+This appears by Lemma 5. and the third law. For the water and the bodies act upon each other mutually; and equally.
+
+Lemma VII. If the water be at rest in the canal, and these bodies move with equal velocity and the contrary way thro' the canal, their resistances will be equal among themselves.
+
+This appears from the last Lemma, for the relative motions remain the same among themselves.
+
+
+
+## Scholium
+
+The case is the same of all convex and round bodies whose axes coincide with the axis of the canal. Some difference may arise from a greater or less friction; but in these lemmata we suppose the bodies to be perfectly smooth, and the medium to be void of all tenacity and friction; and that those parts of the fluid which by their oblique and superfluous motions may disturb, hinder and retard the flux of the water thro' the canal, are at rest amongst themselves; being fixed like water by frost, and adhering to the fore and hinder parts of the bodies in the manner explained in the Scholium of the last Proposition. For in what follows, we consider the very least resistance that round bodies described with the greatest given transverse sections can possibly meet with.
+
+Bodies swimming upon fluids, when they move straight forwards, cause the fluid to ascend at their fore parts and subside at their hinder parts, especially if they are of an obtuse figure; and thence they meet with a little more resistance than if they were acute at the head and tail. And bodies moving in elastic fluids, if they are obtuse behind and before, condense the fluid a little more at their fore parts, and relax the same at their hinder parts; and therefore meet also with a little more resistance than if they were acute at the head and tail. But in these lemma's and propositions we are not treating of elastic, but non-elastic fluids; not of bodies floating on the surface of the fluid, but deeply immersed therein. And when the resistance of bodies in non-elastic fluids is once known, we may then augment this resistance a little in elastic fluids, as our air; and in the surfaces of stagnating fluids, as lakes and seas.
 

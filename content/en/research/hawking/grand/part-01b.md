@@ -7,7 +7,9 @@ icon: "Stephen Hawking"
 c: "firebrick"
 aliases:
   /research/hawking/grand/part-01g/
+  /research/hawking/grand/part-01i/
 ---
+
 
 
 <!-- In the history of science we have discovered a sequence of better and better theories or models,

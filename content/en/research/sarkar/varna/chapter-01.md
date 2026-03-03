@@ -68,17 +68,55 @@ In Sanskrit there are four accepted systems of pronunciation – Káshiká, Da
 
 The Rgvedic style has a total of fifty letters – sixteen vowels and thirty-four consonants. The sixteen vowels are: a, á, i, ii, u, ú, r, rr, lr, lrr, e, ae, o, ao, aḿ, and ah. The thirty-four consonants are: ka, kha, ga, gha, uṋa, ca, cha, ja, jha, iṋa, t́a, t́ha, d́a, d́ha, ńa, ta, tha, da, dha, na, pa, pha, ba, bha, ma, ya, ra, la, va, sha, śa, sa, ha, and kśa. D́a and d́ha are pronounced in two different ways. The letter d́a is pronounced d́a at the beginning of a word, for example, d́ambaru. However it is pronounced ŕa (rha) in the middle or at the end of a word, as in áŕambara. Similarly, d́ha is pronounced d́ha at the beginning of a word, for example, d́hakká, and ŕha (rhha) in the middle or at the end of a word, as in áśáŕha.
 
-There is a fixed rule for the pronunciation of ya – padánte padamadhyasthe “ya”-kára “ia” ucyate. If ya occurs at the beginning of a word then it is pronounced like a light “ja” as in yoga, yadu, yamuná, but if it comes in the middle or at the end of a word then it is pronounced “ia”, as in viyoga or samaya. Some pandits in northern India mistakenly pronounce the word yoga “iog”. Ishwarchandra Vidyasagar Mahashay placed a dot beneath the letters d́a, d́ha and ya in his grade school primer, Varńa Paricaya, whenever they occurred in the middle or end of a word so that children would not make this sort of mistake.
+There is a fixed rule for the pronunciation of ya – padánte padamadhyasthe “ya”-kára “ia” ucyate. 
 
-A language normally lasts about one thousand years and a script about two thousand years before undergoing metamorphosis. Script, however, is not sound. It is alphabetical order. The Bengali script came into existence approximately fifteen hundred years ago and it will survive for some time longer. Due to the invention of printing, the life of the script will be extended somewhat.
+If `ya` occurs at the start of a word, then it is pronounced like a light “ja” as in yoga, yadu, yamuná.
 
-An old form of Bengali script has been discovered in Singbhum District’s Jayda village on the banks of the Suvarnarekha River. A deed of gift written in the script of that time has been found in the Shushuniya(1) Hills in Bankura District’s Chatna Thana.(2) These are the two oldest extant examples of Bengali script.
+But if it comes in the middle or at the end of a word then it is pronounced “ia”, as in viyoga or samaya.
 
-The Prákrta language came into existence approximately thirty-five hundred years ago and when it did Sanskrit or Vedic pronunciation changed. To put it in another way, the name of those altered verbal root forms, word forms, pronouns and vocabulary was Prákrta, which spread orally among the common people. Prákrta came into existence shortly before the advent of Krśńa.
+Some pandits in northern India mistakenly pronounce the word yoga “iog”. 
 
-Many people believe that Sanskrit is an artificial language. However, the prevalence of so many Sanskrit words in the speech of uneducated people proves that it is not. For example, kandara is a Sanskrit word. In the colloquial language of Rarh there is a word kándar, that is, a small, deep tributary. If Sanskrit were an artificial language then how could there be so many Sanskrit words in use among uneducated people. The people of Rarh have Sanskrit in their blood. It is their native language. If Bengali is the language of our veins and arteries then Sanskrit is the language of our bone marrow.
+Ishwarchandra Vidyasagar Mahashay placed a dot beneath the letters d́a, d́ha and ya in his grade school primer, Varńa Paricaya, whenever they occurred in the middle or end of a word so that children would not make this sort of mistake.
 
-The use of r, rr, lr, and lrr is not as widespread in the Yajurveda as it is in the Rgveda. They are also pronounced completely differently. In the Rgveda these letters are pronounced r, rr, lr, and lrr while in the Yajurveda they are pronounced ri, rri, lri, and lrri. In the Atharvaveda they are pronounced ru, rru, lru, and lrru. Modern Bengali has retained the use of r. Adding i to ra can serve the same function as r, but because these two letters can give rise to inversions in the case of certain conjuncts the letter r is used. For example, deva + rśi = devarśi. If it is written deva + riśi then the conjunct cannot be formed.
+A language normally lasts about 1,000 years.
+
+A script lasts about 2,000 years before undergoing metamorphosis. 
+
+Script, however, is not sound. It is alphabetical order.
+
+The Bengali script came into existence approximately 1,500 years ago. It will survive for some time longer.
+
+Due to the invention of printing, the life of the script will be extended somewhat.
+
+An old form of Bengali script has been discovered in Singbhum District’s Jayda village on the banks of the Suvarnarekha River. 
+
+A deed of gift written in the script of that time has been found in the Shushuniya (1) Hills in Bankura District’s Chatna Thana.(2) 
+
+These are the two oldest extant examples of Bengali script.
+
+The Prákrta language came into existence approximately 3,300 years ago. When it did, Sanskrit or Vedic pronunciation changed.
+
+The name of those altered verbal root forms, word forms, pronouns and vocabulary was Prákrta, which spread orally among the common people.
+
+Prákrta came into existence shortly before the advent of Krśńa.
+
+Many people believe that Sanskrit is an artificial language.
+
+However, the prevalence of so many Sanskrit words in the speech of uneducated people proves that it is not.
+
+For example, kandara is a Sanskrit word.
+
+In the colloquial language of Rarh, there is a word kándar, that is, a small, deep tributary.
+
+If Sanskrit were an artificial language then how could there be so many Sanskrit words in use among uneducated people.
+
+The people of Rarh have Sanskrit in their blood. It is their native language. If Bengali is the language of our veins and arteries then Sanskrit is the language of our bone marrow.
+
+The use of r, rr, lr, and lrr is not as widespread in the Yajurveda as it is in the Rgveda. They are also pronounced completely differently.
+
+In the Rgveda these letters are pronounced r, rr, lr, and lrr while in the Yajurveda they are pronounced ri, rri, lri, and lrri. In the Atharvaveda they are pronounced ru, rru, lru, and lrru.
+
+Modern Bengali has retained the use of r. Adding i to ra can serve the same function as r, but because these two letters can give rise to inversions in the case of certain conjuncts the letter r is used. For example, deva + rśi = devarśi. If it is written deva + riśi then the conjunct cannot be formed.
 
 Modern Indian languages do not follow any specific Vedic rules. Bengali only has the sha pronunciation – śa and sa are not pronounced differently – while some other languages only have the sa pronunciation. For example, shuye paŕa in Bengali is so jáo in Hindi. The rules for Sanskrit-derived words in Bengali follow those for Sanskrit-borrowed words. For this reason, the letters śa and sa are used for spelling purposes but no Bengali teacher ever makes a distinction among the pronunciation of sha, śa and sa.
 
@@ -89,7 +127,9 @@ In regards to pronunciation, the pandits used to follow different rules accordin
 In the Rgveda the candrabindu is neither a letter nor is it pronounced. In the Yajurveda it is pronounced but there is no letter for it – the anusvára used to serve in its place, for example, táḿstathaeva. The candrabindu is pronounced in six of the twelve Bengali dialects – central Rarhi, Kánthi, Calcutta, Nadia, Shershahbadii and Rangpuri – and to a small extent in Varendrii.
 
 19 June 1983, Calcutta
-Footnotes
+
+
+### Footnotes
 
 (1) According to the Bengali system of verbal roots and suffixes, the word shushuniyá means “one whose nature is to remain lying”, for example, the shushuni creeper, that is, “that creeper which makes one sleepy when it is eaten”.
 

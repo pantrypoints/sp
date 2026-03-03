@@ -10,17 +10,64 @@ icon: "PR Sarkar"
 
 
 
-In regard to the difference between a language and a dialect, I have stated that a language depends upon eight conditions, and of those eight, four were discussed. That leaves four more. They are: literature, intonation, psycho-acoustic and inferential acoustic notes, and syntax. The first of these to be discussed today will be literature.
+In regard to the difference between a language and a dialect, I have stated that a
 
-Literature: A language must have its own literature in order to be a separate language. The English word “literature” comes from the Latin word liter which means “brick”. Long ago, before the advent of printing, separate letters used to be moulded from clay which was then fired like a brick. Just as companies stamp their name on their bricks when they are fired, alpha, beta, gamma, delta, omega, theta and other letters were fired like bricks, much like other work with fired clay. The handicraft that uses fired clay is called “terracotta” in English. The terracotta industry originated in Bankura District’s Vishnupur. In this kind of industry the clay is first moulded and then fired. Then it is pasted in the temple with a mixture of lime and sugar. The handicraft of Vishnupur was copied by other places and so the industry spread.
+A language depends on 8 conditions:
 
-I was saying that these letters were fired like bricks and for that reason they were called liter in Latin. This is the origin of the English word “later”. When clay is fired it turns reddish, thus reddish soil is called “laterite soil”. Since the soil of Rarh is quite reddish it is called the “land of laterite soil” or ráuṋgámát́ir desh.
+5. literature
+6. intonation
+7. psycho-acoustic inferential acoustic notes
+8. syntax
 
-Anyhow, the art that rose up on the basis of these letters is called “literature” in English.
 
-It should be mentioned that what is called sáhitya is not identical or does not convey the same significance as the English word “literature”. There is a night and day difference between the two. Literature refers to that art form which is based on letters while sáhitya is something altogether different. Simply being an art form based on letters does not qualify something to be called sáhitya. For it to be sáhitya it must imbibe the thought of welfare. Sáhitya means hitena saha [with welfare]. In other words, if a piece of literature is not motivated by the thought of welfare then it cannot be classified as sáhitya. For this reason the scope of literature is vaster than the scope of sáhitya. Something which is created from language but which is not motivated by the thought of welfare may be considered to be literature but it cannot be considered to be sáhitya. In simple terms, all sáhitya is literature but not all literature is sáhitya. It is a common error to consider the English word “literature” to be the equivalent of sáhitya.
+The first of these to be discussed today will be literature.
 
-Those compositions which we call apasáhitya come within the scope of literature but since they are not motivated by the thought of welfare they do not deserve to be called sáhitya. Amongst English writers we find in Shakespeare an unprecedented fusion of literature and sáhitya. Now in Keat’s compositions do we find as much sáhitya as we do literature? This is something for the scholars to decide. In Scott as well, how much of each one finds is something to think about. Kipling’s compositions are more literature than sáhitya. In Milton’s compositions we find pure sáhitya, although there is some literary value as well. There is a great sáhityik quality in the works of George Bernard Shaw.
+### Literature
+
+A language must have its own literature in order to be a separate language.
+
+The English word “literature” comes from the Latin word liter which means “brick”. 
+
+Long ago, before the advent of printing, separate letters used to be moulded from clay which was then fired like a brick. 
+
+Just as companies stamp their name on their bricks when they are fired, alpha, beta, gamma, delta, omega, theta and other letters were fired like bricks, much like other work with fired clay.
+
+The handicraft that uses fired clay is called “terracotta” in English. The terracotta industry originated in Bankura District’s Vishnupur. In this kind of industry the clay is first moulded and then fired.
+
+Then it is pasted in the temple with a mixture of lime and sugar. The handicraft of Vishnupur was copied by other places and so the industry spread.
+
+These letters were fired like bricks and so they were called liter in Latin.
+
+This is the origin of the English word “later”. 
+
+When clay is fired it turns reddish, thus reddish soil is called “laterite soil”. Since the soil of Rarh is quite reddish it is called the “land of laterite soil” or ráuṋgámát́ir desh.
+
+The art that rose up on the basis of these letters is called “literature” in English.
+
+Sáhitya is not identical or does not convey the same significance as the English word “literature”. 
+- There is a night and day difference between the two.
+
+Literature refers to that art form which is based on letters.
+- Simply being an art form based on letters does not qualify something to be called sáhitya.
+
+Sáhitya is altogether different as it must imbibe the thought of welfare. 
+- Sáhitya means hitena saha [with welfare]. 
+
+If a piece of literature is not motivated by the thought of welfare then it cannot be classified as sáhitya. 
+
+This is why the scope of literature is vaster than the scope of sáhitya.
+
+<!-- Something which is created from language but which is not motivated by the thought of welfare may be considered to be literature but it cannot be considered to be sáhitya.  -->
+
+In simple terms, all sáhitya is literature. But not all literature is sáhitya.
+
+<!-- It is a common error to consider the English word “literature” to be the equivalent of sáhitya. -->
+
+Those compositions which we call apasáhitya come within the scope of literature but since they are not motivated by the thought of welfare they do not deserve to be called sáhitya.
+
+Amongst English writers we find in Shakespeare an unprecedented fusion of literature and sáhitya. Now in Keat’s compositions do we find as much sáhitya as we do literature? 
+
+This is something for the scholars to decide. In Scott as well, how much of each one finds is something to think about. Kipling’s compositions are more literature than sáhitya. In Milton’s compositions we find pure sáhitya, although there is some literary value as well. There is a great sáhityik quality in the works of George Bernard Shaw.
 
 However dazzling pure literature may be, it is transitory and cannot be called sáhitya. Satyendranath Datta was a magician with metre. His works have more literary value than sáhityik value. On the other hand, Rabindranath Tagore’s compositions demonstrate an unprecedented blending of literature and sáhitya. Valmiki’s Rámáyańa has sáhityik value but not as much literary value. His language is also not that developed. On the other hand, Vyasdeva’s Mahábhárata is almost cent per cent sáhitya but it has, by comparison, more literary value than the Rámáyańa. Kalidas’s works have tremendous literary value but not as much sáhityik value.
 
@@ -67,12 +114,51 @@ Anyhow the English used to study French but they used to feel difficulties becom
 
 Just as every language has its own intonation, so does every dialect. That intonation is captured in the various specific local pronunciations. For example, the pronunciations játi párlám ná, kháti párlám ná, cád (cánd), phád (phánd), and so on, indicate that it is the language of Jessore. There is a special type of intonation in the Gambhiirá songs of Maldah District. When Indians speak English there is a different pronunciation in each area according to the influence of the locality. The influence of Bengali intonation is clearly evident when Bengalees speak English. “Giva me a glassa of watera” – you will hear this kind of pronunciation and by hearing it you can tell that this is the influence of a certain local area. If someone who is not accustomed to speaking Calcutta Bengali wants to speak it then there will be a definite difference in their pronunciation. Once a certain gentleman from Burdwan was speaking with a gentleman from Calcutta in very good Calcutta Bengali but when the word kyándái came out of his mouth he gave away that he was not actually from Calcutta at all. Once a Bihari gentleman was standing in front of a betel shop in Lucknow and said dot́ho pánká khili dijiye [give me a couple of khilis (betel leaf with lime, catechu and betel-nut folded inside)]. What he should have said was do khiliyán dijánye. When the betel seller gave him his betel he said – do khiliyán li jánye, “t́ho” udhár milegá [here are your two khiliyán, the “t́ho” you will get over there]. When an Englishman speaks Hindi he finds himself unable to avoid the influence of his own language’s intonation. He says eyá myán, t́um kid́hár hyay, páni caŕáo. Mistaken pronunciation is a social offence because successive mistakes in the pronunciation of a word or words become widespread in the society and lead to the distortion of a language. Thus teachers should exercise extreme caution in this regard, otherwise their poor pronunciation will have an undesirable effect on their students and millions will suffer for it.
 
-The intonation of a particular language should be mastered for that language. In Sanskrit the pronunciation of the ma is accepted in the conjuncts sma or dma (for example, padma – pad - ma), but in Bengali sma is pronounced like sya and dma is pronounced like dda, that is, ma is not pronounced separately. Sanskrit should be pronounced according to its own particular intonation and Bengali should also be pronounced according to its own style. Hindi and English also should follow their respective styles. The standard colloquial form of Bengali is Calcutta Bengali, hence it is only reasonable that educated Bengalees speak Calcutta Bengali. Maethilii, Avadhii, Bhojpuri, etc. have their own intonations and those languages should be pronounced according to their respective intonations. For example, in Maethilii the rule is that if i follows a consonant in a word then the i is pronounced before the consonant, not after the consonant. For example, one writes pánii but pronounces it páin. Mát́i is pronounced mait́; bhági is pronounced bháig; pisii is pronounced pius; daŕibháuṋgá is pronounced dáiŕbháuṋgá, and so on. If a triangle is created between three points located in London, Cambridge and Oxford then the spoken language of the area lying inside the triangle is standard spoken English and should be followed. Cockney and American English pronunciation are not correct pronunciations of the English language.
+The intonation of a particular language should be mastered for that language.
 
-I have said many times in the past and will repeat again that there is a need for an easy, well-understood spoken language with a high quality of intonation to be accepted as the standard spoken and written language for each and every language. In this respect, it appears that the Bengali of Calcutta should be considered to be standard Bengali. In the same way, the spoken language of Moghulpurá (near Lahore in Pakistan) for Panjabi, Campánagar for Angika (a little to the west of Bhagalpur – during the time of Karńa this Campakanagarii was the capital of Angadesh), Gumlá for Nágpurii, Cuttack for Oriya, Shivasagar for Assamese, Rajgir for Magahii (Rajgir or Rajgiri or Girivraja was the old capital of Magadha – it is situated in the heart of Magadha), Madhuvanii for Maethilii, Dumraon for Bhojpuri (this is situated in the ancient district of Bhojpur), Rewa for Bághelii, Delhi’s Chandnichowk for Urdu (Lucknow’s language is not Urdu but Avadhii), and Raipur for Chattrishgaŕii should be considered to be their respective language’s accepted standard language. These languages not only take less time to speak, they also save space when they are written. It is pleasant to hear these free and unencumbered languages being spoken. The sixth condition for acceptance as a language is precisely this style of intonation, therefore attention must be paid to it.
+In Sanskrit, the pronunciation of the ma is accepted in the conjuncts sma or dma (for example, padma – pad - ma).
+
+But in Bengali:
+- `sma` is pronounced like `sya`
+- `dma` is pronounced like `dda`, that is, `ma` is not pronounced separately
+
+Sanskrit should be pronounced according to its own particular intonation and Bengali should also be pronounced according to its own style. Hindi and English also should follow their respective styles.
+
+The standard colloquial form of Bengali is Calcutta Bengali, hence it is only reasonable that educated Bengalees speak Calcutta Bengali. Maethilii, Avadhii, Bhojpuri, etc. have their own intonations and those languages should be pronounced according to their respective intonations. For example, in Maethilii the rule is that if i follows a consonant in a word then the i is pronounced before the consonant, not after the consonant. For example, one writes pánii but pronounces it páin. Mát́i is pronounced mait́; bhági is pronounced bháig; pisii is pronounced pius; daŕibháuṋgá is pronounced dáiŕbháuṋgá, and so on. If a triangle is created between three points located in London, Cambridge and Oxford then the spoken language of the area lying inside the triangle is standard spoken English and should be followed. Cockney and American English pronunciation are not correct pronunciations of the English language.
+
+
+There is a need for an easy, well-understood spoken language with a high quality of intonation to be accepted as the standard spoken and written language for each and every language.
+
+The Bengali of Calcutta should be considered to be standard Bengali. 
+
+The following should be considered as their respective language’s accepted standard language:
+- the spoken language of Moghulpurá (near Lahore in Pakistan) for Panjabi
+- Campánagar for Angika (a little to the west of Bhagalpur – during the time of Karńa this Campakanagarii was the capital of Angadesh)
+- Gumlá for Nágpurii
+- Cuttack for Oriya
+- Shivasagar for Assamese
+- Rajgir for Magahii (Rajgir or Rajgiri or Girivraja was the old capital of Magadha – it is situated in the heart of Magadha)
+- Madhuvanii for Maethilii
+- Dumraon for Bhojpuri (this is situated in the ancient district of Bhojpur)
+- Rewa for Bághelii
+- Delhi’s Chandnichowk for Urdu (Lucknow’s language is not Urdu but Avadhii)
+- Raipur for Chattrishgaŕii 
+
+
+These languages:
+- take less time to speak
+- save space when they are written
+
+It is pleasant to hear these free and unencumbered languages being spoken.
+
+<!-- The sixth condition for acceptance as a language is precisely this style of intonation, therefore attention must be paid to it. -->
+
+
 
 7 August 1983, Calcutta
-Footnotes
+
+
+### Footnotes
 
 (1) The real meaning of the word pańd́á is “intelligence resplendent with divine knowledge (veda)”, or “spiritual wisdom” – ahaḿ brahmásmiiti buddhih támitah práptah pańd́itah, that is, one who possesses this intelligence resplendent with divine knowledge deserves to be called pandit.
 

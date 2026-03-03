@@ -1,19 +1,18 @@
 ---
-heading: Proposition 13-17
+heading: Proposition 13 Theorm 13
 title: "Projectivle"
 description: "The planets move in ellipses which have their common focus in the sun's centre. By radii drawn, to tJtat centre, they describe areas pro the times of description"
 author: Newton
-draft: true
 c: "firebrick"
 ---
 
 
 
-PROPOSITION XIII. THEOREM XIII.
-
 The planets move in ellipses which have their common focus in the centre of the sun; and, by radii drawn to that centre, they describe areas proportional to the times of description.
 
-We have discoursed above of these motions from the Phænomena. Now that we know the principles on which they depend, from those principles we deduce the motions of the heavens à priori. Because the weights of the planets towards the sun are reciprocally as the squares of their distances from the sun's centre, if the sun was at rest, and the other planets did not mutually act one upon another, their orbits would be ellipses, having the sun in their common focus; and they would describe areas proportional to the times of description, by Prop, I and XI, and Cor. 1, Prop. XIII, Book I. But the mutual actions of the planets one upon another are so very small, that they may be neglected; and by Prop. LXVI, Book I, they less disturb the motions of the planets around the sun in motion than if those motions were performed about the sun at rest.
+<!-- We have discoursed above of these motions from the Phænomena. Now that we know the principles on which they depend, from those principles we deduce the motions of the heavens à priori. -->
+
+The weights of the planets towards the sun are reciprocally as the squares of their distances from the sun's centre, if the sun was at rest, and the other planets did not mutually act one upon another, their orbits would be ellipses, having the sun in their common focus; and they would describe areas proportional to the times of description, by Prop, I and XI, and Cor. 1, Prop. XIII, Book I. But the mutual actions of the planets one upon another are so very small, that they may be neglected; and by Prop. LXVI, Book I, they less disturb the motions of the planets around the sun in motion than if those motions were performed about the sun at rest.
 
 It is true, that the action of Jupiter upon Saturn is not to be neglected; for the force of gravity towards Jupiter is to the force of gravity towards the sun (at equal distances, Cor. 2, Prop. VIII) as 1 to 1067; and therefore in the conjunction of Jupiter and Saturn, because the distance of Saturn from Jupiter is to the distance of Saturn from the sun almost as 4 to 9, the gravity of Saturn towards Jupiter will be to the gravity of Saturn towards the sun as 81 to 16 
 ×

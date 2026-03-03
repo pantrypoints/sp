@@ -1,7 +1,7 @@
 ---
 heading: Chapter 5
 title: "Phonetics, Prefixes and Suffixes"
-weight: 8
+weight: 11
 author: "PR Sarkar"
 description: ""
 c: "mediumblue"
@@ -10,30 +10,78 @@ icon: "PR Sarkar"
 
 
 
-The Bengali or Gaoŕiiya style of vowel pronunciation differs from the other three accepted styles of pronunciation in India. It has some deviations from the rules of Sanskrit but they are accepted. It is also not contrary to phonetics if there are difficulties in elision or spelling. In Laokika Sanskrit there are four accepted original styles of pronunciation – Káshiká, Maháráśt́rii, Dravidian and Bengali.
+The Bengali or Gaoŕiiya style of vowel pronunciation differs from the other three accepted styles of pronunciation in India. It has some deviations from the rules of Sanskrit but they are accepted.
 
-A is pronounced in three ways: saḿvrta, vivrta, and tiryaka. Bengali pronunciation is saḿvrta. The Káshiká style is vivrta pronunciation. The pronunciation of the remaining two is so lengthened or extended that the pronunciation of ka sounds like ká, kha like khá, and ga like gá. For example, Pát́ná is written “Patna” in English, Pat́ná in Hindi, Pat́ńá in Marathii and Pát́ná in Bengali. Each spelling is correct according to its own style of pronunciation. Moreover, all aspects of these spellings follow some particular accepted style.
+It is also not contrary to phonetics if there are difficulties in elision or spelling. In Laokika Sanskrit there are four accepted original styles of pronunciation – Káshiká, Maháráśt́rii, Dravidian and Bengali.
 
-Now the pronunciation of the letter á in the Gaoŕiiya style is simply á. In the remaining styles it is long á – like the pronunciation of the French letter “a”. For example, cheval (meaning “horse”), hopital (“hospital” in English). In both of these the pronunciation of the letter “a” is long á. In eastern India it is simple á. Jamalpur is written Jámálpur in eastern India while in the rest of India it is written and pronounced Jamálpur.
+`A` is pronounced in 3 ways:
 
-There is a great deal of similarity between the Arabic and Hebrew languages. For example, the Arabic álif is alif [eyálif] in Hebrew. In Greek it is alpha; however the Greek style of pronunciation differs somewhat because in Greek there is a limited pronunciation of the ta varga. The pronunciation of the t́a varga is more extensive. I noticed this especially when I was in Greece.
+1. Saḿvrta
+2. Vivrta
+3. Tiryaka
+
+Bengali pronunciation is saḿvrta. 
+
+The Káshiká style is vivrta pronunciation. 
+
+The pronunciation of the remaining 2 is so lengthened or extended that the pronunciation of ka sounds like ká, kha like khá, and ga like gá. 
+
+For example, Pát́ná is written “Patna” in English, Pat́ná in Hindi, Pat́ńá in Marathii and Pát́ná in Bengali.
+
+Each spelling is correct according to its own style of pronunciation. Moreover, all aspects of these spellings follow some particular accepted style.
+
+The pronunciation of the letter á in the Gaoŕiiya style is simply á.
+
+In the remaining styles, it is long á – like the pronunciation of the French letter “a”. For example, cheval (meaning “horse”), hopital (“hospital” in English). In both of these the pronunciation of the letter “a” is long á. In eastern India it is simple á. 
+
+Jamalpur is written Jámálpur in eastern India while in the rest of India it is written and pronounced Jamálpur.
+
+There is a lot of similarity between the Arabic and Hebrew languages. 
+
+For example, the Arabic álif is alif [eyálif] in Hebrew. In Greek it is alpha; however the Greek style of pronunciation differs somewhat because in Greek there is a limited pronunciation of the ta varga.
+
+The pronunciation of the t́a varga is more extensive. I noticed this especially when I was in Greece.
 
 Both Arabic and Hebrew are Semitic languages and for this reason the relationship between them is extremely close. Here are a few examples of this closeness:
 
-Hebrew	Arabic
-Joseph	Yusuf
-Jacob	Yakub
-Solomon	Suleman
+Hebrew	| Arabic
+--- | ---
+Joseph | Yusuf
+Jacob | Yakub
+Solomon	| Suleman
 
-The Sanskrit letter a, like the Roman letter “a” also has various pronunciations. Although the letter e in Sanskrit is pronounced nearly the same everywhere, it is not exactly the same. In Vedic long e is pronounced but there is no practice of writing it.
 
-Ae comes after e. In Sanskrit it is pronounced ayáy. For this reason “bank” can be written vaeḿk in Sanskrit and in Hindi as well. Only in Bengali style is it written byáḿk. In Sanskrit this pronunciation would become biáḿk. Sanskrit and Bengali differ just as tál [palm] and gol do. If someone mistakes a tál tree for a gol tree or vice versa then we say that they have twisted things around.
+The Sanskrit letter a, like the Roman letter “a” also has various pronunciations. 
 
-In the Calcutta pronunciation of pet́, tel, bel, etc. the e is not pronounced eyá, that is, they are not pronounced pyát́, tyál, byál. In some areas they are pronounced pyát́, tyál, byál. This kind of pronunciation runs contrary to Sanskrit style. It happens due to the influence of Indo-Burmese pronunciation. In Rarh the village folk pronounce e as e, not as eyá. They do not say eyákádash for ekádash. This kind of pronunciation such as eyágára, eyákádash etc. does not concord with Aryan styles of pronunciation. The pronunciation of Rarh concords with the Aryan styles.
+Although the letter e in Sanskrit is pronounced nearly the same everywhere, it is not exactly the same. In Vedic long e is pronounced but there is no practice of writing it.
 
-The pronunciation of the letter o is correct, but according to the Sanskrit style of pronunciation the letter ao (ঔ) is pronounced a-o. In Hindi the word aośadh is pronounced aośadh. Other examples are mahaośadh, akśaohińii, daolat and so on. The pronunciation of ae and ao in Sanskrit should be maintained according to Sanskrit style, otherwise it will create difficulties with vowel elision.
+Ae comes after e.
 
-Ninety-three percent of the Bengali vocabulary comes from Sanskrit. There is no need for those Sanskrit words to be pronounced in Sanskrit style if they are to be used in Bengali because there is a difference of four generations between Sanskrit and Bengali – Sanskrit → Prákrta → Demi-Prákrta → old Bengali → modern Bengali. Ámra → ámba → ámbá → ánbaa → ánb [mango]. Many Bengalees say ám but from the standpoint of linguistic derivation, ánb is much more correct. Two and a half of the three letters that make up the Prákrta word ámba remain in the word ánb – the letter á, the full ba, and a half in the candrabindu form of the letter ma. In ám, however, only two letters remain. Similar is the case with tánbá and nábá. For example, in Panjabi one says ámb-dá-acár. It is incorrect.
+In Sanskrit it is pronounced ayáy. For this reason “bank” can be written vaeḿk in Sanskrit and in Hindi as well. Only in Bengali style is it written byáḿk. 
+
+In Sanskrit this pronunciation would become biáḿk. Sanskrit and Bengali differ just as tál [palm] and gol do. If someone mistakes a tál tree for a gol tree or vice versa then we say that they have twisted things around.
+
+In the Calcutta pronunciation of pet́, tel, bel, etc. the e is not pronounced eyá, that is, they are not pronounced pyát́, tyál, byál. In some areas they are pronounced pyát́, tyál, byál.
+
+This kind of pronunciation runs contrary to Sanskrit style. It happens due to the influence of Indo-Burmese pronunciation. In Rarh the village folk pronounce e as e, not as eyá.
+
+They do not say eyákádash for ekádash. This kind of pronunciation such as eyágára, eyákádash etc. does not concord with Aryan styles of pronunciation. 
+
+The pronunciation of Rarh concords with the Aryan styles.
+
+The pronunciation of the letter o is correct, but according to the Sanskrit style of pronunciation the letter ao (ঔ) is pronounced a-o. In Hindi the word aośadh is pronounced aośadh.
+
+Other examples are mahaośadh, akśaohińii, daolat and so on. The pronunciation of ae and ao in Sanskrit should be maintained according to Sanskrit style, otherwise it will create difficulties with vowel elision.
+
+93% of the Bengali vocabulary comes from Sanskrit.
+
+There is no need for those Sanskrit words to be pronounced in Sanskrit style if they are to be used in Bengali because there is a difference of four generations between Sanskrit and Bengali – Sanskrit → Prákrta → Demi-Prákrta → old Bengali → modern Bengali. 
+
+Ámra → ámba → ámbá → ánbaa → ánb [mango].
+
+Many Bengalees say ám but from the standpoint of linguistic derivation, ánb is much more correct. Two and a half of the three letters that make up the Prákrta word ámba remain in the word ánb – the letter á, the full ba, and a half in the candrabindu form of the letter ma. In ám, however, only two letters remain. Similar is the case with tánbá and nábá.
+
+For example, in Panjabi one says ámb-dá-acár. It is incorrect.
 
 Prákrta pronunciation differs from Sanskrit pronunciation. Furthermore, there are differences in pronunciation from one Prákrta to another. Take, for example, Mágadhii Prákrta: in Sanskrit, puśpa; in Mágadhii Prákrta, puśpala; in Demi-Mágadhii, puphphala; in the old form of modern Bengali, pupphul; and in modern Bengali phul. In Páshcáttya Prákrta, puśpa becomes pośp. For example, the Sanskrit padmapuśpa will be padampośp in Páshcáttya Prákrta. In Demi-Prákrta it is paampośp, and in modern Kashmirii it is pampoś. Kashmirii, Pashto, Tazaki, and Uzbeki, and so on, that is, the languages of southern Russia, have evolved from Páshcáttya Prákrta. The Russian language is a descendant of Vedic, thus there is some similarity between Russian and the language of the Rgveda. For example, the Vedic words nah, vah, etc. are used in Russian. We can see that there is a close connection between the Vedic and Russian languages. The study of philology and phonetics will do a lot to close the distances and eliminate inequalities between people, and it will also help to establish Neohumanism. Is there any wonder then that there is some difference between the Sanskrit pronunciation of eastern India and that of the rest of India!
 
@@ -86,16 +134,28 @@ Bengali also has its own prefixes. Há, á, ni, etc. are Bengali prefixes. For
 
 “Iran” is another name for Persia. When the Aryans came to India they passed through Persia. When they arrived in Persia they liked it very much. Previously they were only familiar with barley and oats. They discovered wheat for the first time when they came to this country. Wheat is called godhúma in Sanskrit. Go means “tongue” and dhúma means “festival”. When they ate wheat they realized how tasty it was, that is, it was like a festival for the tongue so they called it godhúma. In Hindi it is gehún and in Bihar, gohúm; in Oriya and Rarhi Bengali, gaham; and in Calcutta Bengali, gam. They all come from the word godhúma. In Panjabi wheat is called kanak because at harvest time its colour turns golden.(3)
 
-When the Aryans arrived in Persia they also came into contact with paddy. They saw that many different things could be made from paddy such as beaten rice, puffed rice, khai [a soft variety of puffed rice], muŕki [parched paddy soaked in molasses], and so on. For this reason they gave paddy the name vriihi which means “that in which a great deal of capacity is hidden”. For example, bahuvriihi samása means “that samása [compound word] which contains the opportunity for pervasive expression”. Thus with yasya [of which] and yasmin [in which] at the end, vyásavákya of bahuvriihi is created.(4) The old Latin and old French word rihi comes from the Vedic word vriihi; its altered form became risi from which comes the modern English “rice”.
+When the Aryans arrived in Persia they also came into contact with paddy.
+
+They saw that many different things could be made from paddy such as beaten rice, puffed rice, khai [a soft variety of puffed rice], muŕki [parched paddy soaked in molasses], and so on.
+
+This is why they gave paddy the name vriihi which means “that in which a great deal of capacity is hidden”. For example, bahuvriihi samása means “that samása [compound word] which contains the opportunity for pervasive expression”.
+
+Thus, with yasya [of which] and yasmin [in which] at the end, vyásavákya of bahuvriihi is created.(4) The old Latin and old French word rihi comes from the Vedic word vriihi; its altered form became risi from which comes the modern English “rice”.
 
 The Vedic word dhánya does not mean “paddy”. It means “green vegetation”. Harita dhánya → haria háńńa → hariháná → hariyáńá.
 
 The Aryans accepted Persia as their proper homeland. Happily they stayed there and wandered through it. Thus they gave it the Vedic name “Áryańyavraja” whose altered form became the modern “Iráńaveja”. In Arabic the country’s name is Pháras. The name Pháras continued to be used for a long time and in English it became “Persia”. Nowadays the country has been given the name “Iran” from the old word “Iráńaveja”.
 
-In the course of different discussions we have seen that since its very birth the Bengali language has been inseparably bound to the Sanskrit language. Not only should the people of Bengal consider Sanskrit to be their religious language or spiritual language, similar to Arabic or Pali, but it should also be accepted as their original language. Sanskrit has been joined to the pulse of the Bengalees for generation after generation; it cannot be rejected because of changing events. If they try to distance themselves from it, thinking it to be the religious language of the Hindus and the Maháyána Buddhists, they will not cause the Sanskrit language any harm but they will cause harm to the Bengali-speaking people. The Bengali language stands upon the firm foundation of Sanskrit. If a blow is struck to that firm foundation then the infrastructure of the Bengali language will find itself tottering. The study of Sanskrit should be made compulsory at the university level. In advanced fields Sanskrit should be retained as a separate paper included in the study of Bengali, whether or not it is studied as a separate language. This will be a strong and well-merited step.
+In the course of different discussions we have seen that since its very birth the Bengali language has been inseparably bound to the Sanskrit language. Not only should the people of Bengal consider Sanskrit to be their religious language or spiritual language, similar to Arabic or Pali, but it should also be accepted as their original language. Sanskrit has been joined to the pulse of the Bengalees for generation after generation; it cannot be rejected because of changing events. If they try to distance themselves from it, thinking it to be the religious language of the Hindus and the Maháyána Buddhists, they will not cause the Sanskrit language any harm but they will cause harm to the Bengali-speaking people. 
+
+The Bengali language stands upon the firm foundation of Sanskrit. If a blow is struck to that firm foundation then the infrastructure of the Bengali language will find itself tottering.
+
+The study of Sanskrit should be made compulsory at the university level. In advanced fields Sanskrit should be retained as a separate paper included in the study of Bengali, whether or not it is studied as a separate language. This will be a strong and well-merited step.
 
 17 July 1983, Calcutta
-Footnotes
+
+
+### Footnotes
 
 (1) A mark signalling that the final implied vowel is not pronounced, for example, sa with a hasanta (স্) becomes s. –Trans.
 

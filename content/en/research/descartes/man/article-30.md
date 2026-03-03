@@ -8,7 +8,10 @@ c: "#DE3163"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+aliases:
+  /research/descartes/man/section-30b/
 ---
+
 
 
 ## 30. How are our ideas of objects formed in the seat of imagination and common sense?

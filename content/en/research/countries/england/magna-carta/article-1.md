@@ -7,7 +7,7 @@ author: "King John"
 image: "/covers/magna.jpg"
 icon: gb
 aliases:
-  - /research/england/magna-carta/article-1/
+  /research/england/magna-carta/article-1/
 ---
 
 

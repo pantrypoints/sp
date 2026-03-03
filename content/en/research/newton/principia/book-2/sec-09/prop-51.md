@@ -47,29 +47,33 @@ The times, reciprocally proportional to the angular motions, will be also recipr
 Therefore the periodic time of any particle as `D`, is reciprocally as the area `DdQ`, that is (as appears from the known methods of quadratures of curves), directly as the distance SD. Q.E.D.
 
 
-**Corollary 1**
+### Corollary 1
 
 Hence the angular motions of the particles of the fluid are reciprocally as their distances from the axis of the cylinder, and the absolute velocities are equal.
 
-**Corollary 2 **
+
+### Corollary 2
 
 If a fluid be contained in a cylindric vessel of an infinite length, and contain another cylinder within, and both the cylinders revolve about one common axis, and the times of their revolutions be as their semi-diameters, and every part of the fluid perseveres in its motion, the periodic times of the several parts will be as the distances from the axis of the cylinders.
 
-**Corollary 3 ** 
+
+### Corollary 3
 
 If there be added or taken away any common quantity of angular motion from the cylinder and fluid moving in this manner; yet because this new motion will not alter the mutual attrition of the parts of the fluid, the motion of the parts among themselves will not be changed; for the translations of the parts from one another depend upon the attrition. Any part will persevere in that motion, which, by the attrition made on both sides with contrary directions, is no more accelerated than it is retarded.
 
 
-**Corollary 4 **
+### Corollary 4
 
 Therefore if there be taken away from this whole system of the cylinders and the fluid all the angular motion of the outward cylinder, we shall have the motion of the fluid in a quiescent cylinder.
 
 
-**Corollary 5 **
+
+### Corollary 5
 
 Therefore if the fluid and outward cylinder are at rest, and the inward cylinder revolve uniformly, there will be communicated a circular motion to the fluid, which will be propagated by degrees through the whole fluid; and will go on continually increasing, till such time as the several parts of the fluid acquire the motion determined in Cor. 4.
 
-**Corollary 6 **
+
+### Corollary 6
 
 
 The fluid tries to propagate its motion still farther. Its impulse will carry the outmost cylinder also about with it, unless the cylinder be violently detained; and accelerate its motion till the periodic times of both cylinders become equal among themselves. 
@@ -77,3 +81,4 @@ The fluid tries to propagate its motion still farther. Its impulse will carry th
 But if the outward cylinder be violently detained, it will make an effort to retard the motion of the fluid; and unless the inward cylinder preserve that motion bv means of some external force impressed thereon, it will make it cease by degrees.
 
 All these things will be found true by making the experiment in deep standing water.
+

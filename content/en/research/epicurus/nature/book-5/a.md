@@ -7,7 +7,10 @@ weight: 6
 description: There is no limit to their full sum, or to the void, or to the space in which all things are carried on
 author: "Titus Lucretius Carus"
 c: "firebrick"
+aliases:
+  /research/epicurus/nature/book-5/notes/
 ---
+
 
 
 The world is mortal because:

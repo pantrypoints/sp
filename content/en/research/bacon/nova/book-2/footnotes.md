@@ -5,8 +5,10 @@ description: ""
 c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
-draft: true
+aliases:
+  /research/bacon/nova/book-2/footnotes/
 ---
+
 
 
 [71] Τὸ τὶ ἦν εἶναι, or ἦν οὐσία of Aristotle.—See lib. iii. Metap.

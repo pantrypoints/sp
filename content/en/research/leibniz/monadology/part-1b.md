@@ -1,7 +1,7 @@
 ---
 heading: Part 1b
-title: "What are Monads?"
-description: "Monads are simple substances which make up compounds. By ‘simple’ I mean ‘without parts’"
+title: "Appetition"
+description: "Appetition is the action of the internal principle which brings about change"
 c: "indigo"
 # date: 2023-02-15
 weight: 8

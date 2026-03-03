@@ -6,11 +6,11 @@ weight: 14
 # orig date: 2016-01-01
 date: 2025-01-19
 image: /photos/meta/buddhism.jpg
-aliase:
-  /social/economics/principles/part-3/chapter-01b/
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+aliases:
+  /social/economics/principles/part-3/chapter-01b/
 ---
 
 

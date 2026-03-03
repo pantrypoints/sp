@@ -38,7 +38,7 @@ Violence was a key policy of the Anunnaki, as proven by the Old Testament and th
 
 This puts the origin of the violent policy to an alien race and not an inherent human policy, which is to serve. 
 
-This is because humans were created as a slave race -- this is also why we do not see the slavery of a 9-5 job as a problem. Whereas if you impose forced labor on a dog, cat, or animal, it will not do it. 
+This is because humans were created as a slave race -- this is also why we do not see the slavery of a 9-5 job as a problem. Whereas if you impose forced labor on a bird, pig, cat, or animal (other than a dog), it will not do it.
 
 
 ### Step 2. Identify Dogmism

@@ -75,8 +75,7 @@ This can be done by defining “time” as the time required by light to travel 
 
 Let a ray of light start at the “A time” tA from A towards B, let it at the “B time” tB be reflected at B in the direction of A, and arrive again at A at the “A time” t0A .
 
-In accordance with definition the two clocks synchronize if
-tB − tA = t0A − tB .
+In accordance with definition the two clocks synchronize if tB − tA = t0A − tB .
 
 We assume that this definition of synchronism is free from contradictions, and possible for any number of points; and that the following relations are universally valid:
 
