@@ -2,6 +2,7 @@
 title: "Scholium"
 description: "We simplify Lemma 7-9 of Principia Mathematica by Isaac Newton"
 author: Newton
+weight: 16
 c: "firebrick"
 ---
 
@@ -59,5 +60,6 @@ This is the ultimate velocity. And there is the like limit in all quantities and
 
 It may also be objected, that if the ultimate ratios of evanescent quantities are given, their ultimate magnitudes will be also given: and so all quantities will consist of indivisibles, which is contrary to what Euclid has demonstrated concerning incommensurables, in the 10th Book of his Elements. But this objection is founded on a false supposition. For those ultimate ratios with which quantities vanish are not truly the ratios of ultimate quantities, but limits towards which the ratios of quantities decreasing without limit do always converge; and to which they approach nearer than by any given difference, but never go beyond, nor in effect attain to, till the quantities are diminished in infinitum. 
 
-This thing will appear more evident in quantities infinitely great. If two quantities, whose difference is given, be augmented in infinitum, the ultimate ratio of these quantities will be given, to wit, the ratio of equality; but it does not from thence follow, that the ultimate or greatest quantities themselves, whose ratio that is, will be given. Therefore if in what follows, for the sake of being more easily understood, I should happen to mention quantities as least, or evanescent, or ultimate, you are not to suppose that quantities of any determinate magnitude are meant, but such as are conceived to be always diminished without end.
+This thing will appear more evident in quantities infinitely great. If two quantities, whose difference is given, be augmented in infinitum, the ultimate ratio of these quantities will be given, to wit, the ratio of equality; but it does not from thence follow, that the ultimate or greatest quantities themselves, whose ratio that is, will be given.
 
+Therefore, if in what follows, for the sake of being more easily understood, I should happen to mention quantities as least, or evanescent, or ultimate, you are not to suppose that quantities of any determinate magnitude are meant, but such as are conceived to be always diminished without end.

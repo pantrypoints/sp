@@ -1,7 +1,6 @@
 ---
-heading: Section 2
-linkTitle: Prop 7
-title: "Proposition 7 Problem 2"
+heading: "Proposition 7 Problem 2"
+title: The law of centripetal force
 c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
@@ -86,3 +85,4 @@ or (because of the similar triangles PSG, TPV) to SG³.
 The force by which the body P in any orbit revolves about the centre of force S, is to the force by which the same body may revolve in the same orbit, and the same periodic time, about any other centre of force R, as the solid 
 
 contained under the distance of the body from the first centre of force S, and the square of its distance from the second centre of force R, to the cube of the right line SG, drawn from the first centre of the force S, parallel to the distance RP of the body from the second centre of force R, meeting the tangent PG of the orbit in G. For the force in this orbit at any point P is the same as in a circle of the same curvature.
+

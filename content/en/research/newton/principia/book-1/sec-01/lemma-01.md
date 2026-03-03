@@ -3,6 +3,7 @@ title: "Lemma 1-6"
 description: "We simplify Section 1 of  Principia Mathematica by Isaac Newton"
 author: Newton
 c: "firebrick"
+weight: 6
 ---
 
 

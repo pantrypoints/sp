@@ -1,13 +1,15 @@
 ---
-heading: Section 2
-linkTitle: Prop 6
-title: "Proposition 6 Theorem 5"
+heading: Proposition 6 Theorem 5
+title: "Revolutions"
 c: "firebrick"
-description: "We simplify Principlia Mathematica"
+description: "Assume a space with an immovable centre and void of resistance"
 icon: "Newton"
 weight: 14
 ---
 
+
+
+## Proposition 6 Theorem 5
 
 Assume a space with an immovable centre and void of resistance.
 

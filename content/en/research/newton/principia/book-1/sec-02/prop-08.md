@@ -1,9 +1,8 @@
 ---
-heading: Section 2h
-linkTitle: Prop 8
-title: "Proposition 8 Problem 3"
+heading: Proposition 8 Problem 3
+title: "Semicircle"
 c: "firebrick"
-description: "We simplify Principlia Mathematica"
+description: "If a body moves in the semi-circumference PQA,find the law of the centripetal force tending to a point S, so remote that all the lines PS, RS drawn thereto may be taken for parallels."
 icon: "Newton"
 weight: 18
 ---

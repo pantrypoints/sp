@@ -1,7 +1,6 @@
 ---
-heading: Section 2d
-linkTitle: Prop 4
-title: "Proposition 4 Theorem 4"
+heading: Proposition 4 Theorem 4
+title: "Centripetal forces"
 c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
@@ -71,7 +70,12 @@ From the same demonstration it likewise follows, that the arc which a body, unif
 
 The case of the 6th Corollary obtains in the celestial bodies (as Sir Christopher Wren, Dr. Hooke, and Dr. Halley have severally observed); and therefore in what follows, I intend to treat more at large of those things which relate to centripetal force decreasing in a duplicate ratio of the distances from the centres.
 
-Moreover, by means of the preceding Proposition and its Corollaries, we may discover the proportion of a centripetal force to any other known force, such as that of gravity. For if a body by means of its gravity revolves in a circle concentric to the earth, this gravity is the centripetal force of that body. But from the descent of heavy bodies, the time of one entire revolution, as well as the arc described in any given time, is given (by Cor. 9 of this Prop.). And by such propositions, Mr. Huygens, in his excellent book De Horologio Oscillatorio, has compared the force of gravity with the centrifugal forces of revolving bodies.
+Moreover, by means of the preceding Proposition and its Corollaries, we may discover the proportion of a centripetal force to any other known force, such as that of gravity.
 
-The preceding Proposition may be likewise demonstrated after this manner. In any circle suppose a polygon to be inscribed of any number of sides. And if a body, moved with a given velocity along the sides of the polygon, is reflected from the circle at the several angular points, the force, with which at every reflection it strikes the circle, will be as its velocity: and therefore the sum of the forces, in a given time, will be as that velocity and the number of reflections conjunctly: that is (if the species of the polygon be given), as the length described in that given time, and increased or diminished in the ratio of the same length to the radius of the circle; that is, as the square of that length applied to the radius; and therefore the polygon, by having its sides diminished in infinitum, coincides with the circle, as the square of the arc described in a given time applied to the radius. This is the centrifugal force, with which the body impels the circle; and to which the contrary force, wherewith the circle continually repels the body towards the centre, is equal.
+For if a body by means of its gravity revolves in a circle concentric to the earth, this gravity is the centripetal force of that body. But from the descent of heavy bodies, the time of one entire revolution, as well as the arc described in any given time, is given (by Cor. 9 of this Prop.). And by such propositions, Mr. Huygens, in his excellent book De Horologio Oscillatorio, has compared the force of gravity with the centrifugal forces of revolving bodies.
 
+The preceding Proposition may be likewise demonstrated after this manner. In any circle suppose a polygon to be inscribed of any number of sides. And if a body, moved with a given velocity along the sides of the polygon, is reflected from the circle at the several angular points, the force, with which at every reflection it strikes the circle, will be as its velocity.
+
+Therefore the sum of the forces, in a given time, will be as that velocity and the number of reflections conjunctly: that is (if the species of the polygon be given), as the length described in that given time, and increased or diminished in the ratio of the same length to the radius of the circle; that is, as the square of that length applied to the radius.
+
+Therefore the polygon, by having its sides diminished in infinitum, coincides with the circle, as the square of the arc described in a given time applied to the radius. This is the centrifugal force, with which the body impels the circle; and to which the contrary force, wherewith the circle continually repels the body towards the centre, is equal.

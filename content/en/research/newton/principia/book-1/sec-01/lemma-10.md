@@ -2,6 +2,7 @@
 title: "Lemma 10"
 description: "We simplify Lemma 7-9 of Principia Mathematica by Isaac Newton"
 author: Newton
+weight: 11
 c: "firebrick"
 aliases:
   /research/newton/principia/book-1/sec-01/lemma-11
@@ -76,9 +77,14 @@ d -->
 
 Therefore the ratio of AB² to Ab² is compounded of the ratios of AG to Ag, and of Bd to bd. But because GJ may be assumed of less length than any assignable, the ratio of AG to Ag may be such as to differ from the ratio of equality by less than any assignable difference; and therefore the ratio of AB² to Ab² may be such as to differ from the ratio of BD to bd by less than any assignable difference. There fore, by Lem. I, the ultimate ratio of AB² to Ab² is the same with the ultimate ratio of BD to bd.   Q.E.D.
 
-Case 2. Now let BD be inclined to AD in any given angle, and the ultimate ratio of BD to bd will always be the same as before, and therefore the same with the ratio of AB² to Ab².   Q.E.D.
 
-Case 3. And if we suppose the angle D not to be given, but that the right line BD converges to a given point, or is determined by any other condition whatever; nevertheless the angles D, d, being determined by the same law, will always draw nearer to equality, and approach nearer to each other than by any assigned difference, and therefore, by Lem. I, will at last be equal; and therefore the lines BD, bd are in the same ratio to each other as before.   Q.E.D.
+### Case 2
+
+Let BD be inclined to AD in any given angle, and the ultimate ratio of BD to bd will always be the same as before, and therefore the same with the ratio of AB² to Ab².   Q.E.D.
+
+### Case 3
+
+Assume the angle D is not given, but that the right line BD converges to a given point, or is determined by any other condition whatever; nevertheless the angles D, d, being determined by the same law, will always draw nearer to equality, and approach nearer to each other than by any assigned difference, and therefore, by Lem. I, will at last be equal; and therefore the lines BD, bd are in the same ratio to each other as before.   Q.E.D.
 
 Cor. 1. Therefore since the tangents AD, Ad, the arcs AB, Ab, and their sines, BC, bc, become ultimately equal to the chords AB, Ab, their squares will ultimately become as the subtenses BD, bd.
 
@@ -89,5 +95,7 @@ Cor. 3. And therefore the versed sine is in the duplicate ratio of the time in w
 
 Cor. 4. The rectilinear triangles ADB, Adb are ultimately in the triplicate ratio of the sides AD, Ad, and in a sesquiplicate ratio of the sides DB, db; as being in the ratio compounded of the sides AD to DB, and of Ad to db. So also the triangles ABC, Abc are ultimately in the triplicate ratio of the sides BC, bc. What I call the sesquiplicate ratio is the subduplicate of the triplicate, as being compounded of the simple and subduplicate ratio.
 
-Cor. 5. And because DB, db are ultimately parallel and in the duplicate ratio of the lines AD, Ad, the ultimate curvilinear areas ADB, Adb will be (by the nature of the parabola) two thirds of the rectilinear triangles ADB, Adb and the segments AB, Ab will be one third of the same triangles. And thence those areas and those segments will be in the triplicate ratio as well of the tangents AD, Ad, as of the chords and arcs AB, AB.
+Cor. 5. And because DB, db are ultimately parallel and in the duplicate ratio of the lines AD, Ad, the ultimate curvilinear areas ADB, Adb will be (by the nature of the parabola) two thirds of the rectilinear triangles ADB, Adb and the segments AB, Ab will be one third of the same triangles. 
+
+Thence those areas and those segments will be in the triplicate ratio as well of the tangents AD, Ad, as of the chords and arcs AB, AB.
 

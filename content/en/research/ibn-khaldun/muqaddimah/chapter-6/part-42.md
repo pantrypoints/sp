@@ -12,7 +12,11 @@ weight: 120
 
 Most Muslim scholars both in the religious and in the intellectual sciences have been non-Arabs. When a scholar is of Arab origin, he is non-Arab in language and upbringing and has non-Arab teachers. This is so in spite of the fact that Islam is an Arabic religion, and its founder was an Arab.
 
-This is because at the beginning Islam had no sciences or crafts because of the simple desert attitude. The religious laws, which are the commands and prohibitions of God, were in the breasts of the authorities. They knew their sources, the Qur'an and the Sunnah, from information they had received directly from the Prophet Muhammad himself and the men around him. 
+This is because at the beginning Islam had no sciences or crafts because of the simple desert attitude. 
+
+The religious laws, which are the commands and prohibitions of God, were in the breasts of the authorities. 
+
+They knew their sources, the Qur'an and the Sunnah, from information they had received directly from the Prophet Muhammad himself and the men around him. 
 
 The people at that time were Arabs. 
 
@@ -54,7 +58,11 @@ Most of the hadith scholars who preserved traditions for the Muslims also were n
 
 Furthermore, all the scholars who worked in the science of the principles of jurisprudence were non-Arabs (Persians), as is well known. 
 
-The same applies to speculative theologians and to most Qur'an commentators. Only the non-Arabs (Persians) engaged in the task of preserving knowledge and writing systematic scholarly works. Thus, the truth of the following statement by the Prophet becomes apparent= "If scholarship hung suspended at the highest parts of heaven, the Persians 1216 would (reach it and) take it."
+The same applies to speculative theologians and to most Qur'an commentators. 
+
+Only the non-Arabs (Persians) engaged in the task of preserving knowledge and writing systematic scholarly works. 
+
+Thus, the truth of the following statement by the Prophet becomes apparent= "If scholarship hung suspended at the highest parts of heaven, the Persians 1216 would (reach it and) take it."
 
 The Arabs who came into contact with that flourishing sedentary culture and exchanged their Bedouin attitude for it, were diverted from occupying themselves with scholarship and study by their leading position in the 'Abbasid dynasty and the tasks that confronted them in government. 
 

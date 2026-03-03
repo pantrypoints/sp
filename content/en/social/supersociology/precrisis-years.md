@@ -4,16 +4,23 @@ heading: "How We Predict a Crisis Starting in 2019"
 description: "Our models predict a Great Stagflation beginning in 2020, to be sparked in 2019"
 date: 2016-01-01
 image: "/photos/econ/crash.jpg"
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
+# writer:
+#   name: Juan
+#   url: https://www.linkedin.com/in/jundalisay/
 linkTitle: Precrisis Years
 ---
 
 
+<!-- ![Crisis](/photos/econ/crash.jpg) -->
+
 Our model, derived from the principles laid by David Hume, Adam Smith, and Socrates, designated 2019 as the start of a global stagflation. 
 
 This stagflation will increase from 2020 onwards up to 2030 when it will reach its peak, culminating in some kind of conflict. A stagflation is a phenomenon which has low employment and output while having high prices at the same time.
+
+The [growing tension between Saudi Arabia and Iran](https://www.theguardian.com/world/on-the-middle-east/2015/oct/23/iran-and-saudi-arabia-ramp-up-hostile-rhetoric-to-new-levels) could lead to such a conflict that has huge economic consequences for the world. 
+
+
+<!-- https://www.aljazeera.com/news/2016/1/4/saudi-arabia-cuts-diplomatic-ties-with-iran -->
 
 
 ## How We Got the Prediction
