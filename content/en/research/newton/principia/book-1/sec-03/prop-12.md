@@ -5,7 +5,7 @@ description: "Find the law of centripetal force tending to the focus of a body m
 author: Newton
 c: "firebrick"
 icon: "Newton"
-weight: 6
+weight: 8
 ---
 
 

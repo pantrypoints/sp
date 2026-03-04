@@ -63,3 +63,5 @@ It may also be objected, that if the ultimate ratios of evanescent quantities ar
 This thing will appear more evident in quantities infinitely great. If two quantities, whose difference is given, be augmented in infinitum, the ultimate ratio of these quantities will be given, to wit, the ratio of equality; but it does not from thence follow, that the ultimate or greatest quantities themselves, whose ratio that is, will be given.
 
 Therefore, if in what follows, for the sake of being more easily understood, I should happen to mention quantities as least, or evanescent, or ultimate, you are not to suppose that quantities of any determinate magnitude are meant, but such as are conceived to be always diminished without end.
+
+

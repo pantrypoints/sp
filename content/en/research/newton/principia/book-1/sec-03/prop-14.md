@@ -1,8 +1,10 @@
 ---
-title: "Proposition 14"
-description: "If a body moves in the perimeter of a parabola ; it is required to find law of the centripetal force tending to the focus of that figure"
+heading: Proposition 14-15 Theorem 6-7
+title: "Bodies in Orbit"
+description: "If several bodies revolve about one common centre, and the centripetal force is reciprocally in the duplicate ratio of the distance of places from the centre."
 author: Newton
-draft: true
+icon: "Newton"
+weight: 15
 c: "firebrick"
 ---
 
@@ -10,81 +12,28 @@ c: "firebrick"
 
 ## Proposition 14 Theorem 6
 
-If several bodies revolve about one common centre, and the centripetal the distance of places force is reciprocally in the duplicate ratio of latera recta of their orbits that the
-I
-centre
-the
-from
-principal
-say,
-are in the duplicate ratio of the areas, which the bodies by radii
-to the centre describe it\ the same time.
-drawn
+If several bodies revolve about one common centre, and the centripetal force is reciprocally in the duplicate ratio of the distance of places from the centre.
 
-For
-L
-Cor
-(by Prop. 13) the latus rectum
-2,
-QT*.
-is
-equal to the quantity-^-in
-its
-ultimate
-the points P and Q, coincide.
-But
-in a given time is as the gen
-erating centripetal force that is (by supposi-
-state
-when
-QR
-the lineola
-;
-tion), reciprocally as
-is
-as
-Q.T 2 X SP 2
-the area
-QT
-X
-SP
-that
-;
-SP.
-2
-And
-.
-is,
-QT
-2
-therefore-^-^
-the latus rectum
-L
-is
-in the duplicate ratio of
+The principal latera recta of their orbits are in the duplicate ratio of the areas, which the bodies by radii drawn to the centre describe in the same time.
+
+For (by Cor. 2, Prop. XIII) the latus rectum L is equal to the quantity 
+
+...
+
+in its ultimate state when the points P and Q coincide. But the lineola QR in a given time is as the generating centripetal force; that is (by supposition), reciprocally as SP² . 
 
 
-Hence the whole area of the ellipsis, and the rectangle under the
-which
-is proportional to it, is in the ratio
-axes,
-compounded of the subdu-
-ratio
-For
-of
-the
-latus
-and
-the
-ratio
-the periodic time.
-of
-rectum,
-plicate
-the whole area is as the area QT X SP, described in a given time, mul
-C?OR.
-tiplied
-by the periodic time.
+Therefore ... is as QT² × SP².
+
+That is, the latus rectum L is in the duplicate ratio of the area QT × SP.   Q.E.D.
+
+
+### Corollary 
+
+Hence the whole area of the ellipsis, and the rectangle under the axes, which is proportional to it, is in the ratio compounded of the subduplicate ratio of the latus rectum, and the ratio of the periodic time.
+
+For the whole area is as the area QT × SP, described in a given time, multiplied by the periodic time.
+
 
 
 ## Proposition 15 Theorem 7
@@ -93,14 +42,8 @@ The periodic times in ellipses are in the sesquiplicate ratio of their greater a
 
 The lesser axis is a mean proportional between the greater axis and the latus rectum. Therefore, the rectangle under the axes is in the ratio compounded of the  subduplicate ratio of the latus rectum and the sesquiplicate ratio of the greater axis.
 
-But this rectangle (by Cor. 3, Prop 14) is 
-in a ratio compounded of the subduplicate ratio of the latus rectum, and the ratio of the 
-Prop. XIV)
-compounded
- periodic time.
-Subduct from both sides
-the subduplicate ratio of the latus rectum, and there will remain the ses
-quiplicate ratio of the greater axis, equal to the ratio of the periodic time.
+But this rectangle (by Cor. 3. Prop. XIV) is in a ratio compounded of the subduplicate ratio of the latus rectum, and the ratio of the periodic time. Subduct from both sides the subduplicate ratio of the latus rectum, and there will remain the sesquiplicate ratio of the greater axis, equal to the ratio of the periodic time.   Q.E.D.
+
 
 ### Corollary 
 

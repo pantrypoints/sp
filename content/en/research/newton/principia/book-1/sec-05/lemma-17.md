@@ -5,6 +5,7 @@ description: "If from any point of a given conic section, to the four produced s
 author: Newton
 weight: 4
 c: "firebrick"
+icon: "Newton"
 ---
 
 

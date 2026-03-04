@@ -33,19 +33,21 @@ For in the right line AE let there be taken the very small line DE of a given le
 
 will be as 
 
+...
+
 that is, if we take the first ratios of those quantities when just nascent, the length DF is as the quantity 
 
 and therefore also as half that quantity  I .... 
 
 But the time in which the body in falling describes the very small line DE, is as that line directly and the velocity V inversely; and the force will be as the increment I of the velocity directly and the time inversely; and therefore if we take the first ratios when those quantities are just nascent, as 
-I
-×
-V
-D
-E
-{\displaystyle \scriptstyle {\frac {I\times V}{DE}}}, that is, as the length DF. Therefore a force proportional to DF or EG will cause the body to descend with a velocity that is as the right line whose square is equal to the area ABGE.   Q.E.D.
+
+...
+
+
+that is, as the length DF. Therefore a force proportional to DF or EG will cause the body to descend with a velocity that is as the right line whose square is equal to the area ABGE.   Q.E.D.
 
 Moreover, since the time in which a very small line DE of a given length may be described is as the velocity inversely, and therefore also inversely as a right line whose square is equal to the area ABFD; and since the line DL, and by consequence the nascent area DLME, will be as the same right line inversely, the time will be as the area DLME, and the sum of all the times will be as the sum of all the areas; that is (by Cor. Lem. IV), the whole time in which the line AE is described will be as the whole area ATVME.   Q.E.D.
+
 
 ### Cor. 1
 
@@ -62,3 +64,4 @@ Whence if any body be projected either upwards or downwards with a given velocit
 The time is also known by erecting the ordinate em reciprocally proportional to the square root of PQRD + or - DFge, and taking the time in which the body has described the line De to the time in which another body has fallen with an uniform force from P, and in falling arrived at D in the proportion of the curvilinear area DLme to the rectangle 2PD x DL.
 
 For the time in which a body falling with an uniform force hath described the line PD, is to the time in which the same body has described the line PE in the subduplicate ratio of PD to PE; that is (the very small line DE being just nascent), in the ratio of PD to PD + ½DE, or 2PD to 2PD + DE, and, by division, to the time in which the body hath described the small line DE, as 2PD to DE, and therefore as the rectangle 2PD  × DL to the area DLME; and the time in which both the bodies described the very small line DE is to the time in which the body moving unequably hath described the line De as the area DLME to the area DLme; and, ex æquo, the first mentioned of these times is to the last as the rectangle 2PD × DL to the area DLme.
+
