@@ -10,11 +10,13 @@ icon: /icons/spmat.png
 
 
 <!-- P. 106. --> 
+
 The eternal essence of number is the most providential principle of the universe, etc.
 
 The great Syrianus noted down how the Pythagoreans philosophized about numbers, which I wrote in my Theoretic Arithmetic.
 
-The Pythagoreans turned from the vulgar paths and delivered their philosophy in secret to those who were worthy to receive it. They expressed it through mathematical names. 
+The Pythagoreans turned from the vulgar paths and delivered their philosophy in secret to those who were worthy to receive it.
+- They expressed it through mathematical names. 
 
 Forms and numbers are things which are the first separated from impartible union. 
 - The natures above the forms are also above separation.[103] 
@@ -23,19 +25,21 @@ They obscurely signified the all-perfect multitude of forms through the duad.
 
 But they said that the first formal principles as the monad and duad are not being numbers.
 
-also by the first triad and tetrad, as being the first numbers, the one being odd, and the other even, from which by addition the decad is generated; for the sum of 1, 2, 3, and 4, is ten. 
+The first triad and tetrad were the first numbers
+- The triad was odd
+- The tetrad was even
+
+Adding them generates the decad for the sum of 1, 2, 3, and 4, is ten. 
 
 But after numbers, in secondary and multifarious lives, introducing geometrical prior to physical magnitudes.
 
-These also they referred to numbers, as to formal causes and the principles of these; 
+These also they referred to numbers, as to formal causes and the principles of these.
 
 The monad was the indivisible point and the first cause. 
 
 The duad was the first line or interval. 
 
-The triad had more intervals and lines. 
-
-The tetrad was solid.
+The triad had more intervals and lines while the tetrad was solid.
 
 Aristotle says that they called the first length as the duad. It is not simply length, but the first length, in order that by this they might signify cause. 
 

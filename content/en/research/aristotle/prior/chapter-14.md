@@ -38,40 +38,28 @@ Thus if the minor premise is negative, or if both premises are negative, either 
 For the necessity results from the conversion.
 
 But if one of the premises is universal, the other particular, when the major premise is universal
-there will be a perfect syllogism. For if A is possible for all B, and B for some C, then A is
-possible for some C. This is clear from the definition of being possible. Again if A may belong to
-no B, and B may belong to some of the Cs, it is necessary that A may possibly not belong to
-some of the Cs. The proof is the same as above. But if the particular premise is negative, and the
-universal is affirmative, the major still being universal and the minor particular, e.g. A is possible
-for all B, B may possibly not belong to some C, then a clear syllogism does not result from the
-assumed premises, but if the particular premise is converted and it is laid down that B possibly
-may belong to some C, we shall have the same conclusion as before, as in the cases given at the
+there will be a perfect syllogism. 
+
+For if A is possible for all B, and B for some C, then A is possible for some C.
+
+This is clear from the definition of being possible. Again if A may belong to no B, and B may belong to some of the Cs, it is necessary that A may possibly not belong to
+some of the Cs.
+
+The proof is the same as above. But if the particular premise is negative, and the universal is affirmative, the major still being universal and the minor particular, e.g. A is possible for all B, B may possibly not belong to some C, then a clear syllogism does not result from the assumed premises, but if the particular premise is converted and it is laid down that B possibly may belong to some C, we shall have the same conclusion as before, as in the cases given at the
 beginning.
 
-But if the major premise is the minor universal, whether both are affirmative, or negative, or
-different in quality, or if both are indefinite or particular, in no way will a syllogism be possible.
-For nothing prevents B from reaching beyond A, so that as predicates cover unequal areas. Let C
-be that by which B extends beyond A. To C it is not possible that A should belong-either to all or
-to none or to some or not to some, since premises in the mode of possibility are convertible and it
-is possible for B to belong to more things than A can. Further, this is obvious if we take terms;
-for if the premises are as assumed, the major term is both possible for none of the minor and
-must belong to all of it. 
+But if the major premise is the minor universal, whether both are affirmative, or negative, or different in quality, or if both are indefinite or particular, in no way will a syllogism be possible.
 
-Take as terms common to all the cases under consideration 'animal'-
-'white'-'man', where the major belongs necessarily to the minor; 'animal'-'white'-'garment', where
-it is not possible that the major should belong to the minor. It is clear then that if the terms are
-related in this manner, no syllogism results. For every syllogism proves that something belongs
-either simply or necessarily or possibly. 
+For nothing prevents B from reaching beyond A, so that as predicates cover unequal areas. Let C be that by which B extends beyond A. To C it is not possible that A should belong-either to all or to none or to some or not to some, since premises in the mode of possibility are convertible and it is possible for B to belong to more things than A can. Further, this is obvious if we take terms; 
+
+For if the premises are as assumed, the major term is both possible for none of the minor and must belong to all of it. 
+
+Take as terms common to all the cases under consideration 'animal'-'white'-'man', where the major belongs necessarily to the minor; 'animal'-'white'-'garment', where it is not possible that the major should belong to the minor. It is clear then that if the terms are related in this manner, no syllogism results. For every syllogism proves that something belongs either simply or necessarily or possibly. 
 
 There is no proof of the first or of the second. 
 
 For the affirmative is destroyed by the negative, and the negative by the affirmative.
-There remains the proof of possibility. But this is impossible. For it has been proved that if the
-terms are related in this manner it is both necessary that the major should belong to all the minor
-and not possible that it should belong to any. Consequently there cannot be a syllogism to prove
-the possibility; for the necessary (as we stated) is not possible.
 
-If the terms are universal in possible premises a syllogism always results in the
-first figure, whether they are affirmative or negative, only a perfect syllogism results in the first case, an imperfect in the second. But possibility must be understood according to the definition
-laid down, not as covering necessity. This is sometimes forgotten.
+There remains the proof of possibility. But this is impossible. For it has been proved that if the terms are related in this manner it is both necessary that the major should belong to all the minor and not possible that it should belong to any. Consequently there cannot be a syllogism to prove the possibility; for the necessary (as we stated) is not possible.
 
+If the terms are universal in possible premises a syllogism always results in the first figure, whether they are affirmative or negative, only a perfect syllogism results in the first case, an imperfect in the second. But possibility must be understood according to the definition laid down, not as covering necessity. This is sometimes forgotten.

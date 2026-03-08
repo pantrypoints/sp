@@ -9,8 +9,10 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 22
 icon: "Juan"
-# was 6b
+aliases:
+  /material/principles/intro/chapter-06c
 ---
+
 
 
 Constants are ratios within Nature. Superphysics classifies constants into 2:

@@ -8,7 +8,9 @@ description: "Aethereal Territory is the equivalent of the quantum fields in Mod
 icon: Juan
 writer:
   name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
+  url: https://www.linkedin.com/in/jundalisay
+# aliases:
+#   /material/principles/intro/chapter-07b
 ---
 
 

@@ -1,7 +1,6 @@
 ---
-heading: Section 1
-linkTitle: Prop 4
-title: "Proposition 4 Problem 2"
+heading: Proposition 4 Problem 2
+title: "The Force of Gravity"
 c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"

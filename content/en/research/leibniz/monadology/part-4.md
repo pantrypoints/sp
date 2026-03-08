@@ -96,7 +96,7 @@ But as soon as those which are chosen attain human nature through conception, th
 They can know the system of the universe, and can imitate it to a certain extent through their own small-scale constructions, since each spirit is like a minor deity in its own sphere of authority.
 
 
-84. This is what makes spirits capable of entering into a kind of social relationship with God.
+<sup>84</sup> This is what makes spirits capable of entering into a kind of social relationship with God.
 
 God’s relation to spirits is not merely that of an engineer to his machine (as is God’s relation to other created beings), but also that of a king to his subjects, and even that of a father to his children.
 

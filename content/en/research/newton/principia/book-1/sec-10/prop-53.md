@@ -1,9 +1,10 @@
 ---
-heading: Proposition 53
+heading: Proposition 53 Theorem 35
 title: "Finding the orbits from the focus given"
 description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
 author: Newton
-draft: true
+icon: "Newton"
+weight: 28
 c: "firebrick"
 ---
 

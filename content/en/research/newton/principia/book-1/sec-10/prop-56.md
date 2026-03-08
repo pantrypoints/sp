@@ -1,9 +1,10 @@
 ---
-heading: Proposition 56
+heading: Proposition 56 Theorem 37
 title: "Finding the orbits from the focus given"
 description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
 author: Newton
-draft: true
+icon: "Newton"
+weight: 48
 c: "firebrick"
 ---
 
@@ -85,3 +86,5 @@ be
 meeting the curve superficies in T, there will
 T
 of the trajectory.
+
+

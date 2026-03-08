@@ -1,7 +1,6 @@
 ---
-heading: Section 1
-linkTitle: Prop 1
-title: "Proposition 1-2 Theorem 1-2"
+heading: Proposition 1 Theory 1
+title: "Resistance"
 c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"

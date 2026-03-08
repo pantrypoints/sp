@@ -19,11 +19,7 @@ A perfect syllogism when the minor premise is necessary.
 
 If the premises are affirmative the conclusion will be problematic, not assertoric, whether the premises are universal or not. 
 
-But if one is affirmative, the other negative, when the affirmative is
-necessary the conclusion will be problematic, not negative assertoric; but when the negative is
-necessary the conclusion will be problematic negative, and assertoric negative, whether the
-premises are universal or not. Possibility in the conclusion must be understood in the same
-manner as before.
+But if one is affirmative, the other negative, when the affirmative is necessary the conclusion will be problematic, not negative assertoric; but when the negative is necessary the conclusion will be problematic negative, and assertoric negative, whether the premises are universal or not. Possibility in the conclusion must be understood in the same manner as before.
 
 There cannot be an inference to the necessary negative proposition: for 'not
 necessarily to belong' is different from 'necessarily not to belong'.
@@ -77,5 +73,3 @@ white to some inanimate, is both necessary and positive and necessary and negati
 the relation is problematic: so the terms may be used for all cases.
 
 A syllogism results or not from similar relations of the terms whether we are dealing with simple existence or necessity, with this exception, that if the negative premise is assertoric the conclusion is problematic, but if the negative premise is necessary the conclusion is both problematic and negative assertoric. [It is clear also that all the syllogisms are imperfect and are perfected by means of the figures above mentioned.]
-
-

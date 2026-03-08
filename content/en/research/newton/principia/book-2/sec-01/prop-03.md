@@ -1,5 +1,5 @@
 ---
-heading: Section 1
+heading: Proposition 3 Problem 1
 linkTitle: Prop 3
 title: "Proposition 3 Problem 1"
 c: "firebrick"
@@ -77,3 +77,5 @@ Also the differences of the spaces, which are described in equal differences of 
 ### Corollary 4
 
 The space described by the body is the difference of two spaces, whereof one is as the time taken from the beginning of the descent, and the other as the velocity; which [spaces] also at the beginning of the descent are equal among themselves.
+
+

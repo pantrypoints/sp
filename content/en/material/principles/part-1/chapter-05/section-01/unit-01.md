@@ -17,7 +17,7 @@ aliases:
 
 
 
-{{< youtube ZM1gapf2np0 >}}
+{{< youtube LboYdaWgogY >}}
 
 The Quantum of aether (qoa) is the monad. It is the smallest unit of an aethereal substance which takes the form of the universe.
 

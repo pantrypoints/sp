@@ -1,7 +1,7 @@
 ---
-title: "The Monadology"
-# heading: Semi-enlightened
-description: The Monadology
+title: "Monadology"
+heading: Enlightened
+description: Monadology by Leibniz
 writer:
   name: Leibniz
   url: https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
