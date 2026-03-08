@@ -1,16 +1,15 @@
 ---
-heading: Part 1
+heading: Section 1
 title: "The General Theory of Chemistry"
 # description: "The 12th Planet by Stitchin"
-c: "firebrick"
+c: "darkgoldenrod"
 weight: 4
 # date: 2022-04-12
 ---
 
 
 
-
-SECT. I. The Structure of SIMPLE, MIX'D, COMPOUND and AGGREGATE MATTER.
+## Section. 1: The Structure of SIMPLE, MIX'D, COMPOUND and AGGREGATE MATTER.
 
 1. Mixed, compound, and aggregate Bodies are the Subject of Chemistry. And so we should consider their chemical Struture.
 
@@ -196,39 +195,53 @@ From Salpler and Quick-filver join'd t ther proceeds Cinnabar. But if the fe Ear
 6.1.4.33
 + If the foundation here gone upon in affigning the M. ture or Compofition of all the natural Bodies, à priori, we ftrictly juft and perfect, a greater degree of knowledge we not neceflary in this affair; for we should then judge an talk as familiarly of the real manner wherein Nature produc Bodies, as if we had been affifting in their formation, or fee the Principles mix and concrete together; and hence be en abled to affign the proportion of each Ingredient employ'd as readily as we do in our own manner of producing arti ficial Bodies. Thus for inftance we should fay of natural Dia monds, and of natural Gold, that they confifted of fuch and fuch proportions of the firft, fecond, and third Earths, with as much exactness as we now fay of Bread, that it is an artifi-
 
-
-
 a chalky Earib makes Alum; the fame Acid, with the third or mercurial Earth, makes common Sea-falt; which, with a mixture of a moist and rocky, or clay-earth makes Sal-Gem*.
 If this univerfal Aid diffolves a vitrifiable Earth, thence comes Borax; and if it diffolves a Metal, thence comes Vitricl.
-Lime is rather an artificial Concrete; the Salt concentrated in it being produced by Calcina- tion.
+
+
+Lime is rather an artificial Concrete; the Salt concentrated in it being produced by Calcination.
+
+
 36. We have already obferved, that Lead, Tin, Iron, Copper and Mercury are compound Bo- dies. To thefe may well be added thofe im- mature Metals, Bifmuth, Zink, yellow Marcafite, a Antimony and Regulus of Antimony: for thefe are really metallic bodies, only intermix'd, infected and adulterated with too large a quantity of a certain arfenica! Earth; but Antimony, by an over-proportion of common inflammable Sulphurs whence they all prove volatile and brittle.
-37. In fine, mineral Compounds are reduced un- der thefe five Claffes; viz. (1.) Earthy Bodies, . more properly fo called; and thofe either vi- trefcible, or opake, fufible and chalky. (2.) Im- purer metallic Bodies, as thofe above mention- edt, and Quick-filver. (3.) Sulphureous Bodies, compofed of Bitumen; either with or without a large proportion of the univerfal Acid. (4.) Vo- latile, Arfenical, or corrofive uninflammable and dry Bodies. And (5.) Humid, corrofive and faline
-ones.
+
+37. In fine, mineral Compounds are reduced un- der thefe five Claffes; viz. (1.) Earthy Bodies, . more properly fo called; and thofe either vi- trefcible, or opake, fufible and chalky. 
+
+(2.) Impurer metallic Bodies, as thofe above mention- edt, and Quick-filver. 
+
+(3.) Sulphureous Bodies, compofed of Bitumen; either with or without a large proportion of the univerfal Acid.
+
+(4.) Vo- latile, Arfenical, or corrofive uninflammable and dry Bodies. And (5.) Humid, corrofive and saline ones.
+
 
 38. We have hitherto inquired into the fub- alternate Species of mix'd and compound Minerals:
+
 we
-See the Head of Mineral Salts, Part II. 
 
 we next proceed to Vegetables which fort matter confift of Minerals, more or lefs alt Thus they have their Life, as it were, from ter; and with this receive a certain miirgus & containing a bituminous Fat, and a fubtile v fiable Earth. But fome, inftead of a witrous & attract a more acid one, carrying along with calcarious, earthy Subftances whence in a u table Compound the Mixts that compose it more easily separated and demonftrated.
+
 39. Next we fhall briefly confider the parts Vegetables wherein these Mixts are found, more lefs join'd together; that is, the particular Sı jets of Chemistry, as taken from the vegeta Kingdom.
 
-
-Vegetables therefore are divided into small as Herbs and larger, as Shrubs and Tre The parts common to them both, are, a Sten or Trunk, Leaves, Flowers, Fruit and Roots in all which there is a great analogy: thus th Trunk contains much Earth, Salt, Rofin o Pitch, and but little Water; all of them grofs The Leaves hold the fame; only in these the
-
-
+Vegetables therefore are divided into small as Herbs and larger, as Shrubs and Tre The parts common to them both, are, a Sten or Trunk, Leaves, Flowers, Fruit and Roots in all which there is a great analogy: thus th Trunk contains much Earth, Salt, Rofin o Pitch, and but little Water; all of them grofs The Leaves hold the fame; only in these the 
 
 are more fubtile: and the Seed, which is th genuine Fruit, abounds in Oil and a very fub tile Earth. By means of this Divifion we may learn what to expect, (1.) From vegetable Juices; which are either expreffed from the Leaves, or drawn out of the Trunk, before they had come into the Leaves.
 
 (2.) From Woods; as thefe are pieces of the Trunk, (3.) From Roots; as thefe are the fubterraneous part of the Trunk. (4.) From Seeds; as these contain the most fubtile part of the Vegetable; and being diftinguifh'd from what is commonly called the Fruit, as the Fatus is from the Se- cundines, and the Liquors they contain. (5.) And Ĉ 2
-laftly,
+lastly,
 
-laftly, from Barks; which are the more refi- nous part of the Trunk.
+lastly, from Barks; which are the more refi- nous part of the Trunk.
 
 40. Rofins and Gums are preternatural and vi- olent productions of Vegetables; being as it were the elementary part thereof intercepted in its motion.
+
 Wine, Tartar, and Sugar (which is a fpecies of Tartar) are rather artificial Preparations, by combination: but Manna and Honey are ob- tain'd by both these ways; tho' Manna rather by the former, and Honey rather by the latter.
 
-41. Animals appear to differ widely from Mi- nerals; all their Aloms being certain Compounds of various kinds of Mixts, variously alter'd, and combined into a specific Aggregate. But the fuppofed chemical Principles are here found loofer than in other bodies, from the neceffary attenua- tion the Elements undergo in them; the Prepara- tions they afford being very volatile, and reduci- ble to the two moft active Principles, viz. the fecond and third, under the form of Oil and vola- tile Salt: the terrestrial beavy part fubfiding to the bottom, and proving of a calcarious, rather than a vitrefcible nature; from a certain faline fubftance that is intimately burnt into it.
-j- 42. We are to obferve that fome of thefe Principles are found more copiously in fome parts of Animals than in others. They are the most grofs in the coarfe and folid parts, if taken in that form; but thinner and more abundant in the finer; which then contain the greatest quan- tity of all, when they are refolved by putrefac- tion, and treated by a combining operation. 43. The groffer parts are, (1.) Bones, Hor and Hoofs. (2.) The next in order
+41. Animals appear to differ widely from Mi- nerals; all their Aloms being certain Compounds of various kinds of Mixts, variously alter'd, and combined into a specific Aggregate.
+
+But the fuppofed chemical Principles are here found loofer than in other bodies, from the neceffary attenua- tion the Elements undergo in them; the Prepara- tions they afford being very volatile, and reduci- ble to the two moft active Principles, viz. the fecond and third, under the form of Oil and vola- tile Salt: the terrestrial beavy part fubfiding to the bottom, and proving of a calcarious, rather than a vitrefcible nature; from a certain faline fubftance that is intimately burnt into it.
+j- 
+
+42. We are to obferve that fome of thefe Principles are found more copiously in fome parts of Animals than in others. They are the most grofs in the coarfe and folid parts, if taken in that form; but thinner and more abundant in the finer; which then contain the greatest quan- tity of all, when they are refolved by putrefac- tion, and treated by a combining operation.
+
+43. The groffer parts are, (1.) Bones, Hor and Hoofs. (2.) The next in order
 
 
 

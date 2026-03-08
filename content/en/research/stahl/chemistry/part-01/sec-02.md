@@ -1,23 +1,27 @@
 ---
 heading: Section 2
-title: "The OBJECT of CHEMISTRY under the Notion of DESTRUCTION or RESOLUTION."
+title: "The Object Of Chemistry Under The Notion Of Destruction Or Resolution."
 # description: "The 12th Planet by Stitchin"
-c: "firebrick"
-weight: 4
+c: "darkgoldenrod"
+weight: 7
 # date: 2022-04-12
 ---
 
 
-The Object of Chemistry was De- struction or Refolution, and Genera-, tion or Combination. By Deftruction or Refolution, Mixts and Compounds are refolved into their con- ftituent parts, and Aggregates into their integrant parts. The firft Operation, for diftinction fake, may be called Refolution, and the other Diffolu
-tion.
-2. The Productions of Diffolution have their di- ftinct and proper appellations, according to the various forms it induces. Thus when Bodies, e- fpecially thofe of the metalline kind, are grofly diffolved, we have them in the form of little Grains; when finer, and not round, in that of Filings; and when ftill finer, in the form of Pow- ders to which Metals are reduced by the means of Fire. If a volatile Powder be thus obtain'd by Sublimation, 'tis called Flowers; but if it be fixed and
+The Object of Chemistry was Destruction or Refolution, and Generation or Combination.
+
+By Destruction or Resolution, Mixeds and Compounds are refolved into their constituent parts, and Aggregates into their integrant parts. The firft Operation, for diftinction fake, may be called Refolution, and the other Dissolution.
+
+2. The Productions of Diffolution have their distinct and proper appellations, according to the various forms it induces. 
+
+Thus when Bodies, especially thofe of the metalline kind, are grofly diffolved, we have them in the form of little Grains; when finer, and not round, in that of Filings; and when ftill finer, in the form of Pow- ders to which Metals are reduced by the means of Fire. 
+
+If a volatile Powder be thus obtain'd by Sublimation, 'tis called Flowers; but if it be fixed and and obtain'd by Calcination, 'tis term'd a Calx: tho' dry Powders, made by Corrofion in the cold, and precipitated out of the Menftruum, are alfo called Calces; as that prepared by fufion, with corrofives, or by cementation, is called a Cro- cus. The metallic Sediment, obtained by the ftamping and wafhing of Ores, is called in the 1 language of Metallurgifts, Slud. And thus much for bodies of a folid form.
 
 
+3. In a fluid one comes
 
-and obtain'd by Calcination, 'tis term'd a Calx: tho' dry Powders, made by Corrofion in the cold, and precipitated out of the Menftruum, are alfo called Calces; as that prepared by fufion, with corrofives, or by cementation, is called a Cro- cus. The metallic Sediment, obtained by the ftamping and wafhing of Ores, is called in the 1 language of Metallurgifts, Slud. And thus much for bodies of a folid form.
-
-
-3. In a fluid one comes (1.) The liquifaction of Salts in common Water; but if the liquifaction proceed gradually, by the affiftance of the moist Air, it makes Oils per deliquium, as they are cal- led; in all which fome certain portion of the Salt is diffolved into its fmalleft and almost in- divifible parts, by the means of Water. 
+(1.) The liquifaction of Salts in common Water; but if the liquifaction proceed gradually, by the affiftance of the moist Air, it makes Oils per deliquium, as they are cal- led; in all which fome certain portion of the Salt is diffolved into its fmalleft and almost in- divifible parts, by the means of Water. 
 
 2.) The fame thing happens in the Sot. tions made by A- qua fortis, or corrofive, faline Spirits; whence Metals are diffolved into fuch fmill particles, as to become entirely pellucid with Water. 
 
@@ -193,6 +197,7 @@ The Operation is perform'd in a veffel made of fine Athes, which drinks in many 
 
 
 53. The Separating-Glass and the Filtre have likewife fome fhare in the feparation of Com pounds; fo far as to keep afunder fuch confufed bodies as are fometimes more, and fometimes lefs difpofed to unite,
+
 But when thefe are more intimately com- bined together, they require fome particular Operations to fet them afunder: Thus the Oil and Water that compofe inflammable Spirits, are fuperficially feparated by Tartarifation, but more accurately by Digeftion, either per fe, or with Oil of Vitriol,
 So likewife Oils, express'd from mucilaginous Bodies, are dephlegm'd by Tartarifation; or by Coction, which evaporates their aqueous humidity
 

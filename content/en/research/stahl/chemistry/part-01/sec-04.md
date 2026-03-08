@@ -1,13 +1,11 @@
 ---
 heading: Section 4
-title: "The COMMON INSTRUMENTS of CHEMICAL OPERATIONS"
+title: "The Common Instruments Of Chemical Operations"
 # description: "The 12th Planet by Stitchin"
-c: "firebrick"
-weight: 4
+c: "darkgoldenrod"
+weight: 14
 # date: 2022-04-12
 ---
-
-
 
 
 
@@ -100,9 +98,9 @@ Heat be applied to the bottom of the veffel that im- mediately contains the Wate
 come a new Water.
 
 
-The manner of action here appears from the phænomena to be as follows. The Fire. or Heat, that is, a multitude of fmall particles in actual motion, move and impel the small con- ftituent particles of the folid veffel; which be- ing thus impell'd, agitate the particles of the contain'd liquor; and thefe again impel the air contain'd in the veffel, and being alfo rubb'd together by their own inteftine motion, they increase the motion of the contain❜d Air, which being now agitated in its finalleft parts, with a fluctuating motion drives off the aqueous parts in great numbers, or carries them about with itfelf, till at length ftriking against the upper part of the veffel, which is colder, and has its fmall parts actually lefs moved, they here amafs and again collect into aqueous Aggregates or Drops.
+The manner of action here appears from the phænomena to be as follows. The Fire. or Heat, that is, a multitude of fmall particles in actual motion, move and impel the small constituent particles of the folid vessel; which being thus impell'd, agitate the particles of the contain'd liquor.
+
+These again impel the air contained in the veffel, and being also rubbed together by their own inteftine motion, they increase the motion of the contain❜d Air, which being now agitated in its finalleft parts, with a fluctuating motion drives off the aqueous parts in great numbers, or carries them about with itfelf, till at length ftriking against the upper part of the veffel, which is colder, and has its fmall parts actually lefs moved, they here amafs and again collect into aqueous Aggregates or Drops.
+
 
 9. We are here to obferve a remarkable Confe- quence of this Operation, viz. that fimple Water may by its means, or by repeated diftillation, be brought to fuch a great tenuity, by the attrition of its fmalleft particles, as thence to become not only much more volatile or moveable, but even fo fubtile as infenfibly to pass thro' the fubftance of the containing Glafs, as it were by tranfpiration; which we find confirm'd by the teftimony of very credi- ble authors. And Gremfius afferts, that by the bare
-
-
-
