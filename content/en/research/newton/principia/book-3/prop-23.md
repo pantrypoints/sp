@@ -7,7 +7,7 @@ c: "firebrick"
 ---
 
 
-## PROPOSITION 23. PROBLEM 5: Derive the unequal motions of the satellites of Jupiter and Saturn from the motions of our moon.
+## Proposition 23. Problem 5: Derive the unequal motions of the satellites of Jupiter and Saturn from the motions of our moon.
 
 From the motions of our moon we deduce the corresponding motions of the moons or satellites of Jupiter in this manner, by Cor. 16, Prop. LXVI, Book I.
 
@@ -22,6 +22,3 @@ But the motions of the apsides thus found must be diminished in the proportion o
 The greatest equations of the nodes, and of the apsis of every satellite, are to the greatest equations of the nodes, and apogee of our moon respectively, as the motions of the nodes and apsides of the satellites, in the time of one revolution of the former equations, to the motions of the nodes and apogee of our moon, in the time of one revolution of the latter equations. 
 
 The variation of a satellite seen from Jupiter is to the variation of our moon in the same proportion as the whole motions of their nodes respectively during the times in which the satellite and our moon (after parting from) are revolved (again) to the sun, by the same Corollary; and therefore in the outmost satellite the variation does not exceed 5″ 12‴.
-
-
-

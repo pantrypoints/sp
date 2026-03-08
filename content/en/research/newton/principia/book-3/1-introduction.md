@@ -5,6 +5,9 @@ description: "Book 1 laid down the principles of mathematical philosophy. This w
 c: "firebrick"
 icon: "Newton"
 weight: 4
+writer:
+  name: Isaac Newton
+  url: https://en.wikipedia.org/wiki/Isaac_Newton
 ---
 
 
